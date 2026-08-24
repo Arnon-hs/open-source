@@ -1,6 +1,6 @@
 # CoderLuii/HolyClaude
 
-[![Stars](https://img.shields.io/github/stars/CoderLuii/HolyClaude?style=flat-square&color=yellow)](https://github.com/CoderLuii/HolyClaude/stargazers) [![Forks](https://img.shields.io/github/forks/CoderLuii/HolyClaude?style=flat-square&color=blue)](https://github.com/CoderLuii/HolyClaude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CoderLuii/HolyClaude?style=flat-square&color=yellow)](https://github.com/CoderLuii/HolyClaude/stargazers) [![Forks](https://img.shields.io/github/forks/CoderLuii/HolyClaude?style=flat-square&color=blue)](https://github.com/CoderLuii/HolyClaude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · DevOps/Infra
+AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ HolyClaude 的生产可用性很高，因为它有强烈的采用和生态系统
 | forks | 60/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # antonmedv/fx
 
-[![Stars](https://img.shields.io/github/stars/antonmedv/fx?style=flat-square&color=yellow)](https://github.com/antonmedv/fx/stargazers) [![Forks](https://img.shields.io/github/forks/antonmedv/fx?style=flat-square&color=blue)](https://github.com/antonmedv/fx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antonmedv/fx?style=flat-square&color=yellow)](https://github.com/antonmedv/fx/stargazers) [![Forks](https://img.shields.io/github/forks/antonmedv/fx?style=flat-square&color=blue)](https://github.com/antonmedv/fx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal JSON viewer & processor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.5k |
 | 🍴 **Forks** | 481 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ antonmedv/fx：antonmedv/fx helps ship user-facing interfaces with less custom U
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 85/100 |
 | stars | 92/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

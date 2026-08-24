@@ -1,6 +1,6 @@
 # agentscope-ai/ReMe
 
-[![Stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square&color=yellow)](https://github.com/agentscope-ai/ReMe/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/ReMe?style=flat-square&color=blue)](https://github.com/agentscope-ai/ReMe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square&color=yellow)](https://github.com/agentscope-ai/ReMe/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/ReMe?style=flat-square&color=blue)](https://github.com/agentscope-ai/ReMe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ agentscope-ai/ReMe：agentscope-ai/ReMe helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 70/100 |
 | stars | 74/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # baserow/baserow
 
-[![Stars](https://img.shields.io/github/stars/baserow/baserow?style=flat-square&color=yellow)](https://github.com/baserow/baserow/stargazers) [![Forks](https://img.shields.io/github/forks/baserow/baserow?style=flat-square&color=blue)](https://github.com/baserow/baserow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/baserow/baserow?style=flat-square&color=yellow)](https://github.com/baserow/baserow/stargazers) [![Forks](https://img.shields.io/github/forks/baserow/baserow?style=flat-square&color=blue)](https://github.com/baserow/baserow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 587 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ baserow/baserow：baserow/baserow helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 66/100 |
 | adoption | 76/100 |
 | stars | 78/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Open-ACP/OpenACP
 
-[![Stars](https://img.shields.io/github/stars/Open-ACP/OpenACP?style=flat-square&color=yellow)](https://github.com/Open-ACP/OpenACP/stargazers) [![Forks](https://img.shields.io/github/forks/Open-ACP/OpenACP?style=flat-square&color=blue)](https://github.com/Open-ACP/OpenACP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-ACP/OpenACP?style=flat-square&color=yellow)](https://github.com/Open-ACP/OpenACP/stargazers) [![Forks](https://img.shields.io/github/forks/Open-ACP/OpenACP?style=flat-square&color=blue)](https://github.com/Open-ACP/OpenACP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted bridge that lets you interact with AI coding agents (Claude Code, Codex, etc.) from messaging platforms (Telegram, Discord, etc.) via the Agent Client Protocol (ACP).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Open-ACP/OpenACP：Open-ACP/OpenACP helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 67/100 |
-| adoption | 50/100 |
-| stars | 54/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

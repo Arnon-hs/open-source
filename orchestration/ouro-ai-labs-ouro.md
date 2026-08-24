@@ -1,6 +1,6 @@
 # ouro-ai-labs/ouro
 
-[![Stars](https://img.shields.io/github/stars/ouro-ai-labs/ouro?style=flat-square&color=yellow)](https://github.com/ouro-ai-labs/ouro/stargazers) [![Forks](https://img.shields.io/github/forks/ouro-ai-labs/ouro?style=flat-square&color=blue)](https://github.com/ouro-ai-labs/ouro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ouro-ai-labs/ouro?style=flat-square&color=yellow)](https://github.com/ouro-ai-labs/ouro/stargazers) [![Forks](https://img.shields.io/github/forks/ouro-ai-labs/ouro?style=flat-square&color=blue)](https://github.com/ouro-ai-labs/ouro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Ouro is an open-source AI agent — run it as a Coding agent CLI or deploy it as a bot just like JARVIS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Ouro 是一个开源 AI 代理，既可以以命令行工具的形式作为编�
 | forks | 23/100 |
 | stars | 34/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 31/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

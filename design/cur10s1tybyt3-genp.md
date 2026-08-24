@@ -1,0 +1,80 @@
+# Cur10s1tyByt3/GenP
+
+[![Stars](https://img.shields.io/github/stars/Cur10s1tyByt3/GenP?style=flat-square&color=yellow)](https://github.com/Cur10s1tyByt3/GenP/stargazers) [![Forks](https://img.shields.io/github/forks/Cur10s1tyByt3/GenP?style=flat-square&color=blue)](https://github.com/Cur10s1tyByt3/GenP/network) [![Language](https://img.shields.io/badge/lang-AutoIt-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> This repository preserves source materials and related documentation about GenP. For archival and research purposes only.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.2k |
+| 🍴 **Forks** | 109 |
+| 💻 **Language** | AutoIt |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`adobe` `animation` `archive` `autoit3` `canvas` `chinese-translation` `code` `cybersecurity` `design` `education` `genp` `infosec`
+
+## 🎯 Categories
+
+Design
+
+## 📝 Summary
+
+### English
+
+Cur10s1tyByt3/GenP is an open‑source archive that collects all source code, documentation, and related artifacts for the GenP project. Its primary purpose is to preserve these materials for long‑term archival and research, offering a centralized reference for security analysts, designers, and historians interested in the project's design and implementation.
+
+### Русский
+
+Cur10s1tyByt3/GenP — архивный репозиторий, в котором собраны исходные материалы и сопутствующая документация проекта GenP. Он предназначен исключительно для сохранения информации, её исследования и анализа в области безопасности и дизайна, без активной разработки или поддержки.
+
+### 中文
+
+Cur10s1tyByt3/GenP：Cur10s1tyByt3/GenP may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** Cur10s1tyByt3/GenP may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1243 GitHub stars
+- 109 forks
+- updated 2026-05-09
+- primary language: AutoIt
+- 19 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 51/100 |
+| stars | 66/100 |
+| topics | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Cur10s1tyByt3/GenP) · [← Back to Design](./README.md)</sub>

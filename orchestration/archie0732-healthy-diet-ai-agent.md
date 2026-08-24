@@ -1,6 +1,6 @@
 # archie0732/healthy-diet-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/archie0732/healthy-diet-ai-agent?style=flat-square&color=yellow)](https://github.com/archie0732/healthy-diet-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/archie0732/healthy-diet-ai-agent?style=flat-square&color=blue)](https://github.com/archie0732/healthy-diet-ai-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/archie0732/healthy-diet-ai-agent?style=flat-square&color=yellow)](https://github.com/archie0732/healthy-diet-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/archie0732/healthy-diet-ai-agent?style=flat-square&color=blue)](https://github.com/archie0732/healthy-diet-ai-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > An Express + LangGraph + LangChain + Supabase backend for a diet and nutrition assistant. The project focuses on food-image analysis, nutrition guidance, knowledge-grounded answers, user profile updates with approval flow, and admin-managed knowledge ingestion.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend · Backend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ arch​ie0732/healthy‑diet‑ai‑agent 是一个基于 **Express、LangGraph�
 | forks | 0/100 |
 | stars | 38/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

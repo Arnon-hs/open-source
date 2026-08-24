@@ -1,6 +1,6 @@
 # paritytech/litep2p
 
-[![Stars](https://img.shields.io/github/stars/paritytech/litep2p?style=flat-square&color=yellow)](https://github.com/paritytech/litep2p/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/litep2p?style=flat-square&color=blue)](https://github.com/paritytech/litep2p/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paritytech/litep2p?style=flat-square&color=yellow)](https://github.com/paritytech/litep2p/stargazers) [![Forks](https://img.shields.io/github/forks/paritytech/litep2p?style=flat-square&color=blue)](https://github.com/paritytech/litep2p/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Peer-to-peer networking library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 157 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,14 +131,15 @@ The production readiness of paritytech/litep2p is medium. While it may be suitab
 | forks | 39/100 |
 | stars | 47/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

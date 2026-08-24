@@ -1,6 +1,6 @@
 # martinrotter/rssguard
 
-[![Stars](https://img.shields.io/github/stars/martinrotter/rssguard?style=flat-square&color=yellow)](https://github.com/martinrotter/rssguard/stargazers) [![Forks](https://img.shields.io/github/forks/martinrotter/rssguard?style=flat-square&color=blue)](https://github.com/martinrotter/rssguard/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martinrotter/rssguard?style=flat-square&color=yellow)](https://github.com/martinrotter/rssguard/stargazers) [![Forks](https://img.shields.io/github/forks/martinrotter/rssguard?style=flat-square&color=blue)](https://github.com/martinrotter/rssguard/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ martinrotter/rssguard：martinrotter/rssguard helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 68/100 |
 | stars | 73/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

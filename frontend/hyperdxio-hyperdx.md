@@ -1,6 +1,6 @@
 # hyperdxio/hyperdx
 
-[![Stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=flat-square&color=yellow)](https://github.com/hyperdxio/hyperdx/stargazers) [![Forks](https://img.shields.io/github/forks/hyperdxio/hyperdx?style=flat-square&color=blue)](https://github.com/hyperdxio/hyperdx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=flat-square&color=yellow)](https://github.com/hyperdxio/hyperdx/stargazers) [![Forks](https://img.shields.io/github/forks/hyperdxio/hyperdx?style=flat-square&color=blue)](https://github.com/hyperdxio/hyperdx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.5k |
 | 🍴 **Forks** | 394 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Data
+Frontend · Data · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ hyperdxio/hyperdx: hyperdxio/hyperdx helps ship user-facing interfaces with less
 
 ### Русский
 
-hyperdxio/hyperdx: open-source проект в категориях Frontend, DevTools, Data. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+hyperdxio/hyperdx: open-source проект в категориях Frontend, Data, Observability, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ hyperdxio/hyperdx：hyperdxio/hyperdx helps ship user-facing interfaces with les
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 76/100 |
-| integration | 78/100 |
-| production | 65/100 |
-| outlook | 74/100 |
-| adoption | 79/100 |
-| stars | 85/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # exograph/exograph
 
-[![Stars](https://img.shields.io/github/stars/exograph/exograph?style=flat-square&color=yellow)](https://github.com/exograph/exograph/stargazers) [![Forks](https://img.shields.io/github/forks/exograph/exograph?style=flat-square&color=blue)](https://github.com/exograph/exograph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/exograph/exograph?style=flat-square&color=yellow)](https://github.com/exograph/exograph/stargazers) [![Forks](https://img.shields.io/github/forks/exograph/exograph?style=flat-square&color=blue)](https://github.com/exograph/exograph/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Build production-ready backends in minutes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ exograph/exograph：exograph/exograph helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 94/100 |
-| production | 62/100 |
-| outlook | 61/100 |
+| production | 56/100 |
+| outlook | 54/100 |
 | adoption | 48/100 |
 | stars | 54/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # apache/auron
 
-[![Stars](https://img.shields.io/github/stars/apache/auron?style=flat-square&color=yellow)](https://github.com/apache/auron/stargazers) [![Forks](https://img.shields.io/github/forks/apache/auron?style=flat-square&color=blue)](https://github.com/apache/auron/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/auron?style=flat-square&color=yellow)](https://github.com/apache/auron/stargazers) [![Forks](https://img.shields.io/github/forks/apache/auron?style=flat-square&color=blue)](https://github.com/apache/auron/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 217 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Auron is an open‑source accelerator designed to boost the performance of distr
 
 ### 中文
 
-apache/auron：apache/auron helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apache/auron：apache/auron helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ apache/auron：apache/auron helps add AI capability without starting from a blan
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ apache/auron：apache/auron helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 62/100 |
+| production | 47/100 |
+| outlook | 55/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

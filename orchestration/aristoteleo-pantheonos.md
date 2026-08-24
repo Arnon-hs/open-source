@@ -1,6 +1,6 @@
 # aristoteleo/PantheonOS
 
-[![Stars](https://img.shields.io/github/stars/aristoteleo/PantheonOS?style=flat-square&color=yellow)](https://github.com/aristoteleo/PantheonOS/stargazers) [![Forks](https://img.shields.io/github/forks/aristoteleo/PantheonOS?style=flat-square&color=blue)](https://github.com/aristoteleo/PantheonOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aristoteleo/PantheonOS?style=flat-square&color=yellow)](https://github.com/aristoteleo/PantheonOS/stargazers) [![Forks](https://img.shields.io/github/forks/aristoteleo/PantheonOS?style=flat-square&color=blue)](https://github.com/aristoteleo/PantheonOS/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A general, evolvable, and distributed agent framework & harness for data science.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 418 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PantheonOS is an open‑source, modular framework that lets developers build, or
 
 ### 中文
 
-aristoteleo/PantheonOS：aristoteleo/PantheonOS helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+aristoteleo/PantheonOS：aristoteleo/PantheonOS helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aristoteleo/PantheonOS：aristoteleo/PantheonOS helps turn isolated prompts and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ aristoteleo/PantheonOS：aristoteleo/PantheonOS helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 53/100 |
-| stars | 56/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

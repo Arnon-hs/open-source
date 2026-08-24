@@ -1,6 +1,6 @@
 # getreu/tp-note
 
-[![Stars](https://img.shields.io/github/stars/getreu/tp-note?style=flat-square&color=yellow)](https://github.com/getreu/tp-note/stargazers) [![Forks](https://img.shields.io/github/forks/getreu/tp-note?style=flat-square&color=blue)](https://github.com/getreu/tp-note/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getreu/tp-note?style=flat-square&color=yellow)](https://github.com/getreu/tp-note/stargazers) [![Forks](https://img.shields.io/github/forks/getreu/tp-note?style=flat-square&color=blue)](https://github.com/getreu/tp-note/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Minimalistic note taking: save and edit your clipboard content as a note file (Gitlab mirror)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A lightweight utility that lets you capture the current clipboard contents and s
 
 ### 中文
 
-getreu/tp-note：getreu/tp-note helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+getreu/tp-note：getreu/tp-note helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ getreu/tp-note：getreu/tp-note helps engineers save time in daily development a
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ getreu/tp-note：getreu/tp-note helps engineers save time in daily development a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
+| usefulness | 74/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 39/100 |
 | stars | 46/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # gnu4cn/ccna60d
 
-[![Stars](https://img.shields.io/github/stars/gnu4cn/ccna60d?style=flat-square&color=yellow)](https://github.com/gnu4cn/ccna60d/stargazers) [![Forks](https://img.shields.io/github/forks/gnu4cn/ccna60d?style=flat-square&color=blue)](https://github.com/gnu4cn/ccna60d/network) [![Language](https://img.shields.io/badge/lang-Handlebars-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gnu4cn/ccna60d?style=flat-square&color=yellow)](https://github.com/gnu4cn/ccna60d/stargazers) [![Forks](https://img.shields.io/github/forks/gnu4cn/ccna60d?style=flat-square&color=blue)](https://github.com/gnu4cn/ccna60d/network) [![Language](https://img.shields.io/badge/lang-Handlebars-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 60天通过思科认证的网络工程师考试
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 484 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Handlebars |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **gnu4cn/ccna60d** repository provides a concise, 60‑day study plan and ac
 
 ### 中文
 
-gnu4cn/ccna60d：gnu4cn/ccna60d may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gnu4cn/ccna60d：gnu4cn/ccna60d may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ gnu4cn/ccna60d：gnu4cn/ccna60d may be useful when its README and activity match
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ gnu4cn/ccna60d：gnu4cn/ccna60d may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 55/100 |
-| stars | 57/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

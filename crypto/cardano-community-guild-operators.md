@@ -1,6 +1,6 @@
 # cardano-community/guild-operators
 
-[![Stars](https://img.shields.io/github/stars/cardano-community/guild-operators?style=flat-square&color=yellow)](https://github.com/cardano-community/guild-operators/stargazers) [![Forks](https://img.shields.io/github/forks/cardano-community/guild-operators?style=flat-square&color=blue)](https://github.com/cardano-community/guild-operators/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cardano-community/guild-operators?style=flat-square&color=yellow)](https://github.com/cardano-community/guild-operators/stargazers) [![Forks](https://img.shields.io/github/forks/cardano-community/guild-operators?style=flat-square&color=blue)](https://github.com/cardano-community/guild-operators/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Artifacts and scripts created by Guild operators
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend · DevTools · Mobile
+Crypto
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ cardano-community/guild-operators 的生产可用性为中等（Medium），适�
 | forks | 56/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

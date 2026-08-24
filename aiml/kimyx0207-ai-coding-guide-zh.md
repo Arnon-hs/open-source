@@ -1,6 +1,6 @@
 # KimYx0207/AI-Coding-Guide-Zh
 
-[![Stars](https://img.shields.io/github/stars/KimYx0207/AI-Coding-Guide-Zh?style=flat-square&color=yellow)](https://github.com/KimYx0207/AI-Coding-Guide-Zh/stargazers) [![Forks](https://img.shields.io/github/forks/KimYx0207/AI-Coding-Guide-Zh?style=flat-square&color=blue)](https://github.com/KimYx0207/AI-Coding-Guide-Zh/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KimYx0207/AI-Coding-Guide-Zh?style=flat-square&color=yellow)](https://github.com/KimYx0207/AI-Coding-Guide-Zh/stargazers) [![Forks](https://img.shields.io/github/forks/KimYx0207/AI-Coding-Guide-Zh?style=flat-square&color=blue)](https://github.com/KimYx0207/AI-Coding-Guide-Zh/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code + OpenClaw + Codex 中文教程 | 36篇完整教程 | 18万字 | 三线学习路径 | 小白到企业实战
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 705 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ KimYx0207/AI-Coding-Guide-Zh：KimYx0207/AI-Coding-Guide-Zh helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 75/100 |
-| stars | 76/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

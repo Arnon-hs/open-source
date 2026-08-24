@@ -1,6 +1,6 @@
 # KorroAi/drunk-claude
 
-[![Stars](https://img.shields.io/github/stars/KorroAi/drunk-claude?style=flat-square&color=yellow)](https://github.com/KorroAi/drunk-claude/stargazers) [![Forks](https://img.shields.io/github/forks/KorroAi/drunk-claude?style=flat-square&color=blue)](https://github.com/KorroAi/drunk-claude/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KorroAi/drunk-claude?style=flat-square&color=yellow)](https://github.com/KorroAi/drunk-claude/stargazers) [![Forks](https://img.shields.io/github/forks/KorroAi/drunk-claude?style=flat-square&color=blue)](https://github.com/KorroAi/drunk-claude/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Intensity slider from tipsy (0.1) to blackout (1.0). 5 moods, 8 creative techniques. Lowers inhibition, not intelligence. Unfiltered genius for Claude Code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ KorroAi/drunk‑claude 提供了一个“醉度”滑块（0.1 ~ 1.0）和 5
 | forks | 25/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

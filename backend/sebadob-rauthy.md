@@ -1,6 +1,6 @@
 # sebadob/rauthy
 
-[![Stars](https://img.shields.io/github/stars/sebadob/rauthy?style=flat-square&color=yellow)](https://github.com/sebadob/rauthy/stargazers) [![Forks](https://img.shields.io/github/forks/sebadob/rauthy?style=flat-square&color=blue)](https://github.com/sebadob/rauthy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sebadob/rauthy?style=flat-square&color=yellow)](https://github.com/sebadob/rauthy/stargazers) [![Forks](https://img.shields.io/github/forks/sebadob/rauthy?style=flat-square&color=blue)](https://github.com/sebadob/rauthy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2.0 and PAM
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Security
+Backend
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ sebadob/rauthy is an open‑source backend service that provides centralized Sin
 
 ### 中文
 
-sebadob/rauthy：sebadob/rauthy helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sebadob/rauthy：sebadob/rauthy helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sebadob/rauthy：sebadob/rauthy helps teams reuse service infrastructure instead
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ sebadob/rauthy：sebadob/rauthy helps teams reuse service infrastructure instead
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 58/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

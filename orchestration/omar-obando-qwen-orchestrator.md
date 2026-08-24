@@ -1,6 +1,6 @@
 # Omar-Obando/qwen-orchestrator
 
-[![Stars](https://img.shields.io/github/stars/Omar-Obando/qwen-orchestrator?style=flat-square&color=yellow)](https://github.com/Omar-Obando/qwen-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Omar-Obando/qwen-orchestrator?style=flat-square&color=blue)](https://github.com/Omar-Obando/qwen-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Omar-Obando/qwen-orchestrator?style=flat-square&color=yellow)](https://github.com/Omar-Obando/qwen-orchestrator/stargazers) [![Forks](https://img.shields.io/github/forks/Omar-Obando/qwen-orchestrator?style=flat-square&color=blue)](https://github.com/Omar-Obando/qwen-orchestrator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Multi-agent orchestration for Qwen Code CLI. 24 specialized AI agents and 82+ skills working as a professional dev department. Built for Alibaba's open-source AI coding assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Omar-Obando/qwen-orchestrator 是面向 Qwen Code CLI 的多代理编排框架�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

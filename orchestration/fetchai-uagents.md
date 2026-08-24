@@ -1,6 +1,6 @@
 # fetchai/uAgents
 
-[![Stars](https://img.shields.io/github/stars/fetchai/uAgents?style=flat-square&color=yellow)](https://github.com/fetchai/uAgents/stargazers) [![Forks](https://img.shields.io/github/forks/fetchai/uAgents?style=flat-square&color=blue)](https://github.com/fetchai/uAgents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fetchai/uAgents?style=flat-square&color=yellow)](https://github.com/fetchai/uAgents/stargazers) [![Forks](https://img.shields.io/github/forks/fetchai/uAgents?style=flat-square&color=blue)](https://github.com/fetchai/uAgents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A fast and lightweight framework for creating decentralized agents with ease.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 348 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ fetchai/uAgents 是一个轻量且高速的框架，帮助开发者轻松构建�
 | forks | 64/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

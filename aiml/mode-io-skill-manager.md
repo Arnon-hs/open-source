@@ -1,6 +1,6 @@
 # mode-io/skill-manager
 
-[![Stars](https://img.shields.io/github/stars/mode-io/skill-manager?style=flat-square&color=yellow)](https://github.com/mode-io/skill-manager/stargazers) [![Forks](https://img.shields.io/github/forks/mode-io/skill-manager?style=flat-square&color=blue)](https://github.com/mode-io/skill-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mode-io/skill-manager?style=flat-square&color=yellow)](https://github.com/mode-io/skill-manager/stargazers) [![Forks](https://img.shields.io/github/forks/mode-io/skill-manager?style=flat-square&color=blue)](https://github.com/mode-io/skill-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Manage skills across Codex CLI, Claude Code, Cursor, OpenCode, and OpenClaw from one local app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ mode-io/skill-manager 的价值在于，它能够帮助开发者快速添加 AI 
 | forks | 25/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

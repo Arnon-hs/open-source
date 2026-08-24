@@ -1,6 +1,6 @@
 # avibe-bot/avibe
 
-[![Stars](https://img.shields.io/github/stars/avibe-bot/avibe?style=flat-square&color=yellow)](https://github.com/avibe-bot/avibe/stargazers) [![Forks](https://img.shields.io/github/forks/avibe-bot/avibe?style=flat-square&color=blue)](https://github.com/avibe-bot/avibe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avibe-bot/avibe?style=flat-square&color=yellow)](https://github.com/avibe-bot/avibe/stargazers) [![Forks](https://img.shields.io/github/forks/avibe-bot/avibe?style=flat-square&color=blue)](https://github.com/avibe-bot/avibe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The local-first Agent OS — your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode from your browser or any chat app.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ avibe‑bot/avibe 是一款本地优先的 Agent 操作系统，让 AI 助手（
 | forks | 46/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

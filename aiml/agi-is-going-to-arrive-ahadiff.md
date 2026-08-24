@@ -1,6 +1,6 @@
 # AGI-is-going-to-arrive/ahadiff
 
-[![Stars](https://img.shields.io/github/stars/AGI-is-going-to-arrive/ahadiff?style=flat-square&color=yellow)](https://github.com/AGI-is-going-to-arrive/ahadiff/stargazers) [![Forks](https://img.shields.io/github/forks/AGI-is-going-to-arrive/ahadiff?style=flat-square&color=blue)](https://github.com/AGI-is-going-to-arrive/ahadiff/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AGI-is-going-to-arrive/ahadiff?style=flat-square&color=yellow)](https://github.com/AGI-is-going-to-arrive/ahadiff/stargazers) [![Forks](https://img.shields.io/github/forks/AGI-is-going-to-arrive/ahadiff?style=flat-square&color=blue)](https://github.com/AGI-is-going-to-arrive/ahadiff/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Learn from your vibe coding instead of just clicking Accept. AhaDiff turns each AI diff into a code-verified lesson, quiz, and review. · 别再无脑 vibe coding 啦！让你从 vibe coding 中学到真东西。每次改动都变成能查证的课程、测验和复习。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Education
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ AhaDiff 将每一次 AI 生成的代码差异（diff）自动转化为可验证�
 | forks | 32/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

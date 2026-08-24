@@ -1,6 +1,6 @@
 # unicodeveloper/globalthreatmap
 
-[![Stars](https://img.shields.io/github/stars/unicodeveloper/globalthreatmap?style=flat-square&color=yellow)](https://github.com/unicodeveloper/globalthreatmap/stargazers) [![Forks](https://img.shields.io/github/forks/unicodeveloper/globalthreatmap?style=flat-square&color=blue)](https://github.com/unicodeveloper/globalthreatmap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unicodeveloper/globalthreatmap?style=flat-square&color=yellow)](https://github.com/unicodeveloper/globalthreatmap/stargazers) [![Forks](https://img.shields.io/github/forks/unicodeveloper/globalthreatmap?style=flat-square&color=blue)](https://github.com/unicodeveloper/globalthreatmap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Global threat map. Learn wars, conflicts, military bases and history of nations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 278 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ unicodeveloper/globalthreatmap 的生产可用性较高，主要原因是：
 | forks | 61/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

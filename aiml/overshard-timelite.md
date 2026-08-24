@@ -1,6 +1,6 @@
 # overshard/timelite
 
-[![Stars](https://img.shields.io/github/stars/overshard/timelite?style=flat-square&color=yellow)](https://github.com/overshard/timelite/stargazers) [![Forks](https://img.shields.io/github/forks/overshard/timelite?style=flat-square&color=blue)](https://github.com/overshard/timelite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/overshard/timelite?style=flat-square&color=yellow)](https://github.com/overshard/timelite/stargazers) [![Forks](https://img.shields.io/github/forks/overshard/timelite?style=flat-square&color=blue)](https://github.com/overshard/timelite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Why is it 5 AM? Isn't there something simple I can use to track what I'm doing with all this time?
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 270 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML · Frontend · Backend
 
 ### 中文
 
-overshard/timelite：overshard/timelite helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+overshard/timelite：overshard/timelite helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ overshard/timelite：overshard/timelite helps add AI capability without starting
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ overshard/timelite：overshard/timelite helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 53/100 |
 | adoption | 46/100 |
 | stars | 52/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

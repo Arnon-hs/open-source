@@ -1,6 +1,6 @@
 # truss44/mcp-crypto-price
 
-[![Stars](https://img.shields.io/github/stars/truss44/mcp-crypto-price?style=flat-square&color=yellow)](https://github.com/truss44/mcp-crypto-price/stargazers) [![Forks](https://img.shields.io/github/forks/truss44/mcp-crypto-price?style=flat-square&color=blue)](https://github.com/truss44/mcp-crypto-price/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/truss44/mcp-crypto-price?style=flat-square&color=yellow)](https://github.com/truss44/mcp-crypto-price/stargazers) [![Forks](https://img.shields.io/github/forks/truss44/mcp-crypto-price?style=flat-square&color=blue)](https://github.com/truss44/mcp-crypto-price/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides real-time cryptocurrency analysis via CoinCap's API. Enables Claude and other MCP clients to fetch crypto prices, analyze market trends, and track historical data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Backend
+Crypto · Trading · MCP · Backend · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ truss44/mcp-crypto-price：truss44/mcp-crypto-price helps prototype or inspect b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
-| integration | 94/100 |
-| production | 59/100 |
-| outlook | 60/100 |
-| adoption | 32/100 |
-| stars | 34/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| stars | 34/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

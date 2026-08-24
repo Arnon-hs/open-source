@@ -1,6 +1,6 @@
 # KevinPayravi/indie-wiki-buddy
 
-[![Stars](https://img.shields.io/github/stars/KevinPayravi/indie-wiki-buddy?style=flat-square&color=yellow)](https://github.com/KevinPayravi/indie-wiki-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/KevinPayravi/indie-wiki-buddy?style=flat-square&color=blue)](https://github.com/KevinPayravi/indie-wiki-buddy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KevinPayravi/indie-wiki-buddy?style=flat-square&color=yellow)](https://github.com/KevinPayravi/indie-wiki-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/KevinPayravi/indie-wiki-buddy?style=flat-square&color=blue)](https://github.com/KevinPayravi/indie-wiki-buddy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Browser extension that automatically notifies and redirects you to independent wikis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 497 |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ KevinPayravi/indie-wiki-buddy 是一款浏览器扩展，能够在用户访问�
 | forks | 54/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Atmosphere/atmosphere
 
-[![Stars](https://img.shields.io/github/stars/Atmosphere/atmosphere?style=flat-square&color=yellow)](https://github.com/Atmosphere/atmosphere/stargazers) [![Forks](https://img.shields.io/github/forks/Atmosphere/atmosphere?style=flat-square&color=blue)](https://github.com/Atmosphere/atmosphere/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Atmosphere/atmosphere?style=flat-square&color=yellow)](https://github.com/Atmosphere/atmosphere/stargazers) [![Forks](https://img.shields.io/github/forks/Atmosphere/atmosphere?style=flat-square&color=blue)](https://github.com/Atmosphere/atmosphere/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, and WebTransport/HTTP3. Talk MCP, A2A and AG-UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 757 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Atmosphere/atmosphere: Atmosphere/atmosphere helps turn isolated prompts and too
 
 ### Русский
 
-Atmosphere/atmosphere: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Atmosphere/atmosphere: open-source проект в категориях Orchestration, MCP, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Atmosphere/atmosphere：Atmosphere/atmosphere helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 68/100 |
-| adoption | 75/100 |
-| stars | 76/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

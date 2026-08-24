@@ -1,6 +1,6 @@
 # adaptyteam/AdaptySDK-iOS
 
-[![Stars](https://img.shields.io/github/stars/adaptyteam/AdaptySDK-iOS?style=flat-square&color=yellow)](https://github.com/adaptyteam/AdaptySDK-iOS/stargazers) [![Forks](https://img.shields.io/github/forks/adaptyteam/AdaptySDK-iOS?style=flat-square&color=blue)](https://github.com/adaptyteam/AdaptySDK-iOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adaptyteam/AdaptySDK-iOS?style=flat-square&color=yellow)](https://github.com/adaptyteam/AdaptySDK-iOS/stargazers) [![Forks](https://img.shields.io/github/forks/adaptyteam/AdaptySDK-iOS?style=flat-square&color=blue)](https://github.com/adaptyteam/AdaptySDK-iOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > SDK for growing mobile in-app purchases
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 475 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · Mobile
+Payments · Mobile
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ adaptyteam/AdaptiSDK‑iOS 是一款基于 Swift 的 iOS SDK，专注于帮助�
 | forks | 43/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

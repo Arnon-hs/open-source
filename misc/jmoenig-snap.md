@@ -1,6 +1,6 @@
 # jmoenig/Snap
 
-[![Stars](https://img.shields.io/github/stars/jmoenig/Snap?style=flat-square&color=yellow)](https://github.com/jmoenig/Snap/stargazers) [![Forks](https://img.shields.io/github/forks/jmoenig/Snap?style=flat-square&color=blue)](https://github.com/jmoenig/Snap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jmoenig/Snap?style=flat-square&color=yellow)](https://github.com/jmoenig/Snap/stargazers) [![Forks](https://img.shields.io/github/forks/jmoenig/Snap?style=flat-square&color=blue)](https://github.com/jmoenig/Snap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > a visual programming language inspired by Scratch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 804 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ jmoenig/Snap：jmoenig/Snap may be useful when its README and activity match a c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 69/100 |
-| stars | 68/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

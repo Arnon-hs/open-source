@@ -1,6 +1,6 @@
 # datahub-project/datahub
 
-[![Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=flat-square&color=yellow)](https://github.com/datahub-project/datahub/stargazers) [![Forks](https://img.shields.io/github/forks/datahub-project/datahub?style=flat-square&color=blue)](https://github.com/datahub-project/datahub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=flat-square&color=yellow)](https://github.com/datahub-project/datahub/stargazers) [![Forks](https://img.shields.io/github/forks/datahub-project/datahub?style=flat-square&color=blue)](https://github.com/datahub-project/datahub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The Context Platform for your Data and AI Stack
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Database · Observability
+AI/ML · Data · Observability
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ DataHub（datahub‑project/datahub）是面向数据与 AI 堆栈的统一上�
 | forks | 89/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
 | adoption | 87/100 |
-| production | 84/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

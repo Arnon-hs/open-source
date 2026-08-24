@@ -1,6 +1,6 @@
 # Nafezly/payments
 
-[![Stars](https://img.shields.io/github/stars/Nafezly/payments?style=flat-square&color=yellow)](https://github.com/Nafezly/payments/stargazers) [![Forks](https://img.shields.io/github/forks/Nafezly/payments?style=flat-square&color=blue)](https://github.com/Nafezly/payments/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nafezly/payments?style=flat-square&color=yellow)](https://github.com/Nafezly/payments/stargazers) [![Forks](https://img.shields.io/github/forks/Nafezly/payments?style=flat-square&color=blue)](https://github.com/Nafezly/payments/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Payment Helper of Payment Gateways ( PayPal - Paymob - Fawry - Thawani - WeAccept - Kashier - Hyperpay - Tap - Opay - Paytabs - Vodafone Cash - Orange Money - Meza Wallet - Etisalat Cash - Binance - Payeer - PerfectMoney - NowPayments)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 485 |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Trading · Automation
+Crypto · Payments · Trading
 
 ## 📝 Summary
 
@@ -138,14 +138,15 @@ Nafezly/payments 能显著加速多支付渠道（尤其是传统支付 + 加密
 | forks | 53/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

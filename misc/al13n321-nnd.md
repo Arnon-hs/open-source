@@ -1,6 +1,6 @@
 # al13n321/nnd
 
-[![Stars](https://img.shields.io/github/stars/al13n321/nnd?style=flat-square&color=yellow)](https://github.com/al13n321/nnd/stargazers) [![Forks](https://img.shields.io/github/forks/al13n321/nnd?style=flat-square&color=blue)](https://github.com/al13n321/nnd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/al13n321/nnd?style=flat-square&color=yellow)](https://github.com/al13n321/nnd/stargazers) [![Forks](https://img.shields.io/github/forks/al13n321/nnd?style=flat-square&color=blue)](https://github.com/al13n321/nnd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A debugger for Linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ al13n321/nnd 是一个针对 Linux 的调试器，基于 Rust 开发。该项目
 | forks | 39/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

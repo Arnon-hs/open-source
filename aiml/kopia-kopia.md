@@ -1,6 +1,6 @@
 # kopia/kopia
 
-[![Stars](https://img.shields.io/github/stars/kopia/kopia?style=flat-square&color=yellow)](https://github.com/kopia/kopia/stargazers) [![Forks](https://img.shields.io/github/forks/kopia/kopia?style=flat-square&color=blue)](https://github.com/kopia/kopia/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kopia/kopia?style=flat-square&color=yellow)](https://github.com/kopia/kopia/stargazers) [![Forks](https://img.shields.io/github/forks/kopia/kopia?style=flat-square&color=blue)](https://github.com/kopia/kopia/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.2k |
 | 🍴 **Forks** | 645 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kopia/kopia：kopia/kopia helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 69/100 |
+| production | 55/100 |
+| outlook | 62/100 |
 | adoption | 83/100 |
 | stars | 88/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

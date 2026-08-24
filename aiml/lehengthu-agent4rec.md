@@ -61,16 +61,16 @@ LehengTHU/Agent4Rec：LehengTHU/Agent4Rec helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 19/100 |
-| integration | 30/100 |
-| production | 30/100 |
-| outlook | 28/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 25/100 |
+| outlook | 28/100 |
+| quality | 19/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 30/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
 
 ---

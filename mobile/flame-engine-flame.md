@@ -1,6 +1,6 @@
 # flame-engine/flame
 
-[![Stars](https://img.shields.io/github/stars/flame-engine/flame?style=flat-square&color=yellow)](https://github.com/flame-engine/flame/stargazers) [![Forks](https://img.shields.io/github/forks/flame-engine/flame?style=flat-square&color=blue)](https://github.com/flame-engine/flame/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flame-engine/flame?style=flat-square&color=yellow)](https://github.com/flame-engine/flame/stargazers) [![Forks](https://img.shields.io/github/forks/flame-engine/flame?style=flat-square&color=blue)](https://github.com/flame-engine/flame/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A Flutter based game engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.6k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ flame-engine/flame：flame-engine/flame may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 83/100 |
-| stars | 86/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| stars | 86/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

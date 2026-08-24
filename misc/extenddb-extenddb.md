@@ -1,6 +1,6 @@
 # ExtendDB/extenddb
 
-[![Stars](https://img.shields.io/github/stars/ExtendDB/extenddb?style=flat-square&color=yellow)](https://github.com/ExtendDB/extenddb/stargazers) [![Forks](https://img.shields.io/github/forks/ExtendDB/extenddb?style=flat-square&color=blue)](https://github.com/ExtendDB/extenddb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ExtendDB/extenddb?style=flat-square&color=yellow)](https://github.com/ExtendDB/extenddb/stargazers) [![Forks](https://img.shields.io/github/forks/ExtendDB/extenddb?style=flat-square&color=blue)](https://github.com/ExtendDB/extenddb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > ExtendDB
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 442 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ ExtendDB（GitHub 仓库 ExtendDB/extenddb）是用 Rust 编写的轻量级�
 | forks | 38/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # lidge-jun/opencodex
 
-[![Stars](https://img.shields.io/github/stars/lidge-jun/opencodex?style=flat-square&color=yellow)](https://github.com/lidge-jun/opencodex/stargazers) [![Forks](https://img.shields.io/github/forks/lidge-jun/opencodex?style=flat-square&color=blue)](https://github.com/lidge-jun/opencodex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lidge-jun/opencodex?style=flat-square&color=yellow)](https://github.com/lidge-jun/opencodex/stargazers) [![Forks](https://img.shields.io/github/forks/lidge-jun/opencodex?style=flat-square&color=blue)](https://github.com/lidge-jun/opencodex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Universal provider proxy for OpenAI Codex — use any LLM with Codex CLI, App, and SDK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ lidge-jun/opencodex 是一个通用的 Provider Proxy，能够让 OpenAI Codex
 | forks | 30/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # by-sonic/tglock
 
-[![Stars](https://img.shields.io/github/stars/by-sonic/tglock?style=flat-square&color=yellow)](https://github.com/by-sonic/tglock/stargazers) [![Forks](https://img.shields.io/github/forks/by-sonic/tglock?style=flat-square&color=blue)](https://github.com/by-sonic/tglock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/by-sonic/tglock?style=flat-square&color=yellow)](https://github.com/by-sonic/tglock/stargazers) [![Forks](https://img.shields.io/github/forks/by-sonic/tglock?style=flat-square&color=blue)](https://github.com/by-sonic/tglock/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -56,22 +56,22 @@ by-sonic/tglock：by-sonic/tglock may be useful when its README and activity mat
 - updated 2026-05-10
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 18/100 |
-| production | 47/100 |
-| outlook | 46/100 |
-| adoption | 54/100 |
-| stars | 59/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

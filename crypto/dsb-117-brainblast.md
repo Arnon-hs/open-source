@@ -1,6 +1,6 @@
 # DSB-117/brainblast
 
-[![Stars](https://img.shields.io/github/stars/DSB-117/brainblast?style=flat-square&color=yellow)](https://github.com/DSB-117/brainblast/stargazers) [![Forks](https://img.shields.io/github/forks/DSB-117/brainblast?style=flat-square&color=blue)](https://github.com/DSB-117/brainblast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DSB-117/brainblast?style=flat-square&color=yellow)](https://github.com/DSB-117/brainblast/stargazers) [![Forks](https://img.shields.io/github/forks/DSB-117/brainblast?style=flat-square&color=blue)](https://github.com/DSB-117/brainblast/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Predict the silent integration traps an AI agent would ship (zero-revenue configs, auth bypasses, immutable wrong choices) — then enforce, in CI, that they stay fixed. Research skill + npx brainblast CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Automation · AI/ML · DevTools
+Crypto · Payments · AI/ML · Security
 
 ## 📝 Summary
 
@@ -126,14 +126,15 @@ DSB‑117/brainblast 是一款基于 TypeScript 的 CLI 工具，能够在持续
 | forks | 12/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SigNoz/signoz
 
-[![Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=flat-square&color=yellow)](https://github.com/SigNoz/signoz/stargazers) [![Forks](https://img.shields.io/github/forks/SigNoz/signoz?style=flat-square&color=blue)](https://github.com/SigNoz/signoz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=flat-square&color=yellow)](https://github.com/SigNoz/signoz/stargazers) [![Forks](https://img.shields.io/github/forks/SigNoz/signoz?style=flat-square&color=blue)](https://github.com/SigNoz/signoz/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data
+Frontend · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ SigNoz/signoz: SigNoz/signoz helps ship user-facing interfaces with less custom 
 
 ### Русский
 
-SigNoz/signoz: open-source проект в категориях Frontend, Data. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SigNoz/signoz: open-source проект в категориях Frontend, Observability. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ SigNoz/signoz：SigNoz/signoz helps ship user-facing interfaces with less custom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 81/100 |
-| integration | 62/100 |
-| production | 65/100 |
-| outlook | 75/100 |
-| adoption | 91/100 |
-| stars | 94/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

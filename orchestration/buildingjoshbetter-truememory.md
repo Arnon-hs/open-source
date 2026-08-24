@@ -1,6 +1,6 @@
 # buildingjoshbetter/TrueMemory
 
-[![Stars](https://img.shields.io/github/stars/buildingjoshbetter/TrueMemory?style=flat-square&color=yellow)](https://github.com/buildingjoshbetter/TrueMemory/stargazers) [![Forks](https://img.shields.io/github/forks/buildingjoshbetter/TrueMemory?style=flat-square&color=blue)](https://github.com/buildingjoshbetter/TrueMemory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buildingjoshbetter/TrueMemory?style=flat-square&color=yellow)](https://github.com/buildingjoshbetter/TrueMemory/stargazers) [![Forks](https://img.shields.io/github/forks/buildingjoshbetter/TrueMemory?style=flat-square&color=blue)](https://github.com/buildingjoshbetter/TrueMemory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A living memory system that ingests long-horizon data to infer insights, enabling more decisive action, all while running on a single SQLite file locally.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ TrueMemory — это открытая система «живой памят�
 
 ### 中文
 
-buildingjoshbetter/TrueMemory：buildingjoshbetter/TrueMemory helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+buildingjoshbetter/TrueMemory：buildingjoshbetter/TrueMemory helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ buildingjoshbetter/TrueMemory：buildingjoshbetter/TrueMemory helps turn isolate
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ buildingjoshbetter/TrueMemory：buildingjoshbetter/TrueMemory helps turn isolate
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 30/100 |
-| stars | 33/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 33/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

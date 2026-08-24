@@ -1,6 +1,6 @@
 # merovinh/best-of-algorithmic-trading
 
-[![Stars](https://img.shields.io/github/stars/merovinh/best-of-algorithmic-trading?style=flat-square&color=yellow)](https://github.com/merovinh/best-of-algorithmic-trading/stargazers) [![Forks](https://img.shields.io/github/forks/merovinh/best-of-algorithmic-trading?style=flat-square&color=blue)](https://github.com/merovinh/best-of-algorithmic-trading/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/merovinh/best-of-algorithmic-trading?style=flat-square&color=yellow)](https://github.com/merovinh/best-of-algorithmic-trading/stargazers) [![Forks](https://img.shields.io/github/forks/merovinh/best-of-algorithmic-trading?style=flat-square&color=blue)](https://github.com/merovinh/best-of-algorithmic-trading/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A ranked list of algorithmic trading open-source libraries, frameworks, bots, tools, books, communities, education materials. Updated weekly.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 823 |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Backend
+Trading · Automation · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ merovinh/best-of-algorithmic-trading: merovinh/best-of-algorithmic-trading helps
 
 ### Русский
 
-merovinh/best-of-algorithmic-trading: open-source проект в категориях Trading, Backend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+merovinh/best-of-algorithmic-trading: open-source проект в категориях Trading, Automation, Backend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,16 +64,16 @@ merovinh/best-of-algorithmic-trading：merovinh/best-of-algorithmic-trading help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 59/100 |
-| stars | 62/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 75/100 |
+| outlook | 57/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

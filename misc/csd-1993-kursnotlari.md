@@ -1,6 +1,6 @@
 # CSD-1993/KursNotlari
 
-[![Stars](https://img.shields.io/github/stars/CSD-1993/KursNotlari?style=flat-square&color=yellow)](https://github.com/CSD-1993/KursNotlari/stargazers) [![Forks](https://img.shields.io/github/forks/CSD-1993/KursNotlari?style=flat-square&color=blue)](https://github.com/CSD-1993/KursNotlari/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CSD-1993/KursNotlari?style=flat-square&color=yellow)](https://github.com/CSD-1993/KursNotlari/stargazers) [![Forks](https://img.shields.io/github/forks/CSD-1993/KursNotlari?style=flat-square&color=blue)](https://github.com/CSD-1993/KursNotlari/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > C ve Sistem Programcıları Derneği Kurs Notları (Yazanlar: Kaan Aslan & Sebahat Ersoy)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 851 |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ CSD‑1993/KursNotlari 汇集了 C ve Sistem Programcıları Derneği（C 与系
 | forks | 55/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

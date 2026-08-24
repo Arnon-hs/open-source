@@ -1,6 +1,6 @@
 # w8123/EnterpriseAgentFramework
 
-[![Stars](https://img.shields.io/github/stars/w8123/EnterpriseAgentFramework?style=flat-square&color=yellow)](https://github.com/w8123/EnterpriseAgentFramework/stargazers) [![Forks](https://img.shields.io/github/forks/w8123/EnterpriseAgentFramework?style=flat-square&color=blue)](https://github.com/w8123/EnterpriseAgentFramework/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/w8123/EnterpriseAgentFramework?style=flat-square&color=yellow)](https://github.com/w8123/EnterpriseAgentFramework/stargazers) [![Forks](https://img.shields.io/github/forks/w8123/EnterpriseAgentFramework?style=flat-square&color=blue)](https://github.com/w8123/EnterpriseAgentFramework/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise AI Capability Platform for Java/Spring Boot. Register business APIs as governed AI capabilities, compose Agents with GraphSpec, Runtime, MCP/A2A/Gateway, RunOps and Trace. 企业智能体开发框架-把 Java 企业系统中的接口、领域方法、知识、模型和流程，沉淀为可治理、可编排、可开放的 AI 能力资产。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ EnterpriseAgentFramework 是基于 Java / Spring Boot 的企业级 AI 能力平�
 | forks | 33/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

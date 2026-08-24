@@ -1,6 +1,6 @@
 # coollabsio/jean
 
-[![Stars](https://img.shields.io/github/stars/coollabsio/jean?style=flat-square&color=yellow)](https://github.com/coollabsio/jean/stargazers) [![Forks](https://img.shields.io/github/forks/coollabsio/jean?style=flat-square&color=blue)](https://github.com/coollabsio/jean/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coollabsio/jean?style=flat-square&color=yellow)](https://github.com/coollabsio/jean/stargazers) [![Forks](https://img.shields.io/github/forks/coollabsio/jean?style=flat-square&color=blue)](https://github.com/coollabsio/jean/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A dev environment for AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 906 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ coollabsio/jean — это открытая платформа, предост
 
 ### 中文
 
-coollabsio/jean：coollabsio/jean helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+coollabsio/jean：coollabsio/jean helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ coollabsio/jean：coollabsio/jean helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ coollabsio/jean：coollabsio/jean helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 59/100 |
-| stars | 63/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 63/100 |
 | topics | 75/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

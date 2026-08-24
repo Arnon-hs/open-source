@@ -1,6 +1,6 @@
 # terramate-io/terramate
 
-[![Stars](https://img.shields.io/github/stars/terramate-io/terramate?style=flat-square&color=yellow)](https://github.com/terramate-io/terramate/stargazers) [![Forks](https://img.shields.io/github/forks/terramate-io/terramate?style=flat-square&color=blue)](https://github.com/terramate-io/terramate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terramate-io/terramate?style=flat-square&color=yellow)](https://github.com/terramate-io/terramate/stargazers) [![Forks](https://img.shields.io/github/forks/terramate-io/terramate?style=flat-square&color=blue)](https://github.com/terramate-io/terramate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Infrastructure as Code (IaC) orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and more. Integrates with Terraform, OpenTofu, Terragrunt, Kubernetes, GitHub Actions, GitLab CI/CD, BitBucket Pipelines, and any other CI/CD platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Database
+Orchestration · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Terramate（`terramate-io/terramate`）是一款开源的 IaC 编排平台，提
 | forks | 52/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

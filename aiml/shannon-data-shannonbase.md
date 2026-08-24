@@ -1,6 +1,6 @@
 # Shannon-Data/ShannonBase
 
-[![Stars](https://img.shields.io/github/stars/Shannon-Data/ShannonBase?style=flat-square&color=yellow)](https://github.com/Shannon-Data/ShannonBase/stargazers) [![Forks](https://img.shields.io/github/forks/Shannon-Data/ShannonBase?style=flat-square&color=blue)](https://github.com/Shannon-Data/ShannonBase/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shannon-Data/ShannonBase?style=flat-square&color=yellow)](https://github.com/Shannon-Data/ShannonBase/stargazers) [![Forks](https://img.shields.io/github/forks/Shannon-Data/ShannonBase?style=flat-square&color=blue)](https://github.com/Shannon-Data/ShannonBase/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Next-Gen Database for AI—an infrastructure designed for data and AI. As the MySQL of the AI era.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 171 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ShannonBase — это open‑source платформа «Next‑Gen Database 
 
 ### 中文
 
-Shannon-Data/ShannonBase：Shannon-Data/ShannonBase helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Shannon-Data/ShannonBase：Shannon-Data/ShannonBase helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Shannon-Data/ShannonBase：Shannon-Data/ShannonBase helps add AI capability with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Shannon-Data/ShannonBase：Shannon-Data/ShannonBase helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 60/100 |
+| production | 46/100 |
+| outlook | 53/100 |
 | adoption | 43/100 |
 | stars | 48/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # camino-rs/camino
 
-[![Stars](https://img.shields.io/github/stars/camino-rs/camino?style=flat-square&color=yellow)](https://github.com/camino-rs/camino/stargazers) [![Forks](https://img.shields.io/github/forks/camino-rs/camino?style=flat-square&color=blue)](https://github.com/camino-rs/camino/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/camino-rs/camino?style=flat-square&color=yellow)](https://github.com/camino-rs/camino/stargazers) [![Forks](https://img.shields.io/github/forks/camino-rs/camino?style=flat-square&color=blue)](https://github.com/camino-rs/camino/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Like Rust's std::path::Path, but UTF-8.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 559 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Camino（camino‑rs/camino）是一个 Rust 库，提供类似 `std::path::Path
 | forks | 37/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

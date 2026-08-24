@@ -1,6 +1,6 @@
 # louislam/uptime-kuma
 
-[![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat-square&color=yellow)](https://github.com/louislam/uptime-kuma/stargazers) [![Forks](https://img.shields.io/github/forks/louislam/uptime-kuma?style=flat-square&color=blue)](https://github.com/louislam/uptime-kuma/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat-square&color=yellow)](https://github.com/louislam/uptime-kuma/stargazers) [![Forks](https://img.shields.io/github/forks/louislam/uptime-kuma?style=flat-square&color=blue)](https://github.com/louislam/uptime-kuma/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A fancy self-hosted monitoring tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 86.4k |
 | 🍴 **Forks** | 7.8k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ louislam/uptime-kuma：louislam/uptime-kuma helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 77/100 |
+| production | 57/100 |
+| outlook | 70/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 97/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

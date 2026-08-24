@@ -1,0 +1,82 @@
+# tumourlove/monolith
+
+[![Stars](https://img.shields.io/github/stars/tumourlove/monolith?style=flat-square&color=yellow)](https://github.com/tumourlove/monolith/stargazers) [![Forks](https://img.shields.io/github/forks/tumourlove/monolith?style=flat-square&color=blue)](https://github.com/tumourlove/monolith/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+
+> MCP plugin for Unreal Engine 5.7 — gives AI assistants full read/write access to Blueprints, Materials, Niagara VFX, Animation, Mesh, AI (BT/ST/EQS/SO), GAS, Logic Driver, ComboGraph, UI, Audio (Sound Cues + MetaSounds), and more. 1,226 actions across 16 modules. Zero Python dependency.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 96 |
+| 🍴 **Forks** | 29 |
+| 💻 **Language** | C++ |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai` `ai-tools` `animation` `audio` `blueprint` `claude` `claude-code` `cursor` `gameplay-ability-system` `material-editor` `mcp` `mesh`
+
+## 🎯 Categories
+
+MCP · AI/ML
+
+## 📝 Summary
+
+### English
+
+tumourlove/monolith is an MCP plugin for Unreal Engine 5.7 that empowers AI assistants with full read/write control over virtually every game‑development asset—Blueprints, Materials, Niagara VFX, Animations, Meshes, AI systems (BT/ST/EQS/SO), GAS, Logic Driver, ComboGraph, UI, Audio (Sound Cues & MetaSounds), and more—offering 1,226 distinct actions across 16 modules. The plugin operates without any Python dependency, making it a lightweight, open‑source solution for integrating advanced AI/ML workflows directly into Unreal projects.
+
+### Русский
+
+**tumourlove/monolith** — мощный MCP‑плагин для Unreal Engine 5.7, предоставляющий AI‑ассистентам полный доступ на чтение и запись к Blueprint‑ам, материалам, Niagara‑эффектам, анимациям, мешам, системам AI (BT/ST/EQS/SO), GAS, Logic Driver, ComboGraph, UI, аудио (Sound Cues и MetaSounds) и другим элементам. Плагин объединяет 1 226 действий в 16 модулях, полностью без зависимости от Python, что делает его удобным решением для интеграции искусственного интеллекта в игровые проекты.
+
+### 中文
+
+tumourlove/monolith：tumourlove/monolith helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** tumourlove/monolith helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 96 GitHub stars
+- 29 forks
+- updated 2026-05-09
+- primary language: C++
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 37/100 |
+| stars | 42/100 |
+| topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/tumourlove/monolith) · [← Back to Mcp](./README.md)</sub>

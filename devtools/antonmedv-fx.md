@@ -1,0 +1,82 @@
+# antonmedv/fx
+
+[![Stars](https://img.shields.io/github/stars/antonmedv/fx?style=flat-square&color=yellow)](https://github.com/antonmedv/fx/stargazers) [![Forks](https://img.shields.io/github/forks/antonmedv/fx?style=flat-square&color=blue)](https://github.com/antonmedv/fx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+
+> Terminal JSON viewer & processor
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 20.5k |
+| 🍴 **Forks** | 481 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cli` `command-line` `json` `tui`
+
+## 🎯 Categories
+
+DevTools
+
+## 📝 Summary
+
+### English
+
+Antonmedv’s **fx** is a lightweight, terminal‑based tool for viewing, querying, and manipulating JSON data directly from the command line. It combines fast, colour‑coded rendering with powerful jq‑like filters, allowing developers to inspect, transform, and pipe JSON streams without leaving the terminal. Ideal for developers and DevOps engineers, fx streamlines JSON handling in scripts, debugging sessions, and everyday workflow.
+
+### Русский
+
+**fx** — это лёгкий терминальный просмотрщик и процессор JSON, позволяющий быстро исследовать, фильтровать и форматировать JSON‑данные прямо в консоли. Инструмент поддерживает интерактивный режим, цветовую подсветку, поиск и возможность выполнять пользовательские трансформации, что делает его удобным помощником для разработчиков и DevOps‑специалистов. Благодаря полностью открытой лицензии и простому установочному процессу, **fx** легко интегрируется в любые фронтенд‑ и DevTools‑рабочие процессы.
+
+### 中文
+
+antonmedv/fx：antonmedv/fx helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** antonmedv/fx helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 20451 GitHub stars
+- 481 forks
+- updated 2026-05-08
+- primary language: Go
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 67/100 |
+| stars | 92/100 |
+| topics | 50/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/antonmedv/fx) · [← Back to DevTools](./README.md)</sub>

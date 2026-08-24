@@ -1,6 +1,6 @@
 # neocmakelsp/neocmakelsp
 
-[![Stars](https://img.shields.io/github/stars/neocmakelsp/neocmakelsp?style=flat-square&color=yellow)](https://github.com/neocmakelsp/neocmakelsp/stargazers) [![Forks](https://img.shields.io/github/forks/neocmakelsp/neocmakelsp?style=flat-square&color=blue)](https://github.com/neocmakelsp/neocmakelsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neocmakelsp/neocmakelsp?style=flat-square&color=yellow)](https://github.com/neocmakelsp/neocmakelsp/stargazers) [![Forks](https://img.shields.io/github/forks/neocmakelsp/neocmakelsp?style=flat-square&color=blue)](https://github.com/neocmakelsp/neocmakelsp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Another CMake LSP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ neocmakelsp 是一个用 Rust 编写的 CMake 语言服务器（LSP），为编�
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

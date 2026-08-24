@@ -1,6 +1,6 @@
 # Open-Curiosity/gini-agent
 
-[![Stars](https://img.shields.io/github/stars/Open-Curiosity/gini-agent?style=flat-square&color=yellow)](https://github.com/Open-Curiosity/gini-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Curiosity/gini-agent?style=flat-square&color=blue)](https://github.com/Open-Curiosity/gini-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-Curiosity/gini-agent?style=flat-square&color=yellow)](https://github.com/Open-Curiosity/gini-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Curiosity/gini-agent?style=flat-square&color=blue)](https://github.com/Open-Curiosity/gini-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The agent that remembers and learns.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 736 |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Mobile · Education
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Open‑Curiosity/gini‑agent 是一款基于 TypeScript 实现的开源 AI 代�
 | forks | 56/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

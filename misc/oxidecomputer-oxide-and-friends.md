@@ -1,6 +1,6 @@
 # oxidecomputer/oxide-and-friends
 
-[![Stars](https://img.shields.io/github/stars/oxidecomputer/oxide-and-friends?style=flat-square&color=yellow)](https://github.com/oxidecomputer/oxide-and-friends/stargazers) [![Forks](https://img.shields.io/github/forks/oxidecomputer/oxide-and-friends?style=flat-square&color=blue)](https://github.com/oxidecomputer/oxide-and-friends/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxidecomputer/oxide-and-friends?style=flat-square&color=yellow)](https://github.com/oxidecomputer/oxide-and-friends/stargazers) [![Forks](https://img.shields.io/github/forks/oxidecomputer/oxide-and-friends?style=flat-square&color=blue)](https://github.com/oxidecomputer/oxide-and-friends/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Show notes from Oxide and Friends recordings
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 372 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -56,22 +56,22 @@ oxidecomputer/oxide-and-friends：oxidecomputer/oxide-and-friends may be useful 
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 46/100 |
-| adoption | 53/100 |
-| stars | 55/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

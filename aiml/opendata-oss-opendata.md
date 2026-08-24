@@ -1,6 +1,6 @@
 # opendata-oss/opendata
 
-[![Stars](https://img.shields.io/github/stars/opendata-oss/opendata?style=flat-square&color=yellow)](https://github.com/opendata-oss/opendata/stargazers) [![Forks](https://img.shields.io/github/forks/opendata-oss/opendata?style=flat-square&color=blue)](https://github.com/opendata-oss/opendata/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opendata-oss/opendata?style=flat-square&color=yellow)](https://github.com/opendata-oss/opendata/stargazers) [![Forks](https://img.shields.io/github/forks/opendata-oss/opendata?style=flat-square&color=blue)](https://github.com/opendata-oss/opendata/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 280 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ opendata-oss/opendata：opendata-oss/opendata helps add AI capability without st
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 48/100 |
+| production | 41/100 |
+| outlook | 41/100 |
 | adoption | 48/100 |
 | stars | 52/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

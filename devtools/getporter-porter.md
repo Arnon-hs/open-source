@@ -1,6 +1,6 @@
 # getporter/porter
 
-[![Stars](https://img.shields.io/github/stars/getporter/porter?style=flat-square&color=yellow)](https://github.com/getporter/porter/stargazers) [![Forks](https://img.shields.io/github/forks/getporter/porter?style=flat-square&color=blue)](https://github.com/getporter/porter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getporter/porter?style=flat-square&color=yellow)](https://github.com/getporter/porter/stargazers) [![Forks](https://img.shields.io/github/forks/getporter/porter?style=flat-square&color=blue)](https://github.com/getporter/porter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 219 |
+| 🍴 **Forks** | 223 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-21 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`cnab` `cncf` `porter`
 
 ## 🎯 Categories
 
@@ -25,8 +25,58 @@ DevTools
 
 ## 📝 Summary
 
-Porter is an open-source project that streamlines the process of packaging and deploying applications by combining artifacts, tools, and configuration into a single installer. This tool enables developers to distribute and install their applications with a simple command, simplifying the development-to-deployment lifecycle. By centralizing application components, Porter facilitates a more efficient and standardized distribution of software.
+### English
+
+getporter/porter: getporter/porter helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+getporter/porter: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+getporter/porter：getporter/porter helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** getporter/porter helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 1423 GitHub stars
+- 223 forks
+- updated 2026-08-21
+- primary language: Go
+- 3 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 59/100 |
+| stars | 67/100 |
+| topics | 38/100 |
+| outlook | 80/100 |
+| quality | 75/100 |
+| recency | 100/100 |
+| adoption | 65/100 |
+| production | 77/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-26 · [View on GitHub](https://github.com/getporter/porter) · [← Back to DevTools](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-21 · [View on GitHub](https://github.com/getporter/porter) · [← Back to DevTools](./README.md)</sub>

@@ -2,26 +2,26 @@
 
 [![Stars](https://img.shields.io/github/stars/rcourtman/Pulse?style=flat-square&color=yellow)](https://github.com/rcourtman/Pulse/stargazers) [![Forks](https://img.shields.io/github/forks/rcourtman/Pulse?style=flat-square&color=blue)](https://github.com/rcourtman/Pulse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
 
-> Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
+> Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 246 |
+| ⭐ **Stars** | 6.2k |
+| 🍴 **Forks** | 250 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `alerts` `dashboard` `docker` `docker-monitoring` `go` `homelab` `host-monitoring` `infrastructure-monitoring` `kubernetes` `monitoring` `proxmox`
+`ai` `alerts` `dashboard` `docker` `docker-monitoring` `go` `homelab` `infrastructure-monitoring` `kubernetes` `monitoring` `proxmox` `proxmox-backup-server`
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend · Observability
+Automation · AI/ML · Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ rcourtman/Pulse: rcourtman/Pulse helps remove repetitive manual operations from 
 
 ### Русский
 
-rcourtman/Pulse: open-source проект в категориях Automation, AI/ML, Frontend, Backend, Observability. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+rcourtman/Pulse: open-source проект в категориях Automation, AI/ML, Backend, Observability, DevOps/Infra. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
@@ -53,11 +53,11 @@ rcourtman/Pulse：rcourtman/Pulse helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 6101 GitHub stars
-- 246 forks
-- updated 2026-07-05
+- 6236 GitHub stars
+- 250 forks
+- updated 2026-07-13
 - primary language: Go
-- 19 topics
+- 20 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -79,4 +79,4 @@ rcourtman/Pulse：rcourtman/Pulse helps remove repetitive manual operations from
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/rcourtman/Pulse) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/rcourtman/Pulse) · [← Back to Automation](./README.md)</sub>

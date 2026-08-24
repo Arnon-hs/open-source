@@ -1,6 +1,6 @@
 # EXboys/skilllite
 
-[![Stars](https://img.shields.io/github/stars/EXboys/skilllite?style=flat-square&color=yellow)](https://github.com/EXboys/skilllite/stargazers) [![Forks](https://img.shields.io/github/forks/EXboys/skilllite?style=flat-square&color=blue)](https://github.com/EXboys/skilllite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EXboys/skilllite?style=flat-square&color=yellow)](https://github.com/EXboys/skilllite/stargazers) [![Forks](https://img.shields.io/github/forks/EXboys/skilllite?style=flat-square&color=blue)](https://github.com/EXboys/skilllite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight secure Self-evolution engine built in Rust, featuring a built-in native system-level sandbox, zero dependencies, and fully local execution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ EXboys/skilllite：EXboys/skilllite helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 40/100 |
-| stars | 44/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| stars | 44/100 |
 | topics | 63/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

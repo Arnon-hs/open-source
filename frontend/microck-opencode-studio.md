@@ -1,6 +1,6 @@
 # Microck/opencode-studio
 
-[![Stars](https://img.shields.io/github/stars/Microck/opencode-studio?style=flat-square&color=yellow)](https://github.com/Microck/opencode-studio/stargazers) [![Forks](https://img.shields.io/github/forks/Microck/opencode-studio?style=flat-square&color=blue)](https://github.com/Microck/opencode-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Microck/opencode-studio?style=flat-square&color=yellow)](https://github.com/Microck/opencode-studio/stargazers) [![Forks](https://img.shields.io/github/forks/Microck/opencode-studio?style=flat-square&color=blue)](https://github.com/Microck/opencode-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > web GUI for securely managing local OpenCode configuration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Microck/opencode-studio：Microck/opencode-studio helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 49/100 |
 | stars | 54/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

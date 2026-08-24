@@ -1,6 +1,6 @@
 # Meridian59/Meridian59
 
-[![Stars](https://img.shields.io/github/stars/Meridian59/Meridian59?style=flat-square&color=yellow)](https://github.com/Meridian59/Meridian59/stargazers) [![Forks](https://img.shields.io/github/forks/Meridian59/Meridian59?style=flat-square&color=blue)](https://github.com/Meridian59/Meridian59/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Meridian59/Meridian59?style=flat-square&color=yellow)](https://github.com/Meridian59/Meridian59/stargazers) [![Forks](https://img.shields.io/github/forks/Meridian59/Meridian59?style=flat-square&color=blue)](https://github.com/Meridian59/Meridian59/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > The MMORPG Meridian 59
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 492 |
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Meridian59 适合作为学习、原型或内部工具的技术基座；若计划
 | forks | 61/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

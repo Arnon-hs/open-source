@@ -1,6 +1,6 @@
 # matz/spinel
 
-[![Stars](https://img.shields.io/github/stars/matz/spinel?style=flat-square&color=yellow)](https://github.com/matz/spinel/stargazers) [![Forks](https://img.shields.io/github/forks/matz/spinel?style=flat-square&color=blue)](https://github.com/matz/spinel/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matz/spinel?style=flat-square&color=yellow)](https://github.com/matz/spinel/stargazers) [![Forks](https://img.shields.io/github/forks/matz/spinel?style=flat-square&color=blue)](https://github.com/matz/spinel/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ matz/spinel 是一个用 Ruby 编写的开源库，拥有近 1500 颗星和活�
 | forks | 42/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 60/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

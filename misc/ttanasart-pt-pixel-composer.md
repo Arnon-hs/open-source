@@ -1,6 +1,6 @@
 # Ttanasart-pt/Pixel-Composer
 
-[![Stars](https://img.shields.io/github/stars/Ttanasart-pt/Pixel-Composer?style=flat-square&color=yellow)](https://github.com/Ttanasart-pt/Pixel-Composer/stargazers) [![Forks](https://img.shields.io/github/forks/Ttanasart-pt/Pixel-Composer?style=flat-square&color=blue)](https://github.com/Ttanasart-pt/Pixel-Composer/network) [![Language](https://img.shields.io/badge/lang-Game%20Maker%20Language-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ttanasart-pt/Pixel-Composer?style=flat-square&color=yellow)](https://github.com/Ttanasart-pt/Pixel-Composer/stargazers) [![Forks](https://img.shields.io/github/forks/Ttanasart-pt/Pixel-Composer?style=flat-square&color=blue)](https://github.com/Ttanasart-pt/Pixel-Composer/network) [![Language](https://img.shields.io/badge/lang-Game%20Maker%20Language-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Node base VFX editor for pixel art.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Game Maker Language |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Pixel‑Composer 是一款基于 Node 的像素风 VFX 编辑器，专为像素�
 | forks | 47/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

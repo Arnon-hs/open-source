@@ -1,6 +1,6 @@
 # kldhsh123/Afterglow
 
-[![Stars](https://img.shields.io/github/stars/kldhsh123/Afterglow?style=flat-square&color=yellow)](https://github.com/kldhsh123/Afterglow/stargazers) [![Forks](https://img.shields.io/github/forks/kldhsh123/Afterglow?style=flat-square&color=blue)](https://github.com/kldhsh123/Afterglow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kldhsh123/Afterglow?style=flat-square&color=yellow)](https://github.com/kldhsh123/Afterglow/stargazers) [![Forks](https://img.shields.io/github/forks/kldhsh123/Afterglow?style=flat-square&color=blue)](https://github.com/kldhsh123/Afterglow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 使用社交软件聊天记录结合向量数据库让AI更好的扮演对方的角色，在不微调模型的情况下可以达到可观的效果。把曾经的美好，续成往后的陪伴。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Data · Database
+Knowledge/RAG · AI/ML · Frontend · Database
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Afterglow 的生产可用性为中等。它适合用于原型或内部工作流�
 | forks | 33/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

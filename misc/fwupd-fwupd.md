@@ -1,6 +1,6 @@
 # fwupd/fwupd
 
-[![Stars](https://img.shields.io/github/stars/fwupd/fwupd?style=flat-square&color=yellow)](https://github.com/fwupd/fwupd/stargazers) [![Forks](https://img.shields.io/github/forks/fwupd/fwupd?style=flat-square&color=blue)](https://github.com/fwupd/fwupd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fwupd/fwupd?style=flat-square&color=yellow)](https://github.com/fwupd/fwupd/stargazers) [![Forks](https://img.shields.io/github/forks/fwupd/fwupd?style=flat-square&color=blue)](https://github.com/fwupd/fwupd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A system daemon to allow session software to update firmware
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 580 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ fwupd 是 Linux 系统的固件更新守护进程，提供统一、自动化的�
 | forks | 69/100 |
 | stars | 77/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

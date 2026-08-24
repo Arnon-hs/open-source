@@ -1,6 +1,6 @@
 # doobidoo/mcp-memory-service
 
-[![Stars](https://img.shields.io/github/stars/doobidoo/mcp-memory-service?style=flat-square&color=yellow)](https://github.com/doobidoo/mcp-memory-service/stargazers) [![Forks](https://img.shields.io/github/forks/doobidoo/mcp-memory-service?style=flat-square&color=blue)](https://github.com/doobidoo/mcp-memory-service/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doobidoo/mcp-memory-service?style=flat-square&color=yellow)](https://github.com/doobidoo/mcp-memory-service/stargazers) [![Forks](https://img.shields.io/github/forks/doobidoo/mcp-memory-service?style=flat-square&color=blue)](https://github.com/doobidoo/mcp-memory-service/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 276 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ doobidoo/mcp-memory-service: doobidoo/mcp-memory-service helps turn isolated pro
 
 ### Русский
 
-doobidoo/mcp-memory-service: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+doobidoo/mcp-memory-service: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ doobidoo/mcp-memory-service：doobidoo/mcp-memory-service helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 70/100 |
-| integration | 78/100 |
-| production | 63/100 |
-| outlook | 71/100 |
-| adoption | 67/100 |
-| stars | 69/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

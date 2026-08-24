@@ -1,6 +1,6 @@
 # RfidResearchGroup/proxmark3
 
-[![Stars](https://img.shields.io/github/stars/RfidResearchGroup/proxmark3?style=flat-square&color=yellow)](https://github.com/RfidResearchGroup/proxmark3/stargazers) [![Forks](https://img.shields.io/github/forks/RfidResearchGroup/proxmark3?style=flat-square&color=blue)](https://github.com/RfidResearchGroup/proxmark3/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RfidResearchGroup/proxmark3?style=flat-square&color=yellow)](https://github.com/RfidResearchGroup/proxmark3/stargazers) [![Forks](https://img.shields.io/github/forks/RfidResearchGroup/proxmark3?style=flat-square&color=blue)](https://github.com/RfidResearchGroup/proxmark3/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Iceman Fork - Proxmark3
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.6k |
-| 🍴 **Forks** | 1.3k |
+| ⭐ **Stars** | 6k |
+| 🍴 **Forks** | 1.4k |
 | 💻 **Language** | C |
-| 📈 **Score** | 100/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`125khz` `clone` `contactless` `darkside` `hitag2` `iceman` `iclass` `iso14443a` `iso14443b` `iso15693` `mifare` `nfc`
 
 ## 🎯 Categories
 
@@ -25,8 +25,57 @@ Misc
 
 ## 📝 Summary
 
-The Proxmark3 project is an open-source, highly customizable RFID reader and writer that enables users to explore and experiment with various RFID protocols and technologies. Developed by the Iceman Fork, this project allows researchers and developers to create and manage RFID cards, keys, and tags, and to perform a wide range of tests and analyses. With its flexibility and modularity, Proxmark3 is an ideal platform for RFID hacking, reverse engineering, and innovation.
+### English
+
+RfidResearchGroup/proxmark3: RfidResearchGroup/proxmark3 may be useful when its README and activity match a concrete workflow.. Use it for Misc. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+RfidResearchGroup/proxmark3: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+RfidResearchGroup/proxmark3：RfidResearchGroup/proxmark3 may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** RfidResearchGroup/proxmark3 may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 5968 GitHub stars
+- 1409 forks
+- updated 2026-08-20
+- primary language: C
+- 20 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 79/100 |
+| stars | 80/100 |
+| topics | 100/100 |
+| outlook | 76/100 |
+| quality | 86/100 |
+| recency | 80/100 |
+| adoption | 80/100 |
+| production | 72/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/RfidResearchGroup/proxmark3) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-20 · [View on GitHub](https://github.com/RfidResearchGroup/proxmark3) · [← Back to Misc](./README.md)</sub>

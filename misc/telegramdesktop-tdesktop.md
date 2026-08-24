@@ -1,6 +1,6 @@
 # telegramdesktop/tdesktop
 
-[![Stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=flat-square&color=yellow)](https://github.com/telegramdesktop/tdesktop/stargazers) [![Forks](https://img.shields.io/github/forks/telegramdesktop/tdesktop?style=flat-square&color=blue)](https://github.com/telegramdesktop/tdesktop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=flat-square&color=yellow)](https://github.com/telegramdesktop/tdesktop/stargazers) [![Forks](https://img.shields.io/github/forks/telegramdesktop/tdesktop?style=flat-square&color=blue)](https://github.com/telegramdesktop/tdesktop/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Telegram Desktop messaging app
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.7k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ telegramdesktop/tdesktop：telegramdesktop/tdesktop may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 96/100 |
-| stars | 96/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| stars | 96/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

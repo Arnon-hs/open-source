@@ -1,6 +1,6 @@
 # dcostenco/prism-coder
 
-[![Stars](https://img.shields.io/github/stars/dcostenco/prism-coder?style=flat-square&color=yellow)](https://github.com/dcostenco/prism-coder/stargazers) [![Forks](https://img.shields.io/github/forks/dcostenco/prism-coder?style=flat-square&color=blue)](https://github.com/dcostenco/prism-coder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dcostenco/prism-coder?style=flat-square&color=yellow)](https://github.com/dcostenco/prism-coder/stargazers) [![Forks](https://img.shields.io/github/forks/dcostenco/prism-coder?style=flat-square&color=blue)](https://github.com/dcostenco/prism-coder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The Mind Palace for AI Agents - HIPAA-hardened Cognitive Architecture with on-device LLM (prism-coder:7b), Hebbian learning, ACT-R spreading activation, adversarial evaluation, persistent memory, multi-agent Hivemind and visual dashboard. Zero API keys required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dcostenco/prism-coder：dcostenco/prism-coder helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 59/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 65/100 |
-| adoption | 42/100 |
-| stars | 45/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

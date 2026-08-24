@@ -1,6 +1,6 @@
 # stackitcloud/stackit-cli
 
-[![Stars](https://img.shields.io/github/stars/stackitcloud/stackit-cli?style=flat-square&color=yellow)](https://github.com/stackitcloud/stackit-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stackitcloud/stackit-cli?style=flat-square&color=blue)](https://github.com/stackitcloud/stackit-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stackitcloud/stackit-cli?style=flat-square&color=yellow)](https://github.com/stackitcloud/stackit-cli/stargazers) [![Forks](https://img.shields.io/github/forks/stackitcloud/stackit-cli?style=flat-square&color=blue)](https://github.com/stackitcloud/stackit-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A command-line interface to manage STACKIT resources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ stackitcloud/stackit‑cli 是一款基于 Go 实现的命令行工具，用于�
 | forks | 40/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

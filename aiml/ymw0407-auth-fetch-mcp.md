@@ -1,6 +1,6 @@
 # ymw0407/auth-fetch-mcp
 
-[![Stars](https://img.shields.io/github/stars/ymw0407/auth-fetch-mcp?style=flat-square&color=yellow)](https://github.com/ymw0407/auth-fetch-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ymw0407/auth-fetch-mcp?style=flat-square&color=blue)](https://github.com/ymw0407/auth-fetch-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ymw0407/auth-fetch-mcp?style=flat-square&color=yellow)](https://github.com/ymw0407/auth-fetch-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ymw0407/auth-fetch-mcp?style=flat-square&color=blue)](https://github.com/ymw0407/auth-fetch-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that lets AI assistants fetch content from authenticated web pages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **ymw0407/auth-fetch-mcp** project provides a lightweight MCP (Message Contr
 
 ### 中文
 
-ymw0407/auth-fetch-mcp：ymw0407/auth-fetch-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ymw0407/auth-fetch-mcp：ymw0407/auth-fetch-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ymw0407/auth-fetch-mcp：ymw0407/auth-fetch-mcp helps add AI capability without 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ ymw0407/auth-fetch-mcp：ymw0407/auth-fetch-mcp helps add AI capability without 
 - primary language: TypeScript
 - 5 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 62/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 30/100 |
 | stars | 31/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # rilldata/rill
 
-[![Stars](https://img.shields.io/github/stars/rilldata/rill?style=flat-square&color=yellow)](https://github.com/rilldata/rill/stargazers) [![Forks](https://img.shields.io/github/forks/rilldata/rill?style=flat-square&color=blue)](https://github.com/rilldata/rill/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rilldata/rill?style=flat-square&color=yellow)](https://github.com/rilldata/rill/stargazers) [![Forks](https://img.shields.io/github/forks/rilldata/rill?style=flat-square&color=blue)](https://github.com/rilldata/rill/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest business intelligence tool for humans and agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ rilldata/rill: rilldata/rill helps add AI capability without starting from a bla
 
 ### Русский
 
-rilldata/rill: open-source проект в категориях AI/ML, DevTools, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rilldata/rill: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ rilldata/rill：rilldata/rill helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 68/100 |
-| stars | 73/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

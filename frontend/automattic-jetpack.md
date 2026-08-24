@@ -1,6 +1,6 @@
 # Automattic/jetpack
 
-[![Stars](https://img.shields.io/github/stars/Automattic/jetpack?style=flat-square&color=yellow)](https://github.com/Automattic/jetpack/stargazers) [![Forks](https://img.shields.io/github/forks/Automattic/jetpack?style=flat-square&color=blue)](https://github.com/Automattic/jetpack/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Automattic/jetpack?style=flat-square&color=yellow)](https://github.com/Automattic/jetpack/stargazers) [![Forks](https://img.shields.io/github/forks/Automattic/jetpack?style=flat-square&color=blue)](https://github.com/Automattic/jetpack/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 875 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Security · Design
+Frontend · Security · Design · Marketing
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Automattic/jetpack: Automattic/jetpack helps ship user-facing interfaces with le
 
 ### Русский
 
-Automattic/jetpack: open-source проект в категориях Frontend, Security, Design. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Automattic/jetpack: open-source проект в категориях Frontend, Security, Design, Marketing. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Automattic/jetpack：Automattic/jetpack helps ship user-facing interfaces with l
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 70/100 |
-| stars | 69/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

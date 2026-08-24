@@ -1,6 +1,6 @@
 # alexandrehtrb/Pororoca
 
-[![Stars](https://img.shields.io/github/stars/alexandrehtrb/Pororoca?style=flat-square&color=yellow)](https://github.com/alexandrehtrb/Pororoca/stargazers) [![Forks](https://img.shields.io/github/forks/alexandrehtrb/Pororoca?style=flat-square&color=blue)](https://github.com/alexandrehtrb/Pororoca/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexandrehtrb/Pororoca?style=flat-square&color=yellow)](https://github.com/alexandrehtrb/Pororoca/stargazers) [![Forks](https://img.shields.io/github/forks/alexandrehtrb/Pororoca?style=flat-square&color=blue)](https://github.com/alexandrehtrb/Pororoca/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 657 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Pororoca（alexandrehtrb/Pororoca）是一款支持 HTTP/2 与 HTTP/3 的开源 
 | forks | 44/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

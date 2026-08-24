@@ -1,6 +1,6 @@
 # jax-ml/jax
 
-[![Stars](https://img.shields.io/github/stars/jax-ml/jax?style=flat-square&color=yellow)](https://github.com/jax-ml/jax/stargazers) [![Forks](https://img.shields.io/github/forks/jax-ml/jax?style=flat-square&color=blue)](https://github.com/jax-ml/jax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jax-ml/jax?style=flat-square&color=yellow)](https://github.com/jax-ml/jax/stargazers) [![Forks](https://img.shields.io/github/forks/jax-ml/jax?style=flat-square&color=blue)](https://github.com/jax-ml/jax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35.6k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jax-ml/jax：jax-ml/jax helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 57/100 |
+| production | 52/100 |
+| outlook | 50/100 |
 | adoption | 95/100 |
 | stars | 97/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

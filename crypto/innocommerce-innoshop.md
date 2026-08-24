@@ -1,6 +1,6 @@
 # innocommerce/innoshop
 
-[![Stars](https://img.shields.io/github/stars/innocommerce/innoshop?style=flat-square&color=yellow)](https://github.com/innocommerce/innoshop/stargazers) [![Forks](https://img.shields.io/github/forks/innocommerce/innoshop?style=flat-square&color=blue)](https://github.com/innocommerce/innoshop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/innocommerce/innoshop?style=flat-square&color=yellow)](https://github.com/innocommerce/innoshop/stargazers) [![Forks](https://img.shields.io/github/forks/innocommerce/innoshop?style=flat-square&color=blue)](https://github.com/innocommerce/innoshop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > InnoShop is an AI-powered open source e-commerce system built on Laravel 12, designed for global commerce. It supports multiple AI models for intelligent automation, with native multi-language and multi-currency capabilities. The   modular architecture and flexible plugin/theme system make it highly adaptable to diverse business needs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 622 |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -67,16 +67,16 @@ innocommerce/innoshop：innocommerce/innoshop helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 59/100 |
-| stars | 59/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

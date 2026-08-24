@@ -1,6 +1,6 @@
 # swananan/ghostscope
 
-[![Stars](https://img.shields.io/github/stars/swananan/ghostscope?style=flat-square&color=yellow)](https://github.com/swananan/ghostscope/stargazers) [![Forks](https://img.shields.io/github/forks/swananan/ghostscope?style=flat-square&color=blue)](https://github.com/swananan/ghostscope/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swananan/ghostscope?style=flat-square&color=yellow)](https://github.com/swananan/ghostscope/stargazers) [![Forks](https://img.shields.io/github/forks/swananan/ghostscope?style=flat-square&color=blue)](https://github.com/swananan/ghostscope/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > DWARF-aware eBPF tracer for source-level userspace tracing - Explore in a TUI or automate with a scriptable CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Frontend · DevTools
 
 ### 中文
 
-swananan/ghostscope：swananan/ghostscope helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+swananan/ghostscope：swananan/ghostscope helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ swananan/ghostscope：swananan/ghostscope helps ship user-facing interfaces with
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ swananan/ghostscope：swananan/ghostscope helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 42/100 |
 | stars | 48/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

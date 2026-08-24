@@ -1,6 +1,6 @@
 # torrentpier/torrentpier
 
-[![Stars](https://img.shields.io/github/stars/torrentpier/torrentpier?style=flat-square&color=yellow)](https://github.com/torrentpier/torrentpier/stargazers) [![Forks](https://img.shields.io/github/forks/torrentpier/torrentpier?style=flat-square&color=blue)](https://github.com/torrentpier/torrentpier/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/torrentpier/torrentpier?style=flat-square&color=yellow)](https://github.com/torrentpier/torrentpier/stargazers) [![Forks](https://img.shields.io/github/forks/torrentpier/torrentpier?style=flat-square&color=blue)](https://github.com/torrentpier/torrentpier/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🐂 TorrentPier. Bull-powered BitTorrent tracker engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ TorrentPier（🐂）是一款基于 PHP 的高性能 BitTorrent Tracker 引擎�
 | forks | 49/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

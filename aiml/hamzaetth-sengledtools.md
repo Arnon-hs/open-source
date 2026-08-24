@@ -1,6 +1,6 @@
 # HamzaETTH/SengledTools
 
-[![Stars](https://img.shields.io/github/stars/HamzaETTH/SengledTools?style=flat-square&color=yellow)](https://github.com/HamzaETTH/SengledTools/stargazers) [![Forks](https://img.shields.io/github/forks/HamzaETTH/SengledTools?style=flat-square&color=blue)](https://github.com/HamzaETTH/SengledTools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HamzaETTH/SengledTools?style=flat-square&color=yellow)](https://github.com/HamzaETTH/SengledTools/stargazers) [![Forks](https://img.shields.io/github/forks/HamzaETTH/SengledTools?style=flat-square&color=blue)](https://github.com/HamzaETTH/SengledTools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag showdev): Teaching an AI Agent to Talk to a Light Bulb (and Why I Had to Get Up From My Desk)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 34/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Teaching an AI Agent to Talk to a Light Bulb (and Why I Had to Get Up From My De
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 60/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 32/100 |
+| quality | 25/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 32/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

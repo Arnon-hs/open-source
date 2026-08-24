@@ -1,6 +1,6 @@
 # itlackey/akm
 
-[![Stars](https://img.shields.io/github/stars/itlackey/akm?style=flat-square&color=yellow)](https://github.com/itlackey/akm/stargazers) [![Forks](https://img.shields.io/github/forks/itlackey/akm?style=flat-square&color=blue)](https://github.com/itlackey/akm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itlackey/akm?style=flat-square&color=yellow)](https://github.com/itlackey/akm/stargazers) [![Forks](https://img.shields.io/github/forks/itlackey/akm?style=flat-square&color=blue)](https://github.com/itlackey/akm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > akm — Agent Kit Manager. A package manager for AI agent skills, commands, tools, and knowledge.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ itlackey/akm：itlackey/akm helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 61/100 |
-| adoption | 29/100 |
-| stars | 35/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

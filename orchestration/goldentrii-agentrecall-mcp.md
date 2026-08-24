@@ -1,6 +1,6 @@
 # Goldentrii/AgentRecall-MCP
 
-[![Stars](https://img.shields.io/github/stars/Goldentrii/AgentRecall-MCP?style=flat-square&color=yellow)](https://github.com/Goldentrii/AgentRecall-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/Goldentrii/AgentRecall-MCP?style=flat-square&color=blue)](https://github.com/Goldentrii/AgentRecall-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Goldentrii/AgentRecall-MCP?style=flat-square&color=yellow)](https://github.com/Goldentrii/AgentRecall-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/Goldentrii/AgentRecall-MCP?style=flat-square&color=blue)](https://github.com/Goldentrii/AgentRecall-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AI Session Memory with Think-Execute-Reflect Quality Loops — give your agent a brain that survives every session. Built on the Intelligent Distance principle.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 252 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Goldentrii/AgentRecall-MCP：Goldentrii/AgentRecall-MCP helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 60/100 |
-| adoption | 46/100 |
-| stars | 51/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # ykdojo/claude-code-tips
 
-[![Stars](https://img.shields.io/github/stars/ykdojo/claude-code-tips?style=flat-square&color=yellow)](https://github.com/ykdojo/claude-code-tips/stargazers) [![Forks](https://img.shields.io/github/forks/ykdojo/claude-code-tips?style=flat-square&color=blue)](https://github.com/ykdojo/claude-code-tips/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ykdojo/claude-code-tips?style=flat-square&color=yellow)](https://github.com/ykdojo/claude-code-tips/stargazers) [![Forks](https://img.shields.io/github/forks/ykdojo/claude-code-tips?style=flat-square&color=blue)](https://github.com/ykdojo/claude-code-tips/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 43 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.9k |
 | 🍴 **Forks** | 684 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Product
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ ykdojo/claude-code-tips 汇集了 43 条 Claude Code 使用技巧，覆盖从�
 | forks | 71/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

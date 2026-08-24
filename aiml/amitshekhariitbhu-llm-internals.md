@@ -1,6 +1,6 @@
 # amitshekhariitbhu/llm-internals
 
-[![Stars](https://img.shields.io/github/stars/amitshekhariitbhu/llm-internals?style=flat-square&color=yellow)](https://github.com/amitshekhariitbhu/llm-internals/stargazers) [![Forks](https://img.shields.io/github/forks/amitshekhariitbhu/llm-internals?style=flat-square&color=blue)](https://github.com/amitshekhariitbhu/llm-internals/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amitshekhariitbhu/llm-internals?style=flat-square&color=yellow)](https://github.com/amitshekhariitbhu/llm-internals/stargazers) [![Forks](https://img.shields.io/github/forks/amitshekhariitbhu/llm-internals?style=flat-square&color=blue)](https://github.com/amitshekhariitbhu/llm-internals/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Learn LLM internals step by step - from tokenization to attention to inference optimization.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 981 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ In short, `llm‑internals` is a valuable “sandbox‑to‑prototype” asset t
 | forks | 47/100 |
 | stars | 64/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 59/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

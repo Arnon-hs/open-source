@@ -1,6 +1,6 @@
 # rafaelmardojai/blanket
 
-[![Stars](https://img.shields.io/github/stars/rafaelmardojai/blanket?style=flat-square&color=yellow)](https://github.com/rafaelmardojai/blanket/stargazers) [![Forks](https://img.shields.io/github/forks/rafaelmardojai/blanket?style=flat-square&color=blue)](https://github.com/rafaelmardojai/blanket/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafaelmardojai/blanket?style=flat-square&color=yellow)](https://github.com/rafaelmardojai/blanket/stargazers) [![Forks](https://img.shields.io/github/forks/rafaelmardojai/blanket?style=flat-square&color=blue)](https://github.com/rafaelmardojai/blanket/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Listen to different sounds
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML
 
 ### 中文
 
-rafaelmardojai/blanket：rafaelmardojai/blanket helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rafaelmardojai/blanket：rafaelmardojai/blanket helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rafaelmardojai/blanket：rafaelmardojai/blanket helps add AI capability without 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ rafaelmardojai/blanket：rafaelmardojai/blanket helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 65/100 |
 | stars | 70/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

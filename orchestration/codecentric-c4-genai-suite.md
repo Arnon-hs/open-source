@@ -1,6 +1,6 @@
 # codecentric/c4-genai-suite
 
-[![Stars](https://img.shields.io/github/stars/codecentric/c4-genai-suite?style=flat-square&color=yellow)](https://github.com/codecentric/c4-genai-suite/stargazers) [![Forks](https://img.shields.io/github/forks/codecentric/c4-genai-suite?style=flat-square&color=blue)](https://github.com/codecentric/c4-genai-suite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codecentric/c4-genai-suite?style=flat-square&color=yellow)](https://github.com/codecentric/c4-genai-suite/stargazers) [![Forks](https://img.shields.io/github/forks/codecentric/c4-genai-suite?style=flat-square&color=blue)](https://github.com/codecentric/c4-genai-suite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > c4 GenAI Suite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 170 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ codecentric/c4-genai-suite: codecentric/c4-genai-suite helps turn isolated promp
 
 ### Русский
 
-codecentric/c4-genai-suite: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+codecentric/c4-genai-suite: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ codecentric/c4-genai-suite：codecentric/c4-genai-suite helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 65/100 |
-| adoption | 43/100 |
-| stars | 48/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

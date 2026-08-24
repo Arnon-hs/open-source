@@ -1,6 +1,6 @@
 # TartaricAcid/TouhouLittleMaid
 
-[![Stars](https://img.shields.io/github/stars/TartaricAcid/TouhouLittleMaid?style=flat-square&color=yellow)](https://github.com/TartaricAcid/TouhouLittleMaid/stargazers) [![Forks](https://img.shields.io/github/forks/TartaricAcid/TouhouLittleMaid?style=flat-square&color=blue)](https://github.com/TartaricAcid/TouhouLittleMaid/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TartaricAcid/TouhouLittleMaid?style=flat-square&color=yellow)](https://github.com/TartaricAcid/TouhouLittleMaid/stargazers) [![Forks](https://img.shields.io/github/forks/TartaricAcid/TouhouLittleMaid?style=flat-square&color=blue)](https://github.com/TartaricAcid/TouhouLittleMaid/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A minecraft forge mod about the maid
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 760 |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TartaricAcid’s **Touhou Little Maid** is an open‑source Minecraft Forge mod 
 
 ### 中文
 
-TartaricAcid/TouhouLittleMaid：TartaricAcid/TouhouLittleMaid helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+TartaricAcid/TouhouLittleMaid：TartaricAcid/TouhouLittleMaid helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ TartaricAcid/TouhouLittleMaid：TartaricAcid/TouhouLittleMaid helps add AI capab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ TartaricAcid/TouhouLittleMaid：TartaricAcid/TouhouLittleMaid helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 59/100 |
 | stars | 61/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

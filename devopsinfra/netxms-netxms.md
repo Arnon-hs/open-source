@@ -1,6 +1,6 @@
 # netxms/netxms
 
-[![Stars](https://img.shields.io/github/stars/netxms/netxms?style=flat-square&color=yellow)](https://github.com/netxms/netxms/stargazers) [![Forks](https://img.shields.io/github/forks/netxms/netxms?style=flat-square&color=blue)](https://github.com/netxms/netxms/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netxms/netxms?style=flat-square&color=yellow)](https://github.com/netxms/netxms/stargazers) [![Forks](https://img.shields.io/github/forks/netxms/netxms?style=flat-square&color=blue)](https://github.com/netxms/netxms/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > NetXMS - Open Source network and infrastructure monitoring and management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ NetXMS — это полностью открытая система мони�
 
 ### 中文
 
-netxms/netxms：netxms/netxms helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+netxms/netxms：netxms/netxms helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ netxms/netxms：netxms/netxms helps make deployment and operations more repeatab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ netxms/netxms：netxms/netxms helps make deployment and operations more repeatab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 47/100 |
+| outlook | 52/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

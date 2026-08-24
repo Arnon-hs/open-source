@@ -1,6 +1,6 @@
 # woven-by-toyota/arene-base
 
-[![Stars](https://img.shields.io/github/stars/woven-by-toyota/arene-base?style=flat-square&color=yellow)](https://github.com/woven-by-toyota/arene-base/stargazers) [![Forks](https://img.shields.io/github/forks/woven-by-toyota/arene-base?style=flat-square&color=blue)](https://github.com/woven-by-toyota/arene-base/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/woven-by-toyota/arene-base?style=flat-square&color=yellow)](https://github.com/woven-by-toyota/arene-base/stargazers) [![Forks](https://img.shields.io/github/forks/woven-by-toyota/arene-base?style=flat-square&color=blue)](https://github.com/woven-by-toyota/arene-base/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 41/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 28/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Arene Base 是一个在 Hacker News（github‑mentions）中被发现的开�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 54/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 26/100 |
+| quality | 21/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 32/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

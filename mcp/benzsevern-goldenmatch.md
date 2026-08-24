@@ -1,0 +1,82 @@
+# benzsevern/goldenmatch
+
+[![Stars](https://img.shields.io/github/stars/benzsevern/goldenmatch?style=flat-square&color=yellow)](https://github.com/benzsevern/goldenmatch/stargazers) [![Forks](https://img.shields.io/github/forks/benzsevern/goldenmatch?style=flat-square&color=blue)](https://github.com/benzsevern/goldenmatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+
+> Polyglot data-quality + entity-resolution toolkit with introspective auto-config: zero-config beats hand-tuned on DBLP-ACM (0.96 F1), Febrl3 (0.94 F1), NCVR (0.97 F1). GoldenCheck profiles -> GoldenFlow standardizes -> GoldenMatch dedupes -> GoldenPipe orchestrates. MCP per package, multi-arch containers, Airflow DAGs, browser workbench.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 37 |
+| 🍴 **Forks** | 5 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`active-learning` `agent` `airflow` `auto-config` `data-engineering` `data-quality` `deduplication` `entity-resolution` `fuzzy-matching` `human-in-the-loop` `introspective` `llm`
+
+## 🎯 Categories
+
+MCP · AI/ML · Backend · Data
+
+## 📝 Summary
+
+### English
+
+GoldenMatch is a polyglot data‑quality and entity‑resolution toolkit that automatically configures itself to achieve state‑of‑the‑art deduplication results (e.g., 0.96 F1 on DBLP‑ACM, 0.94 F1 on Febrl3, 0.97 F1 on NCVR) without manual tuning. The workflow starts with GoldenCheck profiling, passes through GoldenFlow standardization, runs GoldenMatch for deduplication, and is orchestrated by GoldenPipe, with each component packaged as multi‑arch containers, exposed via Airflow DAGs and a web‑based workbench. It targets AI/ML, backend, and data engineering use cases.
+
+### Русский
+
+**GoldenMatch** – это полиглотный набор инструментов для обеспечения качества данных и разрешения сущностей, который автоматически подбирает конфигурацию и превосходит ручные настройки (0.96 F1 на DBLP‑ACM, 0.94 F1 на Febrl3, 0.97 F1 на NCVR). Он объединяет профилирование (GoldenCheck), стандартизацию (GoldenFlow), дедупликацию (GoldenMatch) и оркестрацию процессов (GoldenPipe), поставляется в виде мульти‑архитектурных контейнеров с MCP‑пакетами, Airflow‑DAG и веб‑рабочего места. Подходит для AI/ML, бэкенда и работы с данными.
+
+### 中文
+
+benzsevern/goldenmatch：benzsevern/goldenmatch helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** benzsevern/goldenmatch helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 37 GitHub stars
+- 5 forks
+- updated 2026-05-08
+- primary language: Python
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 19/100 |
+| stars | 34/100 |
+| topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/benzsevern/goldenmatch) · [← Back to Mcp](./README.md)</sub>

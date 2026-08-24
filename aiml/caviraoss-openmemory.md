@@ -1,6 +1,6 @@
 # CaviraOSS/OpenMemory
 
-[![Stars](https://img.shields.io/github/stars/CaviraOSS/OpenMemory?style=flat-square&color=yellow)](https://github.com/CaviraOSS/OpenMemory/stargazers) [![Forks](https://img.shields.io/github/forks/CaviraOSS/OpenMemory?style=flat-square&color=blue)](https://github.com/CaviraOSS/OpenMemory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CaviraOSS/OpenMemory?style=flat-square&color=yellow)](https://github.com/CaviraOSS/OpenMemory/stargazers) [![Forks](https://img.shields.io/github/forks/CaviraOSS/OpenMemory?style=flat-square&color=blue)](https://github.com/CaviraOSS/OpenMemory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 466 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CaviraOSS/OpenMemory：CaviraOSS/OpenMemory helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

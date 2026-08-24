@@ -1,6 +1,6 @@
 # dotnet/skills
 
-[![Stars](https://img.shields.io/github/stars/dotnet/skills?style=flat-square&color=yellow)](https://github.com/dotnet/skills/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/skills?style=flat-square&color=blue)](https://github.com/dotnet/skills/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/skills?style=flat-square&color=yellow)](https://github.com/dotnet/skills/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/skills?style=flat-square&color=blue)](https://github.com/dotnet/skills/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Repository for skills to assist AI coding agents with .NET and C#
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ The dotnet/skills repository provides a collection of open-source skills designe
 
 ### 中文
 
-dotnet/skills：dotnet/skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dotnet/skills：dotnet/skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ dotnet/skills：dotnet/skills helps turn isolated prompts and tools into repeata
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,16 +67,16 @@ dotnet/skills：dotnet/skills helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 64/100 |
-| stars | 68/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 13/100 |
+| outlook | 46/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

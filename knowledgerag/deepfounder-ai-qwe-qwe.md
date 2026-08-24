@@ -1,6 +1,6 @@
 # deepfounder-ai/qwe-qwe
 
-[![Stars](https://img.shields.io/github/stars/deepfounder-ai/qwe-qwe?style=flat-square&color=yellow)](https://github.com/deepfounder-ai/qwe-qwe/stargazers) [![Forks](https://img.shields.io/github/forks/deepfounder-ai/qwe-qwe?style=flat-square&color=blue)](https://github.com/deepfounder-ai/qwe-qwe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepfounder-ai/qwe-qwe?style=flat-square&color=yellow)](https://github.com/deepfounder-ai/qwe-qwe/stargazers) [![Forks](https://img.shields.io/github/forks/deepfounder-ai/qwe-qwe?style=flat-square&color=blue)](https://github.com/deepfounder-ai/qwe-qwe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted AI agent built to drop into business workflows: customer ops, internal automation, knowledge retrieval, scheduled reporting. Deploys on a laptop, a workstation, or your own server — never sends data to a third party unless you tell it to.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Frontend · Backend
+Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ deepfounder‑ai/qwe‑qwe 是一款可自行托管的 AI 代理，专为企业�
 | forks | 26/100 |
 | stars | 35/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 40/100 |
+| recency | 20/100 |
 | adoption | 33/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rust-lang/rustc_codegen_gcc
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rustc_codegen_gcc?style=flat-square&color=yellow)](https://github.com/rust-lang/rustc_codegen_gcc/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustc_codegen_gcc?style=flat-square&color=blue)](https://github.com/rust-lang/rustc_codegen_gcc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rustc_codegen_gcc?style=flat-square&color=yellow)](https://github.com/rust-lang/rustc_codegen_gcc/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustc_codegen_gcc?style=flat-square&color=blue)](https://github.com/rust-lang/rustc_codegen_gcc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > libgccjit AOT codegen for rustc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **rustc_codegen_gcc** project provides a Rust compiler backend that leverage
 
 ### 中文
 
-rust-lang/rustc_codegen_gcc：rust-lang/rustc_codegen_gcc may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rust-lang/rustc_codegen_gcc：rust-lang/rustc_codegen_gcc may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ rust-lang/rustc_codegen_gcc：rust-lang/rustc_codegen_gcc may be useful when its
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ rust-lang/rustc_codegen_gcc：rust-lang/rustc_codegen_gcc may be useful when its
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 13/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

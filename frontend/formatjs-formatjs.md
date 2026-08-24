@@ -1,6 +1,6 @@
 # formatjs/formatjs
 
-[![Stars](https://img.shields.io/github/stars/formatjs/formatjs?style=flat-square&color=yellow)](https://github.com/formatjs/formatjs/stargazers) [![Forks](https://img.shields.io/github/forks/formatjs/formatjs?style=flat-square&color=blue)](https://github.com/formatjs/formatjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/formatjs/formatjs?style=flat-square&color=yellow)](https://github.com/formatjs/formatjs/stargazers) [![Forks](https://img.shields.io/github/forks/formatjs/formatjs?style=flat-square&color=blue)](https://github.com/formatjs/formatjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ formatjs/formatjs：formatjs/formatjs helps ship user-facing interfaces with les
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 64/100 |
-| adoption | 86/100 |
-| stars | 89/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

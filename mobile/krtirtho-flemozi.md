@@ -1,6 +1,6 @@
 # KRTirtho/flemozi
 
-[![Stars](https://img.shields.io/github/stars/KRTirtho/flemozi?style=flat-square&color=yellow)](https://github.com/KRTirtho/flemozi/stargazers) [![Forks](https://img.shields.io/github/forks/KRTirtho/flemozi?style=flat-square&color=blue)](https://github.com/KRTirtho/flemozi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KRTirtho/flemozi?style=flat-square&color=yellow)](https://github.com/KRTirtho/flemozi/stargazers) [![Forks](https://img.shields.io/github/forks/KRTirtho/flemozi?style=flat-square&color=blue)](https://github.com/KRTirtho/flemozi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced⚡ Emoji Picker😀 for Linux🐧, Windows🪟 and macOS🍎
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ KRTirtho/flemozi 是一款跨平台的高级 Emoji 选择器，支持 Linux、Wi
 | forks | 28/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

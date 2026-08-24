@@ -1,6 +1,6 @@
 # emersion/slurp
 
-[![Stars](https://img.shields.io/github/stars/emersion/slurp?style=flat-square&color=yellow)](https://github.com/emersion/slurp/stargazers) [![Forks](https://img.shields.io/github/forks/emersion/slurp?style=flat-square&color=blue)](https://github.com/emersion/slurp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emersion/slurp?style=flat-square&color=yellow)](https://github.com/emersion/slurp/stargazers) [![Forks](https://img.shields.io/github/forks/emersion/slurp?style=flat-square&color=blue)](https://github.com/emersion/slurp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Select a region in a Wayland compositor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ DevTools
 
 ### 中文
 
-emersion/slurp：emersion/slurp helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+emersion/slurp：emersion/slurp helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ emersion/slurp：emersion/slurp helps engineers save time in daily development a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,16 +66,16 @@ emersion/slurp：emersion/slurp helps engineers save time in daily development a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 54/100 |
-| adoption | 60/100 |
-| stars | 66/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 38/100 |
+| outlook | 47/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

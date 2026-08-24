@@ -1,6 +1,6 @@
 # edouard-claude/snip
 
-[![Stars](https://img.shields.io/github/stars/edouard-claude/snip?style=flat-square&color=yellow)](https://github.com/edouard-claude/snip/stargazers) [![Forks](https://img.shields.io/github/forks/edouard-claude/snip?style=flat-square&color=blue)](https://github.com/edouard-claude/snip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edouard-claude/snip?style=flat-square&color=yellow)](https://github.com/edouard-claude/snip/stargazers) [![Forks](https://img.shields.io/github/forks/edouard-claude/snip?style=flat-square&color=blue)](https://github.com/edouard-claude/snip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 226 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ edouard‑claude/snip 是一个基于 Go 实现的 CLI 代理工具，能够通�
 | forks | 36/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

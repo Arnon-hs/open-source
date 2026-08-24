@@ -1,6 +1,6 @@
 # kingston-csj/jforgame
 
-[![Stars](https://img.shields.io/github/stars/kingston-csj/jforgame?style=flat-square&color=yellow)](https://github.com/kingston-csj/jforgame/stargazers) [![Forks](https://img.shields.io/github/forks/kingston-csj/jforgame?style=flat-square&color=blue)](https://github.com/kingston-csj/jforgame/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kingston-csj/jforgame?style=flat-square&color=yellow)](https://github.com/kingston-csj/jforgame/stargazers) [![Forks](https://img.shields.io/github/forks/kingston-csj/jforgame?style=flat-square&color=blue)](https://github.com/kingston-csj/jforgame/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > jforgame是一个一站式游戏服务器开发框架。包含游戏服务器开发所需要的各种组件，比如socket服务端与客户端，高性能线程模型，自定义二进制消息编解码，自定义orm工具，游戏热更新，配置表自动化仓库，游戏通用工具等等。包含游戏服，跨服，匹配服，后台管理系统等实现，同时提供大量业务案例以供学习。亦可用于其他socket应用，例如及时聊天等。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 335 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Database
+Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ jforgame 是一个“一站式”游戏服务器开发框架，提供从底层 s
 | forks | 63/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

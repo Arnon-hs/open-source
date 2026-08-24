@@ -1,6 +1,6 @@
 # lidge-jun/cli-jaw
 
-[![Stars](https://img.shields.io/github/stars/lidge-jun/cli-jaw?style=flat-square&color=yellow)](https://github.com/lidge-jun/cli-jaw/stargazers) [![Forks](https://img.shields.io/github/forks/lidge-jun/cli-jaw?style=flat-square&color=blue)](https://github.com/lidge-jun/cli-jaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lidge-jun/cli-jaw?style=flat-square&color=yellow)](https://github.com/lidge-jun/cli-jaw/stargazers) [![Forks](https://img.shields.io/github/forks/lidge-jun/cli-jaw?style=flat-square&color=blue)](https://github.com/lidge-jun/cli-jaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🦈 2-line install personal AI assistant. 5 engines (Claude, Codex, Gemini, OpenCode, Copilot), 108 skills, zero ban risk.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -69,16 +69,16 @@ lidge-jun/cli-jaw：lidge-jun/cli-jaw helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 64/100 |
-| adoption | 40/100 |
-| stars | 43/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

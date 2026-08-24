@@ -1,6 +1,6 @@
 # programmersd21/kairo
 
-[![Stars](https://img.shields.io/github/stars/programmersd21/kairo?style=flat-square&color=yellow)](https://github.com/programmersd21/kairo/stargazers) [![Forks](https://img.shields.io/github/forks/programmersd21/kairo?style=flat-square&color=blue)](https://github.com/programmersd21/kairo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/programmersd21/kairo?style=flat-square&color=yellow)](https://github.com/programmersd21/kairo/stargazers) [![Forks](https://img.shields.io/github/forks/programmersd21/kairo?style=flat-square&color=blue)](https://github.com/programmersd21/kairo/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🤩 Kairo is a fast, keyboard-first terminal task manager in Go 🐹 with offline-first SQLite, Git sync 🔁, fuzzy search 🔍 & Lua plugins 🧩
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 191 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Frontend · DevTools · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ programmersd21/kairo: programmersd21/kairo helps turn isolated prompts and tools
 
 ### Русский
 
-programmersd21/kairo: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+programmersd21/kairo: open-source проект в категориях Orchestration, Frontend, DevTools, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ programmersd21/kairo：programmersd21/kairo helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 43/100 |
-| stars | 49/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

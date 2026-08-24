@@ -1,6 +1,6 @@
 # AdguardTeam/FiltersRegistry
 
-[![Stars](https://img.shields.io/github/stars/AdguardTeam/FiltersRegistry?style=flat-square&color=yellow)](https://github.com/AdguardTeam/FiltersRegistry/stargazers) [![Forks](https://img.shields.io/github/forks/AdguardTeam/FiltersRegistry?style=flat-square&color=blue)](https://github.com/AdguardTeam/FiltersRegistry/network) [![Language](https://img.shields.io/badge/lang-Adblock%20Filter%20List-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AdguardTeam/FiltersRegistry?style=flat-square&color=yellow)](https://github.com/AdguardTeam/FiltersRegistry/stargazers) [![Forks](https://img.shields.io/github/forks/AdguardTeam/FiltersRegistry?style=flat-square&color=blue)](https://github.com/AdguardTeam/FiltersRegistry/network) [![Language](https://img.shields.io/badge/lang-Adblock%20Filter%20List-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Known filters subscriptions transformed for better compatibility with AdGuard
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Adblock Filter List |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AdguardTeam/FiltersRegistry — это открытый репозиторий
 
 ### 中文
 
-AdguardTeam/FiltersRegistry：AdguardTeam/FiltersRegistry helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AdguardTeam/FiltersRegistry：AdguardTeam/FiltersRegistry helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AdguardTeam/FiltersRegistry：AdguardTeam/FiltersRegistry helps integrate moneti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AdguardTeam/FiltersRegistry：AdguardTeam/FiltersRegistry helps integrate moneti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 44/100 |
+| outlook | 43/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

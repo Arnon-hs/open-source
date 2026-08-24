@@ -1,6 +1,6 @@
 # inkline/inkline
 
-[![Stars](https://img.shields.io/github/stars/inkline/inkline?style=flat-square&color=yellow)](https://github.com/inkline/inkline/stargazers) [![Forks](https://img.shields.io/github/forks/inkline/inkline?style=flat-square&color=blue)](https://github.com/inkline/inkline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inkline/inkline?style=flat-square&color=yellow)](https://github.com/inkline/inkline/stargazers) [![Forks](https://img.shields.io/github/forks/inkline/inkline?style=flat-square&color=blue)](https://github.com/inkline/inkline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building high-quality, accessible, and customizable Vue.js 3 Design Systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Design
+Frontend · Design
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ inkline/inkline：inkline/inkline helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 62/100 |
-| stars | 67/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

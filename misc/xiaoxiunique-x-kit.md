@@ -1,6 +1,6 @@
 # xiaoxiunique/x-kit
 
-[![Stars](https://img.shields.io/github/stars/xiaoxiunique/x-kit?style=flat-square&color=yellow)](https://github.com/xiaoxiunique/x-kit/stargazers) [![Forks](https://img.shields.io/github/forks/xiaoxiunique/x-kit?style=flat-square&color=blue)](https://github.com/xiaoxiunique/x-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiaoxiunique/x-kit?style=flat-square&color=yellow)](https://github.com/xiaoxiunique/x-kit/stargazers) [![Forks](https://img.shields.io/github/forks/xiaoxiunique/x-kit?style=flat-square&color=blue)](https://github.com/xiaoxiunique/x-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 一个用于抓取和分析 X (Twitter) 用户数据和推文的工具。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 918 |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ x-kit is an open‑source utility designed to collect and analyze user data and 
 
 ### 中文
 
-xiaoxiunique/x-kit：xiaoxiunique/x-kit may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+xiaoxiunique/x-kit：xiaoxiunique/x-kit may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ xiaoxiunique/x-kit：xiaoxiunique/x-kit may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ xiaoxiunique/x-kit：xiaoxiunique/x-kit may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 61/100 |
-| stars | 63/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| stars | 63/100 |
 | topics | 50/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

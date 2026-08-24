@@ -1,6 +1,6 @@
 # SonarSource/SonarJS
 
-[![Stars](https://img.shields.io/github/stars/SonarSource/SonarJS?style=flat-square&color=yellow)](https://github.com/SonarSource/SonarJS/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/SonarJS?style=flat-square&color=blue)](https://github.com/SonarSource/SonarJS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SonarSource/SonarJS?style=flat-square&color=yellow)](https://github.com/SonarSource/SonarJS/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/SonarJS?style=flat-square&color=blue)](https://github.com/SonarSource/SonarJS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > SonarSource Static Analyzer for JavaScript and TypeScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ SonarSource/SonarJS：SonarSource/SonarJS may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 63/100 |
-| stars | 66/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

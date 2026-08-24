@@ -1,6 +1,6 @@
 # toitlang/toit
 
-[![Stars](https://img.shields.io/github/stars/toitlang/toit?style=flat-square&color=yellow)](https://github.com/toitlang/toit/stargazers) [![Forks](https://img.shields.io/github/forks/toitlang/toit?style=flat-square&color=blue)](https://github.com/toitlang/toit/network) [![Language](https://img.shields.io/badge/lang-Toit-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toitlang/toit?style=flat-square&color=yellow)](https://github.com/toitlang/toit/stargazers) [![Forks](https://img.shields.io/github/forks/toitlang/toit?style=flat-square&color=blue)](https://github.com/toitlang/toit/network) [![Language](https://img.shields.io/badge/lang-Toit-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Program your microcontrollers in a fast and robust high-level language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Toit |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ toitlang/toit 为微控制器提供了一门高性能的高级语言，让开发
 | forks | 49/100 |
 | stars | 67/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

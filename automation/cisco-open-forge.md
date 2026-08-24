@@ -1,6 +1,6 @@
 # cisco-open/forge
 
-[![Stars](https://img.shields.io/github/stars/cisco-open/forge?style=flat-square&color=yellow)](https://github.com/cisco-open/forge/stargazers) [![Forks](https://img.shields.io/github/forks/cisco-open/forge?style=flat-square&color=blue)](https://github.com/cisco-open/forge/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cisco-open/forge?style=flat-square&color=yellow)](https://github.com/cisco-open/forge/stargazers) [![Forks](https://img.shields.io/github/forks/cisco-open/forge?style=flat-square&color=blue)](https://github.com/cisco-open/forge/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ForgeMT is a secure, scalable GitHub Actions runner platform for ephemeral workloads. Designed for multi-tenant environments, it automates isolated runner provisioning on Kubernetes or EC2, with built-in OIDC, IAM, cost optimization, and deep observability.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · Database · Observability · DevOps/Infra
+Automation · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ ForgeMT（cisco-open/forge）是一个面向多租户环境的安全、可弹性
 | forks | 24/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

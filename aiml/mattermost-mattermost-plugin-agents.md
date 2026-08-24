@@ -1,6 +1,6 @@
 # mattermost/mattermost-plugin-agents
 
-[![Stars](https://img.shields.io/github/stars/mattermost/mattermost-plugin-agents?style=flat-square&color=yellow)](https://github.com/mattermost/mattermost-plugin-agents/stargazers) [![Forks](https://img.shields.io/github/forks/mattermost/mattermost-plugin-agents?style=flat-square&color=blue)](https://github.com/mattermost/mattermost-plugin-agents/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mattermost/mattermost-plugin-agents?style=flat-square&color=yellow)](https://github.com/mattermost/mattermost-plugin-agents/stargazers) [![Forks](https://img.shields.io/github/forks/mattermost/mattermost-plugin-agents?style=flat-square&color=blue)](https://github.com/mattermost/mattermost-plugin-agents/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Mattermost Agents plugin supporting multiple LLMs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Mattermost Agents 是一款 Mattermost 插件，能够在聊天平台内部直
 | forks | 49/100 |
 | stars | 50/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

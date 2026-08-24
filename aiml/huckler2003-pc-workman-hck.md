@@ -1,6 +1,6 @@
 # HuckleR2003/PC_Workman_HCK
 
-[![Stars](https://img.shields.io/github/stars/HuckleR2003/PC_Workman_HCK?style=flat-square&color=yellow)](https://github.com/HuckleR2003/PC_Workman_HCK/stargazers) [![Forks](https://img.shields.io/github/forks/HuckleR2003/PC_Workman_HCK?style=flat-square&color=blue)](https://github.com/HuckleR2003/PC_Workman_HCK/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HuckleR2003/PC_Workman_HCK?style=flat-square&color=yellow)](https://github.com/HuckleR2003/PC_Workman_HCK/stargazers) [![Forks](https://img.shields.io/github/forks/HuckleR2003/PC_Workman_HCK?style=flat-square&color=blue)](https://github.com/HuckleR2003/PC_Workman_HCK/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): How I Taught My Offline AI to Remember, Watch, and Warn, Without Any Cloud (Part 2)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 33/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ With these steps and due diligence, the project can be safely moved from a proof
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 57/100 |
-| quality | 45/100 |
-| recency | 100/100 |
+| outlook | 29/100 |
+| quality | 25/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 61/100 |
+| production | 34/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

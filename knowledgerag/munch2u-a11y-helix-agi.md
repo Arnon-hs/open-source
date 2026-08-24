@@ -1,6 +1,6 @@
 # munch2u-a11y/Helix-AGI
 
-[![Stars](https://img.shields.io/github/stars/munch2u-a11y/Helix-AGI?style=flat-square&color=yellow)](https://github.com/munch2u-a11y/Helix-AGI/stargazers) [![Forks](https://img.shields.io/github/forks/munch2u-a11y/Helix-AGI?style=flat-square&color=blue)](https://github.com/munch2u-a11y/Helix-AGI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/munch2u-a11y/Helix-AGI?style=flat-square&color=yellow)](https://github.com/munch2u-a11y/Helix-AGI/stargazers) [![Forks](https://img.shields.io/github/forks/munch2u-a11y/Helix-AGI?style=flat-square&color=blue)](https://github.com/munch2u-a11y/Helix-AGI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Helix-AGI is an Agentic AI System that uses an 8d spatial-graph memory retrieval system. Agents receive a rolling adaptive system prompt of memories and skills that afford the agent a highly dynamic center of conceptual gravity. By avoiding long identity files and subagent-heavy workflows, Agents can develop continuously without spiraling costs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Helix‑AGI 通过 8 维空间图记忆检索，让 AI Agent 能在“记忆‑�
 | forks | 19/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # decocms/studio
 
-[![Stars](https://img.shields.io/github/stars/decocms/studio?style=flat-square&color=yellow)](https://github.com/decocms/studio/stargazers) [![Forks](https://img.shields.io/github/forks/decocms/studio?style=flat-square&color=blue)](https://github.com/decocms/studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/decocms/studio?style=flat-square&color=yellow)](https://github.com/decocms/studio/stargazers) [![Forks](https://img.shields.io/github/forks/decocms/studio?style=flat-square&color=blue)](https://github.com/decocms/studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ decocms/studio：decocms/studio helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 67/100 |
+| production | 54/100 |
+| outlook | 60/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

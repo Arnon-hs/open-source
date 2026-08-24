@@ -1,6 +1,6 @@
 # linuxserver/docker-firefox
 
-[![Stars](https://img.shields.io/github/stars/linuxserver/docker-firefox?style=flat-square&color=yellow)](https://github.com/linuxserver/docker-firefox/stargazers) [![Forks](https://img.shields.io/github/forks/linuxserver/docker-firefox?style=flat-square&color=blue)](https://github.com/linuxserver/docker-firefox/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linuxserver/docker-firefox?style=flat-square&color=yellow)](https://github.com/linuxserver/docker-firefox/stargazers) [![Forks](https://img.shields.io/github/forks/linuxserver/docker-firefox?style=flat-square&color=blue)](https://github.com/linuxserver/docker-firefox/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -59,21 +59,21 @@ linuxserver/docker-firefox：linuxserver/docker-firefox helps teams reuse servic
 - primary language: Dockerfile
 - 1 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 34/100 |
-| production | 49/100 |
-| outlook | 46/100 |
+| production | 43/100 |
+| outlook | 39/100 |
 | adoption | 51/100 |
 | stars | 53/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

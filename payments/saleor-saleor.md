@@ -1,6 +1,6 @@
 # saleor/saleor
 
-[![Stars](https://img.shields.io/github/stars/saleor/saleor?style=flat-square&color=yellow)](https://github.com/saleor/saleor/stargazers) [![Forks](https://img.shields.io/github/forks/saleor/saleor?style=flat-square&color=blue)](https://github.com/saleor/saleor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saleor/saleor?style=flat-square&color=yellow)](https://github.com/saleor/saleor/stargazers) [![Forks](https://img.shields.io/github/forks/saleor/saleor?style=flat-square&color=blue)](https://github.com/saleor/saleor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Saleor Core: the high performance, composable, headless commerce API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.9k |
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ saleor/saleor: saleor/saleor helps integrate monetization, billing, or PSP flows
 
 ### Русский
 
-saleor/saleor: open-source проект в категориях Payments, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+saleor/saleor: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ saleor/saleor：saleor/saleor helps integrate monetization, billing, or PSP flow
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 82/100 |
-| integration | 62/100 |
-| production | 65/100 |
-| outlook | 69/100 |
-| adoption | 93/100 |
-| stars | 93/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

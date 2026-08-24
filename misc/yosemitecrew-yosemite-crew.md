@@ -1,6 +1,6 @@
 # YosemiteCrew/Yosemite-Crew
 
-[![Stars](https://img.shields.io/github/stars/YosemiteCrew/Yosemite-Crew?style=flat-square&color=yellow)](https://github.com/YosemiteCrew/Yosemite-Crew/stargazers) [![Forks](https://img.shields.io/github/forks/YosemiteCrew/Yosemite-Crew?style=flat-square&color=blue)](https://github.com/YosemiteCrew/Yosemite-Crew/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YosemiteCrew/Yosemite-Crew?style=flat-square&color=yellow)](https://github.com/YosemiteCrew/Yosemite-Crew/stargazers) [![Forks](https://img.shields.io/github/forks/YosemiteCrew/Yosemite-Crew?style=flat-square&color=blue)](https://github.com/YosemiteCrew/Yosemite-Crew/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open source operating system for animal health
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ YosemiteCrew/Yosemite‑Crew 是一个面向动物健康管理的开源操作系
 | forks | 47/100 |
 | stars | 71/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

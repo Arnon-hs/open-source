@@ -1,6 +1,6 @@
 # rusiaaman/chat.md
 
-[![Stars](https://img.shields.io/github/stars/rusiaaman/chat.md?style=flat-square&color=yellow)](https://github.com/rusiaaman/chat.md/stargazers) [![Forks](https://img.shields.io/github/forks/rusiaaman/chat.md?style=flat-square&color=blue)](https://github.com/rusiaaman/chat.md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rusiaaman/chat.md?style=flat-square&color=yellow)](https://github.com/rusiaaman/chat.md/stargazers) [![Forks](https://img.shields.io/github/forks/rusiaaman/chat.md?style=flat-square&color=blue)](https://github.com/rusiaaman/chat.md/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An md file as a chat interface and editable history in one.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rusiaaman/chat.md：rusiaaman/chat.md helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 39/100 |
 | stars | 43/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

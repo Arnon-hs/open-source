@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-cli
 
-[![Stars](https://img.shields.io/github/stars/SonarSource/sonarqube-cli?style=flat-square&color=yellow)](https://github.com/SonarSource/sonarqube-cli/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonarqube-cli?style=flat-square&color=blue)](https://github.com/SonarSource/sonarqube-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SonarSource/sonarqube-cli?style=flat-square&color=yellow)](https://github.com/SonarSource/sonarqube-cli/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonarqube-cli?style=flat-square&color=blue)](https://github.com/SonarSource/sonarqube-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality and security from your terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ SonarSource/sonarqube‑cli 是一款面向终端的 SonarQube 命令行工具�
 | forks | 24/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

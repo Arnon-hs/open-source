@@ -1,6 +1,6 @@
 # Bitcoin-ABC/bitcoin-abc
 
-[![Stars](https://img.shields.io/github/stars/Bitcoin-ABC/bitcoin-abc?style=flat-square&color=yellow)](https://github.com/Bitcoin-ABC/bitcoin-abc/stargazers) [![Forks](https://img.shields.io/github/forks/Bitcoin-ABC/bitcoin-abc?style=flat-square&color=blue)](https://github.com/Bitcoin-ABC/bitcoin-abc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bitcoin-ABC/bitcoin-abc?style=flat-square&color=yellow)](https://github.com/Bitcoin-ABC/bitcoin-abc/stargazers) [![Forks](https://img.shields.io/github/forks/Bitcoin-ABC/bitcoin-abc?style=flat-square&color=blue)](https://github.com/Bitcoin-ABC/bitcoin-abc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Bitcoin ABC develops node software and infrastructure for the eCash project. This a mirror of the official Bitcoin-ABC repository.  Please see README.md
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 782 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · DevOps/Infra
+Crypto
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Bitcoin ABC — открытый проект, разрабатывающи�
 
 ### 中文
 
-Bitcoin-ABC/bitcoin-abc：Bitcoin-ABC/bitcoin-abc helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Bitcoin-ABC/bitcoin-abc：Bitcoin-ABC/bitcoin-abc helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Bitcoin-ABC/bitcoin-abc：Bitcoin-ABC/bitcoin-abc helps prototype or inspect blo
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Bitcoin-ABC/bitcoin-abc：Bitcoin-ABC/bitcoin-abc helps prototype or inspect blo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 54/100 |
-| adoption | 68/100 |
-| stars | 66/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 50/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

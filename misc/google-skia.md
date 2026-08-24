@@ -1,6 +1,6 @@
 # google/skia
 
-[![Stars](https://img.shields.io/github/stars/google/skia?style=flat-square&color=yellow)](https://github.com/google/skia/stargazers) [![Forks](https://img.shields.io/github/forks/google/skia?style=flat-square&color=blue)](https://github.com/google/skia/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/skia?style=flat-square&color=yellow)](https://github.com/google/skia/stargazers) [![Forks](https://img.shields.io/github/forks/google/skia?style=flat-square&color=blue)](https://github.com/google/skia/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Google Skia 是一套完整的 2D 图形库，支持文字、几何体和图�
 | forks | 81/100 |
 | stars | 86/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 84/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tinovyatkin/pass-js
 
-[![Stars](https://img.shields.io/github/stars/tinovyatkin/pass-js?style=flat-square&color=yellow)](https://github.com/tinovyatkin/pass-js/stargazers) [![Forks](https://img.shields.io/github/forks/tinovyatkin/pass-js?style=flat-square&color=blue)](https://github.com/tinovyatkin/pass-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinovyatkin/pass-js?style=flat-square&color=yellow)](https://github.com/tinovyatkin/pass-js/stargazers) [![Forks](https://img.shields.io/github/forks/tinovyatkin/pass-js?style=flat-square&color=blue)](https://github.com/tinovyatkin/pass-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Apple Wallet Passes generating library for Node.JS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 731 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ tinovyatkin/pass‑js 是一款基于 Node.js 的 Apple Wallet Pass 生成库�
 | forks | 48/100 |
 | stars | 61/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

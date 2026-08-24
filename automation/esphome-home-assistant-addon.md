@@ -1,6 +1,6 @@
 # esphome/home-assistant-addon
 
-[![Stars](https://img.shields.io/github/stars/esphome/home-assistant-addon?style=flat-square&color=yellow)](https://github.com/esphome/home-assistant-addon/stargazers) [![Forks](https://img.shields.io/github/forks/esphome/home-assistant-addon?style=flat-square&color=blue)](https://github.com/esphome/home-assistant-addon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esphome/home-assistant-addon?style=flat-square&color=yellow)](https://github.com/esphome/home-assistant-addon/stargazers) [![Forks](https://img.shields.io/github/forks/esphome/home-assistant-addon?style=flat-square&color=blue)](https://github.com/esphome/home-assistant-addon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > ESPHome Home Assistant Add-on
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 323 |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ esphome/home-assistant-addon 是为 Home Assistant 平台提供的 ESPHome 插�
 | forks | 54/100 |
 | stars | 53/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

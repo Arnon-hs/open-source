@@ -1,6 +1,6 @@
 # sorbet/sorbet
 
-[![Stars](https://img.shields.io/github/stars/sorbet/sorbet?style=flat-square&color=yellow)](https://github.com/sorbet/sorbet/stargazers) [![Forks](https://img.shields.io/github/forks/sorbet/sorbet?style=flat-square&color=blue)](https://github.com/sorbet/sorbet/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sorbet/sorbet?style=flat-square&color=yellow)](https://github.com/sorbet/sorbet/stargazers) [![Forks](https://img.shields.io/github/forks/sorbet/sorbet?style=flat-square&color=blue)](https://github.com/sorbet/sorbet/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, powerful type checker designed for Ruby
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 586 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Design
 
 ### English
 
-sorbet/sorbet: sorbet/sorbet may be useful when its README and activity match a concrete workflow.. Use it for Design. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sorbet/sorbet: sorbet/sorbet may be useful when its README and activity match a concrete workflow.. Use it for Design. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-sorbet/sorbet: open-source проект в категориях Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+sorbet/sorbet: open-source проект в категориях Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-sorbet/sorbet：sorbet/sorbet may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sorbet/sorbet：sorbet/sorbet may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sorbet/sorbet：sorbet/sorbet may be useful when its README and activity match a
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ sorbet/sorbet：sorbet/sorbet may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

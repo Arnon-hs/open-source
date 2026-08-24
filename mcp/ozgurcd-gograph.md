@@ -1,6 +1,6 @@
 # ozgurcd/gograph
 
-[![Stars](https://img.shields.io/github/stars/ozgurcd/gograph?style=flat-square&color=yellow)](https://github.com/ozgurcd/gograph/stargazers) [![Forks](https://img.shields.io/github/forks/ozgurcd/gograph?style=flat-square&color=blue)](https://github.com/ozgurcd/gograph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ozgurcd/gograph?style=flat-square&color=yellow)](https://github.com/ozgurcd/gograph/stargazers) [![Forks](https://img.shields.io/github/forks/ozgurcd/gograph?style=flat-square&color=blue)](https://github.com/ozgurcd/gograph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ ozgurcd/gograph 是一款仅在本地运行的高速 CLI 工具，可一键生�
 | forks | 19/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 33/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

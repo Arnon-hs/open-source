@@ -1,6 +1,6 @@
 # funny-vibes/agent-vibes
 
-[![Stars](https://img.shields.io/github/stars/funny-vibes/agent-vibes?style=flat-square&color=yellow)](https://github.com/funny-vibes/agent-vibes/stargazers) [![Forks](https://img.shields.io/github/forks/funny-vibes/agent-vibes?style=flat-square&color=blue)](https://github.com/funny-vibes/agent-vibes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/funny-vibes/agent-vibes?style=flat-square&color=yellow)](https://github.com/funny-vibes/agent-vibes/stargazers) [![Forks](https://img.shields.io/github/forks/funny-vibes/agent-vibes?style=flat-square&color=blue)](https://github.com/funny-vibes/agent-vibes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Unified Agent Gateway — Enables Claude Code CLI and Cursor IDE to use free AI backends (Antigravity, Codex) through protocol translation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ funny‑vibes/agent‑vibes 是一个统一的 Agent Gateway，负责将 Claud
 | forks | 44/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

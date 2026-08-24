@@ -1,6 +1,6 @@
 # pocketpaw/pocketpaw
 
-[![Stars](https://img.shields.io/github/stars/pocketpaw/pocketpaw?style=flat-square&color=yellow)](https://github.com/pocketpaw/pocketpaw/stargazers) [![Forks](https://img.shields.io/github/forks/pocketpaw/pocketpaw?style=flat-square&color=blue)](https://github.com/pocketpaw/pocketpaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pocketpaw/pocketpaw?style=flat-square&color=yellow)](https://github.com/pocketpaw/pocketpaw/stargazers) [![Forks](https://img.shields.io/github/forks/pocketpaw/pocketpaw?style=flat-square&color=blue)](https://github.com/pocketpaw/pocketpaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 791 |
 | 🍴 **Forks** | 297 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ pocketpaw/pocketpaw：pocketpaw/pocketpaw helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 67/100 |
-| adoption | 62/100 |
-| stars | 62/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

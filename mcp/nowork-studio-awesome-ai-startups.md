@@ -1,6 +1,6 @@
 # nowork-studio/awesome-ai-startups
 
-[![Stars](https://img.shields.io/github/stars/nowork-studio/awesome-ai-startups?style=flat-square&color=yellow)](https://github.com/nowork-studio/awesome-ai-startups/stargazers) [![Forks](https://img.shields.io/github/forks/nowork-studio/awesome-ai-startups?style=flat-square&color=blue)](https://github.com/nowork-studio/awesome-ai-startups/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nowork-studio/awesome-ai-startups?style=flat-square&color=yellow)](https://github.com/nowork-studio/awesome-ai-startups/stargazers) [![Forks](https://img.shields.io/github/forks/nowork-studio/awesome-ai-startups?style=flat-square&color=blue)](https://github.com/nowork-studio/awesome-ai-startups/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of indie-built AI startups — bootstrapped, pre-seed, and angel-funded products only.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Backend · Marketing
 
 ## 📝 Summary
 
@@ -86,14 +86,15 @@ nowork‑studio/awesome‑ai‑startups 是一个精选的独立 AI 初创公司
 | forks | 34/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

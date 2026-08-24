@@ -1,6 +1,6 @@
 # eclipse-openj9/openj9
 
-[![Stars](https://img.shields.io/github/stars/eclipse-openj9/openj9?style=flat-square&color=yellow)](https://github.com/eclipse-openj9/openj9/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-openj9/openj9?style=flat-square&color=blue)](https://github.com/eclipse-openj9/openj9/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eclipse-openj9/openj9?style=flat-square&color=yellow)](https://github.com/eclipse-openj9/openj9/stargazers) [![Forks](https://img.shields.io/github/forks/eclipse-openj9/openj9?style=flat-square&color=blue)](https://github.com/eclipse-openj9/openj9/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 786 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ eclipse-openj9/openj9：eclipse-openj9/openj9 helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 75/100 |
 | stars | 75/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

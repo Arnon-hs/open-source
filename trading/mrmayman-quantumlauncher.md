@@ -1,6 +1,6 @@
 # Mrmayman/quantumlauncher
 
-[![Stars](https://img.shields.io/github/stars/Mrmayman/quantumlauncher?style=flat-square&color=yellow)](https://github.com/Mrmayman/quantumlauncher/stargazers) [![Forks](https://img.shields.io/github/forks/Mrmayman/quantumlauncher?style=flat-square&color=blue)](https://github.com/Mrmayman/quantumlauncher/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mrmayman/quantumlauncher?style=flat-square&color=yellow)](https://github.com/Mrmayman/quantumlauncher/stargazers) [![Forks](https://img.shields.io/github/forks/Mrmayman/quantumlauncher?style=flat-square&color=blue)](https://github.com/Mrmayman/quantumlauncher/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, powerful Minecraft launcher
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Mrmayman/quantumlauncher — простой и мощный open‑source‑з
 
 ### 中文
 
-Mrmayman/quantumlauncher：Mrmayman/quantumlauncher helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Mrmayman/quantumlauncher：Mrmayman/quantumlauncher helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Mrmayman/quantumlauncher：Mrmayman/quantumlauncher helps research and automate 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Mrmayman/quantumlauncher：Mrmayman/quantumlauncher helps research and automate 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 45/100 |
+| outlook | 45/100 |
 | adoption | 43/100 |
 | stars | 47/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # dust-engine/dust
 
-[![Stars](https://img.shields.io/github/stars/dust-engine/dust?style=flat-square&color=yellow)](https://github.com/dust-engine/dust/stargazers) [![Forks](https://img.shields.io/github/forks/dust-engine/dust?style=flat-square&color=blue)](https://github.com/dust-engine/dust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dust-engine/dust?style=flat-square&color=yellow)](https://github.com/dust-engine/dust/stargazers) [![Forks](https://img.shields.io/github/forks/dust-engine/dust?style=flat-square&color=blue)](https://github.com/dust-engine/dust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A research project trying to push the boundaries of voxel geometry and interactivity. Experimental real-time global illumination renderer powered by Rust, Vulkan and Bevy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Dust‑engine/dust 适合作为 **原型验证** 或 **内部研发工具** 的�
 | forks | 19/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 69/100 |
-| usefulness | 42/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

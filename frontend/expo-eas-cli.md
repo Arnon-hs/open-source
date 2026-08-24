@@ -1,6 +1,6 @@
 # expo/eas-cli
 
-[![Stars](https://img.shields.io/github/stars/expo/eas-cli?style=flat-square&color=yellow)](https://github.com/expo/eas-cli/stargazers) [![Forks](https://img.shields.io/github/forks/expo/eas-cli?style=flat-square&color=blue)](https://github.com/expo/eas-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/expo/eas-cli?style=flat-square&color=yellow)](https://github.com/expo/eas-cli/stargazers) [![Forks](https://img.shields.io/github/forks/expo/eas-cli?style=flat-square&color=blue)](https://github.com/expo/eas-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Fastest way to build, submit, and update iOS and Android apps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ expo/eas-cli：expo/eas-cli helps ship user-facing interfaces with less custom U
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 64/100 |
 | stars | 66/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

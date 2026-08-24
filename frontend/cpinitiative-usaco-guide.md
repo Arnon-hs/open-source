@@ -1,6 +1,6 @@
 # cpinitiative/usaco-guide
 
-[![Stars](https://img.shields.io/github/stars/cpinitiative/usaco-guide?style=flat-square&color=yellow)](https://github.com/cpinitiative/usaco-guide/stargazers) [![Forks](https://img.shields.io/github/forks/cpinitiative/usaco-guide?style=flat-square&color=blue)](https://github.com/cpinitiative/usaco-guide/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cpinitiative/usaco-guide?style=flat-square&color=yellow)](https://github.com/cpinitiative/usaco-guide/stargazers) [![Forks](https://img.shields.io/github/forks/cpinitiative/usaco-guide?style=flat-square&color=blue)](https://github.com/cpinitiative/usaco-guide/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A free collection of curated, high-quality resources to take you from Bronze to Platinum and beyond.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 631 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cpinitiative/usaco-guide：cpinitiative/usaco-guide helps ship user-facing inter
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 69/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

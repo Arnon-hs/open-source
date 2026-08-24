@@ -1,6 +1,6 @@
 # zmustafa/AzureSupportAgent
 
-[![Stars](https://img.shields.io/github/stars/zmustafa/AzureSupportAgent?style=flat-square&color=yellow)](https://github.com/zmustafa/AzureSupportAgent/stargazers) [![Forks](https://img.shields.io/github/forks/zmustafa/AzureSupportAgent?style=flat-square&color=blue)](https://github.com/zmustafa/AzureSupportAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zmustafa/AzureSupportAgent?style=flat-square&color=yellow)](https://github.com/zmustafa/AzureSupportAgent/stargazers) [![Forks](https://img.shields.io/github/forks/zmustafa/AzureSupportAgent?style=flat-square&color=blue)](https://github.com/zmustafa/AzureSupportAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AI-driven Azure operations workbench. Chat with your tenant, investigate incidents with a team of specialist AI agents, and assess, monitor & remediate your cloud — runs in your own subscription. One-click deploy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · MCP · AI/ML · Frontend · Backend
+Payments · MCP · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ AzureSupportAgent 在计费/支付场景下提供了快速集成与智能运维�
 | forks | 0/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

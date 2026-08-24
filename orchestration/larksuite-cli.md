@@ -1,6 +1,6 @@
 # larksuite/cli
 
-[![Stars](https://img.shields.io/github/stars/larksuite/cli?style=flat-square&color=yellow)](https://github.com/larksuite/cli/stargazers) [![Forks](https://img.shields.io/github/forks/larksuite/cli?style=flat-square&color=blue)](https://github.com/larksuite/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/larksuite/cli?style=flat-square&color=yellow)](https://github.com/larksuite/cli/stargazers) [![Forks](https://img.shields.io/github/forks/larksuite/cli?style=flat-square&color=blue)](https://github.com/larksuite/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.4k |
 | 🍴 **Forks** | 630 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ larksuite/cli: larksuite/cli helps turn isolated prompts and tools into repeatab
 
 ### Русский
 
-larksuite/cli: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+larksuite/cli: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,16 +64,16 @@ larksuite/cli：larksuite/cli helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 80/100 |
-| stars | 85/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 0/100 |
+| outlook | 55/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

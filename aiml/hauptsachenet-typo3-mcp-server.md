@@ -1,6 +1,6 @@
 # hauptsacheNet/typo3-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/hauptsacheNet/typo3-mcp-server?style=flat-square&color=yellow)](https://github.com/hauptsacheNet/typo3-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/hauptsacheNet/typo3-mcp-server?style=flat-square&color=blue)](https://github.com/hauptsacheNet/typo3-mcp-server/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hauptsacheNet/typo3-mcp-server?style=flat-square&color=yellow)](https://github.com/hauptsacheNet/typo3-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/hauptsacheNet/typo3-mcp-server?style=flat-square&color=blue)](https://github.com/hauptsacheNet/typo3-mcp-server/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > One MCP endpoint connects your TYPO3 site to Claude, Cursor, n8n, and any AI tool — safely through workspaces.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **typo3-mcp-server** project provides a single MCP (Message Communication Pr
 
 ### 中文
 
-hauptsacheNet/typo3-mcp-server：hauptsacheNet/typo3-mcp-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hauptsacheNet/typo3-mcp-server：hauptsacheNet/typo3-mcp-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hauptsacheNet/typo3-mcp-server：hauptsacheNet/typo3-mcp-server helps add AI cap
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ hauptsacheNet/typo3-mcp-server：hauptsacheNet/typo3-mcp-server helps add AI cap
 - primary language: PHP
 - 4 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 53/100 |
+| production | 44/100 |
+| outlook | 46/100 |
 | adoption | 38/100 |
 | stars | 40/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

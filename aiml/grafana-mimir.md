@@ -1,6 +1,6 @@
 # grafana/mimir
 
-[![Stars](https://img.shields.io/github/stars/grafana/mimir?style=flat-square&color=yellow)](https://github.com/grafana/mimir/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/mimir?style=flat-square&color=blue)](https://github.com/grafana/mimir/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/mimir?style=flat-square&color=yellow)](https://github.com/grafana/mimir/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/mimir?style=flat-square&color=blue)](https://github.com/grafana/mimir/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 764 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ grafana/mimir：grafana/mimir helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

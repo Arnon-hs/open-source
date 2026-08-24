@@ -1,6 +1,6 @@
 # upptime/uptime-monitor
 
-[![Stars](https://img.shields.io/github/stars/upptime/uptime-monitor?style=flat-square&color=yellow)](https://github.com/upptime/uptime-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/upptime/uptime-monitor?style=flat-square&color=blue)](https://github.com/upptime/uptime-monitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/upptime/uptime-monitor?style=flat-square&color=yellow)](https://github.com/upptime/uptime-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/upptime/uptime-monitor?style=flat-square&color=blue)](https://github.com/upptime/uptime-monitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > ⬆️📈 Uptime monitor powered by GitHub Actions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 307 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ upptime/uptime‑monitor 是一个基于 GitHub Actions 的开源 Uptime 监控�
 | forks | 55/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pdeljanov/Symphonia
 
-[![Stars](https://img.shields.io/github/stars/pdeljanov/Symphonia?style=flat-square&color=yellow)](https://github.com/pdeljanov/Symphonia/stargazers) [![Forks](https://img.shields.io/github/forks/pdeljanov/Symphonia?style=flat-square&color=blue)](https://github.com/pdeljanov/Symphonia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pdeljanov/Symphonia?style=flat-square&color=yellow)](https://github.com/pdeljanov/Symphonia/stargazers) [![Forks](https://img.shields.io/github/forks/pdeljanov/Symphonia?style=flat-square&color=blue)](https://github.com/pdeljanov/Symphonia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ pdeljanov/Symphonia：pdeljanov/Symphonia may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 70/100 |
-| stars | 75/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

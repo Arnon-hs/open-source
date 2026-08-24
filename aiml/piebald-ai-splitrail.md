@@ -1,6 +1,6 @@
 # Piebald-AI/splitrail
 
-[![Stars](https://img.shields.io/github/stars/Piebald-AI/splitrail?style=flat-square&color=yellow)](https://github.com/Piebald-AI/splitrail/stargazers) [![Forks](https://img.shields.io/github/forks/Piebald-AI/splitrail?style=flat-square&color=blue)](https://github.com/Piebald-AI/splitrail/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Piebald-AI/splitrail?style=flat-square&color=yellow)](https://github.com/Piebald-AI/splitrail/stargazers) [![Forks](https://img.shields.io/github/forks/Piebald-AI/splitrail?style=flat-square&color=blue)](https://github.com/Piebald-AI/splitrail/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Piebald-AI/splitrail 的生产可用性为中等。它适合用于原型开发�
 | forks | 32/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

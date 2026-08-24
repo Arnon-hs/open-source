@@ -1,6 +1,6 @@
 # psviderski/uncloud
 
-[![Stars](https://img.shields.io/github/stars/psviderski/uncloud?style=flat-square&color=yellow)](https://github.com/psviderski/uncloud/stargazers) [![Forks](https://img.shields.io/github/forks/psviderski/uncloud?style=flat-square&color=blue)](https://github.com/psviderski/uncloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/psviderski/uncloud?style=flat-square&color=yellow)](https://github.com/psviderski/uncloud/stargazers) [![Forks](https://img.shields.io/github/forks/psviderski/uncloud?style=flat-square&color=blue)](https://github.com/psviderski/uncloud/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 165 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · DevOps/Infra
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ psviderski/uncloud 是一款轻量级的编排工具，能够在多台 Docker �
 | forks | 56/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 86/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

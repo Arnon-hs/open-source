@@ -1,6 +1,6 @@
 # softwaremill/sttp-ai
 
-[![Stars](https://img.shields.io/github/stars/softwaremill/sttp-ai?style=flat-square&color=yellow)](https://github.com/softwaremill/sttp-ai/stargazers) [![Forks](https://img.shields.io/github/forks/softwaremill/sttp-ai?style=flat-square&color=blue)](https://github.com/softwaremill/sttp-ai/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/softwaremill/sttp-ai?style=flat-square&color=yellow)](https://github.com/softwaremill/sttp-ai/stargazers) [![Forks](https://img.shields.io/github/forks/softwaremill/sttp-ai?style=flat-square&color=blue)](https://github.com/softwaremill/sttp-ai/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Scala Client for AI models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ softwaremill/sttp‑ai 是一个基于 Scala 的 AI 客户端库，提供统一�
 | forks | 31/100 |
 | stars | 42/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

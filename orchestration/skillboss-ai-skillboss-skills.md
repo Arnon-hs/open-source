@@ -1,6 +1,6 @@
 # SkillBoss-AI/skillboss-skills
 
-[![Stars](https://img.shields.io/github/stars/SkillBoss-AI/skillboss-skills?style=flat-square&color=yellow)](https://github.com/SkillBoss-AI/skillboss-skills/stargazers) [![Forks](https://img.shields.io/github/forks/SkillBoss-AI/skillboss-skills?style=flat-square&color=blue)](https://github.com/SkillBoss-AI/skillboss-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SkillBoss-AI/skillboss-skills?style=flat-square&color=yellow)](https://github.com/SkillBoss-AI/skillboss-skills/stargazers) [![Forks](https://img.shields.io/github/forks/SkillBoss-AI/skillboss-skills?style=flat-square&color=blue)](https://github.com/SkillBoss-AI/skillboss-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server & Claude Code skills for 100+ AI services (LLMs, image/video gen, TTS). One API key, OpenAI-compatible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ const result = await client.runSkill('image-gen', {prompt: '星空下的城市'}
 | forks | 25/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

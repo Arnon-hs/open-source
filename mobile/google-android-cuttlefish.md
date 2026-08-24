@@ -1,6 +1,6 @@
 # google/android-cuttlefish
 
-[![Stars](https://img.shields.io/github/stars/google/android-cuttlefish?style=flat-square&color=yellow)](https://github.com/google/android-cuttlefish/stargazers) [![Forks](https://img.shields.io/github/forks/google/android-cuttlefish?style=flat-square&color=blue)](https://github.com/google/android-cuttlefish/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/android-cuttlefish?style=flat-square&color=yellow)](https://github.com/google/android-cuttlefish/stargazers) [![Forks](https://img.shields.io/github/forks/google/android-cuttlefish?style=flat-square&color=blue)](https://github.com/google/android-cuttlefish/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Cuttlefish host support debian package.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 665 |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ Google Android Cuttlefish 提供了在 Debian 主机上运行 Android 模拟
 | forks | 58/100 |
 | stars | 60/100 |
 | topics | 13/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

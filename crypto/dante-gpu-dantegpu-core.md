@@ -1,6 +1,6 @@
 # dante-gpu/dantegpu-core
 
-[![Stars](https://img.shields.io/github/stars/dante-gpu/dantegpu-core?style=flat-square&color=yellow)](https://github.com/dante-gpu/dantegpu-core/stargazers) [![Forks](https://img.shields.io/github/forks/dante-gpu/dantegpu-core?style=flat-square&color=blue)](https://github.com/dante-gpu/dantegpu-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dante-gpu/dantegpu-core?style=flat-square&color=yellow)](https://github.com/dante-gpu/dantegpu-core/stargazers) [![Forks](https://img.shields.io/github/forks/dante-gpu/dantegpu-core?style=flat-square&color=blue)](https://github.com/dante-gpu/dantegpu-core/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Core microservices powering the DanteGPU distributed GPU network. Manages providers, orchestrates AI job scheduling, handles auth, data, and monitoring. Built with Go & Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML · Frontend · Backend
+Crypto · Payments · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ dante-gpu/dantegpu‑core 是 DanteGPU 分布式 GPU 网络的核心微服务套
 | forks | 12/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

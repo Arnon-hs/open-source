@@ -1,6 +1,6 @@
 # xybp888/iOS-SDKs
 
-[![Stars](https://img.shields.io/github/stars/xybp888/iOS-SDKs?style=flat-square&color=yellow)](https://github.com/xybp888/iOS-SDKs/stargazers) [![Forks](https://img.shields.io/github/forks/xybp888/iOS-SDKs?style=flat-square&color=blue)](https://github.com/xybp888/iOS-SDKs/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xybp888/iOS-SDKs?style=flat-square&color=yellow)](https://github.com/xybp888/iOS-SDKs/stargazers) [![Forks](https://img.shields.io/github/forks/xybp888/iOS-SDKs?style=flat-square&color=blue)](https://github.com/xybp888/iOS-SDKs/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > iOS 9 - iOS 26 SDK including symbols for private frameworks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 873 |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,14 +123,15 @@ xybp888/iOS‑SDKs 是一个收录了 iOS 9 ~ iOS 26（含未来预览�
 | forks | 60/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

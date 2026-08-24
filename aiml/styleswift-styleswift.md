@@ -1,6 +1,6 @@
 # StyleSwift/StyleSwift
 
-[![Stars](https://img.shields.io/github/stars/StyleSwift/StyleSwift?style=flat-square&color=yellow)](https://github.com/StyleSwift/StyleSwift/stargazers) [![Forks](https://img.shields.io/github/forks/StyleSwift/StyleSwift?style=flat-square&color=blue)](https://github.com/StyleSwift/StyleSwift/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StyleSwift/StyleSwift?style=flat-square&color=yellow)](https://github.com/StyleSwift/StyleSwift/stargazers) [![Forks](https://img.shields.io/github/forks/StyleSwift/StyleSwift?style=flat-square&color=blue)](https://github.com/StyleSwift/StyleSwift/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Step into style! Transform any website with a single prompt. Elevate your browsing experience instantly. > Fully Open-Source | Smart Parsing | Precise Generation | Privacy-First.完全取代stylish！一句话，给任何网站换个好看的皮肤，给冲浪一个好心情。完全开源、智能解析、精准生成、隐私优先。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ StyleSwift — это полностью открытый проект, поз
 
 ### 中文
 
-StyleSwift/StyleSwift：StyleSwift/StyleSwift helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+StyleSwift/StyleSwift：StyleSwift/StyleSwift helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ StyleSwift/StyleSwift：StyleSwift/StyleSwift helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ StyleSwift/StyleSwift：StyleSwift/StyleSwift helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 33/100 |
-| stars | 38/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| stars | 38/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # Abhi24384/Anthropic-Mythos-Desktop-Studio
 
-[![Stars](https://img.shields.io/github/stars/Abhi24384/Anthropic-Mythos-Desktop-Studio?style=flat-square&color=yellow)](https://github.com/Abhi24384/Anthropic-Mythos-Desktop-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/Abhi24384/Anthropic-Mythos-Desktop-Studio?style=flat-square&color=blue)](https://github.com/Abhi24384/Anthropic-Mythos-Desktop-Studio/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Abhi24384/Anthropic-Mythos-Desktop-Studio?style=flat-square&color=yellow)](https://github.com/Abhi24384/Anthropic-Mythos-Desktop-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/Abhi24384/Anthropic-Mythos-Desktop-Studio?style=flat-square&color=blue)](https://github.com/Abhi24384/Anthropic-Mythos-Desktop-Studio/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Claude 3.5 Sonnet Desktop Client for Windows Mac Linux 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Design
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Abhi24384/Anthropic-Mythos-Desktop-Studio 是一款面向 Windows、macOS 与 Li
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

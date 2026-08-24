@@ -1,6 +1,6 @@
 # iTwin/itwinjs-core
 
-[![Stars](https://img.shields.io/github/stars/iTwin/itwinjs-core?style=flat-square&color=yellow)](https://github.com/iTwin/itwinjs-core/stargazers) [![Forks](https://img.shields.io/github/forks/iTwin/itwinjs-core?style=flat-square&color=blue)](https://github.com/iTwin/itwinjs-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iTwin/itwinjs-core?style=flat-square&color=yellow)](https://github.com/iTwin/itwinjs-core/stargazers) [![Forks](https://img.shields.io/github/forks/iTwin/itwinjs-core?style=flat-square&color=blue)](https://github.com/iTwin/itwinjs-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Monorepo for iTwin.js Library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 714 |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ iTwin/itwinjs-core：iTwin/itwinjs-core may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 60/100 |
 | stars | 61/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

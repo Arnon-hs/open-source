@@ -1,6 +1,6 @@
 # ispc/ispc
 
-[![Stars](https://img.shields.io/github/stars/ispc/ispc?style=flat-square&color=yellow)](https://github.com/ispc/ispc/stargazers) [![Forks](https://img.shields.io/github/forks/ispc/ispc?style=flat-square&color=blue)](https://github.com/ispc/ispc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ispc/ispc?style=flat-square&color=yellow)](https://github.com/ispc/ispc/stargazers) [![Forks](https://img.shields.io/github/forks/ispc/ispc?style=flat-square&color=blue)](https://github.com/ispc/ispc/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Intel® Implicit SPMD Program Compiler
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 346 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ ispc（Intel® Implicit SPMD Program Compiler）是一款面向 CPU 的 SPMD（�
 | forks | 64/100 |
 | stars | 74/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 71/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

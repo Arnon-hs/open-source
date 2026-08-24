@@ -1,6 +1,6 @@
 # Rangi42/polishedcrystal
 
-[![Stars](https://img.shields.io/github/stars/Rangi42/polishedcrystal?style=flat-square&color=yellow)](https://github.com/Rangi42/polishedcrystal/stargazers) [![Forks](https://img.shields.io/github/forks/Rangi42/polishedcrystal?style=flat-square&color=blue)](https://github.com/Rangi42/polishedcrystal/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rangi42/polishedcrystal?style=flat-square&color=yellow)](https://github.com/Rangi42/polishedcrystal/stargazers) [![Forks](https://img.shields.io/github/forks/Rangi42/polishedcrystal?style=flat-square&color=blue)](https://github.com/Rangi42/polishedcrystal/network) [![Language](https://img.shields.io/badge/lang-Assembly-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 299 |
 | 💻 **Language** | Assembly |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ PolishedCrystal 是一个功能完整、易于编译的《口袋妖怪 水晶版
 | forks | 62/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 66/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # waditu/czsc
 
-[![Stars](https://img.shields.io/github/stars/waditu/czsc?style=flat-square&color=yellow)](https://github.com/waditu/czsc/stargazers) [![Forks](https://img.shields.io/github/forks/waditu/czsc?style=flat-square&color=blue)](https://github.com/waditu/czsc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/waditu/czsc?style=flat-square&color=yellow)](https://github.com/waditu/czsc/stargazers) [![Forks](https://img.shields.io/github/forks/waditu/czsc?style=flat-square&color=blue)](https://github.com/waditu/czsc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ waditu/czsc：waditu/czsc helps research and automate market workflows.。适合
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 79/100 |
-| stars | 79/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| stars | 79/100 |
 | topics | 38/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # josephgoksu/TaskWing
 
-[![Stars](https://img.shields.io/github/stars/josephgoksu/TaskWing?style=flat-square&color=yellow)](https://github.com/josephgoksu/TaskWing/stargazers) [![Forks](https://img.shields.io/github/forks/josephgoksu/TaskWing?style=flat-square&color=blue)](https://github.com/josephgoksu/TaskWing/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/josephgoksu/TaskWing?style=flat-square&color=yellow)](https://github.com/josephgoksu/TaskWing/stargazers) [![Forks](https://img.shields.io/github/forks/josephgoksu/TaskWing?style=flat-square&color=blue)](https://github.com/josephgoksu/TaskWing/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI knowledge layer. Extract architecture, query from any AI tool via MCP. Private by architecture.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 88 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ TaskWing（josephgoksu/TaskWing）是一个本地优先的 AI 知识层，能够
 | forks | 21/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

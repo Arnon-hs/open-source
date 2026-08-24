@@ -1,6 +1,6 @@
 # vavallee/bindery
 
-[![Stars](https://img.shields.io/github/stars/vavallee/bindery?style=flat-square&color=yellow)](https://github.com/vavallee/bindery/stargazers) [![Forks](https://img.shields.io/github/forks/vavallee/bindery?style=flat-square&color=blue)](https://github.com/vavallee/bindery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vavallee/bindery?style=flat-square&color=yellow)](https://github.com/vavallee/bindery/stargazers) [![Forks](https://img.shields.io/github/forks/vavallee/bindery?style=flat-square&color=blue)](https://github.com/vavallee/bindery/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevOps/Infra · Security
+Frontend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ vavallee/bindery：vavallee/bindery helps ship user-facing interfaces with less 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 44/100 |
-| stars | 50/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

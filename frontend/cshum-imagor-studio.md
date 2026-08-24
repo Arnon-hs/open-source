@@ -1,6 +1,6 @@
 # cshum/imagor-studio
 
-[![Stars](https://img.shields.io/github/stars/cshum/imagor-studio?style=flat-square&color=yellow)](https://github.com/cshum/imagor-studio/stargazers) [![Forks](https://img.shields.io/github/forks/cshum/imagor-studio?style=flat-square&color=blue)](https://github.com/cshum/imagor-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cshum/imagor-studio?style=flat-square&color=yellow)](https://github.com/cshum/imagor-studio/stargazers) [![Forks](https://img.shields.io/github/forks/cshum/imagor-studio?style=flat-square&color=blue)](https://github.com/cshum/imagor-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted image gallery with built-in editing and template workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ cshum/imagor-studio：cshum/imagor-studio helps ship user-facing interfaces with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 57/100 |
+| usefulness | 90/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 54/100 |
 | adoption | 41/100 |
 | stars | 50/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

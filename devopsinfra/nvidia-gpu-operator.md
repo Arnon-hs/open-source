@@ -1,6 +1,6 @@
 # NVIDIA/gpu-operator
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/gpu-operator?style=flat-square&color=yellow)](https://github.com/NVIDIA/gpu-operator/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/gpu-operator?style=flat-square&color=blue)](https://github.com/NVIDIA/gpu-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/gpu-operator?style=flat-square&color=yellow)](https://github.com/NVIDIA/gpu-operator/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/gpu-operator?style=flat-square&color=blue)](https://github.com/NVIDIA/gpu-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 498 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ NVIDIA/gpu-operator：NVIDIA/gpu-operator helps make deployment and operations m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 55/100 |
-| adoption | 71/100 |
-| stars | 73/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 50/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

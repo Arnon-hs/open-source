@@ -1,6 +1,6 @@
 # openhab/openhab-addons
 
-[![Stars](https://img.shields.io/github/stars/openhab/openhab-addons?style=flat-square&color=yellow)](https://github.com/openhab/openhab-addons/stargazers) [![Forks](https://img.shields.io/github/forks/openhab/openhab-addons?style=flat-square&color=blue)](https://github.com/openhab/openhab-addons/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openhab/openhab-addons?style=flat-square&color=yellow)](https://github.com/openhab/openhab-addons/stargazers) [![Forks](https://img.shields.io/github/forks/openhab/openhab-addons?style=flat-square&color=blue)](https://github.com/openhab/openhab-addons/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Add-ons for openHAB
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ openhab‑addons 是 openHAB 平台的官方插件仓库，提供数千个设备
 | forks | 89/100 |
 | stars | 70/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 76/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

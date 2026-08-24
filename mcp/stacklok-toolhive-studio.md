@@ -1,6 +1,6 @@
 # stacklok/toolhive-studio
 
-[![Stars](https://img.shields.io/github/stars/stacklok/toolhive-studio?style=flat-square&color=yellow)](https://github.com/stacklok/toolhive-studio/stargazers) [![Forks](https://img.shields.io/github/forks/stacklok/toolhive-studio?style=flat-square&color=blue)](https://github.com/stacklok/toolhive-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stacklok/toolhive-studio?style=flat-square&color=yellow)](https://github.com/stacklok/toolhive-studio/stargazers) [![Forks](https://img.shields.io/github/forks/stacklok/toolhive-studio?style=flat-square&color=blue)](https://github.com/stacklok/toolhive-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > ToolHive is an application that allows you to install, manage and run MCP servers and connect them to AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ ToolHive 是一款开源平台，提供统一的 **Model Context Protocol (MCP)*
 | forks | 33/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

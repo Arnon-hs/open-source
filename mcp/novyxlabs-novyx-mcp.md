@@ -1,6 +1,6 @@
 # novyxlabs/novyx-mcp
 
-[![Stars](https://img.shields.io/github/stars/novyxlabs/novyx-mcp?style=flat-square&color=yellow)](https://github.com/novyxlabs/novyx-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/novyxlabs/novyx-mcp?style=flat-square&color=blue)](https://github.com/novyxlabs/novyx-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/novyxlabs/novyx-mcp?style=flat-square&color=yellow)](https://github.com/novyxlabs/novyx-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/novyxlabs/novyx-mcp?style=flat-square&color=blue)](https://github.com/novyxlabs/novyx-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory + governance for AI agents. 120 MCP tools — core memory works locally (zero config SQLite), full surface (policy-as-code, approval workflows, governance dashboard, threat intel, auto-defense, governed actions, Runtime v2 agents/missions/capabilities) with Novyx Cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Database
+MCP · AI/ML · Database
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Novyx MCP（novyxlabs/novyx-mcp）是一套面向 AI 代理的持久化记忆�
 | forks | 24/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

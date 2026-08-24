@@ -1,6 +1,6 @@
 # apisec-inc/mcp-audit
 
-[![Stars](https://img.shields.io/github/stars/apisec-inc/mcp-audit?style=flat-square&color=yellow)](https://github.com/apisec-inc/mcp-audit/stargazers) [![Forks](https://img.shields.io/github/forks/apisec-inc/mcp-audit?style=flat-square&color=blue)](https://github.com/apisec-inc/mcp-audit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apisec-inc/mcp-audit?style=flat-square&color=yellow)](https://github.com/apisec-inc/mcp-audit/stargazers) [![Forks](https://img.shields.io/github/forks/apisec-inc/mcp-audit?style=flat-square&color=blue)](https://github.com/apisec-inc/mcp-audit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > See what your AI agents can access. Scan MCP configs for exposed secrets, shadow APIs, and AI models. Generate AI-BOMs for compliance.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ apisec‑inc/mcp‑audit 是一款开源安全审计工具，专门扫描 MCP（
 | forks | 39/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

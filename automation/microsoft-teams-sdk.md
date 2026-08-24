@@ -1,6 +1,6 @@
 # microsoft/teams-sdk
 
-[![Stars](https://img.shields.io/github/stars/microsoft/teams-sdk?style=flat-square&color=yellow)](https://github.com/microsoft/teams-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/teams-sdk?style=flat-square&color=blue)](https://github.com/microsoft/teams-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/teams-sdk?style=flat-square&color=yellow)](https://github.com/microsoft/teams-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/teams-sdk?style=flat-square&color=blue)](https://github.com/microsoft/teams-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > SDK focused on building AI based applications and extensions for Microsoft Teams and other Bot Framework channels
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 712 |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Microsoft Teams‑SDK 是一套面向 Microsoft Teams 以及 Bot Framework 其
 | forks | 61/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 75/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

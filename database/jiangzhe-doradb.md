@@ -1,0 +1,82 @@
+# jiangzhe/doradb
+
+[![Stars](https://img.shields.io/github/stars/jiangzhe/doradb?style=flat-square&color=yellow)](https://github.com/jiangzhe/doradb/stargazers) [![Forks](https://img.shields.io/github/forks/jiangzhe/doradb?style=flat-square&color=blue)](https://github.com/jiangzhe/doradb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+
+> DoraDB - Yet Another Storage Engine written in Rust
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 121 |
+| 🍴 **Forks** | 3 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`btree-index` `bufferpool` `copy-on-write` `database` `storage` `transaction-management`
+
+## 🎯 Categories
+
+Database
+
+## 📝 Summary
+
+### English
+
+DoraDB is an open‑source storage engine written in Rust, designed to provide a fast, reliable, and type‑safe foundation for data‑intensive applications. Leveraging Rust’s memory safety and zero‑cost abstractions, it offers a modern API for building AI/ML pipelines and other data‑centric workloads while ensuring high performance and minimal runtime overhead.
+
+### Русский
+
+DoraDB — это высокопроизводительный движок хранения данных, написанный на Rust, ориентированный на безопасную и эффективную работу с большими объёмами информации. Проект предоставляет гибкий API и поддерживает современные AI/ML‑рабочие нагрузки, позволяя легко интегрировать его в аналитические и машинно‑обучающие системы. Благодаря открытой лицензии и активному сообществу, DoraDB быстро развивается и адаптируется под новые требования в области обработки данных.
+
+### 中文
+
+jiangzhe/doradb：jiangzhe/doradb helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** jiangzhe/doradb helps teams persist, query, and move data with less custom plumbing.
+
+**Best use cases**
+
+- manage persistence
+- speed up data access
+- prototype database-backed apps
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 121 GitHub stars
+- 3 forks
+- updated 2026-05-09
+- primary language: Rust
+- 6 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 15/100 |
+| stars | 44/100 |
+| topics | 75/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jiangzhe/doradb) · [← Back to Database](./README.md)</sub>

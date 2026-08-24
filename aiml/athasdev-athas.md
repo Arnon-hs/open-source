@@ -1,6 +1,6 @@
 # athasdev/athas
 
-[![Stars](https://img.shields.io/github/stars/athasdev/athas?style=flat-square&color=yellow)](https://github.com/athasdev/athas/stargazers) [![Forks](https://img.shields.io/github/forks/athasdev/athas?style=flat-square&color=blue)](https://github.com/athasdev/athas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/athasdev/athas?style=flat-square&color=yellow)](https://github.com/athasdev/athas/stargazers) [![Forks](https://img.shields.io/github/forks/athasdev/athas?style=flat-square&color=blue)](https://github.com/athasdev/athas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ athasdev/athas：athasdev/athas helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 69/100 |
 | stars | 73/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

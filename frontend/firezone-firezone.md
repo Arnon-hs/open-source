@@ -1,6 +1,6 @@
 # firezone/firezone
 
-[![Stars](https://img.shields.io/github/stars/firezone/firezone?style=flat-square&color=yellow)](https://github.com/firezone/firezone/stargazers) [![Forks](https://img.shields.io/github/forks/firezone/firezone?style=flat-square&color=blue)](https://github.com/firezone/firezone/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firezone/firezone?style=flat-square&color=yellow)](https://github.com/firezone/firezone/stargazers) [![Forks](https://img.shields.io/github/forks/firezone/firezone?style=flat-square&color=blue)](https://github.com/firezone/firezone/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-ready zero-trust access platform built on WireGuard®.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 414 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ firezone/firezone：firezone/firezone helps ship user-facing interfaces with les
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 79/100 |
-| stars | 84/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

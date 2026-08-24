@@ -1,6 +1,6 @@
 # HackTricks-wiki/hacktricks
 
-[![Stars](https://img.shields.io/github/stars/HackTricks-wiki/hacktricks?style=flat-square&color=yellow)](https://github.com/HackTricks-wiki/hacktricks/stargazers) [![Forks](https://img.shields.io/github/forks/HackTricks-wiki/hacktricks?style=flat-square&color=blue)](https://github.com/HackTricks-wiki/hacktricks/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HackTricks-wiki/hacktricks?style=flat-square&color=yellow)](https://github.com/HackTricks-wiki/hacktricks/stargazers) [![Forks](https://img.shields.io/github/forks/HackTricks-wiki/hacktricks?style=flat-square&color=blue)](https://github.com/HackTricks-wiki/hacktricks/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.3k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ HackTricks-wiki/hacktricks：HackTricks-wiki/hacktricks helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 87/100 |
 | stars | 86/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

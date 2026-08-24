@@ -1,6 +1,6 @@
 # ovh/ovhcloud-cli
 
-[![Stars](https://img.shields.io/github/stars/ovh/ovhcloud-cli?style=flat-square&color=yellow)](https://github.com/ovh/ovhcloud-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ovh/ovhcloud-cli?style=flat-square&color=blue)](https://github.com/ovh/ovhcloud-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ovh/ovhcloud-cli?style=flat-square&color=yellow)](https://github.com/ovh/ovhcloud-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ovh/ovhcloud-cli?style=flat-square&color=blue)](https://github.com/ovh/ovhcloud-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ☀ Official Command Line Interface to manage your OVHcloud services ☁
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ ovh/ovvcloud-cli 是 OVHcloud 官方提供的命令行工具，使用 Go 语言�
 | forks | 35/100 |
 | stars | 45/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

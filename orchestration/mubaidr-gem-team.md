@@ -1,6 +1,6 @@
 # mubaidr/gem-team
 
-[![Stars](https://img.shields.io/github/stars/mubaidr/gem-team?style=flat-square&color=yellow)](https://github.com/mubaidr/gem-team/stargazers) [![Forks](https://img.shields.io/github/forks/mubaidr/gem-team?style=flat-square&color=blue)](https://github.com/mubaidr/gem-team/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mubaidr/gem-team?style=flat-square&color=yellow)](https://github.com/mubaidr/gem-team/stargazers) [![Forks](https://img.shields.io/github/forks/mubaidr/gem-team?style=flat-square&color=blue)](https://github.com/mubaidr/gem-team/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ mubaidr/gem-team — это open‑source платформа для оркес
 
 ### 中文
 
-mubaidr/gem-team：mubaidr/gem-team helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mubaidr/gem-team：mubaidr/gem-team helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mubaidr/gem-team：mubaidr/gem-team helps turn isolated prompts and tools into r
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ mubaidr/gem-team：mubaidr/gem-team helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 61/100 |
-| adoption | 37/100 |
-| stars | 43/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 45/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

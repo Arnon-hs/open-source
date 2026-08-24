@@ -1,6 +1,6 @@
 # getclyro/clyro
 
-[![Stars](https://img.shields.io/github/stars/getclyro/clyro?style=flat-square&color=yellow)](https://github.com/getclyro/clyro/stargazers) [![Forks](https://img.shields.io/github/forks/getclyro/clyro?style=flat-square&color=blue)](https://github.com/getclyro/clyro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getclyro/clyro?style=flat-square&color=yellow)](https://github.com/getclyro/clyro/stargazers) [![Forks](https://img.shields.io/github/forks/getclyro/clyro?style=flat-square&color=blue)](https://github.com/getclyro/clyro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Clyro is a governance platform for AI agents. While most tools let you watch agents fail, Clyro stops failures before they happen, catching infinite loops, runaway costs, and policy violations in real time.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 52 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Database
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Clyro（getclyro/clyro）是一款面向 AI 代理的治理平台。它在代理
 | forks | 12/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # alvinreal/awesome-openclaw
 
-[![Stars](https://img.shields.io/github/stars/alvinreal/awesome-openclaw?style=flat-square&color=yellow)](https://github.com/alvinreal/awesome-openclaw/stargazers) [![Forks](https://img.shields.io/github/forks/alvinreal/awesome-openclaw?style=flat-square&color=blue)](https://github.com/alvinreal/awesome-openclaw/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alvinreal/awesome-openclaw?style=flat-square&color=yellow)](https://github.com/alvinreal/awesome-openclaw/stargazers) [![Forks](https://img.shields.io/github/forks/alvinreal/awesome-openclaw?style=flat-square&color=blue)](https://github.com/alvinreal/awesome-openclaw/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 676 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ alvinreal/awesome-openclaw：alvinreal/awesome-openclaw helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 68/100 |
+| production | 50/100 |
+| outlook | 61/100 |
 | adoption | 56/100 |
 | stars | 60/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

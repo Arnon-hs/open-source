@@ -1,6 +1,6 @@
 # beycom/onetool-mcp
 
-[![Stars](https://img.shields.io/github/stars/beycom/onetool-mcp?style=flat-square&color=yellow)](https://github.com/beycom/onetool-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/beycom/onetool-mcp?style=flat-square&color=blue)](https://github.com/beycom/onetool-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beycom/onetool-mcp?style=flat-square&color=yellow)](https://github.com/beycom/onetool-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/beycom/onetool-mcp?style=flat-square&color=blue)](https://github.com/beycom/onetool-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🧿 One MCP for developers - no tool tax, no context rot. 100+ tools including Brave, Google, Context7, Excalidraw, AWS, Version Checker, Excel, File Ops, Database, Playwright, Chrome DevTools and many more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ beycom/onetool-mcp 的生产可用性为高，主要原因是其最近的活动�
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

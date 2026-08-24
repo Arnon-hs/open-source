@@ -1,6 +1,6 @@
 # ludviglundgren/qbittorrent-cli
 
-[![Stars](https://img.shields.io/github/stars/ludviglundgren/qbittorrent-cli?style=flat-square&color=yellow)](https://github.com/ludviglundgren/qbittorrent-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ludviglundgren/qbittorrent-cli?style=flat-square&color=blue)](https://github.com/ludviglundgren/qbittorrent-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ludviglundgren/qbittorrent-cli?style=flat-square&color=yellow)](https://github.com/ludviglundgren/qbittorrent-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ludviglundgren/qbittorrent-cli?style=flat-square&color=blue)](https://github.com/ludviglundgren/qbittorrent-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Cli to manage qBittorrent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 271 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ ludviglundgren/qbittorrent-cli 是一款基于 Go 实现的命令行工具，用
 | forks | 35/100 |
 | stars | 52/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

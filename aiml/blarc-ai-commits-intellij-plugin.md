@@ -1,6 +1,6 @@
 # Blarc/ai-commits-intellij-plugin
 
-[![Stars](https://img.shields.io/github/stars/Blarc/ai-commits-intellij-plugin?style=flat-square&color=yellow)](https://github.com/Blarc/ai-commits-intellij-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Blarc/ai-commits-intellij-plugin?style=flat-square&color=blue)](https://github.com/Blarc/ai-commits-intellij-plugin/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Blarc/ai-commits-intellij-plugin?style=flat-square&color=yellow)](https://github.com/Blarc/ai-commits-intellij-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Blarc/ai-commits-intellij-plugin?style=flat-square&color=blue)](https://github.com/Blarc/ai-commits-intellij-plugin/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI Commits for IntelliJ based IDEs/Android Studio.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 808 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ Blarc/ai-commits-intellij-plugin：Blarc/ai-commits-intellij-plugin helps add AI
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
-| adoption | 57/100 |
-| stars | 62/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

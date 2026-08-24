@@ -1,6 +1,6 @@
 # TencentBlueKing/bk-job
 
-[![Stars](https://img.shields.io/github/stars/TencentBlueKing/bk-job?style=flat-square&color=yellow)](https://github.com/TencentBlueKing/bk-job/stargazers) [![Forks](https://img.shields.io/github/forks/TencentBlueKing/bk-job?style=flat-square&color=blue)](https://github.com/TencentBlueKing/bk-job/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentBlueKing/bk-job?style=flat-square&color=yellow)](https://github.com/TencentBlueKing/bk-job/stargazers) [![Forks](https://img.shields.io/github/forks/TencentBlueKing/bk-job?style=flat-square&color=blue)](https://github.com/TencentBlueKing/bk-job/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 蓝鲸作业平台（Job）是一套运维基础操作管理系统，具备海量任务并发处理能力。除了支持脚本执行、文件分发、定时任务等一系列基础运维场景以外，还支持通过流程调度能力将零碎的单个任务组装成一个自动化作业流程；而每个作业都可做为一个原子节点，提供给上层或周边系统/平台使用，实现调度自动化。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 858 |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ With those checks in place, bk‑job can become a reliable backbone for automate
 | forks | 58/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

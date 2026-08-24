@@ -1,6 +1,6 @@
 # apache/apisix
 
-[![Stars](https://img.shields.io/github/stars/apache/apisix?style=flat-square&color=yellow)](https://github.com/apache/apisix/stargazers) [![Forks](https://img.shields.io/github/forks/apache/apisix?style=flat-square&color=blue)](https://github.com/apache/apisix/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/apisix?style=flat-square&color=yellow)](https://github.com/apache/apisix/stargazers) [![Forks](https://img.shields.io/github/forks/apache/apisix?style=flat-square&color=blue)](https://github.com/apache/apisix/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The Cloud-Native API Gateway and AI Gateway
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.6k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ apache/apisix：apache/apisix helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 80/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 68/100 |
-| adoption | 89/100 |
-| stars | 90/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # aquaproj/aqua
 
-[![Stars](https://img.shields.io/github/stars/aquaproj/aqua?style=flat-square&color=yellow)](https://github.com/aquaproj/aqua/stargazers) [![Forks](https://img.shields.io/github/forks/aquaproj/aqua?style=flat-square&color=blue)](https://github.com/aquaproj/aqua/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aquaproj/aqua?style=flat-square&color=yellow)](https://github.com/aquaproj/aqua/stargazers) [![Forks](https://img.shields.io/github/forks/aquaproj/aqua?style=flat-square&color=blue)](https://github.com/aquaproj/aqua/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · DevTools
 
 ### English
 
-aquaproj/aqua: aquaproj/aqua helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+aquaproj/aqua: aquaproj/aqua helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-aquaproj/aqua: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+aquaproj/aqua: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-aquaproj/aqua：aquaproj/aqua helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+aquaproj/aqua：aquaproj/aqua helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aquaproj/aqua：aquaproj/aqua helps add AI capability without starting from a bl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ aquaproj/aqua：aquaproj/aqua helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 55/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 62/100 |
 | stars | 68/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

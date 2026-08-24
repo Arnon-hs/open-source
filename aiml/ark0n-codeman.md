@@ -1,6 +1,6 @@
 # Ark0N/Codeman
 
-[![Stars](https://img.shields.io/github/stars/Ark0N/Codeman?style=flat-square&color=yellow)](https://github.com/Ark0N/Codeman/stargazers) [![Forks](https://img.shields.io/github/forks/Ark0N/Codeman?style=flat-square&color=blue)](https://github.com/Ark0N/Codeman/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ark0N/Codeman?style=flat-square&color=yellow)](https://github.com/Ark0N/Codeman/stargazers) [![Forks](https://img.shields.io/github/forks/Ark0N/Codeman?style=flat-square&color=blue)](https://github.com/Ark0N/Codeman/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Manage Claude Code & Opencode in Tmux Sessions in a modern WebUI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · DevTools · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Ark0N/Codeman：Ark0N/Codeman helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 94/100 |
-| production | 63/100 |
-| outlook | 65/100 |
-| adoption | 51/100 |
-| stars | 55/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

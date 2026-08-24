@@ -1,6 +1,6 @@
 # christopherkarani/Wax
 
-[![Stars](https://img.shields.io/github/stars/christopherkarani/Wax?style=flat-square&color=yellow)](https://github.com/christopherkarani/Wax/stargazers) [![Forks](https://img.shields.io/github/forks/christopherkarani/Wax?style=flat-square&color=blue)](https://github.com/christopherkarani/Wax/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/christopherkarani/Wax?style=flat-square&color=yellow)](https://github.com/christopherkarani/Wax/stargazers) [![Forks](https://img.shields.io/github/forks/christopherkarani/Wax?style=flat-square&color=blue)](https://github.com/christopherkarani/Wax/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No API. One File. Pure Swift
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 730 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Overall, Wax offers a fast, private, and low‑friction way to equip on‑device
 | forks | 41/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

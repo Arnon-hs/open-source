@@ -1,6 +1,6 @@
 # godotengine/godot-docs
 
-[![Stars](https://img.shields.io/github/stars/godotengine/godot-docs?style=flat-square&color=yellow)](https://github.com/godotengine/godot-docs/stargazers) [![Forks](https://img.shields.io/github/forks/godotengine/godot-docs?style=flat-square&color=blue)](https://github.com/godotengine/godot-docs/network) [![Language](https://img.shields.io/badge/lang-reStructuredText-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/godotengine/godot-docs?style=flat-square&color=yellow)](https://github.com/godotengine/godot-docs/stargazers) [![Forks](https://img.shields.io/github/forks/godotengine/godot-docs?style=flat-square&color=blue)](https://github.com/godotengine/godot-docs/network) [![Language](https://img.shields.io/badge/lang-reStructuredText-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Godot Engine official documentation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | reStructuredText |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ godotengine/godot-docs：godotengine/godot-docs may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 63/100 |
-| adoption | 82/100 |
-| stars | 79/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

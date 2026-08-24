@@ -1,6 +1,6 @@
 # erigontech/erigon
 
-[![Stars](https://img.shields.io/github/stars/erigontech/erigon?style=flat-square&color=yellow)](https://github.com/erigontech/erigon/stargazers) [![Forks](https://img.shields.io/github/forks/erigontech/erigon?style=flat-square&color=blue)](https://github.com/erigontech/erigon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/erigontech/erigon?style=flat-square&color=yellow)](https://github.com/erigontech/erigon/stargazers) [![Forks](https://img.shields.io/github/forks/erigontech/erigon?style=flat-square&color=blue)](https://github.com/erigontech/erigon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Ethereum implementation on the efficiency frontier
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Erigon — это высокопроизводительная реализа�
 
 ### 中文
 
-erigontech/erigon：erigontech/erigon helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+erigontech/erigon：erigontech/erigon helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ erigontech/erigon：erigontech/erigon helps prototype or inspect blockchain work
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ erigontech/erigon：erigontech/erigon helps prototype or inspect blockchain work
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 54/100 |
-| adoption | 77/100 |
-| stars | 76/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| stars | 76/100 |
 | topics | 25/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

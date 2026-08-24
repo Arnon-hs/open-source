@@ -1,6 +1,6 @@
 # kenzok8/small-package
 
-[![Stars](https://img.shields.io/github/stars/kenzok8/small-package?style=flat-square&color=yellow)](https://github.com/kenzok8/small-package/stargazers) [![Forks](https://img.shields.io/github/forks/kenzok8/small-package?style=flat-square&color=blue)](https://github.com/kenzok8/small-package/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kenzok8/small-package?style=flat-square&color=yellow)](https://github.com/kenzok8/small-package/stargazers) [![Forks](https://img.shields.io/github/forks/kenzok8/small-package?style=flat-square&color=blue)](https://github.com/kenzok8/small-package/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 自动同步更新上游库软件
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ k​enzo​k8’s **small‑package** is a lightweight utility that automaticall
 
 ### 中文
 
-kenzok8/small-package：kenzok8/small-package may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kenzok8/small-package：kenzok8/small-package may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ kenzok8/small-package：kenzok8/small-package may be useful when its README and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ kenzok8/small-package：kenzok8/small-package may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 57/100 |
-| stars | 68/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # serkanyersen/dotstate
 
-[![Stars](https://img.shields.io/github/stars/serkanyersen/dotstate?style=flat-square&color=yellow)](https://github.com/serkanyersen/dotstate/stargazers) [![Forks](https://img.shields.io/github/forks/serkanyersen/dotstate?style=flat-square&color=blue)](https://github.com/serkanyersen/dotstate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serkanyersen/dotstate?style=flat-square&color=yellow)](https://github.com/serkanyersen/dotstate/stargazers) [![Forks](https://img.shields.io/github/forks/serkanyersen/dotstate?style=flat-square&color=blue)](https://github.com/serkanyersen/dotstate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, secure, and user-friendly dotfile manager built with Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ serkanyersen/dotstate is a modern dotfile manager written in Rust that focuses o
 
 ### 中文
 
-serkanyersen/dotstate：serkanyersen/dotstate helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+serkanyersen/dotstate：serkanyersen/dotstate helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ serkanyersen/dotstate：serkanyersen/dotstate helps ship user-facing interfaces 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ serkanyersen/dotstate：serkanyersen/dotstate helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 46/100 |
 | stars | 54/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

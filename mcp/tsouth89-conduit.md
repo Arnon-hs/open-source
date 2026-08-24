@@ -1,6 +1,6 @@
 # tsouth89/conduit
 
-[![Stars](https://img.shields.io/github/stars/tsouth89/conduit?style=flat-square&color=yellow)](https://github.com/tsouth89/conduit/stargazers) [![Forks](https://img.shields.io/github/forks/tsouth89/conduit?style=flat-square&color=blue)](https://github.com/tsouth89/conduit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tsouth89/conduit?style=flat-square&color=yellow)](https://github.com/tsouth89/conduit/stargazers) [![Forks](https://img.shields.io/github/forks/tsouth89/conduit?style=flat-square&color=blue)](https://github.com/tsouth89/conduit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Local MCP gateway that cuts your agent's tool-token overhead ~90%. Every MCP server's tools collapse to 3 meta-tools the agent searches on demand. Measured: 97% less per request, same results. Keys in your OS keychain, no cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ tsouth89/conduit 是一个本地 MCP（Model Context Protocol）网关，能够�
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

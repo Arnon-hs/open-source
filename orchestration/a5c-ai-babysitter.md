@@ -1,6 +1,6 @@
 # a5c-ai/babysitter
 
-[![Stars](https://img.shields.io/github/stars/a5c-ai/babysitter?style=flat-square&color=yellow)](https://github.com/a5c-ai/babysitter/stargazers) [![Forks](https://img.shields.io/github/forks/a5c-ai/babysitter?style=flat-square&color=blue)](https://github.com/a5c-ai/babysitter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/a5c-ai/babysitter?style=flat-square&color=yellow)](https://github.com/a5c-ai/babysitter/stargazers) [![Forks](https://img.shields.io/github/forks/a5c-ai/babysitter?style=flat-square&color=blue)](https://github.com/a5c-ai/babysitter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 761 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ a5c-ai/babysitter: a5c-ai/babysitter helps turn isolated prompts and tools into 
 
 ### Русский
 
-a5c-ai/babysitter: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+a5c-ai/babysitter: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ a5c-ai/babysitter：a5c-ai/babysitter helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 66/100 |
-| adoption | 56/100 |
-| stars | 61/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

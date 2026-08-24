@@ -1,6 +1,6 @@
 # duggytuxy/Data-Shield_IPv4_Blocklist
 
-[![Stars](https://img.shields.io/github/stars/duggytuxy/Data-Shield_IPv4_Blocklist?style=flat-square&color=yellow)](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist/stargazers) [![Forks](https://img.shields.io/github/forks/duggytuxy/Data-Shield_IPv4_Blocklist?style=flat-square&color=blue)](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/duggytuxy/Data-Shield_IPv4_Blocklist?style=flat-square&color=yellow)](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist/stargazers) [![Forks](https://img.shields.io/github/forks/duggytuxy/Data-Shield_IPv4_Blocklist?style=flat-square&color=blue)](https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Data-Shield IPv4 Blocklist Community provides an official, curated registry of IPv4 addresses identified as malicious. Updated continuously, this resource offers vital threat intelligence to bolster your Firewall and WAF instances,...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 576 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Data‑Shield IPv4 Blocklist Community — это открытый прое�
 
 ### 中文
 
-duggytuxy/Data-Shield_IPv4_Blocklist：duggytuxy/Data-Shield_IPv4_Blocklist helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+duggytuxy/Data-Shield_IPv4_Blocklist：duggytuxy/Data-Shield_IPv4_Blocklist helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ duggytuxy/Data-Shield_IPv4_Blocklist：duggytuxy/Data-Shield_IPv4_Blocklist help
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ duggytuxy/Data-Shield_IPv4_Blocklist：duggytuxy/Data-Shield_IPv4_Blocklist help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

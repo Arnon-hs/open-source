@@ -1,6 +1,6 @@
 # mixelpixx/KiCAD-MCP-Server
 
-[![Stars](https://img.shields.io/github/stars/mixelpixx/KiCAD-MCP-Server?style=flat-square&color=yellow)](https://github.com/mixelpixx/KiCAD-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/mixelpixx/KiCAD-MCP-Server?style=flat-square&color=blue)](https://github.com/mixelpixx/KiCAD-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mixelpixx/KiCAD-MCP-Server?style=flat-square&color=yellow)](https://github.com/mixelpixx/KiCAD-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/mixelpixx/KiCAD-MCP-Server?style=flat-square&color=blue)](https://github.com/mixelpixx/KiCAD-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 996 |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Design
+MCP · Design
 
 ## 📝 Summary
 
@@ -128,14 +128,15 @@ mixelpixx/KiCAD‑MCP‑Server 为 KiCAD 提供了标准化的 Model Context Pro
 | forks | 56/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

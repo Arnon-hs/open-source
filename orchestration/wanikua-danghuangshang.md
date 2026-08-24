@@ -1,6 +1,6 @@
 # wanikua/danghuangshang
 
-[![Stars](https://img.shields.io/github/stars/wanikua/danghuangshang?style=flat-square&color=yellow)](https://github.com/wanikua/danghuangshang/stargazers) [![Forks](https://img.shields.io/github/forks/wanikua/danghuangshang?style=flat-square&color=blue)](https://github.com/wanikua/danghuangshang/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wanikua/danghuangshang?style=flat-square&color=yellow)](https://github.com/wanikua/danghuangshang/stargazers) [![Forks](https://img.shields.io/github/forks/wanikua/danghuangshang?style=flat-square&color=blue)](https://github.com/wanikua/danghuangshang/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI 朝廷搭建完整教程 - 从零基础到进阶
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML · Education
 
 ## 📝 Summary
 
@@ -66,16 +66,16 @@ wanikua/danghuangshang：wanikua/danghuangshang helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 69/100 |
-| adoption | 69/100 |
-| stars | 73/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

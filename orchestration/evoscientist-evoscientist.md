@@ -1,6 +1,6 @@
 # EvoScientist/EvoScientist
 
-[![Stars](https://img.shields.io/github/stars/EvoScientist/EvoScientist?style=flat-square&color=yellow)](https://github.com/EvoScientist/EvoScientist/stargazers) [![Forks](https://img.shields.io/github/forks/EvoScientist/EvoScientist?style=flat-square&color=blue)](https://github.com/EvoScientist/EvoScientist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvoScientist/EvoScientist?style=flat-square&color=yellow)](https://github.com/EvoScientist/EvoScientist/stargazers) [![Forks](https://img.shields.io/github/forks/EvoScientist/EvoScientist?style=flat-square&color=blue)](https://github.com/EvoScientist/EvoScientist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🔬 Harness Vibe Research with Self-evolving AI Scientists
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · AI/ML
 
 ### English
 
-EvoScientist/EvoScientist: EvoScientist/EvoScientist helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EvoScientist/EvoScientist: EvoScientist/EvoScientist helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-EvoScientist/EvoScientist: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+EvoScientist/EvoScientist: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-EvoScientist/EvoScientist：EvoScientist/EvoScientist helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EvoScientist/EvoScientist：EvoScientist/EvoScientist helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ EvoScientist/EvoScientist：EvoScientist/EvoScientist helps turn isolated prompt
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ EvoScientist/EvoScientist：EvoScientist/EvoScientist helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 68/100 |
-| stars | 73/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 50/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

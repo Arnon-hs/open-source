@@ -1,6 +1,6 @@
 # y3owk1n/neru
 
-[![Stars](https://img.shields.io/github/stars/y3owk1n/neru?style=flat-square&color=yellow)](https://github.com/y3owk1n/neru/stargazers) [![Forks](https://img.shields.io/github/forks/y3owk1n/neru?style=flat-square&color=blue)](https://github.com/y3owk1n/neru/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/y3owk1n/neru?style=flat-square&color=yellow)](https://github.com/y3owk1n/neru/stargazers) [![Forks](https://img.shields.io/github/forks/y3owk1n/neru?style=flat-square&color=blue)](https://github.com/y3owk1n/neru/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Keyboard-driven navigation for macOS and partial linux (possible for windows) - Navigate and click without touching your mouse.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 296 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ y3owk1n/neru：y3owk1n/neru helps engineers save time in daily development and r
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 48/100 |
 | stars | 53/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

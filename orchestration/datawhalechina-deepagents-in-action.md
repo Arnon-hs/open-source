@@ -1,6 +1,6 @@
 # datawhalechina/deepagents-in-action
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/deepagents-in-action?style=flat-square&color=yellow)](https://github.com/datawhalechina/deepagents-in-action/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/deepagents-in-action?style=flat-square&color=blue)](https://github.com/datawhalechina/deepagents-in-action/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/deepagents-in-action?style=flat-square&color=yellow)](https://github.com/datawhalechina/deepagents-in-action/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/deepagents-in-action?style=flat-square&color=blue)](https://github.com/datawhalechina/deepagents-in-action/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 817 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Data · Education
+Orchestration · AI/ML · Education
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Overall, *deepagents‑in‑action* offers a solid, hands‑on foundation for bu
 | forks | 47/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

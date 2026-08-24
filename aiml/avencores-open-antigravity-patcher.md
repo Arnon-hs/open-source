@@ -1,6 +1,6 @@
 # AvenCores/open-antigravity-patcher
 
-[![Stars](https://img.shields.io/github/stars/AvenCores/open-antigravity-patcher?style=flat-square&color=yellow)](https://github.com/AvenCores/open-antigravity-patcher/stargazers) [![Forks](https://img.shields.io/github/forks/AvenCores/open-antigravity-patcher?style=flat-square&color=blue)](https://github.com/AvenCores/open-antigravity-patcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AvenCores/open-antigravity-patcher?style=flat-square&color=yellow)](https://github.com/AvenCores/open-antigravity-patcher/stargazers) [![Forks](https://img.shields.io/github/forks/AvenCores/open-antigravity-patcher?style=flat-square&color=blue)](https://github.com/AvenCores/open-antigravity-patcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🔑 Патчер Antigravity для снятия региональных ограничений 🔓
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ AvenCores/open‑antigravity‑patcher 是一款基于 Python 的 Antigravity �
 | forks | 30/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

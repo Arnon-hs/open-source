@@ -1,6 +1,6 @@
 # gravitational/teleport
 
-[![Stars](https://img.shields.io/github/stars/gravitational/teleport?style=flat-square&color=yellow)](https://github.com/gravitational/teleport/stargazers) [![Forks](https://img.shields.io/github/forks/gravitational/teleport?style=flat-square&color=blue)](https://github.com/gravitational/teleport/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gravitational/teleport?style=flat-square&color=yellow)](https://github.com/gravitational/teleport/stargazers) [![Forks](https://img.shields.io/github/forks/gravitational/teleport?style=flat-square&color=blue)](https://github.com/gravitational/teleport/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The easiest, and most secure way to access and protect all of your infrastructure.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.3k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gravitational/teleport：gravitational/teleport helps teams reuse service infras
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 65/100 |
+| production | 58/100 |
+| outlook | 58/100 |
 | adoption | 89/100 |
 | stars | 92/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

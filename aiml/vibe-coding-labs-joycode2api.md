@@ -1,6 +1,6 @@
 # vibe-coding-labs/JoyCode2Api
 
-[![Stars](https://img.shields.io/github/stars/vibe-coding-labs/JoyCode2Api?style=flat-square&color=yellow)](https://github.com/vibe-coding-labs/JoyCode2Api/stargazers) [![Forks](https://img.shields.io/github/forks/vibe-coding-labs/JoyCode2Api?style=flat-square&color=blue)](https://github.com/vibe-coding-labs/JoyCode2Api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vibe-coding-labs/JoyCode2Api?style=flat-square&color=yellow)](https://github.com/vibe-coding-labs/JoyCode2Api/stargazers) [![Forks](https://img.shields.io/github/forks/vibe-coding-labs/JoyCode2Api?style=flat-square&color=blue)](https://github.com/vibe-coding-labs/JoyCode2Api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > JoyCode API 代理 — 协议翻译成 Anthropic/OpenAI 兼容格式，让 Claude Code 直接调用 JoyCode支持的模型，比如GLM 5.1等
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ JoyCode API 代理（vibe‑coding‑labs/JoyCode2Api）将 JoyCode 的专�
 | forks | 37/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

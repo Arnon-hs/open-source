@@ -1,6 +1,6 @@
 # RustPython/RustPython
 
-[![Stars](https://img.shields.io/github/stars/RustPython/RustPython?style=flat-square&color=yellow)](https://github.com/RustPython/RustPython/stargazers) [![Forks](https://img.shields.io/github/forks/RustPython/RustPython?style=flat-square&color=blue)](https://github.com/RustPython/RustPython/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustPython/RustPython?style=flat-square&color=yellow)](https://github.com/RustPython/RustPython/stargazers) [![Forks](https://img.shields.io/github/forks/RustPython/RustPython?style=flat-square&color=blue)](https://github.com/RustPython/RustPython/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A Python Interpreter written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ RustPython/RustPython：RustPython/RustPython may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 65/100 |
-| adoption | 89/100 |
-| stars | 92/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| stars | 92/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # XiaomingX/indie-hacker-tools-plus
 
-[![Stars](https://img.shields.io/github/stars/XiaomingX/indie-hacker-tools-plus?style=flat-square&color=yellow)](https://github.com/XiaomingX/indie-hacker-tools-plus/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomingX/indie-hacker-tools-plus?style=flat-square&color=blue)](https://github.com/XiaomingX/indie-hacker-tools-plus/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XiaomingX/indie-hacker-tools-plus?style=flat-square&color=yellow)](https://github.com/XiaomingX/indie-hacker-tools-plus/stargazers) [![Forks](https://img.shields.io/github/forks/XiaomingX/indie-hacker-tools-plus?style=flat-square&color=blue)](https://github.com/XiaomingX/indie-hacker-tools-plus/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools widely used in the industry. 🚀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 145 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -39,7 +39,7 @@ This project, indie-hacker-tools-plus, is a curated collection of popular and pr
 
 ### 中文
 
-XiaomingX/indie-hacker-tools-plus：XiaomingX/indie-hacker-tools-plus helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+XiaomingX/indie-hacker-tools-plus：XiaomingX/indie-hacker-tools-plus helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ XiaomingX/indie-hacker-tools-plus：XiaomingX/indie-hacker-tools-plus helps add 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,16 +68,16 @@ XiaomingX/indie-hacker-tools-plus：XiaomingX/indie-hacker-tools-plus helps add 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 30/100 |
-| production | 56/100 |
-| outlook | 65/100 |
-| adoption | 65/100 |
-| stars | 69/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

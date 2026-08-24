@@ -1,6 +1,6 @@
 # foresterre/imagineer
 
-[![Stars](https://img.shields.io/github/stars/foresterre/imagineer?style=flat-square&color=yellow)](https://github.com/foresterre/imagineer/stargazers) [![Forks](https://img.shields.io/github/forks/foresterre/imagineer?style=flat-square&color=blue)](https://github.com/foresterre/imagineer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foresterre/imagineer?style=flat-square&color=yellow)](https://github.com/foresterre/imagineer/stargazers) [![Forks](https://img.shields.io/github/forks/foresterre/imagineer?style=flat-square&color=blue)](https://github.com/foresterre/imagineer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🦜 Accessible image processing and conversion from the terminal. Front-end for image-rs/image. Formerly 'sic'
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ foresterre/imagineer 在日常开发、代码审查和 CI 流水线中提供了�
 | forks | 21/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

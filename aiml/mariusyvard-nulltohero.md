@@ -1,6 +1,6 @@
 # MariusYvard/NullToHero
 
-[![Stars](https://img.shields.io/github/stars/MariusYvard/NullToHero?style=flat-square&color=yellow)](https://github.com/MariusYvard/NullToHero/stargazers) [![Forks](https://img.shields.io/github/forks/MariusYvard/NullToHero?style=flat-square&color=blue)](https://github.com/MariusYvard/NullToHero/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MariusYvard/NullToHero?style=flat-square&color=yellow)](https://github.com/MariusYvard/NullToHero/stargazers) [![Forks](https://img.shields.io/github/forks/MariusYvard/NullToHero?style=flat-square&color=blue)](https://github.com/MariusYvard/NullToHero/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Cowork plugin to build, optimize and ship websites. 4 skills (siteasy design, SEO, inspect, /audit whole-site orchestrator), 54 commands, 84 reference docs, 13 parallel audit sub-agents, mobile ergonomics, GEO for AI search, in-browser live variant mode, stack-aware design-system generator, WCAG 2.2, report export.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ MariusYvard/NullToHero 的
 | forks | 0/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

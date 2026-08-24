@@ -1,6 +1,6 @@
 # Kilo-Org/kilocode
 
-[![Stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square&color=yellow)](https://github.com/Kilo-Org/kilocode/stargazers) [![Forks](https://img.shields.io/github/forks/Kilo-Org/kilocode?style=flat-square&color=blue)](https://github.com/Kilo-Org/kilocode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square&color=yellow)](https://github.com/Kilo-Org/kilocode/stargazers) [![Forks](https://img.shields.io/github/forks/Kilo-Org/kilocode?style=flat-square&color=blue)](https://github.com/Kilo-Org/kilocode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Kilo-Org/kilocode: Kilo-Org/kilocode helps add AI capability without starting fr
 
 ### Русский
 
-Kilo-Org/kilocode: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Kilo-Org/kilocode: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Kilo-Org/kilocode：Kilo-Org/kilocode helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 80/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 74/100 |
-| adoption | 89/100 |
-| stars | 91/100 |
 | forks | 85/100 |
-| recency | 40/100 |
+| stars | 91/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

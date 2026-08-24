@@ -1,6 +1,6 @@
 # DisnakeDev/disnake
 
-[![Stars](https://img.shields.io/github/stars/DisnakeDev/disnake?style=flat-square&color=yellow)](https://github.com/DisnakeDev/disnake/stargazers) [![Forks](https://img.shields.io/github/forks/DisnakeDev/disnake?style=flat-square&color=blue)](https://github.com/DisnakeDev/disnake/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DisnakeDev/disnake?style=flat-square&color=yellow)](https://github.com/DisnakeDev/disnake/stargazers) [![Forks](https://img.shields.io/github/forks/DisnakeDev/disnake?style=flat-square&color=blue)](https://github.com/DisnakeDev/disnake/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An API wrapper for Discord written in Python.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 768 |
 | 🍴 **Forks** | 147 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Disnake（DisnakeDev/disnake）是用 Python 编写的 Discord API 封装库，�
 | forks | 54/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

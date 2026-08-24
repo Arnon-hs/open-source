@@ -1,6 +1,6 @@
 # Norman-bury/research-writing-skill
 
-[![Stars](https://img.shields.io/github/stars/Norman-bury/research-writing-skill?style=flat-square&color=yellow)](https://github.com/Norman-bury/research-writing-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Norman-bury/research-writing-skill?style=flat-square&color=blue)](https://github.com/Norman-bury/research-writing-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Norman-bury/research-writing-skill?style=flat-square&color=yellow)](https://github.com/Norman-bury/research-writing-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Norman-bury/research-writing-skill?style=flat-square&color=blue)](https://github.com/Norman-bury/research-writing-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 科研写作助手 (Research Writing Assistant)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Norman-bury/research-writing-skill is an open‑source research writing assistan
 
 ### 中文
 
-Norman-bury/research-writing-skill：Norman-bury/research-writing-skill may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Norman-bury/research-writing-skill：Norman-bury/research-writing-skill may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Norman-bury/research-writing-skill：Norman-bury/research-writing-skill may be u
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ Norman-bury/research-writing-skill：Norman-bury/research-writing-skill may be u
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 48/100 |
-| adoption | 62/100 |
-| stars | 66/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

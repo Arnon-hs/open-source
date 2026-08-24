@@ -1,6 +1,6 @@
 # getgantry/gantry
 
-[![Stars](https://img.shields.io/github/stars/getgantry/gantry?style=flat-square&color=yellow)](https://github.com/getgantry/gantry/stargazers) [![Forks](https://img.shields.io/github/forks/getgantry/gantry?style=flat-square&color=blue)](https://github.com/getgantry/gantry/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getgantry/gantry?style=flat-square&color=yellow)](https://github.com/getgantry/gantry/stargazers) [![Forks](https://img.shields.io/github/forks/getgantry/gantry?style=flat-square&color=blue)](https://github.com/getgantry/gantry/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Native macOS app for managing and monitoring Docker — local and over SSH. Agent-ready: built-in MCP server and App Intents. Free and open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Backend · DevTools · Observability
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Gantry is a native macOS application that lets you manage and monitor Docker con
 | forks | 12/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

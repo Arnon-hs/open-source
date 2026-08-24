@@ -1,6 +1,6 @@
 # yashdev9274/supercli
 
-[![Stars](https://img.shields.io/github/stars/yashdev9274/supercli?style=flat-square&color=yellow)](https://github.com/yashdev9274/supercli/stargazers) [![Forks](https://img.shields.io/github/forks/yashdev9274/supercli?style=flat-square&color=blue)](https://github.com/yashdev9274/supercli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yashdev9274/supercli?style=flat-square&color=yellow)](https://github.com/yashdev9274/supercli/stargazers) [![Forks](https://img.shields.io/github/forks/yashdev9274/supercli?style=flat-square&color=blue)](https://github.com/yashdev9274/supercli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The open source SWE agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ yashdev9274/supercli 是一个开源的 AI/ML 开发工具箱，提供即插即�
 | forks | 23/100 |
 | stars | 41/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

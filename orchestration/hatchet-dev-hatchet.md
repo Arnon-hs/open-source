@@ -1,6 +1,6 @@
 # hatchet-dev/hatchet
 
-[![Stars](https://img.shields.io/github/stars/hatchet-dev/hatchet?style=flat-square&color=yellow)](https://github.com/hatchet-dev/hatchet/stargazers) [![Forks](https://img.shields.io/github/forks/hatchet-dev/hatchet?style=flat-square&color=blue)](https://github.com/hatchet-dev/hatchet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hatchet-dev/hatchet?style=flat-square&color=yellow)](https://github.com/hatchet-dev/hatchet/stargazers) [![Forks](https://img.shields.io/github/forks/hatchet-dev/hatchet?style=flat-square&color=blue)](https://github.com/hatchet-dev/hatchet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 371 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · Automation
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ hatchet-dev/hatchet: hatchet-dev/hatchet helps turn isolated prompts and tools i
 
 ### Русский
 
-hatchet-dev/hatchet: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+hatchet-dev/hatchet: open-source проект в категориях Orchestration, Automation. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ hatchet-dev/hatchet：hatchet-dev/hatchet helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 75/100 |
-| integration | 94/100 |
-| production | 67/100 |
-| outlook | 71/100 |
-| adoption | 77/100 |
-| stars | 82/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

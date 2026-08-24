@@ -1,6 +1,6 @@
 # usepr/eva
 
-[![Stars](https://img.shields.io/github/stars/usepr/eva?style=flat-square&color=yellow)](https://github.com/usepr/eva/stargazers) [![Forks](https://img.shields.io/github/forks/usepr/eva?style=flat-square&color=blue)](https://github.com/usepr/eva/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/usepr/eva?style=flat-square&color=yellow)](https://github.com/usepr/eva/stargazers) [![Forks](https://img.shields.io/github/forks/usepr/eva?style=flat-square&color=blue)](https://github.com/usepr/eva/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 单文件智能体
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 262 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ usepr/eva 是一个单文件的智能体框架，能够把繁琐的手工操作�
 | forks | 39/100 |
 | stars | 51/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

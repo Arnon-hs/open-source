@@ -1,6 +1,6 @@
 # mensfeld/code-on-incus
 
-[![Stars](https://img.shields.io/github/stars/mensfeld/code-on-incus?style=flat-square&color=yellow)](https://github.com/mensfeld/code-on-incus/stargazers) [![Forks](https://img.shields.io/github/forks/mensfeld/code-on-incus?style=flat-square&color=blue)](https://github.com/mensfeld/code-on-incus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mensfeld/code-on-incus?style=flat-square&color=yellow)](https://github.com/mensfeld/code-on-incus/stargazers) [![Forks](https://img.shields.io/github/forks/mensfeld/code-on-incus?style=flat-square&color=blue)](https://github.com/mensfeld/code-on-incus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Give each AI agent its own isolated machine with root, Docker, and systemd. Active defense detects and stops threats automatically..
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · DevOps/Infra
+AI/ML · DevTools · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mensfeld/code-on-incus: mensfeld/code-on-incus helps add AI capability without s
 
 ### Русский
 
-mensfeld/code-on-incus: open-source проект в категориях AI/ML, DevTools, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mensfeld/code-on-incus: open-source проект в категориях AI/ML, DevTools, DevOps/Infra, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ mensfeld/code-on-incus：mensfeld/code-on-incus helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 65/100 |
-| adoption | 52/100 |
-| stars | 57/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

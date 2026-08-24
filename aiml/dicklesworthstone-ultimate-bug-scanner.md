@@ -1,6 +1,6 @@
 # Dicklesworthstone/ultimate_bug_scanner
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/ultimate_bug_scanner?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/ultimate_bug_scanner/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/ultimate_bug_scanner?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/ultimate_bug_scanner/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/ultimate_bug_scanner?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/ultimate_bug_scanner/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/ultimate_bug_scanner?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/ultimate_bug_scanner/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality guardrails
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 230 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · DevTools
 
 ### English
 
-Dicklesworthstone/ultimate_bug_scanner: Dicklesworthstone/ultimate_bug_scanner helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Dicklesworthstone/ultimate_bug_scanner: Dicklesworthstone/ultimate_bug_scanner helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Dicklesworthstone/ultimate_bug_scanner: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Dicklesworthstone/ultimate_bug_scanner: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Dicklesworthstone/ultimate_bug_scanner：Dicklesworthstone/ultimate_bug_scanner helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Dicklesworthstone/ultimate_bug_scanner：Dicklesworthstone/ultimate_bug_scanner helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Dicklesworthstone/ultimate_bug_scanner：Dicklesworthstone/ultimate_bug_scanner 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Dicklesworthstone/ultimate_bug_scanner：Dicklesworthstone/ultimate_bug_scanner 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 64/100 |
-| adoption | 47/100 |
-| stars | 50/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 49/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # git-town/git-town
 
-[![Stars](https://img.shields.io/github/stars/git-town/git-town?style=flat-square&color=yellow)](https://github.com/git-town/git-town/stargazers) [![Forks](https://img.shields.io/github/forks/git-town/git-town?style=flat-square&color=blue)](https://github.com/git-town/git-town/network) [![Language](https://img.shields.io/badge/lang-Gherkin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/git-town/git-town?style=flat-square&color=yellow)](https://github.com/git-town/git-town/stargazers) [![Forks](https://img.shields.io/github/forks/git-town/git-town?style=flat-square&color=blue)](https://github.com/git-town/git-town/network) [![Language](https://img.shields.io/badge/lang-Gherkin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Git branches made easy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Gherkin |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Git Town is an open‑source command‑line tool that streamlines Git branch w
 
 ### 中文
 
-git-town/git-town：git-town/git-town may be useful when its README and activity match a concrete workflow.。适合用于Product。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+git-town/git-town：git-town/git-town may be useful when its README and activity match a concrete workflow.。适合用于Product。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ git-town/git-town：git-town/git-town may be useful when its README and activity
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ git-town/git-town：git-town/git-town may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 69/100 |
 | stars | 75/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # AAswordman/Operit
 
-[![Stars](https://img.shields.io/github/stars/AAswordman/Operit?style=flat-square&color=yellow)](https://github.com/AAswordman/Operit/stargazers) [![Forks](https://img.shields.io/github/forks/AAswordman/Operit?style=flat-square&color=blue)](https://github.com/AAswordman/Operit/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AAswordman/Operit?style=flat-square&color=yellow)](https://github.com/AAswordman/Operit/stargazers) [![Forks](https://img.shields.io/github/forks/AAswordman/Operit?style=flat-square&color=blue)](https://github.com/AAswordman/Operit/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 357 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ AAswordman/Operit：AAswordman/Operit helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 74/100 |
-| stars | 78/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

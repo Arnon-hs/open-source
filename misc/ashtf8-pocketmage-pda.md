@@ -1,6 +1,6 @@
 # ashtf8/PocketMage_PDA
 
-[![Stars](https://img.shields.io/github/stars/ashtf8/PocketMage_PDA?style=flat-square&color=yellow)](https://github.com/ashtf8/PocketMage_PDA/stargazers) [![Forks](https://img.shields.io/github/forks/ashtf8/PocketMage_PDA?style=flat-square&color=blue)](https://github.com/ashtf8/PocketMage_PDA/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashtf8/PocketMage_PDA?style=flat-square&color=yellow)](https://github.com/ashtf8/PocketMage_PDA/stargazers) [![Forks](https://img.shields.io/github/forks/ashtf8/PocketMage_PDA?style=flat-square&color=blue)](https://github.com/ashtf8/PocketMage_PDA/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > An E-Ink PDA device using the ESP32 S3.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PocketMage PDA — это открытый проект портативно
 
 ### 中文
 
-ashtf8/PocketMage_PDA：ashtf8/PocketMage_PDA may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ashtf8/PocketMage_PDA：ashtf8/PocketMage_PDA may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ashtf8/PocketMage_PDA：ashtf8/PocketMage_PDA may be useful when its README and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ ashtf8/PocketMage_PDA：ashtf8/PocketMage_PDA may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 64/100 |
-| stars | 69/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

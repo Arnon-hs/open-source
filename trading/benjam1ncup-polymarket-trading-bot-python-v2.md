@@ -1,6 +1,6 @@
 # Benjam1nCup/Polymarket-trading-bot-python-V2
 
-[![Stars](https://img.shields.io/github/stars/Benjam1nCup/Polymarket-trading-bot-python-V2?style=flat-square&color=yellow)](https://github.com/Benjam1nCup/Polymarket-trading-bot-python-V2/stargazers) [![Forks](https://img.shields.io/github/forks/Benjam1nCup/Polymarket-trading-bot-python-V2?style=flat-square&color=blue)](https://github.com/Benjam1nCup/Polymarket-trading-bot-python-V2/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Benjam1nCup/Polymarket-trading-bot-python-V2?style=flat-square&color=yellow)](https://github.com/Benjam1nCup/Polymarket-trading-bot-python-V2/stargazers) [![Forks](https://img.shields.io/github/forks/Benjam1nCup/Polymarket-trading-bot-python-V2?style=flat-square&color=blue)](https://github.com/Benjam1nCup/Polymarket-trading-bot-python-V2/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 338 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Knowledge/RAG · Automation · AI/ML
+Trading · Automation
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Benjam1nCup/Polymarket‑trading‑bot‑python‑V2 是一个开源的 Polymark
 | forks | 40/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

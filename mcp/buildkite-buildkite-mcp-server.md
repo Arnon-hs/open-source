@@ -1,6 +1,6 @@
 # buildkite/buildkite-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/buildkite/buildkite-mcp-server?style=flat-square&color=yellow)](https://github.com/buildkite/buildkite-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/buildkite/buildkite-mcp-server?style=flat-square&color=blue)](https://github.com/buildkite/buildkite-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buildkite/buildkite-mcp-server?style=flat-square&color=yellow)](https://github.com/buildkite/buildkite-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/buildkite/buildkite-mcp-server?style=flat-square&color=blue)](https://github.com/buildkite/buildkite-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Official MCP Server for Buildkite.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Overall, **buildkite‑mcp‑server** offers a practical, standards‑based brid
 | forks | 38/100 |
 | stars | 36/100 |
 | topics | 25/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

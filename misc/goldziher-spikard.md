@@ -1,6 +1,6 @@
 # Goldziher/spikard
 
-[![Stars](https://img.shields.io/github/stars/Goldziher/spikard?style=flat-square&color=yellow)](https://github.com/Goldziher/spikard/stargazers) [![Forks](https://img.shields.io/github/forks/Goldziher/spikard?style=flat-square&color=blue)](https://github.com/Goldziher/spikard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Goldziher/spikard?style=flat-square&color=yellow)](https://github.com/Goldziher/spikard/stargazers) [![Forks](https://img.shields.io/github/forks/Goldziher/spikard?style=flat-square&color=blue)](https://github.com/Goldziher/spikard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-powered, multi-language web toolkit with bindings for Python, Typescript, Ruby and PHP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ Goldziher/spikard 的生产可用性很高，主要原因是其最近的活动�
 | forks | 17/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

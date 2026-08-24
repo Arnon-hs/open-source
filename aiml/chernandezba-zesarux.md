@@ -1,6 +1,6 @@
 # chernandezba/zesarux
 
-[![Stars](https://img.shields.io/github/stars/chernandezba/zesarux?style=flat-square&color=yellow)](https://github.com/chernandezba/zesarux/stargazers) [![Forks](https://img.shields.io/github/forks/chernandezba/zesarux?style=flat-square&color=blue)](https://github.com/chernandezba/zesarux/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chernandezba/zesarux?style=flat-square&color=yellow)](https://github.com/chernandezba/zesarux/stargazers) [![Forks](https://img.shields.io/github/forks/chernandezba/zesarux?style=flat-square&color=blue)](https://github.com/chernandezba/zesarux/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ZEsarUX - ZX Second-Emulator And Released for UniX
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 393 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | C |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-chernandezba/zesarux: chernandezba/zesarux helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+chernandezba/zesarux: chernandezba/zesarux helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-chernandezba/zesarux: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+chernandezba/zesarux: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-chernandezba/zesarux：chernandezba/zesarux helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+chernandezba/zesarux：chernandezba/zesarux helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ chernandezba/zesarux：chernandezba/zesarux helps add AI capability without star
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ chernandezba/zesarux：chernandezba/zesarux helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 49/100 |
+| outlook | 48/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

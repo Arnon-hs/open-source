@@ -1,6 +1,6 @@
 # jtroo/kanata
 
-[![Stars](https://img.shields.io/github/stars/jtroo/kanata?style=flat-square&color=yellow)](https://github.com/jtroo/kanata/stargazers) [![Forks](https://img.shields.io/github/forks/jtroo/kanata?style=flat-square&color=blue)](https://github.com/jtroo/kanata/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jtroo/kanata?style=flat-square&color=yellow)](https://github.com/jtroo/kanata/stargazers) [![Forks](https://img.shields.io/github/forks/jtroo/kanata?style=flat-square&color=blue)](https://github.com/jtroo/kanata/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Improve keyboard comfort and usability with advanced customization
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ jtroo/kanata：jtroo/kanata may be useful when its README and activity match a c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 76/100 |
-| stars | 82/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

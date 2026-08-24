@@ -1,0 +1,82 @@
+# evan-moon/firma
+
+[![Stars](https://img.shields.io/github/stars/evan-moon/firma?style=flat-square&color=yellow)](https://github.com/evan-moon/firma/stargazers) [![Forks](https://img.shields.io/github/forks/evan-moon/firma?style=flat-square&color=blue)](https://github.com/evan-moon/firma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+
+> Local-first CLI portfolio tracker for overseas investors, with built-in MCP server for Claude
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 30 |
+| 🍴 **Forks** | 3 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`claude` `cli` `finnhub` `local-first` `mcp` `personal-finance` `portfolio` `sqlite` `stock` `typescript`
+
+## 🎯 Categories
+
+MCP · DevTools · Database
+
+## 📝 Summary
+
+### English
+
+Evan‑Moon’s **firma** is a local‑first command‑line portfolio tracker designed for overseas investors, letting you manage holdings entirely offline while still syncing securely when needed. It includes a built‑in MCP (Message Control Protocol) server that integrates with Claude, enabling AI‑driven insights and automation directly from the CLI. The project spans both frontend (interactive terminal UI) and backend components, making it a versatile DevTools solution for personal finance management.
+
+### Русский
+
+**evan-moon/firma** — локально‑ориентированный CLI‑трекер портфеля для инвесторов, работающих за границей, позволяющий вести учёт активов без постоянного подключения к облаку. Встроенный MCP‑сервер обеспечивает интеграцию с Claude, предоставляя мощные возможности генеративного анализа и автоматизации. Проект объединяет фронтенд, бэкенд и набор DevTools, упрощая настройку и расширение функционала.
+
+### 中文
+
+evan-moon/firma：evan-moon/firma helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** evan-moon/firma helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 30 GitHub stars
+- 3 forks
+- updated 2026-05-09
+- primary language: TypeScript
+- 10 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 15/100 |
+| stars | 32/100 |
+| topics | 100/100 |
+| outlook | 49/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/evan-moon/firma) · [← Back to Mcp](./README.md)</sub>

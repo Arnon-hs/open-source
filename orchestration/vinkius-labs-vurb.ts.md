@@ -1,6 +1,6 @@
 # vinkius-labs/vurb.ts
 
-[![Stars](https://img.shields.io/github/stars/vinkius-labs/vurb.ts?style=flat-square&color=yellow)](https://github.com/vinkius-labs/vurb.ts/stargazers) [![Forks](https://img.shields.io/github/forks/vinkius-labs/vurb.ts?style=flat-square&color=blue)](https://github.com/vinkius-labs/vurb.ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinkius-labs/vurb.ts?style=flat-square&color=yellow)](https://github.com/vinkius-labs/vurb.ts/stargazers) [![Forks](https://img.shields.io/github/forks/vinkius-labs/vurb.ts?style=flat-square&color=blue)](https://github.com/vinkius-labs/vurb.ts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript framework for building production MCP servers. Fluent tool API, FSM gating, presenters, semantic routing, cache hints, Zod validation. Model-View-Agent architecture for the Model Context Protocol.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ vinkius‑labs/vurb.ts 是一个基于 TypeScript 的框架，专为构建面向
 | forks | 34/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

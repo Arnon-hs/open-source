@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 216 |
-| 🍴 **Forks** | 26 |
+| ⭐ **Stars** | 219 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,56 @@ Misc
 
 ## 📝 Summary
 
-The ridiculousfish/regress project is an open-source implementation of regex (regular expressions) in Rust, providing support for the EcmaScript syntax. This library allows developers to utilize regex patterns inspired by the JavaScript standard in their Rust applications. It offers a powerful tool for text manipulation and analysis with a familiar syntax.
+### English
+
+ridiculousfish/regress: ridiculousfish/regress may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+ridiculousfish/regress: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+ridiculousfish/regress：ridiculousfish/regress may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** ridiculousfish/regress may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 219 GitHub stars
+- 27 forks
+- updated 2026-07-07
+- primary language: Rust
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 36/100 |
+| stars | 50/100 |
+| topics | 0/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 40/100 |
+| adoption | 46/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/ridiculousfish/regress) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-07 · [View on GitHub](https://github.com/ridiculousfish/regress) · [← Back to Misc](./README.md)</sub>

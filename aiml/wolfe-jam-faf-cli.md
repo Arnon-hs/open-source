@@ -1,6 +1,6 @@
 # Wolfe-Jam/faf-cli
 
-[![Stars](https://img.shields.io/github/stars/Wolfe-Jam/faf-cli?style=flat-square&color=yellow)](https://github.com/Wolfe-Jam/faf-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Wolfe-Jam/faf-cli?style=flat-square&color=blue)](https://github.com/Wolfe-Jam/faf-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wolfe-Jam/faf-cli?style=flat-square&color=yellow)](https://github.com/Wolfe-Jam/faf-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Wolfe-Jam/faf-cli?style=flat-square&color=blue)](https://github.com/Wolfe-Jam/faf-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent Project Context for AI — IANA-registered .faf format · universal CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Wolfe‑Jam/faf‑cli — это универсальный CLI‑инстру
 
 ### 中文
 
-Wolfe-Jam/faf-cli：Wolfe-Jam/faf-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Wolfe-Jam/faf-cli：Wolfe-Jam/faf-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Wolfe-Jam/faf-cli：Wolfe-Jam/faf-cli helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Wolfe-Jam/faf-cli：Wolfe-Jam/faf-cli helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 50/100 |
+| outlook | 54/100 |
 | adoption | 28/100 |
 | stars | 31/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

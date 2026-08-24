@@ -1,6 +1,6 @@
 # rpbouman/huey
 
-[![Stars](https://img.shields.io/github/stars/rpbouman/huey?style=flat-square&color=yellow)](https://github.com/rpbouman/huey/stargazers) [![Forks](https://img.shields.io/github/forks/rpbouman/huey?style=flat-square&color=blue)](https://github.com/rpbouman/huey/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rpbouman/huey?style=flat-square&color=yellow)](https://github.com/rpbouman/huey/stargazers) [![Forks](https://img.shields.io/github/forks/rpbouman/huey?style=flat-square&color=blue)](https://github.com/rpbouman/huey/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Light-weight, browser-based ROLAP pivot tables on top of DuckDB-WASM
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 571 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Huey 为前端数据分析提供了“一站式”解决方案，能够在无需
 | forks | 38/100 |
 | stars | 59/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

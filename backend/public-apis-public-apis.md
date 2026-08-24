@@ -1,6 +1,6 @@
 # public-apis/public-apis
 
-[![Stars](https://img.shields.io/github/stars/public-apis/public-apis?style=flat-square&color=yellow)](https://github.com/public-apis/public-apis/stargazers) [![Forks](https://img.shields.io/github/forks/public-apis/public-apis?style=flat-square&color=blue)](https://github.com/public-apis/public-apis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/public-apis/public-apis?style=flat-square&color=yellow)](https://github.com/public-apis/public-apis/stargazers) [![Forks](https://img.shields.io/github/forks/public-apis/public-apis?style=flat-square&color=blue)](https://github.com/public-apis/public-apis/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A collective list of free APIs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 433k |
 | 🍴 **Forks** | 47.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ public-apis/public-apis: public-apis/public-apis helps teams reuse service infra
 
 ### Русский
 
-public-apis/public-apis: open-source проект в категориях Backend, Data. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+public-apis/public-apis: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ public-apis/public-apis：public-apis/public-apis helps teams reuse service infr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 85/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 71/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # Epistates/treemd
 
-[![Stars](https://img.shields.io/github/stars/Epistates/treemd?style=flat-square&color=yellow)](https://github.com/Epistates/treemd/stargazers) [![Forks](https://img.shields.io/github/forks/Epistates/treemd?style=flat-square&color=blue)](https://github.com/Epistates/treemd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Epistates/treemd?style=flat-square&color=yellow)](https://github.com/Epistates/treemd/stargazers) [![Forks](https://img.shields.io/github/forks/Epistates/treemd?style=flat-square&color=blue)](https://github.com/Epistates/treemd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A (TUI/CLI) markdown navigator with tree-based structural navigation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 622 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Epistates/treemd — это открытый TUI/CLI‑инструмент д
 
 ### 中文
 
-Epistates/treemd：Epistates/treemd helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Epistates/treemd：Epistates/treemd helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Epistates/treemd：Epistates/treemd helps ship user-facing interfaces with less 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Epistates/treemd：Epistates/treemd helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 52/100 |
 | stars | 59/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

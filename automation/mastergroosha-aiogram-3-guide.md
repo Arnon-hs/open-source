@@ -1,6 +1,6 @@
 # MasterGroosha/aiogram-3-guide
 
-[![Stars](https://img.shields.io/github/stars/MasterGroosha/aiogram-3-guide?style=flat-square&color=yellow)](https://github.com/MasterGroosha/aiogram-3-guide/stargazers) [![Forks](https://img.shields.io/github/forks/MasterGroosha/aiogram-3-guide?style=flat-square&color=blue)](https://github.com/MasterGroosha/aiogram-3-guide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MasterGroosha/aiogram-3-guide?style=flat-square&color=yellow)](https://github.com/MasterGroosha/aiogram-3-guide/stargazers) [![Forks](https://img.shields.io/github/forks/MasterGroosha/aiogram-3-guide?style=flat-square&color=blue)](https://github.com/MasterGroosha/aiogram-3-guide/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Пишем Telegram-ботов с aiogram 3.x
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend
+Automation · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ MasterGroosha/aiogram-3-guide 是一套基于 **aiogram 3.x** 的实战指南，
 | forks | 54/100 |
 | stars | 64/100 |
 | topics | 25/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

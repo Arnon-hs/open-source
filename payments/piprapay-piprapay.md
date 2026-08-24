@@ -1,6 +1,6 @@
 # PipraPay/PipraPay
 
-[![Stars](https://img.shields.io/github/stars/PipraPay/PipraPay?style=flat-square&color=yellow)](https://github.com/PipraPay/PipraPay/stargazers) [![Forks](https://img.shields.io/github/forks/PipraPay/PipraPay?style=flat-square&color=blue)](https://github.com/PipraPay/PipraPay/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PipraPay/PipraPay?style=flat-square&color=yellow)](https://github.com/PipraPay/PipraPay/stargazers) [![Forks](https://img.shields.io/github/forks/PipraPay/PipraPay?style=flat-square&color=blue)](https://github.com/PipraPay/PipraPay/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Empower your payment operations with PipraPay, the free and open-source, plugin-based platform for automated payments and full workflow control.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 205 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Automation · Frontend · Database · DevOps/Infra
+Payments · Automation · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ PipraPay 是一款免费开源、插件化的支付平台，提供全链路自�
 | forks | 45/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

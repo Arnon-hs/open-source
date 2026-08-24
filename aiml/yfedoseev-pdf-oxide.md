@@ -1,6 +1,6 @@
 # yfedoseev/pdf_oxide
 
-[![Stars](https://img.shields.io/github/stars/yfedoseev/pdf_oxide?style=flat-square&color=yellow)](https://github.com/yfedoseev/pdf_oxide/stargazers) [![Forks](https://img.shields.io/github/forks/yfedoseev/pdf_oxide?style=flat-square&color=blue)](https://github.com/yfedoseev/pdf_oxide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yfedoseev/pdf_oxide?style=flat-square&color=yellow)](https://github.com/yfedoseev/pdf_oxide/stargazers) [![Forks](https://img.shields.io/github/forks/yfedoseev/pdf_oxide?style=flat-square&color=blue)](https://github.com/yfedoseev/pdf_oxide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. MIT/Apache-2.0.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 725 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yfedoseev/pdf_oxide：yfedoseev/pdf_oxide helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 57/100 |
 | stars | 61/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

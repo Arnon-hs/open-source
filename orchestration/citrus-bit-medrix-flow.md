@@ -1,6 +1,6 @@
 # Citrus-bit/medrix-flow
 
-[![Stars](https://img.shields.io/github/stars/Citrus-bit/medrix-flow?style=flat-square&color=yellow)](https://github.com/Citrus-bit/medrix-flow/stargazers) [![Forks](https://img.shields.io/github/forks/Citrus-bit/medrix-flow?style=flat-square&color=blue)](https://github.com/Citrus-bit/medrix-flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Citrus-bit/medrix-flow?style=flat-square&color=yellow)](https://github.com/Citrus-bit/medrix-flow/stargazers) [![Forks](https://img.shields.io/github/forks/Citrus-bit/medrix-flow?style=flat-square&color=blue)](https://github.com/Citrus-bit/medrix-flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > MedrixFlow 是一个全栈 AI 代理编排平台，后端基于 LangGraph 实现多代理协作与状态管理，前端基于 Next.js 16 提供现代化交互界面。系统支持在隔离的线程级沙箱中执行代码、浏览网页、管理文件，并通过持久化记忆在跨对话间保留用户上下文。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Citrus-bit/medrix-flow：Citrus-bit/medrix-flow helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 40/100 |
-| stars | 44/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

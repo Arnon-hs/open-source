@@ -1,6 +1,6 @@
 # n8n-io/n8n
 
-[![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&color=yellow)](https://github.com/n8n-io/n8n/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/n8n?style=flat-square&color=blue)](https://github.com/n8n-io/n8n/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&color=yellow)](https://github.com/n8n-io/n8n/stargazers) [![Forks](https://img.shields.io/github/forks/n8n-io/n8n?style=flat-square&color=blue)](https://github.com/n8n-io/n8n/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 186.9k |
 | 🍴 **Forks** | 57.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ n8n-io/n8n：n8n-io/n8n helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 94/100 |
-| production | 71/100 |
-| outlook | 79/100 |
+| production | 64/100 |
+| outlook | 72/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/typescript-utcp
 
-[![Stars](https://img.shields.io/github/stars/universal-tool-calling-protocol/typescript-utcp?style=flat-square&color=yellow)](https://github.com/universal-tool-calling-protocol/typescript-utcp/stargazers) [![Forks](https://img.shields.io/github/forks/universal-tool-calling-protocol/typescript-utcp?style=flat-square&color=blue)](https://github.com/universal-tool-calling-protocol/typescript-utcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/universal-tool-calling-protocol/typescript-utcp?style=flat-square&color=yellow)](https://github.com/universal-tool-calling-protocol/typescript-utcp/stargazers) [![Forks](https://img.shields.io/github/forks/universal-tool-calling-protocol/typescript-utcp?style=flat-square&color=blue)](https://github.com/universal-tool-calling-protocol/typescript-utcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Official typescript implementation of UTCP. UTCP is an open standard that lets AI agents call any API directly, without extra middleware.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **universal-tool-calling-protocol/typescript-utcp** repository provides a co
 
 ### 中文
 
-universal-tool-calling-protocol/typescript-utcp：universal-tool-calling-protocol/typescript-utcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+universal-tool-calling-protocol/typescript-utcp：universal-tool-calling-protocol/typescript-utcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ universal-tool-calling-protocol/typescript-utcp：universal-tool-calling-protoco
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ universal-tool-calling-protocol/typescript-utcp：universal-tool-calling-protoco
 - primary language: TypeScript
 - 3 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 78/100 |
-| production | 55/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 40/100 |
 | stars | 44/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

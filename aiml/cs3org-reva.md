@@ -1,6 +1,6 @@
 # cs3org/reva
 
-[![Stars](https://img.shields.io/github/stars/cs3org/reva?style=flat-square&color=yellow)](https://github.com/cs3org/reva/stargazers) [![Forks](https://img.shields.io/github/forks/cs3org/reva?style=flat-square&color=blue)](https://github.com/cs3org/reva/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cs3org/reva?style=flat-square&color=yellow)](https://github.com/cs3org/reva/stargazers) [![Forks](https://img.shields.io/github/forks/cs3org/reva?style=flat-square&color=blue)](https://github.com/cs3org/reva/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cs3org/reva：cs3org/reva helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 50/100 |
 | stars | 50/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

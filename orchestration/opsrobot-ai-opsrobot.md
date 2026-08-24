@@ -1,6 +1,6 @@
 # opsrobot-ai/opsrobot
 
-[![Stars](https://img.shields.io/github/stars/opsrobot-ai/opsrobot?style=flat-square&color=yellow)](https://github.com/opsrobot-ai/opsrobot/stargazers) [![Forks](https://img.shields.io/github/forks/opsrobot-ai/opsrobot?style=flat-square&color=blue)](https://github.com/opsrobot-ai/opsrobot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opsrobot-ai/opsrobot?style=flat-square&color=yellow)](https://github.com/opsrobot-ai/opsrobot/stargazers) [![Forks](https://img.shields.io/github/forks/opsrobot-ai/opsrobot?style=flat-square&color=blue)](https://github.com/opsrobot-ai/opsrobot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Observability platform for Digital Employee, providing real-time tracing, session insights, and cost analysis for multi-agent workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 136 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML · Data · Observability
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ OpsRobot — это open‑source платформа наблюдаемост�
 
 ### 中文
 
-opsrobot-ai/opsrobot：opsrobot-ai/opsrobot helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+opsrobot-ai/opsrobot：opsrobot-ai/opsrobot helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ opsrobot-ai/opsrobot：opsrobot-ai/opsrobot helps turn isolated prompts and tool
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ opsrobot-ai/opsrobot：opsrobot-ai/opsrobot helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 63/100 |
-| adoption | 38/100 |
-| stars | 45/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 45/100 |
+| usefulness | 100/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

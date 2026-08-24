@@ -1,6 +1,6 @@
 # docwiser/photolens
 
-[![Stars](https://img.shields.io/github/stars/docwiser/photolens?style=flat-square&color=yellow)](https://github.com/docwiser/photolens/stargazers) [![Forks](https://img.shields.io/github/forks/docwiser/photolens?style=flat-square&color=blue)](https://github.com/docwiser/photolens/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docwiser/photolens?style=flat-square&color=yellow)](https://github.com/docwiser/photolens/stargazers) [![Forks](https://img.shields.io/github/forks/docwiser/photolens?style=flat-square&color=blue)](https://github.com/docwiser/photolens/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): PhotoLens — A Fully Offline, On-Device Photo Gallery That Gives Blind and Low-Vision Users Independent Access to Their Own Memories
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-05-15 |
+| 📈 **Score** | 30/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | devto |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ PhotoLens 是一款完全离线、运行在本地设备上的照片图库，专�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 63/100 |
-| outlook | 50/100 |
-| quality | 40/100 |
-| recency | 80/100 |
+| outlook | 29/100 |
+| quality | 25/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 52/100 |
+| production | 32/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

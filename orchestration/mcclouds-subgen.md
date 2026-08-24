@@ -1,6 +1,6 @@
 # McCloudS/subgen
 
-[![Stars](https://img.shields.io/github/stars/McCloudS/subgen?style=flat-square&color=yellow)](https://github.com/McCloudS/subgen/stargazers) [![Forks](https://img.shields.io/github/forks/McCloudS/subgen?style=flat-square&color=blue)](https://github.com/McCloudS/subgen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/McCloudS/subgen?style=flat-square&color=yellow)](https://github.com/McCloudS/subgen/stargazers) [![Forks](https://img.shields.io/github/forks/McCloudS/subgen?style=flat-square&color=blue)](https://github.com/McCloudS/subgen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ McCloudS/subgen — открытый проект, который автома
 
 ### 中文
 
-McCloudS/subgen：McCloudS/subgen helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+McCloudS/subgen：McCloudS/subgen helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ McCloudS/subgen：McCloudS/subgen helps turn isolated prompts and tools into rep
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ McCloudS/subgen：McCloudS/subgen helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
+| usefulness | 58/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 48/100 |
+| production | 46/100 |
+| outlook | 44/100 |
 | adoption | 62/100 |
 | stars | 67/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

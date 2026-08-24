@@ -1,6 +1,6 @@
 # nutcas3/lets-bet
 
-[![Stars](https://img.shields.io/github/stars/nutcas3/lets-bet?style=flat-square&color=yellow)](https://github.com/nutcas3/lets-bet/stargazers) [![Forks](https://img.shields.io/github/forks/nutcas3/lets-bet?style=flat-square&color=blue)](https://github.com/nutcas3/lets-bet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nutcas3/lets-bet?style=flat-square&color=yellow)](https://github.com/nutcas3/lets-bet/stargazers) [![Forks](https://img.shields.io/github/forks/nutcas3/lets-bet?style=flat-square&color=blue)](https://github.com/nutcas3/lets-bet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Tier-1 betting platform for Kenya, Nigeria, Ghana. Sports betting, crash games, M-Pesa/Flutterwave payments, real-time WebSocket odds, BCLB compliance. Go microservices with NATS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ The **lets‑bet** project is a Tier‑1 sports‑betting platform targeting Ken
 
 ### 中文
 
-nutcas3/lets-bet：nutcas3/lets-bet helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nutcas3/lets-bet：nutcas3/lets-bet helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ nutcas3/lets-bet：nutcas3/lets-bet helps integrate monetization, billing, or PS
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ nutcas3/lets-bet：nutcas3/lets-bet helps integrate monetization, billing, or PS
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 53/100 |
-| adoption | 42/100 |
-| stars | 43/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

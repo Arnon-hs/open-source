@@ -1,6 +1,6 @@
 # omnirexflora-labs/omnicoreagent
 
-[![Stars](https://img.shields.io/github/stars/omnirexflora-labs/omnicoreagent?style=flat-square&color=yellow)](https://github.com/omnirexflora-labs/omnicoreagent/stargazers) [![Forks](https://img.shields.io/github/forks/omnirexflora-labs/omnicoreagent?style=flat-square&color=blue)](https://github.com/omnirexflora-labs/omnicoreagent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omnirexflora-labs/omnicoreagent?style=flat-square&color=yellow)](https://github.com/omnirexflora-labs/omnicoreagent/stargazers) [![Forks](https://img.shields.io/github/forks/omnirexflora-labs/omnicoreagent?style=flat-square&color=blue)](https://github.com/omnirexflora-labs/omnicoreagent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open Python agent harness for production AI agents: parallel tool execution, structured observations, loop detection, memory, workspace files, MCP tools, subagents, background tasks, and OmniServe APIs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 236 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend · Product
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ OmniCoreAgent（omnirexflora-labs/omnicoreagent）是一个面向生产环境的
 | forks | 44/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 80/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

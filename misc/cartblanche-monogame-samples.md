@@ -1,6 +1,6 @@
 # CartBlanche/MonoGame-Samples
 
-[![Stars](https://img.shields.io/github/stars/CartBlanche/MonoGame-Samples?style=flat-square&color=yellow)](https://github.com/CartBlanche/MonoGame-Samples/stargazers) [![Forks](https://img.shields.io/github/forks/CartBlanche/MonoGame-Samples?style=flat-square&color=blue)](https://github.com/CartBlanche/MonoGame-Samples/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CartBlanche/MonoGame-Samples?style=flat-square&color=yellow)](https://github.com/CartBlanche/MonoGame-Samples/stargazers) [![Forks](https://img.shields.io/github/forks/CartBlanche/MonoGame-Samples?style=flat-square&color=blue)](https://github.com/CartBlanche/MonoGame-Samples/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > All the Samples that work with MonoGame
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 817 |
 | 🍴 **Forks** | 370 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ CartBlanche/MonoGame-Samples 是一个高价值的学习资源库，适合在项
 | forks | 64/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

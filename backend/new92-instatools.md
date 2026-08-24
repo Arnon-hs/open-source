@@ -1,6 +1,6 @@
 # new92/instatools
 
-[![Stars](https://img.shields.io/github/stars/new92/instatools?style=flat-square&color=yellow)](https://github.com/new92/instatools/stargazers) [![Forks](https://img.shields.io/github/forks/new92/instatools?style=flat-square&color=blue)](https://github.com/new92/instatools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/new92/instatools?style=flat-square&color=yellow)](https://github.com/new92/instatools/stargazers) [![Forks](https://img.shields.io/github/forks/new92/instatools?style=flat-square&color=blue)](https://github.com/new92/instatools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 🧰 A collection of automation tools for Instagram 📱| Written in Python 🐍 | Don't forget to ⭐ the repo !
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 299 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ new92/instatools：new92/instatools helps teams reuse service infrastructure ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 66/100 |
+| production | 53/100 |
+| outlook | 59/100 |
 | adoption | 49/100 |
 | stars | 53/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

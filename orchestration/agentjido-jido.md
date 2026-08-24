@@ -1,6 +1,6 @@
 # agentjido/jido
 
-[![Stars](https://img.shields.io/github/stars/agentjido/jido?style=flat-square&color=yellow)](https://github.com/agentjido/jido/stargazers) [![Forks](https://img.shields.io/github/forks/agentjido/jido?style=flat-square&color=blue)](https://github.com/agentjido/jido/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentjido/jido?style=flat-square&color=yellow)](https://github.com/agentjido/jido/stargazers) [![Forks](https://img.shields.io/github/forks/agentjido/jido?style=flat-square&color=blue)](https://github.com/agentjido/jido/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ agentjido/jido 的生产可用性很高，因为：
 | forks | 51/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

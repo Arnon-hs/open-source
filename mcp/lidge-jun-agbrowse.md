@@ -1,6 +1,6 @@
 # lidge-jun/agbrowse
 
-[![Stars](https://img.shields.io/github/stars/lidge-jun/agbrowse?style=flat-square&color=yellow)](https://github.com/lidge-jun/agbrowse/stargazers) [![Forks](https://img.shields.io/github/forks/lidge-jun/agbrowse?style=flat-square&color=blue)](https://github.com/lidge-jun/agbrowse/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lidge-jun/agbrowse?style=flat-square&color=yellow)](https://github.com/lidge-jun/agbrowse/stargazers) [![Forks](https://img.shields.io/github/forks/lidge-jun/agbrowse?style=flat-square&color=blue)](https://github.com/lidge-jun/agbrowse/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Ultimate browser automation toolkit for AI agents. Zero MCP token tax, JS evaluate, vision-click with DPR correction.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools
+MCP · Automation
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ lidge‑jun/agbrowse 是一款面向 AI 代理的终极浏览器自动化工具�
 | forks | 32/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 76/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # quarkusio/quarkus-workshop-langchain4j
 
-[![Stars](https://img.shields.io/github/stars/quarkusio/quarkus-workshop-langchain4j?style=flat-square&color=yellow)](https://github.com/quarkusio/quarkus-workshop-langchain4j/stargazers) [![Forks](https://img.shields.io/github/forks/quarkusio/quarkus-workshop-langchain4j?style=flat-square&color=blue)](https://github.com/quarkusio/quarkus-workshop-langchain4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quarkusio/quarkus-workshop-langchain4j?style=flat-square&color=yellow)](https://github.com/quarkusio/quarkus-workshop-langchain4j/stargazers) [![Forks](https://img.shields.io/github/forks/quarkusio/quarkus-workshop-langchain4j?style=flat-square&color=blue)](https://github.com/quarkusio/quarkus-workshop-langchain4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Quarkus Langchain4J Workshop
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Quarkus Langchain4J Workshop（quarkusio/quarkus-workshop-langchain4j）是�
 | forks | 45/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

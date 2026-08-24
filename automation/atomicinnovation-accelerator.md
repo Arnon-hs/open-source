@@ -1,6 +1,6 @@
 # atomicinnovation/accelerator
 
-[![Stars](https://img.shields.io/github/stars/atomicinnovation/accelerator?style=flat-square&color=yellow)](https://github.com/atomicinnovation/accelerator/stargazers) [![Forks](https://img.shields.io/github/forks/atomicinnovation/accelerator?style=flat-square&color=blue)](https://github.com/atomicinnovation/accelerator/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atomicinnovation/accelerator?style=flat-square&color=yellow)](https://github.com/atomicinnovation/accelerator/stargazers) [![Forks](https://img.shields.io/github/forks/atomicinnovation/accelerator?style=flat-square&color=blue)](https://github.com/atomicinnovation/accelerator/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Development acceleration toolkit with multi-lens code review, implementation planning, codebase research, and git workflow automation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -126,14 +126,15 @@ atomicinnovation/accelerator 是一套面向开发团队的加速工具包，能
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # crawlchat/crawlchat
 
-[![Stars](https://img.shields.io/github/stars/crawlchat/crawlchat?style=flat-square&color=yellow)](https://github.com/crawlchat/crawlchat/stargazers) [![Forks](https://img.shields.io/github/forks/crawlchat/crawlchat?style=flat-square&color=blue)](https://github.com/crawlchat/crawlchat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crawlchat/crawlchat?style=flat-square&color=yellow)](https://github.com/crawlchat/crawlchat/stargazers) [![Forks](https://img.shields.io/github/forks/crawlchat/crawlchat?style=flat-square&color=blue)](https://github.com/crawlchat/crawlchat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your documentation into an AI assistant that answers questions instantly
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ CrawlChat（`crawlchat/crawlchat`）是一款基于大语言模型的文档检�
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

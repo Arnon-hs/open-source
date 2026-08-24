@@ -1,6 +1,6 @@
 # alopatenko/LLMEvaluation
 
-[![Stars](https://img.shields.io/github/stars/alopatenko/LLMEvaluation?style=flat-square&color=yellow)](https://github.com/alopatenko/LLMEvaluation/stargazers) [![Forks](https://img.shields.io/github/forks/alopatenko/LLMEvaluation?style=flat-square&color=blue)](https://github.com/alopatenko/LLMEvaluation/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alopatenko/LLMEvaluation?style=flat-square&color=yellow)](https://github.com/alopatenko/LLMEvaluation/stargazers) [![Forks](https://img.shields.io/github/forks/alopatenko/LLMEvaluation?style=flat-square&color=blue)](https://github.com/alopatenko/LLMEvaluation/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive guide to LLM evaluation methods designed to assist in identifying the most suitable evaluation techniques for various use cases, promote the adoption of best practices in LLM assessment, and critically assess the effectiveness of these evaluation methods.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 197 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ alopatenko/LLMEvaluation 汇总并梳理了多种大语言模型（LLM）的评�
 | forks | 33/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

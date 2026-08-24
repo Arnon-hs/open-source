@@ -1,6 +1,6 @@
 # childrentime/reactuse
 
-[![Stars](https://img.shields.io/github/stars/childrentime/reactuse?style=flat-square&color=yellow)](https://github.com/childrentime/reactuse/stargazers) [![Forks](https://img.shields.io/github/forks/childrentime/reactuse?style=flat-square&color=blue)](https://github.com/childrentime/reactuse/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/childrentime/reactuse?style=flat-square&color=yellow)](https://github.com/childrentime/reactuse/stargazers) [![Forks](https://img.shields.io/github/forks/childrentime/reactuse?style=flat-square&color=blue)](https://github.com/childrentime/reactuse/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 115+ production-ready React Hooks for sensors, UI, state & browser APIs. Tree-shakable, SSR-safe, TypeScript-first. Used by Shopee, PDD & Ctrip. Inspired by VueUse.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 972 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ childrentime/reactuse：childrentime/reactuse helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 61/100 |
 | stars | 64/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

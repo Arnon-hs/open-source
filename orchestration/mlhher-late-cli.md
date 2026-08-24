@@ -1,6 +1,6 @@
 # mlhher/late-cli
 
-[![Stars](https://img.shields.io/github/stars/mlhher/late-cli?style=flat-square&color=yellow)](https://github.com/mlhher/late-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mlhher/late-cli?style=flat-square&color=blue)](https://github.com/mlhher/late-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlhher/late-cli?style=flat-square&color=yellow)](https://github.com/mlhher/late-cli/stargazers) [![Forks](https://img.shields.io/github/forks/mlhher/late-cli?style=flat-square&color=blue)](https://github.com/mlhher/late-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs, zero context bloat. Single static binary, zero dependencies, any model.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 276 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ mlhher/late-cli：mlhher/late-cli helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 66/100 |
-| adoption | 47/100 |
-| stars | 52/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,23 +1,23 @@
 # orhun/ratty
 
-[![Stars](https://img.shields.io/github/stars/orhun/ratty?style=flat-square&color=yellow)](https://github.com/orhun/ratty/stargazers) [![Forks](https://img.shields.io/github/forks/orhun/ratty?style=flat-square&color=blue)](https://github.com/orhun/ratty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orhun/ratty?style=flat-square&color=yellow)](https://github.com/orhun/ratty/stargazers) [![Forks](https://img.shields.io/github/forks/orhun/ratty?style=flat-square&color=blue)](https://github.com/orhun/ratty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
-> A next-gen terminal emulator for all the terminal rats 🐁🐁🐁
+> A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 202 |
-| 🍴 **Forks** | 7 |
+| ⭐ **Stars** | 237 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`3d` `3d-graphics` `command` `gpu` `gpu-rendering` `graphics` `ratatui` `ratty` `rust` `templeos` `terminal` `terminal-emulator`
 
 ## 🎯 Categories
 
@@ -25,8 +25,56 @@ Misc
 
 ## 📝 Summary
 
-Ratty is a modern, open-source terminal emulator designed for users who spend a significant amount of time in the terminal. This next-generation application offers a robust and customizable experience, catering to the needs of terminal enthusiasts and power users. With its sleek and intuitive interface, Ratty aims to revolutionize the way users interact with command-line interfaces.
+### English
+
+Ratty is an open‑source terminal emulator that leverages GPU acceleration to render both text and inline 3D graphics, delivering a fast, visually rich command‑line experience. Built with modern web technologies, it integrates seamless 3D visualizations directly into the terminal window, making it ideal for developers who need interactive graphics alongside their shell workflow.
+
+### Русский
+
+**orhun/ratty** — это терминальный эмулятор, полностью рендерящийся на GPU и поддерживающий встроенную 3‑мерную графику прямо в командной строке. Благодаря использованию WebGPU/GL, он обеспечивает плавную и быструю отрисовку, позволяя выводить интерактивные визуализации, анимации и игровые элементы без переключения в отдельные окна. Проект ориентирован на разработчиков Frontend, желающих добавить живую графику в свои консольные инструменты.
+
+### 中文
+
+orhun/ratty：orhun/ratty may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** orhun/ratty may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 237 GitHub stars
+- 9 forks
+- updated 2026-05-09
+- primary language: Rust
+- 14 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 25/100 |
+| stars | 51/100 |
+| topics | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/orhun/ratty) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/orhun/ratty) · [← Back to Misc](./README.md)</sub>

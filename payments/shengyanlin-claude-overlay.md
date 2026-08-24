@@ -1,6 +1,6 @@
 # shengyanlin/claude-overlay
 
-[![Stars](https://img.shields.io/github/stars/shengyanlin/claude-overlay?style=flat-square&color=yellow)](https://github.com/shengyanlin/claude-overlay/stargazers) [![Forks](https://img.shields.io/github/forks/shengyanlin/claude-overlay?style=flat-square&color=blue)](https://github.com/shengyanlin/claude-overlay/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shengyanlin/claude-overlay?style=flat-square&color=yellow)](https://github.com/shengyanlin/claude-overlay/stargazers) [![Forks](https://img.shields.io/github/forks/shengyanlin/claude-overlay?style=flat-square&color=blue)](https://github.com/shengyanlin/claude-overlay/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > A floating, screen-aware Claude Code chat for Windows - it reads your screen to answer, and runs on your own Claude subscription (no API key).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend · DevTools · Marketing
+Payments · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Overall, the overlay is sufficiently stable for a pilot or internal tooling roll
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

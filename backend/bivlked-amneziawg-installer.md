@@ -1,6 +1,6 @@
 # bivlked/amneziawg-installer
 
-[![Stars](https://img.shields.io/github/stars/bivlked/amneziawg-installer?style=flat-square&color=yellow)](https://github.com/bivlked/amneziawg-installer/stargazers) [![Forks](https://img.shields.io/github/forks/bivlked/amneziawg-installer?style=flat-square&color=blue)](https://github.com/bivlked/amneziawg-installer/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bivlked/amneziawg-installer?style=flat-square&color=yellow)](https://github.com/bivlked/amneziawg-installer/stargazers) [![Forks](https://img.shields.io/github/forks/bivlked/amneziawg-installer?style=flat-square&color=blue)](https://github.com/bivlked/amneziawg-installer/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > One-command install script for self-hosted AmneziaWG 2.0 VPN — Ubuntu & Debian, DPI bypass, traffic obfuscation, auto-hardening, client management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **bivlked/amneziawg-installer** project provides a single‑command script t
 
 ### 中文
 
-bivlked/amneziawg-installer：bivlked/amneziawg-installer helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bivlked/amneziawg-installer：bivlked/amneziawg-installer helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bivlked/amneziawg-installer：bivlked/amneziawg-installer helps teams reuse serv
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ bivlked/amneziawg-installer：bivlked/amneziawg-installer helps teams reuse serv
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 65/100 |
+| production | 49/100 |
+| outlook | 58/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

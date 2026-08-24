@@ -1,6 +1,6 @@
 # dromara/skyeye
 
-[![Stars](https://img.shields.io/github/stars/dromara/skyeye?style=flat-square&color=yellow)](https://github.com/dromara/skyeye/stargazers) [![Forks](https://img.shields.io/github/forks/dromara/skyeye?style=flat-square&color=blue)](https://github.com/dromara/skyeye/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dromara/skyeye?style=flat-square&color=yellow)](https://github.com/dromara/skyeye/stargazers) [![Forks](https://img.shields.io/github/forks/dromara/skyeye?style=flat-square&color=blue)](https://github.com/dromara/skyeye/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 智能办公OA系统[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Database
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ SkyEye is an open‑source intelligent office OA platform built on Spring Boot 2
 
 ### 中文
 
-dromara/skyeye：dromara/skyeye helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dromara/skyeye：dromara/skyeye helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dromara/skyeye：dromara/skyeye helps ship user-facing interfaces with less cust
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ dromara/skyeye：dromara/skyeye helps ship user-facing interfaces with less cust
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 30/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 64/100 |
-| stars | 65/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # pdfme/pdfme
 
-[![Stars](https://img.shields.io/github/stars/pdfme/pdfme?style=flat-square&color=yellow)](https://github.com/pdfme/pdfme/stargazers) [![Forks](https://img.shields.io/github/forks/pdfme/pdfme?style=flat-square&color=blue)](https://github.com/pdfme/pdfme/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pdfme/pdfme?style=flat-square&color=yellow)](https://github.com/pdfme/pdfme/stargazers) [![Forks](https://img.shields.io/github/forks/pdfme/pdfme?style=flat-square&color=blue)](https://github.com/pdfme/pdfme/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source PDF generation library built with TypeScript and React. Features a WYSIWYG template designer, PDF viewer, and powerful generation capabilities. Create custom PDFs effortlessly in both browser and Node.js environments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 462 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ pdfme/pdfme：pdfme/pdfme helps ship user-facing interfaces with less custom UI 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
+| usefulness | 58/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 61/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

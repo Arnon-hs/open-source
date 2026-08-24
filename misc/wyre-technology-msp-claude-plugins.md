@@ -1,6 +1,6 @@
 # wyre-technology/msp-claude-plugins
 
-[![Stars](https://img.shields.io/github/stars/wyre-technology/msp-claude-plugins?style=flat-square&color=yellow)](https://github.com/wyre-technology/msp-claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/wyre-technology/msp-claude-plugins?style=flat-square&color=blue)](https://github.com/wyre-technology/msp-claude-plugins/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wyre-technology/msp-claude-plugins?style=flat-square&color=yellow)](https://github.com/wyre-technology/msp-claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/wyre-technology/msp-claude-plugins?style=flat-square&color=blue)](https://github.com/wyre-technology/msp-claude-plugins/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Community-driven Claude Code plugins for MSP tools (PSA, RMM, Documentation)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ wyre-technology/msp-claude-plugins 是一个社区驱动的 Claude Code 插件�
 | forks | 31/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

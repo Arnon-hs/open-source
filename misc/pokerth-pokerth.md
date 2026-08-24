@@ -1,6 +1,6 @@
 # pokerth/pokerth
 
-[![Stars](https://img.shields.io/github/stars/pokerth/pokerth?style=flat-square&color=yellow)](https://github.com/pokerth/pokerth/stargazers) [![Forks](https://img.shields.io/github/forks/pokerth/pokerth?style=flat-square&color=blue)](https://github.com/pokerth/pokerth/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pokerth/pokerth?style=flat-square&color=yellow)](https://github.com/pokerth/pokerth/stargazers) [![Forks](https://img.shields.io/github/forks/pokerth/pokerth?style=flat-square&color=blue)](https://github.com/pokerth/pokerth/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > PokerTH is a poker game written in C++/Qt.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 625 |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ PokerTH 是一款使用 C++ 与 Qt 开发的开源德州扑克游戏，代码仓
 | forks | 60/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

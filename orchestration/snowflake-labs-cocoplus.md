@@ -1,6 +1,6 @@
 # Snowflake-Labs/cocoplus
 
-[![Stars](https://img.shields.io/github/stars/Snowflake-Labs/cocoplus?style=flat-square&color=yellow)](https://github.com/Snowflake-Labs/cocoplus/stargazers) [![Forks](https://img.shields.io/github/forks/Snowflake-Labs/cocoplus?style=flat-square&color=blue)](https://github.com/Snowflake-Labs/cocoplus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Snowflake-Labs/cocoplus?style=flat-square&color=yellow)](https://github.com/Snowflake-Labs/cocoplus/stargazers) [![Forks](https://img.shields.io/github/forks/Snowflake-Labs/cocoplus?style=flat-square&color=blue)](https://github.com/Snowflake-Labs/cocoplus/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > CocoPlus is an AI-powered development lifecycle plugin for the Snowflake Cortex Code CLI. It brings structured, multi-agent workflows to data engineering projects — covering everything from project initialization through spec, plan, build, test, review, and ship phases.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 632 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ CocoPlus 的生产可用性较高，理由如下：
 | forks | 48/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aannoo/hcom
 
-[![Stars](https://img.shields.io/github/stars/aannoo/hcom?style=flat-square&color=yellow)](https://github.com/aannoo/hcom/stargazers) [![Forks](https://img.shields.io/github/forks/aannoo/hcom?style=flat-square&color=blue)](https://github.com/aannoo/hcom/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aannoo/hcom?style=flat-square&color=yellow)](https://github.com/aannoo/hcom/stargazers) [![Forks](https://img.shields.io/github/forks/aannoo/hcom?style=flat-square&color=blue)](https://github.com/aannoo/hcom/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 257 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Orchestration · AI/ML · DevTools
 
 ### 中文
 
-aannoo/hcom：aannoo/hcom helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+aannoo/hcom：aannoo/hcom helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aannoo/hcom：aannoo/hcom helps turn isolated prompts and tools into repeatable 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ aannoo/hcom：aannoo/hcom helps turn isolated prompts and tools into repeatable 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 66/100 |
-| adoption | 48/100 |
-| stars | 51/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 49/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

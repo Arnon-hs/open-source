@@ -1,6 +1,6 @@
 # KaijuEngine/kaiju
 
-[![Stars](https://img.shields.io/github/stars/KaijuEngine/kaiju?style=flat-square&color=yellow)](https://github.com/KaijuEngine/kaiju/stargazers) [![Forks](https://img.shields.io/github/forks/KaijuEngine/kaiju?style=flat-square&color=blue)](https://github.com/KaijuEngine/kaiju/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KaijuEngine/kaiju?style=flat-square&color=yellow)](https://github.com/KaijuEngine/kaiju/stargazers) [![Forks](https://img.shields.io/github/forks/KaijuEngine/kaiju?style=flat-square&color=blue)](https://github.com/KaijuEngine/kaiju/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ KaijuEngine/kaiju：KaijuEngine/kaiju helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 72/100 |
 | stars | 78/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

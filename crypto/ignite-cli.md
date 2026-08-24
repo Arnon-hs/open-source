@@ -1,6 +1,6 @@
 # ignite/cli
 
-[![Stars](https://img.shields.io/github/stars/ignite/cli?style=flat-square&color=yellow)](https://github.com/ignite/cli/stargazers) [![Forks](https://img.shields.io/github/forks/ignite/cli?style=flat-square&color=blue)](https://github.com/ignite/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ignite/cli?style=flat-square&color=yellow)](https://github.com/ignite/cli/stargazers) [![Forks](https://img.shields.io/github/forks/ignite/cli?style=flat-square&color=blue)](https://github.com/ignite/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 572 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ignite/cli：ignite/cli helps prototype or inspect blockchain workflows with ope
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 65/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 65/100 |
-| adoption | 67/100 |
-| stars | 67/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| stars | 67/100 |
 | topics | 63/100 |
+| outlook | 58/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

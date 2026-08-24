@@ -1,6 +1,6 @@
 # anistark/feluda
 
-[![Stars](https://img.shields.io/github/stars/anistark/feluda?style=flat-square&color=yellow)](https://github.com/anistark/feluda/stargazers) [![Forks](https://img.shields.io/github/forks/anistark/feluda?style=flat-square&color=blue)](https://github.com/anistark/feluda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anistark/feluda?style=flat-square&color=yellow)](https://github.com/anistark/feluda/stargazers) [![Forks](https://img.shields.io/github/forks/anistark/feluda?style=flat-square&color=blue)](https://github.com/anistark/feluda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Detect license usage restrictions in your project!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 451 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DevTools
 
 ### 中文
 
-anistark/feluda：anistark/feluda helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+anistark/feluda：anistark/feluda helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ anistark/feluda：anistark/feluda helps engineers save time in daily development
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ anistark/feluda：anistark/feluda helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 51/100 |
-| stars | 57/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

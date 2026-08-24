@@ -1,6 +1,6 @@
 # TheSyart/emperor-agent
 
-[![Stars](https://img.shields.io/github/stars/TheSyart/emperor-agent?style=flat-square&color=yellow)](https://github.com/TheSyart/emperor-agent/stargazers) [![Forks](https://img.shields.io/github/forks/TheSyart/emperor-agent?style=flat-square&color=blue)](https://github.com/TheSyart/emperor-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheSyart/emperor-agent?style=flat-square&color=yellow)](https://github.com/TheSyart/emperor-agent/stargazers) [![Forks](https://img.shields.io/github/forks/TheSyart/emperor-agent?style=flat-square&color=blue)](https://github.com/TheSyart/emperor-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Local Emperor-style AI agent with Vue WebUI, multi-provider LLMs, streaming chat, tools, skills, memory, and token telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ TheSyart/emperor‑agent 是一个本地部署的 “Emperor‑style” AI 代�
 | forks | 37/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

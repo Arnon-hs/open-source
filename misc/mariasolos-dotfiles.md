@@ -1,6 +1,6 @@
 # MariaSolOs/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/MariaSolOs/dotfiles?style=flat-square&color=yellow)](https://github.com/MariaSolOs/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/MariaSolOs/dotfiles?style=flat-square&color=blue)](https://github.com/MariaSolOs/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MariaSolOs/dotfiles?style=flat-square&color=yellow)](https://github.com/MariaSolOs/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/MariaSolOs/dotfiles?style=flat-square&color=blue)](https://github.com/MariaSolOs/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Files important enough for version control
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 564 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ MariaSolOs/dotfiles 是一套个人配置文件（主要是 Shell 脚本），�
 | forks | 27/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 38/100 |
+| quality | 42/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 68/100 |
+| production | 41/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

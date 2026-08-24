@@ -1,6 +1,6 @@
 # antvis/L7
 
-[![Stars](https://img.shields.io/github/stars/antvis/L7?style=flat-square&color=yellow)](https://github.com/antvis/L7/stargazers) [![Forks](https://img.shields.io/github/forks/antvis/L7?style=flat-square&color=blue)](https://github.com/antvis/L7/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antvis/L7?style=flat-square&color=yellow)](https://github.com/antvis/L7/stargazers) [![Forks](https://img.shields.io/github/forks/antvis/L7?style=flat-square&color=blue)](https://github.com/antvis/L7/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 660 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ antvis/L7 是一款基于 WebGL 的大规模地理空间数据可视化分析引
 | forks | 71/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

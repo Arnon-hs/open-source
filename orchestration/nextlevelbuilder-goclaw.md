@@ -1,6 +1,6 @@
 # nextlevelbuilder/goclaw
 
-[![Stars](https://img.shields.io/github/stars/nextlevelbuilder/goclaw?style=flat-square&color=yellow)](https://github.com/nextlevelbuilder/goclaw/stargazers) [![Forks](https://img.shields.io/github/forks/nextlevelbuilder/goclaw?style=flat-square&color=blue)](https://github.com/nextlevelbuilder/goclaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextlevelbuilder/goclaw?style=flat-square&color=yellow)](https://github.com/nextlevelbuilder/goclaw/stargazers) [![Forks](https://img.shields.io/github/forks/nextlevelbuilder/goclaw?style=flat-square&color=blue)](https://github.com/nextlevelbuilder/goclaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 822 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ nextlevelbuilder/goclaw：nextlevelbuilder/goclaw helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 62/100 |
-| outlook | 67/100 |
-| adoption | 74/100 |
-| stars | 74/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # miniscruff/changie
 
-[![Stars](https://img.shields.io/github/stars/miniscruff/changie?style=flat-square&color=yellow)](https://github.com/miniscruff/changie/stargazers) [![Forks](https://img.shields.io/github/forks/miniscruff/changie?style=flat-square&color=blue)](https://github.com/miniscruff/changie/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miniscruff/changie?style=flat-square&color=yellow)](https://github.com/miniscruff/changie/stargazers) [![Forks](https://img.shields.io/github/forks/miniscruff/changie?style=flat-square&color=blue)](https://github.com/miniscruff/changie/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Automated changelog tool for preparing releases with lots of customization options
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 888 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ miniscruff/changie 的生产可用性很高，因为：
 | forks | 42/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

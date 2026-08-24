@@ -1,6 +1,6 @@
 # noborus/ov
 
-[![Stars](https://img.shields.io/github/stars/noborus/ov?style=flat-square&color=yellow)](https://github.com/noborus/ov/stargazers) [![Forks](https://img.shields.io/github/forks/noborus/ov?style=flat-square&color=blue)](https://github.com/noborus/ov/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noborus/ov?style=flat-square&color=yellow)](https://github.com/noborus/ov/stargazers) [![Forks](https://img.shields.io/github/forks/noborus/ov?style=flat-square&color=blue)](https://github.com/noborus/ov/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ noborus/ov：noborus/ov helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 62/100 |
 | stars | 70/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

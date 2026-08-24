@@ -1,23 +1,23 @@
 # siddharthvaddem/openscreen
 
-[![Stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat-square&color=yellow)](https://github.com/siddharthvaddem/openscreen/releases/stargazers) [![Forks](https://img.shields.io/github/forks/siddharthvaddem/openscreen?style=flat-square&color=blue)](https://github.com/siddharthvaddem/openscreen/releases/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat-square&color=yellow)](https://github.com/siddharthvaddem/openscreen/stargazers) [![Forks](https://img.shields.io/github/forks/siddharthvaddem/openscreen?style=flat-square&color=blue)](https://github.com/siddharthvaddem/openscreen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
-> Discovered from Hacker News (github-mentions)
+> Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
-| 💻 **Language** | Unknown |
-| 📈 **Score** | 39/100 |
-| 🗓️ **Last push** | 2026-06-09 |
-| 🔍 **Source** | hackernews |
+| ⭐ **Stars** | 35.6k |
+| 🍴 **Forks** | 2.4k |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`hn` `github-mentions`
+`electron` `open-source` `pixijs` `screen-capture` `screen-recorder`
 
 ## 🎯 Categories
 
@@ -25,8 +25,56 @@ Misc
 
 ## 📝 Summary
 
-OpenScreen is a free, open-source alternative to commercial screen recording software, offering a cost-effective solution for users seeking to capture and edit their screen activity. This project provides a viable alternative to Screen Studio, catering to those who prefer open-source software or are looking for a budget-friendly option. OpenScreen is available on GitHub, where users can access and contribute to the code.
+### English
+
+siddharthvaddem/openscreen is an open‑source tool for creating high‑quality screen recordings and demos without the limitations of proprietary software—no subscriptions, watermarks, or usage fees, and it’s free for commercial projects. It serves as a community‑driven alternative to commercial products like Screen Studio, offering a lightweight, customizable workflow for producing polished video demos.
+
+### Русский
+
+**siddharthvaddem/openscreen** — это полностью открытый проект, позволяющий быстро создавать впечатляющие демо‑видео без подписок, водяных знаков и ограничений на коммерческое использование. Он предлагает бесплатную альтернативу Screen Studio, предоставляя простой и гибкий инструмент для записи экрана и последующего редактирования. Проект относится к категории Payments, так как может использоваться для демонстрации платёжных решений и презентаций продуктов.
+
+### 中文
+
+siddharthvaddem/openscreen：siddharthvaddem/openscreen may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** siddharthvaddem/openscreen may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 35574 GitHub stars
+- 2413 forks
+- updated 2026-05-10
+- primary language: TypeScript
+- 5 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 85/100 |
+| stars | 97/100 |
+| topics | 63/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-09 · [View on GitHub](https://github.com/siddharthvaddem/openscreen/releases) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/siddharthvaddem/openscreen) · [← Back to Misc](./README.md)</sub>

@@ -1,6 +1,6 @@
 # autobrr/autobrr
 
-[![Stars](https://img.shields.io/github/stars/autobrr/autobrr?style=flat-square&color=yellow)](https://github.com/autobrr/autobrr/stargazers) [![Forks](https://img.shields.io/github/forks/autobrr/autobrr?style=flat-square&color=blue)](https://github.com/autobrr/autobrr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/autobrr/autobrr?style=flat-square&color=yellow)](https://github.com/autobrr/autobrr/stargazers) [![Forks](https://img.shields.io/github/forks/autobrr/autobrr?style=flat-square&color=blue)](https://github.com/autobrr/autobrr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Modern, easy to use download automation for torrents and usenet.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 204 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ autobrr 是一款基于 Go 开发的现代化下载自动化工具，支持 BitT
 | forks | 58/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

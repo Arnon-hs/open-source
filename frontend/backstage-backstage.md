@@ -1,6 +1,6 @@
 # backstage/backstage
 
-[![Stars](https://img.shields.io/github/stars/backstage/backstage?style=flat-square&color=yellow)](https://github.com/backstage/backstage/stargazers) [![Forks](https://img.shields.io/github/forks/backstage/backstage?style=flat-square&color=blue)](https://github.com/backstage/backstage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backstage/backstage?style=flat-square&color=yellow)](https://github.com/backstage/backstage/stargazers) [![Forks](https://img.shields.io/github/forks/backstage/backstage?style=flat-square&color=blue)](https://github.com/backstage/backstage/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Backstage is an open framework for building developer portals
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33.3k |
 | 🍴 **Forks** | 7.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ backstage/backstage：backstage/backstage helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 96/100 |
 | stars | 96/100 |
 | forks | 97/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

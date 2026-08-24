@@ -1,6 +1,6 @@
 # flyteorg/flyte
 
-[![Stars](https://img.shields.io/github/stars/flyteorg/flyte?style=flat-square&color=yellow)](https://github.com/flyteorg/flyte/stargazers) [![Forks](https://img.shields.io/github/forks/flyteorg/flyte?style=flat-square&color=blue)](https://github.com/flyteorg/flyte/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flyteorg/flyte?style=flat-square&color=yellow)](https://github.com/flyteorg/flyte/stargazers) [![Forks](https://img.shields.io/github/forks/flyteorg/flyte?style=flat-square&color=blue)](https://github.com/flyteorg/flyte/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7k |
 | 🍴 **Forks** | 814 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ flyteorg/flyte: flyteorg/flyte helps turn isolated prompts and tools into repeat
 
 ### Русский
 
-flyteorg/flyte: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+flyteorg/flyte: open-source проект в категориях Orchestration, Automation, AI/ML, Data, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ flyteorg/flyte：flyteorg/flyte helps turn isolated prompts and tools into repea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 76/100 |
-| integration | 78/100 |
-| production | 65/100 |
-| outlook | 72/100 |
-| adoption | 79/100 |
-| stars | 82/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

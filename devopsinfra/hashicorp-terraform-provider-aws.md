@@ -1,6 +1,6 @@
 # hashicorp/terraform-provider-aws
 
-[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-provider-aws?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-provider-aws/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-provider-aws?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-provider-aws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-provider-aws?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-provider-aws/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-provider-aws?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-provider-aws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The AWS Provider enables Terraform to manage AWS resources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.9k |
 | 🍴 **Forks** | 10.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ hashicorp/terraform-provider-aws：hashicorp/terraform-provider-aws helps make d
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 59/100 |
-| adoption | 90/100 |
-| stars | 86/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 86/100 |
 | topics | 38/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

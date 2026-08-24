@@ -1,6 +1,6 @@
 # ghdl/ghdl-yosys-plugin
 
-[![Stars](https://img.shields.io/github/stars/ghdl/ghdl-yosys-plugin?style=flat-square&color=yellow)](https://github.com/ghdl/ghdl-yosys-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/ghdl/ghdl-yosys-plugin?style=flat-square&color=blue)](https://github.com/ghdl/ghdl-yosys-plugin/network) [![Language](https://img.shields.io/badge/lang-VHDL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghdl/ghdl-yosys-plugin?style=flat-square&color=yellow)](https://github.com/ghdl/ghdl-yosys-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/ghdl/ghdl-yosys-plugin?style=flat-square&color=blue)](https://github.com/ghdl/ghdl-yosys-plugin/network) [![Language](https://img.shields.io/badge/lang-VHDL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > VHDL synthesis (based on ghdl)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 360 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | VHDL |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -121,14 +121,15 @@ ghdl‑yosys‑plugin 是一个将 GHDL（开源 VHDL 编译器）与 Yosys 逻�
 | forks | 38/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 38/100 |
+| quality | 42/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

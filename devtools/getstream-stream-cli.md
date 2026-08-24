@@ -1,6 +1,6 @@
 # GetStream/stream-cli
 
-[![Stars](https://img.shields.io/github/stars/GetStream/stream-cli?style=flat-square&color=yellow)](https://github.com/GetStream/stream-cli/stargazers) [![Forks](https://img.shields.io/github/forks/GetStream/stream-cli?style=flat-square&color=blue)](https://github.com/GetStream/stream-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GetStream/stream-cli?style=flat-square&color=yellow)](https://github.com/GetStream/stream-cli/stargazers) [![Forks](https://img.shields.io/github/forks/GetStream/stream-cli?style=flat-square&color=blue)](https://github.com/GetStream/stream-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Configure & manage Stream applications from the command line. 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ GetStream / stream‑cli 是一款基于 Go 实现的命令行工具，专�
 | forks | 34/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

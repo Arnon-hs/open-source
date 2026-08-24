@@ -1,6 +1,6 @@
 # odigos-io/odigos
 
-[![Stars](https://img.shields.io/github/stars/odigos-io/odigos?style=flat-square&color=yellow)](https://github.com/odigos-io/odigos/stargazers) [![Forks](https://img.shields.io/github/forks/odigos-io/odigos?style=flat-square&color=blue)](https://github.com/odigos-io/odigos/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/odigos-io/odigos?style=flat-square&color=yellow)](https://github.com/odigos-io/odigos/stargazers) [![Forks](https://img.shields.io/github/forks/odigos-io/odigos?style=flat-square&color=blue)](https://github.com/odigos-io/odigos/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ odigos-io/odigos：odigos-io/odigos helps make deployment and operations more re
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 71/100 |
 | stars | 76/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

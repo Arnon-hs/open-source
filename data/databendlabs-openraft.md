@@ -1,6 +1,6 @@
 # databendlabs/openraft
 
-[![Stars](https://img.shields.io/github/stars/databendlabs/openraft?style=flat-square&color=yellow)](https://github.com/databendlabs/openraft/stargazers) [![Forks](https://img.shields.io/github/forks/databendlabs/openraft?style=flat-square&color=blue)](https://github.com/databendlabs/openraft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/databendlabs/openraft?style=flat-square&color=yellow)](https://github.com/databendlabs/openraft/stargazers) [![Forks](https://img.shields.io/github/forks/databendlabs/openraft?style=flat-square&color=blue)](https://github.com/databendlabs/openraft/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > rust raft with improvements
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Data
 
 ### English
 
-databendlabs/openraft: databendlabs/openraft helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+databendlabs/openraft: databendlabs/openraft helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-databendlabs/openraft: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+databendlabs/openraft: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-databendlabs/openraft：databendlabs/openraft helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+databendlabs/openraft：databendlabs/openraft helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ databendlabs/openraft：databendlabs/openraft helps convert raw data into search
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ databendlabs/openraft：databendlabs/openraft helps convert raw data into search
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

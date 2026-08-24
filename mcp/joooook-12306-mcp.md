@@ -1,6 +1,6 @@
 # Joooook/12306-mcp
 
-[![Stars](https://img.shields.io/github/stars/Joooook/12306-mcp?style=flat-square&color=yellow)](https://github.com/Joooook/12306-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Joooook/12306-mcp?style=flat-square&color=blue)](https://github.com/Joooook/12306-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Joooook/12306-mcp?style=flat-square&color=yellow)](https://github.com/Joooook/12306-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Joooook/12306-mcp?style=flat-square&color=blue)](https://github.com/Joooook/12306-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > This is a 12306 ticket search server based on the Model Context Protocol (MCP).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 946 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ Joooook/12306-mcp 是一个基于 **Model Context Protocol (MCP)** 的 12306 火
 | forks | 55/100 |
 | stars | 63/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

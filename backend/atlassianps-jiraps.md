@@ -1,6 +1,6 @@
 # AtlassianPS/JiraPS
 
-[![Stars](https://img.shields.io/github/stars/AtlassianPS/JiraPS?style=flat-square&color=yellow)](https://github.com/AtlassianPS/JiraPS/stargazers) [![Forks](https://img.shields.io/github/forks/AtlassianPS/JiraPS?style=flat-square&color=blue)](https://github.com/AtlassianPS/JiraPS/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AtlassianPS/JiraPS?style=flat-square&color=yellow)](https://github.com/AtlassianPS/JiraPS/stargazers) [![Forks](https://img.shields.io/github/forks/AtlassianPS/JiraPS?style=flat-square&color=blue)](https://github.com/AtlassianPS/JiraPS/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > PowerShell module to interact with Atlassian JIRA
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 348 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AtlassianPS/JiraPS — это открытый PowerShell‑модуль, пр
 
 ### 中文
 
-AtlassianPS/JiraPS：AtlassianPS/JiraPS helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AtlassianPS/JiraPS：AtlassianPS/JiraPS helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AtlassianPS/JiraPS：AtlassianPS/JiraPS helps teams reuse service infrastructure
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ AtlassianPS/JiraPS：AtlassianPS/JiraPS helps teams reuse service infrastructure
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 54/100 |
-| stars | 54/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

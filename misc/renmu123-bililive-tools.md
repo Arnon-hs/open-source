@@ -1,6 +1,6 @@
 # renmu123/biliLive-tools
 
-[![Stars](https://img.shields.io/github/stars/renmu123/biliLive-tools?style=flat-square&color=yellow)](https://github.com/renmu123/biliLive-tools/stargazers) [![Forks](https://img.shields.io/github/forks/renmu123/biliLive-tools?style=flat-square&color=blue)](https://github.com/renmu123/biliLive-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/renmu123/biliLive-tools?style=flat-square&color=yellow)](https://github.com/renmu123/biliLive-tools/stargazers) [![Forks](https://img.shields.io/github/forks/renmu123/biliLive-tools?style=flat-square&color=blue)](https://github.com/renmu123/biliLive-tools/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ renmu123/biliLive-tools 是一套面向 B 站直播的“一站式”处理工�
 | forks | 50/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

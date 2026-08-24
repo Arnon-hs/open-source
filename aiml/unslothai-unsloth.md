@@ -1,6 +1,6 @@
 # unslothai/unsloth
 
-[![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square&color=yellow)](https://github.com/unslothai/unsloth/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/unsloth?style=flat-square&color=blue)](https://github.com/unslothai/unsloth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square&color=yellow)](https://github.com/unslothai/unsloth/stargazers) [![Forks](https://img.shields.io/github/forks/unslothai/unsloth?style=flat-square&color=blue)](https://github.com/unslothai/unsloth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 63.7k |
 | 🍴 **Forks** | 5.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ unslothai/unsloth：unslothai/unsloth helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 84/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 73/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

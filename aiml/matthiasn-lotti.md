@@ -1,6 +1,6 @@
 # matthiasn/lotti
 
-[![Stars](https://img.shields.io/github/stars/matthiasn/lotti?style=flat-square&color=yellow)](https://github.com/matthiasn/lotti/stargazers) [![Forks](https://img.shields.io/github/forks/matthiasn/lotti?style=flat-square&color=blue)](https://github.com/matthiasn/lotti/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matthiasn/lotti?style=flat-square&color=yellow)](https://github.com/matthiasn/lotti/stargazers) [![Forks](https://img.shields.io/github/forks/matthiasn/lotti?style=flat-square&color=blue)](https://github.com/matthiasn/lotti/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered digital assistant that keeps your data private. Chat with your tasks, get intelligent summaries, and track what matters—all stored locally on your devices. Choose your AI provider per category or run everything offline. Your data, your control.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ matthiasn/lotti: matthiasn/lotti helps add AI capability without starting from a
 
 ### Русский
 
-matthiasn/lotti: open-source проект в категориях AI/ML, Data, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+matthiasn/lotti: open-source проект в категориях AI/ML, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ matthiasn/lotti：matthiasn/lotti helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

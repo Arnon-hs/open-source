@@ -1,6 +1,6 @@
 # microsoft/roosterjs
 
-[![Stars](https://img.shields.io/github/stars/microsoft/roosterjs?style=flat-square&color=yellow)](https://github.com/microsoft/roosterjs/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/roosterjs?style=flat-square&color=blue)](https://github.com/microsoft/roosterjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/roosterjs?style=flat-square&color=yellow)](https://github.com/microsoft/roosterjs/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/roosterjs?style=flat-square&color=blue)](https://github.com/microsoft/roosterjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > roosterjs is a framework-independent javascript rich text editor.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -143,14 +143,15 @@ RoosterJS 具备较好的技术基底和灵活的插件体系，适合作为 **�
 | forks | 57/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

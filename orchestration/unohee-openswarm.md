@@ -1,6 +1,6 @@
 # unohee/OpenSwarm
 
-[![Stars](https://img.shields.io/github/stars/unohee/OpenSwarm?style=flat-square&color=yellow)](https://github.com/unohee/OpenSwarm/stargazers) [![Forks](https://img.shields.io/github/forks/unohee/OpenSwarm?style=flat-square&color=blue)](https://github.com/unohee/OpenSwarm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unohee/OpenSwarm?style=flat-square&color=yellow)](https://github.com/unohee/OpenSwarm/stargazers) [![Forks](https://img.shields.io/github/forks/unohee/OpenSwarm?style=flat-square&color=blue)](https://github.com/unohee/OpenSwarm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cognitive memory.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 685 |
 | 🍴 **Forks** | 122 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ unohee/OpenSwarm: unohee/OpenSwarm helps turn isolated prompts and tools into re
 
 ### Русский
 
-unohee/OpenSwarm: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+unohee/OpenSwarm: open-source проект в категориях Orchestration, Automation, AI/ML, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ unohee/OpenSwarm：unohee/OpenSwarm helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 58/100 |
-| stars | 60/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

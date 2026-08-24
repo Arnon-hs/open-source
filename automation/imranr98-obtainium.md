@@ -1,6 +1,6 @@
 # ImranR98/Obtainium
 
-[![Stars](https://img.shields.io/github/stars/ImranR98/Obtainium?style=flat-square&color=yellow)](https://github.com/ImranR98/Obtainium/stargazers) [![Forks](https://img.shields.io/github/forks/ImranR98/Obtainium?style=flat-square&color=blue)](https://github.com/ImranR98/Obtainium/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ImranR98/Obtainium?style=flat-square&color=yellow)](https://github.com/ImranR98/Obtainium/stargazers) [![Forks](https://img.shields.io/github/forks/ImranR98/Obtainium?style=flat-square&color=blue)](https://github.com/ImranR98/Obtainium/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Get Android app updates straight from the source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.8k |
 | 🍴 **Forks** | 503 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Mobile · Security
+Automation · Mobile · Security
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ Obtainium（ImranR98/Obtainium）是一款开源的 Android 应用更新工具�
 | forks | 68/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 84/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

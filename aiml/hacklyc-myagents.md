@@ -1,6 +1,6 @@
 # hAcKlyc/MyAgents
 
-[![Stars](https://img.shields.io/github/stars/hAcKlyc/MyAgents?style=flat-square&color=yellow)](https://github.com/hAcKlyc/MyAgents/stargazers) [![Forks](https://img.shields.io/github/forks/hAcKlyc/MyAgents?style=flat-square&color=blue)](https://github.com/hAcKlyc/MyAgents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hAcKlyc/MyAgents?style=flat-square&color=yellow)](https://github.com/hAcKlyc/MyAgents/stargazers) [![Forks](https://img.shields.io/github/forks/hAcKlyc/MyAgents?style=flat-square&color=blue)](https://github.com/hAcKlyc/MyAgents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > MyAgents - 优雅、易用的 Agent 桌面端 ，一站式 Agent 工作台与任务中心
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 694 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-hAcKlyc/MyAgents: hAcKlyc/MyAgents helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hAcKlyc/MyAgents: hAcKlyc/MyAgents helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-hAcKlyc/MyAgents: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+hAcKlyc/MyAgents: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-hAcKlyc/MyAgents：hAcKlyc/MyAgents helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hAcKlyc/MyAgents：hAcKlyc/MyAgents helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hAcKlyc/MyAgents：hAcKlyc/MyAgents helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ hAcKlyc/MyAgents：hAcKlyc/MyAgents helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 56/100 |
-| stars | 60/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 88/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

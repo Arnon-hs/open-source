@@ -1,6 +1,6 @@
 # element-hq/synapse
 
-[![Stars](https://img.shields.io/github/stars/element-hq/synapse?style=flat-square&color=yellow)](https://github.com/element-hq/synapse/stargazers) [![Forks](https://img.shields.io/github/forks/element-hq/synapse?style=flat-square&color=blue)](https://github.com/element-hq/synapse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/element-hq/synapse?style=flat-square&color=yellow)](https://github.com/element-hq/synapse/stargazers) [![Forks](https://img.shields.io/github/forks/element-hq/synapse?style=flat-square&color=blue)](https://github.com/element-hq/synapse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Synapse: Matrix homeserver written in Python/Twisted + Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 524 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Backend
 
 ### English
 
-element-hq/synapse: element-hq/synapse helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+element-hq/synapse: element-hq/synapse helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-element-hq/synapse: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+element-hq/synapse: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-element-hq/synapse：element-hq/synapse helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+element-hq/synapse：element-hq/synapse helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ element-hq/synapse：element-hq/synapse helps teams reuse service infrastructure
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ element-hq/synapse：element-hq/synapse helps teams reuse service infrastructure
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

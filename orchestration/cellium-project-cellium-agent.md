@@ -1,6 +1,6 @@
 # Cellium-Project/Cellium-Agent
 
-[![Stars](https://img.shields.io/github/stars/Cellium-Project/Cellium-Agent?style=flat-square&color=yellow)](https://github.com/Cellium-Project/Cellium-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/Cellium-Project/Cellium-Agent?style=flat-square&color=blue)](https://github.com/Cellium-Project/Cellium-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cellium-Project/Cellium-Agent?style=flat-square&color=yellow)](https://github.com/Cellium-Project/Cellium-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/Cellium-Project/Cellium-Agent?style=flat-square&color=blue)](https://github.com/Cellium-Project/Cellium-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Self-Evolving AI Agent Framework | Decision-Loop Driven Microkernel Architecture with Hot-Pluggable Components & Triple-Layer Memory | Agent Infinite Evolution Engine that Learns from Failures
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Education
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Cellium‑Agent 将零散的 Prompt 与工具封装成可复用的“微内核�
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 41/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

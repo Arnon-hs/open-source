@@ -1,6 +1,6 @@
 # facebook/ocamlrep
 
-[![Stars](https://img.shields.io/github/stars/facebook/ocamlrep?style=flat-square&color=yellow)](https://github.com/facebook/ocamlrep/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/ocamlrep?style=flat-square&color=blue)](https://github.com/facebook/ocamlrep/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/ocamlrep?style=flat-square&color=yellow)](https://github.com/facebook/ocamlrep/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/ocamlrep?style=flat-square&color=blue)](https://github.com/facebook/ocamlrep/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Sets of libraries and tools to write applications and libraries mixing OCaml and Rust. These libraries will help keeping your types and data structures synchronized, and enable seamless exchange between OCaml and Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Trading · AI/ML · Data
+Trading
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ facebook/ocamlrep 提供了一套 OCaml ↔ Rust 的互操作库和工具，能�
 | forks | 35/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 39/100 |
+| recency | 20/100 |
 | adoption | 43/100 |
-| production | 67/100 |
+| production | 40/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

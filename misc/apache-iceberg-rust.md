@@ -1,6 +1,6 @@
 # apache/iceberg-rust
 
-[![Stars](https://img.shields.io/github/stars/apache/iceberg-rust?style=flat-square&color=yellow)](https://github.com/apache/iceberg-rust/stargazers) [![Forks](https://img.shields.io/github/forks/apache/iceberg-rust?style=flat-square&color=blue)](https://github.com/apache/iceberg-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/iceberg-rust?style=flat-square&color=yellow)](https://github.com/apache/iceberg-rust/stargazers) [![Forks](https://img.shields.io/github/forks/apache/iceberg-rust?style=flat-square&color=blue)](https://github.com/apache/iceberg-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Iceberg
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 459 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-apache/iceberg-rust: apache/iceberg-rust may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apache/iceberg-rust: apache/iceberg-rust may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-apache/iceberg-rust: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+apache/iceberg-rust: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-apache/iceberg-rust：apache/iceberg-rust may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apache/iceberg-rust：apache/iceberg-rust may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ apache/iceberg-rust：apache/iceberg-rust may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ apache/iceberg-rust：apache/iceberg-rust may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 66/100 |
-| stars | 66/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 50/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # denolfe/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/denolfe/dotfiles?style=flat-square&color=yellow)](https://github.com/denolfe/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/denolfe/dotfiles?style=flat-square&color=blue)](https://github.com/denolfe/dotfiles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/denolfe/dotfiles?style=flat-square&color=yellow)](https://github.com/denolfe/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/denolfe/dotfiles?style=flat-square&color=blue)](https://github.com/denolfe/dotfiles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > :floppy_disk: dotfiles for macOS - includes zsh, claude, hyper key, global shortcuts, and zellij configurations. Installation via dotbot.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **denolfe/dotfiles** repository provides a curated collection of macOS dotfi
 
 ### 中文
 
-denolfe/dotfiles：denolfe/dotfiles may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+denolfe/dotfiles：denolfe/dotfiles may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ denolfe/dotfiles：denolfe/dotfiles may be useful when its README and activity m
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ denolfe/dotfiles：denolfe/dotfiles may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 51/100 |
-| adoption | 36/100 |
-| stars | 41/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| stars | 41/100 |
 | topics | 100/100 |
+| outlook | 44/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

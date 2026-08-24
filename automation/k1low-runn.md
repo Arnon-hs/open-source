@@ -1,6 +1,6 @@
 # k1LoW/runn
 
-[![Stars](https://img.shields.io/github/stars/k1LoW/runn?style=flat-square&color=yellow)](https://github.com/k1LoW/runn/stargazers) [![Forks](https://img.shields.io/github/forks/k1LoW/runn?style=flat-square&color=blue)](https://github.com/k1LoW/runn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/k1LoW/runn?style=flat-square&color=yellow)](https://github.com/k1LoW/runn/stargazers) [![Forks](https://img.shields.io/github/forks/k1LoW/runn?style=flat-square&color=blue)](https://github.com/k1LoW/runn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > runn is a package/tool for running operations following a scenario.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 626 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ runn（k1LoW/runn）是一个基于 Go 实现的轻量级工具包，旨在把�
 | forks | 44/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

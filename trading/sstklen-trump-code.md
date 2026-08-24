@@ -1,6 +1,6 @@
 # sstklen/trump-code
 
-[![Stars](https://img.shields.io/github/stars/sstklen/trump-code?style=flat-square&color=yellow)](https://github.com/sstklen/trump-code/stargazers) [![Forks](https://img.shields.io/github/forks/sstklen/trump-code?style=flat-square&color=blue)](https://github.com/sstklen/trump-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sstklen/trump-code?style=flat-square&color=yellow)](https://github.com/sstklen/trump-code/stargazers) [![Forks](https://img.shields.io/github/forks/sstklen/trump-code?style=flat-square&color=blue)](https://github.com/sstklen/trump-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 746 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ sstklen/trump-code：sstklen/trump-code helps research and automate market workf
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
-| adoption | 58/100 |
-| stars | 61/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # cleodin/antigravity-awesome-skills
 
-[![Stars](https://img.shields.io/github/stars/cleodin/antigravity-awesome-skills?style=flat-square&color=yellow)](https://github.com/cleodin/antigravity-awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/cleodin/antigravity-awesome-skills?style=flat-square&color=blue)](https://github.com/cleodin/antigravity-awesome-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cleodin/antigravity-awesome-skills?style=flat-square&color=yellow)](https://github.com/cleodin/antigravity-awesome-skills/stargazers) [![Forks](https://img.shields.io/github/forks/cleodin/antigravity-awesome-skills?style=flat-square&color=blue)](https://github.com/cleodin/antigravity-awesome-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 🌌 Explore 255+ essential skills for AI coding assistants like Claude Code and GitHub Copilot to enhance your development workflow.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ cleodin/antigravity-awesome-skills is an open‑source catalog of more than 255 
 
 ### 中文
 
-cleodin/antigravity-awesome-skills：cleodin/antigravity-awesome-skills helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+cleodin/antigravity-awesome-skills：cleodin/antigravity-awesome-skills helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ cleodin/antigravity-awesome-skills：cleodin/antigravity-awesome-skills helps ad
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ cleodin/antigravity-awesome-skills：cleodin/antigravity-awesome-skills helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 29/100 |
 | stars | 33/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

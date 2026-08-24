@@ -1,6 +1,6 @@
 # drhelius/Gearboy
 
-[![Stars](https://img.shields.io/github/stars/drhelius/Gearboy?style=flat-square&color=yellow)](https://github.com/drhelius/Gearboy/stargazers) [![Forks](https://img.shields.io/github/forks/drhelius/Gearboy?style=flat-square&color=blue)](https://github.com/drhelius/Gearboy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drhelius/Gearboy?style=flat-square&color=yellow)](https://github.com/drhelius/Gearboy/stargazers) [![Forks](https://img.shields.io/github/forks/drhelius/Gearboy?style=flat-square&color=blue)](https://github.com/drhelius/Gearboy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Game Boy / Game Boy Color / Super Game Boy emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ drhelius/Gearboy：drhelius/Gearboy helps teams reuse service infrastructure ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

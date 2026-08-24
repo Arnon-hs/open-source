@@ -1,6 +1,6 @@
 # buiducnhat/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/buiducnhat/agent-skills?style=flat-square&color=yellow)](https://github.com/buiducnhat/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/buiducnhat/agent-skills?style=flat-square&color=blue)](https://github.com/buiducnhat/agent-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buiducnhat/agent-skills?style=flat-square&color=yellow)](https://github.com/buiducnhat/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/buiducnhat/agent-skills?style=flat-square&color=blue)](https://github.com/buiducnhat/agent-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skills for coding workflow
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ The **agent-skills** repository provides a collection of reusable AI-powered ski
 
 ### 中文
 
-buiducnhat/agent-skills：buiducnhat/agent-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+buiducnhat/agent-skills：buiducnhat/agent-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ buiducnhat/agent-skills：buiducnhat/agent-skills helps turn isolated prompts an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ buiducnhat/agent-skills：buiducnhat/agent-skills helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 30/100 |
-| stars | 35/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

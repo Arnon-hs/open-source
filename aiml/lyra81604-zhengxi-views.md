@@ -1,6 +1,6 @@
 # lyra81604/zhengxi-views
 
-[![Stars](https://img.shields.io/github/stars/lyra81604/zhengxi-views?style=flat-square&color=yellow)](https://github.com/lyra81604/zhengxi-views/stargazers) [![Forks](https://img.shields.io/github/forks/lyra81604/zhengxi-views?style=flat-square&color=blue)](https://github.com/lyra81604/zhengxi-views/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lyra81604/zhengxi-views?style=flat-square&color=yellow)](https://github.com/lyra81604/zhengxi-views/stargazers) [![Forks](https://img.shields.io/github/forks/lyra81604/zhengxi-views?style=flat-square&color=blue)](https://github.com/lyra81604/zhengxi-views/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,14 +128,15 @@ With those steps, **zhengxi-views** can move from a prototype‑grade RAG/agent 
 | forks | 53/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

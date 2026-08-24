@@ -1,6 +1,6 @@
 # Traverse-Research/gpu-allocator
 
-[![Stars](https://img.shields.io/github/stars/Traverse-Research/gpu-allocator?style=flat-square&color=yellow)](https://github.com/Traverse-Research/gpu-allocator/stargazers) [![Forks](https://img.shields.io/github/forks/Traverse-Research/gpu-allocator?style=flat-square&color=blue)](https://github.com/Traverse-Research/gpu-allocator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Traverse-Research/gpu-allocator?style=flat-square&color=yellow)](https://github.com/Traverse-Research/gpu-allocator/stargazers) [![Forks](https://img.shields.io/github/forks/Traverse-Research/gpu-allocator?style=flat-square&color=blue)](https://github.com/Traverse-Research/gpu-allocator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🦀 GPU memory allocator for Vulkan, DirectX 12 and Metal. Written in pure Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 487 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -129,14 +129,15 @@ The project is considered production-ready for prototypes or internal workflows,
 | forks | 47/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

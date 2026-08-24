@@ -1,6 +1,6 @@
 # NVIDIA/TransformerEngine
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/TransformerEngine?style=flat-square&color=yellow)](https://github.com/NVIDIA/TransformerEngine/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/TransformerEngine?style=flat-square&color=blue)](https://github.com/NVIDIA/TransformerEngine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/TransformerEngine?style=flat-square&color=yellow)](https://github.com/NVIDIA/TransformerEngine/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/TransformerEngine?style=flat-square&color=blue)](https://github.com/NVIDIA/TransformerEngine/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 718 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NVIDIA/TransformerEngine：NVIDIA/TransformerEngine helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 74/100 |
 | stars | 75/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

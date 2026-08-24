@@ -1,6 +1,6 @@
 # andreknieriem/headunit-revived
 
-[![Stars](https://img.shields.io/github/stars/andreknieriem/headunit-revived?style=flat-square&color=yellow)](https://github.com/andreknieriem/headunit-revived/stargazers) [![Forks](https://img.shields.io/github/forks/andreknieriem/headunit-revived?style=flat-square&color=blue)](https://github.com/andreknieriem/headunit-revived/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andreknieriem/headunit-revived?style=flat-square&color=yellow)](https://github.com/andreknieriem/headunit-revived/stargazers) [![Forks](https://img.shields.io/github/forks/andreknieriem/headunit-revived?style=flat-square&color=blue)](https://github.com/andreknieriem/headunit-revived/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Headunit App for displaying Android Auto
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 925 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ The project sits at a *medium* readiness level: it is actively maintained and ha
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 59/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

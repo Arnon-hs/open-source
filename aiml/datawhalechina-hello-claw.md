@@ -1,6 +1,6 @@
 # datawhalechina/hello-claw
 
-[![Stars](https://img.shields.io/github/stars/datawhalechina/hello-claw?style=flat-square&color=yellow)](https://github.com/datawhalechina/hello-claw/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/hello-claw?style=flat-square&color=blue)](https://github.com/datawhalechina/hello-claw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datawhalechina/hello-claw?style=flat-square&color=yellow)](https://github.com/datawhalechina/hello-claw/stargazers) [![Forks](https://img.shields.io/github/forks/datawhalechina/hello-claw?style=flat-square&color=blue)](https://github.com/datawhalechina/hello-claw/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 哈喽！龙虾 🙋‍♀️ Adopt from scratch and build your first claw 🦞 来领养你的第一只龙虾！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Data · Education
 
 ## 📝 Summary
 
@@ -36,7 +36,7 @@ AI/ML · Frontend · Data
 
 ### 中文
 
-datawhalechina/hello-claw：datawhalechina/hello-claw helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+datawhalechina/hello-claw：datawhalechina/hello-claw helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ datawhalechina/hello-claw：datawhalechina/hello-claw helps add AI capability wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,16 +66,16 @@ datawhalechina/hello-claw：datawhalechina/hello-claw helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 30/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 67/100 |
-| stars | 70/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # CharlesPikachu/freeproxy
 
-[![Stars](https://img.shields.io/github/stars/CharlesPikachu/freeproxy?style=flat-square&color=yellow)](https://github.com/CharlesPikachu/freeproxy/stargazers) [![Forks](https://img.shields.io/github/forks/CharlesPikachu/freeproxy?style=flat-square&color=blue)](https://github.com/CharlesPikachu/freeproxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CharlesPikachu/freeproxy?style=flat-square&color=yellow)](https://github.com/CharlesPikachu/freeproxy/stargazers) [![Forks](https://img.shields.io/github/forks/CharlesPikachu/freeproxy?style=flat-square&color=blue)](https://github.com/CharlesPikachu/freeproxy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > FreeProxy: Collecting free proxies from internet. (全球海量高质量免费代理，支持爬取数十个免费代理分享源，支持自定义规则代理筛选，爬虫与数据分析必备，每日更新海量免费代理。)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 404 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FreeProxy — это open‑source backend‑проект для автом�
 
 ### 中文
 
-CharlesPikachu/freeproxy：CharlesPikachu/freeproxy helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CharlesPikachu/freeproxy：CharlesPikachu/freeproxy helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ CharlesPikachu/freeproxy：CharlesPikachu/freeproxy helps teams reuse service in
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ CharlesPikachu/freeproxy：CharlesPikachu/freeproxy helps teams reuse service in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 56/100 |
-| adoption | 53/100 |
-| stars | 55/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

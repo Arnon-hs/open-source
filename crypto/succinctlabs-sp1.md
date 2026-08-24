@@ -1,6 +1,6 @@
 # succinctlabs/sp1
 
-[![Stars](https://img.shields.io/github/stars/succinctlabs/sp1?style=flat-square&color=yellow)](https://github.com/succinctlabs/sp1/stargazers) [![Forks](https://img.shields.io/github/forks/succinctlabs/sp1?style=flat-square&color=blue)](https://github.com/succinctlabs/sp1/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/succinctlabs/sp1?style=flat-square&color=yellow)](https://github.com/succinctlabs/sp1/stargazers) [![Forks](https://img.shields.io/github/forks/succinctlabs/sp1?style=flat-square&color=blue)](https://github.com/succinctlabs/sp1/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > SP1 is a zero‑knowledge virtual machine that proves the correct execution of programs compiled for the RISC-V architecture.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 655 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ SP1 是一个基于 RISC‑V 架构的零知识虚拟机，能够为编译后的
 | forks | 70/100 |
 | stars | 69/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

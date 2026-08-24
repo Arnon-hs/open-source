@@ -1,6 +1,6 @@
 # fdueblab/Micro-Agent
 
-[![Stars](https://img.shields.io/github/stars/fdueblab/Micro-Agent?style=flat-square&color=yellow)](https://github.com/fdueblab/Micro-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/fdueblab/Micro-Agent?style=flat-square&color=blue)](https://github.com/fdueblab/Micro-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fdueblab/Micro-Agent?style=flat-square&color=yellow)](https://github.com/fdueblab/Micro-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/fdueblab/Micro-Agent?style=flat-square&color=blue)](https://github.com/fdueblab/Micro-Agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight AI agent framework for vertical domain applications | 面向垂域应用的轻量级 AI Agent 框架
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ fdueblab/Micro‑Agent 是一个面向垂直领域的轻量级 AI Agent 框架�
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # VladSez/easy-invoice-pdf
 
-[![Stars](https://img.shields.io/github/stars/VladSez/easy-invoice-pdf?style=flat-square&color=yellow)](https://github.com/VladSez/easy-invoice-pdf/stargazers) [![Forks](https://img.shields.io/github/forks/VladSez/easy-invoice-pdf?style=flat-square&color=blue)](https://github.com/VladSez/easy-invoice-pdf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VladSez/easy-invoice-pdf?style=flat-square&color=yellow)](https://github.com/VladSez/easy-invoice-pdf/stargazers) [![Forks](https://img.shields.io/github/forks/VladSez/easy-invoice-pdf?style=flat-square&color=blue)](https://github.com/VladSez/easy-invoice-pdf/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Free & Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template. Star if you like it 🌟
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 821 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -69,15 +69,15 @@ VladSez/easy-invoice-pdf：VladSez/easy-invoice-pdf helps integrate monetization
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
+| usefulness | 90/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 59/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

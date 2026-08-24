@@ -1,6 +1,6 @@
 # ohmyzsh/ohmyzsh
 
-[![Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=flat-square&color=yellow)](https://github.com/ohmyzsh/ohmyzsh/stargazers) [![Forks](https://img.shields.io/github/forks/ohmyzsh/ohmyzsh?style=flat-square&color=blue)](https://github.com/ohmyzsh/ohmyzsh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=flat-square&color=yellow)](https://github.com/ohmyzsh/ohmyzsh/stargazers) [![Forks](https://img.shields.io/github/forks/ohmyzsh/ohmyzsh?style=flat-square&color=blue)](https://github.com/ohmyzsh/ohmyzsh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 186.9k |
 | 🍴 **Forks** | 26.4k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ohmyzsh/ohmyzsh：ohmyzsh/ohmyzsh helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 94/100 |
-| production | 71/100 |
-| outlook | 77/100 |
+| production | 64/100 |
+| outlook | 70/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

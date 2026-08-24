@@ -1,6 +1,6 @@
 # vue-stripe/vue-stripe
 
-[![Stars](https://img.shields.io/github/stars/vue-stripe/vue-stripe?style=flat-square&color=yellow)](https://github.com/vue-stripe/vue-stripe/stargazers) [![Forks](https://img.shields.io/github/forks/vue-stripe/vue-stripe?style=flat-square&color=blue)](https://github.com/vue-stripe/vue-stripe/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vue-stripe/vue-stripe?style=flat-square&color=yellow)](https://github.com/vue-stripe/vue-stripe/stargazers) [![Forks](https://img.shields.io/github/forks/vue-stripe/vue-stripe?style=flat-square&color=blue)](https://github.com/vue-stripe/vue-stripe/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Stripe Checkout & Elements for Vue.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ vue‑stripe/vue‑stripe is a Vue.js wrapper for Stripe Checkout and Elements t
 | forks | 54/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

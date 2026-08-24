@@ -1,6 +1,6 @@
 # stripe/stripe-go
 
-[![Stars](https://img.shields.io/github/stars/stripe/stripe-go?style=flat-square&color=yellow)](https://github.com/stripe/stripe-go/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-go?style=flat-square&color=blue)](https://github.com/stripe/stripe-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/stripe-go?style=flat-square&color=yellow)](https://github.com/stripe/stripe-go/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-go?style=flat-square&color=blue)](https://github.com/stripe/stripe-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Go library for the Stripe API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 513 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ stripe/stripe-go: stripe/stripe-go helps integrate monetization, billing, or PSP
 
 ### Русский
 
-stripe/stripe-go: open-source проект в категориях Payments, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+stripe/stripe-go: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ stripe/stripe-go：stripe/stripe-go helps integrate monetization, billing, or PS
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 59/100 |
-| adoption | 71/100 |
-| stars | 73/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 25/100 |
+| outlook | 52/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

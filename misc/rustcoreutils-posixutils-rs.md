@@ -1,6 +1,6 @@
 # rustcoreutils/posixutils-rs
 
-[![Stars](https://img.shields.io/github/stars/rustcoreutils/posixutils-rs?style=flat-square&color=yellow)](https://github.com/rustcoreutils/posixutils-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rustcoreutils/posixutils-rs?style=flat-square&color=blue)](https://github.com/rustcoreutils/posixutils-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustcoreutils/posixutils-rs?style=flat-square&color=yellow)](https://github.com/rustcoreutils/posixutils-rs/stargazers) [![Forks](https://img.shields.io/github/forks/rustcoreutils/posixutils-rs?style=flat-square&color=blue)](https://github.com/rustcoreutils/posixutils-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Core POSIX command line utilities in safe Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,14 +128,15 @@ Misc
 | forks | 38/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

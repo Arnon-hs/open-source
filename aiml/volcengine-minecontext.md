@@ -1,6 +1,6 @@
 # volcengine/MineContext
 
-[![Stars](https://img.shields.io/github/stars/volcengine/MineContext?style=flat-square&color=yellow)](https://github.com/volcengine/MineContext/stargazers) [![Forks](https://img.shields.io/github/forks/volcengine/MineContext?style=flat-square&color=blue)](https://github.com/volcengine/MineContext/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/volcengine/MineContext?style=flat-square&color=yellow)](https://github.com/volcengine/MineContext/stargazers) [![Forks](https://img.shields.io/github/forks/volcengine/MineContext?style=flat-square&color=blue)](https://github.com/volcengine/MineContext/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 397 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ volcengine/MineContext：volcengine/MineContext helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 75/100 |
 | stars | 79/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

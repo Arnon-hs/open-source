@@ -1,6 +1,6 @@
 # microsoft/aspire
 
-[![Stars](https://img.shields.io/github/stars/microsoft/aspire?style=flat-square&color=yellow)](https://github.com/microsoft/aspire/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/aspire?style=flat-square&color=blue)](https://github.com/microsoft/aspire/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/aspire?style=flat-square&color=yellow)](https://github.com/microsoft/aspire/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/aspire?style=flat-square&color=blue)](https://github.com/microsoft/aspire/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Aspire is the tool for code-first, extensible, observable dev and deploy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 884 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Aspire 是微软推出的 **code‑first、可扩展且可观测的开发与部�
 | forks | 74/100 |
 | stars | 80/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 78/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # agentjido/req_llm
 
-[![Stars](https://img.shields.io/github/stars/agentjido/req_llm?style=flat-square&color=yellow)](https://github.com/agentjido/req_llm/stargazers) [![Forks](https://img.shields.io/github/forks/agentjido/req_llm?style=flat-square&color=blue)](https://github.com/agentjido/req_llm/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentjido/req_llm?style=flat-square&color=yellow)](https://github.com/agentjido/req_llm/stargazers) [![Forks](https://img.shields.io/github/forks/agentjido/req_llm?style=flat-square&color=blue)](https://github.com/agentjido/req_llm/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Composable Elixir library for LLM interactions built on Req and Finch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ AI/ML · Frontend
 | forks | 56/100 |
 | stars | 58/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

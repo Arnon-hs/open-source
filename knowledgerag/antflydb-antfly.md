@@ -1,0 +1,82 @@
+# antflydb/antfly
+
+[![Stars](https://img.shields.io/github/stars/antflydb/antfly?style=flat-square&color=yellow)](https://github.com/antflydb/antfly/stargazers) [![Forks](https://img.shields.io/github/forks/antflydb/antfly?style=flat-square&color=blue)](https://github.com/antflydb/antfly/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+
+> _No description provided._
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 342 |
+| 🍴 **Forks** | 23 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai-agents` `autoscaling` `elasticsearch` `information-retrieval` `ml` `multimodal` `rag` `semantic-search`
+
+## 🎯 Categories
+
+Knowledge/RAG · AI/ML
+
+## 📝 Summary
+
+### English
+
+Antfly is an open‑source AI/ML framework that provides a lightweight, modular platform for building, training, and deploying neural network models. It emphasizes ease of integration with existing data pipelines, supports a variety of model architectures, and includes tools for monitoring performance and scaling experiments across distributed environments.
+
+### Русский
+
+**antfly** — это открытая платформа для разработки и тестирования моделей искусственного интеллекта, предоставляющая удобный набор инструментов для быстрой подготовки данных, построения нейросетевых архитектур и их деплоймента. Проект ориентирован на исследователей и инженеров, которым нужен гибкий, масштабируемый и полностью открытый стек для экспериментов в области машинного обучения.
+
+### 中文
+
+antflydb/antfly：antflydb/antfly helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** antflydb/antfly helps make internal knowledge searchable and usable by assistants.
+
+**Best use cases**
+
+- index knowledge bases
+- improve search over documents
+- ground assistant answers
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 342 GitHub stars
+- 23 forks
+- updated 2026-05-08
+- primary language: Go
+- 8 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 35/100 |
+| stars | 54/100 |
+| topics | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 34/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/antflydb/antfly) · [← Back to Knowledgerag](./README.md)</sub>

@@ -1,6 +1,6 @@
 # pion/dtls
 
-[![Stars](https://img.shields.io/github/stars/pion/dtls?style=flat-square&color=yellow)](https://github.com/pion/dtls/stargazers) [![Forks](https://img.shields.io/github/forks/pion/dtls?style=flat-square&color=blue)](https://github.com/pion/dtls/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pion/dtls?style=flat-square&color=yellow)](https://github.com/pion/dtls/stargazers) [![Forks](https://img.shields.io/github/forks/pion/dtls?style=flat-square&color=blue)](https://github.com/pion/dtls/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > DTLS 1.2 implementation for Go (DTLS 1.3 in progress)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 690 |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ pion/dtls 是用 Go 语言实现的 DTLS 1.2 库（正在开发 DTLS 1.3）�
 | forks | 57/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # terraforming-mars/terraforming-mars
 
-[![Stars](https://img.shields.io/github/stars/terraforming-mars/terraforming-mars?style=flat-square&color=yellow)](https://github.com/terraforming-mars/terraforming-mars/stargazers) [![Forks](https://img.shields.io/github/forks/terraforming-mars/terraforming-mars?style=flat-square&color=blue)](https://github.com/terraforming-mars/terraforming-mars/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terraforming-mars/terraforming-mars?style=flat-square&color=yellow)](https://github.com/terraforming-mars/terraforming-mars/stargazers) [![Forks](https://img.shields.io/github/forks/terraforming-mars/terraforming-mars?style=flat-square&color=blue)](https://github.com/terraforming-mars/terraforming-mars/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Terraforming Mars Boardgame
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 914 |
 | 🍴 **Forks** | 421 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Terraforming Mars is an open‑source digital implementation of the popular boar
 
 ### 中文
 
-terraforming-mars/terraforming-mars：terraforming-mars/terraforming-mars helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+terraforming-mars/terraforming-mars：terraforming-mars/terraforming-mars helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ terraforming-mars/terraforming-mars：terraforming-mars/terraforming-mars helps 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ terraforming-mars/terraforming-mars：terraforming-mars/terraforming-mars helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 48/100 |
+| production | 46/100 |
+| outlook | 41/100 |
 | adoption | 64/100 |
 | stars | 63/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

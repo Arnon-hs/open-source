@@ -1,6 +1,6 @@
 # chromium/chromium
 
-[![Stars](https://img.shields.io/github/stars/chromium/chromium?style=flat-square&color=yellow)](https://github.com/chromium/chromium/stargazers) [![Forks](https://img.shields.io/github/forks/chromium/chromium?style=flat-square&color=blue)](https://github.com/chromium/chromium/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chromium/chromium?style=flat-square&color=yellow)](https://github.com/chromium/chromium/stargazers) [![Forks](https://img.shields.io/github/forks/chromium/chromium?style=flat-square&color=blue)](https://github.com/chromium/chromium/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The official GitHub mirror of the Chromium source
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23.6k |
 | 🍴 **Forks** | 8.8k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ chromium/chromium：chromium/chromium may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 95/100 |
-| stars | 93/100 |
 | forks | 99/100 |
-| recency | 40/100 |
+| stars | 93/100 |
 | topics | 25/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

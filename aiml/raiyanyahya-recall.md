@@ -1,6 +1,6 @@
 # raiyanyahya/recall
 
-[![Stars](https://img.shields.io/github/stars/raiyanyahya/recall?style=flat-square&color=yellow)](https://github.com/raiyanyahya/recall/stargazers) [![Forks](https://img.shields.io/github/forks/raiyanyahya/recall?style=flat-square&color=blue)](https://github.com/raiyanyahya/recall/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raiyanyahya/recall?style=flat-square&color=yellow)](https://github.com/raiyanyahya/recall/stargazers) [![Forks](https://img.shields.io/github/forks/raiyanyahya/recall?style=flat-square&color=blue)](https://github.com/raiyanyahya/recall/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 534 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Recall（raiyanyahya/recall）是一款让 Claude Code 拥有持久离线记�
 | forks | 35/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

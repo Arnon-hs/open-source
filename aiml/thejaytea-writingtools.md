@@ -1,6 +1,6 @@
 # theJayTea/WritingTools
 
-[![Stars](https://img.shields.io/github/stars/theJayTea/WritingTools?style=flat-square&color=yellow)](https://github.com/theJayTea/WritingTools/stargazers) [![Forks](https://img.shields.io/github/forks/theJayTea/WritingTools?style=flat-square&color=blue)](https://github.com/theJayTea/WritingTools/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theJayTea/WritingTools?style=flat-square&color=yellow)](https://github.com/theJayTea/WritingTools/stargazers) [![Forks](https://img.shields.io/github/forks/theJayTea/WritingTools?style=flat-square&color=blue)](https://github.com/theJayTea/WritingTools/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ theJayTea/WritingTools：theJayTea/WritingTools helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 66/100 |
-| stars | 71/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 71/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

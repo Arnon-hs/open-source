@@ -1,6 +1,6 @@
 # slackapi/bolt-js
 
-[![Stars](https://img.shields.io/github/stars/slackapi/bolt-js?style=flat-square&color=yellow)](https://github.com/slackapi/bolt-js/stargazers) [![Forks](https://img.shields.io/github/forks/slackapi/bolt-js?style=flat-square&color=blue)](https://github.com/slackapi/bolt-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slackapi/bolt-js?style=flat-square&color=yellow)](https://github.com/slackapi/bolt-js/stargazers) [![Forks](https://img.shields.io/github/forks/slackapi/bolt-js?style=flat-square&color=blue)](https://github.com/slackapi/bolt-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A framework to build Slack apps using JavaScript
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 429 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ slackapi/bolt-js：slackapi/bolt-js helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 72/100 |
 | stars | 74/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

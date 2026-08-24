@@ -1,6 +1,6 @@
 # Mustard2/MustardUI
 
-[![Stars](https://img.shields.io/github/stars/Mustard2/MustardUI?style=flat-square&color=yellow)](https://github.com/Mustard2/MustardUI/stargazers) [![Forks](https://img.shields.io/github/forks/Mustard2/MustardUI?style=flat-square&color=blue)](https://github.com/Mustard2/MustardUI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mustard2/MustardUI?style=flat-square&color=yellow)](https://github.com/Mustard2/MustardUI/stargazers) [![Forks](https://img.shields.io/github/forks/Mustard2/MustardUI?style=flat-square&color=blue)](https://github.com/Mustard2/MustardUI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Custom UI for Blender human models. It features automatic outfits switch, custom properties support, armature panel creation, and much more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Mustard2/MustardUI 为 Blender 中的人体模型提供即插即用的 UI 方案
 | forks | 38/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

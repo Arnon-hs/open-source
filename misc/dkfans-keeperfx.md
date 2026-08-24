@@ -1,6 +1,6 @@
 # dkfans/keeperfx
 
-[![Stars](https://img.shields.io/github/stars/dkfans/keeperfx?style=flat-square&color=yellow)](https://github.com/dkfans/keeperfx/stargazers) [![Forks](https://img.shields.io/github/forks/dkfans/keeperfx?style=flat-square&color=blue)](https://github.com/dkfans/keeperfx/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dkfans/keeperfx?style=flat-square&color=yellow)](https://github.com/dkfans/keeperfx/stargazers) [![Forks](https://img.shields.io/github/forks/dkfans/keeperfx?style=flat-square&color=blue)](https://github.com/dkfans/keeperfx/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Open source remake and Fan Expansion of Dungeon Keeper.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 931 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ dkfans/keeperfx is an open‑source remake and fan expansion of the classic real
 
 ### 中文
 
-dkfans/keeperfx：dkfans/keeperfx may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dkfans/keeperfx：dkfans/keeperfx may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ dkfans/keeperfx：dkfans/keeperfx may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ dkfans/keeperfx：dkfans/keeperfx may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 60/100 |
-| stars | 63/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 63/100 |
 | topics | 88/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

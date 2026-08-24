@@ -1,6 +1,6 @@
 # chenxiaolong/MSD
 
-[![Stars](https://img.shields.io/github/stars/chenxiaolong/MSD?style=flat-square&color=yellow)](https://github.com/chenxiaolong/MSD/stargazers) [![Forks](https://img.shields.io/github/forks/chenxiaolong/MSD?style=flat-square&color=blue)](https://github.com/chenxiaolong/MSD/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chenxiaolong/MSD?style=flat-square&color=yellow)](https://github.com/chenxiaolong/MSD/stargazers) [![Forks](https://img.shields.io/github/forks/chenxiaolong/MSD?style=flat-square&color=blue)](https://github.com/chenxiaolong/MSD/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Android app for emulating mass storage devices over USB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ chenxiaolong/MSD：chenxiaolong/MSD helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 47/100 |
-| outlook | 47/100 |
+| production | 41/100 |
+| outlook | 40/100 |
 | adoption | 44/100 |
 | stars | 50/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

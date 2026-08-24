@@ -1,6 +1,6 @@
 # evanca/flutter-ai-rules
 
-[![Stars](https://img.shields.io/github/stars/evanca/flutter-ai-rules?style=flat-square&color=yellow)](https://github.com/evanca/flutter-ai-rules/stargazers) [![Forks](https://img.shields.io/github/forks/evanca/flutter-ai-rules?style=flat-square&color=blue)](https://github.com/evanca/flutter-ai-rules/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evanca/flutter-ai-rules?style=flat-square&color=yellow)](https://github.com/evanca/flutter-ai-rules/stargazers) [![Forks](https://img.shields.io/github/forks/evanca/flutter-ai-rules?style=flat-square&color=blue)](https://github.com/evanca/flutter-ai-rules/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Flutter AI Skills and Rules for Cursor, Copilot, Antigravity, and Other AI-Powered IDEs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 583 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ To adopt evanca/flutter-ai-rules, developers should follow these steps:
 | forks | 44/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # danielsogl/lighthouse-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/danielsogl/lighthouse-mcp-server?style=flat-square&color=yellow)](https://github.com/danielsogl/lighthouse-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/danielsogl/lighthouse-mcp-server?style=flat-square&color=blue)](https://github.com/danielsogl/lighthouse-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielsogl/lighthouse-mcp-server?style=flat-square&color=yellow)](https://github.com/danielsogl/lighthouse-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/danielsogl/lighthouse-mcp-server?style=flat-square&color=blue)](https://github.com/danielsogl/lighthouse-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that enables AI agents to perform comprehensive web audits using Google Lighthouse with 13+ tools for performance, accessibility, SEO, and security analysis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database · Security
+MCP · Backend · Security · Marketing
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ danielsogl/lighthouse-mcp-server 是一款基于 Model Context Protocol（MCP）
 | forks | 26/100 |
 | stars | 38/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hengyoush/kyanos
 
-[![Stars](https://img.shields.io/github/stars/hengyoush/kyanos?style=flat-square&color=yellow)](https://github.com/hengyoush/kyanos/stargazers) [![Forks](https://img.shields.io/github/forks/hengyoush/kyanos?style=flat-square&color=blue)](https://github.com/hengyoush/kyanos/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hengyoush/kyanos?style=flat-square&color=yellow)](https://github.com/hengyoush/kyanos/stargazers) [![Forks](https://img.shields.io/github/forks/hengyoush/kyanos?style=flat-square&color=blue)](https://github.com/hengyoush/kyanos/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | C |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ hengyoush/kyanos：hengyoush/kyanos may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 73/100 |
-| stars | 79/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

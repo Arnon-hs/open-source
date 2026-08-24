@@ -1,6 +1,6 @@
 # Botspot/pi-apps
 
-[![Stars](https://img.shields.io/github/stars/Botspot/pi-apps?style=flat-square&color=yellow)](https://github.com/Botspot/pi-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Botspot/pi-apps?style=flat-square&color=blue)](https://github.com/Botspot/pi-apps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Botspot/pi-apps?style=flat-square&color=yellow)](https://github.com/Botspot/pi-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Botspot/pi-apps?style=flat-square&color=blue)](https://github.com/Botspot/pi-apps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Raspberry Pi App Store for Open Source Projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 259 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Botspot/pi-apps：Botspot/pi-apps helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

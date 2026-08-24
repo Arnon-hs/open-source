@@ -1,6 +1,6 @@
 # mahkoh/jay
 
-[![Stars](https://img.shields.io/github/stars/mahkoh/jay?style=flat-square&color=yellow)](https://github.com/mahkoh/jay/stargazers) [![Forks](https://img.shields.io/github/forks/mahkoh/jay?style=flat-square&color=blue)](https://github.com/mahkoh/jay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mahkoh/jay?style=flat-square&color=yellow)](https://github.com/mahkoh/jay/stargazers) [![Forks](https://img.shields.io/github/forks/mahkoh/jay?style=flat-square&color=blue)](https://github.com/mahkoh/jay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A Wayland Compositor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 619 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mahkoh/jay is an open‑source Wayland compositor written to provide a lightweig
 
 ### 中文
 
-mahkoh/jay：mahkoh/jay may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mahkoh/jay：mahkoh/jay may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ mahkoh/jay：mahkoh/jay may be useful when its README and activity match a concr
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ mahkoh/jay：mahkoh/jay may be useful when its README and activity match a concr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
-| adoption | 53/100 |
-| stars | 59/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 38/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

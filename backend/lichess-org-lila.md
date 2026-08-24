@@ -1,6 +1,6 @@
 # lichess-org/lila
 
-[![Stars](https://img.shields.io/github/stars/lichess-org/lila?style=flat-square&color=yellow)](https://github.com/lichess-org/lila/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/lila?style=flat-square&color=blue)](https://github.com/lichess-org/lila/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lichess-org/lila?style=flat-square&color=yellow)](https://github.com/lichess-org/lila/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/lila?style=flat-square&color=blue)](https://github.com/lichess-org/lila/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > ♞ lichess.org: the forever free, adless and open source chess server ♞
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.2k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lichess-org/lila：lichess-org/lila helps teams reuse service infrastructure ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 89/100 |
 | stars | 91/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

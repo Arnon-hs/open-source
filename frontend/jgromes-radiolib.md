@@ -1,6 +1,6 @@
 # jgromes/RadioLib
 
-[![Stars](https://img.shields.io/github/stars/jgromes/RadioLib?style=flat-square&color=yellow)](https://github.com/jgromes/RadioLib/stargazers) [![Forks](https://img.shields.io/github/forks/jgromes/RadioLib?style=flat-square&color=blue)](https://github.com/jgromes/RadioLib/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jgromes/RadioLib?style=flat-square&color=yellow)](https://github.com/jgromes/RadioLib/stargazers) [![Forks](https://img.shields.io/github/forks/jgromes/RadioLib?style=flat-square&color=blue)](https://github.com/jgromes/RadioLib/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Universal wireless communication library for embedded devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 553 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jgromes/RadioLib：jgromes/RadioLib helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 71/100 |
 | stars | 72/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

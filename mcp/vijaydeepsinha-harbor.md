@@ -1,6 +1,6 @@
 # vijaydeepsinha/harbor
 
-[![Stars](https://img.shields.io/github/stars/vijaydeepsinha/harbor?style=flat-square&color=yellow)](https://github.com/vijaydeepsinha/harbor/stargazers) [![Forks](https://img.shields.io/github/forks/vijaydeepsinha/harbor?style=flat-square&color=blue)](https://github.com/vijaydeepsinha/harbor/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vijaydeepsinha/harbor?style=flat-square&color=yellow)](https://github.com/vijaydeepsinha/harbor/stargazers) [![Forks](https://img.shields.io/github/forks/vijaydeepsinha/harbor?style=flat-square&color=blue)](https://github.com/vijaydeepsinha/harbor/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Harbor的生产可用性为中等（Medium）。它适合于原型开发或内�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 66/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 26/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 65/100 |
+| production | 45/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

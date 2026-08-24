@@ -1,6 +1,6 @@
 # ray-project/ray
 
-[![Stars](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&color=yellow)](https://github.com/ray-project/ray/stargazers) [![Forks](https://img.shields.io/github/forks/ray-project/ray?style=flat-square&color=blue)](https://github.com/ray-project/ray/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&color=yellow)](https://github.com/ray-project/ray/stargazers) [![Forks](https://img.shields.io/github/forks/ray-project/ray?style=flat-square&color=blue)](https://github.com/ray-project/ray/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42.4k |
 | 🍴 **Forks** | 7.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Marketing
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ray-project/ray: ray-project/ray helps add AI capability without starting from a
 
 ### Русский
 
-ray-project/ray: open-source проект в категориях AI/ML, Data, Marketing. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ray-project/ray: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ray-project/ray：ray-project/ray helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 84/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 67/100 |
-| adoption | 98/100 |
-| stars | 98/100 |
 | forks | 97/100 |
-| recency | 40/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

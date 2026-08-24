@@ -1,6 +1,6 @@
 # Qiskit/qiskit
 
-[![Stars](https://img.shields.io/github/stars/Qiskit/qiskit?style=flat-square&color=yellow)](https://github.com/Qiskit/qiskit/stargazers) [![Forks](https://img.shields.io/github/forks/Qiskit/qiskit?style=flat-square&color=blue)](https://github.com/Qiskit/qiskit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Qiskit/qiskit?style=flat-square&color=yellow)](https://github.com/Qiskit/qiskit/stargazers) [![Forks](https://img.shields.io/github/forks/Qiskit/qiskit?style=flat-square&color=blue)](https://github.com/Qiskit/qiskit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Qiskit/qiskit：Qiskit/qiskit helps research and automate market workflows.。�
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 66/100 |
+| production | 57/100 |
+| outlook | 59/100 |
 | adoption | 83/100 |
 | stars | 82/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

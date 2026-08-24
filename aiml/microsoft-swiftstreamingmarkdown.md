@@ -1,6 +1,6 @@
 # microsoft/SwiftStreamingMarkdown
 
-[![Stars](https://img.shields.io/github/stars/microsoft/SwiftStreamingMarkdown?style=flat-square&color=yellow)](https://github.com/microsoft/SwiftStreamingMarkdown/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/SwiftStreamingMarkdown?style=flat-square&color=blue)](https://github.com/microsoft/SwiftStreamingMarkdown/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/SwiftStreamingMarkdown?style=flat-square&color=yellow)](https://github.com/microsoft/SwiftStreamingMarkdown/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/SwiftStreamingMarkdown?style=flat-square&color=blue)](https://github.com/microsoft/SwiftStreamingMarkdown/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A performant markdown library for iOS that supports streaming
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 209 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Microsoft/SwiftStreamingMarkdown 是一款面向 iOS 的高性能 Markdown 解�
 | forks | 29/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

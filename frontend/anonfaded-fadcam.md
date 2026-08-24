@@ -1,6 +1,6 @@
 # anonfaded/FadCam
 
-[![Stars](https://img.shields.io/github/stars/anonfaded/FadCam?style=flat-square&color=yellow)](https://github.com/anonfaded/FadCam/stargazers) [![Forks](https://img.shields.io/github/forks/anonfaded/FadCam?style=flat-square&color=blue)](https://github.com/anonfaded/FadCam/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anonfaded/FadCam?style=flat-square&color=yellow)](https://github.com/anonfaded/FadCam/stargazers) [![Forks](https://img.shields.io/github/forks/anonfaded/FadCam?style=flat-square&color=blue)](https://github.com/anonfaded/FadCam/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ anonfaded/FadCam：anonfaded/FadCam helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 65/100 |
+| quality | 64/100 |
+| integration | 62/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 65/100 |
 | stars | 69/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

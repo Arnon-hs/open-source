@@ -1,6 +1,6 @@
 # gil-son/language-ai-engineering-lab
 
-[![Stars](https://img.shields.io/github/stars/gil-son/language-ai-engineering-lab?style=flat-square&color=yellow)](https://github.com/gil-son/language-ai-engineering-lab/stargazers) [![Forks](https://img.shields.io/github/forks/gil-son/language-ai-engineering-lab?style=flat-square&color=blue)](https://github.com/gil-son/language-ai-engineering-lab/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gil-son/language-ai-engineering-lab?style=flat-square&color=yellow)](https://github.com/gil-son/language-ai-engineering-lab/stargazers) [![Forks](https://img.shields.io/github/forks/gil-son/language-ai-engineering-lab?style=flat-square&color=blue)](https://github.com/gil-son/language-ai-engineering-lab/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Language AI Engineering Lab, a place where you can deeply understand and build modern Language AI systems, from fundamentals to production.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -37,7 +37,7 @@ The Language AI Engineering Lab is an open-source project that provides a compre
 
 ### 中文
 
-gil-son/language-ai-engineering-lab：gil-son/language-ai-engineering-lab helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gil-son/language-ai-engineering-lab：gil-son/language-ai-engineering-lab helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ gil-son/language-ai-engineering-lab：gil-son/language-ai-engineering-lab helps 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,16 +67,16 @@ gil-son/language-ai-engineering-lab：gil-son/language-ai-engineering-lab helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 40/100 |
-| stars | 43/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

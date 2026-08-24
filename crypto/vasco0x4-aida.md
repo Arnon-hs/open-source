@@ -1,6 +1,6 @@
 # Vasco0x4/AIDA
 
-[![Stars](https://img.shields.io/github/stars/Vasco0x4/AIDA?style=flat-square&color=yellow)](https://github.com/Vasco0x4/AIDA/stargazers) [![Forks](https://img.shields.io/github/forks/Vasco0x4/AIDA?style=flat-square&color=blue)](https://github.com/Vasco0x4/AIDA/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vasco0x4/AIDA?style=flat-square&color=yellow)](https://github.com/Vasco0x4/AIDA/stargazers) [![Forks](https://img.shields.io/github/forks/Vasco0x4/AIDA?style=flat-square&color=blue)](https://github.com/Vasco0x4/AIDA/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any LLM into an autonomous pentester. You define the scope, the agent does the work, you review the findings.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 371 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Vasco0x4/AIDA：Vasco0x4/AIDA helps prototype or inspect blockchain workflows wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 52/100 |
 | stars | 55/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

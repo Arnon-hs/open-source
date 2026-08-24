@@ -1,6 +1,6 @@
 # chaitin/PandaWiki
 
-[![Stars](https://img.shields.io/github/stars/chaitin/PandaWiki?style=flat-square&color=yellow)](https://github.com/chaitin/PandaWiki/stargazers) [![Forks](https://img.shields.io/github/forks/chaitin/PandaWiki?style=flat-square&color=blue)](https://github.com/chaitin/PandaWiki/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chaitin/PandaWiki?style=flat-square&color=yellow)](https://github.com/chaitin/PandaWiki/stargazers) [![Forks](https://img.shields.io/github/forks/chaitin/PandaWiki?style=flat-square&color=blue)](https://github.com/chaitin/PandaWiki/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 975 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ PandaWiki 是一款基于大型语言模型（LLM）的开源知识库搭建系�
 | forks | 75/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

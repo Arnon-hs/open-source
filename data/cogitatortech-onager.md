@@ -1,6 +1,6 @@
 # CogitatorTech/onager
 
-[![Stars](https://img.shields.io/github/stars/CogitatorTech/onager?style=flat-square&color=yellow)](https://github.com/CogitatorTech/onager/stargazers) [![Forks](https://img.shields.io/github/forks/CogitatorTech/onager?style=flat-square&color=blue)](https://github.com/CogitatorTech/onager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CogitatorTech/onager?style=flat-square&color=yellow)](https://github.com/CogitatorTech/onager/stargazers) [![Forks](https://img.shields.io/github/forks/CogitatorTech/onager?style=flat-square&color=blue)](https://github.com/CogitatorTech/onager/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A DuckDB extension for graph data analytics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ CogitatorTech/onager 为 DuckDB 提供了原生的图数据分析能力，使得
 | forks | 23/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

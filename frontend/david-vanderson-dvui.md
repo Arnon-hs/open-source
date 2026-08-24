@@ -1,6 +1,6 @@
 # david-vanderson/dvui
 
-[![Stars](https://img.shields.io/github/stars/david-vanderson/dvui?style=flat-square&color=yellow)](https://github.com/david-vanderson/dvui/stargazers) [![Forks](https://img.shields.io/github/forks/david-vanderson/dvui?style=flat-square&color=blue)](https://github.com/david-vanderson/dvui/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/david-vanderson/dvui?style=flat-square&color=yellow)](https://github.com/david-vanderson/dvui/stargazers) [![Forks](https://img.shields.io/github/forks/david-vanderson/dvui?style=flat-square&color=blue)](https://github.com/david-vanderson/dvui/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Immediate Zig GUI for Apps and Games
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Frontend
 
 ### 中文
 
-david-vanderson/dvui：david-vanderson/dvui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+david-vanderson/dvui：david-vanderson/dvui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ david-vanderson/dvui：david-vanderson/dvui helps ship user-facing interfaces wi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ david-vanderson/dvui：david-vanderson/dvui helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 44/100 |
+| outlook | 41/100 |
 | adoption | 63/100 |
 | stars | 67/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

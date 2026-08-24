@@ -1,6 +1,6 @@
 # rust-embedded/riscv
 
-[![Stars](https://img.shields.io/github/stars/rust-embedded/riscv?style=flat-square&color=yellow)](https://github.com/rust-embedded/riscv/stargazers) [![Forks](https://img.shields.io/github/forks/rust-embedded/riscv?style=flat-square&color=blue)](https://github.com/rust-embedded/riscv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-embedded/riscv?style=flat-square&color=yellow)](https://github.com/rust-embedded/riscv/stargazers) [![Forks](https://img.shields.io/github/forks/rust-embedded/riscv?style=flat-square&color=blue)](https://github.com/rust-embedded/riscv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Low level access to RISC-V processors
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -130,14 +130,15 @@ The **rust-embedded/riscv** crate provides low‑level, Rust‑idiomatic access 
 | forks | 57/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

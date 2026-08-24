@@ -1,6 +1,6 @@
 # marph91/jimmy
 
-[![Stars](https://img.shields.io/github/stars/marph91/jimmy?style=flat-square&color=yellow)](https://github.com/marph91/jimmy/stargazers) [![Forks](https://img.shields.io/github/forks/marph91/jimmy?style=flat-square&color=blue)](https://github.com/marph91/jimmy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marph91/jimmy?style=flat-square&color=yellow)](https://github.com/marph91/jimmy/stargazers) [![Forks](https://img.shields.io/github/forks/marph91/jimmy?style=flat-square&color=blue)](https://github.com/marph91/jimmy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Convert your notes to Markdown
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -90,14 +90,15 @@ Jimmy 的生产可用性较高，因为它有活跃的维护者，最近的活�
 | forks | 34/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

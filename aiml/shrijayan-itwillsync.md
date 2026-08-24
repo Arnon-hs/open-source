@@ -1,6 +1,6 @@
 # shrijayan/itwillsync
 
-[![Stars](https://img.shields.io/github/stars/shrijayan/itwillsync?style=flat-square&color=yellow)](https://github.com/shrijayan/itwillsync/stargazers) [![Forks](https://img.shields.io/github/forks/shrijayan/itwillsync?style=flat-square&color=blue)](https://github.com/shrijayan/itwillsync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shrijayan/itwillsync?style=flat-square&color=yellow)](https://github.com/shrijayan/itwillsync/stargazers) [![Forks](https://img.shields.io/github/forks/shrijayan/itwillsync?style=flat-square&color=blue)](https://github.com/shrijayan/itwillsync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Sync any terminal-based AI coding agent to your phone. Claude Code, Aider, Codex. Local network, zero cloud.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 92 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ shrijayan/itwillsync 是一款开源工具，可把任意基于终端的 AI 编�
 | forks | 23/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

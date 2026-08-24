@@ -1,6 +1,6 @@
 # arjunkshah/loopy
 
-[![Stars](https://img.shields.io/github/stars/arjunkshah/loopy?style=flat-square&color=yellow)](https://github.com/arjunkshah/loopy/stargazers) [![Forks](https://img.shields.io/github/forks/arjunkshah/loopy?style=flat-square&color=blue)](https://github.com/arjunkshah/loopy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arjunkshah/loopy?style=flat-square&color=yellow)](https://github.com/arjunkshah/loopy/stargazers) [![Forks](https://img.shields.io/github/forks/arjunkshah/loopy?style=flat-square&color=blue)](https://github.com/arjunkshah/loopy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Free, local-first agent operating system: assign work on a board and a fleet of AI coding agents ships it under policy. Orchestrates 43 coding-agent CLIs (Codex, Claude Code, Cursor, Gemini). Open source, agentic, runs on your keys.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ arjunkshah/loopy 是一款 **免费、本地优先的智能体操作系统**，�
 | forks | 21/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

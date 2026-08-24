@@ -1,6 +1,6 @@
 # lisonge/vite-plugin-monkey
 
-[![Stars](https://img.shields.io/github/stars/lisonge/vite-plugin-monkey?style=flat-square&color=yellow)](https://github.com/lisonge/vite-plugin-monkey/stargazers) [![Forks](https://img.shields.io/github/forks/lisonge/vite-plugin-monkey?style=flat-square&color=blue)](https://github.com/lisonge/vite-plugin-monkey/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lisonge/vite-plugin-monkey?style=flat-square&color=yellow)](https://github.com/lisonge/vite-plugin-monkey/stargazers) [![Forks](https://img.shields.io/github/forks/lisonge/vite-plugin-monkey?style=flat-square&color=blue)](https://github.com/lisonge/vite-plugin-monkey/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ lisonge/vite-plugin-monkey：lisonge/vite-plugin-monkey helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 64/100 |
 | stars | 70/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

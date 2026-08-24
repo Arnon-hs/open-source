@@ -1,6 +1,6 @@
 # kubernetes-sigs/azurefile-csi-driver
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/azurefile-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/azurefile-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/azurefile-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/azurefile-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/azurefile-csi-driver?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/azurefile-csi-driver/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/azurefile-csi-driver?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/azurefile-csi-driver/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Azure File CSI Driver
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 174 |
-| 🍴 **Forks** | 170 |
+| ⭐ **Stars** | 177 |
+| 🍴 **Forks** | 182 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`csi` `k8s-sig-azure` `kubernetes`
 
 ## 🎯 Categories
 
@@ -25,8 +25,59 @@ DevOps/Infra
 
 ## 📝 Summary
 
-The Azure File CSI Driver is an open-source project that enables the integration of Azure File shares with container orchestration platforms, such as Kubernetes. This project provides a Container Storage Interface (CSI) driver that allows users to mount and manage Azure File shares as persistent storage volumes within Kubernetes environments. By leveraging this driver, users can efficiently store and manage data in Azure File shares while utilizing the scalability and orchestration capabilities of Kubernetes.
+### English
+
+kubernetes-sigs/azurefile-csi-driver: kubernetes-sigs/azurefile-csi-driver helps make deployment and operations more repeatable.. Use it for standardize deployment; automate operations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+kubernetes-sigs/azurefile-csi-driver: open-source проект в категориях DevOps/Infra. Практическое применение: standardize deployment; automate operations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+kubernetes-sigs/azurefile-csi-driver：kubernetes-sigs/azurefile-csi-driver helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** kubernetes-sigs/azurefile-csi-driver helps make deployment and operations more repeatable.
+
+**Best use cases**
+
+- standardize deployment
+- automate operations
+- improve platform reliability
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 177 GitHub stars
+- 182 forks
+- updated 2026-08-22
+- primary language: Go
+- 3 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 57/100 |
+| stars | 48/100 |
+| topics | 38/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 100/100 |
+| adoption | 50/100 |
+| production | 74/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/kubernetes-sigs/azurefile-csi-driver) · [← Back to DevOps & Infra](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-22 · [View on GitHub](https://github.com/kubernetes-sigs/azurefile-csi-driver) · [← Back to DevOps & Infra](./README.md)</sub>

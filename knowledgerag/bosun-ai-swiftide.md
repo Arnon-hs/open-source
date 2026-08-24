@@ -1,6 +1,6 @@
 # bosun-ai/swiftide
 
-[![Stars](https://img.shields.io/github/stars/bosun-ai/swiftide?style=flat-square&color=yellow)](https://github.com/bosun-ai/swiftide/stargazers) [![Forks](https://img.shields.io/github/forks/bosun-ai/swiftide?style=flat-square&color=blue)](https://github.com/bosun-ai/swiftide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bosun-ai/swiftide?style=flat-square&color=yellow)](https://github.com/bosun-ai/swiftide/stargazers) [![Forks](https://img.shields.io/github/forks/bosun-ai/swiftide?style=flat-square&color=blue)](https://github.com/bosun-ai/swiftide/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, streaming indexing, query, and agentic LLM applications in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 710 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Overall, Swiftide offers a high‑performance, Rust‑native solution for making
 | forks | 45/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

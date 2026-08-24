@@ -1,6 +1,6 @@
 # lin-snow/Ech0
 
-[![Stars](https://img.shields.io/github/stars/lin-snow/Ech0?style=flat-square&color=yellow)](https://github.com/lin-snow/Ech0/stargazers) [![Forks](https://img.shields.io/github/forks/lin-snow/Ech0?style=flat-square&color=blue)](https://github.com/lin-snow/Ech0/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lin-snow/Ech0?style=flat-square&color=yellow)](https://github.com/lin-snow/Ech0/stargazers) [![Forks](https://img.shields.io/github/forks/lin-snow/Ech0?style=flat-square&color=blue)](https://github.com/lin-snow/Ech0/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ lin-snow/Ech0: lin-snow/Ech0 helps ship user-facing interfaces with less custom 
 
 ### Русский
 
-lin-snow/Ech0: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+lin-snow/Ech0: open-source проект в категориях Frontend, Database. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ lin-snow/Ech0：lin-snow/Ech0 helps ship user-facing interfaces with less custom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 66/100 |
-| stars | 70/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

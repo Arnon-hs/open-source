@@ -1,6 +1,6 @@
 # CherryHQ/cherry-studio
 
-[![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&color=yellow)](https://github.com/CherryHQ/cherry-studio/stargazers) [![Forks](https://img.shields.io/github/forks/CherryHQ/cherry-studio?style=flat-square&color=blue)](https://github.com/CherryHQ/cherry-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square&color=yellow)](https://github.com/CherryHQ/cherry-studio/stargazers) [![Forks](https://img.shields.io/github/forks/CherryHQ/cherry-studio?style=flat-square&color=blue)](https://github.com/CherryHQ/cherry-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45.2k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CherryHQ/cherry-studio：CherryHQ/cherry-studio helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 73/100 |
+| production | 59/100 |
+| outlook | 66/100 |
 | adoption | 97/100 |
 | stars | 99/100 |
 | forks | 91/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

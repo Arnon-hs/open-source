@@ -1,6 +1,6 @@
 # jonigl/mcp-client-for-ollama
 
-[![Stars](https://img.shields.io/github/stars/jonigl/mcp-client-for-ollama?style=flat-square&color=yellow)](https://github.com/jonigl/mcp-client-for-ollama/stargazers) [![Forks](https://img.shields.io/github/forks/jonigl/mcp-client-for-ollama?style=flat-square&color=blue)](https://github.com/jonigl/mcp-client-for-ollama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonigl/mcp-client-for-ollama?style=flat-square&color=yellow)](https://github.com/jonigl/mcp-client-for-ollama/stargazers) [![Forks](https://img.shields.io/github/forks/jonigl/mcp-client-for-ollama?style=flat-square&color=blue)](https://github.com/jonigl/mcp-client-for-ollama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 698 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jonigl/mcp-client-for-ollama：jonigl/mcp-client-for-ollama helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 57/100 |
 | stars | 61/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

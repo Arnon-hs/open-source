@@ -1,6 +1,6 @@
 # distr-sh/distr
 
-[![Stars](https://img.shields.io/github/stars/distr-sh/distr?style=flat-square&color=yellow)](https://github.com/distr-sh/distr/stargazers) [![Forks](https://img.shields.io/github/forks/distr-sh/distr?style=flat-square&color=blue)](https://github.com/distr-sh/distr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/distr-sh/distr?style=flat-square&color=yellow)](https://github.com/distr-sh/distr/stargazers) [![Forks](https://img.shields.io/github/forks/distr-sh/distr?style=flat-square&color=blue)](https://github.com/distr-sh/distr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker Swarm and Helm based applications.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ distr‑sh/distr 是一款开源的控制平面，专为自托管、BYOC（自�
 | forks | 42/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

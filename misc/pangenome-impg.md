@@ -1,6 +1,6 @@
 # pangenome/impg
 
-[![Stars](https://img.shields.io/github/stars/pangenome/impg?style=flat-square&color=yellow)](https://github.com/pangenome/impg/stargazers) [![Forks](https://img.shields.io/github/forks/pangenome/impg?style=flat-square&color=blue)](https://github.com/pangenome/impg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pangenome/impg?style=flat-square&color=yellow)](https://github.com/pangenome/impg/stargazers) [![Forks](https://img.shields.io/github/forks/pangenome/impg?style=flat-square&color=blue)](https://github.com/pangenome/impg/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > implicit pangenome graph
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ pangenome/impg 是一个基于 Rust 实现的 *implicit pangenome graph* 库，�
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 35/100 |
+| quality | 38/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 66/100 |
+| production | 40/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

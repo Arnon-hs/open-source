@@ -1,6 +1,6 @@
 # tukuaiai/tradecat
 
-[![Stars](https://img.shields.io/github/stars/tukuaiai/tradecat?style=flat-square&color=yellow)](https://github.com/tukuaiai/tradecat/stargazers) [![Forks](https://img.shields.io/github/forks/tukuaiai/tradecat?style=flat-square&color=blue)](https://github.com/tukuaiai/tradecat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tukuaiai/tradecat?style=flat-square&color=yellow)](https://github.com/tukuaiai/tradecat/stargazers) [![Forks](https://img.shields.io/github/forks/tukuaiai/tradecat?style=flat-square&color=blue)](https://github.com/tukuaiai/tradecat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 交易猫数据系统
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 936 |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML
+Crypto · Trading · Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -69,16 +69,16 @@ tukuaiai/tradecat：tukuaiai/tradecat helps prototype or inspect blockchain work
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 62/100 |
-| stars | 63/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

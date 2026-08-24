@@ -1,6 +1,6 @@
 # kloudkit/ws-meta
 
-[![Stars](https://img.shields.io/github/stars/kloudkit/ws-meta?style=flat-square&color=yellow)](https://github.com/kloudkit/ws-meta/stargazers) [![Forks](https://img.shields.io/github/forks/kloudkit/ws-meta?style=flat-square&color=blue)](https://github.com/kloudkit/ws-meta/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kloudkit/ws-meta?style=flat-square&color=yellow)](https://github.com/kloudkit/ws-meta/stargazers) [![Forks](https://img.shields.io/github/forks/kloudkit/ws-meta?style=flat-square&color=blue)](https://github.com/kloudkit/ws-meta/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 📌 The central hub for Kloud Workspace planning, roadmap, and community discussions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ kloudkit/ws-meta 是 Kloud Workspace 的统一中心，聚合了产品规划、�
 | forks | 0/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

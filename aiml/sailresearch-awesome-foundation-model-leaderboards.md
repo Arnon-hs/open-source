@@ -1,6 +1,6 @@
 # SAILResearch/awesome-foundation-model-leaderboards
 
-[![Stars](https://img.shields.io/github/stars/SAILResearch/awesome-foundation-model-leaderboards?style=flat-square&color=yellow)](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/stargazers) [![Forks](https://img.shields.io/github/forks/SAILResearch/awesome-foundation-model-leaderboards?style=flat-square&color=blue)](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SAILResearch/awesome-foundation-model-leaderboards?style=flat-square&color=yellow)](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/stargazers) [![Forks](https://img.shields.io/github/forks/SAILResearch/awesome-foundation-model-leaderboards?style=flat-square&color=blue)](https://github.com/SAILResearch/awesome-foundation-model-leaderboards/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome leaderboard-oriented resources for AI domain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SAILResearch/awesome‑foundation‑model‑leaderboards — это откры
 
 ### 中文
 
-SAILResearch/awesome-foundation-model-leaderboards：SAILResearch/awesome-foundation-model-leaderboards helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SAILResearch/awesome-foundation-model-leaderboards：SAILResearch/awesome-foundation-model-leaderboards helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SAILResearch/awesome-foundation-model-leaderboards：SAILResearch/awesome-founda
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ SAILResearch/awesome-foundation-model-leaderboards：SAILResearch/awesome-founda
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 51/100 |
-| stars | 54/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

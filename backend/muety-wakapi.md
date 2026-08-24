@@ -1,6 +1,6 @@
 # muety/wakapi
 
-[![Stars](https://img.shields.io/github/stars/muety/wakapi?style=flat-square&color=yellow)](https://github.com/muety/wakapi/stargazers) [![Forks](https://img.shields.io/github/forks/muety/wakapi?style=flat-square&color=blue)](https://github.com/muety/wakapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/muety/wakapi?style=flat-square&color=yellow)](https://github.com/muety/wakapi/stargazers) [![Forks](https://img.shields.io/github/forks/muety/wakapi?style=flat-square&color=blue)](https://github.com/muety/wakapi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Product
+Backend · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ muety/wakapi 是一个轻量级、可自托管的后端服务，兼容 WakaTime 
 | forks | 61/100 |
 | stars | 77/100 |
 | topics | 88/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

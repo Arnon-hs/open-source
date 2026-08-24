@@ -1,6 +1,6 @@
 # nick7nlp/Awesome-LLM-On-Policy-Distillation
 
-[![Stars](https://img.shields.io/github/stars/nick7nlp/Awesome-LLM-On-Policy-Distillation?style=flat-square&color=yellow)](https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation/stargazers) [![Forks](https://img.shields.io/github/forks/nick7nlp/Awesome-LLM-On-Policy-Distillation?style=flat-square&color=blue)](https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nick7nlp/Awesome-LLM-On-Policy-Distillation?style=flat-square&color=yellow)](https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation/stargazers) [![Forks](https://img.shields.io/github/forks/nick7nlp/Awesome-LLM-On-Policy-Distillation?style=flat-square&color=blue)](https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of papers and resources on On-Policy Distillation for Large Language Models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ AI/ML
 | forks | 23/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Open-Source-Legal/OpenContracts
 
-[![Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=flat-square&color=yellow)](https://github.com/Open-Source-Legal/OpenContracts/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Source-Legal/OpenContracts?style=flat-square&color=blue)](https://github.com/Open-Source-Legal/OpenContracts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=flat-square&color=yellow)](https://github.com/Open-Source-Legal/OpenContracts/stargazers) [![Forks](https://img.shields.io/github/forks/Open-Source-Legal/OpenContracts?style=flat-square&color=blue)](https://github.com/Open-Source-Legal/OpenContracts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Humans and AI agents, building knowledge bases together. Self-hosted document annotation, version control, semantic search, and MCP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ Open-Source-Legal/OpenContracts：Open-Source-Legal/OpenContracts helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 61/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # DanOps-1/Gpt-Agreement-Payment
 
-[![Stars](https://img.shields.io/github/stars/DanOps-1/Gpt-Agreement-Payment?style=flat-square&color=yellow)](https://github.com/DanOps-1/Gpt-Agreement-Payment/stargazers) [![Forks](https://img.shields.io/github/forks/DanOps-1/Gpt-Agreement-Payment?style=flat-square&color=blue)](https://github.com/DanOps-1/Gpt-Agreement-Payment/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DanOps-1/Gpt-Agreement-Payment?style=flat-square&color=yellow)](https://github.com/DanOps-1/Gpt-Agreement-Payment/stargazers) [![Forks](https://img.shields.io/github/forks/DanOps-1/Gpt-Agreement-Payment?style=flat-square&color=blue)](https://github.com/DanOps-1/Gpt-Agreement-Payment/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 485 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ DanOps-1/Gpt-Agreement-Payment：DanOps-1/Gpt-Agreement-Payment helps integrate 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 66/100 |
-| stars | 65/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

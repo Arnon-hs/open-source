@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 347 |
-| 🍴 **Forks** | 94 |
+| ⭐ **Stars** | 359 |
+| 🍴 **Forks** | 96 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 44/100 |
-| 🗓️ **Last push** | — |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,82 @@ Misc
 
 ## 📝 Summary
 
-The mozsearch project is an open-source code search website developed by Mozilla, providing users with an efficient way to search and explore Mozilla's vast codebase. This platform aims to facilitate collaboration and knowledge sharing within the Mozilla community. By making the code search functionality open-source, developers can contribute to and improve the project to better serve its users.
+### English
+
+Here's a brief summary of the open-source project:
+
+Mozsearch is an open-source code search website developed by Mozilla. Its value lies in providing a useful search functionality for specific workflows, especially when its documentation and activity align with those needs. However, practical adoption requires manual inspection and validation of the setup cost before integrating it into production, making it suitable for prototypes or internal workflows with proper checks.
+
+The project's value proposition is that it may be useful in certain scenarios, but its adoption path is not straightforward due to sparse integration signals in the metadata. Therefore, it's essential to inspect the project manually before committing to it. 
+
+In terms of production readiness, Mozsearch has a medium level of readiness. It can be used for prototypes or internal workflows, but dependency and maintenance checks should be performed before deploying it in production.
+
+### Русский
+
+Резюме проекта mozsearch/mozsearch:
+
+Проект mozsearch/mozsearch представляет собой веб-сайт по поиску кода Mozilla. Он может быть полезен в конкретных сценариях, когда README и активность проекта соответствуют вашему рабочему процессу. Проект готов к внедрению в прототипы или внутренние рабочие процессы, но требует проверки зависимостей и обслуживания перед использованием в производственной среде.
+
+### 中文
+
+**项目简介**
+
+mozsearch/mozsearch 是 Mozilla 的代码搜索网站，提供了一个开源的代码搜索功能。它可以帮助开发者快速找到代码中的相关信息。
+
+**价值**
+
+mozsearch/mozsearch 的价值在于，它可以帮助开发者快速找到代码中的相关信息，节省了大量的时间和精力。它是一个非常有用的工具，特别是在需要快速找到代码中的某个特定信息时。
+
+**典型接入方式**
+
+由于项目的元数据信号较少，需要手动检查和验证接入路径。通常需要进行以下步骤：
+
+1. 阅读项目的README文件，了解其功能和接入方式。
+2. 检查项目的活动和更新情况，确保其是活跃的。
+3. 验证项目的依赖和维护情况，确保其是稳定的。
+
+**生产可用性**
+
+mozsearch/mozsearch 的生产可用性为中等。它可以用于内部工作流或原型开发，但需要进行依赖和维护的检查，确保其是稳定的。由于其接入路径不明显，需要手动检查和验证，因此不建议用于生产环境中。
+
+## 🧭 Practical evaluation
+
+**Value:** mozsearch/mozsearch may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 359 GitHub stars
+- 96 forks
+- updated 2026-07-11
+- primary language: Rust
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 50/100 |
+| stars | 54/100 |
+| topics | 0/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
+| adoption | 53/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-30 · [View on GitHub](https://github.com/mozsearch/mozsearch) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/mozsearch/mozsearch) · [← Back to Misc](./README.md)</sub>

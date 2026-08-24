@@ -1,6 +1,6 @@
 # directvt/vtm
 
-[![Stars](https://img.shields.io/github/stars/directvt/vtm?style=flat-square&color=yellow)](https://github.com/directvt/vtm/stargazers) [![Forks](https://img.shields.io/github/forks/directvt/vtm?style=flat-square&color=blue)](https://github.com/directvt/vtm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/directvt/vtm?style=flat-square&color=yellow)](https://github.com/directvt/vtm/stargazers) [![Forks](https://img.shields.io/github/forks/directvt/vtm?style=flat-square&color=blue)](https://github.com/directvt/vtm/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Text-based desktop environment
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Frontend
 
 ### English
 
-directvt/vtm: directvt/vtm helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+directvt/vtm: directvt/vtm helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-directvt/vtm: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+directvt/vtm: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-directvt/vtm：directvt/vtm helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+directvt/vtm：directvt/vtm helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ directvt/vtm：directvt/vtm helps ship user-facing interfaces with less custom U
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ directvt/vtm：directvt/vtm helps ship user-facing interfaces with less custom U
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 67/100 |
 | stars | 75/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

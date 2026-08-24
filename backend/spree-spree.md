@@ -1,6 +1,6 @@
 # spree/spree
 
-[![Stars](https://img.shields.io/github/stars/spree/spree?style=flat-square&color=yellow)](https://github.com/spree/spree/stargazers) [![Forks](https://img.shields.io/github/forks/spree/spree?style=flat-square&color=blue)](https://github.com/spree/spree/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spree/spree?style=flat-square&color=yellow)](https://github.com/spree/spree/stargazers) [![Forks](https://img.shields.io/github/forks/spree/spree?style=flat-square&color=blue)](https://github.com/spree/spree/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source headless eCommerce platform with REST API, TypeScript SDK, and Next.js storefront for cross-border, B2B or marketplace eCommerce.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.4k |
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ spree/spree：spree/spree helps teams reuse service infrastructure instead of re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 81/100 |
-| integration | 78/100 |
-| production | 67/100 |
-| outlook | 75/100 |
-| adoption | 90/100 |
-| stars | 89/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

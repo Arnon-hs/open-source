@@ -1,6 +1,6 @@
 # DemonDamon/AgenticX
 
-[![Stars](https://img.shields.io/github/stars/DemonDamon/AgenticX?style=flat-square&color=yellow)](https://github.com/DemonDamon/AgenticX/stargazers) [![Forks](https://img.shields.io/github/forks/DemonDamon/AgenticX?style=flat-square&color=blue)](https://github.com/DemonDamon/AgenticX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DemonDamon/AgenticX?style=flat-square&color=yellow)](https://github.com/DemonDamon/AgenticX/stargazers) [![Forks](https://img.shields.io/github/forks/DemonDamon/AgenticX?style=flat-square&color=blue)](https://github.com/DemonDamon/AgenticX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop app. Features Meta-Agent orchestration, 15+ LLM providers, MCP Hub, hierarchical memory, avatar & group chat, skill ecosystem, safety sandbox, and IM gateway (Feishu/WeChat).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 117 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -67,16 +67,16 @@ DemonDamon/AgenticX：DemonDamon/AgenticX helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 58/100 |
-| integration | 100/100 |
-| production | 62/100 |
-| outlook | 64/100 |
-| adoption | 40/100 |
-| stars | 44/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---

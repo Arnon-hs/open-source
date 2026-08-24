@@ -1,6 +1,6 @@
 # Intelligent-Internet/zenith
 
-[![Stars](https://img.shields.io/github/stars/Intelligent-Internet/zenith?style=flat-square&color=yellow)](https://github.com/Intelligent-Internet/zenith/stargazers) [![Forks](https://img.shields.io/github/forks/Intelligent-Internet/zenith?style=flat-square&color=blue)](https://github.com/Intelligent-Internet/zenith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Intelligent-Internet/zenith?style=flat-square&color=yellow)](https://github.com/Intelligent-Internet/zenith/stargazers) [![Forks](https://img.shields.io/github/forks/Intelligent-Internet/zenith?style=flat-square&color=blue)](https://github.com/Intelligent-Internet/zenith/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Zenith — a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP. Includes the 'From RALPH to Zenith' technical report.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · DevTools
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Zenith 是一款面向长期运行任务的持续改进框架，能够把 Claude
 | forks | 34/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dresden-elektronik/deconz-rest-plugin
 
-[![Stars](https://img.shields.io/github/stars/dresden-elektronik/deconz-rest-plugin?style=flat-square&color=yellow)](https://github.com/dresden-elektronik/deconz-rest-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/dresden-elektronik/deconz-rest-plugin?style=flat-square&color=blue)](https://github.com/dresden-elektronik/deconz-rest-plugin/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dresden-elektronik/deconz-rest-plugin?style=flat-square&color=yellow)](https://github.com/dresden-elektronik/deconz-rest-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/dresden-elektronik/deconz-rest-plugin?style=flat-square&color=blue)](https://github.com/dresden-elektronik/deconz-rest-plugin/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > deCONZ REST-API plugin to control ZigBee devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 526 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dresden-elektronik/deconz-rest-plugin：dresden-elektronik/deconz-rest-plugin he
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 69/100 |
 | stars | 70/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

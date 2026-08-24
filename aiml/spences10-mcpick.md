@@ -1,6 +1,6 @@
 # spences10/mcpick
 
-[![Stars](https://img.shields.io/github/stars/spences10/mcpick?style=flat-square&color=yellow)](https://github.com/spences10/mcpick/stargazers) [![Forks](https://img.shields.io/github/forks/spences10/mcpick?style=flat-square&color=blue)](https://github.com/spences10/mcpick/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spences10/mcpick?style=flat-square&color=yellow)](https://github.com/spences10/mcpick/stargazers) [![Forks](https://img.shields.io/github/forks/spences10/mcpick?style=flat-square&color=blue)](https://github.com/spences10/mcpick/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code extension manager — MCP servers, plugins (skills, hooks, agents), and marketplaces
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ spences10/mcpick：spences10/mcpick helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 94/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 37/100 |
 | stars | 41/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

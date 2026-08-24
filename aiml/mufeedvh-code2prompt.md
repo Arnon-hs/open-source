@@ -1,6 +1,6 @@
 # mufeedvh/code2prompt
 
-[![Stars](https://img.shields.io/github/stars/mufeedvh/code2prompt?style=flat-square&color=yellow)](https://github.com/mufeedvh/code2prompt/stargazers) [![Forks](https://img.shields.io/github/forks/mufeedvh/code2prompt?style=flat-square&color=blue)](https://github.com/mufeedvh/code2prompt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mufeedvh/code2prompt?style=flat-square&color=yellow)](https://github.com/mufeedvh/code2prompt/stargazers) [![Forks](https://img.shields.io/github/forks/mufeedvh/code2prompt?style=flat-square&color=blue)](https://github.com/mufeedvh/code2prompt/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 426 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ mufeedvh/code2prompt 是一款基于 Rust 实现的 CLI 工具，能够将整个
 | forks | 66/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

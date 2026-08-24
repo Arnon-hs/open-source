@@ -1,6 +1,6 @@
 # xpf0000/FlyEnv
 
-[![Stars](https://img.shields.io/github/stars/xpf0000/FlyEnv?style=flat-square&color=yellow)](https://github.com/xpf0000/FlyEnv/stargazers) [![Forks](https://img.shields.io/github/forks/xpf0000/FlyEnv?style=flat-square&color=blue)](https://github.com/xpf0000/FlyEnv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xpf0000/FlyEnv?style=flat-square&color=yellow)](https://github.com/xpf0000/FlyEnv/stargazers) [![Forks](https://img.shields.io/github/forks/xpf0000/FlyEnv?style=flat-square&color=blue)](https://github.com/xpf0000/FlyEnv/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run  Hermes Agent/OpenClaw/n8n/Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 278 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ xpf0000/FlyEnv：xpf0000/FlyEnv helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 94/100 |
-| production | 66/100 |
-| outlook | 69/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

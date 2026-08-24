@@ -1,6 +1,6 @@
 # apache/opendal-reqsign
 
-[![Stars](https://img.shields.io/github/stars/apache/opendal-reqsign?style=flat-square&color=yellow)](https://github.com/apache/opendal-reqsign/stargazers) [![Forks](https://img.shields.io/github/forks/apache/opendal-reqsign?style=flat-square&color=blue)](https://github.com/apache/opendal-reqsign/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/opendal-reqsign?style=flat-square&color=yellow)](https://github.com/apache/opendal-reqsign/stargazers) [![Forks](https://img.shields.io/github/forks/apache/opendal-reqsign?style=flat-square&color=blue)](https://github.com/apache/opendal-reqsign/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Signing HTTP requests without heavy SDKs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ Apache OpenDAL-ReqSign
 | forks | 46/100 |
 | stars | 47/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

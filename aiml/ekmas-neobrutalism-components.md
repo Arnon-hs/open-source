@@ -1,6 +1,6 @@
 # ekmas/neobrutalism-components
 
-[![Stars](https://img.shields.io/github/stars/ekmas/neobrutalism-components?style=flat-square&color=yellow)](https://github.com/ekmas/neobrutalism-components/stargazers) [![Forks](https://img.shields.io/github/forks/ekmas/neobrutalism-components?style=flat-square&color=blue)](https://github.com/ekmas/neobrutalism-components/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ekmas/neobrutalism-components?style=flat-square&color=yellow)](https://github.com/ekmas/neobrutalism-components/stargazers) [![Forks](https://img.shields.io/github/forks/ekmas/neobrutalism-components?style=flat-square&color=blue)](https://github.com/ekmas/neobrutalism-components/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of neobrutalism-styled Tailwind components.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ekmas/neobrutalism-components：ekmas/neobrutalism-components helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 73/100 |
 | stars | 79/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

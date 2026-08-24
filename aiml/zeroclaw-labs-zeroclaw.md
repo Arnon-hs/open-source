@@ -1,6 +1,6 @@
 # zeroclaw-labs/zeroclaw
 
-[![Stars](https://img.shields.io/github/stars/zeroclaw-labs/zeroclaw?style=flat-square&color=yellow)](https://github.com/zeroclaw-labs/zeroclaw/stargazers) [![Forks](https://img.shields.io/github/forks/zeroclaw-labs/zeroclaw?style=flat-square&color=blue)](https://github.com/zeroclaw-labs/zeroclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeroclaw-labs/zeroclaw?style=flat-square&color=yellow)](https://github.com/zeroclaw-labs/zeroclaw/stargazers) [![Forks](https://img.shields.io/github/forks/zeroclaw-labs/zeroclaw?style=flat-square&color=blue)](https://github.com/zeroclaw-labs/zeroclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.1k |
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zeroclaw-labs/zeroclaw：zeroclaw-labs/zeroclaw helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 62/100 |
 | adoption | 94/100 |
 | stars | 96/100 |
 | forks | 92/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # pallets-eco/flask-admin
 
-[![Stars](https://img.shields.io/github/stars/pallets-eco/flask-admin?style=flat-square&color=yellow)](https://github.com/pallets-eco/flask-admin/stargazers) [![Forks](https://img.shields.io/github/forks/pallets-eco/flask-admin?style=flat-square&color=blue)](https://github.com/pallets-eco/flask-admin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pallets-eco/flask-admin?style=flat-square&color=yellow)](https://github.com/pallets-eco/flask-admin/stargazers) [![Forks](https://img.shields.io/github/forks/pallets-eco/flask-admin?style=flat-square&color=blue)](https://github.com/pallets-eco/flask-admin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Simple and extensible administrative interface framework for Flask
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ pallets-eco/flask‑admin 是一个为 Flask 提供的 **简洁且可扩展的�
 | forks | 80/100 |
 | stars | 80/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 80/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

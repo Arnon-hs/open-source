@@ -1,6 +1,6 @@
 # CarterPerez-dev/Cybersecurity-Projects
 
-[![Stars](https://img.shields.io/github/stars/CarterPerez-dev/Cybersecurity-Projects?style=flat-square&color=yellow)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/stargazers) [![Forks](https://img.shields.io/github/forks/CarterPerez-dev/Cybersecurity-Projects?style=flat-square&color=blue)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CarterPerez-dev/Cybersecurity-Projects?style=flat-square&color=yellow)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/stargazers) [![Forks](https://img.shields.io/github/forks/CarterPerez-dev/Cybersecurity-Projects?style=flat-square&color=blue)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 532 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Security · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ CarterPerez-dev/Cybersecurity-Projects的价值在于它可以帮助开发者添
 | forks | 68/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # semantica-agi/semantica
 
-[![Stars](https://img.shields.io/github/stars/semantica-agi/semantica?style=flat-square&color=yellow)](https://github.com/semantica-agi/semantica/stargazers) [![Forks](https://img.shields.io/github/forks/semantica-agi/semantica?style=flat-square&color=blue)](https://github.com/semantica-agi/semantica/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/semantica-agi/semantica?style=flat-square&color=yellow)](https://github.com/semantica-agi/semantica/stargazers) [![Forks](https://img.shields.io/github/forks/semantica-agi/semantica?style=flat-square&color=blue)](https://github.com/semantica-agi/semantica/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Semantica 🧠 • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Frontend · DevTools
+Orchestration · Knowledge/RAG · AI/ML · DevTools · Data
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Semantica 🧠（`semantica-agi/semantica`）是一套面向生产环境的 AI �
 | forks | 57/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

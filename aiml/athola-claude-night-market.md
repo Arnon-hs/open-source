@@ -1,6 +1,6 @@
 # athola/claude-night-market
 
-[![Stars](https://img.shields.io/github/stars/athola/claude-night-market?style=flat-square&color=yellow)](https://github.com/athola/claude-night-market/stargazers) [![Forks](https://img.shields.io/github/forks/athola/claude-night-market?style=flat-square&color=blue)](https://github.com/athola/claude-night-market/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/athola/claude-night-market?style=flat-square&color=yellow)](https://github.com/athola/claude-night-market/stargazers) [![Forks](https://img.shields.io/github/forks/athola/claude-night-market?style=flat-square&color=blue)](https://github.com/athola/claude-night-market/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 19 production-ready Claude Code plugins: git workflows, code review, spec-driven development, architecture patterns, resource optimization, and multi-LLM delegation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 273 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ athola/claude-night-market：athola/claude-night-market helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 47/100 |
 | stars | 52/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

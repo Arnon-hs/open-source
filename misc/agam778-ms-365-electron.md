@@ -1,6 +1,6 @@
 # agam778/MS-365-Electron
 
-[![Stars](https://img.shields.io/github/stars/agam778/MS-365-Electron?style=flat-square&color=yellow)](https://github.com/agam778/MS-365-Electron/stargazers) [![Forks](https://img.shields.io/github/forks/agam778/MS-365-Electron?style=flat-square&color=blue)](https://github.com/agam778/MS-365-Electron/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agam778/MS-365-Electron?style=flat-square&color=yellow)](https://github.com/agam778/MS-365-Electron/stargazers) [![Forks](https://img.shields.io/github/forks/agam778/MS-365-Electron?style=flat-square&color=blue)](https://github.com/agam778/MS-365-Electron/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Microsoft 365 Web Desktop Wrapper made with Electron
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 324 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Misc
 | forks | 37/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

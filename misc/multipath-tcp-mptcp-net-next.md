@@ -1,6 +1,6 @@
 # multipath-tcp/mptcp_net-next
 
-[![Stars](https://img.shields.io/github/stars/multipath-tcp/mptcp_net-next?style=flat-square&color=yellow)](https://github.com/multipath-tcp/mptcp_net-next/stargazers) [![Forks](https://img.shields.io/github/forks/multipath-tcp/mptcp_net-next?style=flat-square&color=blue)](https://github.com/multipath-tcp/mptcp_net-next/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/multipath-tcp/mptcp_net-next?style=flat-square&color=yellow)](https://github.com/multipath-tcp/mptcp_net-next/stargazers) [![Forks](https://img.shields.io/github/forks/multipath-tcp/mptcp_net-next?style=flat-square&color=blue)](https://github.com/multipath-tcp/mptcp_net-next/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Development version of the Upstream MultiPath TCP Linux kernel 🐧
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 400 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ MPTCP extends standard TCP by transparently splitting traffic across several int
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

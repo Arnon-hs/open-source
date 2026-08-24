@@ -1,6 +1,6 @@
 # RunanywhereAI/runanywhere-sdks
 
-[![Stars](https://img.shields.io/github/stars/RunanywhereAI/runanywhere-sdks?style=flat-square&color=yellow)](https://github.com/RunanywhereAI/runanywhere-sdks/stargazers) [![Forks](https://img.shields.io/github/forks/RunanywhereAI/runanywhere-sdks?style=flat-square&color=blue)](https://github.com/RunanywhereAI/runanywhere-sdks/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RunanywhereAI/runanywhere-sdks?style=flat-square&color=yellow)](https://github.com/RunanywhereAI/runanywhere-sdks/stargazers) [![Forks](https://img.shields.io/github/forks/RunanywhereAI/runanywhere-sdks?style=flat-square&color=blue)](https://github.com/RunanywhereAI/runanywhere-sdks/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Production ready toolkit to run AI locally
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Mobile · Product
+AI/ML · Frontend · Mobile
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ RunanywhereAI/runanywhere‑sdks 是一个面向生产环境的开源工具箱�
 | forks | 64/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # deeleeramone/PyWry
 
-[![Stars](https://img.shields.io/github/stars/deeleeramone/PyWry?style=flat-square&color=yellow)](https://github.com/deeleeramone/PyWry/stargazers) [![Forks](https://img.shields.io/github/forks/deeleeramone/PyWry?style=flat-square&color=blue)](https://github.com/deeleeramone/PyWry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deeleeramone/PyWry?style=flat-square&color=yellow)](https://github.com/deeleeramone/PyWry/stargazers) [![Forks](https://img.shields.io/github/forks/deeleeramone/PyWry?style=flat-square&color=blue)](https://github.com/deeleeramone/PyWry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > PyWry is a cross-platform app factory, rendering engine and UI toolkit for Python that produces native desktop, web, and notebook experiences from a single API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ deeleeramone/PyWry：deeleeramone/PyWry helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 55/100 |
-| integration | 94/100 |
-| production | 60/100 |
-| outlook | 62/100 |
-| adoption | 33/100 |
-| stars | 39/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 39/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

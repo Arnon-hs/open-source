@@ -1,6 +1,6 @@
 # MatsDK/TauRPC
 
-[![Stars](https://img.shields.io/github/stars/MatsDK/TauRPC?style=flat-square&color=yellow)](https://github.com/MatsDK/TauRPC/stargazers) [![Forks](https://img.shields.io/github/forks/MatsDK/TauRPC?style=flat-square&color=blue)](https://github.com/MatsDK/TauRPC/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MatsDK/TauRPC?style=flat-square&color=yellow)](https://github.com/MatsDK/TauRPC/stargazers) [![Forks](https://img.shields.io/github/forks/MatsDK/TauRPC?style=flat-square&color=blue)](https://github.com/MatsDK/TauRPC/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Typesafe IPC layer for Tauri applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 326 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ MatsDK/TauRPC 是为 Tauri 桌面应用提供的 **类型安全（Typesafe）进
 | forks | 31/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # trycompai/comp
 
-[![Stars](https://img.shields.io/github/stars/trycompai/comp?style=flat-square&color=yellow)](https://github.com/trycompai/comp/stargazers) [![Forks](https://img.shields.io/github/forks/trycompai/comp?style=flat-square&color=blue)](https://github.com/trycompai/comp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trycompai/comp?style=flat-square&color=yellow)](https://github.com/trycompai/comp/stargazers) [![Forks](https://img.shields.io/github/forks/trycompai/comp?style=flat-square&color=blue)](https://github.com/trycompai/comp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AI Native platform to get companies compliant - Vanta & Drata Alternative
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 308 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ trycompai/comp 是一个面向企业的 AI 原生合规平台，提供类似 Van
 | forks | 62/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 66/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

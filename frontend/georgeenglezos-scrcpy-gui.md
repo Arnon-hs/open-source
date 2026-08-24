@@ -1,6 +1,6 @@
 # GeorgeEnglezos/Scrcpy-GUI
 
-[![Stars](https://img.shields.io/github/stars/GeorgeEnglezos/Scrcpy-GUI?style=flat-square&color=yellow)](https://github.com/GeorgeEnglezos/Scrcpy-GUI/stargazers) [![Forks](https://img.shields.io/github/forks/GeorgeEnglezos/Scrcpy-GUI?style=flat-square&color=blue)](https://github.com/GeorgeEnglezos/Scrcpy-GUI/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GeorgeEnglezos/Scrcpy-GUI?style=flat-square&color=yellow)](https://github.com/GeorgeEnglezos/Scrcpy-GUI/stargazers) [![Forks](https://img.shields.io/github/forks/GeorgeEnglezos/Scrcpy-GUI?style=flat-square&color=blue)](https://github.com/GeorgeEnglezos/Scrcpy-GUI/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > An unofficial beginner-friendly user interface for the Scrcpy Project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 321 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GeorgeEnglezos/Scrcpy‑GUI — это неофициальный, ориен�
 
 ### 中文
 
-GeorgeEnglezos/Scrcpy-GUI：GeorgeEnglezos/Scrcpy-GUI helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+GeorgeEnglezos/Scrcpy-GUI：GeorgeEnglezos/Scrcpy-GUI helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ GeorgeEnglezos/Scrcpy-GUI：GeorgeEnglezos/Scrcpy-GUI helps ship user-facing int
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ GeorgeEnglezos/Scrcpy-GUI：GeorgeEnglezos/Scrcpy-GUI helps ship user-facing int
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 47/100 |
-| stars | 53/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # github/awesome-copilot
 
-[![Stars](https://img.shields.io/github/stars/github/awesome-copilot?style=flat-square&color=yellow)](https://github.com/github/awesome-copilot/stargazers) [![Forks](https://img.shields.io/github/forks/github/awesome-copilot?style=flat-square&color=blue)](https://github.com/github/awesome-copilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/awesome-copilot?style=flat-square&color=yellow)](https://github.com/github/awesome-copilot/stargazers) [![Forks](https://img.shields.io/github/forks/github/awesome-copilot?style=flat-square&color=blue)](https://github.com/github/awesome-copilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.4k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ github/awesome-copilot：github/awesome-copilot helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 82/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 69/100 |
-| adoption | 94/100 |
-| stars | 96/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

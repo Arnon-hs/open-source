@@ -1,6 +1,6 @@
 # mindersec/minder
 
-[![Stars](https://img.shields.io/github/stars/mindersec/minder?style=flat-square&color=yellow)](https://github.com/mindersec/minder/stargazers) [![Forks](https://img.shields.io/github/forks/mindersec/minder?style=flat-square&color=blue)](https://github.com/mindersec/minder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mindersec/minder?style=flat-square&color=yellow)](https://github.com/mindersec/minder/stargazers) [![Forks](https://img.shields.io/github/forks/mindersec/minder?style=flat-square&color=blue)](https://github.com/mindersec/minder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Software Supply Chain Security Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mindersec/minder is an open‑source platform designed to secure the software su
 
 ### 中文
 
-mindersec/minder：mindersec/minder helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mindersec/minder：mindersec/minder helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mindersec/minder：mindersec/minder helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mindersec/minder：mindersec/minder helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 47/100 |
+| outlook | 44/100 |
 | adoption | 54/100 |
 | stars | 55/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

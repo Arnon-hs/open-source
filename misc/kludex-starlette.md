@@ -1,6 +1,6 @@
 # Kludex/starlette
 
-[![Stars](https://img.shields.io/github/stars/Kludex/starlette?style=flat-square&color=yellow)](https://github.com/Kludex/starlette/stargazers) [![Forks](https://img.shields.io/github/forks/Kludex/starlette?style=flat-square&color=blue)](https://github.com/Kludex/starlette/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kludex/starlette?style=flat-square&color=yellow)](https://github.com/Kludex/starlette/stargazers) [![Forks](https://img.shields.io/github/forks/Kludex/starlette?style=flat-square&color=blue)](https://github.com/Kludex/starlette/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The little ASGI framework that shines. 🌟
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Kludex/starlette 具有高生产可用性，适合用于 serious pilot。其最�
 | forks | 77/100 |
 | stars | 87/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 84/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

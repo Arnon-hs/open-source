@@ -1,0 +1,82 @@
+# The-OpenROAD-Project/OpenROAD
+
+[![Stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD?style=flat-square&color=yellow)](https://github.com/The-OpenROAD-Project/OpenROAD/stargazers) [![Forks](https://img.shields.io/github/forks/The-OpenROAD-Project/OpenROAD?style=flat-square&color=blue)](https://github.com/The-OpenROAD-Project/OpenROAD/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+
+> OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2.7k |
+| 🍴 **Forks** | 880 |
+| 💻 **Language** | Verilog |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-05-07 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cpp` `def` `eda` `gdsii` `lef` `opendb-database` `openroad` `rtl` `tcl` `timing-analysis` `verilog`
+
+## 🎯 Categories
+
+Database
+
+## 📝 Summary
+
+### English
+
+The-OpenROAD-Project/OpenROAD: The-OpenROAD-Project/OpenROAD helps teams persist, query, and move data with less custom plumbing.. Use it for manage persistence; speed up data access. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+The-OpenROAD-Project/OpenROAD: open-source проект в категориях Database. Практическое применение: manage persistence; speed up data access. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+The-OpenROAD-Project/OpenROAD：The-OpenROAD-Project/OpenROAD helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** The-OpenROAD-Project/OpenROAD helps teams persist, query, and move data with less custom plumbing.
+
+**Best use cases**
+
+- manage persistence
+- speed up data access
+- prototype database-backed apps
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 2654 GitHub stars
+- 880 forks
+- updated 2026-05-07
+- primary language: Verilog
+- 11 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 74/100 |
+| stars | 73/100 |
+| topics | 100/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/The-OpenROAD-Project/OpenROAD) · [← Back to Database](./README.md)</sub>

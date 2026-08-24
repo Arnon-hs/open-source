@@ -1,6 +1,6 @@
 # statelyai/xstate
 
-[![Stars](https://img.shields.io/github/stars/statelyai/xstate?style=flat-square&color=yellow)](https://github.com/statelyai/xstate/stargazers) [![Forks](https://img.shields.io/github/forks/statelyai/xstate?style=flat-square&color=blue)](https://github.com/statelyai/xstate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/statelyai/xstate?style=flat-square&color=yellow)](https://github.com/statelyai/xstate/stargazers) [![Forks](https://img.shields.io/github/forks/statelyai/xstate?style=flat-square&color=blue)](https://github.com/statelyai/xstate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > State machines, statecharts, and actors for complex logic
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29.7k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · Automation
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ statelyai/xstate 是一个基于 TypeScript 的状态机/状态图（statecharts
 | forks | 78/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 90/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

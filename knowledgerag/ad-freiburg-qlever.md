@@ -1,6 +1,6 @@
 # ad-freiburg/qlever
 
-[![Stars](https://img.shields.io/github/stars/ad-freiburg/qlever?style=flat-square&color=yellow)](https://github.com/ad-freiburg/qlever/stargazers) [![Forks](https://img.shields.io/github/forks/ad-freiburg/qlever?style=flat-square&color=blue)](https://github.com/ad-freiburg/qlever/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ad-freiburg/qlever?style=flat-square&color=yellow)](https://github.com/ad-freiburg/qlever/stargazers) [![Forks](https://img.shields.io/github/forks/ad-freiburg/qlever?style=flat-square&color=blue)](https://github.com/ad-freiburg/qlever/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Graph database implementing the RDF and SPARQL standards. Very fast and scales to more than a trillion triples on a single commodity machine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 857 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Data · Database
+Knowledge/RAG · Database
 
 ## 📝 Summary
 
@@ -121,14 +121,15 @@ ad-freiburg/qlever 帮助内部知识变得可搜索和可用给助手使用。�
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

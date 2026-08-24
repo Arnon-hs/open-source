@@ -1,6 +1,6 @@
 # vbem/multi-runners
 
-[![Stars](https://img.shields.io/github/stars/vbem/multi-runners?style=flat-square&color=yellow)](https://github.com/vbem/multi-runners/stargazers) [![Forks](https://img.shields.io/github/forks/vbem/multi-runners?style=flat-square&color=blue)](https://github.com/vbem/multi-runners/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vbem/multi-runners?style=flat-square&color=yellow)](https://github.com/vbem/multi-runners/stargazers) [![Forks](https://img.shields.io/github/forks/vbem/multi-runners?style=flat-square&color=blue)](https://github.com/vbem/multi-runners/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Multi self-hosted runners on single host!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 252 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Misc
 | forks | 36/100 |
 | stars | 51/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 69/100 |
+| production | 42/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

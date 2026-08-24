@@ -1,6 +1,6 @@
 # chopratejas/headroom
 
-[![Stars](https://img.shields.io/github/stars/chopratejas/headroom?style=flat-square&color=yellow)](https://github.com/chopratejas/headroom/stargazers) [![Forks](https://img.shields.io/github/forks/chopratejas/headroom?style=flat-square&color=blue)](https://github.com/chopratejas/headroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chopratejas/headroom?style=flat-square&color=yellow)](https://github.com/chopratejas/headroom/stargazers) [![Forks](https://img.shields.io/github/forks/chopratejas/headroom?style=flat-square&color=blue)](https://github.com/chopratejas/headroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > The Context Optimization Layer for LLM Applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ chopratejas/headroom: chopratejas/headroom helps turn isolated prompts and tools
 
 ### Русский
 
-chopratejas/headroom: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+chopratejas/headroom: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ chopratejas/headroom：chopratejas/headroom helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 69/100 |
-| integration | 78/100 |
-| production | 63/100 |
-| outlook | 70/100 |
-| adoption | 65/100 |
-| stars | 69/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

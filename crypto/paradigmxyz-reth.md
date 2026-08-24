@@ -1,6 +1,6 @@
 # paradigmxyz/reth
 
-[![Stars](https://img.shields.io/github/stars/paradigmxyz/reth?style=flat-square&color=yellow)](https://github.com/paradigmxyz/reth/stargazers) [![Forks](https://img.shields.io/github/forks/paradigmxyz/reth?style=flat-square&color=blue)](https://github.com/paradigmxyz/reth/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paradigmxyz/reth?style=flat-square&color=yellow)](https://github.com/paradigmxyz/reth/stargazers) [![Forks](https://img.shields.io/github/forks/paradigmxyz/reth?style=flat-square&color=blue)](https://github.com/paradigmxyz/reth/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ paradigmxyz/reth: paradigmxyz/reth helps prototype or inspect blockchain workflo
 
 ### Русский
 
-paradigmxyz/reth: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+paradigmxyz/reth: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ paradigmxyz/reth：paradigmxyz/reth helps prototype or inspect blockchain workfl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 81/100 |
-| stars | 80/100 |
 | forks | 85/100 |
-| recency | 40/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

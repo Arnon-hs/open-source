@@ -1,0 +1,81 @@
+# chinawsb/delphi-complier-mcp-server
+
+[![Stars](https://img.shields.io/github/stars/chinawsb/delphi-complier-mcp-server?style=flat-square&color=yellow)](https://github.com/chinawsb/delphi-complier-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/chinawsb/delphi-complier-mcp-server?style=flat-square&color=blue)](https://github.com/chinawsb/delphi-complier-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> Delphi Complier MCP Server for AI agent, Used for compile project and file to check ai code result.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 47 |
+| 🍴 **Forks** | 12 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+MCP · AI/ML
+
+## 📝 Summary
+
+### English
+
+Delphi Complier MCP Server is an open‑source backend service that enables AI agents to compile Delphi projects and files on demand, returning detailed compilation results for code‑verification and debugging. It provides a simple API for submitting source code, triggering the Delphi compiler, and retrieving success logs, error messages, and diagnostics, making it a useful tool for AI‑driven development workflows.
+
+### Русский
+
+Delphi Complier MCP Server — это открытый backend‑сервис для AI‑агентов, позволяющий автоматически компилировать проекты и отдельные файлы, а также проверять результаты работы кода, сгенерированного искусственным интеллектом. Сервис интегрируется в пайплайны машинного обучения и упрощает процесс верификации и отладки AI‑созданных Delphi‑программ. Он написан с учётом масштабируемости и легко разворачивается в контейнерах.
+
+### 中文
+
+chinawsb/delphi-complier-mcp-server：chinawsb/delphi-complier-mcp-server helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** chinawsb/delphi-complier-mcp-server helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 47 GitHub stars
+- 12 forks
+- updated 2026-05-09
+- primary language: Python
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 28/100 |
+| stars | 36/100 |
+| topics | 0/100 |
+| outlook | 40/100 |
+| quality | 35/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/chinawsb/delphi-complier-mcp-server) · [← Back to Mcp](./README.md)</sub>

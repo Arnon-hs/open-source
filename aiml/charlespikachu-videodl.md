@@ -1,6 +1,6 @@
 # CharlesPikachu/videodl
 
-[![Stars](https://img.shields.io/github/stars/CharlesPikachu/videodl?style=flat-square&color=yellow)](https://github.com/CharlesPikachu/videodl/stargazers) [![Forks](https://img.shields.io/github/forks/CharlesPikachu/videodl?style=flat-square&color=blue)](https://github.com/CharlesPikachu/videodl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CharlesPikachu/videodl?style=flat-square&color=yellow)](https://github.com/CharlesPikachu/videodl/stargazers) [![Forks](https://img.shields.io/github/forks/CharlesPikachu/videodl?style=flat-square&color=blue)](https://github.com/CharlesPikachu/videodl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Videodl: A lightweight video downloader written in pure python. (轻量级视频下载器，优先高清无水印，支持抖音，快手，小红书，B站，TikTok，YouTube，FIFA+，优酷，腾讯，爱奇艺，1905电影网，乐视，芒果，咪咕，PPTV，搜狐，Facebook，Twitter，新浪微博，今日头条，网易公开课，全民K歌，CCTV央视频，酷狗音乐MV，新片场，知乎，百度贴吧，TED等海量流媒体平台)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 325 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CharlesPikachu/videodl：CharlesPikachu/videodl helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 67/100 |
 | stars | 69/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

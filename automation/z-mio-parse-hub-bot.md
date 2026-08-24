@@ -1,6 +1,6 @@
 # z-mio/parse_hub_bot
 
-[![Stars](https://img.shields.io/github/stars/z-mio/parse_hub_bot?style=flat-square&color=yellow)](https://github.com/z-mio/parse_hub_bot/stargazers) [![Forks](https://img.shields.io/github/forks/z-mio/parse_hub_bot?style=flat-square&color=blue)](https://github.com/z-mio/parse_hub_bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/z-mio/parse_hub_bot?style=flat-square&color=yellow)](https://github.com/z-mio/parse_hub_bot/stargazers) [![Forks](https://img.shields.io/github/forks/z-mio/parse_hub_bot?style=flat-square&color=blue)](https://github.com/z-mio/parse_hub_bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Telegram 多平台聚合解析机器人
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 532 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ z-mio/parse_hub_bot 的生产可用性为中等（Medium），适合用于原型
 | forks | 42/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

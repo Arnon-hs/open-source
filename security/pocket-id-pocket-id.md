@@ -1,6 +1,6 @@
 # pocket-id/pocket-id
 
-[![Stars](https://img.shields.io/github/stars/pocket-id/pocket-id?style=flat-square&color=yellow)](https://github.com/pocket-id/pocket-id/stargazers) [![Forks](https://img.shields.io/github/forks/pocket-id/pocket-id?style=flat-square&color=blue)](https://github.com/pocket-id/pocket-id/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pocket-id/pocket-id?style=flat-square&color=yellow)](https://github.com/pocket-id/pocket-id/stargazers) [![Forks](https://img.shields.io/github/forks/pocket-id/pocket-id?style=flat-square&color=blue)](https://github.com/pocket-id/pocket-id/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pocket-id/pocket-id：pocket-id/pocket-id helps catch security and privacy issue
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 76/100 |
 | stars | 83/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

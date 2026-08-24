@@ -1,6 +1,6 @@
 # opengeos/GeoAgent
 
-[![Stars](https://img.shields.io/github/stars/opengeos/GeoAgent?style=flat-square&color=yellow)](https://github.com/opengeos/GeoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/GeoAgent?style=flat-square&color=blue)](https://github.com/opengeos/GeoAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opengeos/GeoAgent?style=flat-square&color=yellow)](https://github.com/opengeos/GeoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/GeoAgent?style=flat-square&color=blue)](https://github.com/opengeos/GeoAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A multimodal AI agent for geospatial data analysis and interactive visualization
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Opengeos/GeoAgent — мульти‑модальный AI‑агент, п�
 
 ### 中文
 
-opengeos/GeoAgent：opengeos/GeoAgent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+opengeos/GeoAgent：opengeos/GeoAgent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ opengeos/GeoAgent：opengeos/GeoAgent helps add AI capability without starting f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ opengeos/GeoAgent：opengeos/GeoAgent helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 55/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| stars | 52/100 |
 | topics | 75/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

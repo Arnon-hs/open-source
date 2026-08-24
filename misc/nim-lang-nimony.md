@@ -1,6 +1,6 @@
 # nim-lang/nimony
 
-[![Stars](https://img.shields.io/github/stars/nim-lang/nimony?style=flat-square&color=yellow)](https://github.com/nim-lang/nimony/stargazers) [![Forks](https://img.shields.io/github/forks/nim-lang/nimony?style=flat-square&color=blue)](https://github.com/nim-lang/nimony/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nim-lang/nimony?style=flat-square&color=yellow)](https://github.com/nim-lang/nimony/stargazers) [![Forks](https://img.shields.io/github/forks/nim-lang/nimony?style=flat-square&color=blue)](https://github.com/nim-lang/nimony/network) [![Language](https://img.shields.io/badge/lang-Nim-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Nimony is a new Nim implementation that is in heavy development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Nim |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Nimony 是 Nim 语言的全新实现，仍在快速迭代中。它提供了对 N
 | forks | 39/100 |
 | stars | 56/100 |
 | topics | 13/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

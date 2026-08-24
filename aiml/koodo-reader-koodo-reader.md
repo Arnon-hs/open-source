@@ -1,6 +1,6 @@
 # koodo-reader/koodo-reader
 
-[![Stars](https://img.shields.io/github/stars/koodo-reader/koodo-reader?style=flat-square&color=yellow)](https://github.com/koodo-reader/koodo-reader/stargazers) [![Forks](https://img.shields.io/github/forks/koodo-reader/koodo-reader?style=flat-square&color=blue)](https://github.com/koodo-reader/koodo-reader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/koodo-reader/koodo-reader?style=flat-square&color=yellow)](https://github.com/koodo-reader/koodo-reader/stargazers) [![Forks](https://img.shields.io/github/forks/koodo-reader/koodo-reader?style=flat-square&color=blue)](https://github.com/koodo-reader/koodo-reader/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26.8k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ koodo-reader/koodo-reader：koodo-reader/koodo-reader helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 91/100 |
 | stars | 94/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

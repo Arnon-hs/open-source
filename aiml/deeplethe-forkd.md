@@ -1,6 +1,6 @@
 # deeplethe/forkd
 
-[![Stars](https://img.shields.io/github/stars/deeplethe/forkd?style=flat-square&color=yellow)](https://github.com/deeplethe/forkd/stargazers) [![Forks](https://img.shields.io/github/forks/deeplethe/forkd?style=flat-square&color=blue)](https://github.com/deeplethe/forkd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deeplethe/forkd?style=flat-square&color=yellow)](https://github.com/deeplethe/forkd/stargazers) [![Forks](https://img.shields.io/github/forks/deeplethe/forkd?style=flat-square&color=blue)](https://github.com/deeplethe/forkd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Fork microVMs sandbox from a warmed parent in 101 ms.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Overall, forkd is a promising tool for rapid AI prototyping and internal workflo
 | forks | 24/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # portofcontext/pctx
 
-[![Stars](https://img.shields.io/github/stars/portofcontext/pctx?style=flat-square&color=yellow)](https://github.com/portofcontext/pctx/stargazers) [![Forks](https://img.shields.io/github/forks/portofcontext/pctx?style=flat-square&color=blue)](https://github.com/portofcontext/pctx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/portofcontext/pctx?style=flat-square&color=yellow)](https://github.com/portofcontext/pctx/stargazers) [![Forks](https://img.shields.io/github/forks/portofcontext/pctx?style=flat-square&color=blue)](https://github.com/portofcontext/pctx/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > pctx is the execution layer for agentic tool calls. It auto-converts agent tools and MCP servers into code that runs in secure sandboxes for token-efficient workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ portofcontext/pctx：portofcontext/pctx helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 65/100 |
+| production | 50/100 |
+| outlook | 58/100 |
 | adoption | 47/100 |
 | stars | 51/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

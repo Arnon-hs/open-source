@@ -1,6 +1,6 @@
 # pedrofariasx/qwenproxy
 
-[![Stars](https://img.shields.io/github/stars/pedrofariasx/qwenproxy?style=flat-square&color=yellow)](https://github.com/pedrofariasx/qwenproxy/stargazers) [![Forks](https://img.shields.io/github/forks/pedrofariasx/qwenproxy?style=flat-square&color=blue)](https://github.com/pedrofariasx/qwenproxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pedrofariasx/qwenproxy?style=flat-square&color=yellow)](https://github.com/pedrofariasx/qwenproxy/stargazers) [![Forks](https://img.shields.io/github/forks/pedrofariasx/qwenproxy?style=flat-square&color=blue)](https://github.com/pedrofariasx/qwenproxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Proxy API OpenAI-compatible que usa automação com Playwright para rotear requisições para modelos do Qwen com suporte a múltiplas contas, tools e sessões persistentes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ pedrofariasx/qwenproxy 是一个基于 Playwright 自动化的 OpenAI 兼容代�
 | forks | 45/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

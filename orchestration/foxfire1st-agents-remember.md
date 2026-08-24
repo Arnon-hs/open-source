@@ -1,6 +1,6 @@
 # Foxfire1st/agents-remember
 
-[![Stars](https://img.shields.io/github/stars/Foxfire1st/agents-remember?style=flat-square&color=yellow)](https://github.com/Foxfire1st/agents-remember/stargazers) [![Forks](https://img.shields.io/github/forks/Foxfire1st/agents-remember?style=flat-square&color=blue)](https://github.com/Foxfire1st/agents-remember/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Foxfire1st/agents-remember?style=flat-square&color=yellow)](https://github.com/Foxfire1st/agents-remember/stargazers) [![Forks](https://img.shields.io/github/forks/Foxfire1st/agents-remember?style=flat-square&color=blue)](https://github.com/Foxfire1st/agents-remember/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The system of record and control plane for AI coding agents. Keeps their memory correct, current, and safe to act on as the code moves, captures what code can't say on its own, and gates what agents are allowed to do. Retrieves by path, semantic search, and relationship (code-graph).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Foxfire1st/agents-remember 是面向 AI 编码代理的记录与控制平面，�
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

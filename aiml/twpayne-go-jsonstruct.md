@@ -1,6 +1,6 @@
 # twpayne/go-jsonstruct
 
-[![Stars](https://img.shields.io/github/stars/twpayne/go-jsonstruct?style=flat-square&color=yellow)](https://github.com/twpayne/go-jsonstruct/stargazers) [![Forks](https://img.shields.io/github/forks/twpayne/go-jsonstruct?style=flat-square&color=blue)](https://github.com/twpayne/go-jsonstruct/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twpayne/go-jsonstruct?style=flat-square&color=yellow)](https://github.com/twpayne/go-jsonstruct/stargazers) [![Forks](https://img.shields.io/github/forks/twpayne/go-jsonstruct?style=flat-square&color=blue)](https://github.com/twpayne/go-jsonstruct/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Generate Go structs from multiple JSON or YAML objects.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ twpayne/go-jsonstruct — это open‑source утилита, автомат�
 
 ### 中文
 
-twpayne/go-jsonstruct：twpayne/go-jsonstruct helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+twpayne/go-jsonstruct：twpayne/go-jsonstruct helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ twpayne/go-jsonstruct：twpayne/go-jsonstruct helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ twpayne/go-jsonstruct：twpayne/go-jsonstruct helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 54/100 |
+| production | 48/100 |
+| outlook | 47/100 |
 | adoption | 50/100 |
 | stars | 55/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

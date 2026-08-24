@@ -1,0 +1,82 @@
+# chunkhound/chunkhound
+
+[![Stars](https://img.shields.io/github/stars/chunkhound/chunkhound?style=flat-square&color=yellow)](https://github.com/chunkhound/chunkhound/stargazers) [![Forks](https://img.shields.io/github/forks/chunkhound/chunkhound?style=flat-square&color=blue)](https://github.com/chunkhound/chunkhound/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+
+> Local first codebase intelligence
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 98 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agent` `ai` `duckdb` `mcp-server` `rag` `semantic-search` `tree-sitter`
+
+## 🎯 Categories
+
+MCP · Knowledge/RAG · AI/ML · Backend
+
+## 📝 Summary
+
+### English
+
+Chunkhound is an open‑source, locally‑hosted platform that provides intelligent insights into codebases by analyzing source files, dependencies, and architectural patterns without sending data to external services. It leverages AI/ML techniques to enable fast, privacy‑preserving queries, code navigation, and automated documentation for developers. Ideal for backend teams that need on‑premise code intelligence while maintaining full control over their repositories.
+
+### Русский
+
+**Chunkhound** — это open‑source платформа для локального анализа кода, предоставляющая «интеллект» над вашими репозиториями без передачи данных в облако. С помощью встроенных AI/ML‑моделей и мощного бекенда система умеет индексировать, искать и предсказывать зависимости, потенциальные баги и рекомендации по улучшению кода прямо на вашей машине. Проект ориентирован на разработчиков, которым важна конфиденциальность и быстрый доступ к контексту проекта.
+
+### 中文
+
+chunkhound/chunkhound：chunkhound/chunkhound helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** chunkhound/chunkhound helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1250 GitHub stars
+- 98 forks
+- updated 2026-05-10
+- primary language: Python
+- 7 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 50/100 |
+| stars | 66/100 |
+| topics | 88/100 |
+| outlook | 59/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/chunkhound/chunkhound) · [← Back to Mcp](./README.md)</sub>

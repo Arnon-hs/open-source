@@ -1,6 +1,6 @@
 # tosuapp/tosu
 
-[![Stars](https://img.shields.io/github/stars/tosuapp/tosu?style=flat-square&color=yellow)](https://github.com/tosuapp/tosu/stargazers) [![Forks](https://img.shields.io/github/forks/tosuapp/tosu?style=flat-square&color=blue)](https://github.com/tosuapp/tosu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tosuapp/tosu?style=flat-square&color=yellow)](https://github.com/tosuapp/tosu/stargazers) [![Forks](https://img.shields.io/github/forks/tosuapp/tosu?style=flat-square&color=blue)](https://github.com/tosuapp/tosu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > osu! Stable and Lazer memory reader and PP counters provider
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 525 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ tosuapp/tosu 是一个基于 TypeScript 的开源库，能够实时读取 osu!�
 | forks | 39/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

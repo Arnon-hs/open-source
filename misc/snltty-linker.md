@@ -1,6 +1,6 @@
 # snltty/linker
 
-[![Stars](https://img.shields.io/github/stars/snltty/linker?style=flat-square&color=yellow)](https://github.com/snltty/linker/stargazers) [![Forks](https://img.shields.io/github/forks/snltty/linker?style=flat-square&color=blue)](https://github.com/snltty/linker/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/snltty/linker?style=flat-square&color=yellow)](https://github.com/snltty/linker/stargazers) [![Forks](https://img.shields.io/github/forks/snltty/linker?style=flat-square&color=blue)](https://github.com/snltty/linker/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 极具特色的，P2P打洞(UDP+TCP、IPV4+IPV6) + 服务器转发，实现的异地组网、内网穿透。让你那些散落在世界各地的联网设备就像在隔壁房间一样轻松访问。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ snltty/linker 是一款基于 P2P 打洞（UDP/TCP、IPv4+IPv6）和服务器转
 | forks | 60/100 |
 | stars | 66/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

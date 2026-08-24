@@ -1,6 +1,6 @@
 # hadashiA/VitalRouter
 
-[![Stars](https://img.shields.io/github/stars/hadashiA/VitalRouter?style=flat-square&color=yellow)](https://github.com/hadashiA/VitalRouter/stargazers) [![Forks](https://img.shields.io/github/forks/hadashiA/VitalRouter?style=flat-square&color=blue)](https://github.com/hadashiA/VitalRouter/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hadashiA/VitalRouter?style=flat-square&color=yellow)](https://github.com/hadashiA/VitalRouter/stargazers) [![Forks](https://img.shields.io/github/forks/hadashiA/VitalRouter?style=flat-square&color=blue)](https://github.com/hadashiA/VitalRouter/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, zero-allocation, in-memory messaging library. Declarative async pipeline with source generator for Unity and .NET.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 347 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ VitalRouter 适合作为 **Unity 客户端** 或 **.NET 微服务** 的内部事
 | forks | 34/100 |
 | stars | 54/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

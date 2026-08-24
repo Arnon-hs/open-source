@@ -1,6 +1,6 @@
 # Oxygem/Kanmail
 
-[![Stars](https://img.shields.io/github/stars/Oxygem/Kanmail?style=flat-square&color=yellow)](https://github.com/Oxygem/Kanmail/stargazers) [![Forks](https://img.shields.io/github/forks/Oxygem/Kanmail?style=flat-square&color=blue)](https://github.com/Oxygem/Kanmail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Oxygem/Kanmail?style=flat-square&color=yellow)](https://github.com/Oxygem/Kanmail/stargazers) [![Forks](https://img.shields.io/github/forks/Oxygem/Kanmail?style=flat-square&color=blue)](https://github.com/Oxygem/Kanmail/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > 📥 Turn your inbox into a kanban board.
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 91 |
+| 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-18 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`desktop-app` `email` `email-client` `kanban` `kanban-application` `mail-client`
 
 ## 🎯 Categories
 
@@ -25,10 +25,58 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the open-source project Oxygem/Kanmail:
+### English
 
-Oxygem/Kanmail is an innovative open-source project that transforms your email inbox into a customizable kanban board, streamlining your workflow and enhancing productivity. By leveraging AI/ML capabilities, Kanmail offers a unique solution to manage emails and tasks in a visually engaging and intuitive manner. This DevTool empowers users to optimize their email management experience.
+Oxygem/Kanmail: Oxygem/Kanmail helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+Oxygem/Kanmail: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+Oxygem/Kanmail：Oxygem/Kanmail helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** Oxygem/Kanmail helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 1367 GitHub stars
+- 92 forks
+- updated 2026-08-18
+- primary language: Go
+- 6 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 49/100 |
+| stars | 67/100 |
+| topics | 75/100 |
+| outlook | 80/100 |
+| quality | 79/100 |
+| recency | 100/100 |
+| adoption | 62/100 |
+| production | 78/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/Oxygem/Kanmail) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-18 · [View on GitHub](https://github.com/Oxygem/Kanmail) · [← Back to AI/ML](./README.md)</sub>

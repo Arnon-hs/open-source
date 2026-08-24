@@ -1,6 +1,6 @@
 # goern/forgejo-mcp
 
-[![Stars](https://img.shields.io/github/stars/goern/forgejo-mcp?style=flat-square&color=yellow)](https://github.com/goern/forgejo-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/goern/forgejo-mcp?style=flat-square&color=blue)](https://github.com/goern/forgejo-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goern/forgejo-mcp?style=flat-square&color=yellow)](https://github.com/goern/forgejo-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/goern/forgejo-mcp?style=flat-square&color=blue)](https://github.com/goern/forgejo-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > MIRROR ONLY!! This Model Context Protocol (MCP) server provides tools and resources for interacting with the Forgejo (specifically Codeberg.org) REST API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ goern/forgejo-mcp 是一个仅做镜像的 Model Context Protocol（MCP）服务
 | forks | 30/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 42/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

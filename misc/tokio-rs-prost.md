@@ -1,6 +1,6 @@
 # tokio-rs/prost
 
-[![Stars](https://img.shields.io/github/stars/tokio-rs/prost?style=flat-square&color=yellow)](https://github.com/tokio-rs/prost/stargazers) [![Forks](https://img.shields.io/github/forks/tokio-rs/prost?style=flat-square&color=blue)](https://github.com/tokio-rs/prost/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tokio-rs/prost?style=flat-square&color=yellow)](https://github.com/tokio-rs/prost/stargazers) [![Forks](https://img.shields.io/github/forks/tokio-rs/prost?style=flat-square&color=blue)](https://github.com/tokio-rs/prost/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > PROST! a Protocol Buffers implementation for the Rust Language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 626 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ PROST! 的生产可用性为中等。它可以用于开发内部工作流或原�
 | forks | 70/100 |
 | stars | 78/100 |
 | topics | 25/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

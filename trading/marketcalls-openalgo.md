@@ -1,6 +1,6 @@
 # marketcalls/openalgo
 
-[![Stars](https://img.shields.io/github/stars/marketcalls/openalgo?style=flat-square&color=yellow)](https://github.com/marketcalls/openalgo/stargazers) [![Forks](https://img.shields.io/github/forks/marketcalls/openalgo?style=flat-square&color=blue)](https://github.com/marketcalls/openalgo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marketcalls/openalgo?style=flat-square&color=yellow)](https://github.com/marketcalls/openalgo/stargazers) [![Forks](https://img.shields.io/github/forks/marketcalls/openalgo?style=flat-square&color=blue)](https://github.com/marketcalls/openalgo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Algo Trading Platform for Everyone
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · Frontend · Database
+Trading · Automation · Database
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ The project scores high on production readiness: recent activity (last commit 
 | forks | 75/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

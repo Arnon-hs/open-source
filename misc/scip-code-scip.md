@@ -1,6 +1,6 @@
 # scip-code/scip
 
-[![Stars](https://img.shields.io/github/stars/scip-code/scip?style=flat-square&color=yellow)](https://github.com/scip-code/scip/stargazers) [![Forks](https://img.shields.io/github/forks/scip-code/scip?style=flat-square&color=blue)](https://github.com/scip-code/scip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scip-code/scip?style=flat-square&color=yellow)](https://github.com/scip-code/scip/stargazers) [![Forks](https://img.shields.io/github/forks/scip-code/scip?style=flat-square&color=blue)](https://github.com/scip-code/scip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > SCIP Code Intelligence Protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 623 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ SCIP provides a common interchange format that lets you decouple code‑analysis
 | forks | 44/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

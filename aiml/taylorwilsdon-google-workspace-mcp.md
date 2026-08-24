@@ -1,6 +1,6 @@
 # taylorwilsdon/google_workspace_mcp
 
-[![Stars](https://img.shields.io/github/stars/taylorwilsdon/google_workspace_mcp?style=flat-square&color=yellow)](https://github.com/taylorwilsdon/google_workspace_mcp/stargazers) [![Forks](https://img.shields.io/github/forks/taylorwilsdon/google_workspace_mcp?style=flat-square&color=blue)](https://github.com/taylorwilsdon/google_workspace_mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taylorwilsdon/google_workspace_mcp?style=flat-square&color=yellow)](https://github.com/taylorwilsdon/google_workspace_mcp/stargazers) [![Forks](https://img.shields.io/github/forks/taylorwilsdon/google_workspace_mcp?style=flat-square&color=blue)](https://github.com/taylorwilsdon/google_workspace_mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 715 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ taylorwilsdon/google_workspace_mcp：taylorwilsdon/google_workspace_mcp helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 94/100 |
-| production | 66/100 |
-| outlook | 70/100 |
+| production | 59/100 |
+| outlook | 63/100 |
 | adoption | 72/100 |
 | stars | 72/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

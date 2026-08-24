@@ -1,6 +1,6 @@
 # root-project/root
 
-[![Stars](https://img.shields.io/github/stars/root-project/root?style=flat-square&color=yellow)](https://github.com/root-project/root/stargazers) [![Forks](https://img.shields.io/github/forks/root-project/root?style=flat-square&color=blue)](https://github.com/root-project/root/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/root-project/root?style=flat-square&color=yellow)](https://github.com/root-project/root/stargazers) [![Forks](https://img.shields.io/github/forks/root-project/root?style=flat-square&color=blue)](https://github.com/root-project/root/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ root-project/root：root-project/root helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 76/100 |
 | stars | 75/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

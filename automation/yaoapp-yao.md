@@ -1,6 +1,6 @@
 # YaoApp/yao
 
-[![Stars](https://img.shields.io/github/stars/YaoApp/yao?style=flat-square&color=yellow)](https://github.com/YaoApp/yao/stargazers) [![Forks](https://img.shields.io/github/forks/YaoApp/yao?style=flat-square&color=blue)](https://github.com/YaoApp/yao/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YaoApp/yao?style=flat-square&color=yellow)](https://github.com/YaoApp/yao/stargazers) [![Forks](https://img.shields.io/github/forks/YaoApp/yao?style=flat-square&color=blue)](https://github.com/YaoApp/yao/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ Build AI agents and web apps — with a single binary.
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.5k |
-| 🍴 **Forks** | 684 |
+| 🍴 **Forks** | 683 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend · DevTools
+Automation · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-YaoApp/yao: YaoApp/yao helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+YaoApp/yao is an open‑source framework that lets developers create AI‑driven agents and full‑stack web applications using a single, self‑contained binary. By combining a lightweight backend runtime with built‑in frontend rendering and AI integration, it eliminates the need for separate servers, containers, or complex deployment pipelines. The project targets both AI/ML enthusiasts and web developers who want a fast, portable way to ship intelligent, interactive applications.
 
 ### Русский
 
-YaoApp/yao: open-source проект в категориях Automation, AI/ML, Frontend, Backend, DevTools. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+YaoApp/yao — это открытый проект, предоставляющий единый исполняемый файл, позволяющий быстро создавать AI‑агентов и полноценные веб‑приложения без необходимости собирать отдельные фронтенд‑ и бэкенд‑компоненты. Он объединяет возможности машинного обучения, интерактивного пользовательского интерфейса и серверной логики, упрощая разработку интеллектуальных сервисов и ускоряя вывод продукта на рынок.
 
 ### 中文
 
-YaoApp/yao：YaoApp/yao helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+YaoApp/yao：YaoApp/yao helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ YaoApp/yao：YaoApp/yao helps remove repetitive manual operations from a workflo
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 7546 GitHub stars
-- 684 forks
-- updated 2026-07-05
+- 7537 GitHub stars
+- 683 forks
+- updated 2026-05-08
 - primary language: Go
 - 20 topics
 
@@ -65,18 +65,18 @@ YaoApp/yao：YaoApp/yao helps remove repetitive manual operations from a workflo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 91/100 |
-| integration | 78/100 |
-| production | 85/100 |
-| outlook | 95/100 |
-| adoption | 79/100 |
-| stars | 83/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/YaoApp/yao) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/YaoApp/yao) · [← Back to Automation](./README.md)</sub>

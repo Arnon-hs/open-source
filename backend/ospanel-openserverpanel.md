@@ -1,6 +1,6 @@
 # OSPanel/OpenServerPanel
 
-[![Stars](https://img.shields.io/github/stars/OSPanel/OpenServerPanel?style=flat-square&color=yellow)](https://github.com/OSPanel/OpenServerPanel/stargazers) [![Forks](https://img.shields.io/github/forks/OSPanel/OpenServerPanel?style=flat-square&color=blue)](https://github.com/OSPanel/OpenServerPanel/network) [![Language](https://img.shields.io/badge/lang-Rich%20Text%20Format-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OSPanel/OpenServerPanel?style=flat-square&color=yellow)](https://github.com/OSPanel/OpenServerPanel/stargazers) [![Forks](https://img.shields.io/github/forks/OSPanel/OpenServerPanel?style=flat-square&color=blue)](https://github.com/OSPanel/OpenServerPanel/network) [![Language](https://img.shields.io/badge/lang-Rich%20Text%20Format-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Software environment for web development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 497 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Rich Text Format |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OSPanel (OpenServerPanel) — это бесплатный набор инс�
 
 ### 中文
 
-OSPanel/OpenServerPanel：OSPanel/OpenServerPanel helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OSPanel/OpenServerPanel：OSPanel/OpenServerPanel helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OSPanel/OpenServerPanel：OSPanel/OpenServerPanel helps teams reuse service infr
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ OSPanel/OpenServerPanel：OSPanel/OpenServerPanel helps teams reuse service infr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

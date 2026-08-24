@@ -1,6 +1,6 @@
 # sachinsharma9780/memweave
 
-[![Stars](https://img.shields.io/github/stars/sachinsharma9780/memweave?style=flat-square&color=yellow)](https://github.com/sachinsharma9780/memweave/stargazers) [![Forks](https://img.shields.io/github/forks/sachinsharma9780/memweave?style=flat-square&color=blue)](https://github.com/sachinsharma9780/memweave/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sachinsharma9780/memweave?style=flat-square&color=yellow)](https://github.com/sachinsharma9780/memweave/stargazers) [![Forks](https://img.shields.io/github/forks/sachinsharma9780/memweave?style=flat-square&color=blue)](https://github.com/sachinsharma9780/memweave/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > memweave is a zero-infrastructure, async-first Python library that gives AI agents persistent, searchable memory — stored as plain Markdown files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ memweave — это асинхронная библиотека на Python, �
 
 ### 中文
 
-sachinsharma9780/memweave：sachinsharma9780/memweave helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sachinsharma9780/memweave：sachinsharma9780/memweave helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sachinsharma9780/memweave：sachinsharma9780/memweave helps turn isolated prompt
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ sachinsharma9780/memweave：sachinsharma9780/memweave helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 25/100 |
-| stars | 32/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 25/100 |
+| production | 45/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # Brhiza/mingyu
 
-[![Stars](https://img.shields.io/github/stars/Brhiza/mingyu?style=flat-square&color=yellow)](https://github.com/Brhiza/mingyu/stargazers) [![Forks](https://img.shields.io/github/forks/Brhiza/mingyu?style=flat-square&color=blue)](https://github.com/Brhiza/mingyu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Brhiza/mingyu?style=flat-square&color=yellow)](https://github.com/Brhiza/mingyu/stargazers) [![Forks](https://img.shields.io/github/forks/Brhiza/mingyu?style=flat-square&color=blue)](https://github.com/Brhiza/mingyu/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 八字、紫微、星盘、六爻、梅花、奇门、大六壬、小六壬、塔罗、雷诺曼、灵签、择日一站式排盘，输出结构化提示词与数据。提供公开 API、MCP Server 与 skill。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Database
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ Brhiza / mingyu 是一套“一站式排盘”开源库，支持八字、紫
 | forks | 42/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

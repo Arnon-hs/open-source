@@ -1,6 +1,6 @@
 # MarkEdit-app/MarkEdit
 
-[![Stars](https://img.shields.io/github/stars/MarkEdit-app/MarkEdit?style=flat-square&color=yellow)](https://github.com/MarkEdit-app/MarkEdit/stargazers) [![Forks](https://img.shields.io/github/forks/MarkEdit-app/MarkEdit?style=flat-square&color=blue)](https://github.com/MarkEdit-app/MarkEdit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MarkEdit-app/MarkEdit?style=flat-square&color=yellow)](https://github.com/MarkEdit-app/MarkEdit/stargazers) [![Forks](https://img.shields.io/github/forks/MarkEdit-app/MarkEdit?style=flat-square&color=blue)](https://github.com/MarkEdit-app/MarkEdit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Just like TextEdit on Mac but dedicated to Markdown.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 217 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ MarkEdit（仓库 MarkEdit‑app/MarkEdit）是一款基于 Swift 开发的 ma
 | forks | 58/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

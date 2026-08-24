@@ -1,6 +1,6 @@
 # chatwoot/chatwoot-mobile-app
 
-[![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot-mobile-app?style=flat-square&color=yellow)](https://github.com/chatwoot/chatwoot-mobile-app/stargazers) [![Forks](https://img.shields.io/github/forks/chatwoot/chatwoot-mobile-app?style=flat-square&color=blue)](https://github.com/chatwoot/chatwoot-mobile-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot-mobile-app?style=flat-square&color=yellow)](https://github.com/chatwoot/chatwoot-mobile-app/stargazers) [![Forks](https://img.shields.io/github/forks/chatwoot/chatwoot-mobile-app?style=flat-square&color=blue)](https://github.com/chatwoot/chatwoot-mobile-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile app for Chatwoot - React Native
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 961 |
 | 🍴 **Forks** | 486 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ chatwoot/chatwoot-mobile-app 是一款基于 React Native 的开源移动客�
 | forks | 67/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

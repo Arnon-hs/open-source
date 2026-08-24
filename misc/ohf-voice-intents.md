@@ -1,6 +1,6 @@
 # OHF-Voice/intents
 
-[![Stars](https://img.shields.io/github/stars/OHF-Voice/intents?style=flat-square&color=yellow)](https://github.com/OHF-Voice/intents/stargazers) [![Forks](https://img.shields.io/github/forks/OHF-Voice/intents?style=flat-square&color=blue)](https://github.com/OHF-Voice/intents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OHF-Voice/intents?style=flat-square&color=yellow)](https://github.com/OHF-Voice/intents/stargazers) [![Forks](https://img.shields.io/github/forks/OHF-Voice/intents?style=flat-square&color=blue)](https://github.com/OHF-Voice/intents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Intents to be used with Home Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 608 |
 | 🍴 **Forks** | 634 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ OHF‑Voice/intents 是一套为 Home Assistant 量身定制的 *intent*（意�
 | forks | 70/100 |
 | stars | 59/100 |
 | topics | 13/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

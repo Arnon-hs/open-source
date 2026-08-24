@@ -1,6 +1,6 @@
 # SimplifyJobs/New-Grad-Positions
 
-[![Stars](https://img.shields.io/github/stars/SimplifyJobs/New-Grad-Positions?style=flat-square&color=yellow)](https://github.com/SimplifyJobs/New-Grad-Positions/stargazers) [![Forks](https://img.shields.io/github/forks/SimplifyJobs/New-Grad-Positions?style=flat-square&color=blue)](https://github.com/SimplifyJobs/New-Grad-Positions/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SimplifyJobs/New-Grad-Positions?style=flat-square&color=yellow)](https://github.com/SimplifyJobs/New-Grad-Positions/stargazers) [![Forks](https://img.shields.io/github/forks/SimplifyJobs/New-Grad-Positions?style=flat-square&color=blue)](https://github.com/SimplifyJobs/New-Grad-Positions/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of full time roles in SWE, Quant, and PM for new grads.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Marketing
+Trading
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ SimplifyJobs/New-Grad-Positions: SimplifyJobs/New-Grad-Positions helps research 
 
 ### Русский
 
-SimplifyJobs/New-Grad-Positions: open-source проект в категориях Trading, Marketing. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SimplifyJobs/New-Grad-Positions: open-source проект в категориях Trading. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,16 +64,16 @@ SimplifyJobs/New-Grad-Positions：SimplifyJobs/New-Grad-Positions helps research
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 79/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 64/100 |
-| adoption | 87/100 |
-| stars | 90/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

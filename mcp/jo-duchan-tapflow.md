@@ -1,6 +1,6 @@
 # jo-duchan/tapflow
 
-[![Stars](https://img.shields.io/github/stars/jo-duchan/tapflow?style=flat-square&color=yellow)](https://github.com/jo-duchan/tapflow/stargazers) [![Forks](https://img.shields.io/github/forks/jo-duchan/tapflow?style=flat-square&color=blue)](https://github.com/jo-duchan/tapflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jo-duchan/tapflow?style=flat-square&color=yellow)](https://github.com/jo-duchan/tapflow/stargazers) [![Forks](https://img.shields.io/github/forks/jo-duchan/tapflow?style=flat-square&color=blue)](https://github.com/jo-duchan/tapflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted iOS & Android simulator streaming for the whole team
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Tapflow（jo‑duchan/tapflow）是一款自托管的 iOS 与 Android 模拟器�
 | forks | 30/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

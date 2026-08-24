@@ -1,6 +1,6 @@
 # Dooy/chatgpt-web-midjourney-proxy
 
-[![Stars](https://img.shields.io/github/stars/Dooy/chatgpt-web-midjourney-proxy?style=flat-square&color=yellow)](https://github.com/Dooy/chatgpt-web-midjourney-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/Dooy/chatgpt-web-midjourney-proxy?style=flat-square&color=blue)](https://github.com/Dooy/chatgpt-web-midjourney-proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dooy/chatgpt-web-midjourney-proxy?style=flat-square&color=yellow)](https://github.com/Dooy/chatgpt-web-midjourney-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/Dooy/chatgpt-web-midjourney-proxy?style=flat-square&color=blue)](https://github.com/Dooy/chatgpt-web-midjourney-proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ Dooy/chatgpt-web-midjourney-proxy：Dooy/chatgpt-web-midjourney-proxy helps add 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 81/100 |
-| stars | 81/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

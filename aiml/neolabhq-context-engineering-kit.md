@@ -1,6 +1,6 @@
 # NeoLabHQ/context-engineering-kit
 
-[![Stars](https://img.shields.io/github/stars/NeoLabHQ/context-engineering-kit?style=flat-square&color=yellow)](https://github.com/NeoLabHQ/context-engineering-kit/stargazers) [![Forks](https://img.shields.io/github/forks/NeoLabHQ/context-engineering-kit?style=flat-square&color=blue)](https://github.com/NeoLabHQ/context-engineering-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NeoLabHQ/context-engineering-kit?style=flat-square&color=yellow)](https://github.com/NeoLabHQ/context-engineering-kit/stargazers) [![Forks](https://img.shields.io/github/forks/NeoLabHQ/context-engineering-kit?style=flat-square&color=blue)](https://github.com/NeoLabHQ/context-engineering-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ NeoLabHQ/context-engineering-kit 的生产可用性较高，主要原因是：
 | forks | 53/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

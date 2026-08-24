@@ -1,6 +1,6 @@
 # gensecaihq/Wazuh-MCP-Server
 
-[![Stars](https://img.shields.io/github/stars/gensecaihq/Wazuh-MCP-Server?style=flat-square&color=yellow)](https://github.com/gensecaihq/Wazuh-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/gensecaihq/Wazuh-MCP-Server?style=flat-square&color=blue)](https://github.com/gensecaihq/Wazuh-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gensecaihq/Wazuh-MCP-Server?style=flat-square&color=yellow)](https://github.com/gensecaihq/Wazuh-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/gensecaihq/Wazuh-MCP-Server?style=flat-square&color=blue)](https://github.com/gensecaihq/Wazuh-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered security operations for Wazuh SIEM—use any MCP-compatible client to ask security questions in plain English. Faster threat detection, incident triage, and compliance checks with real-time monitoring and anomaly spotting. Production-ready MCP server for conversational SOC workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 188 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend · Observability · Security
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ gensecaihq/Wazuh‑MCP‑Server 为 Wazuh SIEM 引入了 AI 对话层，开发�
 | forks | 44/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

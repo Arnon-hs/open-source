@@ -1,6 +1,6 @@
 # ansvisor/ansvisor
 
-[![Stars](https://img.shields.io/github/stars/ansvisor/ansvisor?style=flat-square&color=yellow)](https://github.com/ansvisor/ansvisor/stargazers) [![Forks](https://img.shields.io/github/forks/ansvisor/ansvisor?style=flat-square&color=blue)](https://github.com/ansvisor/ansvisor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ansvisor/ansvisor?style=flat-square&color=yellow)](https://github.com/ansvisor/ansvisor/stargazers) [![Forks](https://img.shields.io/github/forks/ansvisor/ansvisor?style=flat-square&color=blue)](https://github.com/ansvisor/ansvisor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI Visibility Platform — track AI visibility, citations, prompts, competitors, and content opportunities across ChatGPT, Claude, Gemini, Google AI Overviews, Google AI Mode, Perplexity, Grok, and Copilot.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Database · Observability · DevOps/Infra
+MCP · AI/ML · Observability · DevOps/Infra · Marketing
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ ansvisor/ansvisor 是一款开源的 AI 可视化平台，能够统一追踪 Cha
 | forks | 37/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

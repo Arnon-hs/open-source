@@ -1,6 +1,6 @@
 # ecoAPM/LoadTestToolbox
 
-[![Stars](https://img.shields.io/github/stars/ecoAPM/LoadTestToolbox?style=flat-square&color=yellow)](https://github.com/ecoAPM/LoadTestToolbox/stargazers) [![Forks](https://img.shields.io/github/forks/ecoAPM/LoadTestToolbox?style=flat-square&color=blue)](https://github.com/ecoAPM/LoadTestToolbox/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ecoAPM/LoadTestToolbox?style=flat-square&color=yellow)](https://github.com/ecoAPM/LoadTestToolbox/stargazers) [![Forks](https://img.shields.io/github/forks/ecoAPM/LoadTestToolbox?style=flat-square&color=blue)](https://github.com/ecoAPM/LoadTestToolbox/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight tools for load testing web applications, written in C#
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ ecoAPM/LoadTestToolbox 是一套用 C# 编写的轻量级负载测试工具箱�
 | forks | 38/100 |
 | stars | 46/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

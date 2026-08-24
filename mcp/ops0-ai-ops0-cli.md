@@ -1,6 +1,6 @@
 # ops0-ai/ops0-cli
 
-[![Stars](https://img.shields.io/github/stars/ops0-ai/ops0-cli?style=flat-square&color=yellow)](https://github.com/ops0-ai/ops0-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ops0-ai/ops0-cli?style=flat-square&color=blue)](https://github.com/ops0-ai/ops0-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ops0-ai/ops0-cli?style=flat-square&color=yellow)](https://github.com/ops0-ai/ops0-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ops0-ai/ops0-cli?style=flat-square&color=blue)](https://github.com/ops0-ai/ops0-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Stop your AI agent from shipping insecure IaC. ops0 CLI sits between Claude Code, Codex or Gemini and your cloud, scanning every .tf the agent writes and blocking destroy commands before they run.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · DevTools · Database · DevOps/Infra
+MCP · AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ ops0‑cli 已具备较高的生产就绪度，适合作为 AI‑generated IaC �
 | forks | 15/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 32/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

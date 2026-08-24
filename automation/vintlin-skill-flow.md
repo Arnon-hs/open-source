@@ -1,6 +1,6 @@
 # VintLin/skill-flow
 
-[![Stars](https://img.shields.io/github/stars/VintLin/skill-flow?style=flat-square&color=yellow)](https://github.com/VintLin/skill-flow/stargazers) [![Forks](https://img.shields.io/github/forks/VintLin/skill-flow?style=flat-square&color=blue)](https://github.com/VintLin/skill-flow/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VintLin/skill-flow?style=flat-square&color=yellow)](https://github.com/VintLin/skill-flow/stargazers) [![Forks](https://img.shields.io/github/forks/VintLin/skill-flow?style=flat-square&color=blue)](https://github.com/VintLin/skill-flow/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Copilot, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ VintLin/skill‑flow 是一个开源框架，能够在 Claude Code、Cursor、
 | forks | 29/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

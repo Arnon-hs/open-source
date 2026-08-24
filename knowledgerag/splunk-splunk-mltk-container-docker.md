@@ -1,6 +1,6 @@
 # splunk/splunk-mltk-container-docker
 
-[![Stars](https://img.shields.io/github/stars/splunk/splunk-mltk-container-docker?style=flat-square&color=yellow)](https://github.com/splunk/splunk-mltk-container-docker/stargazers) [![Forks](https://img.shields.io/github/forks/splunk/splunk-mltk-container-docker?style=flat-square&color=blue)](https://github.com/splunk/splunk-mltk-container-docker/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/splunk/splunk-mltk-container-docker?style=flat-square&color=yellow)](https://github.com/splunk/splunk-mltk-container-docker/stargazers) [![Forks](https://img.shields.io/github/forks/splunk/splunk-mltk-container-docker?style=flat-square&color=blue)](https://github.com/splunk/splunk-mltk-container-docker/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Splunk App for Data Science and Deep Learning - container images repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · DevOps/Infra · Education
+Knowledge/RAG · AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -136,14 +136,15 @@ Overall, the project is a solid foundation for prototyping and internal AI workf
 | forks | 39/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

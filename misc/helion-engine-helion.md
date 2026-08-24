@@ -1,6 +1,6 @@
 # Helion-Engine/Helion
 
-[![Stars](https://img.shields.io/github/stars/Helion-Engine/Helion?style=flat-square&color=yellow)](https://github.com/Helion-Engine/Helion/stargazers) [![Forks](https://img.shields.io/github/forks/Helion-Engine/Helion?style=flat-square&color=blue)](https://github.com/Helion-Engine/Helion/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Helion-Engine/Helion?style=flat-square&color=yellow)](https://github.com/Helion-Engine/Helion/stargazers) [![Forks](https://img.shields.io/github/forks/Helion-Engine/Helion?style=flat-square&color=blue)](https://github.com/Helion-Engine/Helion/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A modern fast paced Doom FPS engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 542 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Helion-Engine/Helion 的生产可用性为中等，适合用于 Prototyping 或�
 | forks | 36/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tursodatabase/turso
 
-[![Stars](https://img.shields.io/github/stars/tursodatabase/turso?style=flat-square&color=yellow)](https://github.com/tursodatabase/turso/stargazers) [![Forks](https://img.shields.io/github/forks/tursodatabase/turso?style=flat-square&color=blue)](https://github.com/tursodatabase/turso/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tursodatabase/turso?style=flat-square&color=yellow)](https://github.com/tursodatabase/turso/stargazers) [![Forks](https://img.shields.io/github/forks/tursodatabase/turso?style=flat-square&color=blue)](https://github.com/tursodatabase/turso/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Turso is an in-process SQL database, compatible with SQLite.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.6k |
 | 🍴 **Forks** | 870 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tursodatabase/turso：tursodatabase/turso helps convert raw data into searchable
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 86/100 |
 | stars | 91/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

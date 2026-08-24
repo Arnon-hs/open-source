@@ -1,6 +1,6 @@
 # sebs/etherscan-api
 
-[![Stars](https://img.shields.io/github/stars/sebs/etherscan-api?style=flat-square&color=yellow)](https://github.com/sebs/etherscan-api/stargazers) [![Forks](https://img.shields.io/github/forks/sebs/etherscan-api?style=flat-square&color=blue)](https://github.com/sebs/etherscan-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sebs/etherscan-api?style=flat-square&color=yellow)](https://github.com/sebs/etherscan-api/stargazers) [![Forks](https://img.shields.io/github/forks/sebs/etherscan-api?style=flat-square&color=blue)](https://github.com/sebs/etherscan-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A node.js wrapper for the etherscan api to fetch data and metadata from the ethereum blockchain
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend · Data
+Crypto
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ sebs/etherscan-api 在生产环境中的可用性为中等。虽然它有 552 �
 | forks | 58/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

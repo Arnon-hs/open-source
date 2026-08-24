@@ -1,6 +1,6 @@
 # Higangssh/homebutler
 
-[![Stars](https://img.shields.io/github/stars/Higangssh/homebutler?style=flat-square&color=yellow)](https://github.com/Higangssh/homebutler/stargazers) [![Forks](https://img.shields.io/github/forks/Higangssh/homebutler?style=flat-square&color=blue)](https://github.com/Higangssh/homebutler/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Higangssh/homebutler?style=flat-square&color=yellow)](https://github.com/Higangssh/homebutler/stargazers) [![Forks](https://img.shields.io/github/forks/Higangssh/homebutler?style=flat-square&color=blue)](https://github.com/Higangssh/homebutler/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 🏠 Manage your homelab from chat. Single binary, zero dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Higangssh/homebutler：Higangssh/homebutler helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 94/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

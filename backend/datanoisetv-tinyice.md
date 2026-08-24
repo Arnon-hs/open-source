@@ -1,6 +1,6 @@
 # DatanoiseTV/tinyice
 
-[![Stars](https://img.shields.io/github/stars/DatanoiseTV/tinyice?style=flat-square&color=yellow)](https://github.com/DatanoiseTV/tinyice/stargazers) [![Forks](https://img.shields.io/github/forks/DatanoiseTV/tinyice?style=flat-square&color=blue)](https://github.com/DatanoiseTV/tinyice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DatanoiseTV/tinyice?style=flat-square&color=yellow)](https://github.com/DatanoiseTV/tinyice/stargazers) [![Forks](https://img.shields.io/github/forks/DatanoiseTV/tinyice?style=flat-square&color=blue)](https://github.com/DatanoiseTV/tinyice/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Streaming server for Audio and Video (icecast compatible) written in Go with multiple mountpoint, multi-source, and relaying support and a lot more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 320 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ DatanoiseTV/tinyice — это высокопроизводительный st
 
 ### 中文
 
-DatanoiseTV/tinyice：DatanoiseTV/tinyice helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+DatanoiseTV/tinyice：DatanoiseTV/tinyice helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DatanoiseTV/tinyice：DatanoiseTV/tinyice helps teams reuse service infrastructu
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ DatanoiseTV/tinyice：DatanoiseTV/tinyice helps teams reuse service infrastructu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 47/100 |
-| stars | 53/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 88/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

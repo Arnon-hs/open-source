@@ -1,6 +1,6 @@
 # oxidecomputer/p4
 
-[![Stars](https://img.shields.io/github/stars/oxidecomputer/p4?style=flat-square&color=yellow)](https://github.com/oxidecomputer/p4/stargazers) [![Forks](https://img.shields.io/github/forks/oxidecomputer/p4?style=flat-square&color=blue)](https://github.com/oxidecomputer/p4/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxidecomputer/p4?style=flat-square&color=yellow)](https://github.com/oxidecomputer/p4/stargazers) [![Forks](https://img.shields.io/github/forks/oxidecomputer/p4?style=flat-square&color=blue)](https://github.com/oxidecomputer/p4/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > A P4 compiler
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ oxidecomputer/p4 是一个用 Rust 编写的 P4 编译器，旨在把 P4 程序�
 | forks | 28/100 |
 | stars | 46/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 36/100 |
+| quality | 38/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 66/100 |
+| production | 40/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

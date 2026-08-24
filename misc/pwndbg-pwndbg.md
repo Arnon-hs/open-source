@@ -1,6 +1,6 @@
 # pwndbg/pwndbg
 
-[![Stars](https://img.shields.io/github/stars/pwndbg/pwndbg?style=flat-square&color=yellow)](https://github.com/pwndbg/pwndbg/stargazers) [![Forks](https://img.shields.io/github/forks/pwndbg/pwndbg?style=flat-square&color=blue)](https://github.com/pwndbg/pwndbg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pwndbg/pwndbg?style=flat-square&color=yellow)](https://github.com/pwndbg/pwndbg/stargazers) [![Forks](https://img.shields.io/github/forks/pwndbg/pwndbg?style=flat-square&color=blue)](https://github.com/pwndbg/pwndbg/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ pwndbg/pwndbg：pwndbg/pwndbg may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 66/100 |
-| adoption | 83/100 |
-| stars | 85/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

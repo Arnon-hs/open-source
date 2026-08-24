@@ -1,6 +1,6 @@
 # leo-arch/clifm
 
-[![Stars](https://img.shields.io/github/stars/leo-arch/clifm?style=flat-square&color=yellow)](https://github.com/leo-arch/clifm/stargazers) [![Forks](https://img.shields.io/github/forks/leo-arch/clifm?style=flat-square&color=blue)](https://github.com/leo-arch/clifm/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leo-arch/clifm?style=flat-square&color=yellow)](https://github.com/leo-arch/clifm/stargazers) [![Forks](https://img.shields.io/github/forks/leo-arch/clifm?style=flat-square&color=blue)](https://github.com/leo-arch/clifm/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 💾 The shell-like, command line terminal file manager
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | C |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ leo-arch/clifm：leo-arch/clifm helps engineers save time in daily development a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 61/100 |
-| stars | 69/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # ccssmnn/tilly
 
-[![Stars](https://img.shields.io/github/stars/ccssmnn/tilly?style=flat-square&color=yellow)](https://github.com/ccssmnn/tilly/stargazers) [![Forks](https://img.shields.io/github/forks/ccssmnn/tilly?style=flat-square&color=blue)](https://github.com/ccssmnn/tilly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ccssmnn/tilly?style=flat-square&color=yellow)](https://github.com/ccssmnn/tilly/stargazers) [![Forks](https://img.shields.io/github/forks/ccssmnn/tilly?style=flat-square&color=blue)](https://github.com/ccssmnn/tilly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Tilly is a relationship journal. An offline capable PWA that feels really good. It has an AI agent for maximum convenience.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Tilly — это офлайн‑доступный прогрессивный 
 
 ### 中文
 
-ccssmnn/tilly：ccssmnn/tilly helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ccssmnn/tilly：ccssmnn/tilly helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ccssmnn/tilly：ccssmnn/tilly helps add AI capability without starting from a bl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ ccssmnn/tilly：ccssmnn/tilly helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 34/100 |
-| stars | 38/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| stars | 38/100 |
 | topics | 88/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # Hive-Academy/ptah-extension
 
-[![Stars](https://img.shields.io/github/stars/Hive-Academy/ptah-extension?style=flat-square&color=yellow)](https://github.com/Hive-Academy/ptah-extension/stargazers) [![Forks](https://img.shields.io/github/forks/Hive-Academy/ptah-extension?style=flat-square&color=blue)](https://github.com/Hive-Academy/ptah-extension/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hive-Academy/ptah-extension?style=flat-square&color=yellow)](https://github.com/Hive-Academy/ptah-extension/stargazers) [![Forks](https://img.shields.io/github/forks/Hive-Academy/ptah-extension?style=flat-square&color=blue)](https://github.com/Hive-Academy/ptah-extension/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Provider-agnostic AI orchestration for VS Code. Intelligent workspace analysis, Code Execution MCP server, and project-adaptive multi-agent workflows — all natively integrated into VS Code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -136,14 +136,15 @@ Hive‑Academy/ptah‑extension 将零散的 Prompt、工具和模型统一包�
 | forks | 21/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

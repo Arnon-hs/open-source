@@ -1,6 +1,6 @@
 # EvilGenius-dot/RustMinerSystem
 
-[![Stars](https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem?style=flat-square&color=yellow)](https://github.com/EvilGenius-dot/RustMinerSystem/stargazers) [![Forks](https://img.shields.io/github/forks/EvilGenius-dot/RustMinerSystem?style=flat-square&color=blue)](https://github.com/EvilGenius-dot/RustMinerSystem/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem?style=flat-square&color=yellow)](https://github.com/EvilGenius-dot/RustMinerSystem/stargazers) [![Forks](https://img.shields.io/github/forks/EvilGenius-dot/RustMinerSystem?style=flat-square&color=blue)](https://github.com/EvilGenius-dot/RustMinerSystem/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 💰唯一正版💰 minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy 矿池抽水 矿池代理 矿池中转 矿池抽水 minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ EvilGenius‑dot/RustMinerSystem 是用 Rust 编写的高性能矿池代理（mi
 | forks | 60/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

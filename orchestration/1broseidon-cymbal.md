@@ -1,6 +1,6 @@
 # 1broseidon/cymbal
 
-[![Stars](https://img.shields.io/github/stars/1broseidon/cymbal?style=flat-square&color=yellow)](https://github.com/1broseidon/cymbal/stargazers) [![Forks](https://img.shields.io/github/forks/1broseidon/cymbal?style=flat-square&color=blue)](https://github.com/1broseidon/cymbal/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1broseidon/cymbal?style=flat-square&color=yellow)](https://github.com/1broseidon/cymbal/stargazers) [![Forks](https://img.shields.io/github/forks/1broseidon/cymbal?style=flat-square&color=blue)](https://github.com/1broseidon/cymbal/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Language-agnostic code navigation CLI powered by tree-sitter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 197 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | C |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Orchestration · AI/ML · DevTools
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 56/100 |
 | adoption | 45/100 |
 | stars | 49/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # besu-eth/besu
 
-[![Stars](https://img.shields.io/github/stars/besu-eth/besu?style=flat-square&color=yellow)](https://github.com/besu-eth/besu/stargazers) [![Forks](https://img.shields.io/github/forks/besu-eth/besu?style=flat-square&color=blue)](https://github.com/besu-eth/besu/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/besu-eth/besu?style=flat-square&color=yellow)](https://github.com/besu-eth/besu/stargazers) [![Forks](https://img.shields.io/github/forks/besu-eth/besu?style=flat-square&color=blue)](https://github.com/besu-eth/besu/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Besu（仓库 besu-eth/besu）是基于 Java 的企业级以太坊客户端，
 | forks | 76/100 |
 | stars | 69/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 71/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

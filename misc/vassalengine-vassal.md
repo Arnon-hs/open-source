@@ -1,6 +1,6 @@
 # vassalengine/vassal
 
-[![Stars](https://img.shields.io/github/stars/vassalengine/vassal?style=flat-square&color=yellow)](https://github.com/vassalengine/vassal/stargazers) [![Forks](https://img.shields.io/github/forks/vassalengine/vassal?style=flat-square&color=blue)](https://github.com/vassalengine/vassal/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vassalengine/vassal?style=flat-square&color=yellow)](https://github.com/vassalengine/vassal/stargazers) [![Forks](https://img.shields.io/github/forks/vassalengine/vassal?style=flat-square&color=blue)](https://github.com/vassalengine/vassal/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > VASSAL, the open-source boardgame engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 587 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ VASSAL（vassalengine/vassal）是一个基于 Java 的开源桌面游戏引擎�
 | forks | 53/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

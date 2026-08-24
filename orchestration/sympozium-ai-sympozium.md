@@ -1,6 +1,6 @@
 # sympozium-ai/sympozium
 
-[![Stars](https://img.shields.io/github/stars/sympozium-ai/sympozium?style=flat-square&color=yellow)](https://github.com/sympozium-ai/sympozium/stargazers) [![Forks](https://img.shields.io/github/forks/sympozium-ai/sympozium?style=flat-square&color=blue)](https://github.com/sympozium-ai/sympozium/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sympozium-ai/sympozium?style=flat-square&color=yellow)](https://github.com/sympozium-ai/sympozium/stargazers) [![Forks](https://img.shields.io/github/forks/sympozium-ai/sympozium?style=flat-square&color=blue)](https://github.com/sympozium-ai/sympozium/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The Coordination Layer for Multi-Agent AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 475 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ sympozium‑ai/sympozium provides a lightweight coordination layer that orchestr
 
 ### 中文
 
-sympozium-ai/sympozium：sympozium-ai/sympozium helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sympozium-ai/sympozium：sympozium-ai/sympozium helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sympozium-ai/sympozium：sympozium-ai/sympozium helps turn isolated prompts and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ sympozium-ai/sympozium：sympozium-ai/sympozium helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 25/100 |
+| outlook | 44/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

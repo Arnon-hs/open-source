@@ -1,6 +1,6 @@
 # opensandbox-group/OpenSandbox
 
-[![Stars](https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=flat-square&color=yellow)](https://github.com/opensandbox-group/OpenSandbox/stargazers) [![Forks](https://img.shields.io/github/forks/opensandbox-group/OpenSandbox?style=flat-square&color=blue)](https://github.com/opensandbox-group/OpenSandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=flat-square&color=yellow)](https://github.com/opensandbox-group/OpenSandbox/stargazers) [![Forks](https://img.shields.io/github/forks/opensandbox-group/OpenSandbox?style=flat-square&color=blue)](https://github.com/opensandbox-group/OpenSandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Secure, Fast, and Extensible Sandbox runtime for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.6k |
 | 🍴 **Forks** | 964 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ OpenSandbox（opensandbox-group/OpenSandbox）是一款面向 AI 代理的安全
 | forks | 75/100 |
 | stars | 87/100 |
 | topics | 63/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 83/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

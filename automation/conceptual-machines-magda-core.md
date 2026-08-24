@@ -1,0 +1,82 @@
+# Conceptual-Machines/magda-core
+
+[![Stars](https://img.shields.io/github/stars/Conceptual-Machines/magda-core?style=flat-square&color=yellow)](https://github.com/Conceptual-Machines/magda-core/stargazers) [![Forks](https://img.shields.io/github/forks/Conceptual-Machines/magda-core?style=flat-square&color=blue)](https://github.com/Conceptual-Machines/magda-core/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+
+> A DAW built for automation, transformation, and fast musical iteration
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 116 |
+| 🍴 **Forks** | 8 |
+| 💻 **Language** | C++ |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai` `ai-agents` `audio-plugin` `cpp20` `cross-platform` `daw` `dsl` `dsp` `juce` `llm` `midi` `music-production`
+
+## 🎯 Categories
+
+Automation · AI/ML
+
+## 📝 Summary
+
+### English
+
+Conceptual‑Machines / magda‑core is an open‑source digital audio workstation (DAW) designed to streamline music production through extensive automation, real‑time transformation tools, and rapid iteration workflows. Built with modern frontend technologies and AI/ML‑enhanced features, it lets creators prototype, remix, and refine musical ideas quickly and efficiently.
+
+### Русский
+
+Conceptual‑Machines/magda‑core — это открытая цифровая аудиостанция (DAW), ориентированная на автоматизацию процессов, трансформацию звука и быстрый музыкальный прототипинг. Проект объединяет возможности искусственного интеллекта и машинного обучения с современным фронтендом, позволяя создавать интерактивные музыкальные продукты и ускорять творческий цикл. Он подходит как для разработчиков, так и для музыкантов, желающих экспериментировать с алгоритмической генерацией и обработкой аудио.
+
+### 中文
+
+Conceptual-Machines/magda-core：Conceptual-Machines/magda-core helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** Conceptual-Machines/magda-core helps remove repetitive manual operations from a workflow.
+
+**Best use cases**
+
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 116 GitHub stars
+- 8 forks
+- updated 2026-05-08
+- primary language: C++
+- 14 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 24/100 |
+| stars | 44/100 |
+| topics | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Conceptual-Machines/magda-core) · [← Back to Automation](./README.md)</sub>

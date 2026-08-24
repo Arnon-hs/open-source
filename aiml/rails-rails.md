@@ -1,6 +1,6 @@
 # rails/rails
 
-[![Stars](https://img.shields.io/github/stars/rails/rails?style=flat-square&color=yellow)](https://github.com/rails/rails/stargazers) [![Forks](https://img.shields.io/github/forks/rails/rails?style=flat-square&color=blue)](https://github.com/rails/rails/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rails/rails?style=flat-square&color=yellow)](https://github.com/rails/rails/stargazers) [![Forks](https://img.shields.io/github/forks/rails/rails?style=flat-square&color=blue)](https://github.com/rails/rails/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby on Rails
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 58.4k |
 | 🍴 **Forks** | 22.2k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rails/rails：rails/rails helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 62/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

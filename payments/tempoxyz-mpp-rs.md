@@ -1,6 +1,6 @@
 # tempoxyz/mpp-rs
 
-[![Stars](https://img.shields.io/github/stars/tempoxyz/mpp-rs?style=flat-square&color=yellow)](https://github.com/tempoxyz/mpp-rs/stargazers) [![Forks](https://img.shields.io/github/forks/tempoxyz/mpp-rs?style=flat-square&color=blue)](https://github.com/tempoxyz/mpp-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tempoxyz/mpp-rs?style=flat-square&color=yellow)](https://github.com/tempoxyz/mpp-rs/stargazers) [![Forks](https://img.shields.io/github/forks/tempoxyz/mpp-rs?style=flat-square&color=blue)](https://github.com/tempoxyz/mpp-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Rust SDK for the Machine Payments Protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tempoxyz/mpp-rs is a Rust SDK that implements the Machine Payments Protocol (MPP
 
 ### 中文
 
-tempoxyz/mpp-rs：tempoxyz/mpp-rs helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tempoxyz/mpp-rs：tempoxyz/mpp-rs helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tempoxyz/mpp-rs：tempoxyz/mpp-rs helps integrate monetization, billing, or PSP 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ tempoxyz/mpp-rs：tempoxyz/mpp-rs helps integrate monetization, billing, or PSP 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 37/100 |
-| stars | 40/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| stars | 40/100 |
 | topics | 63/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

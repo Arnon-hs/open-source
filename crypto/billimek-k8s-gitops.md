@@ -1,6 +1,6 @@
 # billimek/k8s-gitops
 
-[![Stars](https://img.shields.io/github/stars/billimek/k8s-gitops?style=flat-square&color=yellow)](https://github.com/billimek/k8s-gitops/stargazers) [![Forks](https://img.shields.io/github/forks/billimek/k8s-gitops?style=flat-square&color=blue)](https://github.com/billimek/k8s-gitops/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/billimek/k8s-gitops?style=flat-square&color=yellow)](https://github.com/billimek/k8s-gitops/stargazers) [![Forks](https://img.shields.io/github/forks/billimek/k8s-gitops?style=flat-square&color=blue)](https://github.com/billimek/k8s-gitops/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > GitOps principles to define kubernetes cluster state via code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 769 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | YAML |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ billimek/k8s‑gitops is an open‑source toolkit that applies GitOps practices 
 
 ### 中文
 
-billimek/k8s-gitops：billimek/k8s-gitops helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+billimek/k8s-gitops：billimek/k8s-gitops helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ billimek/k8s-gitops：billimek/k8s-gitops helps prototype or inspect blockchain 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ billimek/k8s-gitops：billimek/k8s-gitops helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 58/100 |
 | stars | 61/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

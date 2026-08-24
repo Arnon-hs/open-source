@@ -1,6 +1,6 @@
 # agarrharr/awesome-cli-apps
 
-[![Stars](https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?style=flat-square&color=yellow)](https://github.com/agarrharr/awesome-cli-apps/stargazers) [![Forks](https://img.shields.io/github/forks/agarrharr/awesome-cli-apps?style=flat-square&color=blue)](https://github.com/agarrharr/awesome-cli-apps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?style=flat-square&color=yellow)](https://github.com/agarrharr/awesome-cli-apps/stargazers) [![Forks](https://img.shields.io/github/forks/agarrharr/awesome-cli-apps?style=flat-square&color=blue)](https://github.com/agarrharr/awesome-cli-apps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🖥 📊 🕹 🛠 A curated list of command line apps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19.5k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ agarrharr/awesome-cli-apps：agarrharr/awesome-cli-apps helps engineers save tim
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| stars | 91/100 |
 | topics | 63/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

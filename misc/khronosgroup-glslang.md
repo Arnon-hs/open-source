@@ -1,6 +1,6 @@
 # KhronosGroup/glslang
 
-[![Stars](https://img.shields.io/github/stars/KhronosGroup/glslang?style=flat-square&color=yellow)](https://github.com/KhronosGroup/glslang/stargazers) [![Forks](https://img.shields.io/github/forks/KhronosGroup/glslang?style=flat-square&color=blue)](https://github.com/KhronosGroup/glslang/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KhronosGroup/glslang?style=flat-square&color=yellow)](https://github.com/KhronosGroup/glslang/stargazers) [![Forks](https://img.shields.io/github/forks/KhronosGroup/glslang?style=flat-square&color=blue)](https://github.com/KhronosGroup/glslang/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 964 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ KhronosGroup/glslang：KhronosGroup/glslang may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 75/100 |
-| stars | 75/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

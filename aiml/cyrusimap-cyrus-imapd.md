@@ -1,6 +1,6 @@
 # cyrusimap/cyrus-imapd
 
-[![Stars](https://img.shields.io/github/stars/cyrusimap/cyrus-imapd?style=flat-square&color=yellow)](https://github.com/cyrusimap/cyrus-imapd/stargazers) [![Forks](https://img.shields.io/github/forks/cyrusimap/cyrus-imapd?style=flat-square&color=blue)](https://github.com/cyrusimap/cyrus-imapd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyrusimap/cyrus-imapd?style=flat-square&color=yellow)](https://github.com/cyrusimap/cyrus-imapd/stargazers) [![Forks](https://img.shields.io/github/forks/cyrusimap/cyrus-imapd?style=flat-square&color=blue)](https://github.com/cyrusimap/cyrus-imapd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Cyrus IMAP is an email, contacts and calendar server
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 631 |
-| 🍴 **Forks** | 165 |
+| ⭐ **Stars** | 642 |
+| 🍴 **Forks** | 176 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-20 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,57 @@ AI/ML · Backend
 
 ## 📝 Summary
 
-Cyrus IMAP is an open-source email, contacts, and calendar server that provides a scalable and secure solution for managing email services. This project supports the Internet Message Access Protocol (IMAP) and offers a range of features for storing and retrieving email messages, contacts, and calendar events. With its customizable architecture, Cyrus IMAP is suitable for large-scale deployments and can be integrated with various clients and applications.
+### English
+
+cyrusimap/cyrus-imapd: cyrusimap/cyrus-imapd helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+cyrusimap/cyrus-imapd: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+cyrusimap/cyrus-imapd：cyrusimap/cyrus-imapd helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** cyrusimap/cyrus-imapd helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 642 GitHub stars
+- 176 forks
+- updated 2026-08-20
+- primary language: C
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 56/100 |
+| stars | 60/100 |
+| topics | 0/100 |
+| outlook | 68/100 |
+| quality | 66/100 |
+| recency | 100/100 |
+| adoption | 59/100 |
+| production | 69/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/cyrusimap/cyrus-imapd) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-20 · [View on GitHub](https://github.com/cyrusimap/cyrus-imapd) · [← Back to AI/ML](./README.md)</sub>

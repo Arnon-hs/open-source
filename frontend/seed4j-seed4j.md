@@ -1,6 +1,6 @@
 # seed4j/seed4j
 
-[![Stars](https://img.shields.io/github/stars/seed4j/seed4j?style=flat-square&color=yellow)](https://github.com/seed4j/seed4j/stargazers) [![Forks](https://img.shields.io/github/forks/seed4j/seed4j?style=flat-square&color=blue)](https://github.com/seed4j/seed4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seed4j/seed4j?style=flat-square&color=yellow)](https://github.com/seed4j/seed4j/stargazers) [![Forks](https://img.shields.io/github/forks/seed4j/seed4j?style=flat-square&color=blue)](https://github.com/seed4j/seed4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Seed4J is a modular code generator with clean architecture
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 608 |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ seed4j/seed4j：seed4j/seed4j helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 56/100 |
+| production | 52/100 |
+| outlook | 49/100 |
 | adoption | 59/100 |
 | stars | 59/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

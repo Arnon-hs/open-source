@@ -1,6 +1,6 @@
 # zcash/librustzcash
 
-[![Stars](https://img.shields.io/github/stars/zcash/librustzcash?style=flat-square&color=yellow)](https://github.com/zcash/librustzcash/stargazers) [![Forks](https://img.shields.io/github/forks/zcash/librustzcash?style=flat-square&color=blue)](https://github.com/zcash/librustzcash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zcash/librustzcash?style=flat-square&color=yellow)](https://github.com/zcash/librustzcash/stargazers) [![Forks](https://img.shields.io/github/forks/zcash/librustzcash?style=flat-square&color=blue)](https://github.com/zcash/librustzcash/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-language assets for Zcash
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 389 |
 | 🍴 **Forks** | 334 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,16 +64,16 @@ zcash/librustzcash：zcash/librustzcash may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 47/100 |
-| adoption | 57/100 |
-| stars | 55/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

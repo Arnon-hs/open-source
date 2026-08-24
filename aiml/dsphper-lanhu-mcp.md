@@ -1,6 +1,6 @@
 # dsphper/lanhu-mcp
 
-[![Stars](https://img.shields.io/github/stars/dsphper/lanhu-mcp?style=flat-square&color=yellow)](https://github.com/dsphper/lanhu-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dsphper/lanhu-mcp?style=flat-square&color=blue)](https://github.com/dsphper/lanhu-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dsphper/lanhu-mcp?style=flat-square&color=yellow)](https://github.com/dsphper/lanhu-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dsphper/lanhu-mcp?style=flat-square&color=blue)](https://github.com/dsphper/lanhu-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ dsphper/lanhu-mcp — первый в мире MCP‑сервер, созд�
 
 ### 中文
 
-dsphper/lanhu-mcp：dsphper/lanhu-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dsphper/lanhu-mcp：dsphper/lanhu-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dsphper/lanhu-mcp：dsphper/lanhu-mcp helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ dsphper/lanhu-mcp：dsphper/lanhu-mcp helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 51/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 63/100 |
 | stars | 66/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

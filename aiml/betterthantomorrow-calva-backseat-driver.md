@@ -1,6 +1,6 @@
 # BetterThanTomorrow/calva-backseat-driver
 
-[![Stars](https://img.shields.io/github/stars/BetterThanTomorrow/calva-backseat-driver?style=flat-square&color=yellow)](https://github.com/BetterThanTomorrow/calva-backseat-driver/stargazers) [![Forks](https://img.shields.io/github/forks/BetterThanTomorrow/calva-backseat-driver?style=flat-square&color=blue)](https://github.com/BetterThanTomorrow/calva-backseat-driver/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BetterThanTomorrow/calva-backseat-driver?style=flat-square&color=yellow)](https://github.com/BetterThanTomorrow/calva-backseat-driver/stargazers) [![Forks](https://img.shields.io/github/forks/BetterThanTomorrow/calva-backseat-driver?style=flat-square&color=blue)](https://github.com/BetterThanTomorrow/calva-backseat-driver/network) [![Language](https://img.shields.io/badge/lang-Clojure-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > VS Code AI Agent Interactive Programming. Tools for CoPIlot and other assistants. Can also be used as an MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Clojure |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ BetterThanTomorrow/calva-backseat-driver — это open‑source‑платф
 
 ### 中文
 
-BetterThanTomorrow/calva-backseat-driver：BetterThanTomorrow/calva-backseat-driver helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BetterThanTomorrow/calva-backseat-driver：BetterThanTomorrow/calva-backseat-driver helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ BetterThanTomorrow/calva-backseat-driver：BetterThanTomorrow/calva-backseat-dri
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ BetterThanTomorrow/calva-backseat-driver：BetterThanTomorrow/calva-backseat-dri
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 58/100 |
+| production | 45/100 |
+| outlook | 51/100 |
 | adoption | 32/100 |
 | stars | 38/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

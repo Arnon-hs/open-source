@@ -1,6 +1,6 @@
 # enmanuelmag/agent-harness-kit
 
-[![Stars](https://img.shields.io/github/stars/enmanuelmag/agent-harness-kit?style=flat-square&color=yellow)](https://github.com/enmanuelmag/agent-harness-kit/stargazers) [![Forks](https://img.shields.io/github/forks/enmanuelmag/agent-harness-kit?style=flat-square&color=blue)](https://github.com/enmanuelmag/agent-harness-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enmanuelmag/agent-harness-kit?style=flat-square&color=yellow)](https://github.com/enmanuelmag/agent-harness-kit/stargazers) [![Forks](https://img.shields.io/github/forks/enmanuelmag/agent-harness-kit?style=flat-square&color=blue)](https://github.com/enmanuelmag/agent-harness-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,22 +63,22 @@ enmanuelmag/agent-harness-kit：enmanuelmag/agent-harness-kit helps turn isolate
 - primary language: TypeScript
 - 3 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 51/100 |
-| adoption | 33/100 |
-| stars | 43/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 38/100 |
+| outlook | 44/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # microcai/gentoo-zh
 
-[![Stars](https://img.shields.io/github/stars/microcai/gentoo-zh?style=flat-square&color=yellow)](https://github.com/microcai/gentoo-zh/stargazers) [![Forks](https://img.shields.io/github/forks/microcai/gentoo-zh?style=flat-square&color=blue)](https://github.com/microcai/gentoo-zh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microcai/gentoo-zh?style=flat-square&color=yellow)](https://github.com/microcai/gentoo-zh/stargazers) [![Forks](https://img.shields.io/github/forks/microcai/gentoo-zh?style=flat-square&color=blue)](https://github.com/microcai/gentoo-zh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Overlay for Gentoo Users.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 408 |
 | 🍴 **Forks** | 221 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ microcai/gentoo-zh：microcai/gentoo-zh helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 56/100 |
 | stars | 56/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

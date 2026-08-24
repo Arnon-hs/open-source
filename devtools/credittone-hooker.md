@@ -1,6 +1,6 @@
 # CreditTone/hooker
 
-[![Stars](https://img.shields.io/github/stars/CreditTone/hooker?style=flat-square&color=yellow)](https://github.com/CreditTone/hooker/stargazers) [![Forks](https://img.shields.io/github/forks/CreditTone/hooker?style=flat-square&color=blue)](https://github.com/CreditTone/hooker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CreditTone/hooker?style=flat-square&color=yellow)](https://github.com/CreditTone/hooker/stargazers) [![Forks](https://img.shields.io/github/forks/CreditTone/hooker?style=flat-square&color=blue)](https://github.com/CreditTone/hooker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCKS5 proxy setup, Frida JustTrustMe, and BoringSSL unpinning for all apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CreditTone/hooker：CreditTone/hooker helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 79/100 |
 | stars | 79/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

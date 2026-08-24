@@ -1,6 +1,6 @@
 # bruc3van/agent-skills-guard
 
-[![Stars](https://img.shields.io/github/stars/bruc3van/agent-skills-guard?style=flat-square&color=yellow)](https://github.com/bruc3van/agent-skills-guard/stargazers) [![Forks](https://img.shields.io/github/forks/bruc3van/agent-skills-guard?style=flat-square&color=blue)](https://github.com/bruc3van/agent-skills-guard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bruc3van/agent-skills-guard?style=flat-square&color=yellow)](https://github.com/bruc3van/agent-skills-guard/stargazers) [![Forks](https://img.shields.io/github/forks/bruc3van/agent-skills-guard?style=flat-square&color=blue)](https://github.com/bruc3van/agent-skills-guard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 一款提供Agent Skills安全扫描和可视化管理的桌面应用 | A desktop application that provides security scanning and visual management for Agent Skills.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ bruc3van/agent-skills-guard — это кросс‑платформенное
 
 ### 中文
 
-bruc3van/agent-skills-guard：bruc3van/agent-skills-guard helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bruc3van/agent-skills-guard：bruc3van/agent-skills-guard helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bruc3van/agent-skills-guard：bruc3van/agent-skills-guard helps turn isolated pr
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ bruc3van/agent-skills-guard：bruc3van/agent-skills-guard helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 49/100 |
-| stars | 54/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 63/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

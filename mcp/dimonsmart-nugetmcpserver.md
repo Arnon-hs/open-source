@@ -1,6 +1,6 @@
 # DimonSmart/NugetMcpServer
 
-[![Stars](https://img.shields.io/github/stars/DimonSmart/NugetMcpServer?style=flat-square&color=yellow)](https://github.com/DimonSmart/NugetMcpServer/stargazers) [![Forks](https://img.shields.io/github/forks/DimonSmart/NugetMcpServer?style=flat-square&color=blue)](https://github.com/DimonSmart/NugetMcpServer/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DimonSmart/NugetMcpServer?style=flat-square&color=yellow)](https://github.com/DimonSmart/NugetMcpServer/stargazers) [![Forks](https://img.shields.io/github/forks/DimonSmart/NugetMcpServer?style=flat-square&color=blue)](https://github.com/DimonSmart/NugetMcpServer/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > .NET MCP server that gives LLMs real NuGet API metadata to reduce hallucinations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ DimonSmart/NugetMcpServer 是一个基于 .NET 的 MCP（Model Context Protocol�
 | forks | 25/100 |
 | stars | 30/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

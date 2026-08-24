@@ -1,6 +1,6 @@
 # ThinkInAIXYZ/deepchat
 
-[![Stars](https://img.shields.io/github/stars/ThinkInAIXYZ/deepchat?style=flat-square&color=yellow)](https://github.com/ThinkInAIXYZ/deepchat/stargazers) [![Forks](https://img.shields.io/github/forks/ThinkInAIXYZ/deepchat?style=flat-square&color=blue)](https://github.com/ThinkInAIXYZ/deepchat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThinkInAIXYZ/deepchat?style=flat-square&color=yellow)](https://github.com/ThinkInAIXYZ/deepchat/stargazers) [![Forks](https://img.shields.io/github/forks/ThinkInAIXYZ/deepchat?style=flat-square&color=blue)](https://github.com/ThinkInAIXYZ/deepchat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 662 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · Design
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ThinkInAIXYZ/deepchat: ThinkInAIXYZ/deepchat helps turn isolated prompts and too
 
 ### Русский
 
-ThinkInAIXYZ/deepchat: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ThinkInAIXYZ/deepchat: open-source проект в категориях Orchestration, MCP, AI/ML, Design. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ThinkInAIXYZ/deepchat：ThinkInAIXYZ/deepchat helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 75/100 |
-| integration | 94/100 |
-| production | 67/100 |
-| outlook | 73/100 |
-| adoption | 77/100 |
-| stars | 80/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 60/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

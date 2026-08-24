@@ -1,6 +1,6 @@
 # hydropix/TranslateBooksWithLLMs
 
-[![Stars](https://img.shields.io/github/stars/hydropix/TranslateBooksWithLLMs?style=flat-square&color=yellow)](https://github.com/hydropix/TranslateBooksWithLLMs/stargazers) [![Forks](https://img.shields.io/github/forks/hydropix/TranslateBooksWithLLMs?style=flat-square&color=blue)](https://github.com/hydropix/TranslateBooksWithLLMs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hydropix/TranslateBooksWithLLMs?style=flat-square&color=yellow)](https://github.com/hydropix/TranslateBooksWithLLMs/stargazers) [![Forks](https://img.shields.io/github/forks/hydropix/TranslateBooksWithLLMs?style=flat-square&color=blue)](https://github.com/hydropix/TranslateBooksWithLLMs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Translate full-length books and documents with Ollama, OpenAI (comptatible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ hydropix/TranslateBooksWithLLMs：hydropix/TranslateBooksWithLLMs helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
+| usefulness | 90/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 61/100 |
 | adoption | 65/100 |
 | stars | 67/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

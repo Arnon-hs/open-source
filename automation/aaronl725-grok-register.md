@@ -1,6 +1,6 @@
 # AaronL725/grok-register
 
-[![Stars](https://img.shields.io/github/stars/AaronL725/grok-register?style=flat-square&color=yellow)](https://github.com/AaronL725/grok-register/stargazers) [![Forks](https://img.shields.io/github/forks/AaronL725/grok-register?style=flat-square&color=blue)](https://github.com/AaronL725/grok-register/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AaronL725/grok-register?style=flat-square&color=yellow)](https://github.com/AaronL725/grok-register/stargazers) [![Forks](https://img.shields.io/github/forks/AaronL725/grok-register?style=flat-square&color=blue)](https://github.com/AaronL725/grok-register/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 【已存活两个月+，无封号】批量注册稳定 Grok 账号，可直接导入 grok2api 使用，并且可以与cloudflare无限域名邮箱联动。通过1000+账号连续注册测试。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · DevTools
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ AaronL725/grok‑register 是一款基于 Python 的自动化工具，可批量�
 | forks | 46/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

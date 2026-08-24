@@ -1,6 +1,6 @@
 # cozystack/cozystack
 
-[![Stars](https://img.shields.io/github/stars/cozystack/cozystack?style=flat-square&color=yellow)](https://github.com/cozystack/cozystack/stargazers) [![Forks](https://img.shields.io/github/forks/cozystack/cozystack?style=flat-square&color=blue)](https://github.com/cozystack/cozystack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cozystack/cozystack?style=flat-square&color=yellow)](https://github.com/cozystack/cozystack/stargazers) [![Forks](https://img.shields.io/github/forks/cozystack/cozystack?style=flat-square&color=blue)](https://github.com/cozystack/cozystack/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Cozystack: Free Cloud Platform based on Kubernetes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cozystack/cozystack：cozystack/cozystack helps teams reuse service infrastructu
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 66/100 |
 | stars | 71/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

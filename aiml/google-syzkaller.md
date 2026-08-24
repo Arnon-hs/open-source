@@ -1,6 +1,6 @@
 # google/syzkaller
 
-[![Stars](https://img.shields.io/github/stars/google/syzkaller?style=flat-square&color=yellow)](https://github.com/google/syzkaller/stargazers) [![Forks](https://img.shields.io/github/forks/google/syzkaller?style=flat-square&color=blue)](https://github.com/google/syzkaller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/syzkaller?style=flat-square&color=yellow)](https://github.com/google/syzkaller/stargazers) [![Forks](https://img.shields.io/github/forks/google/syzkaller?style=flat-square&color=blue)](https://github.com/google/syzkaller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > syzkaller is an unsupervised coverage-guided kernel fuzzer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ google/syzkaller：google/syzkaller helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 62/100 |
 | adoption | 80/100 |
 | stars | 81/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # thesofproject/sof
 
-[![Stars](https://img.shields.io/github/stars/thesofproject/sof?style=flat-square&color=yellow)](https://github.com/thesofproject/sof/stargazers) [![Forks](https://img.shields.io/github/forks/thesofproject/sof?style=flat-square&color=blue)](https://github.com/thesofproject/sof/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thesofproject/sof?style=flat-square&color=yellow)](https://github.com/thesofproject/sof/stargazers) [![Forks](https://img.shields.io/github/forks/thesofproject/sof?style=flat-square&color=blue)](https://github.com/thesofproject/sof/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Sound Open Firmware
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 673 |
 | 🍴 **Forks** | 363 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Overall, with a small pilot implementation and a clear validation plan, SOF can 
 | forks | 64/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # st0012/cctop
 
-[![Stars](https://img.shields.io/github/stars/st0012/cctop?style=flat-square&color=yellow)](https://github.com/st0012/cctop/stargazers) [![Forks](https://img.shields.io/github/forks/st0012/cctop?style=flat-square&color=blue)](https://github.com/st0012/cctop/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/st0012/cctop?style=flat-square&color=yellow)](https://github.com/st0012/cctop/stargazers) [![Forks](https://img.shields.io/github/forks/st0012/cctop?style=flat-square&color=blue)](https://github.com/st0012/cctop/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A keyboard-first menubar app to monitor and jump between AI coding sessions — minimum setup required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ st0012/cctop 是一款“键盘优先”的菜单栏工具，专注于 AI 编码
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

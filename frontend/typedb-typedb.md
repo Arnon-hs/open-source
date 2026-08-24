@@ -1,6 +1,6 @@
 # typedb/typedb
 
-[![Stars](https://img.shields.io/github/stars/typedb/typedb?style=flat-square&color=yellow)](https://github.com/typedb/typedb/stargazers) [![Forks](https://img.shields.io/github/forks/typedb/typedb?style=flat-square&color=blue)](https://github.com/typedb/typedb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typedb/typedb?style=flat-square&color=yellow)](https://github.com/typedb/typedb/stargazers) [![Forks](https://img.shields.io/github/forks/typedb/typedb?style=flat-square&color=blue)](https://github.com/typedb/typedb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > TypeDB: Built for systems, not records
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 365 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ typedb/typedb：typedb/typedb helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

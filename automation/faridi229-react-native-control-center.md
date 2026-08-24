@@ -1,6 +1,6 @@
 # faridi229/react-native-control-center
 
-[![Stars](https://img.shields.io/github/stars/faridi229/react-native-control-center?style=flat-square&color=yellow)](https://github.com/faridi229/react-native-control-center/stargazers) [![Forks](https://img.shields.io/github/forks/faridi229/react-native-control-center?style=flat-square&color=blue)](https://github.com/faridi229/react-native-control-center/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/faridi229/react-native-control-center?style=flat-square&color=yellow)](https://github.com/faridi229/react-native-control-center/stargazers) [![Forks](https://img.shields.io/github/forks/faridi229/react-native-control-center?style=flat-square&color=blue)](https://github.com/faridi229/react-native-control-center/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Ultimate React Native Workflow 2026 – One-Click Simulator & Metro Control
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Mobile
+Automation · Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ faridi229/react-native-control-center 的生产可用性为中等（Medium），
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

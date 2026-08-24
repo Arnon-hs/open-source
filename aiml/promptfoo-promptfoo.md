@@ -1,6 +1,6 @@
 # promptfoo/promptfoo
 
-[![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&color=yellow)](https://github.com/promptfoo/promptfoo/stargazers) [![Forks](https://img.shields.io/github/forks/promptfoo/promptfoo?style=flat-square&color=blue)](https://github.com/promptfoo/promptfoo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&color=yellow)](https://github.com/promptfoo/promptfoo/stargazers) [![Forks](https://img.shields.io/github/forks/promptfoo/promptfoo?style=flat-square&color=blue)](https://github.com/promptfoo/promptfoo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.9k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ promptfoo/promptfoo：promptfoo/promptfoo helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 76/100 |
+| production | 55/100 |
+| outlook | 69/100 |
 | adoption | 89/100 |
 | stars | 92/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

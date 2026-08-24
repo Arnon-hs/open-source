@@ -1,6 +1,6 @@
 # holzschu/a-Shell-commands
 
-[![Stars](https://img.shields.io/github/stars/holzschu/a-Shell-commands?style=flat-square&color=yellow)](https://github.com/holzschu/a-Shell-commands/stargazers) [![Forks](https://img.shields.io/github/forks/holzschu/a-Shell-commands?style=flat-square&color=blue)](https://github.com/holzschu/a-Shell-commands/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holzschu/a-Shell-commands?style=flat-square&color=yellow)](https://github.com/holzschu/a-Shell-commands/stargazers) [![Forks](https://img.shields.io/github/forks/holzschu/a-Shell-commands?style=flat-square&color=blue)](https://github.com/holzschu/a-Shell-commands/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > shell commands, pre-compiled to webAssembly, ready to use in a-Shell
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 795 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ hol​zschu/a‑Shell‑commands 是一套预编译为 WebAssembly 的常用 she
 | forks | 42/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

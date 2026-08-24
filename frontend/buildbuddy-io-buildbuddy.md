@@ -1,6 +1,6 @@
 # buildbuddy-io/buildbuddy
 
-[![Stars](https://img.shields.io/github/stars/buildbuddy-io/buildbuddy?style=flat-square&color=yellow)](https://github.com/buildbuddy-io/buildbuddy/stargazers) [![Forks](https://img.shields.io/github/forks/buildbuddy-io/buildbuddy?style=flat-square&color=blue)](https://github.com/buildbuddy-io/buildbuddy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buildbuddy-io/buildbuddy?style=flat-square&color=yellow)](https://github.com/buildbuddy-io/buildbuddy/stargazers) [![Forks](https://img.shields.io/github/forks/buildbuddy-io/buildbuddy?style=flat-square&color=blue)](https://github.com/buildbuddy-io/buildbuddy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 741 |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ buildbuddy-io/buildbuddy：buildbuddy-io/buildbuddy helps ship user-facing inter
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 67/100 |
-| integration | 78/100 |
-| production | 62/100 |
-| outlook | 60/100 |
-| adoption | 59/100 |
-| stars | 61/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

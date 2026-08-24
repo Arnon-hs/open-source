@@ -1,6 +1,6 @@
 # yamada-ui/yamada-ui
 
-[![Stars](https://img.shields.io/github/stars/yamada-ui/yamada-ui?style=flat-square&color=yellow)](https://github.com/yamada-ui/yamada-ui/stargazers) [![Forks](https://img.shields.io/github/forks/yamada-ui/yamada-ui?style=flat-square&color=blue)](https://github.com/yamada-ui/yamada-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yamada-ui/yamada-ui?style=flat-square&color=yellow)](https://github.com/yamada-ui/yamada-ui/stargazers) [![Forks](https://img.shields.io/github/forks/yamada-ui/yamada-ui?style=flat-square&color=blue)](https://github.com/yamada-ui/yamada-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 262 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ yamada-ui/yamada-ui：yamada-ui/yamada-ui helps ship user-facing interfaces with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 63/100 |
-| stars | 64/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

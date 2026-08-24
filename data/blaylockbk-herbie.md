@@ -1,6 +1,6 @@
 # blaylockbk/Herbie
 
-[![Stars](https://img.shields.io/github/stars/blaylockbk/Herbie?style=flat-square&color=yellow)](https://github.com/blaylockbk/Herbie/stargazers) [![Forks](https://img.shields.io/github/forks/blaylockbk/Herbie?style=flat-square&color=blue)](https://github.com/blaylockbk/Herbie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blaylockbk/Herbie?style=flat-square&color=yellow)](https://github.com/blaylockbk/Herbie/stargazers) [![Forks](https://img.shields.io/github/forks/blaylockbk/Herbie?style=flat-square&color=blue)](https://github.com/blaylockbk/Herbie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Download numerical weather prediction datasets (HRRR, RAP, GFS, IFS, etc.) from NOMADS, NODD partners (Amazon, Google, Microsoft), ECMWF open data, and the University of Utah Pando Archive System.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 737 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Marketing
+Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ blaylockbk/Herbie：blaylockbk/Herbie helps convert raw data into searchable, an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 57/100 |
-| adoption | 59/100 |
-| stars | 61/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

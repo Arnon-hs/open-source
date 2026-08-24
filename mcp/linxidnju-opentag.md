@@ -1,6 +1,6 @@
 # linxidnju/OpenTag
 
-[![Stars](https://img.shields.io/github/stars/linxidnju/OpenTag?style=flat-square&color=yellow)](https://github.com/linxidnju/OpenTag/stargazers) [![Forks](https://img.shields.io/github/forks/linxidnju/OpenTag?style=flat-square&color=blue)](https://github.com/linxidnju/OpenTag/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linxidnju/OpenTag?style=flat-square&color=yellow)](https://github.com/linxidnju/OpenTag/stargazers) [![Forks](https://img.shields.io/github/forks/linxidnju/OpenTag?style=flat-square&color=blue)](https://github.com/linxidnju/OpenTag/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 90 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ OpenTag 的生产可用性很高，主要原因是：
 | forks | 0/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # harness/harness-skills
 
-[![Stars](https://img.shields.io/github/stars/harness/harness-skills?style=flat-square&color=yellow)](https://github.com/harness/harness-skills/stargazers) [![Forks](https://img.shields.io/github/forks/harness/harness-skills?style=flat-square&color=blue)](https://github.com/harness/harness-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harness/harness-skills?style=flat-square&color=yellow)](https://github.com/harness/harness-skills/stargazers) [![Forks](https://img.shields.io/github/forks/harness/harness-skills?style=flat-square&color=blue)](https://github.com/harness/harness-skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of structured AI agent skills that   enable Claude Code, Cursor, GitHub Copilot, and   other AI coding assistants to create, operate,   debug, and govern Harness CI/CD workflows through   natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ harness‑skills 将零散的 Prompt 与工具封装为结构化的 AI Agent 技
 | forks | 26/100 |
 | stars | 37/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # remkop/picocli
 
-[![Stars](https://img.shields.io/github/stars/remkop/picocli?style=flat-square&color=yellow)](https://github.com/remkop/picocli/stargazers) [![Forks](https://img.shields.io/github/forks/remkop/picocli?style=flat-square&color=blue)](https://github.com/remkop/picocli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remkop/picocli?style=flat-square&color=yellow)](https://github.com/remkop/picocli/stargazers) [![Forks](https://img.shields.io/github/forks/remkop/picocli?style=flat-square&color=blue)](https://github.com/remkop/picocli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 462 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ remkop/picocli：remkop/picocli helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 53/100 |
+| outlook | 61/100 |
 | adoption | 76/100 |
 | stars | 79/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

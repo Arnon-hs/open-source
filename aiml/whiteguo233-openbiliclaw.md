@@ -1,6 +1,6 @@
 # whiteguo233/OpenBiliClaw
 
-[![Stars](https://img.shields.io/github/stars/whiteguo233/OpenBiliClaw?style=flat-square&color=yellow)](https://github.com/whiteguo233/OpenBiliClaw/stargazers) [![Forks](https://img.shields.io/github/forks/whiteguo233/OpenBiliClaw?style=flat-square&color=blue)](https://github.com/whiteguo233/OpenBiliClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/whiteguo233/OpenBiliClaw?style=flat-square&color=yellow)](https://github.com/whiteguo233/OpenBiliClaw/stargazers) [![Forks](https://img.shields.io/github/forks/whiteguo233/OpenBiliClaw?style=flat-square&color=blue)](https://github.com/whiteguo233/OpenBiliClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从你的跨平台使用、反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音、YouTube、X 与 Web 等来源找内容 / Fully local, private, open-source, self-improving discovery agent: deepens your psychological profile from cross-platform usage, feedback, and dialogue, then finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, and the web.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 741 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -152,14 +152,15 @@ OpenBiliClaw 是一款 **全本地、私有、开源的自进化跨平台内容�
 | forks | 43/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

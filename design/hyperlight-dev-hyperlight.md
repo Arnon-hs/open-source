@@ -1,6 +1,6 @@
 # hyperlight-dev/hyperlight
 
-[![Stars](https://img.shields.io/github/stars/hyperlight-dev/hyperlight?style=flat-square&color=yellow)](https://github.com/hyperlight-dev/hyperlight/stargazers) [![Forks](https://img.shields.io/github/forks/hyperlight-dev/hyperlight?style=flat-square&color=blue)](https://github.com/hyperlight-dev/hyperlight/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperlight-dev/hyperlight?style=flat-square&color=yellow)](https://github.com/hyperlight-dev/hyperlight/stargazers) [![Forks](https://img.shields.io/github/forks/hyperlight-dev/hyperlight?style=flat-square&color=blue)](https://github.com/hyperlight-dev/hyperlight/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Design
 
 ### English
 
-hyperlight-dev/hyperlight: hyperlight-dev/hyperlight may be useful when its README and activity match a concrete workflow.. Use it for Design. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hyperlight-dev/hyperlight: hyperlight-dev/hyperlight may be useful when its README and activity match a concrete workflow.. Use it for Design. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-hyperlight-dev/hyperlight: open-source проект в категориях Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+hyperlight-dev/hyperlight: open-source проект в категориях Design. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-hyperlight-dev/hyperlight：hyperlight-dev/hyperlight may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hyperlight-dev/hyperlight：hyperlight-dev/hyperlight may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ hyperlight-dev/hyperlight：hyperlight-dev/hyperlight may be useful when its REA
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ hyperlight-dev/hyperlight：hyperlight-dev/hyperlight may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 50/100 |
+| production | 45/100 |
+| outlook | 43/100 |
 | adoption | 71/100 |
 | stars | 77/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

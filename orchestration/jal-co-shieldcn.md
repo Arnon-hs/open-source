@@ -1,6 +1,6 @@
 # jal-co/shieldcn
 
-[![Stars](https://img.shields.io/github/stars/jal-co/shieldcn?style=flat-square&color=yellow)](https://github.com/jal-co/shieldcn/stargazers) [![Forks](https://img.shields.io/github/forks/jal-co/shieldcn?style=flat-square&color=blue)](https://github.com/jal-co/shieldcn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jal-co/shieldcn?style=flat-square&color=yellow)](https://github.com/jal-co/shieldcn/stargazers) [![Forks](https://img.shields.io/github/forks/jal-co/shieldcn?style=flat-square&color=blue)](https://github.com/jal-co/shieldcn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 479 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ jal‑co/shieldcn 为 README 提供美观的徽章（badge），灵感来源于 
 | forks | 38/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

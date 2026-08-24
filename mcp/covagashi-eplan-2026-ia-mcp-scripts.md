@@ -1,6 +1,6 @@
 # covagashi/Eplan_2026_IA_MCP_scripts
 
-[![Stars](https://img.shields.io/github/stars/covagashi/Eplan_2026_IA_MCP_scripts?style=flat-square&color=yellow)](https://github.com/covagashi/Eplan_2026_IA_MCP_scripts/stargazers) [![Forks](https://img.shields.io/github/forks/covagashi/Eplan_2026_IA_MCP_scripts?style=flat-square&color=blue)](https://github.com/covagashi/Eplan_2026_IA_MCP_scripts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/covagashi/Eplan_2026_IA_MCP_scripts?style=flat-square&color=yellow)](https://github.com/covagashi/Eplan_2026_IA_MCP_scripts/stargazers) [![Forks](https://img.shields.io/github/forks/covagashi/Eplan_2026_IA_MCP_scripts?style=flat-square&color=blue)](https://github.com/covagashi/Eplan_2026_IA_MCP_scripts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Creating MCP server for EPLAN 2026 and EEC PRO
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -129,14 +129,15 @@ Here's a brief summary and explanation of the project:
 | forks | 27/100 |
 | stars | 36/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

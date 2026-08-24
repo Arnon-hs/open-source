@@ -1,6 +1,6 @@
 # amingclawdev/aming-claw
 
-[![Stars](https://img.shields.io/github/stars/amingclawdev/aming-claw?style=flat-square&color=yellow)](https://github.com/amingclawdev/aming-claw/stargazers) [![Forks](https://img.shields.io/github/forks/amingclawdev/aming-claw?style=flat-square&color=blue)](https://github.com/amingclawdev/aming-claw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amingclawdev/aming-claw?style=flat-square&color=yellow)](https://github.com/amingclawdev/aming-claw/stargazers) [![Forks](https://img.shields.io/github/forks/amingclawdev/aming-claw?style=flat-square&color=blue)](https://github.com/amingclawdev/aming-claw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Shared workspace for AI agents and human developers. See, audit, and review every change AI makes to your codebase. Multi-language graph (Python/TypeScript), MCP-native, local-first.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ amingclawdev/aming-claw具有较高的生产可用性，特别是考虑到最近
 | forks | 19/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

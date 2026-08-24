@@ -1,0 +1,82 @@
+# renovatebot/renovate
+
+[![Stars](https://img.shields.io/github/stars/renovatebot/renovate?style=flat-square&color=yellow)](https://github.com/renovatebot/renovate/stargazers) [![Forks](https://img.shields.io/github/forks/renovatebot/renovate?style=flat-square&color=blue)](https://github.com/renovatebot/renovate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+
+> Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 21.5k |
+| 🍴 **Forks** | 3k |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`azure-devops` `bitbucket` `dependencies` `dependencies-checking` `dependency-manager` `github` `gitlab` `npm` `package-management`
+
+## 🎯 Categories
+
+Automation
+
+## 📝 Summary
+
+### English
+
+Renovate is an open‑source CLI tool that automates dependency updates across a wide range of package managers, languages, and platforms. By scanning project manifests and creating pull requests for new versions, it helps teams keep libraries, containers, and other resources up‑to‑date with minimal manual effort. The tool is maintained by Mend.io and integrates with popular version‑control services, CI pipelines, and DevOps workflows.
+
+### Русский
+
+Renovate — это кроссплатформенный CLI‑инструмент для автоматизации управления зависимостями, позволяющий автоматически отслеживать, обновлять и фиксировать библиотеки, пакеты и контейнерные образы в проектах любого масштаба. Он интегрируется с популярными системами контроля версий и CI/CD, предоставляя гибкие правила и конфигурацию, что снижает нагрузку на разработчиков и повышает безопасность кода. Проект поддерживается компанией Mend.io и доступен под открытой лицензией.
+
+### 中文
+
+renovatebot/renovate：renovatebot/renovate helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** renovatebot/renovate helps remove repetitive manual operations from a workflow.
+
+**Best use cases**
+
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 21478 GitHub stars
+- 3050 forks
+- updated 2026-05-09
+- primary language: TypeScript
+- 9 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 87/100 |
+| stars | 92/100 |
+| topics | 100/100 |
+| outlook | 64/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/renovatebot/renovate) · [← Back to Automation](./README.md)</sub>

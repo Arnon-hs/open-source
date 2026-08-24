@@ -1,6 +1,6 @@
 # radicle-dev/heartwood
 
-[![Stars](https://img.shields.io/github/stars/radicle-dev/heartwood?style=flat-square&color=yellow)](https://github.com/radicle-dev/heartwood/stargazers) [![Forks](https://img.shields.io/github/forks/radicle-dev/heartwood?style=flat-square&color=blue)](https://github.com/radicle-dev/heartwood/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/radicle-dev/heartwood?style=flat-square&color=yellow)](https://github.com/radicle-dev/heartwood/stargazers) [![Forks](https://img.shields.io/github/forks/radicle-dev/heartwood?style=flat-square&color=blue)](https://github.com/radicle-dev/heartwood/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > ❤️🪵 Radicle Heartwood Protocol & Stack (mirror)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Radicle Heartwood 是 Radicle 网络的核心协议与实现栈，采用 Rust �
 | forks | 38/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 67/100 |
+| production | 41/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

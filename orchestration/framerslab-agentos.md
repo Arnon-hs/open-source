@@ -1,6 +1,6 @@
 # framerslab/agentos
 
-[![Stars](https://img.shields.io/github/stars/framerslab/agentos?style=flat-square&color=yellow)](https://github.com/framerslab/agentos/stargazers) [![Forks](https://img.shields.io/github/forks/framerslab/agentos?style=flat-square&color=blue)](https://github.com/framerslab/agentos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/framerslab/agentos?style=flat-square&color=yellow)](https://github.com/framerslab/agentos/stargazers) [![Forks](https://img.shields.io/github/forks/framerslab/agentos?style=flat-square&color=blue)](https://github.com/framerslab/agentos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript AI agent framework: cognitive memory, runtime tool forging, multi-agent orchestration, 11 LLM providers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 582 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ framerslab/agentos：framerslab/agentos helps turn isolated prompts and tools in
 | forks | 48/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

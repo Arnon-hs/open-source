@@ -1,6 +1,6 @@
 # MCPCat/agentcat-python-sdk
 
-[![Stars](https://img.shields.io/github/stars/MCPCat/agentcat-python-sdk?style=flat-square&color=yellow)](https://github.com/MCPCat/agentcat-python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/MCPCat/agentcat-python-sdk?style=flat-square&color=blue)](https://github.com/MCPCat/agentcat-python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MCPCat/agentcat-python-sdk?style=flat-square&color=yellow)](https://github.com/MCPCat/agentcat-python-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/MCPCat/agentcat-python-sdk?style=flat-square&color=blue)](https://github.com/MCPCat/agentcat-python-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > AgentCat is an analytics platform for MCP server owners 🐱.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · AI/ML · Backend · Data · Observability
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ MCPCat/agentcat-python-sdk 是为 MCP 服务器所有者提供的 AgentCat 分�
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

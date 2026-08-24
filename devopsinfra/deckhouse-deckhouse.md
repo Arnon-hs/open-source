@@ -1,6 +1,6 @@
 # deckhouse/deckhouse
 
-[![Stars](https://img.shields.io/github/stars/deckhouse/deckhouse?style=flat-square&color=yellow)](https://github.com/deckhouse/deckhouse/stargazers) [![Forks](https://img.shields.io/github/forks/deckhouse/deckhouse?style=flat-square&color=blue)](https://github.com/deckhouse/deckhouse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deckhouse/deckhouse?style=flat-square&color=yellow)](https://github.com/deckhouse/deckhouse/stargazers) [![Forks](https://img.shields.io/github/forks/deckhouse/deckhouse?style=flat-square&color=blue)](https://github.com/deckhouse/deckhouse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes platform from Flant
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ deckhouse/deckhouse：deckhouse/deckhouse helps make deployment and operations m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 52/100 |
-| adoption | 63/100 |
-| stars | 66/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

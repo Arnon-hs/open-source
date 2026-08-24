@@ -1,6 +1,6 @@
 # xdslproject/xdsl
 
-[![Stars](https://img.shields.io/github/stars/xdslproject/xdsl?style=flat-square&color=yellow)](https://github.com/xdslproject/xdsl/stargazers) [![Forks](https://img.shields.io/github/forks/xdslproject/xdsl?style=flat-square&color=blue)](https://github.com/xdslproject/xdsl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xdslproject/xdsl?style=flat-square&color=yellow)](https://github.com/xdslproject/xdsl/stargazers) [![Forks](https://img.shields.io/github/forks/xdslproject/xdsl?style=flat-square&color=blue)](https://github.com/xdslproject/xdsl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A Python compiler design toolkit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 528 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ xdslproject/xdsl 是一个基于 Python 的编译器设计工具箱，提供可�
 | forks | 55/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

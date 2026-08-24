@@ -1,6 +1,6 @@
 # flipt-io/flipt
 
-[![Stars](https://img.shields.io/github/stars/flipt-io/flipt?style=flat-square&color=yellow)](https://github.com/flipt-io/flipt/stargazers) [![Forks](https://img.shields.io/github/forks/flipt-io/flipt?style=flat-square&color=blue)](https://github.com/flipt-io/flipt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flipt-io/flipt?style=flat-square&color=yellow)](https://github.com/flipt-io/flipt/stargazers) [![Forks](https://img.shields.io/github/forks/flipt-io/flipt?style=flat-square&color=blue)](https://github.com/flipt-io/flipt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-ready, Git native feature management solution
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 288 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ flipt-io/flipt: flipt-io/flipt helps ship user-facing interfaces with less custo
 
 ### Русский
 
-flipt-io/flipt: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+flipt-io/flipt: open-source проект в категориях Frontend, Observability. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ flipt-io/flipt：flipt-io/flipt helps ship user-facing interfaces with less cust
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 62/100 |
-| outlook | 64/100 |
-| adoption | 74/100 |
-| stars | 78/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # rohitg00/agentmemory
 
-[![Stars](https://img.shields.io/github/stars/rohitg00/agentmemory?style=flat-square&color=yellow)](https://github.com/rohitg00/agentmemory/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/agentmemory?style=flat-square&color=blue)](https://github.com/rohitg00/agentmemory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rohitg00/agentmemory?style=flat-square&color=yellow)](https://github.com/rohitg00/agentmemory/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/agentmemory?style=flat-square&color=blue)](https://github.com/rohitg00/agentmemory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > #1 Persistent memory for AI coding agents based on real-world benchmarks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 281 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ rohitg00/agentmemory：rohitg00/agentmemory helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 70/100 |
-| stars | 73/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

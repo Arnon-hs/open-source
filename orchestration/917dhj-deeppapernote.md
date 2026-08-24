@@ -1,6 +1,6 @@
 # 917Dhj/DeepPaperNote
 
-[![Stars](https://img.shields.io/github/stars/917Dhj/DeepPaperNote?style=flat-square&color=yellow)](https://github.com/917Dhj/DeepPaperNote/stargazers) [![Forks](https://img.shields.io/github/forks/917Dhj/DeepPaperNote?style=flat-square&color=blue)](https://github.com/917Dhj/DeepPaperNote/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/917Dhj/DeepPaperNote?style=flat-square&color=yellow)](https://github.com/917Dhj/DeepPaperNote/stargazers) [![Forks](https://img.shields.io/github/forks/917Dhj/DeepPaperNote?style=flat-square&color=blue)](https://github.com/917Dhj/DeepPaperNote/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > DeepPaperNote is an agent skill for deep-reading a single paper and generating high-quality Obsidian-style research notes. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 453 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ DeepPaperNote 的生产可用性非常高，主要原因是：
 | forks | 38/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

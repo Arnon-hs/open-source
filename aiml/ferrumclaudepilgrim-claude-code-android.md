@@ -1,6 +1,6 @@
 # ferrumclaudepilgrim/claude-code-android
 
-[![Stars](https://img.shields.io/github/stars/ferrumclaudepilgrim/claude-code-android?style=flat-square&color=yellow)](https://github.com/ferrumclaudepilgrim/claude-code-android/stargazers) [![Forks](https://img.shields.io/github/forks/ferrumclaudepilgrim/claude-code-android?style=flat-square&color=blue)](https://github.com/ferrumclaudepilgrim/claude-code-android/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ferrumclaudepilgrim/claude-code-android?style=flat-square&color=yellow)](https://github.com/ferrumclaudepilgrim/claude-code-android/stargazers) [![Forks](https://img.shields.io/github/forks/ferrumclaudepilgrim/claude-code-android?style=flat-square&color=blue)](https://github.com/ferrumclaudepilgrim/claude-code-android/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Run Claude Code natively on Android via Termux or AVF (Android Virtualization Framework) -- no desktop, no SSH, no root required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Mobile
+AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Ferrumclaudepilgrim’s *claude‑code‑android* lets you run Claude‑Code dir
 | forks | 34/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

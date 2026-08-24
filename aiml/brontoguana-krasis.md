@@ -1,6 +1,6 @@
 # brontoguana/krasis
 
-[![Stars](https://img.shields.io/github/stars/brontoguana/krasis?style=flat-square&color=yellow)](https://github.com/brontoguana/krasis/stargazers) [![Forks](https://img.shields.io/github/forks/brontoguana/krasis?style=flat-square&color=blue)](https://github.com/brontoguana/krasis/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brontoguana/krasis?style=flat-square&color=yellow)](https://github.com/brontoguana/krasis/stargazers) [![Forks](https://img.shields.io/github/forks/brontoguana/krasis?style=flat-square&color=blue)](https://github.com/brontoguana/krasis/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Krasis is a Hybrid LLM runtime which focuses on efficient running of larger models on consumer grade VRAM limited hardware
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 450 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Krasis 是一个面向消费级显存受限硬件的混合式 LLM 运行时，�
 | forks | 36/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

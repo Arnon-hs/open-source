@@ -1,6 +1,6 @@
 # agent-tower/core
 
-[![Stars](https://img.shields.io/github/stars/agent-tower/core?style=flat-square&color=yellow)](https://github.com/agent-tower/core/stargazers) [![Forks](https://img.shields.io/github/forks/agent-tower/core?style=flat-square&color=blue)](https://github.com/agent-tower/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-tower/core?style=flat-square&color=yellow)](https://github.com/agent-tower/core/stargazers) [![Forks](https://img.shields.io/github/forks/agent-tower/core?style=flat-square&color=blue)](https://github.com/agent-tower/core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The command center for AI agents such as Claude Code, Codex, and Gemini-Cli, making your agents ten times more efficient.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -86,14 +86,15 @@ agent‑tower/core 是 AI 代理的指挥中心，能够让 Claude Code、Code
 | forks | 25/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

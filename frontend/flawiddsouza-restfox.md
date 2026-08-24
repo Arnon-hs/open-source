@@ -1,6 +1,6 @@
 # flawiddsouza/Restfox
 
-[![Stars](https://img.shields.io/github/stars/flawiddsouza/Restfox?style=flat-square&color=yellow)](https://github.com/flawiddsouza/Restfox/stargazers) [![Forks](https://img.shields.io/github/forks/flawiddsouza/Restfox?style=flat-square&color=blue)](https://github.com/flawiddsouza/Restfox/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flawiddsouza/Restfox?style=flat-square&color=yellow)](https://github.com/flawiddsouza/Restfox/stargazers) [![Forks](https://img.shields.io/github/forks/flawiddsouza/Restfox?style=flat-square&color=blue)](https://github.com/flawiddsouza/Restfox/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Restfox（flawiddsouza/Restfox）是一款 **Offline‑First、极简风格** �
 | forks | 54/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

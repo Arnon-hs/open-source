@@ -1,6 +1,6 @@
 # kdeldycke/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/kdeldycke/dotfiles?style=flat-square&color=yellow)](https://github.com/kdeldycke/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/kdeldycke/dotfiles?style=flat-square&color=blue)](https://github.com/kdeldycke/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kdeldycke/dotfiles?style=flat-square&color=yellow)](https://github.com/kdeldycke/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/kdeldycke/dotfiles?style=flat-square&color=blue)](https://github.com/kdeldycke/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🍎 macOS dotfiles for Python developers.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 166 |
-| 🍴 **Forks** | 21 |
+| ⭐ **Stars** | 170 |
+| 🍴 **Forks** | 22 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-19 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`apple-silicon` `dotfile` `dotfiles` `macos` `macos-configuration` `meta-package-manager` `monokai` `neovim` `nerd-fonts` `python` `shell` `sonoma`
 
 ## 🎯 Categories
 
@@ -25,8 +25,58 @@ AI/ML · DevTools · Design
 
 ## 📝 Summary
 
-This open-source project, kdeldycke/dotfiles, is a collection of macOS dotfiles tailored for Python developers, providing a streamlined environment for efficient coding. The project is designed to simplify the setup process and offer a consistent development experience. It caters to professionals in the fields of AI/ML, DevTools, and Design.
+### English
+
+kdeldycke/dotfiles: kdeldycke/dotfiles helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+kdeldycke/dotfiles: open-source проект в категориях AI/ML, DevTools, Design. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+kdeldycke/dotfiles：kdeldycke/dotfiles helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** kdeldycke/dotfiles helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 170 GitHub stars
+- 22 forks
+- updated 2026-08-19
+- primary language: Shell
+- 17 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 34/100 |
+| stars | 48/100 |
+| topics | 100/100 |
+| outlook | 74/100 |
+| quality | 75/100 |
+| recency | 100/100 |
+| adoption | 44/100 |
+| production | 75/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-27 · [View on GitHub](https://github.com/kdeldycke/dotfiles) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-19 · [View on GitHub](https://github.com/kdeldycke/dotfiles) · [← Back to AI/ML](./README.md)</sub>

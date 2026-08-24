@@ -1,6 +1,6 @@
 # sagi21805/LearnixOS
 
-[![Stars](https://img.shields.io/github/stars/sagi21805/LearnixOS?style=flat-square&color=yellow)](https://github.com/sagi21805/LearnixOS/stargazers) [![Forks](https://img.shields.io/github/forks/sagi21805/LearnixOS?style=flat-square&color=blue)](https://github.com/sagi21805/LearnixOS/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sagi21805/LearnixOS?style=flat-square&color=yellow)](https://github.com/sagi21805/LearnixOS/stargazers) [![Forks](https://img.shields.io/github/forks/sagi21805/LearnixOS?style=flat-square&color=blue)](https://github.com/sagi21805/LearnixOS/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > An OS which is all about learning!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 250 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LearnixOS — это открытая операционная система,
 
 ### 中文
 
-sagi21805/LearnixOS：sagi21805/LearnixOS may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sagi21805/LearnixOS：sagi21805/LearnixOS may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sagi21805/LearnixOS：sagi21805/LearnixOS may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ sagi21805/LearnixOS：sagi21805/LearnixOS may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 42/100 |
-| stars | 51/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

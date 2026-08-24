@@ -1,6 +1,6 @@
 # budimanjojo/talhelper
 
-[![Stars](https://img.shields.io/github/stars/budimanjojo/talhelper?style=flat-square&color=yellow)](https://github.com/budimanjojo/talhelper/stargazers) [![Forks](https://img.shields.io/github/forks/budimanjojo/talhelper?style=flat-square&color=blue)](https://github.com/budimanjojo/talhelper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/budimanjojo/talhelper?style=flat-square&color=yellow)](https://github.com/budimanjojo/talhelper/stargazers) [![Forks](https://img.shields.io/github/forks/budimanjojo/talhelper?style=flat-square&color=blue)](https://github.com/budimanjojo/talhelper/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A tool to help creating Talos kubernetes cluster
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 669 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ budimanjojo/talhelper的生产可用性非常高，主要原因包括：
 | forks | 38/100 |
 | stars | 60/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

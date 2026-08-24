@@ -1,6 +1,6 @@
 # knowns-dev/knowns
 
-[![Stars](https://img.shields.io/github/stars/knowns-dev/knowns?style=flat-square&color=yellow)](https://github.com/knowns-dev/knowns/stargazers) [![Forks](https://img.shields.io/github/forks/knowns-dev/knowns?style=flat-square&color=blue)](https://github.com/knowns-dev/knowns/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/knowns-dev/knowns?style=flat-square&color=yellow)](https://github.com/knowns-dev/knowns/stargazers) [![Forks](https://img.shields.io/github/forks/knowns-dev/knowns?style=flat-square&color=blue)](https://github.com/knowns-dev/knowns/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The memory layer for AI-native development — giving AI persistent understanding of your software projects.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 202 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ knowns-dev/knowns 是面向 AI 原生开发的记忆层，为 AI 提供对软件
 | forks | 41/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

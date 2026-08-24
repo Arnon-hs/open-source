@@ -1,6 +1,6 @@
 # alainm23/planify
 
-[![Stars](https://img.shields.io/github/stars/alainm23/planify?style=flat-square&color=yellow)](https://github.com/alainm23/planify/stargazers) [![Forks](https://img.shields.io/github/forks/alainm23/planify?style=flat-square&color=blue)](https://github.com/alainm23/planify/network) [![Language](https://img.shields.io/badge/lang-Vala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alainm23/planify?style=flat-square&color=yellow)](https://github.com/alainm23/planify/stargazers) [![Forks](https://img.shields.io/github/forks/alainm23/planify?style=flat-square&color=blue)](https://github.com/alainm23/planify/network) [![Language](https://img.shields.io/badge/lang-Vala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 305 |
 | 💻 **Language** | Vala |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alainm23/planify：alainm23/planify helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 74/100 |
 | stars | 79/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

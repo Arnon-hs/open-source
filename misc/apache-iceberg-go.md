@@ -1,6 +1,6 @@
 # apache/iceberg-go
 
-[![Stars](https://img.shields.io/github/stars/apache/iceberg-go?style=flat-square&color=yellow)](https://github.com/apache/iceberg-go/stargazers) [![Forks](https://img.shields.io/github/forks/apache/iceberg-go?style=flat-square&color=blue)](https://github.com/apache/iceberg-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/iceberg-go?style=flat-square&color=yellow)](https://github.com/apache/iceberg-go/stargazers) [![Forks](https://img.shields.io/github/forks/apache/iceberg-go?style=flat-square&color=blue)](https://github.com/apache/iceberg-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Iceberg - Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 410 |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Apache Iceberg — это открытый формат таблиц для а
 
 ### 中文
 
-apache/iceberg-go：apache/iceberg-go may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apache/iceberg-go：apache/iceberg-go may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ apache/iceberg-go：apache/iceberg-go may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ apache/iceberg-go：apache/iceberg-go may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 50/100 |
-| adoption | 56/100 |
-| stars | 56/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

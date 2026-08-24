@@ -1,6 +1,6 @@
 # comet-ml/opik
 
-[![Stars](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square&color=yellow)](https://github.com/comet-ml/opik/stargazers) [![Forks](https://img.shields.io/github/forks/comet-ml/opik?style=flat-square&color=blue)](https://github.com/comet-ml/opik/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square&color=yellow)](https://github.com/comet-ml/opik/stargazers) [![Forks](https://img.shields.io/github/forks/comet-ml/opik?style=flat-square&color=blue)](https://github.com/comet-ml/opik/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19.2k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Product
+Orchestration · Knowledge/RAG · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ comet-ml/opik: comet-ml/opik helps turn isolated prompts and tools into repeatab
 
 ### Русский
 
-comet-ml/opik: open-source проект в категориях Orchestration, AI/ML, Product. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+comet-ml/opik: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, Observability. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ comet-ml/opik：comet-ml/opik helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 76/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| stars | 91/100 |
 | topics | 100/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

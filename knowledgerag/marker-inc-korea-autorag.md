@@ -1,6 +1,6 @@
 # Marker-Inc-Korea/AutoRAG
 
-[![Stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=flat-square&color=yellow)](https://github.com/Marker-Inc-Korea/AutoRAG/stargazers) [![Forks](https://img.shields.io/github/forks/Marker-Inc-Korea/AutoRAG?style=flat-square&color=blue)](https://github.com/Marker-Inc-Korea/AutoRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=flat-square&color=yellow)](https://github.com/Marker-Inc-Korea/AutoRAG/stargazers) [![Forks](https://img.shields.io/github/forks/Marker-Inc-Korea/AutoRAG?style=flat-square&color=blue)](https://github.com/Marker-Inc-Korea/AutoRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 403 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ AutoRAG 是一个开源框架，提供 Retrieval‑Augmented Generation（RAG）
 | forks | 65/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

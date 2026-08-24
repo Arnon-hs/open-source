@@ -1,6 +1,6 @@
 # dmtrKovalenko/fff
 
-[![Stars](https://img.shields.io/github/stars/dmtrKovalenko/fff?style=flat-square&color=yellow)](https://github.com/dmtrKovalenko/fff/stargazers) [![Forks](https://img.shields.io/github/forks/dmtrKovalenko/fff?style=flat-square&color=blue)](https://github.com/dmtrKovalenko/fff/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmtrKovalenko/fff?style=flat-square&color=yellow)](https://github.com/dmtrKovalenko/fff/stargazers) [![Forks](https://img.shields.io/github/forks/dmtrKovalenko/fff?style=flat-square&color=blue)](https://github.com/dmtrKovalenko/fff/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dmtrKovalenko/fff：dmtrKovalenko/fff helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 75/100 |
 | stars | 80/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

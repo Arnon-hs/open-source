@@ -1,6 +1,6 @@
 # xunholy/k8s-gitops
 
-[![Stars](https://img.shields.io/github/stars/xunholy/k8s-gitops?style=flat-square&color=yellow)](https://github.com/xunholy/k8s-gitops/stargazers) [![Forks](https://img.shields.io/github/forks/xunholy/k8s-gitops?style=flat-square&color=blue)](https://github.com/xunholy/k8s-gitops/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xunholy/k8s-gitops?style=flat-square&color=yellow)](https://github.com/xunholy/k8s-gitops/stargazers) [![Forks](https://img.shields.io/github/forks/xunholy/k8s-gitops?style=flat-square&color=blue)](https://github.com/xunholy/k8s-gitops/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 630 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ xunholy/k8s-gitops is an open‑source repository that provides a complete, prod
 
 ### 中文
 
-xunholy/k8s-gitops：xunholy/k8s-gitops helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+xunholy/k8s-gitops：xunholy/k8s-gitops helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ xunholy/k8s-gitops：xunholy/k8s-gitops helps make deployment and operations mor
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ xunholy/k8s-gitops：xunholy/k8s-gitops helps make deployment and operations mor
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 54/100 |
-| stars | 60/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 88/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

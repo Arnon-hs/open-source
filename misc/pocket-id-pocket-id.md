@@ -1,0 +1,80 @@
+# pocket-id/pocket-id
+
+[![Stars](https://img.shields.io/github/stars/pocket-id/pocket-id?style=flat-square&color=yellow)](https://github.com/pocket-id/pocket-id/stargazers) [![Forks](https://img.shields.io/github/forks/pocket-id/pocket-id?style=flat-square&color=blue)](https://github.com/pocket-id/pocket-id/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+
+> A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 7.8k |
+| 🍴 **Forks** | 242 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`idp` `oidc` `passkeys` `self-hosted`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Pocket‑ID is an open‑source OpenID Connect (OIDC) provider designed for simplicity and ease of integration, enabling services to authenticate users via passkey‑based credentials. It offers a lightweight, secure authentication layer that developers can quickly deploy to add password‑less login to their applications.
+
+### Русский
+
+Pocket‑ID – это лёгкий OIDC‑провайдер с открытым исходным кодом, позволяющий интегрировать аутентификацию по Passkey (WebAuthn) в любые сервисы. Он упрощает процесс входа, обеспечивая высокий уровень безопасности без необходимости хранить пароли, и легко встраивается в существующую инфраструктуру. Подходит для проектов, где важна простая и надёжная идентификация пользователей.
+
+### 中文
+
+pocket-id/pocket-id：pocket-id/pocket-id may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** pocket-id/pocket-id may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 7750 GitHub stars
+- 242 forks
+- updated 2026-05-08
+- primary language: Go
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 60/100 |
+| stars | 83/100 |
+| topics | 50/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pocket-id/pocket-id) · [← Back to Misc](./README.md)</sub>

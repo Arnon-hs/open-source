@@ -1,6 +1,6 @@
 # Sushegaad/Claude-Skills-Governance-Risk-and-Compliance
 
-[![Stars](https://img.shields.io/github/stars/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance?style=flat-square&color=yellow)](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance/stargazers) [![Forks](https://img.shields.io/github/forks/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance?style=flat-square&color=blue)](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance?style=flat-square&color=yellow)](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance/stargazers) [![Forks](https://img.shields.io/github/forks/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance?style=flat-square&color=blue)](https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Skills for Governance, Risk, & Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST CSF, PCI DSS, EU AI Act, ISO 42001, ISO 27701, DORA, CSRD, India's DPDPA, CMMC 2.0, NIST AI Risk, SWIFT, Australia's ISM, EU NIS2, and CCPA/CPRA. Benchmark 96% (with skills) vs 82% (without skills).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 394 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Data · Security
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Sushegaad/Claude‑Skills‑Governance‑Risk‑and‑Compliance — это op
 
 ### 中文
 
-Sushegaad/Claude-Skills-Governance-Risk-and-Compliance：Sushegaad/Claude-Skills-Governance-Risk-and-Compliance helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Sushegaad/Claude-Skills-Governance-Risk-and-Compliance：Sushegaad/Claude-Skills-Governance-Risk-and-Compliance helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Sushegaad/Claude-Skills-Governance-Risk-and-Compliance：Sushegaad/Claude-Skills
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Sushegaad/Claude-Skills-Governance-Risk-and-Compliance：Sushegaad/Claude-Skills
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 56/100 |
-| adoption | 53/100 |
-| stars | 55/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

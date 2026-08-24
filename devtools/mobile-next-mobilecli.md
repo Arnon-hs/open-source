@@ -1,6 +1,6 @@
 # mobile-next/mobilecli
 
-[![Stars](https://img.shields.io/github/stars/mobile-next/mobilecli?style=flat-square&color=yellow)](https://github.com/mobile-next/mobilecli/stargazers) [![Forks](https://img.shields.io/github/forks/mobile-next/mobilecli?style=flat-square&color=blue)](https://github.com/mobile-next/mobilecli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mobile-next/mobilecli?style=flat-square&color=yellow)](https://github.com/mobile-next/mobilecli/stargazers) [![Forks](https://img.shields.io/github/forks/mobile-next/mobilecli?style=flat-square&color=blue)](https://github.com/mobile-next/mobilecli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ mobile-next/mobilecli 是一款基于 Go 实现的跨平台命令行工具，统
 | forks | 30/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nteract/desktop
 
-[![Stars](https://img.shields.io/github/stars/nteract/desktop?style=flat-square&color=yellow)](https://github.com/nteract/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/nteract/desktop?style=flat-square&color=blue)](https://github.com/nteract/desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nteract/desktop?style=flat-square&color=yellow)](https://github.com/nteract/desktop/stargazers) [![Forks](https://img.shields.io/github/forks/nteract/desktop?style=flat-square&color=blue)](https://github.com/nteract/desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > We're back! Now firing notebooks out of a t-shirt gun.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,16 +64,16 @@ nteract/desktop：nteract/desktop may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 41/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 41/100 |
-| adoption | 36/100 |
-| stars | 43/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 0/100 |
+| outlook | 34/100 |
+| quality | 36/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 39/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

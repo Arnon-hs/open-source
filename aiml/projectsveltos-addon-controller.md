@@ -1,6 +1,6 @@
 # projectsveltos/addon-controller
 
-[![Stars](https://img.shields.io/github/stars/projectsveltos/addon-controller?style=flat-square&color=yellow)](https://github.com/projectsveltos/addon-controller/stargazers) [![Forks](https://img.shields.io/github/forks/projectsveltos/addon-controller?style=flat-square&color=blue)](https://github.com/projectsveltos/addon-controller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectsveltos/addon-controller?style=flat-square&color=yellow)](https://github.com/projectsveltos/addon-controller/stargazers) [![Forks](https://img.shields.io/github/forks/projectsveltos/addon-controller?style=flat-square&color=blue)](https://github.com/projectsveltos/addon-controller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built-in support for multi-tenancy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 505 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ projectsveltos/addon-controller：projectsveltos/addon-controller helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 53/100 |
 | stars | 58/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Jon-Becker/heimdall-rs
 
-[![Stars](https://img.shields.io/github/stars/Jon-Becker/heimdall-rs?style=flat-square&color=yellow)](https://github.com/Jon-Becker/heimdall-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Jon-Becker/heimdall-rs?style=flat-square&color=blue)](https://github.com/Jon-Becker/heimdall-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jon-Becker/heimdall-rs?style=flat-square&color=yellow)](https://github.com/Jon-Becker/heimdall-rs/stargazers) [![Forks](https://img.shields.io/github/forks/Jon-Becker/heimdall-rs?style=flat-square&color=blue)](https://github.com/Jon-Becker/heimdall-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Heimdall is an advanced EVM smart contract toolkit specializing in bytecode analysis and extracting information from unverified contracts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Heimdall — это продвинутый open‑source набор инстр
 
 ### 中文
 
-Jon-Becker/heimdall-rs：Jon-Becker/heimdall-rs helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Jon-Becker/heimdall-rs：Jon-Becker/heimdall-rs helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Jon-Becker/heimdall-rs：Jon-Becker/heimdall-rs helps prototype or inspect block
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Jon-Becker/heimdall-rs：Jon-Becker/heimdall-rs helps prototype or inspect block
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 30/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 64/100 |
-| stars | 68/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

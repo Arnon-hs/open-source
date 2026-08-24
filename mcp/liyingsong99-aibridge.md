@@ -1,6 +1,6 @@
 # liyingsong99/AIBridge
 
-[![Stars](https://img.shields.io/github/stars/liyingsong99/AIBridge?style=flat-square&color=yellow)](https://github.com/liyingsong99/AIBridge/stargazers) [![Forks](https://img.shields.io/github/forks/liyingsong99/AIBridge?style=flat-square&color=blue)](https://github.com/liyingsong99/AIBridge/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liyingsong99/AIBridge?style=flat-square&color=yellow)](https://github.com/liyingsong99/AIBridge/stargazers) [![Forks](https://img.shields.io/github/forks/liyingsong99/AIBridge?style=flat-square&color=blue)](https://github.com/liyingsong99/AIBridge/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A file-based Unity automation bridge for AI coding assistants, enabling logs, compilation, asset/prefab operations, scene editing, and screenshots without MCP.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ AIBridge 为 AI 编码助手提供了一个统一的、基于文件的 Unity 自
 | forks | 32/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

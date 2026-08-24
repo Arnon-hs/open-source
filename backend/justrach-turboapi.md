@@ -1,6 +1,6 @@
 # justrach/turboAPI
 
-[![Stars](https://img.shields.io/github/stars/justrach/turboAPI?style=flat-square&color=yellow)](https://github.com/justrach/turboAPI/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/turboAPI?style=flat-square&color=blue)](https://github.com/justrach/turboAPI/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justrach/turboAPI?style=flat-square&color=yellow)](https://github.com/justrach/turboAPI/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/turboAPI?style=flat-square&color=blue)](https://github.com/justrach/turboAPI/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > FastAPI-compatible Python framework with Zig HTTP core; 7x faster, free-threading native
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 971 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ justrach/turboAPI 是基于 FastAPI 语法的 Python 框架，底层使用 Zig �
 | forks | 36/100 |
 | stars | 64/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 56/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

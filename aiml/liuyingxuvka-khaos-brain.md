@@ -1,6 +1,6 @@
 # liuyingxuvka/Khaos-Brain
 
-[![Stars](https://img.shields.io/github/stars/liuyingxuvka/Khaos-Brain?style=flat-square&color=yellow)](https://github.com/liuyingxuvka/Khaos-Brain/stargazers) [![Forks](https://img.shields.io/github/forks/liuyingxuvka/Khaos-Brain?style=flat-square&color=blue)](https://github.com/liuyingxuvka/Khaos-Brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liuyingxuvka/Khaos-Brain?style=flat-square&color=yellow)](https://github.com/liuyingxuvka/Khaos-Brain/stargazers) [![Forks](https://img.shields.io/github/forks/liuyingxuvka/Khaos-Brain?style=flat-square&color=blue)](https://github.com/liuyingxuvka/Khaos-Brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A local predictive experience layer where AI agents turn repeated work into inspectable model cards
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ liuyingxuvka/Khaos-Brain：liuyingxuvka/Khaos-Brain helps add AI capability with
 | forks | 12/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # relf/EGObox
 
-[![Stars](https://img.shields.io/github/stars/relf/EGObox?style=flat-square&color=yellow)](https://github.com/relf/EGObox/stargazers) [![Forks](https://img.shields.io/github/forks/relf/EGObox?style=flat-square&color=blue)](https://github.com/relf/EGObox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/relf/EGObox?style=flat-square&color=yellow)](https://github.com/relf/EGObox/stargazers) [![Forks](https://img.shields.io/github/forks/relf/EGObox?style=flat-square&color=blue)](https://github.com/relf/EGObox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Efficient global optimization toolbox in Rust: bayesian optimization, mixture of gaussian processes, sampling methods
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ relf/EGObox 是用 Rust 编写的高效全局优化工具箱，提供贝叶斯�
 | forks | 26/100 |
 | stars | 48/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

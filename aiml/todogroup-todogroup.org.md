@@ -1,6 +1,6 @@
 # todogroup/todogroup.org
 
-[![Stars](https://img.shields.io/github/stars/todogroup/todogroup.org?style=flat-square&color=yellow)](https://github.com/todogroup/todogroup.org/stargazers) [![Forks](https://img.shields.io/github/forks/todogroup/todogroup.org?style=flat-square&color=blue)](https://github.com/todogroup/todogroup.org/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/todogroup/todogroup.org?style=flat-square&color=yellow)](https://github.com/todogroup/todogroup.org/stargazers) [![Forks](https://img.shields.io/github/forks/todogroup/todogroup.org?style=flat-square&color=blue)](https://github.com/todogroup/todogroup.org/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Official TODO Website that contains TODO Guides, OSPO use cases and more resources to advance in the OSPO journey
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 272 |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ The **todogroup/todogroup.org** repository powers the official TODO website, a c
 
 ### 中文
 
-todogroup/todogroup.org：todogroup/todogroup.org helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+todogroup/todogroup.org：todogroup/todogroup.org helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ todogroup/todogroup.org：todogroup/todogroup.org helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ todogroup/todogroup.org：todogroup/todogroup.org helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 45/100 |
+| outlook | 43/100 |
 | adoption | 52/100 |
 | stars | 52/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

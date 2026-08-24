@@ -1,6 +1,6 @@
 # algolia/algoliasearch-client-javascript
 
-[![Stars](https://img.shields.io/github/stars/algolia/algoliasearch-client-javascript?style=flat-square&color=yellow)](https://github.com/algolia/algoliasearch-client-javascript/stargazers) [![Forks](https://img.shields.io/github/forks/algolia/algoliasearch-client-javascript?style=flat-square&color=blue)](https://github.com/algolia/algoliasearch-client-javascript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/algolia/algoliasearch-client-javascript?style=flat-square&color=yellow)](https://github.com/algolia/algoliasearch-client-javascript/stargazers) [![Forks](https://img.shields.io/github/forks/algolia/algoliasearch-client-javascript?style=flat-square&color=blue)](https://github.com/algolia/algoliasearch-client-javascript/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡️ A fully-featured and blazing-fast JavaScript API client to interact with Algolia.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 226 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ algolia/algoliasearch-client-javascript — это полностью реал
 | forks | 59/100 |
 | stars | 67/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

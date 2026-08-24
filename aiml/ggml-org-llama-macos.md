@@ -1,6 +1,6 @@
 # ggml-org/Llama-macOS
 
-[![Stars](https://img.shields.io/github/stars/ggml-org/Llama-macOS?style=flat-square&color=yellow)](https://github.com/ggml-org/Llama-macOS/stargazers) [![Forks](https://img.shields.io/github/forks/ggml-org/Llama-macOS?style=flat-square&color=blue)](https://github.com/ggml-org/Llama-macOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ggml-org/Llama-macOS?style=flat-square&color=yellow)](https://github.com/ggml-org/Llama-macOS/stargazers) [![Forks](https://img.shields.io/github/forks/ggml-org/Llama-macOS?style=flat-square&color=blue)](https://github.com/ggml-org/Llama-macOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A cosy home for your LLMs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ ggml-org/Llama-macOS的生产可用性为中等。它适用于以下场景：
 | forks | 47/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

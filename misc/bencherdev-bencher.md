@@ -1,6 +1,6 @@
 # bencherdev/bencher
 
-[![Stars](https://img.shields.io/github/stars/bencherdev/bencher?style=flat-square&color=yellow)](https://github.com/bencherdev/bencher/stargazers) [![Forks](https://img.shields.io/github/forks/bencherdev/bencher?style=flat-square&color=blue)](https://github.com/bencherdev/bencher/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bencherdev/bencher?style=flat-square&color=yellow)](https://github.com/bencherdev/bencher/stargazers) [![Forks](https://img.shields.io/github/forks/bencherdev/bencher?style=flat-square&color=blue)](https://github.com/bencherdev/bencher/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🐰 Bencher - Continuous Benchmarking
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 837 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Bencher — это open‑source платформа для непрерывно
 
 ### 中文
 
-bencherdev/bencher：bencherdev/bencher may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bencherdev/bencher：bencherdev/bencher may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ bencherdev/bencher：bencherdev/bencher may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ bencherdev/bencher：bencherdev/bencher may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 56/100 |
-| stars | 62/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

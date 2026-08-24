@@ -1,6 +1,6 @@
 # Tongyi-MAI/MobileWorld
 
-[![Stars](https://img.shields.io/github/stars/Tongyi-MAI/MobileWorld?style=flat-square&color=yellow)](https://github.com/Tongyi-MAI/MobileWorld/stargazers) [![Forks](https://img.shields.io/github/forks/Tongyi-MAI/MobileWorld?style=flat-square&color=blue)](https://github.com/Tongyi-MAI/MobileWorld/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tongyi-MAI/MobileWorld?style=flat-square&color=yellow)](https://github.com/Tongyi-MAI/MobileWorld/stargazers) [![Forks](https://img.shields.io/github/forks/Tongyi-MAI/MobileWorld?style=flat-square&color=blue)](https://github.com/Tongyi-MAI/MobileWorld/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments (ACL 2026)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 200 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Tongyi‑MAI / MobileWorld is an open‑source benchmark suite that evaluate
 
 ### 中文
 
-Tongyi-MAI/MobileWorld：Tongyi-MAI/MobileWorld helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Tongyi-MAI/MobileWorld：Tongyi-MAI/MobileWorld helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Tongyi-MAI/MobileWorld：Tongyi-MAI/MobileWorld helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Tongyi-MAI/MobileWorld：Tongyi-MAI/MobileWorld helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 46/100 |
 | stars | 49/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

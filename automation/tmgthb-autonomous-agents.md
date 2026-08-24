@@ -1,0 +1,83 @@
+# tmgthb/Autonomous-Agents
+
+[![Stars](https://img.shields.io/github/stars/tmgthb/Autonomous-Agents?style=flat-square&color=yellow)](https://github.com/tmgthb/Autonomous-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/tmgthb/Autonomous-Agents?style=flat-square&color=blue)](https://github.com/tmgthb/Autonomous-Agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> Autonomous Agents (LLMs) research papers. Updated Daily.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 95 |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-07 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agent` `agentic` `agentic-ai` `agents` `ai` `ai-agents` `aiagent` `aiagents` `autonomous-agents` `cognitive-agents` `computer-use-agent` `embodied-agent`
+
+## 🎯 Categories
+
+Automation · AI/ML
+
+## 📝 Summary
+
+### English
+
+The Autonomous-Agents project is an open-source repository that aggregates the latest research papers on Large Language Models (LLMs) and autonomous agents. Updated daily, this collection provides a comprehensive resource for researchers and developers working at the intersection of artificial intelligence and machine learning. It offers a valuable platform for staying current with advancements in the field and exploring the potential applications of autonomous agents.
+
+### Русский
+
+Итак, краткое резюме для проекта "tmgthb/Autonomous-Agents" следующее:
+
+"Проект Autonomous Agents представляет собой репозиторий обновляемой ежедневно коллекции исследовательских статей и публикаций по теме самоуправляемых агентов (LLMs) в области искусственного интеллекта и машинного обучения. В проекте собрана обширная база знаний по этому актуальному направлению исследований, позволяющая специалистам и любопытным исследователям оставаться в курсе последних достижений в этой области. Проект предназначен для облегчения поиска и доступа к актуальной информации в области самоуправляемых агентов."
+
+### 中文
+
+tmgthb/Autonomous-Agents：tmgthb/Autonomous-Agents helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** tmgthb/Autonomous-Agents helps remove repetitive manual operations from a workflow.
+
+**Best use cases**
+
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1257 GitHub stars
+- 95 forks
+- updated 2026-05-07
+- 19 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 50/100 |
+| stars | 66/100 |
+| topics | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tmgthb/Autonomous-Agents) · [← Back to Automation](./README.md)</sub>

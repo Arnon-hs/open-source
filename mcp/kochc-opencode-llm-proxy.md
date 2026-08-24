@@ -1,6 +1,6 @@
 # KochC/opencode-llm-proxy
 
-[![Stars](https://img.shields.io/github/stars/KochC/opencode-llm-proxy?style=flat-square&color=yellow)](https://github.com/KochC/opencode-llm-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/KochC/opencode-llm-proxy?style=flat-square&color=blue)](https://github.com/KochC/opencode-llm-proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KochC/opencode-llm-proxy?style=flat-square&color=yellow)](https://github.com/KochC/opencode-llm-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/KochC/opencode-llm-proxy?style=flat-square&color=blue)](https://github.com/KochC/opencode-llm-proxy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Local AI gateway for OpenCode with tool/function calling — use any model via OpenAI, Anthropic, or Gemini API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ KochC/opencode-llm-proxy 的生产可用性很高，因为它有以下特点：
 | forks | 26/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

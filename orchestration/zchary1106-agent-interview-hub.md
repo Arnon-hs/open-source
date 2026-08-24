@@ -1,6 +1,6 @@
 # Zchary1106/agent-interview-hub
 
-[![Stars](https://img.shields.io/github/stars/Zchary1106/agent-interview-hub?style=flat-square&color=yellow)](https://github.com/Zchary1106/agent-interview-hub/stargazers) [![Forks](https://img.shields.io/github/forks/Zchary1106/agent-interview-hub?style=flat-square&color=blue)](https://github.com/Zchary1106/agent-interview-hub/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Zchary1106/agent-interview-hub?style=flat-square&color=yellow)](https://github.com/Zchary1106/agent-interview-hub/stargazers) [![Forks](https://img.shields.io/github/forks/Zchary1106/agent-interview-hub?style=flat-square&color=blue)](https://github.com/Zchary1106/agent-interview-hub/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent 工程师面试资料库 - 国内大厂面经、岗位要求、高频面试题
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Education
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Zchary1106/agent‑interview‑hub 是一个面向 AI Agent 工程师的面试�
 | forks | 24/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

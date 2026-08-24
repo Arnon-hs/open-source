@@ -1,6 +1,6 @@
 # 23blocks-OS/ai-maestro
 
-[![Stars](https://img.shields.io/github/stars/23blocks-OS/ai-maestro?style=flat-square&color=yellow)](https://github.com/23blocks-OS/ai-maestro/stargazers) [![Forks](https://img.shields.io/github/forks/23blocks-OS/ai-maestro?style=flat-square&color=blue)](https://github.com/23blocks-OS/ai-maestro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/23blocks-OS/ai-maestro?style=flat-square&color=yellow)](https://github.com/23blocks-OS/ai-maestro/stargazers) [![Forks](https://img.shields.io/github/forks/23blocks-OS/ai-maestro?style=flat-square&color=blue)](https://github.com/23blocks-OS/ai-maestro/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Codex or any AI Agent from one dashboard. Move Agents between computers and locations
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 664 |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Orchestration · AI/ML · Frontend
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 57/100 |
-| stars | 60/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

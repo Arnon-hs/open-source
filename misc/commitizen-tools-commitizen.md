@@ -1,6 +1,6 @@
 # commitizen-tools/commitizen
 
-[![Stars](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=flat-square&color=yellow)](https://github.com/commitizen-tools/commitizen/stargazers) [![Forks](https://img.shields.io/github/forks/commitizen-tools/commitizen?style=flat-square&color=blue)](https://github.com/commitizen-tools/commitizen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=flat-square&color=yellow)](https://github.com/commitizen-tools/commitizen/stargazers) [![Forks](https://img.shields.io/github/forks/commitizen-tools/commitizen?style=flat-square&color=blue)](https://github.com/commitizen-tools/commitizen/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 339 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ commitizen-tools/commitizen：commitizen-tools/commitizen may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

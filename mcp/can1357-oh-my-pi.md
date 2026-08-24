@@ -1,6 +1,6 @@
 # can1357/oh-my-pi
 
-[![Stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=flat-square&color=yellow)](https://github.com/can1357/oh-my-pi/stargazers) [![Forks](https://img.shields.io/github/forks/can1357/oh-my-pi?style=flat-square&color=blue)](https://github.com/can1357/oh-my-pi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-94%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=flat-square&color=yellow)](https://github.com/can1357/oh-my-pi/stargazers) [![Forks](https://img.shields.io/github/forks/can1357/oh-my-pi?style=flat-square&color=blue)](https://github.com/can1357/oh-my-pi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.1k |
-| 🍴 **Forks** | 1.4k |
+| ⭐ **Stars** | 4.1k |
+| 🍴 **Forks** | 378 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
 ### English
 
-can1357/oh-my-pi: can1357/oh-my-pi helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+can1357/oh-my-pi: can1357/oh-my-pi helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-can1357/oh-my-pi: open-source проект в категориях MCP, AI/ML, Frontend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+can1357/oh-my-pi: open-source проект в категориях MCP, AI/ML, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-can1357/oh-my-pi：can1357/oh-my-pi helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+can1357/oh-my-pi：can1357/oh-my-pi helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ can1357/oh-my-pi：can1357/oh-my-pi helps connect AI assistants to real tools an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 16140 GitHub stars
-- 1437 forks
-- updated 2026-07-05
+- 4093 GitHub stars
+- 378 forks
+- updated 2026-05-07
 - primary language: TypeScript
 - 15 topics
 
@@ -65,18 +65,18 @@ can1357/oh-my-pi：can1357/oh-my-pi helps connect AI assistants to real tools an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 94/100 |
-| integration | 94/100 |
-| production | 88/100 |
-| outlook | 97/100 |
-| adoption | 87/100 |
-| stars | 90/100 |
-| forks | 79/100 |
-| recency | 100/100 |
+| forks | 64/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 60/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/can1357/oh-my-pi) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/can1357/oh-my-pi) · [← Back to Mcp](./README.md)</sub>

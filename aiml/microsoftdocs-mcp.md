@@ -1,6 +1,6 @@
 # MicrosoftDocs/mcp
 
-[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/mcp?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/mcp?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MicrosoftDocs/mcp?style=flat-square&color=yellow)](https://github.com/MicrosoftDocs/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/MicrosoftDocs/mcp?style=flat-square&color=blue)](https://github.com/MicrosoftDocs/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MicrosoftDocs/mcp：MicrosoftDocs/mcp helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 70/100 |
+| production | 56/100 |
+| outlook | 63/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

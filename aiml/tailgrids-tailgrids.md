@@ -1,6 +1,6 @@
 # TailGrids/tailgrids
 
-[![Stars](https://img.shields.io/github/stars/TailGrids/tailgrids?style=flat-square&color=yellow)](https://github.com/TailGrids/tailgrids/stargazers) [![Forks](https://img.shields.io/github/forks/TailGrids/tailgrids?style=flat-square&color=blue)](https://github.com/TailGrids/tailgrids/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TailGrids/tailgrids?style=flat-square&color=yellow)](https://github.com/TailGrids/tailgrids/stargazers) [![Forks](https://img.shields.io/github/forks/TailGrids/tailgrids?style=flat-square&color=blue)](https://github.com/TailGrids/tailgrids/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source React UI library built with Tailwind CSS. Production-ready components, blocks, and templates to help you build modern, accessible web apps faster.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ TailGrids/tailgrids：TailGrids/tailgrids helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
+| usefulness | 58/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 58/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 63/100 |
 | stars | 68/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

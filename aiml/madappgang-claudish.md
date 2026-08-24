@@ -1,6 +1,6 @@
 # MadAppGang/claudish
 
-[![Stars](https://img.shields.io/github/stars/MadAppGang/claudish?style=flat-square&color=yellow)](https://github.com/MadAppGang/claudish/stargazers) [![Forks](https://img.shields.io/github/forks/MadAppGang/claudish?style=flat-square&color=blue)](https://github.com/MadAppGang/claudish/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MadAppGang/claudish?style=flat-square&color=yellow)](https://github.com/MadAppGang/claudish/stargazers) [![Forks](https://img.shields.io/github/forks/MadAppGang/claudish?style=flat-square&color=blue)](https://github.com/MadAppGang/claudish/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code. Any Model. The most powerful AI coding agent now speaks every language.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 863 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MadAppGang/claudish — это открытая платформа, превр
 
 ### 中文
 
-MadAppGang/claudish：MadAppGang/claudish helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MadAppGang/claudish：MadAppGang/claudish helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ MadAppGang/claudish：MadAppGang/claudish helps add AI capability without starti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ MadAppGang/claudish：MadAppGang/claudish helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 54/100 |
-| adoption | 59/100 |
-| stars | 62/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 38/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

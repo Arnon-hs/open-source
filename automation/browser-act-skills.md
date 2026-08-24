@@ -1,41 +1,41 @@
 # browser-act/skills
 
-[![Stars](https://img.shields.io/github/stars/browser-act/skills?style=flat-square&color=yellow)](https://github.com/browser-act/skills/stargazers) [![Forks](https://img.shields.io/github/forks/browser-act/skills?style=flat-square&color=blue)](https://github.com/browser-act/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browser-act/skills?style=flat-square&color=yellow)](https://github.com/browser-act/skills/stargazers) [![Forks](https://img.shields.io/github/forks/browser-act/skills?style=flat-square&color=blue)](https://github.com/browser-act/skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
-> Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.
+> Give your AI the power to browse, scrape, and extract structured data from complex websites — with faster execution, lower cost, and more reliable results.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3k |
-| 🍴 **Forks** | 138 |
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-agents` `automation` `claude-cli` `claude-code` `claude-code-skills` `claude-skills` `codex` `codex-cli` `codex-skill` `cursor` `data-extraction` `no-code`
+`ai-agents` `automation` `claude-code` `claude-code-skills` `cursor` `data-extraction` `no-code` `openclaw` `openclaw-skills` `web-data-extraction` `web-scraping` `web-scraping-api`
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend · DevTools
+Automation · AI/ML · Backend · Data
 
 ## 📝 Summary
 
 ### English
 
-browser-act/skills: browser-act/skills helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+The **browser-act/skills** library equips AI agents with robust web‑browsing capabilities, allowing them to navigate, scrape, and extract structured data from complex sites efficiently. It delivers faster execution, lower operational costs, and higher reliability compared to generic crawling tools, making it ideal for AI/ML, backend, and data‑intensive applications.
 
 ### Русский
 
-browser-act/skills: open-source проект в категориях Automation, AI/ML, Frontend, Backend, DevTools. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+**browser-act/skills** — это open‑source библиотека, позволяющая интегрировать в AI‑модели возможности браузерного доступа, скрейпинга и извлечения структурированных данных с сложных веб‑страниц. Проект оптимизирован для высокой скорости выполнения, снижения затрат и повышения надёжности получаемой информации, что делает его ценным инструментом для задач в областях AI/ML, бекенда и обработки данных.
 
 ### 中文
 
-browser-act/skills：browser-act/skills helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+browser-act/skills：browser-act/skills helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,15 +49,15 @@ browser-act/skills：browser-act/skills helps remove repetitive manual operation
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 3030 GitHub stars
-- 138 forks
-- updated 2026-06-26
+- 1150 GitHub stars
+- 24 forks
+- updated 2026-05-08
 - primary language: Python
-- 19 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,18 +65,18 @@ browser-act/skills：browser-act/skills helps remove repetitive manual operation
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 86/100 |
-| integration | 78/100 |
-| production | 83/100 |
-| outlook | 92/100 |
-| adoption | 68/100 |
-| stars | 74/100 |
-| forks | 54/100 |
-| recency | 100/100 |
+| forks | 35/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/browser-act/skills) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/browser-act/skills) · [← Back to Automation](./README.md)</sub>

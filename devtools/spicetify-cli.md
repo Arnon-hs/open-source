@@ -1,6 +1,6 @@
 # spicetify/cli
 
-[![Stars](https://img.shields.io/github/stars/spicetify/cli?style=flat-square&color=yellow)](https://github.com/spicetify/cli/stargazers) [![Forks](https://img.shields.io/github/forks/spicetify/cli?style=flat-square&color=blue)](https://github.com/spicetify/cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spicetify/cli?style=flat-square&color=yellow)](https://github.com/spicetify/cli/stargazers) [![Forks](https://img.shields.io/github/forks/spicetify/cli?style=flat-square&color=blue)](https://github.com/spicetify/cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23.6k |
 | 🍴 **Forks** | 887 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Spicetify/cli 的生产可用性很高，因为它有以下特点：
 | forks | 74/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

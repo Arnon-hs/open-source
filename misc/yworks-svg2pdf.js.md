@@ -1,6 +1,6 @@
 # yWorks/svg2pdf.js
 
-[![Stars](https://img.shields.io/github/stars/yWorks/svg2pdf.js?style=flat-square&color=yellow)](https://github.com/yWorks/svg2pdf.js/stargazers) [![Forks](https://img.shields.io/github/forks/yWorks/svg2pdf.js?style=flat-square&color=blue)](https://github.com/yWorks/svg2pdf.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yWorks/svg2pdf.js?style=flat-square&color=yellow)](https://github.com/yWorks/svg2pdf.js/stargazers) [![Forks](https://img.shields.io/github/forks/yWorks/svg2pdf.js?style=flat-square&color=blue)](https://github.com/yWorks/svg2pdf.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A javascript-only SVG to PDF conversion utility that runs in the browser. Brought to you by yWorks - the diagramming experts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 832 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -142,14 +142,15 @@ yWorks/svg2pdf.js 是一款纯前端的 SVG → PDF 转换工具，使用 Ty
 | forks | 52/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

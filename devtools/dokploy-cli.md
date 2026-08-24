@@ -1,6 +1,6 @@
 # Dokploy/cli
 
-[![Stars](https://img.shields.io/github/stars/Dokploy/cli?style=flat-square&color=yellow)](https://github.com/Dokploy/cli/stargazers) [![Forks](https://img.shields.io/github/forks/Dokploy/cli?style=flat-square&color=blue)](https://github.com/Dokploy/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dokploy/cli?style=flat-square&color=yellow)](https://github.com/Dokploy/cli/stargazers) [![Forks](https://img.shields.io/github/forks/Dokploy/cli?style=flat-square&color=blue)](https://github.com/Dokploy/cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Dokploy CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Dokploy CLI — это открытый инструмент командн�
 
 ### 中文
 
-Dokploy/cli：Dokploy/cli helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Dokploy/cli：Dokploy/cli helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Dokploy/cli：Dokploy/cli helps engineers save time in daily development and rev
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,22 +59,22 @@ Dokploy/cli：Dokploy/cli helps engineers save time in daily development and rev
 - primary language: TypeScript
 - 3 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 50/100 |
-| adoption | 42/100 |
-| stars | 43/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

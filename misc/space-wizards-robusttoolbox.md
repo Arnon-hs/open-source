@@ -1,6 +1,6 @@
 # space-wizards/RobustToolbox
 
-[![Stars](https://img.shields.io/github/stars/space-wizards/RobustToolbox?style=flat-square&color=yellow)](https://github.com/space-wizards/RobustToolbox/stargazers) [![Forks](https://img.shields.io/github/forks/space-wizards/RobustToolbox?style=flat-square&color=blue)](https://github.com/space-wizards/RobustToolbox/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/space-wizards/RobustToolbox?style=flat-square&color=yellow)](https://github.com/space-wizards/RobustToolbox/stargazers) [![Forks](https://img.shields.io/github/forks/space-wizards/RobustToolbox?style=flat-square&color=blue)](https://github.com/space-wizards/RobustToolbox/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Robust multiplayer game engine, used by Space Station 14
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 680 |
 | 🍴 **Forks** | 689 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ RobustToolbox 是一个专为多人在线游戏设计的开源引擎，被知名
 | forks | 71/100 |
 | stars | 60/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

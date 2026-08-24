@@ -1,6 +1,6 @@
 # halogenica/beautifulhugo
 
-[![Stars](https://img.shields.io/github/stars/halogenica/beautifulhugo?style=flat-square&color=yellow)](https://github.com/halogenica/beautifulhugo/stargazers) [![Forks](https://img.shields.io/github/forks/halogenica/beautifulhugo?style=flat-square&color=blue)](https://github.com/halogenica/beautifulhugo/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/halogenica/beautifulhugo?style=flat-square&color=yellow)](https://github.com/halogenica/beautifulhugo/stargazers) [![Forks](https://img.shields.io/github/forks/halogenica/beautifulhugo?style=flat-square&color=blue)](https://github.com/halogenica/beautifulhugo/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Theme for the Hugo static website generator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 635 |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ BeautifulHugo is a clean, responsive theme designed for the Hugo static site gen
 
 ### 中文
 
-halogenica/beautifulhugo：halogenica/beautifulhugo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+halogenica/beautifulhugo：halogenica/beautifulhugo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ halogenica/beautifulhugo：halogenica/beautifulhugo helps ship user-facing inter
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ halogenica/beautifulhugo：halogenica/beautifulhugo helps ship user-facing inter
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 67/100 |
 | stars | 66/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

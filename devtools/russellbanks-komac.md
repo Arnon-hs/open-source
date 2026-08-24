@@ -1,6 +1,6 @@
 # russellbanks/Komac
 
-[![Stars](https://img.shields.io/github/stars/russellbanks/Komac?style=flat-square&color=yellow)](https://github.com/russellbanks/Komac/stargazers) [![Forks](https://img.shields.io/github/forks/russellbanks/Komac?style=flat-square&color=blue)](https://github.com/russellbanks/Komac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/russellbanks/Komac?style=flat-square&color=yellow)](https://github.com/russellbanks/Komac/stargazers) [![Forks](https://img.shields.io/github/forks/russellbanks/Komac?style=flat-square&color=blue)](https://github.com/russellbanks/Komac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The Community Manifest Creator for WinGet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 430 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Komac is an open‑source community tool that simplifies the creation of Windows
 
 ### 中文
 
-russellbanks/Komac：russellbanks/Komac helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+russellbanks/Komac：russellbanks/Komac helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ russellbanks/Komac：russellbanks/Komac helps engineers save time in daily devel
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ russellbanks/Komac：russellbanks/Komac helps engineers save time in daily devel
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 51/100 |
-| stars | 56/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 50/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

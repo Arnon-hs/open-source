@@ -1,6 +1,6 @@
 # privacyidea/privacyidea
 
-[![Stars](https://img.shields.io/github/stars/privacyidea/privacyidea?style=flat-square&color=yellow)](https://github.com/privacyidea/privacyidea/stargazers) [![Forks](https://img.shields.io/github/forks/privacyidea/privacyidea?style=flat-square&color=blue)](https://github.com/privacyidea/privacyidea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/privacyidea/privacyidea?style=flat-square&color=yellow)](https://github.com/privacyidea/privacyidea/stargazers) [![Forks](https://img.shields.io/github/forks/privacyidea/privacyidea?style=flat-square&color=blue)](https://github.com/privacyidea/privacyidea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > :closed_lock_with_key: multi factor authentication system (2FA, MFA, OTP, FIDO Server)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 351 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ privacyidea 是一款基于 Python 的开源多因素认证系统，支持 2FA�
 | forks | 64/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

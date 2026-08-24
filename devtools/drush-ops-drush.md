@@ -1,6 +1,6 @@
 # drush-ops/drush
 
-[![Stars](https://img.shields.io/github/stars/drush-ops/drush?style=flat-square&color=yellow)](https://github.com/drush-ops/drush/stargazers) [![Forks](https://img.shields.io/github/forks/drush-ops/drush?style=flat-square&color=blue)](https://github.com/drush-ops/drush/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drush-ops/drush?style=flat-square&color=yellow)](https://github.com/drush-ops/drush/stargazers) [![Forks](https://img.shields.io/github/forks/drush-ops/drush?style=flat-square&color=blue)](https://github.com/drush-ops/drush/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Design
+DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ drush-ops/drush: drush-ops/drush helps engineers save time in daily development 
 
 ### Русский
 
-drush-ops/drush: open-source проект в категориях DevTools, Design. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+drush-ops/drush: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ drush-ops/drush：drush-ops/drush helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 73/100 |
-| stars | 72/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 88/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

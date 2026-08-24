@@ -1,6 +1,6 @@
 # umijs/umi
 
-[![Stars](https://img.shields.io/github/stars/umijs/umi?style=flat-square&color=yellow)](https://github.com/umijs/umi/stargazers) [![Forks](https://img.shields.io/github/forks/umijs/umi?style=flat-square&color=blue)](https://github.com/umijs/umi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/umijs/umi?style=flat-square&color=yellow)](https://github.com/umijs/umi/stargazers) [![Forks](https://img.shields.io/github/forks/umijs/umi?style=flat-square&color=blue)](https://github.com/umijs/umi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A framework in react community ✨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Umi（umijs/umi）是 React 生态中的一站式前端框架，提供约定式�
 | forks | 86/100 |
 | stars | 89/100 |
 | topics | 50/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

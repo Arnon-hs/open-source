@@ -1,6 +1,6 @@
 # google/dawn
 
-[![Stars](https://img.shields.io/github/stars/google/dawn?style=flat-square&color=yellow)](https://github.com/google/dawn/stargazers) [![Forks](https://img.shields.io/github/forks/google/dawn?style=flat-square&color=blue)](https://github.com/google/dawn/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/dawn?style=flat-square&color=yellow)](https://github.com/google/dawn/stargazers) [![Forks](https://img.shields.io/github/forks/google/dawn?style=flat-square&color=blue)](https://github.com/google/dawn/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ google/dawn 是 Google 开源的原生 WebGPU 实现，代码仓库为 https://d
 | forks | 56/100 |
 | stars | 64/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

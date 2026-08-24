@@ -1,6 +1,6 @@
 # panguard-ai/panguard-ai
 
-[![Stars](https://img.shields.io/github/stars/panguard-ai/panguard-ai?style=flat-square&color=yellow)](https://github.com/panguard-ai/panguard-ai/stargazers) [![Forks](https://img.shields.io/github/forks/panguard-ai/panguard-ai?style=flat-square&color=blue)](https://github.com/panguard-ai/panguard-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/panguard-ai/panguard-ai?style=flat-square&color=yellow)](https://github.com/panguard-ai/panguard-ai/stargazers) [![Forks](https://img.shields.io/github/forks/panguard-ai/panguard-ai?style=flat-square&color=blue)](https://github.com/panguard-ai/panguard-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source security platform for AI agents -- audits skills before install, monitors 24/7, shares threat intelligence across all users. |  AI Agent 開源安全平台 -- 安裝前審計 skill、24/7 即時監控、社群共享威脅情報。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ panguard‑ai — это открытая платформа безопасно�
 
 ### 中文
 
-panguard-ai/panguard-ai：panguard-ai/panguard-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+panguard-ai/panguard-ai：panguard-ai/panguard-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ panguard-ai/panguard-ai：panguard-ai/panguard-ai helps add AI capability withou
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ panguard-ai/panguard-ai：panguard-ai/panguard-ai helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 62/100 |
+| production | 48/100 |
+| outlook | 55/100 |
 | adoption | 30/100 |
 | stars | 34/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # zatosource/zato
 
-[![Stars](https://img.shields.io/github/stars/zatosource/zato?style=flat-square&color=yellow)](https://github.com/zatosource/zato/stargazers) [![Forks](https://img.shields.io/github/forks/zatosource/zato?style=flat-square&color=blue)](https://github.com/zatosource/zato/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zatosource/zato?style=flat-square&color=yellow)](https://github.com/zatosource/zato/stargazers) [![Forks](https://img.shields.io/github/forks/zatosource/zato?style=flat-square&color=blue)](https://github.com/zatosource/zato/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > ESB, SOA, REST, APIs and Cloud Integrations in Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · Automation · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ zatosource/zato: zatosource/zato helps turn isolated prompts and tools into repe
 
 ### Русский
 
-zatosource/zato: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+zatosource/zato: open-source проект в категориях Orchestration, Automation, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ zatosource/zato：zatosource/zato helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 70/100 |
-| adoption | 63/100 |
-| stars | 64/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # dootss/shodan-dorks
 
-[![Stars](https://img.shields.io/github/stars/dootss/shodan-dorks?style=flat-square&color=yellow)](https://github.com/dootss/shodan-dorks/stargazers) [![Forks](https://img.shields.io/github/forks/dootss/shodan-dorks?style=flat-square&color=blue)](https://github.com/dootss/shodan-dorks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dootss/shodan-dorks?style=flat-square&color=yellow)](https://github.com/dootss/shodan-dorks/stargazers) [![Forks](https://img.shields.io/github/forks/dootss/shodan-dorks?style=flat-square&color=blue)](https://github.com/dootss/shodan-dorks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > An auto-updating list of shodan dorks with info on the amount of results they return!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 356 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ dootss/shodan-dorks is an open‑source repository that maintains a continuously
 
 ### 中文
 
-dootss/shodan-dorks：dootss/shodan-dorks helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dootss/shodan-dorks：dootss/shodan-dorks helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dootss/shodan-dorks：dootss/shodan-dorks helps engineers save time in daily dev
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ dootss/shodan-dorks：dootss/shodan-dorks helps engineers save time in daily dev
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 51/100 |
 | stars | 54/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

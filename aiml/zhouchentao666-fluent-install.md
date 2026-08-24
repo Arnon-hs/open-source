@@ -1,6 +1,6 @@
 # zhouchentao666/Fluent-Install
 
-[![Stars](https://img.shields.io/github/stars/zhouchentao666/Fluent-Install?style=flat-square&color=yellow)](https://github.com/zhouchentao666/Fluent-Install/stargazers) [![Forks](https://img.shields.io/github/forks/zhouchentao666/Fluent-Install?style=flat-square&color=blue)](https://github.com/zhouchentao666/Fluent-Install/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhouchentao666/Fluent-Install?style=flat-square&color=yellow)](https://github.com/zhouchentao666/Fluent-Install/stargazers) [![Forks](https://img.shields.io/github/forks/zhouchentao666/Fluent-Install?style=flat-square&color=blue)](https://github.com/zhouchentao666/Fluent-Install/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 一个免费开源的由cai-install的后端改编的前端自制的fluent，基于steamtools的入库工具 中文名：流畅入库 英文名：FluentInstall
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Fluent‑Install — бесплатный open‑source проект, пред
 
 ### 中文
 
-zhouchentao666/Fluent-Install：zhouchentao666/Fluent-Install helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+zhouchentao666/Fluent-Install：zhouchentao666/Fluent-Install helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ zhouchentao666/Fluent-Install：zhouchentao666/Fluent-Install helps add AI capab
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ zhouchentao666/Fluent-Install：zhouchentao666/Fluent-Install helps add AI capab
 - updated 2026-05-09
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 52/100 |
 | stars | 57/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

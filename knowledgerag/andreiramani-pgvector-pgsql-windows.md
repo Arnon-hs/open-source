@@ -1,6 +1,6 @@
 # andreiramani/pgvector_pgsql_windows
 
-[![Stars](https://img.shields.io/github/stars/andreiramani/pgvector_pgsql_windows?style=flat-square&color=yellow)](https://github.com/andreiramani/pgvector_pgsql_windows/stargazers) [![Forks](https://img.shields.io/github/forks/andreiramani/pgvector_pgsql_windows?style=flat-square&color=blue)](https://github.com/andreiramani/pgvector_pgsql_windows/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andreiramani/pgvector_pgsql_windows?style=flat-square&color=yellow)](https://github.com/andreiramani/pgvector_pgsql_windows/stargazers) [![Forks](https://img.shields.io/github/forks/andreiramani/pgvector_pgsql_windows?style=flat-square&color=blue)](https://github.com/andreiramani/pgvector_pgsql_windows/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > pgvector - a PostgreSQL extension (native compiled in Microsoft Windows environment)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -117,14 +117,15 @@ Overall, the extension is a solid choice for internal prototypes or workflows th
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

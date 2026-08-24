@@ -1,6 +1,6 @@
 # Budibase/budibase
 
-[![Stars](https://img.shields.io/github/stars/Budibase/budibase?style=flat-square&color=yellow)](https://github.com/Budibase/budibase/stargazers) [![Forks](https://img.shields.io/github/forks/Budibase/budibase?style=flat-square&color=blue)](https://github.com/Budibase/budibase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Budibase/budibase?style=flat-square&color=yellow)](https://github.com/Budibase/budibase/stargazers) [![Forks](https://img.shields.io/github/forks/Budibase/budibase?style=flat-square&color=blue)](https://github.com/Budibase/budibase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > AI agents, automations and apps that run your operations. Model agnostic.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.9k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Backend · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Budibase/budibase: Budibase/budibase helps turn isolated prompts and tools into 
 
 ### Русский
 
-Budibase/budibase: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Budibase/budibase: open-source проект в категориях Orchestration, Automation, AI/ML, Backend, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Budibase/budibase：Budibase/budibase helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 81/100 |
-| integration | 62/100 |
-| production | 65/100 |
-| outlook | 77/100 |
-| adoption | 91/100 |
-| stars | 95/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

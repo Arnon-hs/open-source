@@ -1,6 +1,6 @@
 # kwakseongjae/oh-my-design
 
-[![Stars](https://img.shields.io/github/stars/kwakseongjae/oh-my-design?style=flat-square&color=yellow)](https://github.com/kwakseongjae/oh-my-design/stargazers) [![Forks](https://img.shields.io/github/forks/kwakseongjae/oh-my-design?style=flat-square&color=blue)](https://github.com/kwakseongjae/oh-my-design/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kwakseongjae/oh-my-design?style=flat-square&color=yellow)](https://github.com/kwakseongjae/oh-my-design/stargazers) [![Forks](https://img.shields.io/github/forks/kwakseongjae/oh-my-design?style=flat-square&color=blue)](https://github.com/kwakseongjae/oh-my-design/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Generate DESIGN.md from 78 real company design systems — brand tokens, components, philosophy. Drop into Claude Code or any AI agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Design · Marketing
+AI/ML · Frontend · DevTools · Design
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ kwakseongjae/oh‑my‑design 能自动从 78 家真实公司的设计系统中�
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

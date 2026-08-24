@@ -1,6 +1,6 @@
 # poppastring/dasblog-core
 
-[![Stars](https://img.shields.io/github/stars/poppastring/dasblog-core?style=flat-square&color=yellow)](https://github.com/poppastring/dasblog-core/stargazers) [![Forks](https://img.shields.io/github/forks/poppastring/dasblog-core?style=flat-square&color=blue)](https://github.com/poppastring/dasblog-core/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/poppastring/dasblog-core?style=flat-square&color=yellow)](https://github.com/poppastring/dasblog-core/stargazers) [![Forks](https://img.shields.io/github/forks/poppastring/dasblog-core?style=flat-square&color=blue)](https://github.com/poppastring/dasblog-core/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The original DasBlog reimagined with ASP.NET Core
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 478 |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DasBlog‑Core is a modern rewrite of the classic DasBlog blogging platform, reb
 
 ### 中文
 
-poppastring/dasblog-core：poppastring/dasblog-core may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+poppastring/dasblog-core：poppastring/dasblog-core may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ poppastring/dasblog-core：poppastring/dasblog-core may be useful when its READM
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ poppastring/dasblog-core：poppastring/dasblog-core may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 57/100 |
-| stars | 57/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

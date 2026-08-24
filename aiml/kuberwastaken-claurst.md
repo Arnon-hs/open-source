@@ -1,6 +1,6 @@
 # Kuberwastaken/claurst
 
-[![Stars](https://img.shields.io/github/stars/Kuberwastaken/claurst?style=flat-square&color=yellow)](https://github.com/Kuberwastaken/claurst/stargazers) [![Forks](https://img.shields.io/github/forks/Kuberwastaken/claurst?style=flat-square&color=blue)](https://github.com/Kuberwastaken/claurst/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kuberwastaken/claurst?style=flat-square&color=yellow)](https://github.com/Kuberwastaken/claurst/stargazers) [![Forks](https://img.shields.io/github/forks/Kuberwastaken/claurst?style=flat-square&color=blue)](https://github.com/Kuberwastaken/claurst/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Your favorite Terminal Coding Agent, now in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.6k |
 | 🍴 **Forks** | 7.8k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Kuberwastaken/claurst — это открытый проект‑агент д
 
 ### 中文
 
-Kuberwastaken/claurst：Kuberwastaken/claurst helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Kuberwastaken/claurst：Kuberwastaken/claurst helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Kuberwastaken/claurst：Kuberwastaken/claurst helps add AI capability without st
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ Kuberwastaken/claurst：Kuberwastaken/claurst helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 51/100 |
 | adoption | 88/100 |
 | stars | 85/100 |
 | forks | 97/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

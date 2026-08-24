@@ -1,6 +1,6 @@
 # null8626/decancer
 
-[![Stars](https://img.shields.io/github/stars/null8626/decancer?style=flat-square&color=yellow)](https://github.com/null8626/decancer/stargazers) [![Forks](https://img.shields.io/github/forks/null8626/decancer?style=flat-square&color=blue)](https://github.com/null8626/decancer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/null8626/decancer?style=flat-square&color=yellow)](https://github.com/null8626/decancer/stargazers) [![Forks](https://img.shields.io/github/forks/null8626/decancer?style=flat-square&color=blue)](https://github.com/null8626/decancer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A library that removes common unicode confusables/homoglyphs from strings.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Security
 
 ### 中文
 
-null8626/decancer：null8626/decancer helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+null8626/decancer：null8626/decancer helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ null8626/decancer：null8626/decancer helps catch security and privacy issues ea
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ null8626/decancer：null8626/decancer helps catch security and privacy issues ea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
-| adoption | 37/100 |
-| stars | 45/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 45/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

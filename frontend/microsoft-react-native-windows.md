@@ -1,6 +1,6 @@
 # microsoft/react-native-windows
 
-[![Stars](https://img.shields.io/github/stars/microsoft/react-native-windows?style=flat-square&color=yellow)](https://github.com/microsoft/react-native-windows/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/react-native-windows?style=flat-square&color=blue)](https://github.com/microsoft/react-native-windows/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/react-native-windows?style=flat-square&color=yellow)](https://github.com/microsoft/react-native-windows/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/react-native-windows?style=flat-square&color=blue)](https://github.com/microsoft/react-native-windows/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A framework for building native Windows apps with React.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ microsoft/react-native-windows：microsoft/react-native-windows helps ship user-
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 86/100 |
-| stars | 90/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| stars | 90/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

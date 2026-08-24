@@ -1,6 +1,6 @@
 # krodak/clickup-cli
 
-[![Stars](https://img.shields.io/github/stars/krodak/clickup-cli?style=flat-square&color=yellow)](https://github.com/krodak/clickup-cli/stargazers) [![Forks](https://img.shields.io/github/forks/krodak/clickup-cli?style=flat-square&color=blue)](https://github.com/krodak/clickup-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krodak/clickup-cli?style=flat-square&color=yellow)](https://github.com/krodak/clickup-cli/stargazers) [![Forks](https://img.shields.io/github/forks/krodak/clickup-cli?style=flat-square&color=blue)](https://github.com/krodak/clickup-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ClickUp CLI for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ krodak/clickup-cli 是一个基于 TypeScript 实现的 ClickUp 命令行工具�
 | forks | 25/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

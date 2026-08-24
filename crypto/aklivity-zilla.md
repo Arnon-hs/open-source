@@ -1,6 +1,6 @@
 # aklivity/zilla
 
-[![Stars](https://img.shields.io/github/stars/aklivity/zilla?style=flat-square&color=yellow)](https://github.com/aklivity/zilla/stargazers) [![Forks](https://img.shields.io/github/forks/aklivity/zilla?style=flat-square&color=blue)](https://github.com/aklivity/zilla/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aklivity/zilla?style=flat-square&color=yellow)](https://github.com/aklivity/zilla/stargazers) [![Forks](https://img.shields.io/github/forks/aklivity/zilla?style=flat-square&color=blue)](https://github.com/aklivity/zilla/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🦎 A multi-protocol edge & service proxy. Seamlessly interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 687 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aklivity/zilla：aklivity/zilla helps prototype or inspect blockchain workflows 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 56/100 |
 | stars | 60/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

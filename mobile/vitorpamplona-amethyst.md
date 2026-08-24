@@ -1,0 +1,84 @@
+# vitorpamplona/amethyst
+
+[![Stars](https://img.shields.io/github/stars/vitorpamplona/amethyst?style=flat-square&color=yellow)](https://github.com/vitorpamplona/amethyst/stargazers) [![Forks](https://img.shields.io/github/forks/vitorpamplona/amethyst?style=flat-square&color=blue)](https://github.com/vitorpamplona/amethyst/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+
+> Nostr client for Android
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 190 |
+| 💻 **Language** | Kotlin |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-05-07 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`android` `kotlin` `nostr` `social-network`
+
+## 🎯 Categories
+
+Mobile
+
+## 📝 Summary
+
+### English
+
+Here's a brief summary for the open-source project:
+
+Amethyst is an open-source Nostr client designed for Android, providing users with a secure and decentralized platform for sharing and discovering information. This project is built to offer a mobile-first experience, making it easily accessible to users on-the-go. By leveraging the Nostr protocol, Amethyst prioritizes user data privacy and security.
+
+### Русский
+
+Резюме:
+
+"Amethyst - это открытое-source приложение для Android, которое предоставляет доступ к сети Nostr (экосистема блокчейн, которая позволяет пользователям публиковать и получать уведомления в реальном времени). Это мощный инструмент для разработчиков и пользователей, позволяющий им взаимодействовать с сетью Nostr напрямую. Amethyst предназначен для обеспечения простого и надежного доступа к возможностям Nostr на мобильных устройствах."
+
+### 中文
+
+vitorpamplona/amethyst：vitorpamplona/amethyst may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** vitorpamplona/amethyst may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1518 GitHub stars
+- 190 forks
+- updated 2026-05-07
+- primary language: Kotlin
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 57/100 |
+| stars | 68/100 |
+| topics | 50/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/vitorpamplona/amethyst) · [← Back to Mobile](./README.md)</sub>

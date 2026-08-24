@@ -1,6 +1,6 @@
 # zzet/gortex
 
-[![Stars](https://img.shields.io/github/stars/zzet/gortex?style=flat-square&color=yellow)](https://github.com/zzet/gortex/stargazers) [![Forks](https://img.shields.io/github/forks/zzet/gortex?style=flat-square&color=blue)](https://github.com/zzet/gortex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zzet/gortex?style=flat-square&color=yellow)](https://github.com/zzet/gortex/stargazers) [![Forks](https://img.shields.io/github/forks/zzet/gortex?style=flat-square&color=blue)](https://github.com/zzet/gortex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance code intelligence engine that indexes repositories into an in-memory knowledge graph and exposes it via CLI, MCP Server, and web UI.  Built for AI coding agents - expose only needed information - one get_editing_context call replaces 5-10 file reads, cutting token usage by ~94%.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ zzet/gortex：zzet/gortex helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 50/100 |
+| outlook | 54/100 |
 | adoption | 29/100 |
 | stars | 33/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

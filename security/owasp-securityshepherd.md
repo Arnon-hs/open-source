@@ -1,0 +1,81 @@
+# OWASP/SecurityShepherd
+
+[![Stars](https://img.shields.io/github/stars/OWASP/SecurityShepherd?style=flat-square&color=yellow)](https://github.com/OWASP/SecurityShepherd/stargazers) [![Forks](https://img.shields.io/github/forks/OWASP/SecurityShepherd?style=flat-square&color=blue)](https://github.com/OWASP/SecurityShepherd/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+
+> Web and mobile application security training platform
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 498 |
+| 💻 **Language** | Java |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Security
+
+## 📝 Summary
+
+### English
+
+OWASP Security Shepherd is an open‑source training platform that provides hands‑on labs for learning web and mobile application security vulnerabilities and defenses. It offers a wide range of challenges—from beginner to advanced—covering OWASP Top 10 topics, secure coding practices, and mobile security concepts, making it a practical resource for developers, testers, and security professionals. The project is community‑driven, extensible, and can be deployed locally or in the cloud for classroom, corporate, or self‑paced learning environments.
+
+### Русский
+
+OWASP Security Shepherd — это открытая обучающая платформа, позволяющая практиковать навыки тестирования безопасности веб‑ и мобильных приложений через интерактивные задачи и симуляции уязвимостей. Проект сочетает элементы AI/ML для адаптивного подбора сценариев и предоставляет практический опыт защиты от реальных атак, делая обучение доступным как новичкам, так и профессионалам в сфере кибербезопасности.
+
+### 中文
+
+OWASP/SecurityShepherd：OWASP/SecurityShepherd helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** OWASP/SecurityShepherd helps catch security and privacy issues earlier in the workflow.
+
+**Best use cases**
+
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1440 GitHub stars
+- 498 forks
+- updated 2026-05-10
+- primary language: Java
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 67/100 |
+| stars | 67/100 |
+| topics | 0/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/OWASP/SecurityShepherd) · [← Back to Security](./README.md)</sub>

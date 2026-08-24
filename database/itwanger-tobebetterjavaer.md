@@ -1,6 +1,6 @@
 # itwanger/toBeBetterJavaer
 
-[![Stars](https://img.shields.io/github/stars/itwanger/toBeBetterJavaer?style=flat-square&color=yellow)](https://github.com/itwanger/toBeBetterJavaer/stargazers) [![Forks](https://img.shields.io/github/forks/itwanger/toBeBetterJavaer?style=flat-square&color=blue)](https://github.com/itwanger/toBeBetterJavaer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itwanger/toBeBetterJavaer?style=flat-square&color=yellow)](https://github.com/itwanger/toBeBetterJavaer/stargazers) [![Forks](https://img.shields.io/github/forks/itwanger/toBeBetterJavaer?style=flat-square&color=blue)](https://github.com/itwanger/toBeBetterJavaer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.1k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ Overall, `toBeBetterJavaer` is production‑ready as a learning resource and can
 | forks | 84/100 |
 | stars | 90/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

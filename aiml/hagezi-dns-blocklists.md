@@ -1,6 +1,6 @@
 # hagezi/dns-blocklists
 
-[![Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists?style=flat-square&color=yellow)](https://github.com/hagezi/dns-blocklists/stargazers) [![Forks](https://img.shields.io/github/forks/hagezi/dns-blocklists?style=flat-square&color=blue)](https://github.com/hagezi/dns-blocklists/network) [![Language](https://img.shields.io/badge/lang-Text-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists?style=flat-square&color=yellow)](https://github.com/hagezi/dns-blocklists/stargazers) [![Forks](https://img.shields.io/github/forks/hagezi/dns-blocklists?style=flat-square&color=blue)](https://github.com/hagezi/dns-blocklists/network) [![Language](https://img.shields.io/badge/lang-Text-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > DNS-Blocklists: For a better internet - keep the internet clean!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.4k |
 | 🍴 **Forks** | 663 |
 | 💻 **Language** | Text |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hagezi/dns-blocklists：hagezi/dns-blocklists helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 86/100 |
 | stars | 93/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

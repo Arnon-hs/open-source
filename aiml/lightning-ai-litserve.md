@@ -1,6 +1,6 @@
 # Lightning-AI/LitServe
 
-[![Stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=flat-square&color=yellow)](https://github.com/Lightning-AI/LitServe/stargazers) [![Forks](https://img.shields.io/github/forks/Lightning-AI/LitServe?style=flat-square&color=blue)](https://github.com/Lightning-AI/LitServe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lightning-AI/LitServe?style=flat-square&color=yellow)](https://github.com/Lightning-AI/LitServe/stargazers) [![Forks](https://img.shields.io/github/forks/Lightning-AI/LitServe?style=flat-square&color=blue)](https://github.com/Lightning-AI/LitServe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 292 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools · Education
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Lightning‑AI/LitServe 是一个极简的 Python 框架，帮助开发者快速
 | forks | 62/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

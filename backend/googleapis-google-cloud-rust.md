@@ -1,6 +1,6 @@
 # googleapis/google-cloud-rust
 
-[![Stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&color=yellow)](https://github.com/googleapis/google-cloud-rust/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-cloud-rust?style=flat-square&color=blue)](https://github.com/googleapis/google-cloud-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/google-cloud-rust?style=flat-square&color=yellow)](https://github.com/googleapis/google-cloud-rust/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-cloud-rust?style=flat-square&color=blue)](https://github.com/googleapis/google-cloud-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Google Cloud Rust Client Libraries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 918 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ googleapis/google-cloud-rust：googleapis/google-cloud-rust helps teams reuse se
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 60/100 |
 | stars | 63/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

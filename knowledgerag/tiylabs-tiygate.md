@@ -1,6 +1,6 @@
 # tiylabs/tiygate
 
-[![Stars](https://img.shields.io/github/stars/tiylabs/tiygate?style=flat-square&color=yellow)](https://github.com/tiylabs/tiygate/stargazers) [![Forks](https://img.shields.io/github/forks/tiylabs/tiygate?style=flat-square&color=blue)](https://github.com/tiylabs/tiygate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tiylabs/tiygate?style=flat-square&color=yellow)](https://github.com/tiylabs/tiygate/stargazers) [![Forks](https://img.shields.io/github/forks/tiylabs/tiygate?style=flat-square&color=blue)](https://github.com/tiylabs/tiygate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > TiyGate is a lightweight gateway for highly available LLM services. 一款致力于提供高可用 LLM 服务的轻量级网关。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ TiyGate（tiylabs/tiygate）是一个基于 Rust 实现的轻量级网关，专�
 | forks | 24/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

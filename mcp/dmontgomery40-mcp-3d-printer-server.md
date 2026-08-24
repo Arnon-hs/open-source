@@ -1,6 +1,6 @@
 # DMontgomery40/mcp-3D-printer-server
 
-[![Stars](https://img.shields.io/github/stars/DMontgomery40/mcp-3D-printer-server?style=flat-square&color=yellow)](https://github.com/DMontgomery40/mcp-3D-printer-server/stargazers) [![Forks](https://img.shields.io/github/forks/DMontgomery40/mcp-3D-printer-server?style=flat-square&color=blue)](https://github.com/DMontgomery40/mcp-3D-printer-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DMontgomery40/mcp-3D-printer-server?style=flat-square&color=yellow)](https://github.com/DMontgomery40/mcp-3D-printer-server/stargazers) [![Forks](https://img.shields.io/github/forks/DMontgomery40/mcp-3D-printer-server?style=flat-square&color=blue)](https://github.com/DMontgomery40/mcp-3D-printer-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Connects MCP to major 3D printer APIs (Orca, Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, rotation, sectional editing, and base extension. Includes slicing and visualization.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Database
+MCP · Backend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ DMontgomery40/mcp-3D-printer-server 是一套基于 TypeScript 的后端服务�
 | forks | 41/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

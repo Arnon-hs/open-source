@@ -1,6 +1,6 @@
 # frain-dev/convoy
 
-[![Stars](https://img.shields.io/github/stars/frain-dev/convoy?style=flat-square&color=yellow)](https://github.com/frain-dev/convoy/stargazers) [![Forks](https://img.shields.io/github/forks/frain-dev/convoy?style=flat-square&color=blue)](https://github.com/frain-dev/convoy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frain-dev/convoy?style=flat-square&color=yellow)](https://github.com/frain-dev/convoy/stargazers) [![Forks](https://img.shields.io/github/forks/frain-dev/convoy?style=flat-square&color=blue)](https://github.com/frain-dev/convoy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The Cloud Native Webhooks Gateway
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ frain-dev/convoy：frain-dev/convoy helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 71/100 |
+| production | 57/100 |
+| outlook | 64/100 |
 | adoption | 69/100 |
 | stars | 73/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

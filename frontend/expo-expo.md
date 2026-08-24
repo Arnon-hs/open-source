@@ -1,6 +1,6 @@
 # expo/expo
 
-[![Stars](https://img.shields.io/github/stars/expo/expo?style=flat-square&color=yellow)](https://github.com/expo/expo/stargazers) [![Forks](https://img.shields.io/github/forks/expo/expo?style=flat-square&color=blue)](https://github.com/expo/expo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/expo/expo?style=flat-square&color=yellow)](https://github.com/expo/expo/stargazers) [![Forks](https://img.shields.io/github/forks/expo/expo?style=flat-square&color=blue)](https://github.com/expo/expo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49.3k |
 | 🍴 **Forks** | 12.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ expo/expo：expo/expo helps ship user-facing interfaces with less custom UI work
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 85/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 71/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

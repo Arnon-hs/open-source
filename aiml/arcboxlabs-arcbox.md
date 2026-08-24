@@ -1,6 +1,6 @@
 # arcboxlabs/arcbox
 
-[![Stars](https://img.shields.io/github/stars/arcboxlabs/arcbox?style=flat-square&color=yellow)](https://github.com/arcboxlabs/arcbox/stargazers) [![Forks](https://img.shields.io/github/forks/arcboxlabs/arcbox?style=flat-square&color=blue)](https://github.com/arcboxlabs/arcbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arcboxlabs/arcbox?style=flat-square&color=yellow)](https://github.com/arcboxlabs/arcbox/stargazers) [![Forks](https://img.shields.io/github/forks/arcboxlabs/arcbox?style=flat-square&color=blue)](https://github.com/arcboxlabs/arcbox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <200ms boot. Local first, OCI compatible, pure Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 171 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ arcboxlabs/arcbox 是一款用纯 Rust 编写的轻量级运行时，可在真�
 | forks | 17/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

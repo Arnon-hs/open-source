@@ -1,6 +1,6 @@
 # LearningCircuit/local-deep-research
 
-[![Stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat-square&color=yellow)](https://github.com/LearningCircuit/local-deep-research/stargazers) [![Forks](https://img.shields.io/github/forks/LearningCircuit/local-deep-research?style=flat-square&color=blue)](https://github.com/LearningCircuit/local-deep-research/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat-square&color=yellow)](https://github.com/LearningCircuit/local-deep-research/stargazers) [![Forks](https://img.shields.io/github/forks/LearningCircuit/local-deep-research?style=flat-square&color=blue)](https://github.com/LearningCircuit/local-deep-research/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.7k |
-| 🍴 **Forks** | 763 |
+| ⭐ **Stars** | 6.1k |
+| 🍴 **Forks** | 540 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Frontend · Backend
+Knowledge/RAG · Automation · AI/ML · Security
 
 ## 📝 Summary
 
 ### English
 
-LearningCircuit/local-deep-research: LearningCircuit/local-deep-research helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+LearningCircuit/local-deep-research: LearningCircuit/local-deep-research helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-LearningCircuit/local-deep-research: open-source проект в категориях Knowledge/RAG, Automation, AI/ML, Frontend, Backend. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+LearningCircuit/local-deep-research: open-source проект в категориях Knowledge/RAG, Automation, AI/ML, Security. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 8660 GitHub stars
-- 763 forks
-- updated 2026-07-04
+- 6103 GitHub stars
+- 540 forks
+- updated 2026-05-07
 - primary language: Python
 - 20 topics
 
@@ -65,18 +65,18 @@ LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 91/100 |
-| integration | 62/100 |
-| production | 83/100 |
-| outlook | 93/100 |
-| adoption | 81/100 |
-| stars | 84/100 |
-| forks | 72/100 |
-| recency | 100/100 |
+| forks | 68/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/LearningCircuit/local-deep-research) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/LearningCircuit/local-deep-research) · [← Back to Knowledgerag](./README.md)</sub>

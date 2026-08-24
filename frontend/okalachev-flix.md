@@ -1,6 +1,6 @@
 # okalachev/flix
 
-[![Stars](https://img.shields.io/github/stars/okalachev/flix?style=flat-square&color=yellow)](https://github.com/okalachev/flix/stargazers) [![Forks](https://img.shields.io/github/forks/okalachev/flix?style=flat-square&color=blue)](https://github.com/okalachev/flix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/okalachev/flix?style=flat-square&color=yellow)](https://github.com/okalachev/flix/stargazers) [![Forks](https://img.shields.io/github/forks/okalachev/flix?style=flat-square&color=blue)](https://github.com/okalachev/flix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Making an ESP32-based quadcopter from scratch
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 894 |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A lightweight open‑source project that guides you through building a fully fun
 
 ### 中文
 
-okalachev/flix：okalachev/flix helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+okalachev/flix：okalachev/flix helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ okalachev/flix：okalachev/flix helps ship user-facing interfaces with less cust
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ okalachev/flix：okalachev/flix helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 61/100 |
 | stars | 63/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

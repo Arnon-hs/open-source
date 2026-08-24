@@ -1,6 +1,6 @@
 # kestra-io/kestra
 
-[![Stars](https://img.shields.io/github/stars/kestra-io/kestra?style=flat-square&color=yellow)](https://github.com/kestra-io/kestra/stargazers) [![Forks](https://img.shields.io/github/forks/kestra-io/kestra?style=flat-square&color=blue)](https://github.com/kestra-io/kestra/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kestra-io/kestra?style=flat-square&color=yellow)](https://github.com/kestra-io/kestra/stargazers) [![Forks](https://img.shields.io/github/forks/kestra-io/kestra?style=flat-square&color=blue)](https://github.com/kestra-io/kestra/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26.8k |
 | 🍴 **Forks** | 2.6k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Automation · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ kestra-io/kestra: kestra-io/kestra helps turn isolated prompts and tools into re
 
 ### Русский
 
-kestra-io/kestra: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kestra-io/kestra: open-source проект в категориях Orchestration, Automation, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ kestra-io/kestra：kestra-io/kestra helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 81/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 72/100 |
-| adoption | 92/100 |
-| stars | 94/100 |
 | forks | 85/100 |
-| recency | 40/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

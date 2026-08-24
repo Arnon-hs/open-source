@@ -1,6 +1,6 @@
 # Adyen/adyen-web
 
-[![Stars](https://img.shields.io/github/stars/Adyen/adyen-web?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-web/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-web?style=flat-square&color=blue)](https://github.com/Adyen/adyen-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Adyen/adyen-web?style=flat-square&color=yellow)](https://github.com/Adyen/adyen-web/stargazers) [![Forks](https://img.shields.io/github/forks/Adyen/adyen-web?style=flat-square&color=blue)](https://github.com/Adyen/adyen-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Adyen Web Drop-in and Components
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 246 |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Adyen Web Drop‑in и Components — это открытая библ
 
 ### 中文
 
-Adyen/adyen-web：Adyen/adyen-web helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Adyen/adyen-web：Adyen/adyen-web helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Adyen/adyen-web：Adyen/adyen-web helps integrate monetization, billing, or PSP 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Adyen/adyen-web：Adyen/adyen-web helps integrate monetization, billing, or PSP 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 52/100 |
-| stars | 51/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| stars | 51/100 |
 | topics | 75/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

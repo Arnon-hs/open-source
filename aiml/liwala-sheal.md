@@ -1,6 +1,6 @@
 # liwala/sheal
 
-[![Stars](https://img.shields.io/github/stars/liwala/sheal?style=flat-square&color=yellow)](https://github.com/liwala/sheal/stargazers) [![Forks](https://img.shields.io/github/forks/liwala/sheal?style=flat-square&color=blue)](https://github.com/liwala/sheal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liwala/sheal?style=flat-square&color=yellow)](https://github.com/liwala/sheal/stargazers) [![Forks](https://img.shields.io/github/forks/liwala/sheal?style=flat-square&color=blue)](https://github.com/liwala/sheal/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > your ai agent keeps making the same mistakes. sheal fixes that.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 82 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ liwala/sheal 是一个用于纠正 AI 代理重复错误的工具库，提供即
 | forks | 28/100 |
 | stars | 41/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

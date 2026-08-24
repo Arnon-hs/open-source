@@ -1,6 +1,6 @@
 # qixing-jk/all-api-hub
 
-[![Stars](https://img.shields.io/github/stars/qixing-jk/all-api-hub?style=flat-square&color=yellow)](https://github.com/qixing-jk/all-api-hub/stargazers) [![Forks](https://img.shields.io/github/forks/qixing-jk/all-api-hub?style=flat-square&color=blue)](https://github.com/qixing-jk/all-api-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qixing-jk/all-api-hub?style=flat-square&color=yellow)](https://github.com/qixing-jk/all-api-hub/stargazers) [![Forks](https://img.shields.io/github/forks/qixing-jk/all-api-hub?style=flat-square&color=blue)](https://github.com/qixing-jk/all-api-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > ​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 225 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ qixing-jk/all-api-hub: qixing-jk/all-api-hub helps add AI capability without sta
 
 ### Русский
 
-qixing-jk/all-api-hub: open-source проект в категориях AI/ML, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+qixing-jk/all-api-hub: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ qixing-jk/all-api-hub：qixing-jk/all-api-hub helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 72/100 |
-| integration | 78/100 |
-| production | 64/100 |
-| outlook | 70/100 |
-| adoption | 71/100 |
-| stars | 75/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # kyrolabs/awesome-agents
 
-[![Stars](https://img.shields.io/github/stars/kyrolabs/awesome-agents?style=flat-square&color=yellow)](https://github.com/kyrolabs/awesome-agents/stargazers) [![Forks](https://img.shields.io/github/forks/kyrolabs/awesome-agents?style=flat-square&color=blue)](https://github.com/kyrolabs/awesome-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kyrolabs/awesome-agents?style=flat-square&color=yellow)](https://github.com/kyrolabs/awesome-agents/stargazers) [![Forks](https://img.shields.io/github/forks/kyrolabs/awesome-agents?style=flat-square&color=blue)](https://github.com/kyrolabs/awesome-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Awesome list of AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 548 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **awesome-agents** repository curated by kyrolabs is a curated collection of
 
 ### 中文
 
-kyrolabs/awesome-agents：kyrolabs/awesome-agents helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kyrolabs/awesome-agents：kyrolabs/awesome-agents helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kyrolabs/awesome-agents：kyrolabs/awesome-agents helps add AI capability withou
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ kyrolabs/awesome-agents：kyrolabs/awesome-agents helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 53/100 |
+| production | 45/100 |
+| outlook | 46/100 |
 | adoption | 71/100 |
 | stars | 72/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # diegoxtr/ctx-open
 
-[![Stars](https://img.shields.io/github/stars/diegoxtr/ctx-open?style=flat-square&color=yellow)](https://github.com/diegoxtr/ctx-open/stargazers) [![Forks](https://img.shields.io/github/forks/diegoxtr/ctx-open?style=flat-square&color=blue)](https://github.com/diegoxtr/ctx-open/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diegoxtr/ctx-open?style=flat-square&color=yellow)](https://github.com/diegoxtr/ctx-open/stargazers) [![Forks](https://img.shields.io/github/forks/diegoxtr/ctx-open?style=flat-square&color=blue)](https://github.com/diegoxtr/ctx-open/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > CTX is the standard Cognitive Version Control System for AI. Structured working memory for AI agents. CTX preserves goals, tasks, evidence, decisions, conclusions, runbooks, and origins so agents can continue work instead of restarting from scratch.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ CTX（Cognitive Version Control System）是面向 AI 代理的标准化认知�
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

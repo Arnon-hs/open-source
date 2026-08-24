@@ -1,6 +1,6 @@
 # anyoptimization/pymoo
 
-[![Stars](https://img.shields.io/github/stars/anyoptimization/pymoo?style=flat-square&color=yellow)](https://github.com/anyoptimization/pymoo/stargazers) [![Forks](https://img.shields.io/github/forks/anyoptimization/pymoo?style=flat-square&color=blue)](https://github.com/anyoptimization/pymoo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anyoptimization/pymoo?style=flat-square&color=yellow)](https://github.com/anyoptimization/pymoo/stargazers) [![Forks](https://img.shields.io/github/forks/anyoptimization/pymoo?style=flat-square&color=blue)](https://github.com/anyoptimization/pymoo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > NSGA2, NSGA3, R-NSGA3, MOEAD, Genetic Algorithms (GA), Differential Evolution (DE), CMAES, PSO
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ anyoptimization/pymoo 是一个基于 Python 的多目标进化算法库，提�
 | forks | 67/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

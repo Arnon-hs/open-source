@@ -1,6 +1,6 @@
 # STranslate/STranslate
 
-[![Stars](https://img.shields.io/github/stars/STranslate/STranslate?style=flat-square&color=yellow)](https://github.com/STranslate/STranslate/stargazers) [![Forks](https://img.shields.io/github/forks/STranslate/STranslate?style=flat-square&color=blue)](https://github.com/STranslate/STranslate/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/STranslate/STranslate?style=flat-square&color=yellow)](https://github.com/STranslate/STranslate/stargazers) [![Forks](https://img.shields.io/github/forks/STranslate/STranslate?style=flat-square&color=blue)](https://github.com/STranslate/STranslate/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 382 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ STranslate/STranslate：STranslate/STranslate may be useful when its README and 
 | forks | 65/100 |
 | stars | 82/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

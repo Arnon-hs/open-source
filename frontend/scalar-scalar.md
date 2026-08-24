@@ -1,6 +1,6 @@
 # scalar/scalar
 
-[![Stars](https://img.shields.io/github/stars/scalar/scalar?style=flat-square&color=yellow)](https://github.com/scalar/scalar/stargazers) [![Forks](https://img.shields.io/github/forks/scalar/scalar?style=flat-square&color=blue)](https://github.com/scalar/scalar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scalar/scalar?style=flat-square&color=yellow)](https://github.com/scalar/scalar/stargazers) [![Forks](https://img.shields.io/github/forks/scalar/scalar?style=flat-square&color=blue)](https://github.com/scalar/scalar/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 15.4k |
 | 🍴 **Forks** | 880 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools · Database
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ Scalar（scalar/scalar）是一个开源的 API 平台，提供 **现代化的 R
 | forks | 74/100 |
 | stars | 89/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 86/100 |
+| production | 66/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

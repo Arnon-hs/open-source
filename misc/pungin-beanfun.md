@@ -1,6 +1,6 @@
 # pungin/Beanfun
 
-[![Stars](https://img.shields.io/github/stars/pungin/Beanfun?style=flat-square&color=yellow)](https://github.com/pungin/Beanfun/stargazers) [![Forks](https://img.shields.io/github/forks/pungin/Beanfun?style=flat-square&color=blue)](https://github.com/pungin/Beanfun/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pungin/Beanfun?style=flat-square&color=yellow)](https://github.com/pungin/Beanfun/stargazers) [![Forks](https://img.shields.io/github/forks/pungin/Beanfun?style=flat-square&color=blue)](https://github.com/pungin/Beanfun/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 繽放 - 樂豆第三方客戶端
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 768 |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ pungin/Beanfun：pungin/Beanfun may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
-| adoption | 60/100 |
-| stars | 61/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

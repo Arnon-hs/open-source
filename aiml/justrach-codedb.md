@@ -1,6 +1,6 @@
 # justrach/codedb
 
-[![Stars](https://img.shields.io/github/stars/justrach/codedb?style=flat-square&color=yellow)](https://github.com/justrach/codedb/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/codedb?style=flat-square&color=blue)](https://github.com/justrach/codedb/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justrach/codedb?style=flat-square&color=yellow)](https://github.com/justrach/codedb/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/codedb?style=flat-square&color=blue)](https://github.com/justrach/codedb/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 784 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ justrach/codedb：justrach/codedb helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 66/100 |
+| production | 50/100 |
+| outlook | 59/100 |
 | adoption | 56/100 |
 | stars | 62/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

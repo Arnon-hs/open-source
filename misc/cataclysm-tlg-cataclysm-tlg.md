@@ -1,6 +1,6 @@
 # Cataclysm-TLG/Cataclysm-TLG
 
-[![Stars](https://img.shields.io/github/stars/Cataclysm-TLG/Cataclysm-TLG?style=flat-square&color=yellow)](https://github.com/Cataclysm-TLG/Cataclysm-TLG/stargazers) [![Forks](https://img.shields.io/github/forks/Cataclysm-TLG/Cataclysm-TLG?style=flat-square&color=blue)](https://github.com/Cataclysm-TLG/Cataclysm-TLG/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cataclysm-TLG/Cataclysm-TLG?style=flat-square&color=yellow)](https://github.com/Cataclysm-TLG/Cataclysm-TLG/stargazers) [![Forks](https://img.shields.io/github/forks/Cataclysm-TLG/Cataclysm-TLG?style=flat-square&color=blue)](https://github.com/Cataclysm-TLG/Cataclysm-TLG/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Cataclysm: The Last Generation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -56,22 +56,22 @@ Cataclysm-TLG/Cataclysm-TLG：Cataclysm-TLG/Cataclysm-TLG may be useful when its
 - updated 2026-05-09
 - primary language: C++
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 52/100 |
-| stars | 54/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # privacy-ethereum/halo2curves
 
-[![Stars](https://img.shields.io/github/stars/privacy-ethereum/halo2curves?style=flat-square&color=yellow)](https://github.com/privacy-ethereum/halo2curves/stargazers) [![Forks](https://img.shields.io/github/forks/privacy-ethereum/halo2curves?style=flat-square&color=blue)](https://github.com/privacy-ethereum/halo2curves/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/privacy-ethereum/halo2curves?style=flat-square&color=yellow)](https://github.com/privacy-ethereum/halo2curves/stargazers) [![Forks](https://img.shields.io/github/forks/privacy-ethereum/halo2curves?style=flat-square&color=blue)](https://github.com/privacy-ethereum/halo2curves/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ privacy-ethereum/halo2curves 是一个基于 Rust 实现的椭圆曲线库，专
 | forks | 56/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 66/100 |
+| production | 40/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ikaijua/Awesome-AITools
 
-[![Stars](https://img.shields.io/github/stars/ikaijua/Awesome-AITools?style=flat-square&color=yellow)](https://github.com/ikaijua/Awesome-AITools/stargazers) [![Forks](https://img.shields.io/github/forks/ikaijua/Awesome-AITools?style=flat-square&color=blue)](https://github.com/ikaijua/Awesome-AITools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ikaijua/Awesome-AITools?style=flat-square&color=yellow)](https://github.com/ikaijua/Awesome-AITools/stargazers) [![Forks](https://img.shields.io/github/forks/ikaijua/Awesome-AITools?style=flat-square&color=blue)](https://github.com/ikaijua/Awesome-AITools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 562 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ ikaijua/Awesome-AITools：ikaijua/Awesome-AITools helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 75/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 68/100 |
-| adoption | 77/100 |
-| stars | 80/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

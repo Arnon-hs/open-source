@@ -1,6 +1,6 @@
 # hwdsl2/setup-ipsec-vpn
 
-[![Stars](https://img.shields.io/github/stars/hwdsl2/setup-ipsec-vpn?style=flat-square&color=yellow)](https://github.com/hwdsl2/setup-ipsec-vpn/stargazers) [![Forks](https://img.shields.io/github/forks/hwdsl2/setup-ipsec-vpn?style=flat-square&color=blue)](https://github.com/hwdsl2/setup-ipsec-vpn/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hwdsl2/setup-ipsec-vpn?style=flat-square&color=yellow)](https://github.com/hwdsl2/setup-ipsec-vpn/stargazers) [![Forks](https://img.shields.io/github/forks/hwdsl2/setup-ipsec-vpn?style=flat-square&color=blue)](https://github.com/hwdsl2/setup-ipsec-vpn/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and management scripts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.8k |
 | 🍴 **Forks** | 6.5k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Security
+Backend · Security
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ hwdsl2/setup‑ipsec‑vpn 为团队提供即插即用的 VPN 基础设施，能
 | forks | 95/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 78/100 |
+| recency | 20/100 |
 | adoption | 95/100 |
-| production | 83/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

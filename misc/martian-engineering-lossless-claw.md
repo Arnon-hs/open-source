@@ -1,6 +1,6 @@
 # Martian-Engineering/lossless-claw
 
-[![Stars](https://img.shields.io/github/stars/Martian-Engineering/lossless-claw?style=flat-square&color=yellow)](https://github.com/Martian-Engineering/lossless-claw/stargazers) [![Forks](https://img.shields.io/github/forks/Martian-Engineering/lossless-claw?style=flat-square&color=blue)](https://github.com/Martian-Engineering/lossless-claw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Martian-Engineering/lossless-claw?style=flat-square&color=yellow)](https://github.com/Martian-Engineering/lossless-claw/stargazers) [![Forks](https://img.shields.io/github/forks/Martian-Engineering/lossless-claw?style=flat-square&color=blue)](https://github.com/Martian-Engineering/lossless-claw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 429 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Lossless Claw 的生产可用性很高，因为它有 recent 活动、广泛的�
 | forks | 66/100 |
 | stars | 78/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # LeenHawk/gproxy
 
-[![Stars](https://img.shields.io/github/stars/LeenHawk/gproxy?style=flat-square&color=yellow)](https://github.com/LeenHawk/gproxy/stargazers) [![Forks](https://img.shields.io/github/forks/LeenHawk/gproxy?style=flat-square&color=blue)](https://github.com/LeenHawk/gproxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LeenHawk/gproxy?style=flat-square&color=yellow)](https://github.com/LeenHawk/gproxy/stargazers) [![Forks](https://img.shields.io/github/forks/LeenHawk/gproxy?style=flat-square&color=blue)](https://github.com/LeenHawk/gproxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > gproxy is a Rust-based multi-channel LLM proxy that exposes OpenAI / Claude / Gemini-style APIs through a unified gateway, with a built-in admin console, user/key management, and request/usage auditing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ gproxy — это прокси‑сервер на Rust, объединяющ�
 
 ### 中文
 
-LeenHawk/gproxy：LeenHawk/gproxy helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+LeenHawk/gproxy：LeenHawk/gproxy helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ LeenHawk/gproxy：LeenHawk/gproxy helps add AI capability without starting from 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ LeenHawk/gproxy：LeenHawk/gproxy helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 42/100 |
-| stars | 45/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| stars | 45/100 |
 | topics | 50/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

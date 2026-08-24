@@ -1,6 +1,6 @@
 # DataTalksClub/ai-dev-tools-zoomcamp
 
-[![Stars](https://img.shields.io/github/stars/DataTalksClub/ai-dev-tools-zoomcamp?style=flat-square&color=yellow)](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/stargazers) [![Forks](https://img.shields.io/github/forks/DataTalksClub/ai-dev-tools-zoomcamp?style=flat-square&color=blue)](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataTalksClub/ai-dev-tools-zoomcamp?style=flat-square&color=yellow)](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/stargazers) [![Forks](https://img.shields.io/github/forks/DataTalksClub/ai-dev-tools-zoomcamp?style=flat-square&color=blue)](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > AI Dev Tools Zoomcamp is a free course that helps you use AI tools to write better code, faster. We're starting the first cohort of this course on November 18, 2025! Sign up here to join us 👇🏼
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Data · Education
+MCP · Automation · AI/ML · Education
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ DataTalksClub/ai-dev-tools-zoomcamp 帮助连接 AI 助手到真实的工具和�
 | forks | 57/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

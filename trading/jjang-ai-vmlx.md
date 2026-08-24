@@ -1,6 +1,6 @@
 # jjang-ai/vmlx
 
-[![Stars](https://img.shields.io/github/stars/jjang-ai/vmlx?style=flat-square&color=yellow)](https://github.com/jjang-ai/vmlx/stargazers) [![Forks](https://img.shields.io/github/forks/jjang-ai/vmlx?style=flat-square&color=blue)](https://github.com/jjang-ai/vmlx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jjang-ai/vmlx?style=flat-square&color=yellow)](https://github.com/jjang-ai/vmlx/stargazers) [![Forks](https://img.shields.io/github/forks/jjang-ai/vmlx?style=flat-square&color=blue)](https://github.com/jjang-ai/vmlx/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > vMLX - Home of JANG_Q - Cont Batch, Prefix, Paged, KV Cache Quant, VL - Powers MLX Studio. Image gen/edit, OpenAI/Anth
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · Backend
+Trading · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ jjang-ai/vmlx: jjang-ai/vmlx helps research and automate market workflows.. Use 
 
 ### Русский
 
-jjang-ai/vmlx: open-source проект в категориях Trading, AI/ML, Backend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+jjang-ai/vmlx: open-source проект в категориях Trading, MCP, AI/ML, Backend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ jjang-ai/vmlx：jjang-ai/vmlx helps research and automate market workflows.。�
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 64/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 65/100 |
-| adoption | 53/100 |
-| stars | 57/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

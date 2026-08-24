@@ -1,6 +1,6 @@
 # hoochanlon/hamuleite
 
-[![Stars](https://img.shields.io/github/stars/hoochanlon/hamuleite?style=flat-square&color=yellow)](https://github.com/hoochanlon/hamuleite/stargazers) [![Forks](https://img.shields.io/github/forks/hoochanlon/hamuleite?style=flat-square&color=blue)](https://github.com/hoochanlon/hamuleite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoochanlon/hamuleite?style=flat-square&color=yellow)](https://github.com/hoochanlon/hamuleite/stargazers) [![Forks](https://img.shields.io/github/forks/hoochanlon/hamuleite?style=flat-square&color=blue)](https://github.com/hoochanlon/hamuleite/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.4k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ hoochanlon/hamuleite：hoochanlon/hamuleite may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 78/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 63/100 |
-| adoption | 84/100 |
-| stars | 85/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

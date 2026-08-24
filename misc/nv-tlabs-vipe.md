@@ -1,6 +1,6 @@
 # nv-tlabs/vipe
 
-[![Stars](https://img.shields.io/github/stars/nv-tlabs/vipe?style=flat-square&color=yellow)](https://github.com/nv-tlabs/vipe/stargazers) [![Forks](https://img.shields.io/github/forks/nv-tlabs/vipe?style=flat-square&color=blue)](https://github.com/nv-tlabs/vipe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nv-tlabs/vipe?style=flat-square&color=yellow)](https://github.com/nv-tlabs/vipe/stargazers) [![Forks](https://img.shields.io/github/forks/nv-tlabs/vipe?style=flat-square&color=blue)](https://github.com/nv-tlabs/vipe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ViPE: Video Pose Engine for Geometric 3D Perception
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ ViPE 具备 **高精度、易集成、生产级别的成熟度**，非常适合�
 | forks | 55/100 |
 | stars | 70/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

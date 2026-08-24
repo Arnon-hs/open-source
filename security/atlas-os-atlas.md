@@ -1,6 +1,6 @@
 # Atlas-OS/Atlas
 
-[![Stars](https://img.shields.io/github/stars/Atlas-OS/Atlas?style=flat-square&color=yellow)](https://github.com/Atlas-OS/Atlas/stargazers) [![Forks](https://img.shields.io/github/forks/Atlas-OS/Atlas?style=flat-square&color=blue)](https://github.com/Atlas-OS/Atlas/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Atlas-OS/Atlas?style=flat-square&color=yellow)](https://github.com/Atlas-OS/Atlas/stargazers) [![Forks](https://img.shields.io/github/forks/Atlas-OS/Atlas?style=flat-square&color=blue)](https://github.com/Atlas-OS/Atlas/network) [![Language](https://img.shields.io/badge/lang-Batchfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.5k |
 | 🍴 **Forks** | 730 |
 | 💻 **Language** | Batchfile |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Security · Design
+Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Atlas-OS/Atlas: Atlas-OS/Atlas helps catch security and privacy issues earlier i
 
 ### Русский
 
-Atlas-OS/Atlas: open-source проект в категориях Security, Design. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Atlas-OS/Atlas: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Atlas-OS/Atlas：Atlas-OS/Atlas helps catch security and privacy issues earlier 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 79/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 64/100 |
-| adoption | 86/100 |
-| stars | 92/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| stars | 92/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

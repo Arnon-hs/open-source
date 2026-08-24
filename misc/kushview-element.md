@@ -1,6 +1,6 @@
 # kushview/element
 
-[![Stars](https://img.shields.io/github/stars/kushview/element?style=flat-square&color=yellow)](https://github.com/kushview/element/stargazers) [![Forks](https://img.shields.io/github/forks/kushview/element?style=flat-square&color=blue)](https://github.com/kushview/element/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kushview/element?style=flat-square&color=yellow)](https://github.com/kushview/element/stargazers) [![Forks](https://img.shields.io/github/forks/kushview/element?style=flat-square&color=blue)](https://github.com/kushview/element/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Element Audio Plugin Host
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ kushview/element 是一款基于 C++ 的开源 **Audio Plugin Host**，提供统
 | forks | 53/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

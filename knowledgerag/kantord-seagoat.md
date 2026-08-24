@@ -1,0 +1,82 @@
+# kantord/SeaGOAT
+
+[![Stars](https://img.shields.io/github/stars/kantord/SeaGOAT?style=flat-square&color=yellow)](https://github.com/kantord/SeaGOAT/stargazers) [![Forks](https://img.shields.io/github/forks/kantord/SeaGOAT?style=flat-square&color=blue)](https://github.com/kantord/SeaGOAT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+
+> local-first semantic code search engine
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 91 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai` `ai-project` `code-search` `code-search-engine` `embeddings` `grep` `grep-like` `hacktoberfest` `hacktoberfest2023` `llm` `regular-expression` `ripgrep`
+
+## 🎯 Categories
+
+Knowledge/RAG · AI/ML · Database
+
+## 📝 Summary
+
+### English
+
+SeaGOAT is a local‑first semantic code search engine that lets developers quickly find relevant code snippets across their own repositories without sending data to external services. By leveraging AI/ML models for natural‑language understanding, it indexes source files and provides context‑aware results directly on the user's machine, ensuring privacy and low latency. The project is open source and suited for teams that need fast, offline code discovery and exploration.
+
+### Русский
+
+**SeaGOAT** — это локальный семантический поисковый движок для кода, который позволяет быстро находить нужные фрагменты без отправки данных в облако. Проект использует модели AI/ML для понимания контекста и смысловых связей в исходных файлах, обеспечивая точные результаты даже при работе с большими репозиториями. Он полностью open‑source и ориентирован на разработчиков, которым важна конфиденциальность и автономность инструмента.
+
+### 中文
+
+kantord/SeaGOAT：kantord/SeaGOAT helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** kantord/SeaGOAT helps make internal knowledge searchable and usable by assistants.
+
+**Best use cases**
+
+- index knowledge bases
+- improve search over documents
+- ground assistant answers
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1291 GitHub stars
+- 91 forks
+- updated 2026-05-09
+- primary language: Python
+- 14 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 49/100 |
+| stars | 66/100 |
+| topics | 100/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/kantord/SeaGOAT) · [← Back to Knowledgerag](./README.md)</sub>

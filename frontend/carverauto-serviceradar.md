@@ -1,6 +1,6 @@
 # carverauto/serviceradar
 
-[![Stars](https://img.shields.io/github/stars/carverauto/serviceradar?style=flat-square&color=yellow)](https://github.com/carverauto/serviceradar/stargazers) [![Forks](https://img.shields.io/github/forks/carverauto/serviceradar?style=flat-square&color=blue)](https://github.com/carverauto/serviceradar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carverauto/serviceradar?style=flat-square&color=yellow)](https://github.com/carverauto/serviceradar/stargazers) [![Forks](https://img.shields.io/github/forks/carverauto/serviceradar?style=flat-square&color=blue)](https://github.com/carverauto/serviceradar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-trust Opensource Network Management and Observability Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 861 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CarverAuto / ServiceRadar — это открытая платформа �
 
 ### 中文
 
-carverauto/serviceradar：carverauto/serviceradar helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+carverauto/serviceradar：carverauto/serviceradar helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ carverauto/serviceradar：carverauto/serviceradar helps ship user-facing interfa
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ carverauto/serviceradar：carverauto/serviceradar helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 63/100 |
+| production | 48/100 |
+| outlook | 56/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

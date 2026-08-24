@@ -1,6 +1,6 @@
 # wayvr-org/wayvr
 
-[![Stars](https://img.shields.io/github/stars/wayvr-org/wayvr?style=flat-square&color=yellow)](https://github.com/wayvr-org/wayvr/stargazers) [![Forks](https://img.shields.io/github/forks/wayvr-org/wayvr?style=flat-square&color=blue)](https://github.com/wayvr-org/wayvr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wayvr-org/wayvr?style=flat-square&color=yellow)](https://github.com/wayvr-org/wayvr/stargazers) [![Forks](https://img.shields.io/github/forks/wayvr-org/wayvr?style=flat-square&color=blue)](https://github.com/wayvr-org/wayvr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Your way to enjoy VR on Linux. Run apps inside VR & access your Wayland/X11 screens from Monado/WiVRn/SteamVR.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ WayVR 已具备进入生产环境的基本条件：代码活跃、社区支持�
 | forks | 51/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

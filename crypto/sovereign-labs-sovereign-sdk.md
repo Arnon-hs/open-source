@@ -1,6 +1,6 @@
 # Sovereign-Labs/sovereign-sdk
 
-[![Stars](https://img.shields.io/github/stars/Sovereign-Labs/sovereign-sdk?style=flat-square&color=yellow)](https://github.com/Sovereign-Labs/sovereign-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Sovereign-Labs/sovereign-sdk?style=flat-square&color=blue)](https://github.com/Sovereign-Labs/sovereign-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sovereign-Labs/sovereign-sdk?style=flat-square&color=yellow)](https://github.com/Sovereign-Labs/sovereign-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Sovereign-Labs/sovereign-sdk?style=flat-square&color=blue)](https://github.com/Sovereign-Labs/sovereign-sdk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A flexible toolkit for building real-time blockchains
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 471 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Sovereign-Labs/sovereign-sdk：Sovereign-Labs/sovereign-sdk helps prototype or i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 57/100 |
-| stars | 57/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

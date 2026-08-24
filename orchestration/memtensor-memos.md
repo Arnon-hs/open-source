@@ -1,6 +1,6 @@
 # MemTensor/MemOS
 
-[![Stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square&color=yellow)](https://github.com/MemTensor/MemOS/stargazers) [![Forks](https://img.shields.io/github/forks/MemTensor/MemOS?style=flat-square&color=blue)](https://github.com/MemTensor/MemOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square&color=yellow)](https://github.com/MemTensor/MemOS/stargazers) [![Forks](https://img.shields.io/github/forks/MemTensor/MemOS?style=flat-square&color=blue)](https://github.com/MemTensor/MemOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.9k |
 | 🍴 **Forks** | 796 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ MemTensor/MemOS: MemTensor/MemOS helps turn isolated prompts and tools into repe
 
 ### Русский
 
-MemTensor/MemOS: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+MemTensor/MemOS: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ MemTensor/MemOS：MemTensor/MemOS helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 76/100 |
-| integration | 78/100 |
-| production | 65/100 |
-| outlook | 74/100 |
-| adoption | 81/100 |
-| stars | 84/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

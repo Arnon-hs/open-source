@@ -1,6 +1,6 @@
 # hyoo-ru/mam_mol
 
-[![Stars](https://img.shields.io/github/stars/hyoo-ru/mam_mol?style=flat-square&color=yellow)](https://github.com/hyoo-ru/mam_mol/stargazers) [![Forks](https://img.shields.io/github/forks/hyoo-ru/mam_mol?style=flat-square&color=blue)](https://github.com/hyoo-ru/mam_mol/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyoo-ru/mam_mol?style=flat-square&color=yellow)](https://github.com/hyoo-ru/mam_mol/stargazers) [![Forks](https://img.shields.io/github/forks/hyoo-ru/mam_mol?style=flat-square&color=blue)](https://github.com/hyoo-ru/mam_mol/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > $mol - fastest reactive micro-modular compact flexible lazy ui web framework.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 738 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ hyoo-ru/mam_mol：hyoo-ru/mam_mol helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
+| usefulness | 74/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 57/100 |
 | stars | 61/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

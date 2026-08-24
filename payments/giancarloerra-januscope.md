@@ -1,6 +1,6 @@
 # giancarloerra/JanuScope
 
-[![Stars](https://img.shields.io/github/stars/giancarloerra/JanuScope?style=flat-square&color=yellow)](https://github.com/giancarloerra/JanuScope/stargazers) [![Forks](https://img.shields.io/github/forks/giancarloerra/JanuScope?style=flat-square&color=blue)](https://github.com/giancarloerra/JanuScope/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giancarloerra/JanuScope?style=flat-square&color=yellow)](https://github.com/giancarloerra/JanuScope/stargazers) [![Forks](https://img.shields.io/github/forks/giancarloerra/JanuScope?style=flat-square&color=blue)](https://github.com/giancarloerra/JanuScope/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first MCP policy proxy. Tool-block, SQL-mutation gate, PII redact, audit, rate-limit, OpenTelemetry, vault secrets, first-use quarantine, schema pre-inject. No hosted gateway. One YAML Lens wraps any MCP, 20 included (Postgres, MySQL, MongoDB, GitHub, Stripe, Snowflake, etc.). 84% fewer tokens, ~3x faster, holds PII leaks. AGPL or commercial.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ JanuScope 的生产可用性很高，适合-serious 的试验。它拥有活跃�
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # affromero/flight-finder
 
-[![Stars](https://img.shields.io/github/stars/affromero/flight-finder?style=flat-square&color=yellow)](https://github.com/affromero/flight-finder/stargazers) [![Forks](https://img.shields.io/github/forks/affromero/flight-finder?style=flat-square&color=blue)](https://github.com/affromero/flight-finder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/affromero/flight-finder?style=flat-square&color=yellow)](https://github.com/affromero/flight-finder/stargazers) [![Forks](https://img.shields.io/github/forks/affromero/flight-finder?style=flat-square&color=blue)](https://github.com/affromero/flight-finder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Flight price tracker. Self-hosted, open source, bring your own LLM. The price trail airlines don't show you.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 100 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ affromero/flight-finder 是一款自托管的航班价格追踪器，使用开�
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

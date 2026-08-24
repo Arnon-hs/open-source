@@ -1,6 +1,6 @@
 # sageox/ox
 
-[![Stars](https://img.shields.io/github/stars/sageox/ox?style=flat-square&color=yellow)](https://github.com/sageox/ox/stargazers) [![Forks](https://img.shields.io/github/forks/sageox/ox?style=flat-square&color=blue)](https://github.com/sageox/ox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sageox/ox?style=flat-square&color=yellow)](https://github.com/sageox/ox/stargazers) [![Forks](https://img.shields.io/github/forks/sageox/ox?style=flat-square&color=blue)](https://github.com/sageox/ox/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The hivemind for AI coding agents — persistent team context recorded once and recalled across agents, machines, and teammates.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Overall, `sageox/ox` is a strong OSS candidate for teams looking to move from is
 | forks | 26/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

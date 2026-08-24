@@ -1,6 +1,6 @@
 # badhope/DevFlow-Agent
 
-[![Stars](https://img.shields.io/github/stars/badhope/DevFlow-Agent?style=flat-square&color=yellow)](https://github.com/badhope/DevFlow-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/badhope/DevFlow-Agent?style=flat-square&color=blue)](https://github.com/badhope/DevFlow-Agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/badhope/DevFlow-Agent?style=flat-square&color=yellow)](https://github.com/badhope/DevFlow-Agent/stargazers) [![Forks](https://img.shields.io/github/forks/badhope/DevFlow-Agent?style=flat-square&color=blue)](https://github.com/badhope/DevFlow-Agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Reliable, honest and controllable AI-powered development assistant CLI tool with MCP server integration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ badhope/DevFlow‑Agent 是一款基于模型上下文协议（MCP）的 AI 开�
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # open-mercato/open-mercato
 
-[![Stars](https://img.shields.io/github/stars/open-mercato/open-mercato?style=flat-square&color=yellow)](https://github.com/open-mercato/open-mercato/stargazers) [![Forks](https://img.shields.io/github/forks/open-mercato/open-mercato?style=flat-square&color=blue)](https://github.com/open-mercato/open-mercato/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-mercato/open-mercato?style=flat-square&color=yellow)](https://github.com/open-mercato/open-mercato/stargazers) [![Forks](https://img.shields.io/github/forks/open-mercato/open-mercato?style=flat-square&color=blue)](https://github.com/open-mercato/open-mercato/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and domain decisions (multi-tenancy, RBAC,  event flow, pricing, sales pipeline,CRM/ERP processes) are already made conventions and specs so agents (Cursor, Claude Code, Codex) arch. decisions without reinventing.  Ship production grade with AI Agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 249 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ open-mercato/open-mercato: open-mercato/open-mercato helps add AI capability wit
 
 ### Русский
 
-open-mercato/open-mercato: open-source проект в категориях AI/ML, Frontend, Design. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+open-mercato/open-mercato: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ open-mercato/open-mercato：open-mercato/open-mercato helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 62/100 |
-| adoption | 64/100 |
-| stars | 66/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

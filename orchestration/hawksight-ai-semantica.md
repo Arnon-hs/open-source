@@ -1,6 +1,6 @@
 # Hawksight-AI/semantica
 
-[![Stars](https://img.shields.io/github/stars/Hawksight-AI/semantica?style=flat-square&color=yellow)](https://github.com/Hawksight-AI/semantica/stargazers) [![Forks](https://img.shields.io/github/forks/Hawksight-AI/semantica?style=flat-square&color=blue)](https://github.com/Hawksight-AI/semantica/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hawksight-AI/semantica?style=flat-square&color=yellow)](https://github.com/Hawksight-AI/semantica/stargazers) [![Forks](https://img.shields.io/github/forks/Hawksight-AI/semantica?style=flat-square&color=blue)](https://github.com/Hawksight-AI/semantica/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Semantica 🧠 — A framework for building semantic layers, context graphs, and decision intelligence systems with explainability and provenance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML · DevTools · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Hawksight-AI/semantica：Hawksight-AI/semantica helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 70/100 |
-| adoption | 62/100 |
-| stars | 65/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

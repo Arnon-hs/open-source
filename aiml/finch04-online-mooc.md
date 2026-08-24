@@ -1,6 +1,6 @@
 # finch04/online-mooc
 
-[![Stars](https://img.shields.io/github/stars/finch04/online-mooc?style=flat-square&color=yellow)](https://github.com/finch04/online-mooc/stargazers) [![Forks](https://img.shields.io/github/forks/finch04/online-mooc?style=flat-square&color=blue)](https://github.com/finch04/online-mooc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/finch04/online-mooc?style=flat-square&color=yellow)](https://github.com/finch04/online-mooc/stargazers) [![Forks](https://img.shields.io/github/forks/finch04/online-mooc?style=flat-square&color=blue)](https://github.com/finch04/online-mooc/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 基于《天机学堂》升级的智慧 MOOC 教育平台，融合课程交易、AI 辅助、数据分析、直播互动、AI 问答及个性化推荐能力，已完成 JDK17 + SpringBoot3 技术栈全面升级。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 275 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Finch04/online-mooc — это полностью модернизирован
 
 ### 中文
 
-finch04/online-mooc：finch04/online-mooc helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+finch04/online-mooc：finch04/online-mooc helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ finch04/online-mooc：finch04/online-mooc helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ finch04/online-mooc：finch04/online-mooc helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 58/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

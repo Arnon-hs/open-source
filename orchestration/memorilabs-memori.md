@@ -1,6 +1,6 @@
 # MemoriLabs/Memori
 
-[![Stars](https://img.shields.io/github/stars/MemoriLabs/Memori?style=flat-square&color=yellow)](https://github.com/MemoriLabs/Memori/stargazers) [![Forks](https://img.shields.io/github/forks/MemoriLabs/Memori?style=flat-square&color=blue)](https://github.com/MemoriLabs/Memori/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MemoriLabs/Memori?style=flat-square&color=yellow)](https://github.com/MemoriLabs/Memori/stargazers) [![Forks](https://img.shields.io/github/forks/MemoriLabs/Memori?style=flat-square&color=blue)](https://github.com/MemoriLabs/Memori/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ MemoriLabs/Memori: MemoriLabs/Memori helps turn isolated prompts and tools into 
 
 ### Русский
 
-MemoriLabs/Memori: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+MemoriLabs/Memori: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ MemoriLabs/Memori：MemoriLabs/Memori helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 79/100 |
-| integration | 78/100 |
-| production | 66/100 |
-| outlook | 74/100 |
-| adoption | 87/100 |
-| stars | 88/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

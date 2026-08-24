@@ -1,6 +1,6 @@
 # solana-foundation/kora
 
-[![Stars](https://img.shields.io/github/stars/solana-foundation/kora?style=flat-square&color=yellow)](https://github.com/solana-foundation/kora/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/kora?style=flat-square&color=blue)](https://github.com/solana-foundation/kora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solana-foundation/kora?style=flat-square&color=yellow)](https://github.com/solana-foundation/kora/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/kora?style=flat-square&color=blue)](https://github.com/solana-foundation/kora/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Implementation of a Solana relayer. Provides a lib and cli crate in order to enable signing experiences on Solana
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 175 |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ kora 适合作为 **原型验证、内部工具或功能实验** 的基础组件
 | forks | 60/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

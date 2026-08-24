@@ -1,6 +1,6 @@
 # hujingguang/ChinaIPTV
 
-[![Stars](https://img.shields.io/github/stars/hujingguang/ChinaIPTV?style=flat-square&color=yellow)](https://github.com/hujingguang/ChinaIPTV/stargazers) [![Forks](https://img.shields.io/github/forks/hujingguang/ChinaIPTV?style=flat-square&color=blue)](https://github.com/hujingguang/ChinaIPTV/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hujingguang/ChinaIPTV?style=flat-square&color=yellow)](https://github.com/hujingguang/ChinaIPTV/stargazers) [![Forks](https://img.shields.io/github/forks/hujingguang/ChinaIPTV?style=flat-square&color=blue)](https://github.com/hujingguang/ChinaIPTV/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 中国电视直播源 cnTV m3u（实时更新,长期有效）
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML
 
 ### 中文
 
-hujingguang/ChinaIPTV：hujingguang/ChinaIPTV helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hujingguang/ChinaIPTV：hujingguang/ChinaIPTV helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hujingguang/ChinaIPTV：hujingguang/ChinaIPTV helps add AI capability without st
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ hujingguang/ChinaIPTV：hujingguang/ChinaIPTV helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 67/100 |
 | stars | 70/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # copper-project/copper-rs
 
-[![Stars](https://img.shields.io/github/stars/copper-project/copper-rs?style=flat-square&color=yellow)](https://github.com/copper-project/copper-rs/stargazers) [![Forks](https://img.shields.io/github/forks/copper-project/copper-rs?style=flat-square&color=blue)](https://github.com/copper-project/copper-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/copper-project/copper-rs?style=flat-square&color=yellow)](https://github.com/copper-project/copper-rs/stargazers) [![Forks](https://img.shields.io/github/forks/copper-project/copper-rs?style=flat-square&color=blue)](https://github.com/copper-project/copper-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Copper is an operating system for robots -  build, run, and replay your entire robot deterministically.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 85 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Copper — это open‑source операционная система для
 
 ### 中文
 
-copper-project/copper-rs：copper-project/copper-rs helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+copper-project/copper-rs：copper-project/copper-rs helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ copper-project/copper-rs：copper-project/copper-rs helps add AI capability with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ copper-project/copper-rs：copper-project/copper-rs helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 61/100 |
-| stars | 66/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 63/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

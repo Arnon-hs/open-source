@@ -1,6 +1,6 @@
 # meziantou/Meziantou.Framework
 
-[![Stars](https://img.shields.io/github/stars/meziantou/Meziantou.Framework?style=flat-square&color=yellow)](https://github.com/meziantou/Meziantou.Framework/stargazers) [![Forks](https://img.shields.io/github/forks/meziantou/Meziantou.Framework?style=flat-square&color=blue)](https://github.com/meziantou/Meziantou.Framework/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meziantou/Meziantou.Framework?style=flat-square&color=yellow)](https://github.com/meziantou/Meziantou.Framework/stargazers) [![Forks](https://img.shields.io/github/forks/meziantou/Meziantou.Framework?style=flat-square&color=blue)](https://github.com/meziantou/Meziantou.Framework/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 844 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ Meziantou.Framework 是一套面向 .NET 的通用库，提供了代码分析、
 | forks | 52/100 |
 | stars | 62/100 |
 | topics | 13/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

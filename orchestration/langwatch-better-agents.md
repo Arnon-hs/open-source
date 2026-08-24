@@ -1,6 +1,6 @@
 # langwatch/better-agents
 
-[![Stars](https://img.shields.io/github/stars/langwatch/better-agents?style=flat-square&color=yellow)](https://github.com/langwatch/better-agents/stargazers) [![Forks](https://img.shields.io/github/forks/langwatch/better-agents?style=flat-square&color=blue)](https://github.com/langwatch/better-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langwatch/better-agents?style=flat-square&color=yellow)](https://github.com/langwatch/better-agents/stargazers) [![Forks](https://img.shields.io/github/forks/langwatch/better-agents?style=flat-square&color=blue)](https://github.com/langwatch/better-agents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Standards for building agents, better
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 150 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ langwatch/better‑agents 为构建 AI 代理提供了一套统一的标准与�
 | forks | 54/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 64/100 |
-| production | 85/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

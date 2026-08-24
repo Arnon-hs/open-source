@@ -1,6 +1,6 @@
 # puppyone-ai/puppyone
 
-[![Stars](https://img.shields.io/github/stars/puppyone-ai/puppyone?style=flat-square&color=yellow)](https://github.com/puppyone-ai/puppyone/stargazers) [![Forks](https://img.shields.io/github/forks/puppyone-ai/puppyone?style=flat-square&color=blue)](https://github.com/puppyone-ai/puppyone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/puppyone-ai/puppyone?style=flat-square&color=yellow)](https://github.com/puppyone-ai/puppyone/stargazers) [![Forks](https://img.shields.io/github/forks/puppyone-ai/puppyone?style=flat-square&color=blue)](https://github.com/puppyone-ai/puppyone/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Context drive for your AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 500 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ PuppyOne（puppyone-ai/puppyone）是一个基于上下文的知识驱动框架�
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

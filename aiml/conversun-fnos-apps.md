@@ -1,6 +1,6 @@
 # conversun/fnos-apps
 
-[![Stars](https://img.shields.io/github/stars/conversun/fnos-apps?style=flat-square&color=yellow)](https://github.com/conversun/fnos-apps/stargazers) [![Forks](https://img.shields.io/github/forks/conversun/fnos-apps?style=flat-square&color=blue)](https://github.com/conversun/fnos-apps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/conversun/fnos-apps?style=flat-square&color=yellow)](https://github.com/conversun/fnos-apps/stargazers) [![Forks](https://img.shields.io/github/forks/conversun/fnos-apps?style=flat-square&color=blue)](https://github.com/conversun/fnos-apps/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 飞牛 fnOS NAS 第三方应用商店 — 115 款自托管应用的 .fpk 安装包 | Plex, Emby, Jellyfin, qBittorrent, Immich, Sonarr, Radarr, Vaultwarden, ZeroClaw AI, OpenClaw 等 | 每日自动同步上游版本
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 272 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ conversun/fnos‑apps — открытый магазин приложений
 
 ### 中文
 
-conversun/fnos-apps：conversun/fnos-apps helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+conversun/fnos-apps：conversun/fnos-apps helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ conversun/fnos-apps：conversun/fnos-apps helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ conversun/fnos-apps：conversun/fnos-apps helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 47/100 |
 | stars | 52/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

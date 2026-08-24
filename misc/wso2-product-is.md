@@ -1,0 +1,80 @@
+# wso2/product-is
+
+[![Stars](https://img.shields.io/github/stars/wso2/product-is?style=flat-square&color=yellow)](https://github.com/wso2/product-is/stargazers) [![Forks](https://img.shields.io/github/forks/wso2/product-is?style=flat-square&color=blue)](https://github.com/wso2/product-is/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+
+> Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 853 |
+| 🍴 **Forks** | 975 |
+| 💻 **Language** | Java |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`access-management` `adaptive-authentication` `authentication` `authorization` `hacktoberfest` `identity` `mfa` `oauth2` `oidc` `saml2` `sso`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+The **WSO2 Identity Server** repository hosts the full source code for WSO2’s open‑source identity and access management platform, providing features such as authentication, single sign‑on, identity federation, and user provisioning. It serves as a central hub for developers to explore, build, and contribute enhancements to the server’s backend services, APIs, and tooling, with detailed guidance on repository workflows and contribution processes. This project is ideal for teams building secure, scalable identity solutions and looking to extend or customize the platform.
+
+### Русский
+
+**WSO2 Identity Server** — это масштабируемый сервер управления идентификацией и доступом с открытым исходным кодом, предоставляющий функции аутентификации, авторизации, SSO и федерации идентификаторов. Проект ориентирован на разработчиков backend‑приложений и DevTools, позволяя легко интегрировать современные протоколы (OAuth2, OpenID Connect, SAML) и расширять функциональность через плагины. Репозиторий активно принимает вклады сообщества, предлагая полную документацию и инструменты для совместной разработки.
+
+### 中文
+
+wso2/product-is：wso2/product-is may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** wso2/product-is may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 853 GitHub stars
+- 975 forks
+- updated 2026-05-08
+- primary language: Java
+- 11 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 75/100 |
+| stars | 62/100 |
+| topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/wso2/product-is) · [← Back to Misc](./README.md)</sub>

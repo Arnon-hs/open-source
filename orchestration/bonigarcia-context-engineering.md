@@ -1,6 +1,6 @@
 # bonigarcia/context-engineering
 
-[![Stars](https://img.shields.io/github/stars/bonigarcia/context-engineering?style=flat-square&color=yellow)](https://github.com/bonigarcia/context-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/bonigarcia/context-engineering?style=flat-square&color=blue)](https://github.com/bonigarcia/context-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bonigarcia/context-engineering?style=flat-square&color=yellow)](https://github.com/bonigarcia/context-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/bonigarcia/context-engineering?style=flat-square&color=blue)](https://github.com/bonigarcia/context-engineering/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > [WIP] Context engineering: the art and science of shaping context-aware AI systems
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ bonigarcia/context-engineering 是一个用于 **上下文工程** 的开源框�
 | forks | 27/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # lindell/multi-gitter
 
-[![Stars](https://img.shields.io/github/stars/lindell/multi-gitter?style=flat-square&color=yellow)](https://github.com/lindell/multi-gitter/stargazers) [![Forks](https://img.shields.io/github/forks/lindell/multi-gitter?style=flat-square&color=blue)](https://github.com/lindell/multi-gitter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lindell/multi-gitter?style=flat-square&color=yellow)](https://github.com/lindell/multi-gitter/stargazers) [![Forks](https://img.shields.io/github/forks/lindell/multi-gitter?style=flat-square&color=blue)](https://github.com/lindell/multi-gitter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Update multiple repositories in with one command
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools · Product
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ lindell/multi-gitter 是一款用 Go 编写的开源工具，能够通过单条�
 | forks | 48/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 80/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

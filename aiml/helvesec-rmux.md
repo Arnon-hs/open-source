@@ -1,6 +1,6 @@
 # Helvesec/rmux
 
-[![Stars](https://img.shields.io/github/stars/Helvesec/rmux?style=flat-square&color=yellow)](https://github.com/Helvesec/rmux/stargazers) [![Forks](https://img.shields.io/github/forks/Helvesec/rmux?style=flat-square&color=blue)](https://github.com/Helvesec/rmux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Helvesec/rmux?style=flat-square&color=yellow)](https://github.com/Helvesec/rmux/stargazers) [![Forks](https://img.shields.io/github/forks/Helvesec/rmux?style=flat-square&color=blue)](https://github.com/Helvesec/rmux/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ Helvesec/rmux 是一款基于 Rust 的通用多路复用器，提供强类型 SD
 | forks | 49/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # smapiot/piral
 
-[![Stars](https://img.shields.io/github/stars/smapiot/piral?style=flat-square&color=yellow)](https://github.com/smapiot/piral/stargazers) [![Forks](https://img.shields.io/github/forks/smapiot/piral?style=flat-square&color=blue)](https://github.com/smapiot/piral/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smapiot/piral?style=flat-square&color=yellow)](https://github.com/smapiot/piral/stargazers) [![Forks](https://img.shields.io/github/forks/smapiot/piral?style=flat-square&color=blue)](https://github.com/smapiot/piral/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Framework for next generation web apps using micro frontends. ⭐️ Star to support our work!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 139 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ smapiot/piral：smapiot/piral helps ship user-facing interfaces with less custom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 65/100 |
-| adoption | 65/100 |
-| stars | 70/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # himmelblau-idm/himmelblau
 
-[![Stars](https://img.shields.io/github/stars/himmelblau-idm/himmelblau?style=flat-square&color=yellow)](https://github.com/himmelblau-idm/himmelblau/stargazers) [![Forks](https://img.shields.io/github/forks/himmelblau-idm/himmelblau?style=flat-square&color=blue)](https://github.com/himmelblau-idm/himmelblau/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/himmelblau-idm/himmelblau?style=flat-square&color=yellow)](https://github.com/himmelblau-idm/himmelblau/stargazers) [![Forks](https://img.shields.io/github/forks/himmelblau-idm/himmelblau?style=flat-square&color=blue)](https://github.com/himmelblau-idm/himmelblau/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud Identity, MFA and Compliance for Linux
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ himmelblau 是一套基于 Rust 实现的 Linux 身份管理与多因素认证�
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

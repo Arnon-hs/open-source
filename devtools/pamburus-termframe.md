@@ -1,6 +1,6 @@
 # pamburus/termframe
 
-[![Stars](https://img.shields.io/github/stars/pamburus/termframe?style=flat-square&color=yellow)](https://github.com/pamburus/termframe/stargazers) [![Forks](https://img.shields.io/github/forks/pamburus/termframe?style=flat-square&color=blue)](https://github.com/pamburus/termframe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pamburus/termframe?style=flat-square&color=yellow)](https://github.com/pamburus/termframe/stargazers) [![Forks](https://img.shields.io/github/forks/pamburus/termframe?style=flat-square&color=blue)](https://github.com/pamburus/termframe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 📸 Terminal output SVG screenshot tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ pamburus/termframe 是一款基于 Rust 的终端输出 SVG 截图工具，能�
 | forks | 15/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

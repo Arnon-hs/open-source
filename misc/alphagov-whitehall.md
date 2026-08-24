@@ -1,6 +1,6 @@
 # alphagov/whitehall
 
-[![Stars](https://img.shields.io/github/stars/alphagov/whitehall?style=flat-square&color=yellow)](https://github.com/alphagov/whitehall/stargazers) [![Forks](https://img.shields.io/github/forks/alphagov/whitehall?style=flat-square&color=blue)](https://github.com/alphagov/whitehall/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alphagov/whitehall?style=flat-square&color=yellow)](https://github.com/alphagov/whitehall/stargazers) [![Forks](https://img.shields.io/github/forks/alphagov/whitehall?style=flat-square&color=blue)](https://github.com/alphagov/whitehall/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Publishes government content on GOV.UK
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Whitehall 是英国政府（alphagov）维护的内容管理系统，负责在 G
 | forks | 57/100 |
 | stars | 64/100 |
 | topics | 13/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

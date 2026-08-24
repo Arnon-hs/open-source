@@ -1,6 +1,6 @@
 # httptoolkit/httptoolkit-ui
 
-[![Stars](https://img.shields.io/github/stars/httptoolkit/httptoolkit-ui?style=flat-square&color=yellow)](https://github.com/httptoolkit/httptoolkit-ui/stargazers) [![Forks](https://img.shields.io/github/forks/httptoolkit/httptoolkit-ui?style=flat-square&color=blue)](https://github.com/httptoolkit/httptoolkit-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/httptoolkit/httptoolkit-ui?style=flat-square&color=yellow)](https://github.com/httptoolkit/httptoolkit-ui/stargazers) [![Forks](https://img.shields.io/github/forks/httptoolkit/httptoolkit-ui?style=flat-square&color=blue)](https://github.com/httptoolkit/httptoolkit-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The UI of HTTP Toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ HTTP Toolkit — это открытый набор инструментов �
 
 ### 中文
 
-httptoolkit/httptoolkit-ui：httptoolkit/httptoolkit-ui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+httptoolkit/httptoolkit-ui：httptoolkit/httptoolkit-ui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ httptoolkit/httptoolkit-ui：httptoolkit/httptoolkit-ui helps ship user-facing i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ httptoolkit/httptoolkit-ui：httptoolkit/httptoolkit-ui helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 55/100 |
 | stars | 55/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

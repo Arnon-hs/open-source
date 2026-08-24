@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-demo
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-demo?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-demo/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-demo?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-demo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-demo?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-demo/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-demo?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-demo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Observability
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ OpenTelemetry Demo（`open-telemetry/opentelemetry-demo`）提供了一个完整
 | forks | 96/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

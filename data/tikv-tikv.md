@@ -1,6 +1,6 @@
 # tikv/tikv
 
-[![Stars](https://img.shields.io/github/stars/tikv/tikv?style=flat-square&color=yellow)](https://github.com/tikv/tikv/stargazers) [![Forks](https://img.shields.io/github/forks/tikv/tikv?style=flat-square&color=blue)](https://github.com/tikv/tikv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tikv/tikv?style=flat-square&color=yellow)](https://github.com/tikv/tikv/stargazers) [![Forks](https://img.shields.io/github/forks/tikv/tikv?style=flat-square&color=blue)](https://github.com/tikv/tikv/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed transactional key-value database, originally created to complement TiDB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.7k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tikv/tikv：tikv/tikv helps convert raw data into searchable, analyzable, or aut
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 88/100 |
 | stars | 90/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

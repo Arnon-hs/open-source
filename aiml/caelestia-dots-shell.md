@@ -1,6 +1,6 @@
 # caelestia-dots/shell
 
-[![Stars](https://img.shields.io/github/stars/caelestia-dots/shell?style=flat-square&color=yellow)](https://github.com/caelestia-dots/shell/stargazers) [![Forks](https://img.shields.io/github/forks/caelestia-dots/shell?style=flat-square&color=blue)](https://github.com/caelestia-dots/shell/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caelestia-dots/shell?style=flat-square&color=yellow)](https://github.com/caelestia-dots/shell/stargazers) [![Forks](https://img.shields.io/github/forks/caelestia-dots/shell?style=flat-square&color=blue)](https://github.com/caelestia-dots/shell/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > ‼️ No waybar here ‼️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 627 |
 | 💻 **Language** | QML |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ caelestia-dots/shell：caelestia-dots/shell helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 80/100 |
 | stars | 84/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

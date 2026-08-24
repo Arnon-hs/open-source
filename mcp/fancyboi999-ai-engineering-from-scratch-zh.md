@@ -1,6 +1,6 @@
 # fancyboi999/ai-engineering-from-scratch-zh
 
-[![Stars](https://img.shields.io/github/stars/fancyboi999/ai-engineering-from-scratch-zh?style=flat-square&color=yellow)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh/stargazers) [![Forks](https://img.shields.io/github/forks/fancyboi999/ai-engineering-from-scratch-zh?style=flat-square&color=blue)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fancyboi999/ai-engineering-from-scratch-zh?style=flat-square&color=yellow)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh/stargazers) [![Forks](https://img.shields.io/github/forks/fancyboi999/ai-engineering-from-scratch-zh?style=flat-square&color=blue)](https://github.com/fancyboi999/ai-engineering-from-scratch-zh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Agent工程师最全学习路径 · 从零精通 AI 工程 · 20 阶段 503 课 · 中文全量翻译 + 配套站点 + 动画讲解视频 · 如何成为 AI Agent 工程师的修成指南
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Database · Education
+MCP · AI/ML · Education
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ fancyboi999/ai-engineering-from-scratch-zh 是面向中文用户的 AI Agent 工
 | forks | 47/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

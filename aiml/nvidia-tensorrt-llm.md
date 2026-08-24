@@ -1,0 +1,82 @@
+# NVIDIA/TensorRT-LLM
+
+[![Stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=flat-square&color=yellow)](https://github.com/NVIDIA/TensorRT-LLM/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/TensorRT-LLM?style=flat-square&color=blue)](https://github.com/NVIDIA/TensorRT-LLM/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+
+> TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 13.6k |
+| 🍴 **Forks** | 2.4k |
+| 💻 **Language** | Python |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`blackwell` `cuda` `llm-serving` `moe` `pytorch`
+
+## 🎯 Categories
+
+AI/ML
+
+## 📝 Summary
+
+### English
+
+NVIDIA TensorRT‑LLM is an open‑source library that lets developers define and run Large Language Models through a simple Python API while leveraging advanced TensorRT optimizations for high‑throughput inference on NVIDIA GPUs. It also provides reusable Python and C++ runtime components that efficiently orchestrate model execution, making it easy to integrate fast LLM inference into AI/ML, backend, or crypto‑related applications.
+
+### Русский
+
+TensorRT‑LLM — это открытая библиотека NVIDIA, предоставляющая удобный Python‑API для описания больших языковых моделей и реализующая передовые оптимизации, позволяющие выполнять инференс с высокой эффективностью на GPU NVIDIA. Помимо Python‑интерфейса, проект включает готовые C++ и Python‑рантаймы, которые управляют выполнением вычислений, обеспечивая максимальную производительность в бекенд‑приложениях. Проект относится к областям Crypto, AI/ML и Backend.
+
+### 中文
+
+NVIDIA/TensorRT-LLM：NVIDIA/TensorRT-LLM helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** NVIDIA/TensorRT-LLM helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 13578 GitHub stars
+- 2359 forks
+- updated 2026-05-08
+- primary language: Python
+- 5 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 84/100 |
+| stars | 88/100 |
+| topics | 63/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NVIDIA/TensorRT-LLM) · [← Back to AI/ML](./README.md)</sub>

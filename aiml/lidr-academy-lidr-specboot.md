@@ -1,6 +1,6 @@
 # LIDR-academy/lidr-specboot
 
-[![Stars](https://img.shields.io/github/stars/LIDR-academy/lidr-specboot?style=flat-square&color=yellow)](https://github.com/LIDR-academy/lidr-specboot/stargazers) [![Forks](https://img.shields.io/github/forks/LIDR-academy/lidr-specboot?style=flat-square&color=blue)](https://github.com/LIDR-academy/lidr-specboot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LIDR-academy/lidr-specboot?style=flat-square&color=yellow)](https://github.com/LIDR-academy/lidr-specboot/stargazers) [![Forks](https://img.shields.io/github/forks/LIDR-academy/lidr-specboot?style=flat-square&color=blue)](https://github.com/LIDR-academy/lidr-specboot/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > This repository contains a comprehensive set of development rules, standards, and AI agent configurations designed to work seamlessly with multiple AI coding copilots. The setup is portable and can be imported into any project to provide consistent, high-quality AI-assisted development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 132 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ LIDR‑academy/lidr‑specboot 提供了一套完整的开发规范、代码标�
 | forks | 53/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 41/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 67/100 |
+| production | 41/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

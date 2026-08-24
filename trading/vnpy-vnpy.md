@@ -1,6 +1,6 @@
 # vnpy/vnpy
 
-[![Stars](https://img.shields.io/github/stars/vnpy/vnpy?style=flat-square&color=yellow)](https://github.com/vnpy/vnpy/stargazers) [![Forks](https://img.shields.io/github/forks/vnpy/vnpy?style=flat-square&color=blue)](https://github.com/vnpy/vnpy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vnpy/vnpy?style=flat-square&color=yellow)](https://github.com/vnpy/vnpy/stargazers) [![Forks](https://img.shields.io/github/forks/vnpy/vnpy?style=flat-square&color=blue)](https://github.com/vnpy/vnpy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 基于Python的开源量化交易平台开发框架
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40.2k |
 | 🍴 **Forks** | 11.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ vnpy/vnpy：vnpy/vnpy helps research and automate market workflows.。适合用�
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 84/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 67/100 |
-| adoption | 99/100 |
-| stars | 98/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 59/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # linghungegeg/Linghun
 
-[![Stars](https://img.shields.io/github/stars/linghungegeg/Linghun?style=flat-square&color=yellow)](https://github.com/linghungegeg/Linghun/stargazers) [![Forks](https://img.shields.io/github/forks/linghungegeg/Linghun?style=flat-square&color=blue)](https://github.com/linghungegeg/Linghun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linghungegeg/Linghun?style=flat-square&color=yellow)](https://github.com/linghungegeg/Linghun/stargazers) [![Forks](https://img.shields.io/github/forks/linghungegeg/Linghun?style=flat-square&color=blue)](https://github.com/linghungegeg/Linghun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > AGI-oriented, hallucination-resistant AI coding runtime grounded in evidence, tools, memory, agents, and verification.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Linghun（仓库：linghungegeg/Linghun）是一款面向 AGI 的代码运行时
 | forks | 0/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

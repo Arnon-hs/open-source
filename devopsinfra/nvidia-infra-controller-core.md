@@ -1,6 +1,6 @@
 # NVIDIA/infra-controller-core
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/infra-controller-core?style=flat-square&color=yellow)](https://github.com/NVIDIA/infra-controller-core/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/infra-controller-core?style=flat-square&color=blue)](https://github.com/NVIDIA/infra-controller-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/infra-controller-core?style=flat-square&color=yellow)](https://github.com/NVIDIA/infra-controller-core/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/infra-controller-core?style=flat-square&color=blue)](https://github.com/NVIDIA/infra-controller-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -58,22 +58,22 @@ NVIDIA/infra-controller-core：NVIDIA/infra-controller-core helps make deploymen
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 46/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 44/100 |
-| adoption | 47/100 |
-| stars | 46/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

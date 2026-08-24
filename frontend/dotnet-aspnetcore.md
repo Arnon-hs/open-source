@@ -1,6 +1,6 @@
 # dotnet/aspnetcore
 
-[![Stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square&color=yellow)](https://github.com/dotnet/aspnetcore/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/aspnetcore?style=flat-square&color=blue)](https://github.com/dotnet/aspnetcore/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/aspnetcore?style=flat-square&color=yellow)](https://github.com/dotnet/aspnetcore/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/aspnetcore?style=flat-square&color=blue)](https://github.com/dotnet/aspnetcore/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37.9k |
 | 🍴 **Forks** | 10.6k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ dotnet/aspnetcore：dotnet/aspnetcore helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 58/100 |
 | adoption | 98/100 |
 | stars | 97/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

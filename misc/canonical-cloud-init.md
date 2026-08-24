@@ -1,6 +1,6 @@
 # canonical/cloud-init
 
-[![Stars](https://img.shields.io/github/stars/canonical/cloud-init?style=flat-square&color=yellow)](https://github.com/canonical/cloud-init/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/cloud-init?style=flat-square&color=blue)](https://github.com/canonical/cloud-init/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canonical/cloud-init?style=flat-square&color=yellow)](https://github.com/canonical/cloud-init/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/cloud-init?style=flat-square&color=blue)](https://github.com/canonical/cloud-init/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Official upstream for the cloud-init: cloud instance initialization
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ canonical/cloud-init 的生产可用性非常高，主要原因是：
 | forks | 76/100 |
 | stars | 76/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

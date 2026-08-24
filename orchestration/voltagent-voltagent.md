@@ -1,6 +1,6 @@
 # VoltAgent/voltagent
 
-[![Stars](https://img.shields.io/github/stars/VoltAgent/voltagent?style=flat-square&color=yellow)](https://github.com/VoltAgent/voltagent/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/voltagent?style=flat-square&color=blue)](https://github.com/VoltAgent/voltagent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VoltAgent/voltagent?style=flat-square&color=yellow)](https://github.com/VoltAgent/voltagent/stargazers) [![Forks](https://img.shields.io/github/forks/VoltAgent/voltagent?style=flat-square&color=blue)](https://github.com/VoltAgent/voltagent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 886 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ VoltAgent（voltagent）是基于开源 TypeScript AI Agent 框架构建的 Agen
 | forks | 74/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 20/100 |
 | adoption | 81/100 |
-| production | 83/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

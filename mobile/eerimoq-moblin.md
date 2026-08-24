@@ -1,6 +1,6 @@
 # eerimoq/moblin
 
-[![Stars](https://img.shields.io/github/stars/eerimoq/moblin?style=flat-square&color=yellow)](https://github.com/eerimoq/moblin/stargazers) [![Forks](https://img.shields.io/github/forks/eerimoq/moblin?style=flat-square&color=blue)](https://github.com/eerimoq/moblin/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eerimoq/moblin?style=flat-square&color=yellow)](https://github.com/eerimoq/moblin/stargazers) [![Forks](https://img.shields.io/github/forks/eerimoq/moblin?style=flat-square&color=blue)](https://github.com/eerimoq/moblin/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Moblin, a free iOS app for IRL streaming.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 681 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ Moblin 是一个开源 iOS 应用程序，用于实地直播（IRL streaming）�
 | forks | 49/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

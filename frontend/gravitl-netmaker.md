@@ -1,6 +1,6 @@
 # gravitl/netmaker
 
-[![Stars](https://img.shields.io/github/stars/gravitl/netmaker?style=flat-square&color=yellow)](https://github.com/gravitl/netmaker/stargazers) [![Forks](https://img.shields.io/github/forks/gravitl/netmaker?style=flat-square&color=blue)](https://github.com/gravitl/netmaker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gravitl/netmaker?style=flat-square&color=yellow)](https://github.com/gravitl/netmaker/stargazers) [![Forks](https://img.shields.io/github/forks/gravitl/netmaker?style=flat-square&color=blue)](https://github.com/gravitl/netmaker/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.6k |
 | 🍴 **Forks** | 637 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevOps/Infra
+Frontend · Backend · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ gravitl/netmaker：gravitl/netmaker helps ship user-facing interfaces with less 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 82/100 |
-| stars | 86/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| stars | 86/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

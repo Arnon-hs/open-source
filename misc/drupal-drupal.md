@@ -1,6 +1,6 @@
 # drupal/drupal
 
-[![Stars](https://img.shields.io/github/stars/drupal/drupal?style=flat-square&color=yellow)](https://github.com/drupal/drupal/stargazers) [![Forks](https://img.shields.io/github/forks/drupal/drupal?style=flat-square&color=blue)](https://github.com/drupal/drupal/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drupal/drupal?style=flat-square&color=yellow)](https://github.com/drupal/drupal/stargazers) [![Forks](https://img.shields.io/github/forks/drupal/drupal?style=flat-square&color=blue)](https://github.com/drupal/drupal/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ drupal/drupal 为需要快速获取 Drupal 核心源码的团队提供了便利�
 | forks | 82/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

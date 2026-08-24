@@ -1,6 +1,6 @@
 # AGenUI/AGenUI
 
-[![Stars](https://img.shields.io/github/stars/AGenUI/AGenUI?style=flat-square&color=yellow)](https://github.com/AGenUI/AGenUI/stargazers) [![Forks](https://img.shields.io/github/forks/AGenUI/AGenUI?style=flat-square&color=blue)](https://github.com/AGenUI/AGenUI/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AGenUI/AGenUI?style=flat-square&color=yellow)](https://github.com/AGenUI/AGenUI/stargazers) [![Forks](https://img.shields.io/github/forks/AGenUI/AGenUI?style=flat-square&color=blue)](https://github.com/AGenUI/AGenUI/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Native A2UI Renderer for iOS/Android/HarmonyOS — high performance streaming AI-generated UI with 22 built-in components. The only complete 3-platform A2UI implementation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 857 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · Database · Mobile
+AI/ML · Frontend · Backend · Mobile
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ AGenUI/AGenUI 为 iOS、Android 与 HarmonyOS 提供唯一的跨三平台 A2UI �
 | forks | 52/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 75/100 |
-| usefulness | 58/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

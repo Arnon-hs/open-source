@@ -1,6 +1,6 @@
 # hostinger/api-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/hostinger/api-mcp-server?style=flat-square&color=yellow)](https://github.com/hostinger/api-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/hostinger/api-mcp-server?style=flat-square&color=blue)](https://github.com/hostinger/api-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hostinger/api-mcp-server?style=flat-square&color=yellow)](https://github.com/hostinger/api-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/hostinger/api-mcp-server?style=flat-square&color=blue)](https://github.com/hostinger/api-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 91 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ hostinger/api-mcp-server 是一个用 TypeScript 编写的开源后端服务，�
 | forks | 41/100 |
 | stars | 42/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 66/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

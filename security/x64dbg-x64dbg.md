@@ -1,6 +1,6 @@
 # x64dbg/x64dbg
 
-[![Stars](https://img.shields.io/github/stars/x64dbg/x64dbg?style=flat-square&color=yellow)](https://github.com/x64dbg/x64dbg/stargazers) [![Forks](https://img.shields.io/github/forks/x64dbg/x64dbg?style=flat-square&color=blue)](https://github.com/x64dbg/x64dbg/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/x64dbg/x64dbg?style=flat-square&color=yellow)](https://github.com/x64dbg/x64dbg/stargazers) [![Forks](https://img.shields.io/github/forks/x64dbg/x64dbg?style=flat-square&color=blue)](https://github.com/x64dbg/x64dbg/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48.3k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ x64dbg/x64dbg：x64dbg/x64dbg helps catch security and privacy issues earlier in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 83/100 |
-| integration | 30/100 |
-| production | 61/100 |
-| outlook | 70/100 |
-| adoption | 96/100 |
-| stars | 100/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

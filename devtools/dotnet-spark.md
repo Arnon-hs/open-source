@@ -1,6 +1,6 @@
 # dotnet/spark
 
-[![Stars](https://img.shields.io/github/stars/dotnet/spark?style=flat-square&color=yellow)](https://github.com/dotnet/spark/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/spark?style=flat-square&color=blue)](https://github.com/dotnet/spark/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/spark?style=flat-square&color=yellow)](https://github.com/dotnet/spark/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/spark?style=flat-square&color=blue)](https://github.com/dotnet/spark/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 328 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ dotnet/spark — это открытая библиотека, позволя�
 
 ### 中文
 
-dotnet/spark：dotnet/spark helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dotnet/spark：dotnet/spark helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dotnet/spark：dotnet/spark helps engineers save time in daily development and r
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dotnet/spark：dotnet/spark helps engineers save time in daily development and r
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 71/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

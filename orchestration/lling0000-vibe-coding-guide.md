@@ -1,6 +1,6 @@
 # Lling0000/Vibe_coding_guide
 
-[![Stars](https://img.shields.io/github/stars/Lling0000/Vibe_coding_guide?style=flat-square&color=yellow)](https://github.com/Lling0000/Vibe_coding_guide/stargazers) [![Forks](https://img.shields.io/github/forks/Lling0000/Vibe_coding_guide?style=flat-square&color=blue)](https://github.com/Lling0000/Vibe_coding_guide/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lling0000/Vibe_coding_guide?style=flat-square&color=yellow)](https://github.com/Lling0000/Vibe_coding_guide/stargazers) [![Forks](https://img.shields.io/github/forks/Lling0000/Vibe_coding_guide?style=flat-square&color=blue)](https://github.com/Lling0000/Vibe_coding_guide/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 中文优先的 Vibe Coding / AI coding engineering workflow guide: specs, agents, worktrees, skills, CI, and review.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · Automation · AI/ML · DevTools · Education
 
 ## 📝 Summary
 
@@ -133,14 +133,15 @@ Lling0000/Vibe_coding_guide 是一套面向中文用户的 Vibe Coding / AI 编�
 | forks | 24/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

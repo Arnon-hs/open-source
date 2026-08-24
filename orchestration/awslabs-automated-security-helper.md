@@ -1,6 +1,6 @@
 # awslabs/automated-security-helper
 
-[![Stars](https://img.shields.io/github/stars/awslabs/automated-security-helper?style=flat-square&color=yellow)](https://github.com/awslabs/automated-security-helper/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/automated-security-helper?style=flat-square&color=blue)](https://github.com/awslabs/automated-security-helper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/automated-security-helper?style=flat-square&color=yellow)](https://github.com/awslabs/automated-security-helper/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/automated-security-helper?style=flat-square&color=blue)](https://github.com/awslabs/automated-security-helper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > ASH is an extensible, open source SAST, SCA, and IaC security scanner orchestration engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 647 |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Orchestration · Security
 
 ### English
 
-awslabs/automated-security-helper: awslabs/automated-security-helper helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+awslabs/automated-security-helper: awslabs/automated-security-helper helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-awslabs/automated-security-helper: open-source проект в категориях Orchestration, Security. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+awslabs/automated-security-helper: open-source проект в категориях Orchestration, Security. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-awslabs/automated-security-helper：awslabs/automated-security-helper helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+awslabs/automated-security-helper：awslabs/automated-security-helper helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ awslabs/automated-security-helper：awslabs/automated-security-helper helps turn
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ awslabs/automated-security-helper：awslabs/automated-security-helper helps turn
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
-| adoption | 57/100 |
-| stars | 60/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 88/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

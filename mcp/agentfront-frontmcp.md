@@ -1,6 +1,6 @@
 # agentfront/frontmcp
 
-[![Stars](https://img.shields.io/github/stars/agentfront/frontmcp?style=flat-square&color=yellow)](https://github.com/agentfront/frontmcp/stargazers) [![Forks](https://img.shields.io/github/forks/agentfront/frontmcp?style=flat-square&color=blue)](https://github.com/agentfront/frontmcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentfront/frontmcp?style=flat-square&color=yellow)](https://github.com/agentfront/frontmcp/stargazers) [![Forks](https://img.shields.io/github/forks/agentfront/frontmcp?style=flat-square&color=blue)](https://github.com/agentfront/frontmcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript-first framework for the Model Context Protocol (MCP). You write clean, typed code; FrontMCP handles the protocol, transport, DI, session/auth, and execution flow.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ agentfront/frontmcp：agentfront/frontmcp helps connect AI assistants to real to
 | forks | 23/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

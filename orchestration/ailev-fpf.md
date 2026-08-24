@@ -1,6 +1,6 @@
 # ailev/FPF
 
-[![Stars](https://img.shields.io/github/stars/ailev/FPF?style=flat-square&color=yellow)](https://github.com/ailev/FPF/stargazers) [![Forks](https://img.shields.io/github/forks/ailev/FPF?style=flat-square&color=blue)](https://github.com/ailev/FPF/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ailev/FPF?style=flat-square&color=yellow)](https://github.com/ailev/FPF/stargazers) [![Forks](https://img.shields.io/github/forks/ailev/FPF?style=flat-square&color=blue)](https://github.com/ailev/FPF/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > First Principles Framework (FPF): Operating system for open-ended thought for engieering, research, and mixed human/AI teams: bounded contexts, auditable reasoning, decision records, and multi-view publication.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ First Principles Framework (FPF) — open‑source операционная 
 
 ### 中文
 
-ailev/FPF：ailev/FPF helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ailev/FPF：ailev/FPF helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ailev/FPF：ailev/FPF helps turn isolated prompts and tools into repeatable agen
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ ailev/FPF：ailev/FPF helps turn isolated prompts and tools into repeatable agen
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 62/100 |
-| adoption | 52/100 |
-| stars | 54/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

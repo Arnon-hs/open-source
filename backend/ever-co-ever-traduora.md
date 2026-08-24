@@ -1,6 +1,6 @@
 # ever-co/ever-traduora
 
-[![Stars](https://img.shields.io/github/stars/ever-co/ever-traduora?style=flat-square&color=yellow)](https://github.com/ever-co/ever-traduora/stargazers) [![Forks](https://img.shields.io/github/forks/ever-co/ever-traduora?style=flat-square&color=blue)](https://github.com/ever-co/ever-traduora/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ever-co/ever-traduora?style=flat-square&color=yellow)](https://github.com/ever-co/ever-traduora/stargazers) [![Forks](https://img.shields.io/github/forks/ever-co/ever-traduora?style=flat-square&color=blue)](https://github.com/ever-co/ever-traduora/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Ever® Traduora™ - Open Translation Management Platform - https://traduora.co
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 219 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ Ever Traduora 的生产可用性很高，主要原因包括：
 | forks | 59/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

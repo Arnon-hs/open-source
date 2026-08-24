@@ -1,6 +1,6 @@
 # crynta/terax-ai
 
-[![Stars](https://img.shields.io/github/stars/crynta/terax-ai?style=flat-square&color=yellow)](https://github.com/crynta/terax-ai/stargazers) [![Forks](https://img.shields.io/github/forks/crynta/terax-ai?style=flat-square&color=blue)](https://github.com/crynta/terax-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crynta/terax-ai?style=flat-square&color=yellow)](https://github.com/crynta/terax-ai/stargazers) [![Forks](https://img.shields.io/github/forks/crynta/terax-ai?style=flat-square&color=blue)](https://github.com/crynta/terax-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 562 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Crynta/terax‑ai is a lightweight (≈7 MB) AI‑powered terminal emulator bu
 
 ### 中文
 
-crynta/terax-ai：crynta/terax-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+crynta/terax-ai：crynta/terax-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ crynta/terax-ai：crynta/terax-ai helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ crynta/terax-ai：crynta/terax-ai helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 55/100 |
-| stars | 59/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

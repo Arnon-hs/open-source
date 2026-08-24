@@ -1,6 +1,6 @@
 # polm/cutlet
 
-[![Stars](https://img.shields.io/github/stars/polm/cutlet?style=flat-square&color=yellow)](https://github.com/polm/cutlet/stargazers) [![Forks](https://img.shields.io/github/forks/polm/cutlet?style=flat-square&color=blue)](https://github.com/polm/cutlet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/polm/cutlet?style=flat-square&color=yellow)](https://github.com/polm/cutlet/stargazers) [![Forks](https://img.shields.io/github/forks/polm/cutlet?style=flat-square&color=blue)](https://github.com/polm/cutlet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Japanese to romaji converter in Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 380 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ polm/cutlet 是一个 Python 实现的日文转罗马字工具，适用于需要
 | forks | 35/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

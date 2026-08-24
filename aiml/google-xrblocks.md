@@ -1,6 +1,6 @@
 # google/xrblocks
 
-[![Stars](https://img.shields.io/github/stars/google/xrblocks?style=flat-square&color=yellow)](https://github.com/google/xrblocks/stargazers) [![Forks](https://img.shields.io/github/forks/google/xrblocks?style=flat-square&color=blue)](https://github.com/google/xrblocks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/xrblocks?style=flat-square&color=yellow)](https://github.com/google/xrblocks/stargazers) [![Forks](https://img.shields.io/github/forks/google/xrblocks?style=flat-square&color=blue)](https://github.com/google/xrblocks/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > XR Blocks is a lightweight WebXR + AI library for rapidly prototyping advanced AI + XR experiences.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ google/xrblocks：google/xrblocks helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 53/100 |
 | stars | 55/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

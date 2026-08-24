@@ -1,6 +1,6 @@
 # Julian/lean.nvim
 
-[![Stars](https://img.shields.io/github/stars/Julian/lean.nvim?style=flat-square&color=yellow)](https://github.com/Julian/lean.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/Julian/lean.nvim?style=flat-square&color=blue)](https://github.com/Julian/lean.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Julian/lean.nvim?style=flat-square&color=yellow)](https://github.com/Julian/lean.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/Julian/lean.nvim?style=flat-square&color=blue)](https://github.com/Julian/lean.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Neovim support for the Lean theorem prover
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 547 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Julian/lean.nvim 为 Neovim 提供了对 Lean 定理证明器的原生支持，�
 | forks | 44/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

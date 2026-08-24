@@ -1,6 +1,6 @@
 # FOSSBilling/FOSSBilling
 
-[![Stars](https://img.shields.io/github/stars/FOSSBilling/FOSSBilling?style=flat-square&color=yellow)](https://github.com/FOSSBilling/FOSSBilling/stargazers) [![Forks](https://img.shields.io/github/forks/FOSSBilling/FOSSBilling?style=flat-square&color=blue)](https://github.com/FOSSBilling/FOSSBilling/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FOSSBilling/FOSSBilling?style=flat-square&color=yellow)](https://github.com/FOSSBilling/FOSSBilling/stargazers) [![Forks](https://img.shields.io/github/forks/FOSSBilling/FOSSBilling?style=flat-square&color=blue)](https://github.com/FOSSBilling/FOSSBilling/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Empower your hosting business with FOSSBilling, the free and open-source solution for efficient billing and client management.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 314 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · DevTools · DevOps/Infra
+Payments · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ FOSSBilling/FOSSBilling: FOSSBilling/FOSSBilling helps integrate monetization, b
 
 ### Русский
 
-FOSSBilling/FOSSBilling: open-source проект в категориях Payments, DevTools, DevOps/Infra. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+FOSSBilling/FOSSBilling: open-source проект в категориях Payments, Database, DevOps/Infra. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ FOSSBilling/FOSSBilling：FOSSBilling/FOSSBilling helps integrate monetization, 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 65/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

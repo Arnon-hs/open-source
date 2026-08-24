@@ -1,6 +1,6 @@
 # google/xls
 
-[![Stars](https://img.shields.io/github/stars/google/xls?style=flat-square&color=yellow)](https://github.com/google/xls/stargazers) [![Forks](https://img.shields.io/github/forks/google/xls?style=flat-square&color=blue)](https://github.com/google/xls/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/xls?style=flat-square&color=yellow)](https://github.com/google/xls/stargazers) [![Forks](https://img.shields.io/github/forks/google/xls?style=flat-square&color=blue)](https://github.com/google/xls/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > XLS: Accelerated HW Synthesis
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ google/xls：google/xls may be useful when its README and activity match a concr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 57/100 |
-| adoption | 65/100 |
-| stars | 67/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 67/100 |
 | topics | 88/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

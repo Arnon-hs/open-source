@@ -1,6 +1,6 @@
 # Kocoro-lab/Kocoro
 
-[![Stars](https://img.shields.io/github/stars/Kocoro-lab/Kocoro?style=flat-square&color=yellow)](https://github.com/Kocoro-lab/Kocoro/stargazers) [![Forks](https://img.shields.io/github/forks/Kocoro-lab/Kocoro?style=flat-square&color=blue)](https://github.com/Kocoro-lab/Kocoro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kocoro-lab/Kocoro?style=flat-square&color=yellow)](https://github.com/Kocoro-lab/Kocoro/stargazers) [![Forks](https://img.shields.io/github/forks/Kocoro-lab/Kocoro?style=flat-square&color=blue)](https://github.com/Kocoro-lab/Kocoro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Local AI agent runtime for Shannon: shan CLI/daemon, file/shell/GUI tools, MCP integrations, and Cloud workflow delegation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 262 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Kocoro‑lab/Kocoro 是一款基于 Go 实现的本地 AI 代理运行时，提�
 | forks | 51/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 78/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

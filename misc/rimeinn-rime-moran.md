@@ -1,6 +1,6 @@
 # rimeinn/rime-moran
 
-[![Stars](https://img.shields.io/github/stars/rimeinn/rime-moran?style=flat-square&color=yellow)](https://github.com/rimeinn/rime-moran/stargazers) [![Forks](https://img.shields.io/github/forks/rimeinn/rime-moran?style=flat-square&color=blue)](https://github.com/rimeinn/rime-moran/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rimeinn/rime-moran?style=flat-square&color=yellow)](https://github.com/rimeinn/rime-moran/stargazers) [![Forks](https://img.shields.io/github/forks/rimeinn/rime-moran?style=flat-square&color=blue)](https://github.com/rimeinn/rime-moran/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 自然碼 雙拼 + 輔助碼 Rime 配置 / 自然码 双拼 + 辅助码 Rime 配置
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-rimeinn/rime-moran: rimeinn/rime-moran may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rimeinn/rime-moran: rimeinn/rime-moran may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-rimeinn/rime-moran: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rimeinn/rime-moran: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-rimeinn/rime-moran：rimeinn/rime-moran may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rimeinn/rime-moran：rimeinn/rime-moran may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ rimeinn/rime-moran：rimeinn/rime-moran may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ rimeinn/rime-moran：rimeinn/rime-moran may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 49/100 |
-| stars | 53/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 88/100 |
+| outlook | 47/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

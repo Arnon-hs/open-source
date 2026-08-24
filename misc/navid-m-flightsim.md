@@ -1,6 +1,6 @@
 # navid-m/flightsim
 
-[![Stars](https://img.shields.io/github/stars/navid-m/flightsim?style=flat-square&color=yellow)](https://github.com/navid-m/flightsim/stargazers) [![Forks](https://img.shields.io/github/forks/navid-m/flightsim?style=flat-square&color=blue)](https://github.com/navid-m/flightsim/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/navid-m/flightsim?style=flat-square&color=yellow)](https://github.com/navid-m/flightsim/stargazers) [![Forks](https://img.shields.io/github/forks/navid-m/flightsim?style=flat-square&color=blue)](https://github.com/navid-m/flightsim/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned on Mastodon #programming by @hackernews
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 31/100 |
+| 📈 **Score** | 28/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | mastodon |
 
@@ -60,16 +60,16 @@ Show HN: I wrote a flight simulator in my own programming language   https://git
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 24/100 |
-| integration | 30/100 |
-| production | 37/100 |
-| outlook | 32/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 0/100 |
 | topics | 25/100 |
+| outlook | 25/100 |
+| quality | 19/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 30/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -1,6 +1,6 @@
 # dimforge/parry
 
-[![Stars](https://img.shields.io/github/stars/dimforge/parry?style=flat-square&color=yellow)](https://github.com/dimforge/parry/stargazers) [![Forks](https://img.shields.io/github/forks/dimforge/parry?style=flat-square&color=blue)](https://github.com/dimforge/parry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dimforge/parry?style=flat-square&color=yellow)](https://github.com/dimforge/parry/stargazers) [![Forks](https://img.shields.io/github/forks/dimforge/parry?style=flat-square&color=blue)](https://github.com/dimforge/parry/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 2D and 3D collision-detection library for Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 819 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ dimforge / parry 是用 Rust 编写的 2D/3D 碰撞检测库，提供高精�
 | forks | 54/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 60/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

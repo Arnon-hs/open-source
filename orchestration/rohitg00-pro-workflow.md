@@ -1,6 +1,6 @@
 # rohitg00/pro-workflow
 
-[![Stars](https://img.shields.io/github/stars/rohitg00/pro-workflow?style=flat-square&color=yellow)](https://github.com/rohitg00/pro-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/pro-workflow?style=flat-square&color=blue)](https://github.com/rohitg00/pro-workflow/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rohitg00/pro-workflow?style=flat-square&color=yellow)](https://github.com/rohitg00/pro-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/rohitg00/pro-workflow?style=flat-square&color=blue)](https://github.com/rohitg00/pro-workflow/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 198 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ rohitg00/pro-workflow：rohitg00/pro-workflow helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 70/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 71/100 |
-| adoption | 67/100 |
-| stars | 71/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

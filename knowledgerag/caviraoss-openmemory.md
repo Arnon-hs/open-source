@@ -1,0 +1,82 @@
+# CaviraOSS/OpenMemory
+
+[![Stars](https://img.shields.io/github/stars/CaviraOSS/OpenMemory?style=flat-square&color=yellow)](https://github.com/CaviraOSS/OpenMemory/stargazers) [![Forks](https://img.shields.io/github/forks/CaviraOSS/OpenMemory?style=flat-square&color=blue)](https://github.com/CaviraOSS/OpenMemory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+
+> Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4.1k |
+| 🍴 **Forks** | 466 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai` `ai-agents` `ai-infrastructure` `ai-memory` `artificial-intelligence` `cognitive-architecture` `embeddings` `gemini` `llm` `long-term-memory` `memory` `memory-engine`
+
+## 🎯 Categories
+
+Knowledge/RAG · AI/ML · Database
+
+## 📝 Summary
+
+### English
+
+CaviraOSS/OpenMemory is an open‑source, locally hosted persistent memory store designed to enhance large‑language‑model (LLM) applications. It provides a lightweight, high‑performance backend for tools such as Claude Desktop, GitHub Copilot, Codex, Antigravity, and similar AI assistants, enabling them to retain context and user data across sessions without relying on external cloud services. The project targets AI/ML developers and DevOps/infra teams looking for secure, on‑premise state management for their LLM‑driven workflows.
+
+### Русский
+
+CaviraOSS/OpenMemory — это локальное, постоянно хранящее данные хранилище, разработанное специально для интеграции с LLM‑приложениями (Claude Desktop, GitHub Copilot, Codex, Antigravity и другими). Оно обеспечивает быстрый и безопасный доступ к контексту и результатам генерации, упрощая управление памятью моделей и повышая эффективность разработки AI‑сервисов. Проект относится к категориям AI/ML, Data и DevOps/Infra и полностью открыт для сообщества.
+
+### 中文
+
+CaviraOSS/OpenMemory：CaviraOSS/OpenMemory helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** CaviraOSS/OpenMemory helps make internal knowledge searchable and usable by assistants.
+
+**Best use cases**
+
+- index knowledge bases
+- improve search over documents
+- ground assistant answers
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 4083 GitHub stars
+- 466 forks
+- updated 2026-05-10
+- primary language: TypeScript
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 67/100 |
+| stars | 77/100 |
+| topics | 100/100 |
+| outlook | 60/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/CaviraOSS/OpenMemory) · [← Back to Knowledgerag](./README.md)</sub>

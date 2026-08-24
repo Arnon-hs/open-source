@@ -1,6 +1,6 @@
 # mohsen1/tsz
 
-[![Stars](https://img.shields.io/github/stars/mohsen1/tsz?style=flat-square&color=yellow)](https://github.com/mohsen1/tsz/stargazers) [![Forks](https://img.shields.io/github/forks/mohsen1/tsz?style=flat-square&color=blue)](https://github.com/mohsen1/tsz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mohsen1/tsz?style=flat-square&color=yellow)](https://github.com/mohsen1/tsz/stargazers) [![Forks](https://img.shields.io/github/forks/mohsen1/tsz?style=flat-square&color=blue)](https://github.com/mohsen1/tsz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A performance-first TypeScript checker
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ mohsen1/tsz：mohsen1/tsz may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 43/100 |
-| adoption | 37/100 |
-| stars | 44/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| stars | 44/100 |
 | topics | 13/100 |
+| outlook | 36/100 |
+| quality | 39/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

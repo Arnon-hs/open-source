@@ -1,6 +1,6 @@
 # phishdestroy/destroylist
 
-[![Stars](https://img.shields.io/github/stars/phishdestroy/destroylist?style=flat-square&color=yellow)](https://github.com/phishdestroy/destroylist/stargazers) [![Forks](https://img.shields.io/github/forks/phishdestroy/destroylist?style=flat-square&color=blue)](https://github.com/phishdestroy/destroylist/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phishdestroy/destroylist?style=flat-square&color=yellow)](https://github.com/phishdestroy/destroylist/stargazers) [![Forks](https://img.shields.io/github/forks/phishdestroy/destroylist?style=flat-square&color=blue)](https://github.com/phishdestroy/destroylist/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time phishing & scam domain blocklist — 130k+ curated threats, 888K+ community, free API, multiple formats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 997 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ phishdestroy/destroylist: phishdestroy/destroylist helps prototype or inspect bl
 
 ### Русский
 
-phishdestroy/destroylist: open-source проект в категориях Crypto, AI/ML, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+phishdestroy/destroylist: open-source проект в категориях Crypto, Security. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ phishdestroy/destroylist：phishdestroy/destroylist helps prototype or inspect b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 60/100 |
-| stars | 64/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

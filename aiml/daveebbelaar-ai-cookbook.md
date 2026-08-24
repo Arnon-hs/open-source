@@ -1,6 +1,6 @@
 # daveebbelaar/ai-cookbook
 
-[![Stars](https://img.shields.io/github/stars/daveebbelaar/ai-cookbook?style=flat-square&color=yellow)](https://github.com/daveebbelaar/ai-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/daveebbelaar/ai-cookbook?style=flat-square&color=blue)](https://github.com/daveebbelaar/ai-cookbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/daveebbelaar/ai-cookbook?style=flat-square&color=yellow)](https://github.com/daveebbelaar/ai-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/daveebbelaar/ai-cookbook?style=flat-square&color=blue)](https://github.com/daveebbelaar/ai-cookbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Examples and tutorials to help developers build AI systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ daveebbelaar/ai-cookbook：daveebbelaar/ai-cookbook helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 77/100 |
-| stars | 77/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| stars | 77/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

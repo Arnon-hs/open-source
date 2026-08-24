@@ -1,6 +1,6 @@
 # sdsds222/Unitale
 
-[![Stars](https://img.shields.io/github/stars/sdsds222/Unitale?style=flat-square&color=yellow)](https://github.com/sdsds222/Unitale/stargazers) [![Forks](https://img.shields.io/github/forks/sdsds222/Unitale?style=flat-square&color=blue)](https://github.com/sdsds222/Unitale/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdsds222/Unitale?style=flat-square&color=yellow)](https://github.com/sdsds222/Unitale/stargazers) [![Forks](https://img.shields.io/github/forks/sdsds222/Unitale?style=flat-square&color=blue)](https://github.com/sdsds222/Unitale/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 一个基于Indextts和Qwen3TTS的 AI 有声书制作工具。利用 LLM 自动拆解剧本与识别情绪，集成多角色 TTS 语音合成（可智能分析音色并使用Qwen3TTS语音设计模型从音色描述文本生成音色），支持音效(SFX)、背景音乐(BGM)混音及实时台词音频滤波器的自动插入和匹配，可直接在浏览器导出 wav 成品，本工具本体无需配置环境即可跨平台在浏览器使用。现已支持背景图片提示词生成功能，可一键导出带情节背景图片和故事音频的mp4视频。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ Overall, Unitale offers a compelling way to eliminate manual audiobook assembly,
 | forks | 43/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

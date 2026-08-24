@@ -1,6 +1,6 @@
 # i2p/i2p.i2p
 
-[![Stars](https://img.shields.io/github/stars/i2p/i2p.i2p?style=flat-square&color=yellow)](https://github.com/i2p/i2p.i2p/stargazers) [![Forks](https://img.shields.io/github/forks/i2p/i2p.i2p?style=flat-square&color=blue)](https://github.com/i2p/i2p.i2p/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/i2p/i2p.i2p?style=flat-square&color=yellow)](https://github.com/i2p/i2p.i2p/stargazers) [![Forks](https://img.shields.io/github/forks/i2p/i2p.i2p?style=flat-square&color=blue)](https://github.com/i2p/i2p.i2p/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 348 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Data · Security
+Crypto · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ i2p/i2p.i2p：i2p/i2p.i2p helps prototype or inspect blockchain workflows with o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 70/100 |
-| stars | 72/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

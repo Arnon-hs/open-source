@@ -1,6 +1,6 @@
 # sethbang/mcp-screenshot-server
 
-[![Stars](https://img.shields.io/github/stars/sethbang/mcp-screenshot-server?style=flat-square&color=yellow)](https://github.com/sethbang/mcp-screenshot-server/stargazers) [![Forks](https://img.shields.io/github/forks/sethbang/mcp-screenshot-server?style=flat-square&color=blue)](https://github.com/sethbang/mcp-screenshot-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sethbang/mcp-screenshot-server?style=flat-square&color=yellow)](https://github.com/sethbang/mcp-screenshot-server/stargazers) [![Forks](https://img.shields.io/github/forks/sethbang/mcp-screenshot-server?style=flat-square&color=blue)](https://github.com/sethbang/mcp-screenshot-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server that provides AI assistants with screenshot capabilities — both web page capture via Puppeteer and cross-platform system screenshots using native OS tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Database
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ sethbang/mcp-screenshot-server 是一个基于 Model Context Protocol（MCP）�
 | forks | 29/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

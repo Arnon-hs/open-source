@@ -1,6 +1,6 @@
 # mmlong818/skillforge
 
-[![Stars](https://img.shields.io/github/stars/mmlong818/skillforge?style=flat-square&color=yellow)](https://github.com/mmlong818/skillforge/stargazers) [![Forks](https://img.shields.io/github/forks/mmlong818/skillforge?style=flat-square&color=blue)](https://github.com/mmlong818/skillforge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mmlong818/skillforge?style=flat-square&color=yellow)](https://github.com/mmlong818/skillforge/stargazers) [![Forks](https://img.shields.io/github/forks/mmlong818/skillforge?style=flat-square&color=blue)](https://github.com/mmlong818/skillforge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > SkillForge — AI Agent Skills Generator. A structured 4-step prompt system that forges production-grade Agent Skills from scratch.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 83 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Product
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ SkillForge（mmlong818/skillforge）是一套结构化的 4 步 Prompt 框架，
 | forks | 33/100 |
 | stars | 41/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

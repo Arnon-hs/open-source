@@ -1,6 +1,6 @@
 # mpryor/nothing-less
 
-[![Stars](https://img.shields.io/github/stars/mpryor/nothing-less?style=flat-square&color=yellow)](https://github.com/mpryor/nothing-less/stargazers) [![Forks](https://img.shields.io/github/forks/mpryor/nothing-less?style=flat-square&color=blue)](https://github.com/mpryor/nothing-less/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mpryor/nothing-less?style=flat-square&color=yellow)](https://github.com/mpryor/nothing-less/stargazers) [![Forks](https://img.shields.io/github/forks/mpryor/nothing-less?style=flat-square&color=blue)](https://github.com/mpryor/nothing-less/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A TUI pager with advanced support for tabular data, inferring/swapping delimiters, and real-time event parsing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mpryor/nothing-less：mpryor/nothing-less helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 41/100 |
 | stars | 50/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

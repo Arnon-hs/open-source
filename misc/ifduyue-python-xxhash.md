@@ -1,6 +1,6 @@
 # ifduyue/python-xxhash
 
-[![Stars](https://img.shields.io/github/stars/ifduyue/python-xxhash?style=flat-square&color=yellow)](https://github.com/ifduyue/python-xxhash/stargazers) [![Forks](https://img.shields.io/github/forks/ifduyue/python-xxhash?style=flat-square&color=blue)](https://github.com/ifduyue/python-xxhash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ifduyue/python-xxhash?style=flat-square&color=yellow)](https://github.com/ifduyue/python-xxhash/stargazers) [![Forks](https://img.shields.io/github/forks/ifduyue/python-xxhash?style=flat-square&color=blue)](https://github.com/ifduyue/python-xxhash/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Python Binding for xxHash
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 463 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ The library is **medium‑ready**: it is stable enough for prototypes or interna
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

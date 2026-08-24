@@ -1,6 +1,6 @@
 # QSong-github/DrugClaw
 
-[![Stars](https://img.shields.io/github/stars/QSong-github/DrugClaw?style=flat-square&color=yellow)](https://github.com/QSong-github/DrugClaw/stargazers) [![Forks](https://img.shields.io/github/forks/QSong-github/DrugClaw?style=flat-square&color=blue)](https://github.com/QSong-github/DrugClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QSong-github/DrugClaw?style=flat-square&color=yellow)](https://github.com/QSong-github/DrugClaw/stargazers) [![Forks](https://img.shields.io/github/forks/QSong-github/DrugClaw?style=flat-square&color=blue)](https://github.com/QSong-github/DrugClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🦀 Agentic RAG for drug intelligence · 57 skills · 15 task categories · DTI · ADR · DDI · PGx · Repurposing · Powered by LangGraph
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ DrugClaw 把单个 Prompt 与工具包装成可复用的 **Agentic RAG** 工作�
 | forks | 17/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

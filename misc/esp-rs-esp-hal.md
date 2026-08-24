@@ -1,6 +1,6 @@
 # esp-rs/esp-hal
 
-[![Stars](https://img.shields.io/github/stars/esp-rs/esp-hal?style=flat-square&color=yellow)](https://github.com/esp-rs/esp-hal/stargazers) [![Forks](https://img.shields.io/github/forks/esp-rs/esp-hal?style=flat-square&color=blue)](https://github.com/esp-rs/esp-hal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esp-rs/esp-hal?style=flat-square&color=yellow)](https://github.com/esp-rs/esp-hal/stargazers) [![Forks](https://img.shields.io/github/forks/esp-rs/esp-hal?style=flat-square&color=blue)](https://github.com/esp-rs/esp-hal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > no_std Hardware Abstraction Layers for ESP32 microcontrollers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 437 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-esp-rs/esp-hal: esp-rs/esp-hal may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+esp-rs/esp-hal: esp-rs/esp-hal may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-esp-rs/esp-hal: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+esp-rs/esp-hal: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-esp-rs/esp-hal：esp-rs/esp-hal may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+esp-rs/esp-hal：esp-rs/esp-hal may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ esp-rs/esp-hal：esp-rs/esp-hal may be useful when its README and activity match
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ esp-rs/esp-hal：esp-rs/esp-hal may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 69/100 |
-| stars | 70/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| stars | 70/100 |
 | topics | 50/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

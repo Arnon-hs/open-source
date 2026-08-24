@@ -1,6 +1,6 @@
 # cloudflare/vibesdk
 
-[![Stars](https://img.shields.io/github/stars/cloudflare/vibesdk?style=flat-square&color=yellow)](https://github.com/cloudflare/vibesdk/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/vibesdk?style=flat-square&color=blue)](https://github.com/cloudflare/vibesdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cloudflare/vibesdk?style=flat-square&color=yellow)](https://github.com/cloudflare/vibesdk/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/vibesdk?style=flat-square&color=blue)](https://github.com/cloudflare/vibesdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ cloudflare/vibesdk 是一个基于 Cloudflare 全栈的开源 “vibe coding” 
 | forks | 77/100 |
 | stars | 79/100 |
 | topics | 75/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 78/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

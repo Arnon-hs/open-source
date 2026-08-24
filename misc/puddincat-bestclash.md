@@ -1,6 +1,6 @@
 # PuddinCat/BestClash
 
-[![Stars](https://img.shields.io/github/stars/PuddinCat/BestClash?style=flat-square&color=yellow)](https://github.com/PuddinCat/BestClash/stargazers) [![Forks](https://img.shields.io/github/forks/PuddinCat/BestClash?style=flat-square&color=blue)](https://github.com/PuddinCat/BestClash/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PuddinCat/BestClash?style=flat-square&color=yellow)](https://github.com/PuddinCat/BestClash/stargazers) [![Forks](https://img.shields.io/github/forks/PuddinCat/BestClash?style=flat-square&color=blue)](https://github.com/PuddinCat/BestClash/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 每30分钟更新！免费Clash翻墙订阅，自动从网上爬取并测速 | 免费代理 | VPN | 订阅 | 节点 | clash meta | mihomo | 翻墙 | 科学上网 | 梯子 |
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PuddinCat/BestClash is an open‑source tool that automatically gathers free pro
 
 ### 中文
 
-PuddinCat/BestClash：PuddinCat/BestClash may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+PuddinCat/BestClash：PuddinCat/BestClash may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ PuddinCat/BestClash：PuddinCat/BestClash may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ PuddinCat/BestClash：PuddinCat/BestClash may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 63/100 |
-| stars | 68/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 75/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

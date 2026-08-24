@@ -1,6 +1,6 @@
 # CopilotKit/aimock
 
-[![Stars](https://img.shields.io/github/stars/CopilotKit/aimock?style=flat-square&color=yellow)](https://github.com/CopilotKit/aimock/stargazers) [![Forks](https://img.shields.io/github/forks/CopilotKit/aimock?style=flat-square&color=blue)](https://github.com/CopilotKit/aimock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CopilotKit/aimock?style=flat-square&color=yellow)](https://github.com/CopilotKit/aimock/stargazers) [![Forks](https://img.shields.io/github/forks/CopilotKit/aimock?style=flat-square&color=blue)](https://github.com/CopilotKit/aimock/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Mock everything your AI app talks to — LLM APIs, MCP, A2A, AG-UI, vector DBs, search. One package, one port, zero dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 578 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CopilotKit/aimock：CopilotKit/aimock helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 53/100 |
 | stars | 59/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

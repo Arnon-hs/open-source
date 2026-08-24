@@ -1,6 +1,6 @@
 # every-app/open-seo
 
-[![Stars](https://img.shields.io/github/stars/every-app/open-seo?style=flat-square&color=yellow)](https://github.com/every-app/open-seo/stargazers) [![Forks](https://img.shields.io/github/forks/every-app/open-seo?style=flat-square&color=blue)](https://github.com/every-app/open-seo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/every-app/open-seo?style=flat-square&color=yellow)](https://github.com/every-app/open-seo/stargazers) [![Forks](https://img.shields.io/github/forks/every-app/open-seo?style=flat-square&color=blue)](https://github.com/every-app/open-seo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open source alternative to Semrush and Ahrefs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 390 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ every‑app/open‑seo 是一个开源的 SEO 分析平台，提供与 Semrush�
 | forks | 65/100 |
 | stars | 76/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

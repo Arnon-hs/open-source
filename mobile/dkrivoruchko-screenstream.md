@@ -1,6 +1,6 @@
 # dkrivoruchko/ScreenStream
 
-[![Stars](https://img.shields.io/github/stars/dkrivoruchko/ScreenStream?style=flat-square&color=yellow)](https://github.com/dkrivoruchko/ScreenStream/stargazers) [![Forks](https://img.shields.io/github/forks/dkrivoruchko/ScreenStream?style=flat-square&color=blue)](https://github.com/dkrivoruchko/ScreenStream/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dkrivoruchko/ScreenStream?style=flat-square&color=yellow)](https://github.com/dkrivoruchko/ScreenStream/stargazers) [![Forks](https://img.shields.io/github/forks/dkrivoruchko/ScreenStream?style=flat-square&color=blue)](https://github.com/dkrivoruchko/ScreenStream/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > ScreenStream Android App
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 475 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ ScreenStream 是一款基于 Kotlin 开发的 Android 应用，能够将手机�
 | forks | 67/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

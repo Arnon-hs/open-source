@@ -1,6 +1,6 @@
 # danieljustus/symaira-vault
 
-[![Stars](https://img.shields.io/github/stars/danieljustus/symaira-vault?style=flat-square&color=yellow)](https://github.com/danieljustus/symaira-vault/stargazers) [![Forks](https://img.shields.io/github/forks/danieljustus/symaira-vault?style=flat-square&color=blue)](https://github.com/danieljustus/symaira-vault/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danieljustus/symaira-vault?style=flat-square&color=yellow)](https://github.com/danieljustus/symaira-vault/stargazers) [![Forks](https://img.shields.io/github/forks/danieljustus/symaira-vault?style=flat-square&color=blue)](https://github.com/danieljustus/symaira-vault/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐 The password manager for terminal users and AI agents. Age-encrypted, keyring-cached, MCP-ready. Zero telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ danieljustus/symaira-vault：danieljustus/symaira-vault helps turn isolated prom
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

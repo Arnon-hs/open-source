@@ -1,6 +1,6 @@
 # fungos/cr
 
-[![Stars](https://img.shields.io/github/stars/fungos/cr?style=flat-square&color=yellow)](https://github.com/fungos/cr/stargazers) [![Forks](https://img.shields.io/github/forks/fungos/cr?style=flat-square&color=blue)](https://github.com/fungos/cr/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fungos/cr?style=flat-square&color=yellow)](https://github.com/fungos/cr/stargazers) [![Forks](https://img.shields.io/github/forks/fungos/cr?style=flat-square&color=blue)](https://github.com/fungos/cr/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > cr.h: A Simple C Hot Reload Header-only Library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ The project scores high on production readiness: it shows recent activity (last 
 | forks | 52/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # heal-dev/heal-playwright-tracer
 
-[![Stars](https://img.shields.io/github/stars/heal-dev/heal-playwright-tracer?style=flat-square&color=yellow)](https://github.com/heal-dev/heal-playwright-tracer/stargazers) [![Forks](https://img.shields.io/github/forks/heal-dev/heal-playwright-tracer?style=flat-square&color=blue)](https://github.com/heal-dev/heal-playwright-tracer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heal-dev/heal-playwright-tracer?style=flat-square&color=yellow)](https://github.com/heal-dev/heal-playwright-tracer/stargazers) [![Forks](https://img.shields.io/github/forks/heal-dev/heal-playwright-tracer?style=flat-square&color=blue)](https://github.com/heal-dev/heal-playwright-tracer/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source statement-level Playwright tracer, purpose-built for AI agents. Analyzes test runs with increased accuracy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Observability
+Automation · Observability
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ heal-dev/heal‑playwright‑tracer 是一款面向 AI 代理的开源 **Playwri
 | forks | 0/100 |
 | stars | 33/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 42/100 |
+| recency | 20/100 |
 | adoption | 24/100 |
-| production | 68/100 |
+| production | 41/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

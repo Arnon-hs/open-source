@@ -1,6 +1,6 @@
 # Dong90/oh-my-taiyiforge
 
-[![Stars](https://img.shields.io/github/stars/Dong90/oh-my-taiyiforge?style=flat-square&color=yellow)](https://github.com/Dong90/oh-my-taiyiforge/stargazers) [![Forks](https://img.shields.io/github/forks/Dong90/oh-my-taiyiforge?style=flat-square&color=blue)](https://github.com/Dong90/oh-my-taiyiforge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dong90/oh-my-taiyiforge?style=flat-square&color=yellow)](https://github.com/Dong90/oh-my-taiyiforge/stargazers) [![Forks](https://img.shields.io/github/forks/Dong90/oh-my-taiyiforge?style=flat-square&color=blue)](https://github.com/Dong90/oh-my-taiyiforge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > AI workflow automation plugin for intelligent code generation with Claude/Codex
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 453 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Dong90/oh‑my‑taiyiforge 是一款基于 Claude / Codex 的 AI 工作流自�
 | forks | 26/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

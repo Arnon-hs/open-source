@@ -1,6 +1,6 @@
 # JackChen-me/open-multi-agent
 
-[![Stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=flat-square&color=yellow)](https://github.com/JackChen-me/open-multi-agent/stargazers) [![Forks](https://img.shields.io/github/forks/JackChen-me/open-multi-agent?style=flat-square&color=blue)](https://github.com/JackChen-me/open-multi-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JackChen-me/open-multi-agent?style=flat-square&color=yellow)](https://github.com/JackChen-me/open-multi-agent/stargazers) [![Forks](https://img.shields.io/github/forks/JackChen-me/open-multi-agent?style=flat-square&color=blue)](https://github.com/JackChen-me/open-multi-agent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with MCP and live tracing. Three runtime dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ JackChen-me/open-multi-agent: JackChen-me/open-multi-agent helps turn isolated p
 
 ### Русский
 
-JackChen-me/open-multi-agent: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+JackChen-me/open-multi-agent: open-source проект в категориях Orchestration, MCP, AI/ML, Observability. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ JackChen-me/open-multi-agent：JackChen-me/open-multi-agent helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 77/100 |
-| integration | 78/100 |
-| production | 65/100 |
-| outlook | 74/100 |
-| adoption | 82/100 |
-| stars | 81/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

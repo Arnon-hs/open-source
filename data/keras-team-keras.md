@@ -1,6 +1,6 @@
 # keras-team/keras
 
-[![Stars](https://img.shields.io/github/stars/keras-team/keras?style=flat-square&color=yellow)](https://github.com/keras-team/keras/stargazers) [![Forks](https://img.shields.io/github/forks/keras-team/keras?style=flat-square&color=blue)](https://github.com/keras-team/keras/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keras-team/keras?style=flat-square&color=yellow)](https://github.com/keras-team/keras/stargazers) [![Forks](https://img.shields.io/github/forks/keras-team/keras?style=flat-square&color=blue)](https://github.com/keras-team/keras/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Deep Learning for humans
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64.1k |
 | 🍴 **Forks** | 19.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Education
+Data
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Keras（github.com/keras-team/keras）是面向人类的深度学习库，提供
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 80/100 |
+| recency | 20/100 |
 | adoption | 100/100 |
-| production | 84/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

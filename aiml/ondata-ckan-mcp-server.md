@@ -1,6 +1,6 @@
 # ondata/ckan-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/ondata/ckan-mcp-server?style=flat-square&color=yellow)](https://github.com/ondata/ckan-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/ondata/ckan-mcp-server?style=flat-square&color=blue)](https://github.com/ondata/ckan-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ondata/ckan-mcp-server?style=flat-square&color=yellow)](https://github.com/ondata/ckan-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/ondata/ckan-mcp-server?style=flat-square&color=blue)](https://github.com/ondata/ckan-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for querying CKAN open data portals (package search, DataStore SQL, organizations, groups, tags)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ondata/ckan-mcp-server：ondata/ckan-mcp-server helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 100/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 32/100 |
 | stars | 36/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # xinnan-tech/xiaozhi-esp32-server
 
-[![Stars](https://img.shields.io/github/stars/xinnan-tech/xiaozhi-esp32-server?style=flat-square&color=yellow)](https://github.com/xinnan-tech/xiaozhi-esp32-server/stargazers) [![Forks](https://img.shields.io/github/forks/xinnan-tech/xiaozhi-esp32-server?style=flat-square&color=blue)](https://github.com/xinnan-tech/xiaozhi-esp32-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xinnan-tech/xiaozhi-esp32-server?style=flat-square&color=yellow)](https://github.com/xinnan-tech/xiaozhi-esp32-server/stargazers) [![Forks](https://img.shields.io/github/forks/xinnan-tech/xiaozhi-esp32-server?style=flat-square&color=blue)](https://github.com/xinnan-tech/xiaozhi-esp32-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.5k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ xinnan-tech/xiaozhi-esp32-server：xinnan-tech/xiaozhi-esp32-server helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 85/100 |
 | stars | 85/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

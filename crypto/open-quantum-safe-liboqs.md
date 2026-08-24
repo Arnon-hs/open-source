@@ -1,6 +1,6 @@
 # open-quantum-safe/liboqs
 
-[![Stars](https://img.shields.io/github/stars/open-quantum-safe/liboqs?style=flat-square&color=yellow)](https://github.com/open-quantum-safe/liboqs/stargazers) [![Forks](https://img.shields.io/github/forks/open-quantum-safe/liboqs?style=flat-square&color=blue)](https://github.com/open-quantum-safe/liboqs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-quantum-safe/liboqs?style=flat-square&color=yellow)](https://github.com/open-quantum-safe/liboqs/stargazers) [![Forks](https://img.shields.io/github/forks/open-quantum-safe/liboqs?style=flat-square&color=blue)](https://github.com/open-quantum-safe/liboqs/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > C library for prototyping and experimenting with quantum-resistant cryptography
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 720 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ open-quantum-safe/liboqs 是一个用 C 语言实现的量子抗性密码学库�
 | forks | 71/100 |
 | stars | 74/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

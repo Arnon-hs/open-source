@@ -1,6 +1,6 @@
 # diggerhq/digger
 
-[![Stars](https://img.shields.io/github/stars/diggerhq/digger?style=flat-square&color=yellow)](https://github.com/diggerhq/digger/stargazers) [![Forks](https://img.shields.io/github/forks/diggerhq/digger?style=flat-square&color=blue)](https://github.com/diggerhq/digger/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diggerhq/digger?style=flat-square&color=yellow)](https://github.com/diggerhq/digger/stargazers) [![Forks](https://img.shields.io/github/forks/diggerhq/digger?style=flat-square&color=blue)](https://github.com/diggerhq/digger/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 599 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Database · DevOps/Infra
+Orchestration · DevOps/Infra
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Digger（diggerhq/digger）是一款开源的 IaC（Infrastructure as Code�
 | forks | 69/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pivotal-cf/om
 
-[![Stars](https://img.shields.io/github/stars/pivotal-cf/om?style=flat-square&color=yellow)](https://github.com/pivotal-cf/om/stargazers) [![Forks](https://img.shields.io/github/forks/pivotal-cf/om?style=flat-square&color=blue)](https://github.com/pivotal-cf/om/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pivotal-cf/om?style=flat-square&color=yellow)](https://github.com/pivotal-cf/om/stargazers) [![Forks](https://img.shields.io/github/forks/pivotal-cf/om?style=flat-square&color=blue)](https://github.com/pivotal-cf/om/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > General command line utility for working with VMware Tanzu Operations Manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ pivotal‑cf/om 是一款基于 Go 实现的通用命令行工具，专用于与
 | forks | 51/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

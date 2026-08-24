@@ -1,6 +1,6 @@
 # crawl/crawl
 
-[![Stars](https://img.shields.io/github/stars/crawl/crawl?style=flat-square&color=yellow)](https://github.com/crawl/crawl/stargazers) [![Forks](https://img.shields.io/github/forks/crawl/crawl?style=flat-square&color=blue)](https://github.com/crawl/crawl/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crawl/crawl?style=flat-square&color=yellow)](https://github.com/crawl/crawl/stargazers) [![Forks](https://img.shields.io/github/forks/crawl/crawl?style=flat-square&color=blue)](https://github.com/crawl/crawl/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Dungeon Crawl: Stone Soup official repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Dungeon Crawl: Stone Soup（仓库 `crawl/crawl`）是一个开源的 Roguelike 
 | forks | 80/100 |
 | stars | 74/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

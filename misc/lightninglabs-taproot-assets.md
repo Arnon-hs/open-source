@@ -1,6 +1,6 @@
 # lightninglabs/taproot-assets
 
-[![Stars](https://img.shields.io/github/stars/lightninglabs/taproot-assets?style=flat-square&color=yellow)](https://github.com/lightninglabs/taproot-assets/stargazers) [![Forks](https://img.shields.io/github/forks/lightninglabs/taproot-assets?style=flat-square&color=blue)](https://github.com/lightninglabs/taproot-assets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lightninglabs/taproot-assets?style=flat-square&color=yellow)](https://github.com/lightninglabs/taproot-assets/stargazers) [![Forks](https://img.shields.io/github/forks/lightninglabs/taproot-assets?style=flat-square&color=blue)](https://github.com/lightninglabs/taproot-assets/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A layer 1 daemon, for the Taproot Assets Protocol specification, written in Go (golang)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 519 |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ lightninglabs/taproot‑assets 是用 Go 实现的 Taproot Assets 协议层‑1 
 | forks | 54/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

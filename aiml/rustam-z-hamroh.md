@@ -1,6 +1,6 @@
 # Rustam-Z/hamroh
 
-[![Stars](https://img.shields.io/github/stars/Rustam-Z/hamroh?style=flat-square&color=yellow)](https://github.com/Rustam-Z/hamroh/stargazers) [![Forks](https://img.shields.io/github/forks/Rustam-Z/hamroh?style=flat-square&color=blue)](https://github.com/Rustam-Z/hamroh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rustam-Z/hamroh?style=flat-square&color=yellow)](https://github.com/Rustam-Z/hamroh/stargazers) [![Forks](https://img.shields.io/github/forks/Rustam-Z/hamroh?style=flat-square&color=blue)](https://github.com/Rustam-Z/hamroh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > "hamroh" is a AI agent harness framework for running your own persistent AI companion on Telegram — one you fully own, control, can extend, one that learns from you.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Developers can adopt Rustam-Z/hamroh by following these steps:
 | forks | 30/100 |
 | stars | 33/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

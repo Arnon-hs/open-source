@@ -1,6 +1,6 @@
 # pymc-devs/pymc
 
-[![Stars](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&color=yellow)](https://github.com/pymc-devs/pymc/stargazers) [![Forks](https://img.shields.io/github/forks/pymc-devs/pymc?style=flat-square&color=blue)](https://github.com/pymc-devs/pymc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&color=yellow)](https://github.com/pymc-devs/pymc/stargazers) [![Forks](https://img.shields.io/github/forks/pymc-devs/pymc?style=flat-square&color=blue)](https://github.com/pymc-devs/pymc/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Bayesian Modeling and Probabilistic Programming in Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.7k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -85,14 +85,15 @@ pymc-devs/pymc 是一个基于 Python 的贝叶斯建模与概率编程框架，
 | forks | 84/100 |
 | stars | 85/100 |
 | topics | 88/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

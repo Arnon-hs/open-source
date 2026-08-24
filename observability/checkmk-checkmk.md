@@ -1,6 +1,6 @@
 # Checkmk/checkmk
 
-[![Stars](https://img.shields.io/github/stars/Checkmk/checkmk?style=flat-square&color=yellow)](https://github.com/Checkmk/checkmk/stargazers) [![Forks](https://img.shields.io/github/forks/Checkmk/checkmk?style=flat-square&color=blue)](https://github.com/Checkmk/checkmk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Checkmk/checkmk?style=flat-square&color=yellow)](https://github.com/Checkmk/checkmk/stargazers) [![Forks](https://img.shields.io/github/forks/Checkmk/checkmk?style=flat-square&color=blue)](https://github.com/Checkmk/checkmk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Checkmk - Best-in-class infrastructure & application monitoring
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 542 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Observability · DevOps/Infra
+Observability
 
 ## 📝 Summary
 
@@ -90,14 +90,15 @@ Checkmk 是一款面向基础设施和业务系统的全栈监控平台，提供
 | forks | 68/100 |
 | stars | 72/100 |
 | topics | 13/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

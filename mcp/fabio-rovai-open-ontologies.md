@@ -1,6 +1,6 @@
 # fabio-rovai/open-ontologies
 
-[![Stars](https://img.shields.io/github/stars/fabio-rovai/open-ontologies?style=flat-square&color=yellow)](https://github.com/fabio-rovai/open-ontologies/stargazers) [![Forks](https://img.shields.io/github/forks/fabio-rovai/open-ontologies?style=flat-square&color=blue)](https://github.com/fabio-rovai/open-ontologies/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fabio-rovai/open-ontologies?style=flat-square&color=yellow)](https://github.com/fabio-rovai/open-ontologies/stargazers) [![Forks](https://img.shields.io/github/forks/fabio-rovai/open-ontologies?style=flat-square&color=blue)](https://github.com/fabio-rovai/open-ontologies/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native ontology engine: a Rust MCP server with tools for building, validating, querying, and reasoning over RDF/OWL ontologies. In-memory Oxigraph triple store, native OWL2-DL tableaux reasoner, SHACL validation, SPARQL, versioning. Single binary, no JVM.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Data
+MCP · AI/ML · Backend · Data
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ fabio-rovai/open-ontologies 是一个 AI 原生本体引擎，采用 Rust 实现
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

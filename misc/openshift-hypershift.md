@@ -1,6 +1,6 @@
 # openshift/hypershift
 
-[![Stars](https://img.shields.io/github/stars/openshift/hypershift?style=flat-square&color=yellow)](https://github.com/openshift/hypershift/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/hypershift?style=flat-square&color=blue)](https://github.com/openshift/hypershift/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openshift/hypershift?style=flat-square&color=yellow)](https://github.com/openshift/hypershift/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/hypershift?style=flat-square&color=blue)](https://github.com/openshift/hypershift/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Hyperscale OpenShift - clusters with hosted control planes
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 527 |
 | 🍴 **Forks** | 506 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Hypershift 是 OpenShift 的超大规模实现，提供“托管控制平面”�
 | forks | 68/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

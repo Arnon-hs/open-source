@@ -1,6 +1,6 @@
 # h-desk/hdesk
 
-[![Stars](https://img.shields.io/github/stars/h-desk/hdesk?style=flat-square&color=yellow)](https://github.com/h-desk/hdesk/stargazers) [![Forks](https://img.shields.io/github/forks/h-desk/hdesk?style=flat-square&color=blue)](https://github.com/h-desk/hdesk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/h-desk/hdesk?style=flat-square&color=yellow)](https://github.com/h-desk/hdesk/stargazers) [![Forks](https://img.shields.io/github/forks/h-desk/hdesk?style=flat-square&color=blue)](https://github.com/h-desk/hdesk/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > 鸿蒙远程桌面控制应用。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ h-desk/hdesk 是一款基于鸿蒙系统的远程桌面控制客户端，使用 
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 35/100 |
+| quality | 37/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 66/100 |
+| production | 39/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

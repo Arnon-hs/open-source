@@ -1,6 +1,6 @@
 # ipiton/agent-memory-mcp
 
-[![Stars](https://img.shields.io/github/stars/ipiton/agent-memory-mcp?style=flat-square&color=yellow)](https://github.com/ipiton/agent-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ipiton/agent-memory-mcp?style=flat-square&color=blue)](https://github.com/ipiton/agent-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ipiton/agent-memory-mcp?style=flat-square&color=yellow)](https://github.com/ipiton/agent-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ipiton/agent-memory-mcp?style=flat-square&color=blue)](https://github.com/ipiton/agent-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that gives AI agents persistent memory with semantic search
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -91,14 +91,15 @@ ipiton/agent-memory-mcp 的主要价值在于帮助开发者将孤立的提示�
 | forks | 23/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 53/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 38/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

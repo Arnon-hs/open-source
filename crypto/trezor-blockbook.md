@@ -1,6 +1,6 @@
 # trezor/blockbook
 
-[![Stars](https://img.shields.io/github/stars/trezor/blockbook?style=flat-square&color=yellow)](https://github.com/trezor/blockbook/stargazers) [![Forks](https://img.shields.io/github/forks/trezor/blockbook?style=flat-square&color=blue)](https://github.com/trezor/blockbook/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trezor/blockbook?style=flat-square&color=yellow)](https://github.com/trezor/blockbook/stargazers) [![Forks](https://img.shields.io/github/forks/trezor/blockbook?style=flat-square&color=blue)](https://github.com/trezor/blockbook/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > :blue_book: Trezor address/account balance backend
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 774 |
 | 🍴 **Forks** | 738 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Trezor Blockbook — это открытый бекенд‑сервис, п
 
 ### 中文
 
-trezor/blockbook：trezor/blockbook helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+trezor/blockbook：trezor/blockbook helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ trezor/blockbook：trezor/blockbook helps prototype or inspect blockchain workfl
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ trezor/blockbook：trezor/blockbook helps prototype or inspect blockchain workfl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 52/100 |
-| adoption | 64/100 |
-| stars | 61/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # streamthoughts/jikkou
 
-[![Stars](https://img.shields.io/github/stars/streamthoughts/jikkou?style=flat-square&color=yellow)](https://github.com/streamthoughts/jikkou/stargazers) [![Forks](https://img.shields.io/github/forks/streamthoughts/jikkou?style=flat-square&color=blue)](https://github.com/streamthoughts/jikkou/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/streamthoughts/jikkou?style=flat-square&color=yellow)](https://github.com/streamthoughts/jikkou/stargazers) [![Forks](https://img.shields.io/github/forks/streamthoughts/jikkou?style=flat-square&color=blue)](https://github.com/streamthoughts/jikkou/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Open source Resource as Code framework for Apache Kafka. Jikkou helps you implement GitOps for Kafka at scale!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 288 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Data · DevOps/Infra
+Automation
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ streamthoughts/jikkou 是一款面向 Apache Kafka 的 **Resource‑as‑Code** 
 | forks | 37/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

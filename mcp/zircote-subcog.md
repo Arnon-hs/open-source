@@ -1,6 +1,6 @@
 # zircote/subcog
 
-[![Stars](https://img.shields.io/github/stars/zircote/subcog?style=flat-square&color=yellow)](https://github.com/zircote/subcog/stargazers) [![Forks](https://img.shields.io/github/forks/zircote/subcog?style=flat-square&color=blue)](https://github.com/zircote/subcog/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zircote/subcog?style=flat-square&color=yellow)](https://github.com/zircote/subcog/stargazers) [![Forks](https://img.shields.io/github/forks/zircote/subcog?style=flat-square&color=blue)](https://github.com/zircote/subcog/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory system for AI coding assistants. Captures decisions, learnings, and context from coding sessions. Features hybrid search (semantic + BM25), MCP server integration, SQLite persistence with knowledge graph, and proactive memory surfacing. Written in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · Knowledge/RAG · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ zircote/subcog 是用 Rust 编写的持久化记忆系统，专为 AI 编码助�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 26/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

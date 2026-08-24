@@ -1,6 +1,6 @@
 # nextcloud/tasks
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/tasks?style=flat-square&color=yellow)](https://github.com/nextcloud/tasks/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/tasks?style=flat-square&color=blue)](https://github.com/nextcloud/tasks/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/tasks?style=flat-square&color=yellow)](https://github.com/nextcloud/tasks/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/tasks?style=flat-square&color=blue)](https://github.com/nextcloud/tasks/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > :white_check_mark: Tasks app for Nextcloud
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 697 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ nextcloud/tasks 是 Nextcloud 官方的任务管理插件，提供在私有云�
 | forks | 51/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

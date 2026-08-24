@@ -1,6 +1,6 @@
 # esengine/DeepSeek-Reasonix
 
-[![Stars](https://img.shields.io/github/stars/esengine/DeepSeek-Reasonix?style=flat-square&color=yellow)](https://github.com/esengine/DeepSeek-Reasonix/stargazers) [![Forks](https://img.shields.io/github/forks/esengine/DeepSeek-Reasonix?style=flat-square&color=blue)](https://github.com/esengine/DeepSeek-Reasonix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/esengine/DeepSeek-Reasonix?style=flat-square&color=yellow)](https://github.com/esengine/DeepSeek-Reasonix/stargazers) [![Forks](https://img.shields.io/github/forks/esengine/DeepSeek-Reasonix?style=flat-square&color=blue)](https://github.com/esengine/DeepSeek-Reasonix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 519 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ esengine/DeepSeek-Reasonix: esengine/DeepSeek-Reasonix helps turn isolated promp
 
 ### Русский
 
-esengine/DeepSeek-Reasonix: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+esengine/DeepSeek-Reasonix: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ esengine/DeepSeek-Reasonix：esengine/DeepSeek-Reasonix helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 67/100 |
-| adoption | 52/100 |
-| stars | 58/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

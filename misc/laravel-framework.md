@@ -1,6 +1,6 @@
 # laravel/framework
 
-[![Stars](https://img.shields.io/github/stars/laravel/framework?style=flat-square&color=yellow)](https://github.com/laravel/framework/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/framework?style=flat-square&color=blue)](https://github.com/laravel/framework/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laravel/framework?style=flat-square&color=yellow)](https://github.com/laravel/framework/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/framework?style=flat-square&color=blue)](https://github.com/laravel/framework/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Laravel is a web application framework with expressive, elegant syntax.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34.8k |
 | 🍴 **Forks** | 11.9k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Laravel 是当下最流行的 PHP Web 框架之一，提供 **简洁、富表达
 | forks | 100/100 |
 | stars | 97/100 |
 | topics | 38/100 |
-| outlook | 85/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 98/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

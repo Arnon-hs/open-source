@@ -1,6 +1,6 @@
 # wasmCloud/wasmCloud
 
-[![Stars](https://img.shields.io/github/stars/wasmCloud/wasmCloud?style=flat-square&color=yellow)](https://github.com/wasmCloud/wasmCloud/stargazers) [![Forks](https://img.shields.io/github/forks/wasmCloud/wasmCloud?style=flat-square&color=blue)](https://github.com/wasmCloud/wasmCloud/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wasmCloud/wasmCloud?style=flat-square&color=yellow)](https://github.com/wasmCloud/wasmCloud/stargazers) [![Forks](https://img.shields.io/github/forks/wasmCloud/wasmCloud?style=flat-square&color=blue)](https://github.com/wasmCloud/wasmCloud/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > wasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wasmCloud/wasmCloud：wasmCloud/wasmCloud helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 68/100 |
 | stars | 72/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

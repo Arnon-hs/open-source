@@ -1,6 +1,6 @@
 # dembrandt/dembrandt
 
-[![Stars](https://img.shields.io/github/stars/dembrandt/dembrandt?style=flat-square&color=yellow)](https://github.com/dembrandt/dembrandt/stargazers) [![Forks](https://img.shields.io/github/forks/dembrandt/dembrandt?style=flat-square&color=blue)](https://github.com/dembrandt/dembrandt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dembrandt/dembrandt?style=flat-square&color=yellow)](https://github.com/dembrandt/dembrandt/stargazers) [![Forks](https://img.shields.io/github/forks/dembrandt/dembrandt?style=flat-square&color=blue)](https://github.com/dembrandt/dembrandt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools · Design
+MCP · Frontend · DevTools · Design
 
 ## 📝 Summary
 
@@ -85,14 +85,15 @@ dembrandt/dembrandt 是一款开源工具，只需一条命令即可从任意网
 | forks | 57/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ow-mods/ow-mod-man
 
-[![Stars](https://img.shields.io/github/stars/ow-mods/ow-mod-man?style=flat-square&color=yellow)](https://github.com/ow-mods/ow-mod-man/stargazers) [![Forks](https://img.shields.io/github/forks/ow-mods/ow-mod-man?style=flat-square&color=blue)](https://github.com/ow-mods/ow-mod-man/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ow-mods/ow-mod-man?style=flat-square&color=yellow)](https://github.com/ow-mods/ow-mod-man/stargazers) [![Forks](https://img.shields.io/github/forks/ow-mods/ow-mod-man?style=flat-square&color=blue)](https://github.com/ow-mods/ow-mod-man/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The mod manager for the Outer Wilds Mod Loader
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ OW-MOD-Man 的生产可用性为中等（Medium），因为它适合于原型或
 | forks | 24/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

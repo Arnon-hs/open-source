@@ -1,6 +1,6 @@
 # tinacms/tinacms
 
-[![Stars](https://img.shields.io/github/stars/tinacms/tinacms?style=flat-square&color=yellow)](https://github.com/tinacms/tinacms/stargazers) [![Forks](https://img.shields.io/github/forks/tinacms/tinacms?style=flat-square&color=blue)](https://github.com/tinacms/tinacms/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinacms/tinacms?style=flat-square&color=yellow)](https://github.com/tinacms/tinacms/stargazers) [![Forks](https://img.shields.io/github/forks/tinacms/tinacms?style=flat-square&color=blue)](https://github.com/tinacms/tinacms/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A fully open-source headless CMS that supports Markdown and Visual Editing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.3k |
 | 🍴 **Forks** | 696 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -67,16 +67,16 @@ tinacms/tinacms：tinacms/tinacms helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 63/100 |
-| adoption | 83/100 |
-| stars | 88/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

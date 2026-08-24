@@ -1,6 +1,6 @@
 # flutter/flutter
 
-[![Stars](https://img.shields.io/github/stars/flutter/flutter?style=flat-square&color=yellow)](https://github.com/flutter/flutter/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/flutter?style=flat-square&color=blue)](https://github.com/flutter/flutter/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flutter/flutter?style=flat-square&color=yellow)](https://github.com/flutter/flutter/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/flutter?style=flat-square&color=blue)](https://github.com/flutter/flutter/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 176.2k |
 | 🍴 **Forks** | 30.3k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ flutter/flutter：flutter/flutter helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 64/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

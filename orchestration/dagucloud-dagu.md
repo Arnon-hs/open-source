@@ -1,6 +1,6 @@
 # dagucloud/dagu
 
-[![Stars](https://img.shields.io/github/stars/dagucloud/dagu?style=flat-square&color=yellow)](https://github.com/dagucloud/dagu/stargazers) [![Forks](https://img.shields.io/github/forks/dagucloud/dagu?style=flat-square&color=blue)](https://github.com/dagucloud/dagu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dagucloud/dagu?style=flat-square&color=yellow)](https://github.com/dagucloud/dagu/stargazers) [![Forks](https://img.shields.io/github/forks/dagucloud/dagu?style=flat-square&color=blue)](https://github.com/dagucloud/dagu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent Workflow Operator handles creating and debugging workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 261 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dagucloud/dagu: dagucloud/dagu helps turn isolated prompts and tools into repeat
 
 ### Русский
 
-dagucloud/dagu: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dagucloud/dagu: open-source проект в категориях Orchestration, Automation, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dagucloud/dagu：dagucloud/dagu helps turn isolated prompts and tools into repea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 72/100 |
-| adoption | 71/100 |
-| stars | 75/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

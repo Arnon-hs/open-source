@@ -1,6 +1,6 @@
 # Regsorm/code-index-mcp
 
-[![Stars](https://img.shields.io/github/stars/Regsorm/code-index-mcp?style=flat-square&color=yellow)](https://github.com/Regsorm/code-index-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Regsorm/code-index-mcp?style=flat-square&color=blue)](https://github.com/Regsorm/code-index-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Regsorm/code-index-mcp?style=flat-square&color=yellow)](https://github.com/Regsorm/code-index-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Regsorm/code-index-mcp?style=flat-square&color=blue)](https://github.com/Regsorm/code-index-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-native code index MCP server with first-class 1C:Enterprise (BSL) support. Static binary, no runtime. 31 tools — 20 universal + 11 BSL-specific. Tree-sitter AST for 10 languages. Federation across multiple repos. Built for production-scale monorepos.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Frontend · Backend · DevTools · Database
+MCP · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Regsorm/code-index-mcp 是一款基于 Rust 的代码索引 MCP（Model Context 
 | forks | 26/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

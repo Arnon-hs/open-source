@@ -1,6 +1,6 @@
 # Happenmass/Cliclaw
 
-[![Stars](https://img.shields.io/github/stars/Happenmass/Cliclaw?style=flat-square&color=yellow)](https://github.com/Happenmass/Cliclaw/stargazers) [![Forks](https://img.shields.io/github/forks/Happenmass/Cliclaw?style=flat-square&color=blue)](https://github.com/Happenmass/Cliclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Happenmass/Cliclaw?style=flat-square&color=yellow)](https://github.com/Happenmass/Cliclaw/stargazers) [![Forks](https://img.shields.io/github/forks/Happenmass/Cliclaw?style=flat-square&color=blue)](https://github.com/Happenmass/Cliclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Your CLI coding agent shouldn't need a babysitter. cliclaw is a tool-agnostic meta-agent that runs Claude Code, Codex, or any TUI agent in parallel through tmux — clearing confirmations, remembering across sessions, scaling out.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Happenmass/Cliclaw 是一个工具无关的元代理，能够在 tmux 会话中�
 | forks | 12/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

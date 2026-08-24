@@ -1,6 +1,6 @@
 # narumiruna/yfinance-mcp
 
-[![Stars](https://img.shields.io/github/stars/narumiruna/yfinance-mcp?style=flat-square&color=yellow)](https://github.com/narumiruna/yfinance-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/narumiruna/yfinance-mcp?style=flat-square&color=blue)](https://github.com/narumiruna/yfinance-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/narumiruna/yfinance-mcp?style=flat-square&color=yellow)](https://github.com/narumiruna/yfinance-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/narumiruna/yfinance-mcp?style=flat-square&color=blue)](https://github.com/narumiruna/yfinance-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ narumiruna/yfinance-mcp is a Python‑based open‑source implementation of the 
 | forks | 42/100 |
 | stars | 45/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 50/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

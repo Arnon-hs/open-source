@@ -1,6 +1,6 @@
 # WFCD/warframe-items
 
-[![Stars](https://img.shields.io/github/stars/WFCD/warframe-items?style=flat-square&color=yellow)](https://github.com/WFCD/warframe-items/stargazers) [![Forks](https://img.shields.io/github/forks/WFCD/warframe-items?style=flat-square&color=blue)](https://github.com/WFCD/warframe-items/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WFCD/warframe-items?style=flat-square&color=yellow)](https://github.com/WFCD/warframe-items/stargazers) [![Forks](https://img.shields.io/github/forks/WFCD/warframe-items?style=flat-square&color=blue)](https://github.com/WFCD/warframe-items/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 📘 Get all Warframe items directly from Warframe's API. No more messy wikia scraping.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ WFCD/warframe-items：WFCD/warframe-items helps teams reuse service infrastructu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 64/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 59/100 |
-| adoption | 52/100 |
-| stars | 55/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

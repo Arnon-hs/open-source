@@ -1,6 +1,6 @@
 # dapr/dapr
 
-[![Stars](https://img.shields.io/github/stars/dapr/dapr?style=flat-square&color=yellow)](https://github.com/dapr/dapr/stargazers) [![Forks](https://img.shields.io/github/forks/dapr/dapr?style=flat-square&color=blue)](https://github.com/dapr/dapr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dapr/dapr?style=flat-square&color=yellow)](https://github.com/dapr/dapr/stargazers) [![Forks](https://img.shields.io/github/forks/dapr/dapr?style=flat-square&color=blue)](https://github.com/dapr/dapr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.7k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dapr/dapr: dapr/dapr helps turn isolated prompts and tools into repeatable agent
 
 ### Русский
 
-dapr/dapr: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dapr/dapr: open-source проект в категориях Orchestration, Automation, Backend, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dapr/dapr：dapr/dapr helps turn isolated prompts and tools into repeatable agen
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 81/100 |
-| integration | 62/100 |
-| production | 65/100 |
-| outlook | 68/100 |
-| adoption | 91/100 |
-| stars | 94/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

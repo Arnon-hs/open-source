@@ -1,6 +1,6 @@
 # kgateway-dev/kgateway
 
-[![Stars](https://img.shields.io/github/stars/kgateway-dev/kgateway?style=flat-square&color=yellow)](https://github.com/kgateway-dev/kgateway/stargazers) [![Forks](https://img.shields.io/github/forks/kgateway-dev/kgateway?style=flat-square&color=blue)](https://github.com/kgateway-dev/kgateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kgateway-dev/kgateway?style=flat-square&color=yellow)](https://github.com/kgateway-dev/kgateway/stargazers) [![Forks](https://img.shields.io/github/forks/kgateway-dev/kgateway?style=flat-square&color=blue)](https://github.com/kgateway-dev/kgateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The Cloud-Native API Gateway and AI Gateway
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 746 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kgateway-dev/kgateway：kgateway-dev/kgateway helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 78/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 58/100 |
+| outlook | 58/100 |
 | adoption | 77/100 |
 | stars | 80/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # The-OpenROAD-Project/OpenROAD
 
-[![Stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD?style=flat-square&color=yellow)](https://github.com/The-OpenROAD-Project/OpenROAD/stargazers) [![Forks](https://img.shields.io/github/forks/The-OpenROAD-Project/OpenROAD?style=flat-square&color=blue)](https://github.com/The-OpenROAD-Project/OpenROAD/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-OpenROAD-Project/OpenROAD?style=flat-square&color=yellow)](https://github.com/The-OpenROAD-Project/OpenROAD/stargazers) [![Forks](https://img.shields.io/github/forks/The-OpenROAD-Project/OpenROAD?style=flat-square&color=blue)](https://github.com/The-OpenROAD-Project/OpenROAD/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 880 |
 | 💻 **Language** | Verilog |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ The-OpenROAD-Project/OpenROAD：The-OpenROAD-Project/OpenROAD helps engineers sa
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 73/100 |
 | stars | 73/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

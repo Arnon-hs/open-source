@@ -1,6 +1,6 @@
 # zhu1090093659/spec_driven_develop
 
-[![Stars](https://img.shields.io/github/stars/zhu1090093659/spec_driven_develop?style=flat-square&color=yellow)](https://github.com/zhu1090093659/spec_driven_develop/stargazers) [![Forks](https://img.shields.io/github/forks/zhu1090093659/spec_driven_develop?style=flat-square&color=blue)](https://github.com/zhu1090093659/spec_driven_develop/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhu1090093659/spec_driven_develop?style=flat-square&color=yellow)](https://github.com/zhu1090093659/spec_driven_develop/stargazers) [![Forks](https://img.shields.io/github/forks/zhu1090093659/spec_driven_develop?style=flat-square&color=blue)](https://github.com/zhu1090093659/spec_driven_develop/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 912 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,14 +128,15 @@ zhu1090093659/spec_driven_develop 为 AI 编码代理提供了一套“规格驱
 | forks | 50/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

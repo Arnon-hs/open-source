@@ -1,6 +1,6 @@
 # volcano-sh/volcano
 
-[![Stars](https://img.shields.io/github/stars/volcano-sh/volcano?style=flat-square&color=yellow)](https://github.com/volcano-sh/volcano/stargazers) [![Forks](https://img.shields.io/github/forks/volcano-sh/volcano?style=flat-square&color=blue)](https://github.com/volcano-sh/volcano/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/volcano-sh/volcano?style=flat-square&color=yellow)](https://github.com/volcano-sh/volcano/stargazers) [![Forks](https://img.shields.io/github/forks/volcano-sh/volcano?style=flat-square&color=blue)](https://github.com/volcano-sh/volcano/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A Cloud Native Batch System (Project under CNCF)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ volcano-sh/volcano：volcano-sh/volcano helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 62/100 |
-| adoption | 79/100 |
-| stars | 80/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

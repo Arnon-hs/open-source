@@ -1,6 +1,6 @@
 # coollabsio/coolify
 
-[![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=flat-square&color=yellow)](https://github.com/coollabsio/coolify/stargazers) [![Forks](https://img.shields.io/github/forks/coollabsio/coolify?style=flat-square&color=blue)](https://github.com/coollabsio/coolify/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=flat-square&color=yellow)](https://github.com/coollabsio/coolify/stargazers) [![Forks](https://img.shields.io/github/forks/coollabsio/coolify?style=flat-square&color=blue)](https://github.com/coollabsio/coolify/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54.7k |
 | 🍴 **Forks** | 4.3k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Data
+Backend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ coollabsio/coolify: coollabsio/coolify helps teams reuse service infrastructure 
 
 ### Русский
 
-coollabsio/coolify: open-source проект в категориях Backend, DevTools, Data. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+coollabsio/coolify: open-source проект в категориях Backend, Database, DevOps/Infra. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ coollabsio/coolify：coollabsio/coolify helps teams reuse service infrastructure
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 84/100 |
-| integration | 78/100 |
-| production | 68/100 |
-| outlook | 73/100 |
-| adoption | 97/100 |
-| stars | 100/100 |
 | forks | 91/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 61/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # TanStack/router
 
-[![Stars](https://img.shields.io/github/stars/TanStack/router?style=flat-square&color=yellow)](https://github.com/TanStack/router/stargazers) [![Forks](https://img.shields.io/github/forks/TanStack/router?style=flat-square&color=blue)](https://github.com/TanStack/router/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TanStack/router?style=flat-square&color=yellow)](https://github.com/TanStack/router/stargazers) [![Forks](https://img.shields.io/github/forks/TanStack/router?style=flat-square&color=blue)](https://github.com/TanStack/router/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.3k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ TanStack/router: TanStack/router helps ship user-facing interfaces with less cus
 
 ### Русский
 
-TanStack/router: open-source проект в категориях Frontend, Backend, DevTools. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+TanStack/router: open-source проект в категориях Frontend, Backend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ TanStack/router：TanStack/router helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 79/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 70/100 |
-| adoption | 86/100 |
-| stars | 88/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

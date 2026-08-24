@@ -1,6 +1,6 @@
 # almogdepaz/wolfpack
 
-[![Stars](https://img.shields.io/github/stars/almogdepaz/wolfpack?style=flat-square&color=yellow)](https://github.com/almogdepaz/wolfpack/stargazers) [![Forks](https://img.shields.io/github/forks/almogdepaz/wolfpack?style=flat-square&color=blue)](https://github.com/almogdepaz/wolfpack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/almogdepaz/wolfpack?style=flat-square&color=yellow)](https://github.com/almogdepaz/wolfpack/stargazers) [![Forks](https://img.shields.io/github/forks/almogdepaz/wolfpack?style=flat-square&color=blue)](https://github.com/almogdepaz/wolfpack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile & desktop command center for AI coding agents. Control Claude, Codex, Gemini sessions across machines from your phone — secured by Tailscale.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Wolfpack is a cross‑platform command center that lets you manage AI coding age
 
 ### 中文
 
-almogdepaz/wolfpack：almogdepaz/wolfpack helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+almogdepaz/wolfpack：almogdepaz/wolfpack helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ almogdepaz/wolfpack：almogdepaz/wolfpack helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ almogdepaz/wolfpack：almogdepaz/wolfpack helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 29/100 |
-| stars | 31/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 31/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 46/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

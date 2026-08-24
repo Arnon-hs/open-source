@@ -1,6 +1,6 @@
 # canonical/multipass
 
-[![Stars](https://img.shields.io/github/stars/canonical/multipass?style=flat-square&color=yellow)](https://github.com/canonical/multipass/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/multipass?style=flat-square&color=blue)](https://github.com/canonical/multipass/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/canonical/multipass?style=flat-square&color=yellow)](https://github.com/canonical/multipass/stargazers) [![Forks](https://img.shields.io/github/forks/canonical/multipass?style=flat-square&color=blue)](https://github.com/canonical/multipass/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Multipass orchestrates virtual Ubuntu instances
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 787 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ canonical/multipass：canonical/multipass helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

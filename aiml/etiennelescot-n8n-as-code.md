@@ -65,15 +65,15 @@ EtienneLescot/n8n-as-code：EtienneLescot/n8n-as-code helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 68/100 |
+| usefulness | 100/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 62/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

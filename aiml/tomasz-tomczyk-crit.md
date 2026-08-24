@@ -1,6 +1,6 @@
 # tomasz-tomczyk/crit
 
-[![Stars](https://img.shields.io/github/stars/tomasz-tomczyk/crit?style=flat-square&color=yellow)](https://github.com/tomasz-tomczyk/crit/stargazers) [![Forks](https://img.shields.io/github/forks/tomasz-tomczyk/crit?style=flat-square&color=blue)](https://github.com/tomasz-tomczyk/crit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tomasz-tomczyk/crit?style=flat-square&color=yellow)](https://github.com/tomasz-tomczyk/crit/stargazers) [![Forks](https://img.shields.io/github/forks/tomasz-tomczyk/crit?style=flat-square&color=blue)](https://github.com/tomasz-tomczyk/crit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Your feedback loop with the agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 255 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ tomasz-tomczyk/crit：tomasz-tomczyk/crit helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 46/100 |
-| stars | 51/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

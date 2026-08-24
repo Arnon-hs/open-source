@@ -1,6 +1,6 @@
 # getzep/zep
 
-[![Stars](https://img.shields.io/github/stars/getzep/zep?style=flat-square&color=yellow)](https://github.com/getzep/zep/stargazers) [![Forks](https://img.shields.io/github/forks/getzep/zep?style=flat-square&color=blue)](https://github.com/getzep/zep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getzep/zep?style=flat-square&color=yellow)](https://github.com/getzep/zep/stargazers) [![Forks](https://img.shields.io/github/forks/getzep/zep?style=flat-square&color=blue)](https://github.com/getzep/zep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Zep | Examples, Integrations, & More
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 635 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Zep（仓库 getzep/zep）是一个面向 AI/ML 与教育场景的开源工具
 | forks | 70/100 |
 | stars | 78/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

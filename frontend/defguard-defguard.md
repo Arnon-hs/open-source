@@ -1,6 +1,6 @@
 # DefGuard/defguard
 
-[![Stars](https://img.shields.io/github/stars/DefGuard/defguard?style=flat-square&color=yellow)](https://github.com/DefGuard/defguard/stargazers) [![Forks](https://img.shields.io/github/forks/DefGuard/defguard?style=flat-square&color=blue)](https://github.com/DefGuard/defguard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DefGuard/defguard?style=flat-square&color=yellow)](https://github.com/DefGuard/defguard/stargazers) [![Forks](https://img.shields.io/github/forks/DefGuard/defguard?style=flat-square&color=blue)](https://github.com/DefGuard/defguard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-Trust access management with true WireGuard® 2FA/MFA
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ DefGuard（仓库名：DefGuard/defguard）是一款基于 WireGuard® 实现的
 | forks | 50/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jpki/myna
 
-[![Stars](https://img.shields.io/github/stars/jpki/myna?style=flat-square&color=yellow)](https://github.com/jpki/myna/stargazers) [![Forks](https://img.shields.io/github/forks/jpki/myna?style=flat-square&color=blue)](https://github.com/jpki/myna/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jpki/myna?style=flat-square&color=yellow)](https://github.com/jpki/myna/stargazers) [![Forks](https://img.shields.io/github/forks/jpki/myna?style=flat-square&color=blue)](https://github.com/jpki/myna/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > マイナンバーカード・ユーティリティ・JPKI署名ツール
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 264 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -56,22 +56,22 @@ jpki/myna：jpki/myna may be useful when its README and activity match a concret
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 46/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 46/100 |
-| stars | 52/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| stars | 52/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

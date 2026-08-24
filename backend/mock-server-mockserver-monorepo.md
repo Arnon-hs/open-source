@@ -1,6 +1,6 @@
 # mock-server/mockserver-monorepo
 
-[![Stars](https://img.shields.io/github/stars/mock-server/mockserver-monorepo?style=flat-square&color=yellow)](https://github.com/mock-server/mockserver-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/mock-server/mockserver-monorepo?style=flat-square&color=blue)](https://github.com/mock-server/mockserver-monorepo/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mock-server/mockserver-monorepo?style=flat-square&color=yellow)](https://github.com/mock-server/mockserver-monorepo/stargazers) [![Forks](https://img.shields.io/github/forks/mock-server/mockserver-monorepo?style=flat-square&color=blue)](https://github.com/mock-server/mockserver-monorepo/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mock-server/mockserver-monorepo: mock-server/mockserver-monorepo helps teams reu
 
 ### Русский
 
-mock-server/mockserver-monorepo: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mock-server/mockserver-monorepo: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ mock-server/mockserver-monorepo：mock-server/mockserver-monorepo helps teams re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 62/100 |
-| production | 62/100 |
-| outlook | 65/100 |
-| adoption | 78/100 |
-| stars | 78/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

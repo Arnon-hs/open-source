@@ -1,6 +1,6 @@
 # swiftlang/swift-java
 
-[![Stars](https://img.shields.io/github/stars/swiftlang/swift-java?style=flat-square&color=yellow)](https://github.com/swiftlang/swift-java/stargazers) [![Forks](https://img.shields.io/github/forks/swiftlang/swift-java?style=flat-square&color=blue)](https://github.com/swiftlang/swift-java/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swiftlang/swift-java?style=flat-square&color=yellow)](https://github.com/swiftlang/swift-java/stargazers) [![Forks](https://img.shields.io/github/forks/swiftlang/swift-java?style=flat-square&color=blue)](https://github.com/swiftlang/swift-java/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Java interopability support for Swift
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ swiftlang/swift-java 为 Swift 提供 Java 互操作层，使得 Swift 代码能
 | forks | 50/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 70/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

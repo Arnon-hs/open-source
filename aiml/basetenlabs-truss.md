@@ -1,6 +1,6 @@
 # basetenlabs/truss
 
-[![Stars](https://img.shields.io/github/stars/basetenlabs/truss?style=flat-square&color=yellow)](https://github.com/basetenlabs/truss/stargazers) [![Forks](https://img.shields.io/github/forks/basetenlabs/truss?style=flat-square&color=blue)](https://github.com/basetenlabs/truss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basetenlabs/truss?style=flat-square&color=yellow)](https://github.com/basetenlabs/truss/stargazers) [![Forks](https://img.shields.io/github/forks/basetenlabs/truss?style=flat-square&color=blue)](https://github.com/basetenlabs/truss/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The simplest way to serve AI/ML models in production
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Product
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ basetenlabs/truss: basetenlabs/truss helps add AI capability without starting fr
 
 ### Русский
 
-basetenlabs/truss: open-source проект в категориях AI/ML, Backend, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+basetenlabs/truss: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ basetenlabs/truss：basetenlabs/truss helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 61/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

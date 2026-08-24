@@ -1,6 +1,6 @@
 # guhcostan/mac-cleaner-cli
 
-[![Stars](https://img.shields.io/github/stars/guhcostan/mac-cleaner-cli?style=flat-square&color=yellow)](https://github.com/guhcostan/mac-cleaner-cli/stargazers) [![Forks](https://img.shields.io/github/forks/guhcostan/mac-cleaner-cli?style=flat-square&color=blue)](https://github.com/guhcostan/mac-cleaner-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guhcostan/mac-cleaner-cli?style=flat-square&color=yellow)](https://github.com/guhcostan/mac-cleaner-cli/stargazers) [![Forks](https://img.shields.io/github/forks/guhcostan/mac-cleaner-cli?style=flat-square&color=blue)](https://github.com/guhcostan/mac-cleaner-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Free macOS CLI to clean disk space — caches, logs, Homebrew, Xcode. Open-source alternative to CleanMyMac
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ guhcostan/mac-cleaner-cli 帮助工程师节省在日常开发和审查循环中
 | forks | 56/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

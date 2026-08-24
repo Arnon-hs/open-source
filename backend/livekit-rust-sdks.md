@@ -1,6 +1,6 @@
 # livekit/rust-sdks
 
-[![Stars](https://img.shields.io/github/stars/livekit/rust-sdks?style=flat-square&color=yellow)](https://github.com/livekit/rust-sdks/stargazers) [![Forks](https://img.shields.io/github/forks/livekit/rust-sdks?style=flat-square&color=blue)](https://github.com/livekit/rust-sdks/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/livekit/rust-sdks?style=flat-square&color=yellow)](https://github.com/livekit/rust-sdks/stargazers) [![Forks](https://img.shields.io/github/forks/livekit/rust-sdks?style=flat-square&color=blue)](https://github.com/livekit/rust-sdks/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > LiveKit realtime and server SDKs for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 426 |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ This open-source project, livekit/rust-sdks, provides Realtime and Server SDKs f
 
 ### 中文
 
-livekit/rust-sdks：livekit/rust-sdks helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+livekit/rust-sdks：livekit/rust-sdks helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ livekit/rust-sdks：livekit/rust-sdks helps teams reuse service infrastructure i
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ livekit/rust-sdks：livekit/rust-sdks helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 56/100 |
 | stars | 56/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

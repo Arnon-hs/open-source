@@ -1,6 +1,6 @@
 # keboola/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/keboola/mcp-server?style=flat-square&color=yellow)](https://github.com/keboola/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/keboola/mcp-server?style=flat-square&color=blue)](https://github.com/keboola/mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keboola/mcp-server?style=flat-square&color=yellow)](https://github.com/keboola/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/keboola/mcp-server?style=flat-square&color=blue)](https://github.com/keboola/mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) Server for the Keboola Platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Data · Database
+MCP · Backend · Data
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ keboola/mcp‑server 是 Keboola 平台上的 Model Context Protocol（MCP）服
 | forks | 35/100 |
 | stars | 41/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

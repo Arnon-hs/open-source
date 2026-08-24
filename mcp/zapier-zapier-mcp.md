@@ -1,6 +1,6 @@
 # zapier/zapier-mcp
 
-[![Stars](https://img.shields.io/github/stars/zapier/zapier-mcp?style=flat-square&color=yellow)](https://github.com/zapier/zapier-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/zapier-mcp?style=flat-square&color=blue)](https://github.com/zapier/zapier-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zapier/zapier-mcp?style=flat-square&color=yellow)](https://github.com/zapier/zapier-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/zapier/zapier-mcp?style=flat-square&color=blue)](https://github.com/zapier/zapier-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Official plugin distribution for the hosted Zapier MCP server. Install it in your AI client and connect to thousands of apps.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ zapier/zapier-mcp 是官方的 Zapier MCP（Model Context Protocol）插件分�
 | forks | 41/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

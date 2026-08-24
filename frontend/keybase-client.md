@@ -1,6 +1,6 @@
 # keybase/client
 
-[![Stars](https://img.shields.io/github/stars/keybase/client?style=flat-square&color=yellow)](https://github.com/keybase/client/stargazers) [![Forks](https://img.shields.io/github/forks/keybase/client?style=flat-square&color=blue)](https://github.com/keybase/client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keybase/client?style=flat-square&color=yellow)](https://github.com/keybase/client/stargazers) [![Forks](https://img.shields.io/github/forks/keybase/client?style=flat-square&color=blue)](https://github.com/keybase/client/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile
+Frontend · Mobile · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ keybase/client: keybase/client helps ship user-facing interfaces with less custo
 
 ### Русский
 
-keybase/client: open-source проект в категориях Frontend, DevTools, Mobile. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+keybase/client: open-source проект в категориях Frontend, Mobile, Security. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ keybase/client：keybase/client helps ship user-facing interfaces with less cust
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 83/100 |
-| stars | 84/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

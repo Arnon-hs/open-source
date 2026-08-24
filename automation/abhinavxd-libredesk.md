@@ -1,6 +1,6 @@
 # abhinavxd/libredesk
 
-[![Stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=flat-square&color=yellow)](https://github.com/abhinavxd/libredesk/stargazers) [![Forks](https://img.shields.io/github/forks/abhinavxd/libredesk?style=flat-square&color=blue)](https://github.com/abhinavxd/libredesk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abhinavxd/libredesk?style=flat-square&color=yellow)](https://github.com/abhinavxd/libredesk/stargazers) [![Forks](https://img.shields.io/github/forks/abhinavxd/libredesk?style=flat-square&color=blue)](https://github.com/abhinavxd/libredesk/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 170 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend
+Automation · Frontend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ abinhavxd/libredesk 是一款开源、可自托管的全渠道客服系统，能
 | forks | 56/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 68/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # twentyhq/twenty
 
-[![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=flat-square&color=yellow)](https://github.com/twentyhq/twenty/stargazers) [![Forks](https://img.shields.io/github/forks/twentyhq/twenty?style=flat-square&color=blue)](https://github.com/twentyhq/twenty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=flat-square&color=yellow)](https://github.com/twentyhq/twenty/stargazers) [![Forks](https://img.shields.io/github/forks/twentyhq/twenty?style=flat-square&color=blue)](https://github.com/twentyhq/twenty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The open alternative to Salesforce, designed for AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45.6k |
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ twentyhq/twenty：twentyhq/twenty helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 59/100 |
+| outlook | 60/100 |
 | adoption | 98/100 |
 | stars | 99/100 |
 | forks | 95/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

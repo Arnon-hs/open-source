@@ -1,6 +1,6 @@
 # Sendmux/sendmux-sdk
 
-[![Stars](https://img.shields.io/github/stars/Sendmux/sendmux-sdk?style=flat-square&color=yellow)](https://github.com/Sendmux/sendmux-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Sendmux/sendmux-sdk?style=flat-square&color=blue)](https://github.com/Sendmux/sendmux-sdk/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sendmux/sendmux-sdk?style=flat-square&color=yellow)](https://github.com/Sendmux/sendmux-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Sendmux/sendmux-sdk?style=flat-square&color=blue)](https://github.com/Sendmux/sendmux-sdk/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Official monorepo of SDKs, CLI, and MCP servers for Sendmux email APIs across TypeScript, Python, Go, PHP, Rust, and Ruby.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · Backend · DevTools · Marketing
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Sendmux /sendmux‑sdk 是 Sendmux 邮件 API 的官方单体仓库，提供�
 | forks | 0/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

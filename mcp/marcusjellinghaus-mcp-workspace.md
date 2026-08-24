@@ -1,6 +1,6 @@
 # MarcusJellinghaus/mcp-workspace
 
-[![Stars](https://img.shields.io/github/stars/MarcusJellinghaus/mcp-workspace?style=flat-square&color=yellow)](https://github.com/MarcusJellinghaus/mcp-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/MarcusJellinghaus/mcp-workspace?style=flat-square&color=blue)](https://github.com/MarcusJellinghaus/mcp-workspace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MarcusJellinghaus/mcp-workspace?style=flat-square&color=yellow)](https://github.com/MarcusJellinghaus/mcp-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/MarcusJellinghaus/mcp-workspace?style=flat-square&color=blue)](https://github.com/MarcusJellinghaus/mcp-workspace/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Workspace Server: A secure Model Context Protocol server providing file, git, and GitHub tools for AI assistants within a sandboxed project directory.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ MarcusJellinghaus/mcp-workspace 是一个基于 Model Context Protocol（MCP）�
 | forks | 31/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

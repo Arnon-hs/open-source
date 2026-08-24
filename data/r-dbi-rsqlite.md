@@ -1,6 +1,6 @@
 # r-dbi/RSQLite
 
-[![Stars](https://img.shields.io/github/stars/r-dbi/RSQLite?style=flat-square&color=yellow)](https://github.com/r-dbi/RSQLite/stargazers) [![Forks](https://img.shields.io/github/forks/r-dbi/RSQLite?style=flat-square&color=blue)](https://github.com/r-dbi/RSQLite/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/r-dbi/RSQLite?style=flat-square&color=yellow)](https://github.com/r-dbi/RSQLite/stargazers) [![Forks](https://img.shields.io/github/forks/r-dbi/RSQLite?style=flat-square&color=blue)](https://github.com/r-dbi/RSQLite/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > R interface for SQLite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | R |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ r-dbi/RSQLite — это открытая библиотека, предост
 
 ### 中文
 
-r-dbi/RSQLite：r-dbi/RSQLite helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+r-dbi/RSQLite：r-dbi/RSQLite helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ r-dbi/RSQLite：r-dbi/RSQLite helps convert raw data into searchable, analyzable
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ r-dbi/RSQLite：r-dbi/RSQLite helps convert raw data into searchable, analyzable
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 52/100 |
 | stars | 54/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

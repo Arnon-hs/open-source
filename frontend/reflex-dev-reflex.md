@@ -1,6 +1,6 @@
 # reflex-dev/reflex
 
-[![Stars](https://img.shields.io/github/stars/reflex-dev/reflex?style=flat-square&color=yellow)](https://github.com/reflex-dev/reflex/stargazers) [![Forks](https://img.shields.io/github/forks/reflex-dev/reflex?style=flat-square&color=blue)](https://github.com/reflex-dev/reflex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reflex-dev/reflex?style=flat-square&color=yellow)](https://github.com/reflex-dev/reflex/stargazers) [![Forks](https://img.shields.io/github/forks/reflex-dev/reflex?style=flat-square&color=blue)](https://github.com/reflex-dev/reflex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🕸️ Web apps in pure Python 🐍
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28.4k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ reflex-dev/reflex：reflex-dev/reflex helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 75/100 |
+| production | 56/100 |
+| outlook | 68/100 |
 | adoption | 91/100 |
 | stars | 95/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

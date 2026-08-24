@@ -1,6 +1,6 @@
 # Agoric/agoric-sdk
 
-[![Stars](https://img.shields.io/github/stars/Agoric/agoric-sdk?style=flat-square&color=yellow)](https://github.com/Agoric/agoric-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Agoric/agoric-sdk?style=flat-square&color=blue)](https://github.com/Agoric/agoric-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agoric/agoric-sdk?style=flat-square&color=yellow)](https://github.com/Agoric/agoric-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Agoric/agoric-sdk?style=flat-square&color=blue)](https://github.com/Agoric/agoric-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > monorepo for the Agoric Javascript smart contract platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 354 |
 | 🍴 **Forks** | 251 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · Database
+Crypto
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Agoric/agoric‑sdk 是一个基于 TypeScript 的单体仓库，提供 Agoric J
 | forks | 60/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

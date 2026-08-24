@@ -1,6 +1,6 @@
 # Shubhamsaboo/awesome-llm-apps
 
-[![Stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square&color=yellow)](https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Shubhamsaboo/awesome-llm-apps?style=flat-square&color=blue)](https://github.com/Shubhamsaboo/awesome-llm-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square&color=yellow)](https://github.com/Shubhamsaboo/awesome-llm-apps/stargazers) [![Forks](https://img.shields.io/github/forks/Shubhamsaboo/awesome-llm-apps?style=flat-square&color=blue)](https://github.com/Shubhamsaboo/awesome-llm-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 109.2k |
 | 🍴 **Forks** | 16.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ Shubhamsaboo/awesome-llm-apps：Shubhamsaboo/awesome-llm-apps helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 69/100 |
+| production | 55/100 |
+| outlook | 62/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

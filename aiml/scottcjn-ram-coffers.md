@@ -1,6 +1,6 @@
 # Scottcjn/ram-coffers
 
-[![Stars](https://img.shields.io/github/stars/Scottcjn/ram-coffers?style=flat-square&color=yellow)](https://github.com/Scottcjn/ram-coffers/stargazers) [![Forks](https://img.shields.io/github/forks/Scottcjn/ram-coffers?style=flat-square&color=blue)](https://github.com/Scottcjn/ram-coffers/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Scottcjn/ram-coffers?style=flat-square&color=yellow)](https://github.com/Scottcjn/ram-coffers/stargazers) [![Forks](https://img.shields.io/github/forks/Scottcjn/ram-coffers?style=flat-square&color=blue)](https://github.com/Scottcjn/ram-coffers/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > NUMA-distributed weight banking for LLM inference on IBM POWER8. 147 t/s (8.8x stock). Part of the Proof of Physical AI stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Scottcjn/ram‑coffers 是面向 IBM POWER8 平台的 NUMA‑分布式权重存�
 | forks | 39/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

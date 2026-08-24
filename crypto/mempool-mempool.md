@@ -1,6 +1,6 @@
 # mempool/mempool
 
-[![Stars](https://img.shields.io/github/stars/mempool/mempool?style=flat-square&color=yellow)](https://github.com/mempool/mempool/stargazers) [![Forks](https://img.shields.io/github/forks/mempool/mempool?style=flat-square&color=blue)](https://github.com/mempool/mempool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mempool/mempool?style=flat-square&color=yellow)](https://github.com/mempool/mempool/stargazers) [![Forks](https://img.shields.io/github/forks/mempool/mempool?style=flat-square&color=blue)](https://github.com/mempool/mempool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Explore the full Bitcoin ecosystem with mempool.space, or be your own explorer and self-host your own instance with one-click installation on popular Raspberry Pi fullnode distros including Umbrel, Raspiblitz, Start9, and more!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ mempool/mempool 的生产可用性非常高。它具有最新的活动、广泛�
 | forks | 76/100 |
 | stars | 73/100 |
 | topics | 50/100 |
-| outlook | 80/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

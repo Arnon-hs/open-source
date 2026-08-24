@@ -1,6 +1,6 @@
 # zap-coding-agent/zap-coding-agent
 
-[![Stars](https://img.shields.io/github/stars/zap-coding-agent/zap-coding-agent?style=flat-square&color=yellow)](https://github.com/zap-coding-agent/zap-coding-agent/stargazers) [![Forks](https://img.shields.io/github/forks/zap-coding-agent/zap-coding-agent?style=flat-square&color=blue)](https://github.com/zap-coding-agent/zap-coding-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zap-coding-agent/zap-coding-agent?style=flat-square&color=yellow)](https://github.com/zap-coding-agent/zap-coding-agent/stargazers) [![Forks](https://img.shields.io/github/forks/zap-coding-agent/zap-coding-agent?style=flat-square&color=blue)](https://github.com/zap-coding-agent/zap-coding-agent/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ZAP is a terminal-first, local AI coding agent built in Rust. It uses AST-powered codebase indexing and lazy-loaded skills to completely eliminate prompt bloat and minimize context token costs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Zap 是一款面向终端的本地 AI 编码助手，使用 Rust 编写，基于
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

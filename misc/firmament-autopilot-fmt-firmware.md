@@ -1,6 +1,6 @@
 # Firmament-Autopilot/FMT-Firmware
 
-[![Stars](https://img.shields.io/github/stars/Firmament-Autopilot/FMT-Firmware?style=flat-square&color=yellow)](https://github.com/Firmament-Autopilot/FMT-Firmware/stargazers) [![Forks](https://img.shields.io/github/forks/Firmament-Autopilot/FMT-Firmware?style=flat-square&color=blue)](https://github.com/Firmament-Autopilot/FMT-Firmware/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Firmament-Autopilot/FMT-Firmware?style=flat-square&color=yellow)](https://github.com/Firmament-Autopilot/FMT-Firmware/stargazers) [![Forks](https://img.shields.io/github/forks/Firmament-Autopilot/FMT-Firmware?style=flat-square&color=blue)](https://github.com/Firmament-Autopilot/FMT-Firmware/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Firmament Autopilot Embedded System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 705 |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | C |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Firmament‑Autopilot / FMT‑Firmware — это открытая про�
 
 ### 中文
 
-Firmament-Autopilot/FMT-Firmware：Firmament-Autopilot/FMT-Firmware may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Firmament-Autopilot/FMT-Firmware：Firmament-Autopilot/FMT-Firmware may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Firmament-Autopilot/FMT-Firmware：Firmament-Autopilot/FMT-Firmware may be usefu
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ Firmament-Autopilot/FMT-Firmware：Firmament-Autopilot/FMT-Firmware may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 60/100 |
 | stars | 61/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

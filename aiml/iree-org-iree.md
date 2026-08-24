@@ -1,6 +1,6 @@
 # iree-org/iree
 
-[![Stars](https://img.shields.io/github/stars/iree-org/iree?style=flat-square&color=yellow)](https://github.com/iree-org/iree/stargazers) [![Forks](https://img.shields.io/github/forks/iree-org/iree?style=flat-square&color=blue)](https://github.com/iree-org/iree/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iree-org/iree?style=flat-square&color=yellow)](https://github.com/iree-org/iree/stargazers) [![Forks](https://img.shields.io/github/forks/iree-org/iree?style=flat-square&color=blue)](https://github.com/iree-org/iree/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A retargetable MLIR-based machine learning compiler and runtime toolkit.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 902 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ iree-org/iree：iree-org/iree helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 75/100 |
 | stars | 76/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

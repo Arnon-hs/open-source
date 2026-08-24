@@ -1,6 +1,6 @@
 # rexleimo/rex-cli
 
-[![Stars](https://img.shields.io/github/stars/rexleimo/rex-cli?style=flat-square&color=yellow)](https://github.com/rexleimo/rex-cli/stargazers) [![Forks](https://img.shields.io/github/forks/rexleimo/rex-cli?style=flat-square&color=blue)](https://github.com/rexleimo/rex-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rexleimo/rex-cli?style=flat-square&color=yellow)](https://github.com/rexleimo/rex-cli/stargazers) [![Forks](https://img.shields.io/github/forks/rexleimo/rex-cli?style=flat-square&color=blue)](https://github.com/rexleimo/rex-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI agent bootstrap: Playwright Browser MCP + ContextDB for Codex CLI, Claude     Code, Gemini CLI, and OpenCode.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rexleimo/rex-cli：rexleimo/rex-cli helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 50/100 |
+| outlook | 54/100 |
 | adoption | 29/100 |
 | stars | 33/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

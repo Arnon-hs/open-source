@@ -1,6 +1,6 @@
 # LerianStudio/ring
 
-[![Stars](https://img.shields.io/github/stars/LerianStudio/ring?style=flat-square&color=yellow)](https://github.com/LerianStudio/ring/stargazers) [![Forks](https://img.shields.io/github/forks/LerianStudio/ring?style=flat-square&color=blue)](https://github.com/LerianStudio/ring/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LerianStudio/ring?style=flat-square&color=yellow)](https://github.com/LerianStudio/ring/stargazers) [![Forks](https://img.shields.io/github/forks/LerianStudio/ring?style=flat-square&color=blue)](https://github.com/LerianStudio/ring/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LerianStudio/ring：LerianStudio/ring helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 65/100 |
+| production | 50/100 |
+| outlook | 58/100 |
 | adoption | 44/100 |
 | stars | 48/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

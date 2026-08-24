@@ -1,6 +1,6 @@
 # orium/archery
 
-[![Stars](https://img.shields.io/github/stars/orium/archery?style=flat-square&color=yellow)](https://github.com/orium/archery/stargazers) [![Forks](https://img.shields.io/github/forks/orium/archery?style=flat-square&color=blue)](https://github.com/orium/archery/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orium/archery?style=flat-square&color=yellow)](https://github.com/orium/archery/stargazers) [![Forks](https://img.shields.io/github/forks/orium/archery?style=flat-square&color=blue)](https://github.com/orium/archery/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Abstract over the atomicity of reference-counting pointers in rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -147,14 +147,15 @@ In short, Archery offers a clean way to write reference‑counting code that can
 | forks | 31/100 |
 | stars | 48/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

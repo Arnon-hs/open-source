@@ -1,6 +1,6 @@
 # gfwlist/gfwlist
 
-[![Stars](https://img.shields.io/github/stars/gfwlist/gfwlist?style=flat-square&color=yellow)](https://github.com/gfwlist/gfwlist/stargazers) [![Forks](https://img.shields.io/github/forks/gfwlist/gfwlist?style=flat-square&color=blue)](https://github.com/gfwlist/gfwlist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gfwlist/gfwlist?style=flat-square&color=yellow)](https://github.com/gfwlist/gfwlist/stargazers) [![Forks](https://img.shields.io/github/forks/gfwlist/gfwlist?style=flat-square&color=blue)](https://github.com/gfwlist/gfwlist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The one and only one gfwlist here
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.3k |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ gfwlist/gfwlist：gfwlist/gfwlist may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 93/100 |
-| stars | 94/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| stars | 94/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

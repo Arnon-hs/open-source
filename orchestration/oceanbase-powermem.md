@@ -1,6 +1,6 @@
 # oceanbase/powermem
 
-[![Stars](https://img.shields.io/github/stars/oceanbase/powermem?style=flat-square&color=yellow)](https://github.com/oceanbase/powermem/stargazers) [![Forks](https://img.shields.io/github/forks/oceanbase/powermem?style=flat-square&color=blue)](https://github.com/oceanbase/powermem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oceanbase/powermem?style=flat-square&color=yellow)](https://github.com/oceanbase/powermem/stargazers) [![Forks](https://img.shields.io/github/forks/oceanbase/powermem?style=flat-square&color=blue)](https://github.com/oceanbase/powermem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > PowerMem: Your AI-Powered Long-Term Memory — Accurate, Agile, Affordable. Also friendly support for the OpenClaw Memory Plugin.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 660 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ oceanbase/powermem: oceanbase/powermem helps turn isolated prompts and tools int
 
 ### Русский
 
-oceanbase/powermem: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+oceanbase/powermem: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ oceanbase/powermem：oceanbase/powermem helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
-| adoption | 57/100 |
-| stars | 60/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

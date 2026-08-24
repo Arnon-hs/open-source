@@ -1,6 +1,6 @@
 # zawatton/anvil.el
 
-[![Stars](https://img.shields.io/github/stars/zawatton/anvil.el?style=flat-square&color=yellow)](https://github.com/zawatton/anvil.el/stargazers) [![Forks](https://img.shields.io/github/forks/zawatton/anvil.el?style=flat-square&color=blue)](https://github.com/zawatton/anvil.el/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zawatton/anvil.el?style=flat-square&color=yellow)](https://github.com/zawatton/anvil.el/stargazers) [![Forks](https://img.shields.io/github/forks/zawatton/anvil.el?style=flat-square&color=blue)](https://github.com/zawatton/anvil.el/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server written in Elisp — a token-efficient workbench for AI agents. Drives files, org-mode, Elisp & SQLite from any MCP client   (Claude, GPT, local LLMs) through Emacs primitives instead of sed/grep round-trips.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · Database
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ zawatton/anvil.el 是用 Emacs Lisp 编写的 MCP（Model Context Protocol�
 | forks | 25/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 56/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 41/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

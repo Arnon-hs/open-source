@@ -1,6 +1,6 @@
 # tess1o/geopulse
 
-[![Stars](https://img.shields.io/github/stars/tess1o/geopulse?style=flat-square&color=yellow)](https://github.com/tess1o/geopulse/stargazers) [![Forks](https://img.shields.io/github/forks/tess1o/geopulse?style=flat-square&color=blue)](https://github.com/tess1o/geopulse/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tess1o/geopulse?style=flat-square&color=yellow)](https://github.com/tess1o/geopulse/stargazers) [![Forks](https://img.shields.io/github/forks/tess1o/geopulse?style=flat-square&color=blue)](https://github.com/tess1o/geopulse/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted, privacy-first location timeline platform: an open-source alternative to Google Timeline with automatic trip detection, Immich integration, and rich analytics.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 841 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tess1o/geopulse：tess1o/geopulse helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 56/100 |
 | stars | 62/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

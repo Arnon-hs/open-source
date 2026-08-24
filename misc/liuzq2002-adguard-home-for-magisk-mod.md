@@ -1,6 +1,6 @@
 # liuzq2002/Adguard-Home-For-Magisk-Mod
 
-[![Stars](https://img.shields.io/github/stars/liuzq2002/Adguard-Home-For-Magisk-Mod?style=flat-square&color=yellow)](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod/stargazers) [![Forks](https://img.shields.io/github/forks/liuzq2002/Adguard-Home-For-Magisk-Mod?style=flat-square&color=blue)](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liuzq2002/Adguard-Home-For-Magisk-Mod?style=flat-square&color=yellow)](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod/stargazers) [![Forks](https://img.shields.io/github/forks/liuzq2002/Adguard-Home-For-Magisk-Mod?style=flat-square&color=blue)](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ The liuzq2002/Adguard-Home-For-Magisk-Mod project provides a mod for Adguard Hom
 | forks | 43/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

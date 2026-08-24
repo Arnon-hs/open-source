@@ -1,6 +1,6 @@
 # nats-io/nats-server
 
-[![Stars](https://img.shields.io/github/stars/nats-io/nats-server?style=flat-square&color=yellow)](https://github.com/nats-io/nats-server/stargazers) [![Forks](https://img.shields.io/github/forks/nats-io/nats-server?style=flat-square&color=blue)](https://github.com/nats-io/nats-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nats-io/nats-server?style=flat-square&color=yellow)](https://github.com/nats-io/nats-server/stargazers) [![Forks](https://img.shields.io/github/forks/nats-io/nats-server?style=flat-square&color=blue)](https://github.com/nats-io/nats-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > High-Performance server for NATS.io, the cloud and edge native messaging system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.8k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Database
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ nats-io/nats-server 是 NATS.io 的高性能服务器实现，采用 Go 语言�
 | forks | 81/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 75/100 |
+| recency | 20/100 |
 | adoption | 89/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

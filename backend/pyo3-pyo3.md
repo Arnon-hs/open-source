@@ -1,6 +1,6 @@
 # PyO3/pyo3
 
-[![Stars](https://img.shields.io/github/stars/PyO3/pyo3?style=flat-square&color=yellow)](https://github.com/PyO3/pyo3/stargazers) [![Forks](https://img.shields.io/github/forks/PyO3/pyo3?style=flat-square&color=blue)](https://github.com/PyO3/pyo3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PyO3/pyo3?style=flat-square&color=yellow)](https://github.com/PyO3/pyo3/stargazers) [![Forks](https://img.shields.io/github/forks/PyO3/pyo3?style=flat-square&color=blue)](https://github.com/PyO3/pyo3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Rust bindings for the Python interpreter
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.7k |
 | 🍴 **Forks** | 960 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ PyO3/pyo3：PyO3/pyo3 helps teams reuse service infrastructure instead of rebuil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 62/100 |
-| outlook | 63/100 |
-| adoption | 85/100 |
-| stars | 89/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| stars | 89/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

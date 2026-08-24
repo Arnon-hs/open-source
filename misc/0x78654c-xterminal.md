@@ -1,6 +1,6 @@
 # 0x78654C/xTerminal
 
-[![Stars](https://img.shields.io/github/stars/0x78654C/xTerminal?style=flat-square&color=yellow)](https://github.com/0x78654C/xTerminal/stargazers) [![Forks](https://img.shields.io/github/forks/0x78654C/xTerminal?style=flat-square&color=blue)](https://github.com/0x78654C/xTerminal/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0x78654C/xTerminal?style=flat-square&color=yellow)](https://github.com/0x78654C/xTerminal/stargazers) [![Forks](https://img.shields.io/github/forks/0x78654C/xTerminal?style=flat-square&color=blue)](https://github.com/0x78654C/xTerminal/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A linux like terminal for windows in C#
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 112 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -57,22 +57,22 @@ xTerminal is an open‑source, Windows‑only terminal emulator written in C# th
 - primary language: C#
 - 3 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 39/100 |
-| stars | 44/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| stars | 44/100 |
 | topics | 38/100 |
+| outlook | 39/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

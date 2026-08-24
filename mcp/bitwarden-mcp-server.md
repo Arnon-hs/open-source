@@ -1,6 +1,6 @@
 # bitwarden/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/bitwarden/mcp-server?style=flat-square&color=yellow)](https://github.com/bitwarden/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/mcp-server?style=flat-square&color=blue)](https://github.com/bitwarden/mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitwarden/mcp-server?style=flat-square&color=yellow)](https://github.com/bitwarden/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/mcp-server?style=flat-square&color=blue)](https://github.com/bitwarden/mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for interaction with Bitwarden.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 192 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ bitwarden/mcp‑server 是一个基于 Model Context Protocol（MCP）的后
 | forks | 35/100 |
 | stars | 49/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

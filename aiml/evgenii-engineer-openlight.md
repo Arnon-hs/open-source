@@ -1,6 +1,6 @@
 # evgenii-engineer/openLight
 
-[![Stars](https://img.shields.io/github/stars/evgenii-engineer/openLight?style=flat-square&color=yellow)](https://github.com/evgenii-engineer/openLight/stargazers) [![Forks](https://img.shields.io/github/forks/evgenii-engineer/openLight?style=flat-square&color=blue)](https://github.com/evgenii-engineer/openLight/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evgenii-engineer/openLight?style=flat-square&color=yellow)](https://github.com/evgenii-engineer/openLight/stargazers) [![Forks](https://img.shields.io/github/forks/evgenii-engineer/openLight?style=flat-square&color=blue)](https://github.com/evgenii-engineer/openLight/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight AI agent runtime for homelabs, built around deterministic skills and local LLMs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ evgenii‑engineer/openLight 为家庭实验室和小型内部项目提供了一
 | forks | 12/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

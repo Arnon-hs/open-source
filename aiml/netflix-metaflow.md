@@ -1,6 +1,6 @@
 # Netflix/metaflow
 
-[![Stars](https://img.shields.io/github/stars/Netflix/metaflow?style=flat-square&color=yellow)](https://github.com/Netflix/metaflow/stargazers) [![Forks](https://img.shields.io/github/forks/Netflix/metaflow?style=flat-square&color=blue)](https://github.com/Netflix/metaflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Netflix/metaflow?style=flat-square&color=yellow)](https://github.com/Netflix/metaflow/stargazers) [![Forks](https://img.shields.io/github/forks/Netflix/metaflow?style=flat-square&color=blue)](https://github.com/Netflix/metaflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Build, Manage and Deploy AI/ML Systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Netflix/metaflow: Netflix/metaflow helps add AI capability without starting from
 
 ### Русский
 
-Netflix/metaflow: open-source проект в категориях AI/ML, Frontend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Netflix/metaflow: open-source проект в категориях AI/ML, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Netflix/metaflow：Netflix/metaflow helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 83/100 |
-| stars | 85/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

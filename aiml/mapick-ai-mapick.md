@@ -1,6 +1,6 @@
 # mapick-ai/mapick
 
-[![Stars](https://img.shields.io/github/stars/mapick-ai/mapick?style=flat-square&color=yellow)](https://github.com/mapick-ai/mapick/stargazers) [![Forks](https://img.shields.io/github/forks/mapick-ai/mapick?style=flat-square&color=blue)](https://github.com/mapick-ai/mapick/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mapick-ai/mapick?style=flat-square&color=yellow)](https://github.com/mapick-ai/mapick/stargazers) [![Forks](https://img.shields.io/github/forks/mapick-ai/mapick?style=flat-square&color=blue)](https://github.com/mapick-ai/mapick/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The Mapick Butler - Privacy layer + skill advisor for OpenClaw. Redacts secrets locally, recommends workflow-fit skills, cleans zombies, scores risk, generates persona, ships bundles. MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Mapick Butler — это открытый серверный слой конф
 
 ### 中文
 
-mapick-ai/mapick：mapick-ai/mapick helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mapick-ai/mapick：mapick-ai/mapick helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mapick-ai/mapick：mapick-ai/mapick helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mapick-ai/mapick：mapick-ai/mapick helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 58/100 |
+| production | 45/100 |
+| outlook | 51/100 |
 | adoption | 24/100 |
 | stars | 29/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

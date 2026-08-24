@@ -1,6 +1,6 @@
 # vonarmen-wq/forward-deployed-selling
 
-[![Stars](https://img.shields.io/github/stars/vonarmen-wq/forward-deployed-selling?style=flat-square&color=yellow)](https://github.com/vonarmen-wq/forward-deployed-selling/stargazers) [![Forks](https://img.shields.io/github/forks/vonarmen-wq/forward-deployed-selling?style=flat-square&color=blue)](https://github.com/vonarmen-wq/forward-deployed-selling/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vonarmen-wq/forward-deployed-selling?style=flat-square&color=yellow)](https://github.com/vonarmen-wq/forward-deployed-selling/stargazers) [![Forks](https://img.shields.io/github/forks/vonarmen-wq/forward-deployed-selling?style=flat-square&color=blue)](https://github.com/vonarmen-wq/forward-deployed-selling/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > You ship with AI. Now sell with it. Enterprise sales methodology for the AI era — refined inside AWS. Free Claude skill, 60-second install.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ vonarmen-wq/forward-deployed-selling 是一套面向 AI 时代的企业销售方
 | forks | 27/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

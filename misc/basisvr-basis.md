@@ -1,6 +1,6 @@
 # BasisVR/Basis
 
-[![Stars](https://img.shields.io/github/stars/BasisVR/Basis?style=flat-square&color=yellow)](https://github.com/BasisVR/Basis/stargazers) [![Forks](https://img.shields.io/github/forks/BasisVR/Basis?style=flat-square&color=blue)](https://github.com/BasisVR/Basis/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BasisVR/Basis?style=flat-square&color=yellow)](https://github.com/BasisVR/Basis/stargazers) [![Forks](https://img.shields.io/github/forks/BasisVR/Basis?style=flat-square&color=blue)](https://github.com/BasisVR/Basis/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Basis is an open-source social framework for VR and Desktop usage.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Basis — это открытый фреймворк, позволяющий �
 
 ### 中文
 
-BasisVR/Basis：BasisVR/Basis may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BasisVR/Basis：BasisVR/Basis may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ BasisVR/Basis：BasisVR/Basis may be useful when its README and activity match a
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ BasisVR/Basis：BasisVR/Basis may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 55/100 |
-| stars | 56/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 38/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

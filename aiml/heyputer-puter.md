@@ -1,6 +1,6 @@
 # HeyPuter/puter
 
-[![Stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&color=yellow)](https://github.com/HeyPuter/puter/stargazers) [![Forks](https://img.shields.io/github/forks/HeyPuter/puter?style=flat-square&color=blue)](https://github.com/HeyPuter/puter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&color=yellow)](https://github.com/HeyPuter/puter/stargazers) [![Forks](https://img.shields.io/github/forks/HeyPuter/puter?style=flat-square&color=blue)](https://github.com/HeyPuter/puter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ HeyPuter/puter：HeyPuter/puter helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 96/100 |
 | stars | 98/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # komikku-app/komikku
 
-[![Stars](https://img.shields.io/github/stars/komikku-app/komikku?style=flat-square&color=yellow)](https://github.com/komikku-app/komikku/stargazers) [![Forks](https://img.shields.io/github/forks/komikku-app/komikku?style=flat-square&color=blue)](https://github.com/komikku-app/komikku/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/komikku-app/komikku?style=flat-square&color=yellow)](https://github.com/komikku-app/komikku/stargazers) [![Forks](https://img.shields.io/github/forks/komikku-app/komikku?style=flat-square&color=blue)](https://github.com/komikku-app/komikku/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open source manga reader for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 197 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Komikku 是一款免费开源的 Android 漫画阅读器，使用 Kotlin 编写�
 | forks | 57/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

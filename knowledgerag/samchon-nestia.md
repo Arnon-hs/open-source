@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ samchon/nestia：samchon/nestia helps make internal knowledge searchable and usa
 
 **Quality signals**
 
-- 2160 GitHub stars
+- 2163 GitHub stars
 - 123 forks
-- updated 2026-06-25
+- updated 2026-07-10
 - primary language: TypeScript
 - 18 topics
 
@@ -79,4 +79,4 @@ samchon/nestia：samchon/nestia helps make internal knowledge searchable and usa
 
 ---
 
-<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/samchon/nestia) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/samchon/nestia) · [← Back to Knowledgerag](./README.md)</sub>

@@ -1,6 +1,6 @@
 # wavetermdev/waveterm
 
-[![Stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat-square&color=yellow)](https://github.com/wavetermdev/waveterm/stargazers) [![Forks](https://img.shields.io/github/forks/wavetermdev/waveterm?style=flat-square&color=blue)](https://github.com/wavetermdev/waveterm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat-square&color=yellow)](https://github.com/wavetermdev/waveterm/stargazers) [![Forks](https://img.shields.io/github/forks/wavetermdev/waveterm?style=flat-square&color=blue)](https://github.com/wavetermdev/waveterm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, AI-integrated, cross-platform terminal for seamless workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.2k |
 | 🍴 **Forks** | 955 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wavetermdev/waveterm：wavetermdev/waveterm helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 64/100 |
 | adoption | 87/100 |
 | stars | 92/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

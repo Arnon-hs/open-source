@@ -1,6 +1,6 @@
 # posit-dev/positron
 
-[![Stars](https://img.shields.io/github/stars/posit-dev/positron?style=flat-square&color=yellow)](https://github.com/posit-dev/positron/stargazers) [![Forks](https://img.shields.io/github/forks/posit-dev/positron?style=flat-square&color=blue)](https://github.com/posit-dev/positron/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/posit-dev/positron?style=flat-square&color=yellow)](https://github.com/posit-dev/positron/stargazers) [![Forks](https://img.shields.io/github/forks/posit-dev/positron?style=flat-square&color=blue)](https://github.com/posit-dev/positron/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Positron, a next-generation data science IDE
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Data
 
 ### English
 
-posit-dev/positron: posit-dev/positron helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+posit-dev/positron: posit-dev/positron helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-posit-dev/positron: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+posit-dev/positron: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-posit-dev/positron：posit-dev/positron helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+posit-dev/positron：posit-dev/positron helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ posit-dev/positron：posit-dev/positron helps convert raw data into searchable, 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ posit-dev/positron：posit-dev/positron helps convert raw data into searchable, 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 50/100 |
+| production | 47/100 |
+| outlook | 43/100 |
 | adoption | 71/100 |
 | stars | 77/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

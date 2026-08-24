@@ -1,6 +1,6 @@
 # roomi-fields/notebooklm-mcp
 
-[![Stars](https://img.shields.io/github/stars/roomi-fields/notebooklm-mcp?style=flat-square&color=yellow)](https://github.com/roomi-fields/notebooklm-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/roomi-fields/notebooklm-mcp?style=flat-square&color=blue)](https://github.com/roomi-fields/notebooklm-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roomi-fields/notebooklm-mcp?style=flat-square&color=yellow)](https://github.com/roomi-fields/notebooklm-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/roomi-fields/notebooklm-mcp?style=flat-square&color=blue)](https://github.com/roomi-fields/notebooklm-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Google NotebookLM over MCP + a local HTTP REST API. Citation-backed Q&A, audio/video/content generation, multi-account rotation. For Claude Code, Codex, Cursor, n8n, Zapier, Make.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 75 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ roomi-fields/notebooklm-mcp 为 Google Notebook LM 提供了基于 Model Con
 | forks | 34/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

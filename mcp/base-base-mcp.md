@@ -1,6 +1,6 @@
 # base/base-mcp
 
-[![Stars](https://img.shields.io/github/stars/base/base-mcp?style=flat-square&color=yellow)](https://github.com/base/base-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/base/base-mcp?style=flat-square&color=blue)](https://github.com/base/base-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/base/base-mcp?style=flat-square&color=yellow)](https://github.com/base/base-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/base/base-mcp?style=flat-square&color=blue)](https://github.com/base/base-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides onchain tools for LLMs, allowing them to interact with the Base network and Coinbase API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 348 |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ base/base-mcp 是一个 Model Context Protocol（MCP）服务器，提供链上�
 | forks | 53/100 |
 | stars | 54/100 |
 | topics | 0/100 |
-| outlook | 76/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

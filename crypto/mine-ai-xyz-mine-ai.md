@@ -1,6 +1,6 @@
 # mine-ai-xyz/mine-ai
 
-[![Stars](https://img.shields.io/github/stars/mine-ai-xyz/mine-ai?style=flat-square&color=yellow)](https://github.com/mine-ai-xyz/mine-ai/stargazers) [![Forks](https://img.shields.io/github/forks/mine-ai-xyz/mine-ai?style=flat-square&color=blue)](https://github.com/mine-ai-xyz/mine-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mine-ai-xyz/mine-ai?style=flat-square&color=yellow)](https://github.com/mine-ai-xyz/mine-ai/stargazers) [![Forks](https://img.shields.io/github/forks/mine-ai-xyz/mine-ai?style=flat-square&color=blue)](https://github.com/mine-ai-xyz/mine-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source reference implementations for AI-enabled payment security, blockchain fraud detection, and AML/CFT compliance reasoning.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 377 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ mine‑ai‑xyz/mine‑ai 是一套开源参考实现，涵盖 AI 驱动的支�
 | forks | 8/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

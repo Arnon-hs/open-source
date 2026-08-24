@@ -1,6 +1,6 @@
 # marmotdata/marmot
 
-[![Stars](https://img.shields.io/github/stars/marmotdata/marmot?style=flat-square&color=yellow)](https://github.com/marmotdata/marmot/stargazers) [![Forks](https://img.shields.io/github/forks/marmotdata/marmot?style=flat-square&color=blue)](https://github.com/marmotdata/marmot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marmotdata/marmot?style=flat-square&color=yellow)](https://github.com/marmotdata/marmot/stargazers) [![Forks](https://img.shields.io/github/forks/marmotdata/marmot?style=flat-square&color=blue)](https://github.com/marmotdata/marmot/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source context layer for your AI. Catalog your tables, topics, queues and APIs then expose real metadata to your AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 544 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ marmotdata/marmot：marmotdata/marmot helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

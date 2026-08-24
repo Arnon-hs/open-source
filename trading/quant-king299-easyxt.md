@@ -1,6 +1,6 @@
 # quant-king299/EasyXT
 
-[![Stars](https://img.shields.io/github/stars/quant-king299/EasyXT?style=flat-square&color=yellow)](https://github.com/quant-king299/EasyXT/stargazers) [![Forks](https://img.shields.io/github/forks/quant-king299/EasyXT?style=flat-square&color=blue)](https://github.com/quant-king299/EasyXT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quant-king299/EasyXT?style=flat-square&color=yellow)](https://github.com/quant-king299/EasyXT/stargazers) [![Forks](https://img.shields.io/github/forks/quant-king299/EasyXT?style=flat-square&color=blue)](https://github.com/quant-king299/EasyXT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > EasyXT是基于miniqmt中xtquant的二次开发封装库，旨在简化xtquant的使用，提供更友好的API接口。通过统一的接口设计、智能参数处理和完善的错误处理，让量化交易开发变得更加简单高效。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 493 |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Trading · Backend
+Trading
 
 ## 📝 Summary
 
@@ -152,14 +152,15 @@ EasyXT 是在 miniqmt 的 xtquant 基础上进行二次封装的 Python 库，�
 | forks | 56/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

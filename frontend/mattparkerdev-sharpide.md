@@ -1,6 +1,6 @@
 # MattParkerDev/SharpIDE
 
-[![Stars](https://img.shields.io/github/stars/MattParkerDev/SharpIDE?style=flat-square&color=yellow)](https://github.com/MattParkerDev/SharpIDE/stargazers) [![Forks](https://img.shields.io/github/forks/MattParkerDev/SharpIDE?style=flat-square&color=blue)](https://github.com/MattParkerDev/SharpIDE/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MattParkerDev/SharpIDE?style=flat-square&color=yellow)](https://github.com/MattParkerDev/SharpIDE/stargazers) [![Forks](https://img.shields.io/github/forks/MattParkerDev/SharpIDE?style=flat-square&color=blue)](https://github.com/MattParkerDev/SharpIDE/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, cross platform IDE for .NET, built with .NET & Godot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MattParkerDev/SharpIDE：MattParkerDev/SharpIDE helps ship user-facing interface
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 69/100 |
 | stars | 76/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

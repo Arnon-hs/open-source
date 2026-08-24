@@ -1,6 +1,6 @@
 # sansan0/TrendRadar
 
-[![Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers) [![Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&color=blue)](https://github.com/sansan0/TrendRadar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers) [![Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&color=blue)](https://github.com/sansan0/TrendRadar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 59.9k |
 | 🍴 **Forks** | 24.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · AI/ML · Backend · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -136,14 +136,15 @@ TrendRadar（sansan0/TrendRadar）是一款 AI 驱动的舆情与热点监控平
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 88/100 |
+| production | 68/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

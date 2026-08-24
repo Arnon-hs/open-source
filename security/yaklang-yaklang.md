@@ -1,6 +1,6 @@
 # yaklang/yaklang
 
-[![Stars](https://img.shields.io/github/stars/yaklang/yaklang?style=flat-square&color=yellow)](https://github.com/yaklang/yaklang/stargazers) [![Forks](https://img.shields.io/github/forks/yaklang/yaklang?style=flat-square&color=blue)](https://github.com/yaklang/yaklang/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaklang/yaklang?style=flat-square&color=yellow)](https://github.com/yaklang/yaklang/stargazers) [![Forks](https://img.shields.io/github/forks/yaklang/yaklang?style=flat-square&color=blue)](https://github.com/yaklang/yaklang/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A programming language exclusively designed for cybersecurity
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 548 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Security · Design
+Security
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Yaklang is an open‑source, purpose‑built programming language tailored for c
 
 ### 中文
 
-yaklang/yaklang：yaklang/yaklang helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yaklang/yaklang：yaklang/yaklang helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ yaklang/yaklang：yaklang/yaklang helps catch security and privacy issues earlie
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ yaklang/yaklang：yaklang/yaklang helps catch security and privacy issues earlie
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 55/100 |
-| stars | 58/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 63/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

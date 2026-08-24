@@ -1,6 +1,6 @@
 # naggie/dstask
 
-[![Stars](https://img.shields.io/github/stars/naggie/dstask?style=flat-square&color=yellow)](https://github.com/naggie/dstask/stargazers) [![Forks](https://img.shields.io/github/forks/naggie/dstask?style=flat-square&color=blue)](https://github.com/naggie/dstask/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/naggie/dstask?style=flat-square&color=yellow)](https://github.com/naggie/dstask/stargazers) [![Forks](https://img.shields.io/github/forks/naggie/dstask?style=flat-square&color=blue)](https://github.com/naggie/dstask/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Git powered terminal-based todo/note manager --  markdown note page per task. Single binary!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ naggie/dstask：naggie/dstask helps engineers save time in daily development and
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 60/100 |
-| stars | 65/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # polytope-labs/hyperbridge
 
-[![Stars](https://img.shields.io/github/stars/polytope-labs/hyperbridge?style=flat-square&color=yellow)](https://github.com/polytope-labs/hyperbridge/stargazers) [![Forks](https://img.shields.io/github/forks/polytope-labs/hyperbridge?style=flat-square&color=blue)](https://github.com/polytope-labs/hyperbridge/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/polytope-labs/hyperbridge?style=flat-square&color=yellow)](https://github.com/polytope-labs/hyperbridge/stargazers) [![Forks](https://img.shields.io/github/forks/polytope-labs/hyperbridge?style=flat-square&color=blue)](https://github.com/polytope-labs/hyperbridge/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Hyperbridge scales verifiable interoperability
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Knowledge/RAG · AI/ML · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Hyperbridge（polytope-labs/hyperbridge）是一套基于 Rust 实现的可验�
 | forks | 51/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

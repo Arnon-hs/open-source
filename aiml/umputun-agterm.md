@@ -1,6 +1,6 @@
 # umputun/agterm
 
-[![Stars](https://img.shields.io/github/stars/umputun/agterm?style=flat-square&color=yellow)](https://github.com/umputun/agterm/stargazers) [![Forks](https://img.shields.io/github/forks/umputun/agterm?style=flat-square&color=blue)](https://github.com/umputun/agterm/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/umputun/agterm?style=flat-square&color=yellow)](https://github.com/umputun/agterm/stargazers) [![Forks](https://img.shields.io/github/forks/umputun/agterm?style=flat-square&color=blue)](https://github.com/umputun/agterm/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal for agentic flow
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ In short, agterm offers a fast, low‑friction way to experiment with agentic AI
 | forks | 25/100 |
 | stars | 44/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

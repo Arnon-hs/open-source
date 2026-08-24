@@ -1,6 +1,6 @@
 # pamelafox/presentation-skills
 
-[![Stars](https://img.shields.io/github/stars/pamelafox/presentation-skills?style=flat-square&color=yellow)](https://github.com/pamelafox/presentation-skills/stargazers) [![Forks](https://img.shields.io/github/forks/pamelafox/presentation-skills?style=flat-square&color=blue)](https://github.com/pamelafox/presentation-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pamelafox/presentation-skills?style=flat-square&color=yellow)](https://github.com/pamelafox/presentation-skills/stargazers) [![Forks](https://img.shields.io/github/forks/pamelafox/presentation-skills?style=flat-square&color=blue)](https://github.com/pamelafox/presentation-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Skills for AI agents to process presentations - helpful for teachers and speakers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ pamelafox/presentation-skills：pamelafox/presentation-skills helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
+| production | 42/100 |
+| outlook | 38/100 |
 | adoption | 37/100 |
 | stars | 40/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

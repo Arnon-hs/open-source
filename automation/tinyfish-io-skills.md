@@ -1,6 +1,6 @@
 # tinyfish-io/skills
 
-[![Stars](https://img.shields.io/github/stars/tinyfish-io/skills?style=flat-square&color=yellow)](https://github.com/tinyfish-io/skills/stargazers) [![Forks](https://img.shields.io/github/forks/tinyfish-io/skills?style=flat-square&color=blue)](https://github.com/tinyfish-io/skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinyfish-io/skills?style=flat-square&color=yellow)](https://github.com/tinyfish-io/skills/stargazers) [![Forks](https://img.shields.io/github/forks/tinyfish-io/skills?style=flat-square&color=blue)](https://github.com/tinyfish-io/skills/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The public repo for the TinyFish web agent skill, add this to any agent and automate actions on the web
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ tinyfish-io/skills 能把 TinyFish Web Agent 的能力封装为可复用的「sk
 | forks | 19/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

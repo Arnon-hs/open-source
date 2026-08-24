@@ -1,6 +1,6 @@
 # ghostty-org/ghostty
 
-[![Stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=flat-square&color=yellow)](https://github.com/ghostty-org/ghostty/stargazers) [![Forks](https://img.shields.io/github/forks/ghostty-org/ghostty?style=flat-square&color=blue)](https://github.com/ghostty-org/ghostty/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=flat-square&color=yellow)](https://github.com/ghostty-org/ghostty/stargazers) [![Forks](https://img.shields.io/github/forks/ghostty-org/ghostty?style=flat-square&color=blue)](https://github.com/ghostty-org/ghostty/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54.1k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ghostty — это быстрый и функционально насыщен
 
 ### 中文
 
-ghostty-org/ghostty：ghostty-org/ghostty helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ghostty-org/ghostty：ghostty-org/ghostty helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ghostty-org/ghostty：ghostty-org/ghostty helps ship user-facing interfaces with
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ ghostty-org/ghostty：ghostty-org/ghostty helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 56/100 |
+| production | 49/100 |
+| outlook | 49/100 |
 | adoption | 96/100 |
 | stars | 100/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

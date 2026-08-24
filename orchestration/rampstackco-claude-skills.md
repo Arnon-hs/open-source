@@ -1,6 +1,6 @@
 # rampstackco/claude-skills
 
-[![Stars](https://img.shields.io/github/stars/rampstackco/claude-skills?style=flat-square&color=yellow)](https://github.com/rampstackco/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/rampstackco/claude-skills?style=flat-square&color=blue)](https://github.com/rampstackco/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rampstackco/claude-skills?style=flat-square&color=yellow)](https://github.com/rampstackco/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/rampstackco/claude-skills?style=flat-square&color=blue)](https://github.com/rampstackco/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 146 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Design · Marketing
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ rampstackco/claude-skills：rampstackco/claude-skills helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 59/100 |
-| adoption | 42/100 |
-| stars | 46/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

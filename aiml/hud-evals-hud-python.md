@@ -1,6 +1,6 @@
 # hud-evals/hud-python
 
-[![Stars](https://img.shields.io/github/stars/hud-evals/hud-python?style=flat-square&color=yellow)](https://github.com/hud-evals/hud-python/stargazers) [![Forks](https://img.shields.io/github/forks/hud-evals/hud-python?style=flat-square&color=blue)](https://github.com/hud-evals/hud-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hud-evals/hud-python?style=flat-square&color=yellow)](https://github.com/hud-evals/hud-python/stargazers) [![Forks](https://img.shields.io/github/forks/hud-evals/hud-python?style=flat-square&color=blue)](https://github.com/hud-evals/hud-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > OSS RL environment + evals toolkit
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 266 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ hud-evals/hud-python 是一个开源的强化学习（RL）环境与评估工具
 | forks | 45/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

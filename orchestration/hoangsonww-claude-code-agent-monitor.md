@@ -1,6 +1,6 @@
 # hoangsonww/Claude-Code-Agent-Monitor
 
-[![Stars](https://img.shields.io/github/stars/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=yellow)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/stargazers) [![Forks](https://img.shields.io/github/forks/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=blue)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=yellow)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/stargazers) [![Forks](https://img.shields.io/github/forks/hoangsonww/Claude-Code-Agent-Monitor?style=flat-square&color=blue)](https://github.com/hoangsonww/Claude-Code-Agent-Monitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 A real-time monitoring dashboard for Claude Code agents, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration through Claude Code hooks, providing live analytics, a Kanban status board, status notifications, and an interactive web interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Frontend · Backend · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ hoangsonww/Claude-Code-Agent-Monitor：hoangsonww/Claude-Code-Agent-Monitor help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 67/100 |
-| adoption | 52/100 |
-| stars | 54/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

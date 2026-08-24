@@ -1,6 +1,6 @@
 # redai-infra/Relax
 
-[![Stars](https://img.shields.io/github/stars/redai-infra/Relax?style=flat-square&color=yellow)](https://github.com/redai-infra/Relax/stargazers) [![Forks](https://img.shields.io/github/forks/redai-infra/Relax?style=flat-square&color=blue)](https://github.com/redai-infra/Relax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redai-infra/Relax?style=flat-square&color=yellow)](https://github.com/redai-infra/Relax/stargazers) [![Forks](https://img.shields.io/github/forks/redai-infra/Relax?style=flat-square&color=blue)](https://github.com/redai-infra/Relax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 447 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra · Education
+Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Relax 的生产可用性高，因为它具有以下特点：
 | forks | 44/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

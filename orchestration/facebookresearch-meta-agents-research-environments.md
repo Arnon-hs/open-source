@@ -1,6 +1,6 @@
 # facebookresearch/meta-agents-research-environments
 
-[![Stars](https://img.shields.io/github/stars/facebookresearch/meta-agents-research-environments?style=flat-square&color=yellow)](https://github.com/facebookresearch/meta-agents-research-environments/stargazers) [![Forks](https://img.shields.io/github/forks/facebookresearch/meta-agents-research-environments?style=flat-square&color=blue)](https://github.com/facebookresearch/meta-agents-research-environments/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookresearch/meta-agents-research-environments?style=flat-square&color=yellow)](https://github.com/facebookresearch/meta-agents-research-environments/stargazers) [![Forks](https://img.shields.io/github/forks/facebookresearch/meta-agents-research-environments?style=flat-square&color=blue)](https://github.com/facebookresearch/meta-agents-research-environments/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments where agents must adapt their strategies as new information becomes available, mirroring real-world challenges.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 486 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Mobile
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Meta Agents Research Environments — это открытая платфор
 
 ### 中文
 
-facebookresearch/meta-agents-research-environments：facebookresearch/meta-agents-research-environments helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+facebookresearch/meta-agents-research-environments：facebookresearch/meta-agents-research-environments helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ facebookresearch/meta-agents-research-environments：facebookresearch/meta-agent
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ facebookresearch/meta-agents-research-environments：facebookresearch/meta-agent
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

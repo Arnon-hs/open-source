@@ -1,6 +1,6 @@
 # melezhik/Sparrow6
 
-[![Stars](https://img.shields.io/github/stars/melezhik/Sparrow6?style=flat-square&color=yellow)](https://github.com/melezhik/Sparrow6/blob/master/task.check/stargazers) [![Forks](https://img.shields.io/github/forks/melezhik/Sparrow6?style=flat-square&color=blue)](https://github.com/melezhik/Sparrow6/blob/master/task.check/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/melezhik/Sparrow6?style=flat-square&color=yellow)](https://github.com/melezhik/Sparrow6/blob/master/task.check/stargazers) [![Forks](https://img.shields.io/github/forks/melezhik/Sparrow6?style=flat-square&color=blue)](https://github.com/melezhik/Sparrow6/blob/master/task.check/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ SSHD Log Security Analysis 为多语言 SDK，帮助开发者在工作流早期�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 29/100 |
+| quality | 21/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 60/100 |
+| production | 34/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

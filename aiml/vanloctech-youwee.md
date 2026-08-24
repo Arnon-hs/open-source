@@ -66,14 +66,14 @@ vanloctech/youwee：vanloctech/youwee helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| quality | 62/100 |
+| integration | 62/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

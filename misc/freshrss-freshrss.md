@@ -1,6 +1,6 @@
 # FreshRSS/FreshRSS
 
-[![Stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS?style=flat-square&color=yellow)](https://github.com/FreshRSS/FreshRSS/stargazers) [![Forks](https://img.shields.io/github/forks/FreshRSS/FreshRSS?style=flat-square&color=blue)](https://github.com/FreshRSS/FreshRSS/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FreshRSS/FreshRSS?style=flat-square&color=yellow)](https://github.com/FreshRSS/FreshRSS/stargazers) [![Forks](https://img.shields.io/github/forks/FreshRSS/FreshRSS?style=flat-square&color=blue)](https://github.com/FreshRSS/FreshRSS/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A free, self-hostable news aggregator…
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ FreshRSS/FreshRSS：FreshRSS/FreshRSS may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 78/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 85/100 |
-| stars | 89/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

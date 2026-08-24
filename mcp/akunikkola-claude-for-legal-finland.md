@@ -1,6 +1,6 @@
 # akunikkola/claude-for-legal-finland
 
-[![Stars](https://img.shields.io/github/stars/akunikkola/claude-for-legal-finland?style=flat-square&color=yellow)](https://github.com/akunikkola/claude-for-legal-finland/stargazers) [![Forks](https://img.shields.io/github/forks/akunikkola/claude-for-legal-finland?style=flat-square&color=blue)](https://github.com/akunikkola/claude-for-legal-finland/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akunikkola/claude-for-legal-finland?style=flat-square&color=yellow)](https://github.com/akunikkola/claude-for-legal-finland/stargazers) [![Forks](https://img.shields.io/github/forks/akunikkola/claude-for-legal-finland?style=flat-square&color=blue)](https://github.com/akunikkola/claude-for-legal-finland/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Avoimen lähdekoodin Claude-skillit ja -plugarit suomalaiseen juridiseen työhön — Finnish legal skills & plugins for Claude (Finlex, oik.ai, KKO/KHO)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ akunikkola/claude-for-legal-finland 是一套面向芬兰法律工作的 Claude 
 | forks | 24/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

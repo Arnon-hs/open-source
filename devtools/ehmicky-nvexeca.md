@@ -1,6 +1,6 @@
 # ehmicky/nvexeca
 
-[![Stars](https://img.shields.io/github/stars/ehmicky/nvexeca?style=flat-square&color=yellow)](https://github.com/ehmicky/nvexeca/stargazers) [![Forks](https://img.shields.io/github/forks/ehmicky/nvexeca?style=flat-square&color=blue)](https://github.com/ehmicky/nvexeca/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ehmicky/nvexeca?style=flat-square&color=yellow)](https://github.com/ehmicky/nvexeca/stargazers) [![Forks](https://img.shields.io/github/forks/ehmicky/nvexeca?style=flat-square&color=blue)](https://github.com/ehmicky/nvexeca/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > nvm + execa = nvexeca
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ nvexeca combines the power of Node Version Manager (nvm) with the lightweight pr
 
 ### 中文
 
-ehmicky/nvexeca：ehmicky/nvexeca helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ehmicky/nvexeca：ehmicky/nvexeca helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ehmicky/nvexeca：ehmicky/nvexeca helps engineers save time in daily development
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ ehmicky/nvexeca：ehmicky/nvexeca helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 31/100 |
-| stars | 36/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| stars | 36/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

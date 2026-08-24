@@ -1,6 +1,6 @@
 # lloydzhou/bash-agent
 
-[![Stars](https://img.shields.io/github/stars/lloydzhou/bash-agent?style=flat-square&color=yellow)](https://github.com/lloydzhou/bash-agent/stargazers) [![Forks](https://img.shields.io/github/forks/lloydzhou/bash-agent?style=flat-square&color=blue)](https://github.com/lloydzhou/bash-agent/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lloydzhou/bash-agent?style=flat-square&color=yellow)](https://github.com/lloydzhou/bash-agent/stargazers) [![Forks](https://img.shields.io/github/forks/lloydzhou/bash-agent?style=flat-square&color=blue)](https://github.com/lloydzhou/bash-agent/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal AI coding agent runtime. Pure bash + awk, zero runtime dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ lloydzhou/bash-agent 是一个极简的 AI 编码代理运行时，完全基于 
 | forks | 12/100 |
 | stars | 38/100 |
 | topics | 38/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Kodi-vStream/venom-xbmc-addons
 
-[![Stars](https://img.shields.io/github/stars/Kodi-vStream/venom-xbmc-addons?style=flat-square&color=yellow)](https://github.com/Kodi-vStream/venom-xbmc-addons/stargazers) [![Forks](https://img.shields.io/github/forks/Kodi-vStream/venom-xbmc-addons?style=flat-square&color=blue)](https://github.com/Kodi-vStream/venom-xbmc-addons/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kodi-vStream/venom-xbmc-addons?style=flat-square&color=yellow)](https://github.com/Kodi-vStream/venom-xbmc-addons/stargazers) [![Forks](https://img.shields.io/github/forks/Kodi-vStream/venom-xbmc-addons?style=flat-square&color=blue)](https://github.com/Kodi-vStream/venom-xbmc-addons/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Addon de Streaming français pour Xbmc
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Kodi‑vStream / venom‑xbmc‑addons — это открытый адд�
 
 ### 中文
 
-Kodi-vStream/venom-xbmc-addons：Kodi-vStream/venom-xbmc-addons helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Kodi-vStream/venom-xbmc-addons：Kodi-vStream/venom-xbmc-addons helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Kodi-vStream/venom-xbmc-addons：Kodi-vStream/venom-xbmc-addons helps add AI cap
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Kodi-vStream/venom-xbmc-addons：Kodi-vStream/venom-xbmc-addons helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 59/100 |
 | stars | 58/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

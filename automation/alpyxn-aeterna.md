@@ -1,6 +1,6 @@
 # alpyxn/aeterna
 
-[![Stars](https://img.shields.io/github/stars/alpyxn/aeterna?style=flat-square&color=yellow)](https://github.com/alpyxn/aeterna/stargazers) [![Forks](https://img.shields.io/github/forks/alpyxn/aeterna?style=flat-square&color=blue)](https://github.com/alpyxn/aeterna/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alpyxn/aeterna?style=flat-square&color=yellow)](https://github.com/alpyxn/aeterna/stargazers) [![Forks](https://img.shields.io/github/forks/alpyxn/aeterna?style=flat-square&color=blue)](https://github.com/alpyxn/aeterna/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Aeterna: A Lightweight, Self-Hosted Dead Man's Switch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 247 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Aeterna（alpyxn/aeterna）是一款轻量级的自托管 “死信开关”（D
 | forks | 27/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

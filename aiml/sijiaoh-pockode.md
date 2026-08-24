@@ -1,6 +1,6 @@
 # sijiaoh/pockode
 
-[![Stars](https://img.shields.io/github/stars/sijiaoh/pockode?style=flat-square&color=yellow)](https://github.com/sijiaoh/pockode/stargazers) [![Forks](https://img.shields.io/github/forks/sijiaoh/pockode?style=flat-square&color=blue)](https://github.com/sijiaoh/pockode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sijiaoh/pockode?style=flat-square&color=yellow)](https://github.com/sijiaoh/pockode/stargazers) [![Forks](https://img.shields.io/github/forks/sijiaoh/pockode?style=flat-square&color=blue)](https://github.com/sijiaoh/pockode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile interface for Claude Code and Codex — control your local AI coding agent from anywhere
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ sijiaoh/pockode is a mobile-friendly web interface that lets you interact with C
 
 ### 中文
 
-sijiaoh/pockode：sijiaoh/pockode helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sijiaoh/pockode：sijiaoh/pockode helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sijiaoh/pockode：sijiaoh/pockode helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,22 +59,22 @@ sijiaoh/pockode：sijiaoh/pockode helps add AI capability without starting from 
 - primary language: Go
 - 4 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 47/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 33/100 |
-| stars | 37/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 37/100 |
 | topics | 50/100 |
+| outlook | 42/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

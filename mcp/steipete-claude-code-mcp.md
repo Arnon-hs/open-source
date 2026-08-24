@@ -1,6 +1,6 @@
 # steipete/claude-code-mcp
 
-[![Stars](https://img.shields.io/github/stars/steipete/claude-code-mcp?style=flat-square&color=yellow)](https://github.com/steipete/claude-code-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/claude-code-mcp?style=flat-square&color=blue)](https://github.com/steipete/claude-code-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steipete/claude-code-mcp?style=flat-square&color=yellow)](https://github.com/steipete/claude-code-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/claude-code-mcp?style=flat-square&color=blue)](https://github.com/steipete/claude-code-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code as one-shot MCP server to have an agent in your agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ steipete/claude-code-mcp 是一个基于 Claude Code 的“一次性”Model Con
 | forks | 55/100 |
 | stars | 66/100 |
 | topics | 38/100 |
-| outlook | 79/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

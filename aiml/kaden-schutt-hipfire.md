@@ -1,0 +1,82 @@
+# Kaden-Schutt/hipfire
+
+[![Stars](https://img.shields.io/github/stars/Kaden-Schutt/hipfire?style=flat-square&color=yellow)](https://github.com/Kaden-Schutt/hipfire/stargazers) [![Forks](https://img.shields.io/github/forks/Kaden-Schutt/hipfire?style=flat-square&color=blue)](https://github.com/Kaden-Schutt/hipfire/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+
+> RDNA-native LLM inference engine in Rust.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 351 |
+| 🍴 **Forks** | 34 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`amd-gpu` `gpu-computing` `hip` `llm-inference` `machine-learning` `quantization` `rdna` `rocm` `rust`
+
+## 🎯 Categories
+
+AI/ML
+
+## 📝 Summary
+
+### English
+
+Kaden‑Schutt/hipfire is a high‑performance, RDNA‑native inference engine for large language models, written entirely in Rust. By leveraging AMD’s RDNA GPU architecture, it delivers fast, low‑latency LLM inference without relying on external frameworks, making it ideal for AI‑driven trading and other low‑latency ML applications. The project is open source and aims to provide a lightweight, GPU‑first alternative for developers building real‑time AI solutions.
+
+### Русский
+
+Kaden‑Schutt/hipfire — это высокопроизводительный движок для инференса больших языковых моделей, написанный на Rust и полностью использующий возможности графических процессоров RDNA. Проект ориентирован на задачи трейдинга и AI/ML, предоставляя быстрый и энергоэффективный inference без зависимости от сторонних фреймворков. Open‑source версия позволяет легко интегрировать движок в собственные аналитические и торговые системы.
+
+### 中文
+
+Kaden-Schutt/hipfire：Kaden-Schutt/hipfire helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** Kaden-Schutt/hipfire helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 351 GitHub stars
+- 34 forks
+- updated 2026-05-08
+- primary language: Rust
+- 9 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 39/100 |
+| stars | 54/100 |
+| topics | 100/100 |
+| outlook | 48/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Kaden-Schutt/hipfire) · [← Back to AI/ML](./README.md)</sub>

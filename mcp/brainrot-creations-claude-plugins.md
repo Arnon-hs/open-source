@@ -1,6 +1,6 @@
 # Brainrot-Creations/claude-plugins
 
-[![Stars](https://img.shields.io/github/stars/Brainrot-Creations/claude-plugins?style=flat-square&color=yellow)](https://github.com/Brainrot-Creations/claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/Brainrot-Creations/claude-plugins?style=flat-square&color=blue)](https://github.com/Brainrot-Creations/claude-plugins/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Brainrot-Creations/claude-plugins?style=flat-square&color=yellow)](https://github.com/Brainrot-Creations/claude-plugins/stargazers) [![Forks](https://img.shields.io/github/forks/Brainrot-Creations/claude-plugins?style=flat-square&color=blue)](https://github.com/Brainrot-Creations/claude-plugins/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Official Claude Code plugin marketplace for Brainrot Creations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Brainrot‑Creations/claude-plugins 是官方的 Claude Code 插件市场，提�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

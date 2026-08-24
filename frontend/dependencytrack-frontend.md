@@ -1,6 +1,6 @@
 # DependencyTrack/frontend
 
-[![Stars](https://img.shields.io/github/stars/DependencyTrack/frontend?style=flat-square&color=yellow)](https://github.com/DependencyTrack/frontend/stargazers) [![Forks](https://img.shields.io/github/forks/DependencyTrack/frontend?style=flat-square&color=blue)](https://github.com/DependencyTrack/frontend/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DependencyTrack/frontend?style=flat-square&color=yellow)](https://github.com/DependencyTrack/frontend/stargazers) [![Forks](https://img.shields.io/github/forks/DependencyTrack/frontend?style=flat-square&color=blue)](https://github.com/DependencyTrack/frontend/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Frontend UI for Dependency-Track
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 234 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ DependencyTrack/frontend 是 Dependency‑Track 的前端 UI 实现，基于 Vue
 | forks | 59/100 |
 | stars | 47/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

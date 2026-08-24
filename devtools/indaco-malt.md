@@ -1,6 +1,6 @@
 # indaco/malt
 
-[![Stars](https://img.shields.io/github/stars/indaco/malt?style=flat-square&color=yellow)](https://github.com/indaco/malt/stargazers) [![Forks](https://img.shields.io/github/forks/indaco/malt?style=flat-square&color=blue)](https://github.com/indaco/malt/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/indaco/malt?style=flat-square&color=yellow)](https://github.com/indaco/malt/stargazers) [![Forks](https://img.shields.io/github/forks/indaco/malt?style=flat-square&color=blue)](https://github.com/indaco/malt/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, drop-in Homebrew alternative for macOS. Warm installs in milliseconds. post_install scripts that actually run.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ indaco/malt is an open‑source, high‑performance alternative to Homebrew for 
 
 ### 中文
 
-indaco/malt：indaco/malt helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+indaco/malt：indaco/malt helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ indaco/malt：indaco/malt helps engineers save time in daily development and rev
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,22 +59,22 @@ indaco/malt：indaco/malt helps engineers save time in daily development and rev
 - primary language: Zig
 - 5 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 33/100 |
-| stars | 43/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 63/100 |
+| outlook | 43/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

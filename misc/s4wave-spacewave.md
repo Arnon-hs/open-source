@@ -1,23 +1,23 @@
 # s4wave/spacewave
 
-[![Stars](https://img.shields.io/github/stars/s4wave/spacewave?style=flat-square&color=yellow)](https://github.com/s4wave/spacewave/stargazers) [![Forks](https://img.shields.io/github/forks/s4wave/spacewave?style=flat-square&color=blue)](https://github.com/s4wave/spacewave/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s4wave/spacewave?style=flat-square&color=yellow)](https://github.com/s4wave/spacewave/stargazers) [![Forks](https://img.shields.io/github/forks/s4wave/spacewave?style=flat-square&color=blue)](https://github.com/s4wave/spacewave/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
-> self-host effortlessly
+> self-host directly in the web browser, no servers required. local-first, p2p
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 569 |
+| ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`go` `local-first-software` `p2p` `typescript`
 
 ## 🎯 Categories
 
@@ -25,8 +25,56 @@ Misc
 
 ## 📝 Summary
 
-The s4wave/spacewave project is an open-source initiative that enables users to self-host various services effortlessly. This project provides a simplified approach to hosting and managing multiple services on a single platform, streamlining the process for users. By leveraging its robust features, users can easily deploy and maintain their own customized server environments.
+### English
+
+Spacewave (s4wave/spacewave) is an open‑source, local‑first web application that runs entirely in the browser, eliminating the need for any backend server. It leverages peer‑to‑peer (P2P) networking to enable real‑time collaboration and data synchronization directly between users’ devices. The project provides both frontend and backend components that operate within the browser environment, making deployment as simple as opening a web page.
+
+### Русский
+
+**SpaceWave (s4wave/spacewave)** — полностью открытая платформа, позволяющая запускать полноценные фронтенд‑ и бэкенд‑приложения прямо в браузере без каких‑либо серверов. Проект построен на принципе local‑first и использует одноранговую (p2p) архитектуру, обеспечивая автономную работу и безопасный обмен данными между клиентами. Идеально подходит для разработки распределённых веб‑приложений, где важна независимость от централизованных инфраструктур.
+
+### 中文
+
+s4wave/spacewave：s4wave/spacewave may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** s4wave/spacewave may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 573 GitHub stars
+- 9 forks
+- updated 2026-05-09
+- primary language: Go
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 25/100 |
+| stars | 59/100 |
+| topics | 50/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/s4wave/spacewave) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/s4wave/spacewave) · [← Back to Misc](./README.md)</sub>

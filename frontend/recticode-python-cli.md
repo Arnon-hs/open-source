@@ -1,6 +1,6 @@
 # Recticode/python-cli
 
-[![Stars](https://img.shields.io/github/stars/Recticode/python-cli?style=flat-square&color=yellow)](https://github.com/Recticode/python-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Recticode/python-cli?style=flat-square&color=blue)](https://github.com/Recticode/python-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Recticode/python-cli?style=flat-square&color=yellow)](https://github.com/Recticode/python-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Recticode/python-cli?style=flat-square&color=blue)](https://github.com/Recticode/python-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag opensource): I built a 4-week hackathon focused entirely on real-world debugging instead of Leetcode problems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 33/100 |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | 2026-05-04 |
 | 🔍 **Source** | devto |
 
@@ -63,14 +63,14 @@ I built a 4-week hackathon focused entirely on real-world debugging instead of L
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 30/100 |
+| quality | 25/100 |
 | integration | 30/100 |
-| production | 39/100 |
-| outlook | 36/100 |
+| production | 32/100 |
+| outlook | 29/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

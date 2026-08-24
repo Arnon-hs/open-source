@@ -1,6 +1,6 @@
 # holon-run/uxc
 
-[![Stars](https://img.shields.io/github/stars/holon-run/uxc?style=flat-square&color=yellow)](https://github.com/holon-run/uxc/stargazers) [![Forks](https://img.shields.io/github/forks/holon-run/uxc?style=flat-square&color=blue)](https://github.com/holon-run/uxc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holon-run/uxc?style=flat-square&color=yellow)](https://github.com/holon-run/uxc/stargazers) [![Forks](https://img.shields.io/github/forks/holon-run/uxc?style=flat-square&color=blue)](https://github.com/holon-run/uxc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ holon‑run/uxc 是一个统一的命令行工具，能够在 OpenAPI、MCP、Gr
 | forks | 23/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

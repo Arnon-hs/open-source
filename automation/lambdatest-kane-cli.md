@@ -1,6 +1,6 @@
 # LambdaTest/kane-cli
 
-[![Stars](https://img.shields.io/github/stars/LambdaTest/kane-cli?style=flat-square&color=yellow)](https://github.com/LambdaTest/kane-cli/stargazers) [![Forks](https://img.shields.io/github/forks/LambdaTest/kane-cli?style=flat-square&color=blue)](https://github.com/LambdaTest/kane-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LambdaTest/kane-cli?style=flat-square&color=yellow)](https://github.com/LambdaTest/kane-cli/stargazers) [![Forks](https://img.shields.io/github/forks/LambdaTest/kane-cli?style=flat-square&color=blue)](https://github.com/LambdaTest/kane-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Kane CLI by TestMu AI (Formerly LambdaTest)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 221 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Database
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ LambdaTest/kane-cli（原 LambdaTest）是 TestMu AI 推出的 Kane CLI 工具�
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

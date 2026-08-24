@@ -1,6 +1,6 @@
 # hywax/mafl
 
-[![Stars](https://img.shields.io/github/stars/hywax/mafl?style=flat-square&color=yellow)](https://github.com/hywax/mafl/stargazers) [![Forks](https://img.shields.io/github/forks/hywax/mafl?style=flat-square&color=blue)](https://github.com/hywax/mafl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hywax/mafl?style=flat-square&color=yellow)](https://github.com/hywax/mafl/stargazers) [![Forks](https://img.shields.io/github/forks/hywax/mafl?style=flat-square&color=blue)](https://github.com/hywax/mafl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Minimalistic flexible homepage
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 724 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevOps/Infra · Product
+DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ hywax/mafl：hywax/mafl helps make deployment and operations more repeatable.。
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 56/100 |
-| stars | 61/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

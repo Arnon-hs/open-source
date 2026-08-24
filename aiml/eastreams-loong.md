@@ -1,6 +1,6 @@
 # eastreams/loong
 
-[![Stars](https://img.shields.io/github/stars/eastreams/loong?style=flat-square&color=yellow)](https://github.com/eastreams/loong/stargazers) [![Forks](https://img.shields.io/github/forks/eastreams/loong?style=flat-square&color=blue)](https://github.com/eastreams/loong/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eastreams/loong?style=flat-square&color=yellow)](https://github.com/eastreams/loong/stargazers) [![Forks](https://img.shields.io/github/forks/eastreams/loong?style=flat-square&color=blue)](https://github.com/eastreams/loong/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight, clear, and fully extensible AI agent infrastructure — learn easily, customize anything 🐉
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 636 |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Eastreams / loong is a lightweight, modular framework for building AI agents
 
 ### 中文
 
-eastreams/loong：eastreams/loong helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+eastreams/loong：eastreams/loong helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ eastreams/loong：eastreams/loong helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ eastreams/loong：eastreams/loong helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 63/100 |
-| adoption | 57/100 |
-| stars | 60/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

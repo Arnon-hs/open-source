@@ -1,6 +1,6 @@
 # zhouxiyu1997/friendmaker
 
-[![Stars](https://img.shields.io/github/stars/zhouxiyu1997/friendmaker?style=flat-square&color=yellow)](https://github.com/zhouxiyu1997/friendmaker/stargazers) [![Forks](https://img.shields.io/github/forks/zhouxiyu1997/friendmaker?style=flat-square&color=blue)](https://github.com/zhouxiyu1997/friendmaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhouxiyu1997/friendmaker?style=flat-square&color=yellow)](https://github.com/zhouxiyu1997/friendmaker/stargazers) [![Forks](https://img.shields.io/github/forks/zhouxiyu1997/friendmaker?style=flat-square&color=blue)](https://github.com/zhouxiyu1997/friendmaker/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Friend Maker is a macOS/Windows toolkit for turning images into pixel grids and ESP32 controller scripts, enabling automatic drawing on Nintendo Switch in Tomodachi Life and related workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Friend Maker — это кроссплатформенный набор ути
 
 ### 中文
 
-zhouxiyu1997/friendmaker：zhouxiyu1997/friendmaker may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+zhouxiyu1997/friendmaker：zhouxiyu1997/friendmaker may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ zhouxiyu1997/friendmaker：zhouxiyu1997/friendmaker may be useful when its READM
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ zhouxiyu1997/friendmaker：zhouxiyu1997/friendmaker may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 56/100 |
-| adoption | 49/100 |
-| stars | 55/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 50/100 |
+| outlook | 49/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

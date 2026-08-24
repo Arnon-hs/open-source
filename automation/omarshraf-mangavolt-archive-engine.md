@@ -1,6 +1,6 @@
 # Omarshraf/MangaVolt-Archive-Engine
 
-[![Stars](https://img.shields.io/github/stars/Omarshraf/MangaVolt-Archive-Engine?style=flat-square&color=yellow)](https://github.com/Omarshraf/MangaVolt-Archive-Engine/stargazers) [![Forks](https://img.shields.io/github/forks/Omarshraf/MangaVolt-Archive-Engine?style=flat-square&color=blue)](https://github.com/Omarshraf/MangaVolt-Archive-Engine/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Omarshraf/MangaVolt-Archive-Engine?style=flat-square&color=yellow)](https://github.com/Omarshraf/MangaVolt-Archive-Engine/stargazers) [![Forks](https://img.shields.io/github/forks/Omarshraf/MangaVolt-Archive-Engine?style=flat-square&color=blue)](https://github.com/Omarshraf/MangaVolt-Archive-Engine/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Best MangaFox Downloader Script 2026: Batch Manga Grabber Tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ Omarshraf/MangaVolt-Archive-Engine 的主要价值在于：
 | forks | 0/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

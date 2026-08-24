@@ -1,6 +1,6 @@
 # electron/osx-sign
 
-[![Stars](https://img.shields.io/github/stars/electron/osx-sign?style=flat-square&color=yellow)](https://github.com/electron/osx-sign/stargazers) [![Forks](https://img.shields.io/github/forks/electron/osx-sign?style=flat-square&color=blue)](https://github.com/electron/osx-sign/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electron/osx-sign?style=flat-square&color=yellow)](https://github.com/electron/osx-sign/stargazers) [![Forks](https://img.shields.io/github/forks/electron/osx-sign?style=flat-square&color=blue)](https://github.com/electron/osx-sign/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Codesign Electron macOS apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 621 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Design
+DevTools
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ electron/osx-sign 是一个用于对 Electron macOS 应用进行代码签名的�
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

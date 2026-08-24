@@ -1,6 +1,6 @@
 # AleksNeStu/ai-real-estate-assistant
 
-[![Stars](https://img.shields.io/github/stars/AleksNeStu/ai-real-estate-assistant?style=flat-square&color=yellow)](https://github.com/AleksNeStu/ai-real-estate-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/AleksNeStu/ai-real-estate-assistant?style=flat-square&color=blue)](https://github.com/AleksNeStu/ai-real-estate-assistant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AleksNeStu/ai-real-estate-assistant?style=flat-square&color=yellow)](https://github.com/AleksNeStu/ai-real-estate-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/AleksNeStu/ai-real-estate-assistant?style=flat-square&color=blue)](https://github.com/AleksNeStu/ai-real-estate-assistant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced AI Real Estate Assistant using RAG, LLMs, and Python. Features market analysis, property valuation, and intelligent search.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 182 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AleksNeStu/ai-real-estate-assistant：AleksNeStu/ai-real-estate-assistant helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 48/100 |
 | stars | 48/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

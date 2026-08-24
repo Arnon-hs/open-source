@@ -1,6 +1,6 @@
 # sigoden/dufs
 
-[![Stars](https://img.shields.io/github/stars/sigoden/dufs?style=flat-square&color=yellow)](https://github.com/sigoden/dufs/stargazers) [![Forks](https://img.shields.io/github/forks/sigoden/dufs?style=flat-square&color=blue)](https://github.com/sigoden/dufs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sigoden/dufs?style=flat-square&color=yellow)](https://github.com/sigoden/dufs/stargazers) [![Forks](https://img.shields.io/github/forks/sigoden/dufs?style=flat-square&color=blue)](https://github.com/sigoden/dufs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A file server that supports static serving, uploading, searching, accessing control, webdav...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.1k |
 | 🍴 **Forks** | 532 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ sigoden/dufs：sigoden/dufs helps teams reuse service infrastructure instead of 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 63/100 |
-| adoption | 80/100 |
-| stars | 85/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

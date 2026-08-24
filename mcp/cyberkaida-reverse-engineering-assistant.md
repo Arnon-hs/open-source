@@ -1,6 +1,6 @@
 # cyberkaida/reverse-engineering-assistant
 
-[![Stars](https://img.shields.io/github/stars/cyberkaida/reverse-engineering-assistant?style=flat-square&color=yellow)](https://github.com/cyberkaida/reverse-engineering-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/cyberkaida/reverse-engineering-assistant?style=flat-square&color=blue)](https://github.com/cyberkaida/reverse-engineering-assistant/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyberkaida/reverse-engineering-assistant?style=flat-square&color=yellow)](https://github.com/cyberkaida/reverse-engineering-assistant/stargazers) [![Forks](https://img.shields.io/github/forks/cyberkaida/reverse-engineering-assistant?style=flat-square&color=blue)](https://github.com/cyberkaida/reverse-engineering-assistant/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for reverse engineering tasks in Ghidra 👩‍💻
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 726 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ cyberkaida/reverse‑engineering‑assistant 是一个基于 Model Context P
 | forks | 45/100 |
 | stars | 61/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 56/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

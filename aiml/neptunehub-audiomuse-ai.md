@@ -1,6 +1,6 @@
 # NeptuneHub/AudioMuse-AI
 
-[![Stars](https://img.shields.io/github/stars/NeptuneHub/AudioMuse-AI?style=flat-square&color=yellow)](https://github.com/NeptuneHub/AudioMuse-AI/stargazers) [![Forks](https://img.shields.io/github/forks/NeptuneHub/AudioMuse-AI?style=flat-square&color=blue)](https://github.com/NeptuneHub/AudioMuse-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NeptuneHub/AudioMuse-AI?style=flat-square&color=yellow)](https://github.com/NeptuneHub/AudioMuse-AI/stargazers) [![Forks](https://img.shields.io/github/forks/NeptuneHub/AudioMuse-AI?style=flat-square&color=blue)](https://github.com/NeptuneHub/AudioMuse-AI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ NeptuneHub/AudioMuse-AI: NeptuneHub/AudioMuse-AI helps add AI capability without
 
 ### Русский
 
-NeptuneHub/AudioMuse-AI: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+NeptuneHub/AudioMuse-AI: open-source проект в категориях AI/ML, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ NeptuneHub/AudioMuse-AI：NeptuneHub/AudioMuse-AI helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 68/100 |
-| integration | 100/100 |
-| production | 65/100 |
-| outlook | 65/100 |
-| adoption | 63/100 |
-| stars | 69/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---

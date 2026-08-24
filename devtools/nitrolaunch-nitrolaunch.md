@@ -1,6 +1,6 @@
 # Nitrolaunch/nitrolaunch
 
-[![Stars](https://img.shields.io/github/stars/Nitrolaunch/nitrolaunch?style=flat-square&color=yellow)](https://github.com/Nitrolaunch/nitrolaunch/stargazers) [![Forks](https://img.shields.io/github/forks/Nitrolaunch/nitrolaunch?style=flat-square&color=blue)](https://github.com/Nitrolaunch/nitrolaunch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nitrolaunch/nitrolaunch?style=flat-square&color=yellow)](https://github.com/Nitrolaunch/nitrolaunch/stargazers) [![Forks](https://img.shields.io/github/forks/Nitrolaunch/nitrolaunch?style=flat-square&color=blue)](https://github.com/Nitrolaunch/nitrolaunch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The supercharged Minecraft launcher
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Nitrolaunch 是一个为 Minecraft 量身打造的“超级加速”启动器，
 | forks | 23/100 |
 | stars | 44/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

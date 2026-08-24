@@ -1,6 +1,6 @@
 # NVlabs/cutile-rs
 
-[![Stars](https://img.shields.io/github/stars/NVlabs/cutile-rs?style=flat-square&color=yellow)](https://github.com/NVlabs/cutile-rs/stargazers) [![Forks](https://img.shields.io/github/forks/NVlabs/cutile-rs?style=flat-square&color=blue)](https://github.com/NVlabs/cutile-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVlabs/cutile-rs?style=flat-square&color=yellow)](https://github.com/NVlabs/cutile-rs/stargazers) [![Forks](https://img.shields.io/github/forks/NVlabs/cutile-rs?style=flat-square&color=blue)](https://github.com/NVlabs/cutile-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It features a safe host-side API for passing tensors to asynchronously executed kernel functions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 285 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ NVlabs/cutile-rs — это открытая библиотека, реали�
 
 ### 中文
 
-NVlabs/cutile-rs：NVlabs/cutile-rs helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+NVlabs/cutile-rs：NVlabs/cutile-rs helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ NVlabs/cutile-rs：NVlabs/cutile-rs helps teams reuse service infrastructure ins
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ NVlabs/cutile-rs：NVlabs/cutile-rs helps teams reuse service infrastructure ins
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 48/100 |
 | stars | 52/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

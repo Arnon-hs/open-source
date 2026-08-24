@@ -1,6 +1,6 @@
 # agentgateway/agentgateway
 
-[![Stars](https://img.shields.io/github/stars/agentgateway/agentgateway?style=flat-square&color=yellow)](https://github.com/agentgateway/agentgateway/stargazers) [![Forks](https://img.shields.io/github/forks/agentgateway/agentgateway?style=flat-square&color=blue)](https://github.com/agentgateway/agentgateway/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentgateway/agentgateway?style=flat-square&color=yellow)](https://github.com/agentgateway/agentgateway/stargazers) [![Forks](https://img.shields.io/github/forks/agentgateway/agentgateway?style=flat-square&color=blue)](https://github.com/agentgateway/agentgateway/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Next Generation Agentic Proxy for AI Agents and MCP servers
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 613 |
+| ⭐ **Stars** | 2.6k |
+| 🍴 **Forks** | 443 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,15 @@ MCP · AI/ML · Backend · DevOps/Infra
 
 ### English
 
-agentgateway/agentgateway: agentgateway/agentgateway helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+agentgateway/agentgateway: agentgateway/agentgateway helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-agentgateway/agentgateway: open-source проект в категориях MCP, AI/ML, Backend, DevOps/Infra. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+agentgateway/agentgateway: open-source проект в категориях MCP, AI/ML, Backend, DevOps/Infra. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-agentgateway/agentgateway：agentgateway/agentgateway helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+agentgateway/agentgateway：agentgateway/agentgateway helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ agentgateway/agentgateway：agentgateway/agentgateway helps connect AI assistant
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 3647 GitHub stars
-- 613 forks
-- updated 2026-07-02
+- 2629 GitHub stars
+- 443 forks
+- updated 2026-05-07
 - primary language: Rust
 - 11 topics
 
@@ -65,18 +65,18 @@ agentgateway/agentgateway：agentgateway/agentgateway helps connect AI assistant
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 88/100 |
-| integration | 78/100 |
-| production | 84/100 |
-| outlook | 92/100 |
-| adoption | 74/100 |
-| stars | 76/100 |
-| forks | 70/100 |
-| recency | 100/100 |
+| forks | 66/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/agentgateway/agentgateway) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/agentgateway/agentgateway) · [← Back to Mcp](./README.md)</sub>

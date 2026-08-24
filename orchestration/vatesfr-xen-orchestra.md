@@ -1,6 +1,6 @@
 # vatesfr/xen-orchestra
 
-[![Stars](https://img.shields.io/github/stars/vatesfr/xen-orchestra?style=flat-square&color=yellow)](https://github.com/vatesfr/xen-orchestra/stargazers) [![Forks](https://img.shields.io/github/forks/vatesfr/xen-orchestra?style=flat-square&color=blue)](https://github.com/vatesfr/xen-orchestra/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vatesfr/xen-orchestra?style=flat-square&color=yellow)](https://github.com/vatesfr/xen-orchestra/stargazers) [![Forks](https://img.shields.io/github/forks/vatesfr/xen-orchestra?style=flat-square&color=blue)](https://github.com/vatesfr/xen-orchestra/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The global orchestration solution to manage and backup XCP-ng and XenServer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 969 |
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Backend
+Orchestration
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Xen Orchestra（vatesfr/xen-orchestra）是一套面向 XCP‑ng 与 XenServer �
 | forks | 62/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

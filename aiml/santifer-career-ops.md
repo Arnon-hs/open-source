@@ -1,6 +1,6 @@
 # santifer/career-ops
 
-[![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&color=yellow)](https://github.com/santifer/career-ops/stargazers) [![Forks](https://img.shields.io/github/forks/santifer/career-ops?style=flat-square&color=blue)](https://github.com/santifer/career-ops/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&color=yellow)](https://github.com/santifer/career-ops/stargazers) [![Forks](https://img.shields.io/github/forks/santifer/career-ops?style=flat-square&color=blue)](https://github.com/santifer/career-ops/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43.8k |
 | 🍴 **Forks** | 9.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ santifer/career-ops：santifer/career-ops helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 79/100 |
+| production | 59/100 |
+| outlook | 72/100 |
 | adoption | 99/100 |
 | stars | 99/100 |
 | forks | 99/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

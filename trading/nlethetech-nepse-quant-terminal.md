@@ -1,6 +1,6 @@
 # nlethetech/nepse-quant-terminal
 
-[![Stars](https://img.shields.io/github/stars/nlethetech/nepse-quant-terminal?style=flat-square&color=yellow)](https://github.com/nlethetech/nepse-quant-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/nlethetech/nepse-quant-terminal?style=flat-square&color=blue)](https://github.com/nlethetech/nepse-quant-terminal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nlethetech/nepse-quant-terminal?style=flat-square&color=yellow)](https://github.com/nlethetech/nepse-quant-terminal/stargazers) [![Forks](https://img.shields.io/github/forks/nlethetech/nepse-quant-terminal?style=flat-square&color=blue)](https://github.com/nlethetech/nepse-quant-terminal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal-based NEPSE quant trading dashboard with paper trading, backtesting, analytics, and AI agent support.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Trading · AI/ML · DevTools · Data
+Trading · AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ nlethetech/nepse-quant-terminal 是一款基于终端的尼泊尔证券交易所
 | forks | 46/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 40/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

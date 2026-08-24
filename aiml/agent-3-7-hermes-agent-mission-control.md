@@ -1,6 +1,6 @@
 # Agent-3-7/hermes-agent-mission-control
 
-[![Stars](https://img.shields.io/github/stars/Agent-3-7/hermes-agent-mission-control?style=flat-square&color=yellow)](https://github.com/Agent-3-7/hermes-agent-mission-control/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-3-7/hermes-agent-mission-control?style=flat-square&color=blue)](https://github.com/Agent-3-7/hermes-agent-mission-control/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agent-3-7/hermes-agent-mission-control?style=flat-square&color=yellow)](https://github.com/Agent-3-7/hermes-agent-mission-control/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-3-7/hermes-agent-mission-control?style=flat-square&color=blue)](https://github.com/Agent-3-7/hermes-agent-mission-control/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Mission Control Kanban for your Hermes Agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ Agent-3-7/hermes-agent-mission-control：Agent-3-7/hermes-agent-mission-control 
 - updated 2026-05-09
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 46/100 |
+| quality | 41/100 |
 | integration | 46/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 46/100 |
 | stars | 53/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

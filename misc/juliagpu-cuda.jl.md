@@ -1,6 +1,6 @@
 # JuliaGPU/CUDA.jl
 
-[![Stars](https://img.shields.io/github/stars/JuliaGPU/CUDA.jl?style=flat-square&color=yellow)](https://github.com/JuliaGPU/CUDA.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaGPU/CUDA.jl?style=flat-square&color=blue)](https://github.com/JuliaGPU/CUDA.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuliaGPU/CUDA.jl?style=flat-square&color=yellow)](https://github.com/JuliaGPU/CUDA.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaGPU/CUDA.jl?style=flat-square&color=blue)](https://github.com/JuliaGPU/CUDA.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > CUDA programming in Julia.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ JuliaGPU/CUDA.jl 为 Julia 语言提供了完整的 CUDA 编程接口，能够�
 | forks | 61/100 |
 | stars | 67/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 65/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # CeuiLiSA/Pixiv-Shaft
 
-[![Stars](https://img.shields.io/github/stars/CeuiLiSA/Pixiv-Shaft?style=flat-square&color=yellow)](https://github.com/CeuiLiSA/Pixiv-Shaft/stargazers) [![Forks](https://img.shields.io/github/forks/CeuiLiSA/Pixiv-Shaft?style=flat-square&color=blue)](https://github.com/CeuiLiSA/Pixiv-Shaft/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CeuiLiSA/Pixiv-Shaft?style=flat-square&color=yellow)](https://github.com/CeuiLiSA/Pixiv-Shaft/stargazers) [![Forks](https://img.shields.io/github/forks/CeuiLiSA/Pixiv-Shaft?style=flat-square&color=blue)](https://github.com/CeuiLiSA/Pixiv-Shaft/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Pixiv第三方Android客户端
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ CeuiLiSA/Pixiv‑Shaft 是一款基于 Kotlin 开发的第三方 Android 客户�
 | forks | 59/100 |
 | stars | 82/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

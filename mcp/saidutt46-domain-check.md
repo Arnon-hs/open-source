@@ -1,6 +1,6 @@
 # saidutt46/domain-check
 
-[![Stars](https://img.shields.io/github/stars/saidutt46/domain-check?style=flat-square&color=yellow)](https://github.com/saidutt46/domain-check/stargazers) [![Forks](https://img.shields.io/github/forks/saidutt46/domain-check?style=flat-square&color=blue)](https://github.com/saidutt46/domain-check/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saidutt46/domain-check?style=flat-square&color=yellow)](https://github.com/saidutt46/domain-check/stargazers) [![Forks](https://img.shields.io/github/forks/saidutt46/domain-check?style=flat-square&color=blue)](https://github.com/saidutt46/domain-check/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, universal domain availability checker - 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library + MCP server for AI agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 276 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ saidutt46/domain-check 是一个高速、通用的域名可用性检查工具，
 | forks | 31/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

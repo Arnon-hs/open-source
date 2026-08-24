@@ -1,6 +1,6 @@
 # fork-commit-merge/fork-commit-merge
 
-[![Stars](https://img.shields.io/github/stars/fork-commit-merge/fork-commit-merge?style=flat-square&color=yellow)](https://github.com/fork-commit-merge/fork-commit-merge/stargazers) [![Forks](https://img.shields.io/github/forks/fork-commit-merge/fork-commit-merge?style=flat-square&color=blue)](https://github.com/fork-commit-merge/fork-commit-merge/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fork-commit-merge/fork-commit-merge?style=flat-square&color=yellow)](https://github.com/fork-commit-merge/fork-commit-merge/stargazers) [![Forks](https://img.shields.io/github/forks/fork-commit-merge/fork-commit-merge?style=flat-square&color=blue)](https://github.com/fork-commit-merge/fork-commit-merge/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 486 |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | CSS |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ fork-commit-merge/fork-commit-merge：fork-commit-merge/fork-commit-merge helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 64/100 |
 | stars | 57/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

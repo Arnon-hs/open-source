@@ -1,6 +1,6 @@
 # memgraph/memgraph
 
-[![Stars](https://img.shields.io/github/stars/memgraph/memgraph?style=flat-square&color=yellow)](https://github.com/memgraph/memgraph/stargazers) [![Forks](https://img.shields.io/github/forks/memgraph/memgraph?style=flat-square&color=blue)](https://github.com/memgraph/memgraph/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/memgraph/memgraph?style=flat-square&color=yellow)](https://github.com/memgraph/memgraph/stargazers) [![Forks](https://img.shields.io/github/forks/memgraph/memgraph?style=flat-square&color=blue)](https://github.com/memgraph/memgraph/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ memgraph/memgraph: memgraph/memgraph helps add AI capability without starting fr
 
 ### Русский
 
-memgraph/memgraph: open-source проект в категориях AI/ML, Frontend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+memgraph/memgraph: open-source проект в категориях AI/ML, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ memgraph/memgraph：memgraph/memgraph helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 72/100 |
-| stars | 77/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

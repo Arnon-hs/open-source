@@ -1,6 +1,6 @@
 # clusternet/clusternet
 
-[![Stars](https://img.shields.io/github/stars/clusternet/clusternet?style=flat-square&color=yellow)](https://github.com/clusternet/clusternet/stargazers) [![Forks](https://img.shields.io/github/forks/clusternet/clusternet?style=flat-square&color=blue)](https://github.com/clusternet/clusternet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clusternet/clusternet?style=flat-square&color=yellow)](https://github.com/clusternet/clusternet/stargazers) [![Forks](https://img.shields.io/github/forks/clusternet/clusternet?style=flat-square&color=blue)](https://github.com/clusternet/clusternet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > [CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 206 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ clusternet/clusternet：clusternet/clusternet helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 59/100 |
-| adoption | 65/100 |
-| stars | 67/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

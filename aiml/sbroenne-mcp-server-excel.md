@@ -1,6 +1,6 @@
 # sbroenne/mcp-server-excel
 
-[![Stars](https://img.shields.io/github/stars/sbroenne/mcp-server-excel?style=flat-square&color=yellow)](https://github.com/sbroenne/mcp-server-excel/stargazers) [![Forks](https://img.shields.io/github/forks/sbroenne/mcp-server-excel?style=flat-square&color=blue)](https://github.com/sbroenne/mcp-server-excel/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbroenne/mcp-server-excel?style=flat-square&color=yellow)](https://github.com/sbroenne/mcp-server-excel/stargazers) [![Forks](https://img.shields.io/github/forks/sbroenne/mcp-server-excel?style=flat-square&color=blue)](https://github.com/sbroenne/mcp-server-excel/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Excel MCP Server & CLI - 23 tools, 214 operations for AI-powered Excel automation via COM API
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ sbroenne/mcp-server-excel：sbroenne/mcp-server-excel helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 65/100 |
+| production | 53/100 |
+| outlook | 58/100 |
 | adoption | 44/100 |
 | stars | 46/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

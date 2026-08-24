@@ -1,6 +1,6 @@
 # tstyche/tstyche
 
-[![Stars](https://img.shields.io/github/stars/tstyche/tstyche?style=flat-square&color=yellow)](https://github.com/tstyche/tstyche/stargazers) [![Forks](https://img.shields.io/github/forks/tstyche/tstyche?style=flat-square&color=blue)](https://github.com/tstyche/tstyche/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tstyche/tstyche?style=flat-square&color=yellow)](https://github.com/tstyche/tstyche/stargazers) [![Forks](https://img.shields.io/github/forks/tstyche/tstyche?style=flat-square&color=blue)](https://github.com/tstyche/tstyche/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Everything You Need for Type Testing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tstyche — это набор открытых инструментов для
 
 ### 中文
 
-tstyche/tstyche：tstyche/tstyche helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tstyche/tstyche：tstyche/tstyche helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tstyche/tstyche：tstyche/tstyche helps engineers save time in daily development
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ tstyche/tstyche：tstyche/tstyche helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 45/100 |
-| stars | 53/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 88/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

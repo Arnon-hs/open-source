@@ -1,6 +1,6 @@
 # rustledger/rustledger
 
-[![Stars](https://img.shields.io/github/stars/rustledger/rustledger?style=flat-square&color=yellow)](https://github.com/rustledger/rustledger/stargazers) [![Forks](https://img.shields.io/github/forks/rustledger/rustledger?style=flat-square&color=blue)](https://github.com/rustledger/rustledger/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustledger/rustledger?style=flat-square&color=yellow)](https://github.com/rustledger/rustledger/stargazers) [![Forks](https://img.shields.io/github/forks/rustledger/rustledger?style=flat-square&color=blue)](https://github.com/rustledger/rustledger/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Modern plain text accounting. Beancount compatible.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · DevTools
 
 ### English
 
-rustledger/rustledger: rustledger/rustledger helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rustledger/rustledger: rustledger/rustledger helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-rustledger/rustledger: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rustledger/rustledger: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-rustledger/rustledger：rustledger/rustledger helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rustledger/rustledger：rustledger/rustledger helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rustledger/rustledger：rustledger/rustledger helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rustledger/rustledger：rustledger/rustledger helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 45/100 |
 | stars | 51/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

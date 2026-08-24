@@ -1,6 +1,6 @@
 # verdaccio/verdaccio
 
-[![Stars](https://img.shields.io/github/stars/verdaccio/verdaccio?style=flat-square&color=yellow)](https://github.com/verdaccio/verdaccio/stargazers) [![Forks](https://img.shields.io/github/forks/verdaccio/verdaccio?style=flat-square&color=blue)](https://github.com/verdaccio/verdaccio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/verdaccio/verdaccio?style=flat-square&color=yellow)](https://github.com/verdaccio/verdaccio/stargazers) [![Forks](https://img.shields.io/github/forks/verdaccio/verdaccio?style=flat-square&color=blue)](https://github.com/verdaccio/verdaccio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight Node.js private proxy registry
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.6k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Verdaccio 是一个基于 Node.js 的轻量级私有 npm 代理仓库，能够�
 | forks | 79/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
 | adoption | 87/100 |
-| production | 86/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

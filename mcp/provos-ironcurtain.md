@@ -1,6 +1,6 @@
 # provos/ironcurtain
 
-[![Stars](https://img.shields.io/github/stars/provos/ironcurtain?style=flat-square&color=yellow)](https://github.com/provos/ironcurtain/stargazers) [![Forks](https://img.shields.io/github/forks/provos/ironcurtain?style=flat-square&color=blue)](https://github.com/provos/ironcurtain/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/provos/ironcurtain?style=flat-square&color=yellow)](https://github.com/provos/ironcurtain/stargazers) [![Forks](https://img.shields.io/github/forks/provos/ironcurtain?style=flat-square&color=blue)](https://github.com/provos/ironcurtain/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A secure* runtime for autonomous AI agents. Policy from plain-English constitutions. (*https://ironcurtain.dev)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ provos/ironcurtain 是一个面向自治 AI 代理的安全运行时，能够通
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 82/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # solana-foundation/surfpool
 
-[![Stars](https://img.shields.io/github/stars/solana-foundation/surfpool?style=flat-square&color=yellow)](https://github.com/solana-foundation/surfpool/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/surfpool?style=flat-square&color=blue)](https://github.com/solana-foundation/surfpool/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solana-foundation/surfpool?style=flat-square&color=yellow)](https://github.com/solana-foundation/surfpool/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/surfpool?style=flat-square&color=blue)](https://github.com/solana-foundation/surfpool/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Surfpool is where developers start their Solana journey.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 550 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools · DevOps/Infra
+Crypto
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ Surfpool 为想要在 Solana 上快速起步的开发者提供了可直接使用
 | forks | 54/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

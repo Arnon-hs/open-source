@@ -1,6 +1,6 @@
 # gridaco/grida
 
-[![Stars](https://img.shields.io/github/stars/gridaco/grida?style=flat-square&color=yellow)](https://github.com/gridaco/grida/stargazers) [![Forks](https://img.shields.io/github/forks/gridaco/grida?style=flat-square&color=blue)](https://github.com/gridaco/grida/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gridaco/grida?style=flat-square&color=yellow)](https://github.com/gridaco/grida/stargazers) [![Forks](https://img.shields.io/github/forks/gridaco/grida?style=flat-square&color=blue)](https://github.com/gridaco/grida/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Grida — Open Canvas
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 138 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Database · Design
+AI/ML · Database · Design
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Grida（gridaco/grida）是一个基于 TypeScript 的开源「Open Canvas」平
 | forks | 54/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

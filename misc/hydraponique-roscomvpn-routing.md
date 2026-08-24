@@ -1,6 +1,6 @@
 # hydraponique/roscomvpn-routing
 
-[![Stars](https://img.shields.io/github/stars/hydraponique/roscomvpn-routing?style=flat-square&color=yellow)](https://github.com/hydraponique/roscomvpn-routing/stargazers) [![Forks](https://img.shields.io/github/forks/hydraponique/roscomvpn-routing?style=flat-square&color=blue)](https://github.com/hydraponique/roscomvpn-routing/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hydraponique/roscomvpn-routing?style=flat-square&color=yellow)](https://github.com/hydraponique/roscomvpn-routing/stargazers) [![Forks](https://img.shields.io/github/forks/hydraponique/roscomvpn-routing?style=flat-square&color=blue)](https://github.com/hydraponique/roscomvpn-routing/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Custom routing rules for Happ, INCY, Mihomo with Deeplink
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ hydraponique/roscomvpn-routing：hydraponique/roscomvpn-routing may be useful wh
 | forks | 47/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

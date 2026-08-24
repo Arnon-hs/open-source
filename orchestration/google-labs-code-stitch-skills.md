@@ -1,6 +1,6 @@
 # google-labs-code/stitch-skills
 
-[![Stars](https://img.shields.io/github/stars/google-labs-code/stitch-skills?style=flat-square&color=yellow)](https://github.com/google-labs-code/stitch-skills/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/stitch-skills?style=flat-square&color=blue)](https://github.com/google-labs-code/stitch-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-labs-code/stitch-skills?style=flat-square&color=yellow)](https://github.com/google-labs-code/stitch-skills/stargazers) [![Forks](https://img.shields.io/github/forks/google-labs-code/stitch-skills?style=flat-square&color=blue)](https://github.com/google-labs-code/stitch-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 635 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ google-labs-code/stitch-skills：google-labs-code/stitch-skills helps turn isola
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 59/100 |
-| integration | 94/100 |
-| production | 61/100 |
-| outlook | 61/100 |
-| adoption | 77/100 |
-| stars | 79/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| stars | 79/100 |
 | topics | 0/100 |
+| outlook | 54/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

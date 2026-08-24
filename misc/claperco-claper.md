@@ -1,6 +1,6 @@
 # ClaperCo/Claper
 
-[![Stars](https://img.shields.io/github/stars/ClaperCo/Claper?style=flat-square&color=yellow)](https://github.com/ClaperCo/Claper/stargazers) [![Forks](https://img.shields.io/github/forks/ClaperCo/Claper?style=flat-square&color=blue)](https://github.com/ClaperCo/Claper/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClaperCo/Claper?style=flat-square&color=yellow)](https://github.com/ClaperCo/Claper/stargazers) [![Forks](https://img.shields.io/github/forks/ClaperCo/Claper?style=flat-square&color=blue)](https://github.com/ClaperCo/Claper/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 👋 The ultimate tool to interact with your audience
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 742 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Claper (ClaperCo/Claper) — это кроссплатформенный open�
 
 ### 中文
 
-ClaperCo/Claper：ClaperCo/Claper may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ClaperCo/Claper：ClaperCo/Claper may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ClaperCo/Claper：ClaperCo/Claper may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ ClaperCo/Claper：ClaperCo/Claper may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 59/100 |
-| stars | 61/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

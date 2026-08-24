@@ -1,6 +1,6 @@
 # iii-hq/iii
 
-[![Stars](https://img.shields.io/github/stars/iii-hq/iii?style=flat-square&color=yellow)](https://github.com/iii-hq/iii/stargazers) [![Forks](https://img.shields.io/github/forks/iii-hq/iii?style=flat-square&color=blue)](https://github.com/iii-hq/iii/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iii-hq/iii?style=flat-square&color=yellow)](https://github.com/iii-hq/iii/stargazers) [![Forks](https://img.shields.io/github/forks/iii-hq/iii?style=flat-square&color=blue)](https://github.com/iii-hq/iii/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.5k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ iii-hq/iii：iii-hq/iii helps add AI capability without starting from a blank mo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 78/100 |
-| integration | 78/100 |
-| production | 66/100 |
-| outlook | 75/100 |
-| adoption | 85/100 |
-| stars | 89/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

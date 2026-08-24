@@ -1,6 +1,6 @@
 # redis/redis-vl-python
 
-[![Stars](https://img.shields.io/github/stars/redis/redis-vl-python?style=flat-square&color=yellow)](https://github.com/redis/redis-vl-python/stargazers) [![Forks](https://img.shields.io/github/forks/redis/redis-vl-python?style=flat-square&color=blue)](https://github.com/redis/redis-vl-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redis/redis-vl-python?style=flat-square&color=yellow)](https://github.com/redis/redis-vl-python/stargazers) [![Forks](https://img.shields.io/github/forks/redis/redis-vl-python?style=flat-square&color=blue)](https://github.com/redis/redis-vl-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · DevTools · Data · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ RedisVL（Redis Vector Library）是面向 AI 场景的原生 Python 客户端�
 | forks | 48/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

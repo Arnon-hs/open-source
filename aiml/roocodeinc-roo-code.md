@@ -1,6 +1,6 @@
 # RooCodeInc/Roo-Code
 
-[![Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=flat-square&color=yellow)](https://github.com/RooCodeInc/Roo-Code/stargazers) [![Forks](https://img.shields.io/github/forks/RooCodeInc/Roo-Code?style=flat-square&color=blue)](https://github.com/RooCodeInc/Roo-Code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=flat-square&color=yellow)](https://github.com/RooCodeInc/Roo-Code/stargazers) [![Forks](https://img.shields.io/github/forks/RooCodeInc/Roo-Code?style=flat-square&color=blue)](https://github.com/RooCodeInc/Roo-Code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Roo Code gives you a whole dev team of AI agents in your code editor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23.9k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ RooCodeInc/Roo-Code：RooCodeInc/Roo-Code helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 92/100 |
 | stars | 93/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

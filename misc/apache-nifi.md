@@ -1,6 +1,6 @@
 # apache/nifi
 
-[![Stars](https://img.shields.io/github/stars/apache/nifi?style=flat-square&color=yellow)](https://github.com/apache/nifi/stargazers) [![Forks](https://img.shields.io/github/forks/apache/nifi?style=flat-square&color=blue)](https://github.com/apache/nifi/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/nifi?style=flat-square&color=yellow)](https://github.com/apache/nifi/stargazers) [![Forks](https://img.shields.io/github/forks/apache/nifi?style=flat-square&color=blue)](https://github.com/apache/nifi/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Apache NiFi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ Apache NiFi 是一款基于 Web UI 的数据流编排平台，提供可视化的
 | forks | 87/100 |
 | stars | 81/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 82/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

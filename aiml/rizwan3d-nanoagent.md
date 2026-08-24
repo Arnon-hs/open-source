@@ -1,6 +1,6 @@
 # rizwan3d/NanoAgent
 
-[![Stars](https://img.shields.io/github/stars/rizwan3d/NanoAgent?style=flat-square&color=yellow)](https://github.com/rizwan3d/NanoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/rizwan3d/NanoAgent?style=flat-square&color=blue)](https://github.com/rizwan3d/NanoAgent/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rizwan3d/NanoAgent?style=flat-square&color=yellow)](https://github.com/rizwan3d/NanoAgent/stargazers) [![Forks](https://img.shields.io/github/forks/rizwan3d/NanoAgent?style=flat-square&color=blue)](https://github.com/rizwan3d/NanoAgent/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI coding agent for desktop, terminal, VS Code, Visual Studio, and CI code reviews.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ NanoAgent（rizwan3d/NanoAgent）是一款面向桌面、终端、VS Code、Vi
 | forks | 17/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

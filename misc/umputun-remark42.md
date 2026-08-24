@@ -1,6 +1,6 @@
 # umputun/remark42
 
-[![Stars](https://img.shields.io/github/stars/umputun/remark42?style=flat-square&color=yellow)](https://github.com/umputun/remark42/stargazers) [![Forks](https://img.shields.io/github/forks/umputun/remark42?style=flat-square&color=blue)](https://github.com/umputun/remark42/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/umputun/remark42?style=flat-square&color=yellow)](https://github.com/umputun/remark42/stargazers) [![Forks](https://img.shields.io/github/forks/umputun/remark42?style=flat-square&color=blue)](https://github.com/umputun/remark42/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > comment engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 433 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -74,14 +74,15 @@ Here's a brief summary:
 | forks | 66/100 |
 | stars | 80/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

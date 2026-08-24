@@ -1,6 +1,6 @@
 # kimai/kimai
 
-[![Stars](https://img.shields.io/github/stars/kimai/kimai?style=flat-square&color=yellow)](https://github.com/kimai/kimai/stargazers) [![Forks](https://img.shields.io/github/forks/kimai/kimai?style=flat-square&color=blue)](https://github.com/kimai/kimai/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kimai/kimai?style=flat-square&color=yellow)](https://github.com/kimai/kimai/stargazers) [![Forks](https://img.shields.io/github/forks/kimai/kimai?style=flat-square&color=blue)](https://github.com/kimai/kimai/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 775 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Product
+Payments
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ Kimai 是目前最受欢迎的开源工时追踪系统，能够帮助企业和�
 | forks | 72/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 20/100 |
 | adoption | 76/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

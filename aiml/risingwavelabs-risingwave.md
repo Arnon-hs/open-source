@@ -1,6 +1,6 @@
 # risingwavelabs/risingwave
 
-[![Stars](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&color=yellow)](https://github.com/risingwavelabs/risingwave/stargazers) [![Forks](https://img.shields.io/github/forks/risingwavelabs/risingwave?style=flat-square&color=blue)](https://github.com/risingwavelabs/risingwave/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&color=yellow)](https://github.com/risingwavelabs/risingwave/stargazers) [![Forks](https://img.shields.io/github/forks/risingwavelabs/risingwave?style=flat-square&color=blue)](https://github.com/risingwavelabs/risingwave/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9k |
 | 🍴 **Forks** | 765 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ risingwavelabs/risingwave：risingwavelabs/risingwave helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 66/100 |
+| production | 52/100 |
+| outlook | 59/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

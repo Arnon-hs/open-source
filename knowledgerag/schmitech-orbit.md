@@ -1,18 +1,18 @@
 # schmitech/orbit
 
-[![Stars](https://img.shields.io/github/stars/schmitech/orbit?style=flat-square&color=yellow)](https://github.com/schmitech/orbit/stargazers) [![Forks](https://img.shields.io/github/forks/schmitech/orbit?style=flat-square&color=blue)](https://github.com/schmitech/orbit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schmitech/orbit?style=flat-square&color=yellow)](https://github.com/schmitech/orbit/stargazers) [![Forks](https://img.shields.io/github/forks/schmitech/orbit?style=flat-square&color=blue)](https://github.com/schmitech/orbit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
-> Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.
+> The self-hosted AI gateway for production RAG across LLMs, databases, APIs, and files.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 287 |
-| 🍴 **Forks** | 51 |
+| ⭐ **Stars** | 261 |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · DevTools · Data
+Knowledge/RAG · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
 ### English
 
-schmitech/orbit: schmitech/orbit helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Orbit is a self‑hosted AI gateway that streamlines production‑grade Retrieval‑Augmented Generation (RAG) workflows across multiple large language models, databases, APIs, and file sources. It provides a unified backend for routing queries, managing context, and integrating diverse data connectors, enabling developers to build robust, scalable AI‑driven applications with minimal infrastructure overhead.
 
 ### Русский
 
-schmitech/orbit: open-source проект в категориях Knowledge/RAG, Automation, AI/ML, DevTools, Data. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+**Orbit** – это открытый self‑hosted шлюз для построения масштабируемых RAG‑систем, позволяющий объединять различные большие языковые модели, базы данных, API и файловые хранилища в единый конвейер. Проект предоставляет готовый backend и набор dev‑инструментов для быстрой интеграции, оркестрации запросов и управления контекстом в продакшн‑окружениях. Он подходит для разработчиков, желающих контролировать свои данные и модели без зависимости от сторонних сервисов.
 
 ### 中文
 
-schmitech/orbit：schmitech/orbit helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+schmitech/orbit：schmitech/orbit helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ schmitech/orbit：schmitech/orbit helps make internal knowledge searchable and u
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 287 GitHub stars
-- 51 forks
-- updated 2026-07-05
+- 261 GitHub stars
+- 46 forks
+- updated 2026-05-08
 - primary language: Python
 - 19 topics
 
@@ -65,18 +65,18 @@ schmitech/orbit：schmitech/orbit helps make internal knowledge searchable and u
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 77/100 |
-| integration | 78/100 |
-| production | 80/100 |
-| outlook | 87/100 |
-| adoption | 50/100 |
-| stars | 52/100 |
-| forks | 43/100 |
-| recency | 100/100 |
+| forks | 42/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/schmitech/orbit) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/schmitech/orbit) · [← Back to Knowledgerag](./README.md)</sub>

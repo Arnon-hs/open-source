@@ -1,6 +1,6 @@
 # naveenraj-17/synapse-ai
 
-[![Stars](https://img.shields.io/github/stars/naveenraj-17/synapse-ai?style=flat-square&color=yellow)](https://github.com/naveenraj-17/synapse-ai/stargazers) [![Forks](https://img.shields.io/github/forks/naveenraj-17/synapse-ai?style=flat-square&color=blue)](https://github.com/naveenraj-17/synapse-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/naveenraj-17/synapse-ai?style=flat-square&color=yellow)](https://github.com/naveenraj-17/synapse-ai/stargazers) [![Forks](https://img.shields.io/github/forks/naveenraj-17/synapse-ai?style=flat-square&color=blue)](https://github.com/naveenraj-17/synapse-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating AI agents powered by any LLM — local, cloud or CLIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ naveenraj-17/synapse-ai：naveenraj-17/synapse-ai helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 56/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 63/100 |
-| adoption | 35/100 |
-| stars | 36/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| stars | 36/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

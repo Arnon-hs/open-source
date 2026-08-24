@@ -1,6 +1,6 @@
 # arc53/DocsGPT
 
-[![Stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=flat-square&color=yellow)](https://github.com/arc53/DocsGPT/stargazers) [![Forks](https://img.shields.io/github/forks/arc53/DocsGPT?style=flat-square&color=blue)](https://github.com/arc53/DocsGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=flat-square&color=yellow)](https://github.com/arc53/DocsGPT/stargazers) [![Forks](https://img.shields.io/github/forks/arc53/DocsGPT?style=flat-square&color=blue)](https://github.com/arc53/DocsGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.9k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ arc53/DocsGPT：arc53/DocsGPT helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 74/100 |
+| production | 58/100 |
+| outlook | 67/100 |
 | adoption | 88/100 |
 | stars | 90/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # mozilla-ai/cq
 
-[![Stars](https://img.shields.io/github/stars/mozilla-ai/cq?style=flat-square&color=yellow)](https://github.com/mozilla-ai/cq/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla-ai/cq?style=flat-square&color=blue)](https://github.com/mozilla-ai/cq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla-ai/cq?style=flat-square&color=yellow)](https://github.com/mozilla-ai/cq/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla-ai/cq?style=flat-square&color=blue)](https://github.com/mozilla-ai/cq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Mozilla-ai/cq 的生产可用性为高，因为它有活跃的社区、良好的
 | forks | 45/100 |
 | stars | 66/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

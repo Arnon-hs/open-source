@@ -1,6 +1,6 @@
 # Berrysoft/tunet-rust
 
-[![Stars](https://img.shields.io/github/stars/Berrysoft/tunet-rust?style=flat-square&color=yellow)](https://github.com/Berrysoft/tunet-rust/stargazers) [![Forks](https://img.shields.io/github/forks/Berrysoft/tunet-rust?style=flat-square&color=blue)](https://github.com/Berrysoft/tunet-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Berrysoft/tunet-rust?style=flat-square&color=yellow)](https://github.com/Berrysoft/tunet-rust/stargazers) [![Forks](https://img.shields.io/github/forks/Berrysoft/tunet-rust?style=flat-square&color=blue)](https://github.com/Berrysoft/tunet-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 清华大学校园网 Rust 库与客户端
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ let client = tunet::Client::new("username", "password");
 | forks | 30/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

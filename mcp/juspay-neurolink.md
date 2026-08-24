@@ -1,6 +1,6 @@
 # juspay/neurolink
 
-[![Stars](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&color=yellow)](https://github.com/juspay/neurolink/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/neurolink?style=flat-square&color=blue)](https://github.com/juspay/neurolink/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&color=yellow)](https://github.com/juspay/neurolink/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/neurolink?style=flat-square&color=blue)](https://github.com/juspay/neurolink/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Streams are the future of AI powered by unlimited free tokens.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools · Database
+MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ juspay/neurolink 是一个基于 TypeScript 实现的开源协议框架，旨在
 | forks | 51/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # jonico/awesome-runners
 
-[![Stars](https://img.shields.io/github/stars/jonico/awesome-runners?style=flat-square&color=yellow)](https://github.com/jonico/awesome-runners/stargazers) [![Forks](https://img.shields.io/github/forks/jonico/awesome-runners?style=flat-square&color=blue)](https://github.com/jonico/awesome-runners/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonico/awesome-runners?style=flat-square&color=yellow)](https://github.com/jonico/awesome-runners/stargazers) [![Forks](https://img.shields.io/github/forks/jonico/awesome-runners?style=flat-square&color=blue)](https://github.com/jonico/awesome-runners/network) [![Language](https://img.shields.io/badge/lang-SCSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 862 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | SCSS |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jonico/awesome-runners：jonico/awesome-runners helps ship user-facing interface
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 57/100 |
 | stars | 62/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

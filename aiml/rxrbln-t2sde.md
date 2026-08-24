@@ -1,6 +1,6 @@
 # rxrbln/t2sde
 
-[![Stars](https://img.shields.io/github/stars/rxrbln/t2sde?style=flat-square&color=yellow)](https://github.com/rxrbln/t2sde/stargazers) [![Forks](https://img.shields.io/github/forks/rxrbln/t2sde?style=flat-square&color=blue)](https://github.com/rxrbln/t2sde/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rxrbln/t2sde?style=flat-square&color=yellow)](https://github.com/rxrbln/t2sde/stargazers) [![Forks](https://img.shields.io/github/forks/rxrbln/t2sde?style=flat-square&color=blue)](https://github.com/rxrbln/t2sde/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > T2 SDE Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 609 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rxrbln/t2sde：rxrbln/t2sde helps add AI capability without starting from a blan
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

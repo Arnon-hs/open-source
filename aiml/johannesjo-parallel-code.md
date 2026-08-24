@@ -1,6 +1,6 @@
 # johannesjo/parallel-code
 
-[![Stars](https://img.shields.io/github/stars/johannesjo/parallel-code?style=flat-square&color=yellow)](https://github.com/johannesjo/parallel-code/stargazers) [![Forks](https://img.shields.io/github/forks/johannesjo/parallel-code?style=flat-square&color=blue)](https://github.com/johannesjo/parallel-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johannesjo/parallel-code?style=flat-square&color=yellow)](https://github.com/johannesjo/parallel-code/stargazers) [![Forks](https://img.shields.io/github/forks/johannesjo/parallel-code?style=flat-square&color=blue)](https://github.com/johannesjo/parallel-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 611 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ johannesjo/parallel-code：johannesjo/parallel-code helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 56/100 |
-| stars | 59/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

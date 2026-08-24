@@ -1,6 +1,6 @@
 # caol64/omni-article-markdown
 
-[![Stars](https://img.shields.io/github/stars/caol64/omni-article-markdown?style=flat-square&color=yellow)](https://github.com/caol64/omni-article-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/caol64/omni-article-markdown?style=flat-square&color=blue)](https://github.com/caol64/omni-article-markdown/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caol64/omni-article-markdown?style=flat-square&color=yellow)](https://github.com/caol64/omni-article-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/caol64/omni-article-markdown?style=flat-square&color=blue)](https://github.com/caol64/omni-article-markdown/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 墨探 - 轻松将网页文章转换为 Markdown 格式的 CLI 工具。 Turn any web article into clean Markdown via CLI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Overall, Omni‑Article‑Markdown offers a quick win for teams that regularly i
 | forks | 31/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 43/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

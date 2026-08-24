@@ -1,6 +1,6 @@
 # warp-tech/warpgate
 
-[![Stars](https://img.shields.io/github/stars/warp-tech/warpgate?style=flat-square&color=yellow)](https://github.com/warp-tech/warpgate/stargazers) [![Forks](https://img.shields.io/github/forks/warp-tech/warpgate?style=flat-square&color=blue)](https://github.com/warp-tech/warpgate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/warp-tech/warpgate?style=flat-square&color=yellow)](https://github.com/warp-tech/warpgate/stargazers) [![Forks](https://img.shields.io/github/forks/warp-tech/warpgate?style=flat-square&color=blue)](https://github.com/warp-tech/warpgate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7k |
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Database · DevOps/Infra
+Backend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ warp-tech/warpgate 是一款基于 Rust 实现的 **全透明** Bastion / PAM �
 | forks | 61/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 20/100 |
 | adoption | 76/100 |
-| production | 82/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

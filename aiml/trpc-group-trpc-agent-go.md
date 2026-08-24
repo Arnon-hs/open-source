@@ -1,6 +1,6 @@
 # trpc-group/trpc-agent-go
 
-[![Stars](https://img.shields.io/github/stars/trpc-group/trpc-agent-go?style=flat-square&color=yellow)](https://github.com/trpc-group/trpc-agent-go/stargazers) [![Forks](https://img.shields.io/github/forks/trpc-group/trpc-agent-go?style=flat-square&color=blue)](https://github.com/trpc-group/trpc-agent-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trpc-group/trpc-agent-go?style=flat-square&color=yellow)](https://github.com/trpc-group/trpc-agent-go/stargazers) [![Forks](https://img.shields.io/github/forks/trpc-group/trpc-agent-go?style=flat-square&color=blue)](https://github.com/trpc-group/trpc-agent-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 129 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ trpc-group/trpc-agent-go：trpc-group/trpc-agent-go helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 66/100 |
+| production | 51/100 |
+| outlook | 59/100 |
 | adoption | 62/100 |
 | stars | 65/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

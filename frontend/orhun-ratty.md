@@ -1,6 +1,6 @@
 # orhun/ratty
 
-[![Stars](https://img.shields.io/github/stars/orhun/ratty?style=flat-square&color=yellow)](https://github.com/orhun/ratty/stargazers) [![Forks](https://img.shields.io/github/forks/orhun/ratty?style=flat-square&color=blue)](https://github.com/orhun/ratty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orhun/ratty?style=flat-square&color=yellow)](https://github.com/orhun/ratty/stargazers) [![Forks](https://img.shields.io/github/forks/orhun/ratty?style=flat-square&color=blue)](https://github.com/orhun/ratty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ratty is an open‑source terminal emulator that leverages GPU acceleration to r
 
 ### 中文
 
-orhun/ratty：orhun/ratty helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+orhun/ratty：orhun/ratty helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ orhun/ratty：orhun/ratty helps ship user-facing interfaces with less custom UI 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ orhun/ratty：orhun/ratty helps ship user-facing interfaces with less custom UI 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
+| usefulness | 58/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 49/100 |
 | adoption | 43/100 |
 | stars | 51/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

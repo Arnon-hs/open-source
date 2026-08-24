@@ -1,6 +1,6 @@
 # borchero/ducklake-sdk
 
-[![Stars](https://img.shields.io/github/stars/borchero/ducklake-sdk?style=flat-square&color=yellow)](https://github.com/borchero/ducklake-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/borchero/ducklake-sdk?style=flat-square&color=blue)](https://github.com/borchero/ducklake-sdk/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/borchero/ducklake-sdk?style=flat-square&color=yellow)](https://github.com/borchero/ducklake-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/borchero/ducklake-sdk?style=flat-square&color=blue)](https://github.com/borchero/ducklake-sdk/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Ducklake‑SDK 为跨语言直接访问 DuckLake 提供了便利的入口，能�
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 57/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 29/100 |
+| quality | 21/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 65/100 |
+| production | 38/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

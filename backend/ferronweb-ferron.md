@@ -1,6 +1,6 @@
 # ferronweb/ferron
 
-[![Stars](https://img.shields.io/github/stars/ferronweb/ferron?style=flat-square&color=yellow)](https://github.com/ferronweb/ferron/stargazers) [![Forks](https://img.shields.io/github/forks/ferronweb/ferron?style=flat-square&color=blue)](https://github.com/ferronweb/ferron/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ferronweb/ferron?style=flat-square&color=yellow)](https://github.com/ferronweb/ferron/stargazers) [![Forks](https://img.shields.io/github/forks/ferronweb/ferron?style=flat-square&color=blue)](https://github.com/ferronweb/ferron/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, memory-safe web server written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ferron — это высокопроизводительный веб‑сер
 
 ### 中文
 
-ferronweb/ferron：ferronweb/ferron helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ferronweb/ferron：ferronweb/ferron helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ferronweb/ferron：ferronweb/ferron helps teams reuse service infrastructure ins
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ ferronweb/ferron：ferronweb/ferron helps teams reuse service infrastructure ins
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 64/100 |
-| stars | 70/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 70/100 |
 | topics | 88/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

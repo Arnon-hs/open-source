@@ -1,6 +1,6 @@
 # nushell/reedline
 
-[![Stars](https://img.shields.io/github/stars/nushell/reedline?style=flat-square&color=yellow)](https://github.com/nushell/reedline/stargazers) [![Forks](https://img.shields.io/github/forks/nushell/reedline?style=flat-square&color=blue)](https://github.com/nushell/reedline/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nushell/reedline?style=flat-square&color=yellow)](https://github.com/nushell/reedline/stargazers) [![Forks](https://img.shields.io/github/forks/nushell/reedline?style=flat-square&color=blue)](https://github.com/nushell/reedline/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A feature-rich line editor - powering Nushell
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 765 |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Nushell’s Reedline is a powerful, extensible line‑editing library written in
 
 ### 中文
 
-nushell/reedline：nushell/reedline may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nushell/reedline：nushell/reedline may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ nushell/reedline：nushell/reedline may be useful when its README and activity m
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ nushell/reedline：nushell/reedline may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 61/100 |
-| stars | 61/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 38/100 |
+| outlook | 44/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # RevenueCat/purchases-flutter
 
-[![Stars](https://img.shields.io/github/stars/RevenueCat/purchases-flutter?style=flat-square&color=yellow)](https://github.com/RevenueCat/purchases-flutter/stargazers) [![Forks](https://img.shields.io/github/forks/RevenueCat/purchases-flutter?style=flat-square&color=blue)](https://github.com/RevenueCat/purchases-flutter/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RevenueCat/purchases-flutter?style=flat-square&color=yellow)](https://github.com/RevenueCat/purchases-flutter/stargazers) [![Forks](https://img.shields.io/github/forks/RevenueCat/purchases-flutter?style=flat-square&color=blue)](https://github.com/RevenueCat/purchases-flutter/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Flutter plugin for in-app purchases and subscriptions. Supports iOS, macOS and Android.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 706 |
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ RevenueCat/purchases-flutter：RevenueCat/purchases-flutter helps integrate mone
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 60/100 |
-| stars | 61/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 88/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

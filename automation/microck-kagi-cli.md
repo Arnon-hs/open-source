@@ -1,6 +1,6 @@
 # Microck/kagi-cli
 
-[![Stars](https://img.shields.io/github/stars/Microck/kagi-cli?style=flat-square&color=yellow)](https://github.com/Microck/kagi-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Microck/kagi-cli?style=flat-square&color=blue)](https://github.com/Microck/kagi-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Microck/kagi-cli?style=flat-square&color=yellow)](https://github.com/Microck/kagi-cli/stargazers) [![Forks](https://img.shields.io/github/forks/Microck/kagi-cli?style=flat-square&color=blue)](https://github.com/Microck/kagi-cli/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > terminal CLI for Kagi that gives you command-line access to search, lenses, assistant, summarization, feeds, and paid API commands.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools
+Automation · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Microck/kagi-cli 是一款基于 Rust 的终端工具，提供对 Kagi 搜索引
 | forks | 28/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

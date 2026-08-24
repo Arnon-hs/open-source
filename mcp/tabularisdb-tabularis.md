@@ -1,41 +1,41 @@
 # TabularisDB/tabularis
 
-[![Stars](https://img.shields.io/github/stars/TabularisDB/tabularis?style=flat-square&color=yellow)](https://github.com/TabularisDB/tabularis/stargazers) [![Forks](https://img.shields.io/github/forks/TabularisDB/tabularis?style=flat-square&color=blue)](https://github.com/TabularisDB/tabularis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TabularisDB/tabularis?style=flat-square&color=yellow)](https://github.com/TabularisDB/tabularis/stargazers) [![Forks](https://img.shields.io/github/forks/TabularisDB/tabularis?style=flat-square&color=blue)](https://github.com/TabularisDB/tabularis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
-> Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
+> A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 225 |
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 85 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-agent` `ai-assistant` `cross-platform` `database-client` `database-gui` `database-tool` `er-diagram` `mariadb` `mcp` `mcp-server` `mysql` `postgresql`
+`ai-agent` `ai-assistant` `cross-platform` `database-client` `database-gui` `database-management` `database-tool` `developer-tools` `er-diagram` `mcp` `mysql` `postgresql`
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Frontend · DevTools · Database
 
 ## 📝 Summary
 
 ### English
 
-TabularisDB/tabularis: TabularisDB/tabularis helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TabularisDB/tabularis: TabularisDB/tabularis helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-TabularisDB/tabularis: open-source проект в категориях MCP, AI/ML, Frontend, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+TabularisDB/tabularis: open-source проект в категориях MCP, AI/ML, Frontend, DevTools, Database. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to rea
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 3550 GitHub stars
-- 225 forks
-- updated 2026-07-05
+- 1290 GitHub stars
+- 85 forks
+- updated 2026-05-07
 - primary language: TypeScript
 - 20 topics
 
@@ -65,18 +65,18 @@ TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to rea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 87/100 |
-| integration | 78/100 |
-| production | 83/100 |
-| outlook | 93/100 |
-| adoption | 71/100 |
-| stars | 76/100 |
-| forks | 59/100 |
-| recency | 100/100 |
+| forks | 48/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/TabularisDB/tabularis) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/TabularisDB/tabularis) · [← Back to Mcp](./README.md)</sub>

@@ -1,6 +1,6 @@
 # slowql/slowql
 
-[![Stars](https://img.shields.io/github/stars/slowql/slowql?style=flat-square&color=yellow)](https://github.com/slowql/slowql/stargazers) [![Forks](https://img.shields.io/github/forks/slowql/slowql?style=flat-square&color=blue)](https://github.com/slowql/slowql/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slowql/slowql?style=flat-square&color=yellow)](https://github.com/slowql/slowql/stargazers) [![Forks](https://img.shields.io/github/forks/slowql/slowql?style=flat-square&color=blue)](https://github.com/slowql/slowql/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > SQL static analyzer for performance, security, compliance and  cost. 272 rules. Completely offline. Works in CI pipelines.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data · Database · Security
+AI/ML · DevTools · Database · Security
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ slowql/slowql 是一款离线运行的 SQL 静态分析工具，内置 272 条�
 | forks | 25/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

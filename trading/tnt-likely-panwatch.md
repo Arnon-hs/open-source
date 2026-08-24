@@ -1,6 +1,6 @@
 # TNT-Likely/PanWatch
 
-[![Stars](https://img.shields.io/github/stars/TNT-Likely/PanWatch?style=flat-square&color=yellow)](https://github.com/TNT-Likely/PanWatch/stargazers) [![Forks](https://img.shields.io/github/forks/TNT-Likely/PanWatch?style=flat-square&color=blue)](https://github.com/TNT-Likely/PanWatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TNT-Likely/PanWatch?style=flat-square&color=yellow)](https://github.com/TNT-Likely/PanWatch/stargazers) [![Forks](https://img.shields.io/github/forks/TNT-Likely/PanWatch?style=flat-square&color=blue)](https://github.com/TNT-Likely/PanWatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 152 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · AI/ML · Backend
+Trading · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ TNT‑Likely/PanWatch 是一款自托管的 AI 盯盘助手，基于 TradingAgen
 | forks | 55/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Avarok-Cybersecurity/atlas
 
-[![Stars](https://img.shields.io/github/stars/Avarok-Cybersecurity/atlas?style=flat-square&color=yellow)](https://github.com/Avarok-Cybersecurity/atlas/stargazers) [![Forks](https://img.shields.io/github/forks/Avarok-Cybersecurity/atlas?style=flat-square&color=blue)](https://github.com/Avarok-Cybersecurity/atlas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Avarok-Cybersecurity/atlas?style=flat-square&color=yellow)](https://github.com/Avarok-Cybersecurity/atlas/stargazers) [![Forks](https://img.shields.io/github/forks/Avarok-Cybersecurity/atlas?style=flat-square&color=blue)](https://github.com/Avarok-Cybersecurity/atlas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Rust Inference Engine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Security
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Avarok‑Cybersecurity/atlas is a pure‑Rust inference engine designed for high
 
 ### 中文
 
-Avarok-Cybersecurity/atlas：Avarok-Cybersecurity/atlas helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Avarok-Cybersecurity/atlas：Avarok-Cybersecurity/atlas helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Avarok-Cybersecurity/atlas：Avarok-Cybersecurity/atlas helps add AI capability 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Avarok-Cybersecurity/atlas：Avarok-Cybersecurity/atlas helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 42/100 |
-| stars | 47/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| stars | 47/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

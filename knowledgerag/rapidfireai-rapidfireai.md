@@ -1,6 +1,6 @@
 # RapidFireAI/rapidfireai
 
-[![Stars](https://img.shields.io/github/stars/RapidFireAI/rapidfireai?style=flat-square&color=yellow)](https://github.com/RapidFireAI/rapidfireai/stargazers) [![Forks](https://img.shields.io/github/forks/RapidFireAI/rapidfireai?style=flat-square&color=blue)](https://github.com/RapidFireAI/rapidfireai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RapidFireAI/rapidfireai?style=flat-square&color=yellow)](https://github.com/RapidFireAI/rapidfireai/stargazers) [![Forks](https://img.shields.io/github/forks/RapidFireAI/rapidfireai?style=flat-square&color=blue)](https://github.com/RapidFireAI/rapidfireai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > RapidFire AI: Rapid AI Customization from RAG to Fine-Tuning
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend · Education
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ RapidFireAI（RapidFire AI）是一套面向企业内部知识的检索与生成
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # wch/r-source
 
-[![Stars](https://img.shields.io/github/stars/wch/r-source?style=flat-square&color=yellow)](https://github.com/wch/r-source/stargazers) [![Forks](https://img.shields.io/github/forks/wch/r-source?style=flat-square&color=blue)](https://github.com/wch/r-source/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wch/r-source?style=flat-square&color=yellow)](https://github.com/wch/r-source/stargazers) [![Forks](https://img.shields.io/github/forks/wch/r-source?style=flat-square&color=blue)](https://github.com/wch/r-source/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 328 |
 | 💻 **Language** | R |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **wch/r-source** project provides a read‑only, hourly‑updated mirror of 
 
 ### 中文
 
-wch/r-source：wch/r-source helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wch/r-source：wch/r-source helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ wch/r-source：wch/r-source helps ship user-facing interfaces with less custom U
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ wch/r-source：wch/r-source helps ship user-facing interfaces with less custom U
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 65/100 |
 | stars | 66/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

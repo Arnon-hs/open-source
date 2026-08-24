@@ -1,6 +1,6 @@
 # liyedanpdx/reddit-ai-trends
 
-[![Stars](https://img.shields.io/github/stars/liyedanpdx/reddit-ai-trends?style=flat-square&color=yellow)](https://github.com/liyedanpdx/reddit-ai-trends/stargazers) [![Forks](https://img.shields.io/github/forks/liyedanpdx/reddit-ai-trends?style=flat-square&color=blue)](https://github.com/liyedanpdx/reddit-ai-trends/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liyedanpdx/reddit-ai-trends?style=flat-square&color=yellow)](https://github.com/liyedanpdx/reddit-ai-trends/stargazers) [![Forks](https://img.shields.io/github/forks/liyedanpdx/reddit-ai-trends?style=flat-square&color=blue)](https://github.com/liyedanpdx/reddit-ai-trends/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Stay ahead of AI trends with automated Reddit insights! 🚀 This tool scans AI-related Reddit communities in English & Chinese, using Reddit Official API, DeepSeek R1 by OpenRouter to analyze posts, summarize key discussions, and track trends. Daily rankings hot topics—catch emerging trends before they go mainstream! (Updated every 6 AM CDT)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 834 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ liyedanpdx/reddit‑ai‑trends 能够自动抓取 Reddit 上的 AI 相关社区
 | forks | 48/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

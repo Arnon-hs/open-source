@@ -1,6 +1,6 @@
 # malisper/pgrust
 
-[![Stars](https://img.shields.io/github/stars/malisper/pgrust?style=flat-square&color=yellow)](https://github.com/malisper/pgrust/stargazers) [![Forks](https://img.shields.io/github/forks/malisper/pgrust?style=flat-square&color=blue)](https://github.com/malisper/pgrust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/malisper/pgrust?style=flat-square&color=yellow)](https://github.com/malisper/pgrust/stargazers) [![Forks](https://img.shields.io/github/forks/malisper/pgrust?style=flat-square&color=blue)](https://github.com/malisper/pgrust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,14 +122,15 @@ malisper/pgrust 是一个用 Rust 编写的 PostgreSQL 客户端/库，提供低
 | forks | 17/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 42/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 64/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

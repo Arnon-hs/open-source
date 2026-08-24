@@ -1,6 +1,6 @@
 # rootcause-rs/rootcause
 
-[![Stars](https://img.shields.io/github/stars/rootcause-rs/rootcause?style=flat-square&color=yellow)](https://github.com/rootcause-rs/rootcause/stargazers) [![Forks](https://img.shields.io/github/forks/rootcause-rs/rootcause?style=flat-square&color=blue)](https://github.com/rootcause-rs/rootcause/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rootcause-rs/rootcause?style=flat-square&color=yellow)](https://github.com/rootcause-rs/rootcause/stargazers) [![Forks](https://img.shields.io/github/forks/rootcause-rs/rootcause?style=flat-square&color=blue)](https://github.com/rootcause-rs/rootcause/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A flexible, ergonomic, and inspectable error reporting library for Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ rootcause-rs/rootcause 的生产可用性为中等（Medium）。它可以用于
 | forks | 30/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

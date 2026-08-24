@@ -1,6 +1,6 @@
 # node9-ai/node9-proxy
 
-[![Stars](https://img.shields.io/github/stars/node9-ai/node9-proxy?style=flat-square&color=yellow)](https://github.com/node9-ai/node9-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/node9-ai/node9-proxy?style=flat-square&color=blue)](https://github.com/node9-ai/node9-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/node9-ai/node9-proxy?style=flat-square&color=yellow)](https://github.com/node9-ai/node9-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/node9-ai/node9-proxy?style=flat-square&color=blue)](https://github.com/node9-ai/node9-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomous AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ node9-ai/node9-proxy：node9-ai/node9-proxy helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 94/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 42/100 |
 | stars | 47/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

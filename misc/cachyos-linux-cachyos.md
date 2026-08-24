@@ -1,6 +1,6 @@
 # CachyOS/linux-cachyos
 
-[![Stars](https://img.shields.io/github/stars/CachyOS/linux-cachyos?style=flat-square&color=yellow)](https://github.com/CachyOS/linux-cachyos/stargazers) [![Forks](https://img.shields.io/github/forks/CachyOS/linux-cachyos?style=flat-square&color=blue)](https://github.com/CachyOS/linux-cachyos/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CachyOS/linux-cachyos?style=flat-square&color=yellow)](https://github.com/CachyOS/linux-cachyos/stargazers) [![Forks](https://img.shields.io/github/forks/CachyOS/linux-cachyos?style=flat-square&color=blue)](https://github.com/CachyOS/linux-cachyos/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Archlinux Kernel based on different schedulers and some other performance improvements.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-CachyOS/linux-cachyos: CachyOS/linux-cachyos may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CachyOS/linux-cachyos: CachyOS/linux-cachyos may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-CachyOS/linux-cachyos: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+CachyOS/linux-cachyos: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-CachyOS/linux-cachyos：CachyOS/linux-cachyos may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CachyOS/linux-cachyos：CachyOS/linux-cachyos may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ CachyOS/linux-cachyos：CachyOS/linux-cachyos may be useful when its README and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ CachyOS/linux-cachyos：CachyOS/linux-cachyos may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 76/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

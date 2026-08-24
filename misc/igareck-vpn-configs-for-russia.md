@@ -1,6 +1,6 @@
 # igareck/vpn-configs-for-russia
 
-[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat-square&color=yellow)](https://github.com/igareck/vpn-configs-for-russia/stargazers) [![Forks](https://img.shields.io/github/forks/igareck/vpn-configs-for-russia?style=flat-square&color=blue)](https://github.com/igareck/vpn-configs-for-russia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat-square&color=yellow)](https://github.com/igareck/vpn-configs-for-russia/stargazers) [![Forks](https://img.shields.io/github/forks/igareck/vpn-configs-for-russia?style=flat-square&color=blue)](https://github.com/igareck/vpn-configs-for-russia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🗽Бесплатные и проверенные VPN конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN configurations that work in Russia ⚪ Whitelists bypass
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ igareck/vpn-configs-for-russia：igareck/vpn-configs-for-russia may be useful wh
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 72/100 |
-| stars | 78/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

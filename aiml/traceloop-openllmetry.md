@@ -1,6 +1,6 @@
 # traceloop/openllmetry
 
-[![Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=flat-square&color=yellow)](https://github.com/traceloop/openllmetry/stargazers) [![Forks](https://img.shields.io/github/forks/traceloop/openllmetry?style=flat-square&color=blue)](https://github.com/traceloop/openllmetry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=flat-square&color=yellow)](https://github.com/traceloop/openllmetry/stargazers) [![Forks](https://img.shields.io/github/forks/traceloop/openllmetry?style=flat-square&color=blue)](https://github.com/traceloop/openllmetry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 951 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ traceloop/openllmetry: traceloop/openllmetry helps add AI capability without sta
 
 ### Русский
 
-traceloop/openllmetry: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+traceloop/openllmetry: open-source проект в категориях AI/ML, Observability. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ traceloop/openllmetry：traceloop/openllmetry helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 80/100 |
-| stars | 82/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

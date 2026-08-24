@@ -1,6 +1,6 @@
 # apps/claude
 
-[![Stars](https://img.shields.io/github/stars/apps/claude?style=flat-square&color=yellow)](https://github.com/apps/claude/stargazers) [![Forks](https://img.shields.io/github/forks/apps/claude?style=flat-square&color=blue)](https://github.com/apps/claude/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apps/claude?style=flat-square&color=yellow)](https://github.com/apps/claude/stargazers) [![Forks](https://img.shields.io/github/forks/apps/claude?style=flat-square&color=blue)](https://github.com/apps/claude/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag github): From Prompt to Pull Request: Using Claude Design, Claude Code, and GitHub Together
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 33/100 |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | devto |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design · Product
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ From Prompt to Pull Request: Using Claude Design, Claude Code, and GitHub Togeth
 
 ### Русский
 
-From Prompt to Pull Request: Using Claude Design, Claude Code, and GitHub Together: open-source проект в категориях AI/ML, Design, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+From Prompt to Pull Request: Using Claude Design, Claude Code, and GitHub Together: open-source проект в категориях AI/ML, Design. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -62,16 +62,16 @@ From Prompt to Pull Request: Using Claude Design, Claude Code, and GitHub Togeth
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 30/100 |
-| integration | 30/100 |
-| production | 39/100 |
-| outlook | 36/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 29/100 |
+| quality | 25/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 32/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
 
 ---

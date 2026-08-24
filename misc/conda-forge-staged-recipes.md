@@ -1,6 +1,6 @@
 # conda-forge/staged-recipes
 
-[![Stars](https://img.shields.io/github/stars/conda-forge/staged-recipes?style=flat-square&color=yellow)](https://github.com/conda-forge/staged-recipes/stargazers) [![Forks](https://img.shields.io/github/forks/conda-forge/staged-recipes?style=flat-square&color=blue)](https://github.com/conda-forge/staged-recipes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/conda-forge/staged-recipes?style=flat-square&color=yellow)](https://github.com/conda-forge/staged-recipes/stargazers) [![Forks](https://img.shields.io/github/forks/conda-forge/staged-recipes?style=flat-square&color=blue)](https://github.com/conda-forge/staged-recipes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A place to submit conda recipes before they become fully fledged conda-forge feedstocks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 821 |
 | 🍴 **Forks** | 6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **staged-recipes** repository is a collaborative staging area where contribu
 
 ### 中文
 
-conda-forge/staged-recipes：conda-forge/staged-recipes may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+conda-forge/staged-recipes：conda-forge/staged-recipes may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ conda-forge/staged-recipes：conda-forge/staged-recipes may be useful when its R
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ conda-forge/staged-recipes：conda-forge/staged-recipes may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 71/100 |
-| stars | 62/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 25/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

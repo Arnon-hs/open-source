@@ -1,6 +1,6 @@
 # gto76/python-cheatsheet
 
-[![Stars](https://img.shields.io/github/stars/gto76/python-cheatsheet?style=flat-square&color=yellow)](https://github.com/gto76/python-cheatsheet/stargazers) [![Forks](https://img.shields.io/github/forks/gto76/python-cheatsheet?style=flat-square&color=blue)](https://github.com/gto76/python-cheatsheet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gto76/python-cheatsheet?style=flat-square&color=yellow)](https://github.com/gto76/python-cheatsheet/stargazers) [![Forks](https://img.shields.io/github/forks/gto76/python-cheatsheet?style=flat-square&color=blue)](https://github.com/gto76/python-cheatsheet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Comprehensive Python Cheatsheet
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38.4k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ The project scores high on production readiness: it shows recent activity, a lar
 | forks | 96/100 |
 | stars | 98/100 |
 | topics | 50/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
 | adoption | 97/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

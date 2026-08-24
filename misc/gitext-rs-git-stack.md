@@ -1,6 +1,6 @@
 # gitext-rs/git-stack
 
-[![Stars](https://img.shields.io/github/stars/gitext-rs/git-stack?style=flat-square&color=yellow)](https://github.com/gitext-rs/git-stack/stargazers) [![Forks](https://img.shields.io/github/forks/gitext-rs/git-stack?style=flat-square&color=blue)](https://github.com/gitext-rs/git-stack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitext-rs/git-stack?style=flat-square&color=yellow)](https://github.com/gitext-rs/git-stack/stargazers) [![Forks](https://img.shields.io/github/forks/gitext-rs/git-stack?style=flat-square&color=blue)](https://github.com/gitext-rs/git-stack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Stacked branch management for Git
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 645 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ gitext-rs/git-stack 提供了基于 Git 的分层分支管理工具，帮助团�
 | forks | 35/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

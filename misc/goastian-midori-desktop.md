@@ -1,6 +1,6 @@
 # goastian/midori-desktop
 
-[![Stars](https://img.shields.io/github/stars/goastian/midori-desktop?style=flat-square&color=yellow)](https://github.com/goastian/midori-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/goastian/midori-desktop?style=flat-square&color=blue)](https://github.com/goastian/midori-desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goastian/midori-desktop?style=flat-square&color=yellow)](https://github.com/goastian/midori-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/goastian/midori-desktop?style=flat-square&color=blue)](https://github.com/goastian/midori-desktop/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Midori for Windows, Linux & Mac, web browser focused on lightness and privacy.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ Midori 是一款跨平台（Windows、Linux、macOS）的轻量级网页浏览�
 | forks | 33/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

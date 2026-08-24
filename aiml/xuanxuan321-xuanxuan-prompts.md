@@ -1,6 +1,6 @@
 # xuanxuan321/xuanxuan-prompts
 
-[![Stars](https://img.shields.io/github/stars/xuanxuan321/xuanxuan-prompts?style=flat-square&color=yellow)](https://github.com/xuanxuan321/xuanxuan-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/xuanxuan321/xuanxuan-prompts?style=flat-square&color=blue)](https://github.com/xuanxuan321/xuanxuan-prompts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xuanxuan321/xuanxuan-prompts?style=flat-square&color=yellow)](https://github.com/xuanxuan321/xuanxuan-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/xuanxuan321/xuanxuan-prompts?style=flat-square&color=blue)](https://github.com/xuanxuan321/xuanxuan-prompts/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ xuanxuan-prompts 的生产可用性为中等（Medium）。它适合用于原型
 | forks | 32/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 66/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

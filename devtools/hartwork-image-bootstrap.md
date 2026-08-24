@@ -1,6 +1,6 @@
 # hartwork/image-bootstrap
 
-[![Stars](https://img.shields.io/github/stars/hartwork/image-bootstrap?style=flat-square&color=yellow)](https://github.com/hartwork/image-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/hartwork/image-bootstrap?style=flat-square&color=blue)](https://github.com/hartwork/image-bootstrap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hartwork/image-bootstrap?style=flat-square&color=yellow)](https://github.com/hartwork/image-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/hartwork/image-bootstrap?style=flat-square&color=blue)](https://github.com/hartwork/image-bootstrap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > :partly_sunny: Creates Linux chroots and bootable virtual machine images; command line tool (Python 3)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 280 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ hartwork/image-bootstrap：hartwork/image-bootstrap helps engineers save time in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

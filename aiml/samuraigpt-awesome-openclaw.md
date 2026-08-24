@@ -1,6 +1,6 @@
 # SamurAIGPT/awesome-openclaw
 
-[![Stars](https://img.shields.io/github/stars/SamurAIGPT/awesome-openclaw?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/awesome-openclaw/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/awesome-openclaw?style=flat-square&color=blue)](https://github.com/SamurAIGPT/awesome-openclaw/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SamurAIGPT/awesome-openclaw?style=flat-square&color=yellow)](https://github.com/SamurAIGPT/awesome-openclaw/stargazers) [![Forks](https://img.shields.io/github/forks/SamurAIGPT/awesome-openclaw?style=flat-square&color=blue)](https://github.com/SamurAIGPT/awesome-openclaw/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 910 |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ SamurAIGPT/awesome-openclaw：SamurAIGPT/awesome-openclaw helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 69/100 |
+| production | 51/100 |
+| outlook | 62/100 |
 | adoption | 61/100 |
 | stars | 63/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

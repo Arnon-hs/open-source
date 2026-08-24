@@ -1,6 +1,6 @@
 # ax-llm/ax
 
-[![Stars](https://img.shields.io/github/stars/ax-llm/ax?style=flat-square&color=yellow)](https://github.com/ax-llm/ax/stargazers) [![Forks](https://img.shields.io/github/forks/ax-llm/ax?style=flat-square&color=blue)](https://github.com/ax-llm/ax/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ax-llm/ax?style=flat-square&color=yellow)](https://github.com/ax-llm/ax/stargazers) [![Forks](https://img.shields.io/github/forks/ax-llm/ax?style=flat-square&color=blue)](https://github.com/ax-llm/ax/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The pretty much "official" DSPy framework for Typescript
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ ax-llm/ax：ax-llm/ax helps turn isolated prompts and tools into repeatable agen
 | forks | 56/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tmux/tmux
 
-[![Stars](https://img.shields.io/github/stars/tmux/tmux?style=flat-square&color=yellow)](https://github.com/tmux/tmux/stargazers) [![Forks](https://img.shields.io/github/forks/tmux/tmux?style=flat-square&color=blue)](https://github.com/tmux/tmux/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tmux/tmux?style=flat-square&color=yellow)](https://github.com/tmux/tmux/stargazers) [![Forks](https://img.shields.io/github/forks/tmux/tmux?style=flat-square&color=blue)](https://github.com/tmux/tmux/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > tmux source code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47.4k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ tmux 是一个基于终端的多路复用器，使用 C 语言实现，拥有超
 | forks | 86/100 |
 | stars | 99/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 96/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

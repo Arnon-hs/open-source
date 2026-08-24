@@ -1,6 +1,6 @@
 # EveryInc/hands-on-deck
 
-[![Stars](https://img.shields.io/github/stars/EveryInc/hands-on-deck?style=flat-square&color=yellow)](https://github.com/EveryInc/hands-on-deck/stargazers) [![Forks](https://img.shields.io/github/forks/EveryInc/hands-on-deck?style=flat-square&color=blue)](https://github.com/EveryInc/hands-on-deck/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EveryInc/hands-on-deck?style=flat-square&color=yellow)](https://github.com/EveryInc/hands-on-deck/stargazers) [![Forks](https://img.shields.io/github/forks/EveryInc/hands-on-deck?style=flat-square&color=blue)](https://github.com/EveryInc/hands-on-deck/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-native PowerPoint manipulation — one CLI lets AI agents inspect, edit, create, and verify .pptx files through atomic JSON patches. Packaged as an Agent Skill.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ EveryInc/hands‑on‑deck 是一个面向 AI 代理的 PowerPoint 操作库，�
 | forks | 24/100 |
 | stars | 44/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

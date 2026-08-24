@@ -57,21 +57,21 @@ FFmpeg/FFmpeg：FFmpeg/FFmpeg may be useful when its README and activity match a
 - primary language: C
 - 15 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
-| integration | 30/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| quality | 80/100 |
+| integration | 46/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

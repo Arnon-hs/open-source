@@ -1,6 +1,6 @@
 # redpanda-data/console
 
-[![Stars](https://img.shields.io/github/stars/redpanda-data/console?style=flat-square&color=yellow)](https://github.com/redpanda-data/console/stargazers) [![Forks](https://img.shields.io/github/forks/redpanda-data/console?style=flat-square&color=blue)](https://github.com/redpanda-data/console/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/redpanda-data/console?style=flat-square&color=yellow)](https://github.com/redpanda-data/console/stargazers) [![Forks](https://img.shields.io/github/forks/redpanda-data/console?style=flat-square&color=blue)](https://github.com/redpanda-data/console/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 418 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ redpanda-data/console：redpanda-data/console helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 61/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

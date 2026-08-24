@@ -1,6 +1,6 @@
 # CyberSource/cybersource-sdk-php
 
-[![Stars](https://img.shields.io/github/stars/CyberSource/cybersource-sdk-php?style=flat-square&color=yellow)](https://github.com/CyberSource/cybersource-sdk-php/stargazers) [![Forks](https://img.shields.io/github/forks/CyberSource/cybersource-sdk-php?style=flat-square&color=blue)](https://github.com/CyberSource/cybersource-sdk-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CyberSource/cybersource-sdk-php?style=flat-square&color=yellow)](https://github.com/CyberSource/cybersource-sdk-php/stargazers) [![Forks](https://img.shields.io/github/forks/CyberSource/cybersource-sdk-php?style=flat-square&color=blue)](https://github.com/CyberSource/cybersource-sdk-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > PHP SDK for Cybersource SOAP Toolkit API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-03 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend · DevTools
+Payments · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ CyberSource/cybersource-sdk-php 是一套面向 PHP 的官方 SDK，封装了 Cy
 | forks | 44/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 63/100 |
-| recency | 60/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 65/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

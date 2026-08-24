@@ -1,6 +1,6 @@
 # Build5Nines/SharpVector
 
-[![Stars](https://img.shields.io/github/stars/Build5Nines/SharpVector?style=flat-square&color=yellow)](https://github.com/Build5Nines/SharpVector/stargazers) [![Forks](https://img.shields.io/github/forks/Build5Nines/SharpVector?style=flat-square&color=blue)](https://github.com/Build5Nines/SharpVector/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Build5Nines/SharpVector?style=flat-square&color=yellow)](https://github.com/Build5Nines/SharpVector/stargazers) [![Forks](https://img.shields.io/github/forks/Build5Nines/SharpVector?style=flat-square&color=blue)](https://github.com/Build5Nines/SharpVector/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight, In-memory, Semantic Search, Text Vector Database to embed in any .NET Application
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Build5Nines/SharpVector — это лёгкая, полностью in‑memor
 
 ### 中文
 
-Build5Nines/SharpVector：Build5Nines/SharpVector helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Build5Nines/SharpVector：Build5Nines/SharpVector helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Build5Nines/SharpVector：Build5Nines/SharpVector helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ Build5Nines/SharpVector：Build5Nines/SharpVector helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
+| production | 45/100 |
+| outlook | 47/100 |
 | adoption | 40/100 |
 | stars | 45/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

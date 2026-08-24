@@ -1,6 +1,6 @@
 # drhelius/Geargrafx
 
-[![Stars](https://img.shields.io/github/stars/drhelius/Geargrafx?style=flat-square&color=yellow)](https://github.com/drhelius/Geargrafx/stargazers) [![Forks](https://img.shields.io/github/forks/drhelius/Geargrafx?style=flat-square&color=blue)](https://github.com/drhelius/Geargrafx/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/drhelius/Geargrafx?style=flat-square&color=yellow)](https://github.com/drhelius/Geargrafx/stargazers) [![Forks](https://img.shields.io/github/forks/drhelius/Geargrafx?style=flat-square&color=blue)](https://github.com/drhelius/Geargrafx/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Geargrafx is an open‑source emulator that faithfully reproduces the PC Engine/
 
 ### 中文
 
-drhelius/Geargrafx：drhelius/Geargrafx helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+drhelius/Geargrafx：drhelius/Geargrafx helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ drhelius/Geargrafx：drhelius/Geargrafx helps teams reuse service infrastructure
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ drhelius/Geargrafx：drhelius/Geargrafx helps teams reuse service infrastructure
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 48/100 |
+| outlook | 50/100 |
 | adoption | 44/100 |
 | stars | 50/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

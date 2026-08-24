@@ -1,41 +1,41 @@
 # jgravelle/jcodemunch-mcp
 
-[![Stars](https://img.shields.io/github/stars/jgravelle/jcodemunch-mcp?style=flat-square&color=yellow)](https://github.com/jgravelle/jcodemunch-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jgravelle/jcodemunch-mcp?style=flat-square&color=blue)](https://github.com/jgravelle/jcodemunch-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jgravelle/jcodemunch-mcp?style=flat-square&color=yellow)](https://github.com/jgravelle/jcodemunch-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/jgravelle/jcodemunch-mcp?style=flat-square&color=blue)](https://github.com/jgravelle/jcodemunch-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved.
+> The leading, most token-efficient MCP server for GitHub source code exploration via tree-sitter AST parsing
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 300 |
+| ⭐ **Stars** | 1.8k |
+| 🍴 **Forks** | 287 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-coding` `ai-tools` `ast` `claude` `claude-code` `code-intelligence` `code-retrieval` `context-window` `cursor` `developer-tools` `github` `llm`
+`claude` `claude-code` `serena` `token` `token-savings` `tokens`
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP
 
 ## 📝 Summary
 
 ### English
 
-jgravelle/jcodemunch-mcp: jgravelle/jcodemunch-mcp helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jcodemunch‑MCP is a high‑performance, token‑efficient MCP (Meta‑Code‑Protocol) server designed for exploring GitHub source‑code repositories. It leverages tree‑sitter’s abstract syntax tree parsing to provide fast, language‑agnostic code navigation and analysis, making it ideal for backend services that need precise, low‑overhead code insight.
 
 ### Русский
 
-jgravelle/jcodemunch-mcp: open-source проект в категориях MCP, Knowledge/RAG, AI/ML, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+jcodemunch‑MCP — это высокопроизводительный open‑source сервер, предназначенный для эффективного анализа и поиска по исходному коду на GitHub. Он использует парсер tree‑sitter для построения AST, обеспечивая максимально экономное использование токенов при запросах и позволяя быстро извлекать нужные фрагменты кода. Проект ориентирован на backend‑разработку и интеграцию в CI/CD‑конвейеры.
 
 ### 中文
 
-jgravelle/jcodemunch-mcp：jgravelle/jcodemunch-mcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jgravelle/jcodemunch-mcp：jgravelle/jcodemunch-mcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,15 +49,15 @@ jgravelle/jcodemunch-mcp：jgravelle/jcodemunch-mcp helps connect AI assistants 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 1975 GitHub stars
-- 300 forks
-- updated 2026-07-05
+- 1791 GitHub stars
+- 287 forks
+- updated 2026-05-08
 - primary language: Python
-- 20 topics
+- 6 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,18 +65,18 @@ jgravelle/jcodemunch-mcp：jgravelle/jcodemunch-mcp helps connect AI assistants 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 86/100 |
-| integration | 78/100 |
-| production | 83/100 |
-| outlook | 90/100 |
-| adoption | 68/100 |
-| stars | 70/100 |
-| forks | 62/100 |
-| recency | 100/100 |
-| topics | 100/100 |
+| forks | 61/100 |
+| stars | 69/100 |
+| topics | 75/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [← Back to Mcp](./README.md)</sub>

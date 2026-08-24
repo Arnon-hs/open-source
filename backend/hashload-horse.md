@@ -1,6 +1,6 @@
 # HashLoad/horse
 
-[![Stars](https://img.shields.io/github/stars/HashLoad/horse?style=flat-square&color=yellow)](https://github.com/HashLoad/horse/stargazers) [![Forks](https://img.shields.io/github/forks/HashLoad/horse?style=flat-square&color=blue)](https://github.com/HashLoad/horse/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HashLoad/horse?style=flat-square&color=yellow)](https://github.com/HashLoad/horse/stargazers) [![Forks](https://img.shields.io/github/forks/HashLoad/horse?style=flat-square&color=blue)](https://github.com/HashLoad/horse/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, opinionated, minimalist web framework for Delphi
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ HashLoad/horse 是一款面向 Delphi 开发者的极速、极简且高度约定
 | forks | 60/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # openlit/openlit
 
-[![Stars](https://img.shields.io/github/stars/openlit/openlit?style=flat-square&color=yellow)](https://github.com/openlit/openlit/stargazers) [![Forks](https://img.shields.io/github/forks/openlit/openlit?style=flat-square&color=blue)](https://github.com/openlit/openlit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openlit/openlit?style=flat-square&color=yellow)](https://github.com/openlit/openlit/stargazers) [![Forks](https://img.shields.io/github/forks/openlit/openlit?style=flat-square&color=blue)](https://github.com/openlit/openlit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ openlit/openlit：openlit/openlit helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 71/100 |
-| integration | 78/100 |
-| production | 63/100 |
-| outlook | 71/100 |
-| adoption | 69/100 |
-| stars | 72/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

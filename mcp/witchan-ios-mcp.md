@@ -1,6 +1,6 @@
 # witchan/ios-mcp
 
-[![Stars](https://img.shields.io/github/stars/witchan/ios-mcp?style=flat-square&color=yellow)](https://github.com/witchan/ios-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/witchan/ios-mcp?style=flat-square&color=blue)](https://github.com/witchan/ios-mcp/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/witchan/ios-mcp?style=flat-square&color=yellow)](https://github.com/witchan/ios-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/witchan/ios-mcp?style=flat-square&color=blue)](https://github.com/witchan/ios-mcp/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > iOS MCP: MCP management tool for jailbroken iPhones, enabling developers and AI agents to inspect and control devices.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 329 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools · Mobile
+MCP · Automation · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ iOS MCP（witchan/ios-mcp）是一款面向已越狱 iPhone 的 MCP 管理工�
 | forks | 43/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

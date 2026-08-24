@@ -1,6 +1,6 @@
 # jakobhoeg/browser-ai
 
-[![Stars](https://img.shields.io/github/stars/jakobhoeg/browser-ai?style=flat-square&color=yellow)](https://github.com/jakobhoeg/browser-ai/stargazers) [![Forks](https://img.shields.io/github/forks/jakobhoeg/browser-ai?style=flat-square&color=blue)](https://github.com/jakobhoeg/browser-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jakobhoeg/browser-ai?style=flat-square&color=yellow)](https://github.com/jakobhoeg/browser-ai/stargazers) [![Forks](https://img.shields.io/github/forks/jakobhoeg/browser-ai?style=flat-square&color=blue)](https://github.com/jakobhoeg/browser-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript SDK for different in-browser AI model providers, built to make client-side AI integration simpler and more consistent across vendors.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ console.log(response.content);
 | forks | 33/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

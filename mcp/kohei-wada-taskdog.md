@@ -1,6 +1,6 @@
 # Kohei-Wada/taskdog
 
-[![Stars](https://img.shields.io/github/stars/Kohei-Wada/taskdog?style=flat-square&color=yellow)](https://github.com/Kohei-Wada/taskdog/stargazers) [![Forks](https://img.shields.io/github/forks/Kohei-Wada/taskdog?style=flat-square&color=blue)](https://github.com/Kohei-Wada/taskdog/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kohei-Wada/taskdog?style=flat-square&color=yellow)](https://github.com/Kohei-Wada/taskdog/stargazers) [![Forks](https://img.shields.io/github/forks/Kohei-Wada/taskdog?style=flat-square&color=blue)](https://github.com/Kohei-Wada/taskdog/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 307 |
-| 🍴 **Forks** | 27 |
+| ⭐ **Stars** | 244 |
+| 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · DevTools
 
 ## 📝 Summary
 
 ### English
 
-Kohei-Wada/taskdog: Kohei-Wada/taskdog helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Kohei‑Wada/taskdog is a keyboard‑driven terminal task manager that automatically optimizes your schedule using AI‑powered heuristics, eliminating the need for drag‑and‑drop or manual micromanagement. It provides a clean, text‑based interface for creating, prioritizing, and tracking tasks while intelligently adjusting deadlines and dependencies in the background. The project combines frontend (terminal UI) and backend (AI/ML scheduling engine) components, making it a lightweight yet powerful productivity tool for developers and power users.
 
 ### Русский
 
-Kohei-Wada/taskdog: open-source проект в категориях MCP, Knowledge/RAG, AI/ML, Frontend, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Kohei‑Wada/taskdog — это терминальный менеджер задач, полностью управляемый с клавиатуры и реализующий интеллектуальную оптимизацию расписания с помощью AI/ML‑моделей. Он избавляет от перетаскивания и микроменеджмента, автоматически подбирая оптимальные сроки и приоритеты для ваших задач. Проект охватывает как фронтенд (интерфейс в терминале), так и бэкенд (логика планирования и машинное обучение).
 
 ### 中文
 
-Kohei-Wada/taskdog：Kohei-Wada/taskdog helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Kohei-Wada/taskdog：Kohei-Wada/taskdog helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ Kohei-Wada/taskdog：Kohei-Wada/taskdog helps connect AI assistants to real tool
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 307 GitHub stars
-- 27 forks
-- updated 2026-06-29
+- 244 GitHub stars
+- 18 forks
+- updated 2026-05-08
 - primary language: Python
 - 14 topics
 
@@ -65,18 +65,18 @@ Kohei-Wada/taskdog：Kohei-Wada/taskdog helps connect AI assistants to real tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 77/100 |
-| integration | 94/100 |
-| production | 82/100 |
-| outlook | 87/100 |
-| adoption | 48/100 |
-| stars | 53/100 |
-| forks | 36/100 |
-| recency | 100/100 |
+| forks | 32/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/Kohei-Wada/taskdog) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Kohei-Wada/taskdog) · [← Back to Mcp](./README.md)</sub>

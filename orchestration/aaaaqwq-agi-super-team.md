@@ -1,6 +1,6 @@
 # aAAaqwq/AGI-Super-Team
 
-[![Stars](https://img.shields.io/github/stars/aAAaqwq/AGI-Super-Team?style=flat-square&color=yellow)](https://github.com/aAAaqwq/AGI-Super-Team/stargazers) [![Forks](https://img.shields.io/github/forks/aAAaqwq/AGI-Super-Team?style=flat-square&color=blue)](https://github.com/aAAaqwq/AGI-Super-Team/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aAAaqwq/AGI-Super-Team?style=flat-square&color=yellow)](https://github.com/aAAaqwq/AGI-Super-Team/stargazers) [![Forks](https://img.shields.io/github/forks/aAAaqwq/AGI-Super-Team?style=flat-square&color=blue)](https://github.com/aAAaqwq/AGI-Super-Team/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub AI-Super-Team for making agent teams with high-quality skills
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 73 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ aAAaqwq/AGI‑Super‑Team 能将零散的 Prompt 和工具转化为可复用的
 | forks | 31/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

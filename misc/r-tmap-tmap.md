@@ -1,6 +1,6 @@
 # r-tmap/tmap
 
-[![Stars](https://img.shields.io/github/stars/r-tmap/tmap?style=flat-square&color=yellow)](https://github.com/r-tmap/tmap/stargazers) [![Forks](https://img.shields.io/github/forks/r-tmap/tmap?style=flat-square&color=blue)](https://github.com/r-tmap/tmap/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/r-tmap/tmap?style=flat-square&color=yellow)](https://github.com/r-tmap/tmap/stargazers) [![Forks](https://img.shields.io/github/forks/r-tmap/tmap?style=flat-square&color=blue)](https://github.com/r-tmap/tmap/network) [![Language](https://img.shields.io/badge/lang-R-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > R package for thematic maps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 902 |
 | 🍴 **Forks** | 124 |
 | 💻 **Language** | R |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ r‑tmap/tmap 是一款基于 R 语言的专题地图绘制包，提供类似 GI
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 75/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 60/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

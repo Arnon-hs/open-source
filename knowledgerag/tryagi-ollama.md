@@ -1,6 +1,6 @@
 # tryAGI/Ollama
 
-[![Stars](https://img.shields.io/github/stars/tryAGI/Ollama?style=flat-square&color=yellow)](https://github.com/tryAGI/Ollama/stargazers) [![Forks](https://img.shields.io/github/forks/tryAGI/Ollama?style=flat-square&color=blue)](https://github.com/tryAGI/Ollama/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tryAGI/Ollama?style=flat-square&color=yellow)](https://github.com/tryAGI/Ollama/stargazers) [![Forks](https://img.shields.io/github/forks/tryAGI/Ollama?style=flat-square&color=blue)](https://github.com/tryAGI/Ollama/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Ollama SDK for .NET
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ tryAGI/Ollama 是面向 .NET 平台的 Ollama SDK，帮助开发者在 C# 应用
 | forks | 31/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

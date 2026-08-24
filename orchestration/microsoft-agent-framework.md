@@ -1,6 +1,6 @@
 # microsoft/agent-framework
 
-[![Stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=flat-square&color=yellow)](https://github.com/microsoft/agent-framework/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/agent-framework?style=flat-square&color=blue)](https://github.com/microsoft/agent-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/agent-framework?style=flat-square&color=yellow)](https://github.com/microsoft/agent-framework/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/agent-framework?style=flat-square&color=blue)](https://github.com/microsoft/agent-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.2k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ microsoft/agent-framework: microsoft/agent-framework helps turn isolated prompts
 
 ### Русский
 
-microsoft/agent-framework: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+microsoft/agent-framework: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ microsoft/agent-framework：microsoft/agent-framework helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 78/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 75/100 |
-| adoption | 84/100 |
-| stars | 85/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,0 +1,81 @@
+# scouzi1966/vesta-mac-dist
+
+[![Stars](https://img.shields.io/github/stars/scouzi1966/vesta-mac-dist?style=flat-square&color=yellow)](https://github.com/scouzi1966/vesta-mac-dist/stargazers) [![Forks](https://img.shields.io/github/forks/scouzi1966/vesta-mac-dist?style=flat-square&color=blue)](https://github.com/scouzi1966/vesta-mac-dist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+
+> Vesta macOS Distribution - Official releases and downloads.Vesta AI Chat Assistant for macOS - Built with SwiftUI, Swift MLX  and Apple Intelligence using Apple's on device model on MacOs Tahoe (MacOS 26). Now with side-by-side Qwen3-VL for vison
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 80 |
+| 🍴 **Forks** | 7 |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai` `apple` `apple-llm` `apple-llm-integration` `applefoundationalmodels` `appleintelligence` `chat-application` `finetuning-llms` `llamacpp` `localllm` `lora` `macos`
+
+## 🎯 Categories
+
+MCP · AI/ML · Backend
+
+## 📝 Summary
+
+### English
+
+Vesta macOS Distribution provides the official releases and downloads for Vesta, an AI chat assistant built natively for macOS (Tahoe macOS 26) using SwiftUI, Swift MLX and Apple Intelligence’s on‑device models. The app combines a powerful language model with side‑by‑side Qwen‑3‑VL vision capabilities, offering both frontend (SwiftUI UI) and backend (ML inference) components in a single open‑source package.
+
+### Русский
+
+**Vesta‑mac‑dist** — открытый проект, предоставляющий официальные сборки Vesta AI Chat Assistant для macOS (Tahoe 26). Приложение реализовано на SwiftUI с использованием Swift MLX и Apple Intelligence, работает полностью на устройстве и теперь поддерживает одновремённый запуск Qwen‑3‑VL для обработки визуального контента. Проект охватывает как фронтенд, так и бекенд‑части и относится к категориям AI/ML, Frontend и Backend.
+
+### 中文
+
+scouzi1966/vesta-mac-dist：scouzi1966/vesta-mac-dist helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** scouzi1966/vesta-mac-dist helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 80 GitHub stars
+- 7 forks
+- updated 2026-05-09
+- 19 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 23/100 |
+| stars | 41/100 |
+| topics | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/scouzi1966/vesta-mac-dist) · [← Back to Mcp](./README.md)</sub>

@@ -1,6 +1,6 @@
 # KiCad/kicad-source-mirror
 
-[![Stars](https://img.shields.io/github/stars/KiCad/kicad-source-mirror?style=flat-square&color=yellow)](https://github.com/KiCad/kicad-source-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/KiCad/kicad-source-mirror?style=flat-square&color=blue)](https://github.com/KiCad/kicad-source-mirror/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KiCad/kicad-source-mirror?style=flat-square&color=yellow)](https://github.com/KiCad/kicad-source-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/KiCad/kicad-source-mirror?style=flat-square&color=blue)](https://github.com/KiCad/kicad-source-mirror/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 626 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ KiCad/kicad-source-mirror：KiCad/kicad-source-mirror may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 72/100 |
-| stars | 73/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

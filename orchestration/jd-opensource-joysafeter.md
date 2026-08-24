@@ -1,6 +1,6 @@
 # jd-opensource/JoySafeter
 
-[![Stars](https://img.shields.io/github/stars/jd-opensource/JoySafeter?style=flat-square&color=yellow)](https://github.com/jd-opensource/JoySafeter/stargazers) [![Forks](https://img.shields.io/github/forks/jd-opensource/JoySafeter?style=flat-square&color=blue)](https://github.com/jd-opensource/JoySafeter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jd-opensource/JoySafeter?style=flat-square&color=yellow)](https://github.com/jd-opensource/JoySafeter/stargazers) [![Forks](https://img.shields.io/github/forks/jd-opensource/JoySafeter?style=flat-square&color=blue)](https://github.com/jd-opensource/JoySafeter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 JoySafeter: An enterprise AI Agent Platform—Not just chatting. building、running、testing, and tracing autonomous Agent Teams with visual orchestration...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 269 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ jd-opensource/JoySafeter：jd-opensource/JoySafeter helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

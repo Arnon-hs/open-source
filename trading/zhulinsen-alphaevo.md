@@ -1,6 +1,6 @@
 # ZhuLinsen/alphaevo
 
-[![Stars](https://img.shields.io/github/stars/ZhuLinsen/alphaevo?style=flat-square&color=yellow)](https://github.com/ZhuLinsen/alphaevo/stargazers) [![Forks](https://img.shields.io/github/forks/ZhuLinsen/alphaevo?style=flat-square&color=blue)](https://github.com/ZhuLinsen/alphaevo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZhuLinsen/alphaevo?style=flat-square&color=yellow)](https://github.com/ZhuLinsen/alphaevo/stargazers) [![Forks](https://img.shields.io/github/forks/ZhuLinsen/alphaevo?style=flat-square&color=blue)](https://github.com/ZhuLinsen/alphaevo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An Self-Evolving Stock Strategy Research Agent 策略回测和自我进化
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ ZhuLinsen/alphaevo 是一个基于 Python 的自我进化股票策略研究代�
 | forks | 43/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # vltpkg/vltpkg
 
-[![Stars](https://img.shields.io/github/stars/vltpkg/vltpkg?style=flat-square&color=yellow)](https://github.com/vltpkg/vltpkg/stargazers) [![Forks](https://img.shields.io/github/forks/vltpkg/vltpkg?style=flat-square&color=blue)](https://github.com/vltpkg/vltpkg/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vltpkg/vltpkg?style=flat-square&color=yellow)](https://github.com/vltpkg/vltpkg/stargazers) [![Forks](https://img.shields.io/github/forks/vltpkg/vltpkg?style=flat-square&color=blue)](https://github.com/vltpkg/vltpkg/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > the vlt monorepo
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 516 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ vltpkg/vltpkg 是 VLT 系列工具的统一仓库（monorepo），以 TypeScript
 | forks | 37/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

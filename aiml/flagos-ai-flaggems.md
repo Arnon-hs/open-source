@@ -1,6 +1,6 @@
 # flagos-ai/FlagGems
 
-[![Stars](https://img.shields.io/github/stars/flagos-ai/FlagGems?style=flat-square&color=yellow)](https://github.com/flagos-ai/FlagGems/stargazers) [![Forks](https://img.shields.io/github/forks/flagos-ai/FlagGems?style=flat-square&color=blue)](https://github.com/flagos-ai/FlagGems/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flagos-ai/FlagGems?style=flat-square&color=yellow)](https://github.com/flagos-ai/FlagGems/stargazers) [![Forks](https://img.shields.io/github/forks/flagos-ai/FlagGems?style=flat-square&color=blue)](https://github.com/flagos-ai/FlagGems/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > FlagGems is an operator library for large language models implemented in the Triton Language.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 991 |
 | 🍴 **Forks** | 359 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -68,14 +68,14 @@ flagos-ai/FlagGems：flagos-ai/FlagGems helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 52/100 |
+| production | 50/100 |
+| outlook | 45/100 |
 | adoption | 64/100 |
 | stars | 64/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

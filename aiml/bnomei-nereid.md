@@ -1,6 +1,6 @@
 # bnomei/nereid
 
-[![Stars](https://img.shields.io/github/stars/bnomei/nereid?style=flat-square&color=yellow)](https://github.com/bnomei/nereid/stargazers) [![Forks](https://img.shields.io/github/forks/bnomei/nereid?style=flat-square&color=blue)](https://github.com/bnomei/nereid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bnomei/nereid?style=flat-square&color=yellow)](https://github.com/bnomei/nereid/stargazers) [![Forks](https://img.shields.io/github/forks/bnomei/nereid?style=flat-square&color=blue)](https://github.com/bnomei/nereid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ bnom​ei’s **nereid** is an open‑source tool that lets users create, edit, 
 
 ### 中文
 
-bnomei/nereid：bnomei/nereid helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bnomei/nereid：bnomei/nereid helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ bnomei/nereid：bnomei/nereid helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ bnomei/nereid：bnomei/nereid helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 56/100 |
+| production | 46/100 |
+| outlook | 49/100 |
 | adoption | 30/100 |
 | stars | 36/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

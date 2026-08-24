@@ -1,6 +1,6 @@
 # 09omerdgn-droid/api-model-playground-cookbook
 
-[![Stars](https://img.shields.io/github/stars/09omerdgn-droid/api-model-playground-cookbook?style=flat-square&color=yellow)](https://github.com/09omerdgn-droid/api-model-playground-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/09omerdgn-droid/api-model-playground-cookbook?style=flat-square&color=blue)](https://github.com/09omerdgn-droid/api-model-playground-cookbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/09omerdgn-droid/api-model-playground-cookbook?style=flat-square&color=yellow)](https://github.com/09omerdgn-droid/api-model-playground-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/09omerdgn-droid/api-model-playground-cookbook?style=flat-square&color=blue)](https://github.com/09omerdgn-droid/api-model-playground-cookbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Ultimate LLM API Integration Cookbook 2026 for Cursor & AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ The project scores high on readiness: recent activity, growing adoption, and a s
 | forks | 0/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

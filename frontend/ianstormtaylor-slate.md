@@ -1,6 +1,6 @@
 # ianstormtaylor/slate
 
-[![Stars](https://img.shields.io/github/stars/ianstormtaylor/slate?style=flat-square&color=yellow)](https://github.com/ianstormtaylor/slate/stargazers) [![Forks](https://img.shields.io/github/forks/ianstormtaylor/slate?style=flat-square&color=blue)](https://github.com/ianstormtaylor/slate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ianstormtaylor/slate?style=flat-square&color=yellow)](https://github.com/ianstormtaylor/slate/stargazers) [![Forks](https://img.shields.io/github/forks/ianstormtaylor/slate?style=flat-square&color=blue)](https://github.com/ianstormtaylor/slate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A completely customizable framework for building rich text editors. (Currently in beta.)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.7k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ ianstormtaylor/slate：ianstormtaylor/slate helps ship user-facing interfaces wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 82/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 69/100 |
-| adoption | 94/100 |
-| stars | 96/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

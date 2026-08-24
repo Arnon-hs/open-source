@@ -1,6 +1,6 @@
 # pschlan/cron-job.org
 
-[![Stars](https://img.shields.io/github/stars/pschlan/cron-job.org?style=flat-square&color=yellow)](https://github.com/pschlan/cron-job.org/stargazers) [![Forks](https://img.shields.io/github/forks/pschlan/cron-job.org?style=flat-square&color=blue)](https://github.com/pschlan/cron-job.org/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pschlan/cron-job.org?style=flat-square&color=yellow)](https://github.com/pschlan/cron-job.org/stargazers) [![Forks](https://img.shields.io/github/forks/pschlan/cron-job.org?style=flat-square&color=blue)](https://github.com/pschlan/cron-job.org/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > cron-job.org Open Source project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ pschlan/cron-job.org 是一个开源的在线定时任务平台，提供类似 c
 | forks | 62/100 |
 | stars | 70/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

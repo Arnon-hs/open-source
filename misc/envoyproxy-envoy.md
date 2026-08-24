@@ -1,6 +1,6 @@
 # envoyproxy/envoy
 
-[![Stars](https://img.shields.io/github/stars/envoyproxy/envoy?style=flat-square&color=yellow)](https://github.com/envoyproxy/envoy/stargazers) [![Forks](https://img.shields.io/github/forks/envoyproxy/envoy?style=flat-square&color=blue)](https://github.com/envoyproxy/envoy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/envoyproxy/envoy?style=flat-square&color=yellow)](https://github.com/envoyproxy/envoy/stargazers) [![Forks](https://img.shields.io/github/forks/envoyproxy/envoy?style=flat-square&color=blue)](https://github.com/envoyproxy/envoy/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Cloud-native high-performance edge/middle/service proxy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.9k |
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ envoyproxy/envoy：envoyproxy/envoy may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 82/100 |
-| integration | 30/100 |
-| production | 61/100 |
-| outlook | 66/100 |
-| adoption | 94/100 |
-| stars | 95/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

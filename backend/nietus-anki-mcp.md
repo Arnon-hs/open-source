@@ -1,6 +1,6 @@
 # nietus/anki-mcp
 
-[![Stars](https://img.shields.io/github/stars/nietus/anki-mcp?style=flat-square&color=yellow)](https://github.com/nietus/anki-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/nietus/anki-mcp?style=flat-square&color=blue)](https://github.com/nietus/anki-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nietus/anki-mcp?style=flat-square&color=yellow)](https://github.com/nietus/anki-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/nietus/anki-mcp?style=flat-square&color=blue)](https://github.com/nietus/anki-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for anki
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **anki-mcp** project provides a lightweight, open‑source MCP (Message Comm
 
 ### 中文
 
-nietus/anki-mcp：nietus/anki-mcp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nietus/anki-mcp：nietus/anki-mcp helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ nietus/anki-mcp：nietus/anki-mcp helps teams reuse service infrastructure inste
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ nietus/anki-mcp：nietus/anki-mcp helps teams reuse service infrastructure inste
 - primary language: JavaScript
 - 4 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 32/100 |
 | stars | 34/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ThreatRecall/zettelforge
 
-[![Stars](https://img.shields.io/github/stars/ThreatRecall/zettelforge?style=flat-square&color=yellow)](https://github.com/ThreatRecall/zettelforge/stargazers) [![Forks](https://img.shields.io/github/forks/ThreatRecall/zettelforge?style=flat-square&color=blue)](https://github.com/ThreatRecall/zettelforge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ThreatRecall/zettelforge?style=flat-square&color=yellow)](https://github.com/ThreatRecall/zettelforge/stargazers) [![Forks](https://img.shields.io/github/forks/ThreatRecall/zettelforge?style=flat-square&color=blue)](https://github.com/ThreatRecall/zettelforge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic memory for CTI in Python — STIX knowledge graphs, threat-actor alias resolution, offline-first RAG, MCP server for Claude Code and LangChain agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ ThreatRecall/zettelforge 为网络威胁情报（CTI）提供“Agentic memory�
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

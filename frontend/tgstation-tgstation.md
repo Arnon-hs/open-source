@@ -1,6 +1,6 @@
 # tgstation/tgstation
 
-[![Stars](https://img.shields.io/github/stars/tgstation/tgstation?style=flat-square&color=yellow)](https://github.com/tgstation/tgstation/stargazers) [![Forks](https://img.shields.io/github/forks/tgstation/tgstation?style=flat-square&color=blue)](https://github.com/tgstation/tgstation/network) [![Language](https://img.shields.io/badge/lang-DM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tgstation/tgstation?style=flat-square&color=yellow)](https://github.com/tgstation/tgstation/stargazers) [![Forks](https://img.shields.io/github/forks/tgstation/tgstation?style=flat-square&color=blue)](https://github.com/tgstation/tgstation/network) [![Language](https://img.shields.io/badge/lang-DM-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The /tg/station branch of SS13.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 5.2k |
 | 💻 **Language** | DM |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tgstation/tgstation：tgstation/tgstation helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 76/100 |
 | stars | 70/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

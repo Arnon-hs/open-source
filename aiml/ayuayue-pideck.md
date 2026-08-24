@@ -1,6 +1,6 @@
 # ayuayue/PiDeck
 
-[![Stars](https://img.shields.io/github/stars/ayuayue/PiDeck?style=flat-square&color=yellow)](https://github.com/ayuayue/PiDeck/stargazers) [![Forks](https://img.shields.io/github/forks/ayuayue/PiDeck?style=flat-square&color=blue)](https://github.com/ayuayue/PiDeck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ayuayue/PiDeck?style=flat-square&color=yellow)](https://github.com/ayuayue/PiDeck/stargazers) [![Forks](https://img.shields.io/github/forks/ayuayue/PiDeck?style=flat-square&color=blue)](https://github.com/ayuayue/PiDeck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop workbench for managing multiple pi coding-agent sessions across project folders.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ PiDeck 是一个桌面工作台，用于在不同项目文件夹间统一管理�
 | forks | 31/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sales-skills/sales
 
-[![Stars](https://img.shields.io/github/stars/sales-skills/sales?style=flat-square&color=yellow)](https://github.com/sales-skills/sales/stargazers) [![Forks](https://img.shields.io/github/forks/sales-skills/sales?style=flat-square&color=blue)](https://github.com/sales-skills/sales/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sales-skills/sales?style=flat-square&color=yellow)](https://github.com/sales-skills/sales/stargazers) [![Forks](https://img.shields.io/github/forks/sales-skills/sales?style=flat-square&color=blue)](https://github.com/sales-skills/sales/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skills for sales, marketing, and GTM — CRM, outbound, note-takers, enrichment, email marketing, influencer marketing, social   listening, directories, and more. Install: npx skills add sales-skills/sales
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ To adopt sales-skills/sales, follow these steps:
 | forks | 24/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

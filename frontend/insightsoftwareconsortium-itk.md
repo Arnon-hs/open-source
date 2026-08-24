@@ -1,6 +1,6 @@
 # InsightSoftwareConsortium/ITK
 
-[![Stars](https://img.shields.io/github/stars/InsightSoftwareConsortium/ITK?style=flat-square&color=yellow)](https://github.com/InsightSoftwareConsortium/ITK/stargazers) [![Forks](https://img.shields.io/github/forks/InsightSoftwareConsortium/ITK?style=flat-square&color=blue)](https://github.com/InsightSoftwareConsortium/ITK/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/InsightSoftwareConsortium/ITK?style=flat-square&color=yellow)](https://github.com/InsightSoftwareConsortium/ITK/stargazers) [![Forks](https://img.shields.io/github/forks/InsightSoftwareConsortium/ITK?style=flat-square&color=blue)](https://github.com/InsightSoftwareConsortium/ITK/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Insight Toolkit (ITK) -- Official Repository.  ITK builds on a proven, spatially-oriented architecture for processing, segmentation, and registration of scientific images in two, three, or more dimensions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 726 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ InsightSoftwareConsortium/ITK：InsightSoftwareConsortium/ITK helps ship user-fa
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 69/100 |
 | stars | 68/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

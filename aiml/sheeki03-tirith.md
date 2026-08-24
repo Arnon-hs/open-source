@@ -1,6 +1,6 @@
 # sheeki03/tirith
 
-[![Stars](https://img.shields.io/github/stars/sheeki03/tirith?style=flat-square&color=yellow)](https://github.com/sheeki03/tirith/stargazers) [![Forks](https://img.shields.io/github/forks/sheeki03/tirith?style=flat-square&color=blue)](https://github.com/sheeki03/tirith/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sheeki03/tirith?style=flat-square&color=yellow)](https://github.com/sheeki03/tirith/stargazers) [![Forks](https://img.shields.io/github/forks/sheeki03/tirith?style=flat-square&color=blue)](https://github.com/sheeki03/tirith/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 79 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sheeki03/tirith：sheeki03/tirith helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 68/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 65/100 |
 | stars | 72/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

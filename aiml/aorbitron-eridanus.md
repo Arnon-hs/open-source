@@ -1,6 +1,6 @@
 # AOrbitron/Eridanus
 
-[![Stars](https://img.shields.io/github/stars/AOrbitron/Eridanus?style=flat-square&color=yellow)](https://github.com/AOrbitron/Eridanus/stargazers) [![Forks](https://img.shields.io/github/forks/AOrbitron/Eridanus?style=flat-square&color=blue)](https://github.com/AOrbitron/Eridanus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AOrbitron/Eridanus?style=flat-square&color=yellow)](https://github.com/AOrbitron/Eridanus/stargazers) [![Forks](https://img.shields.io/github/forks/AOrbitron/Eridanus?style=flat-square&color=blue)](https://github.com/AOrbitron/Eridanus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 OneBot 协议的多功能bot兼开发框架。以llm function calling为核心构建了更智能的功能调用机制。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ AOrbitron/Eridanus：AOrbitron/Eridanus helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 46/100 |
-| stars | 48/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

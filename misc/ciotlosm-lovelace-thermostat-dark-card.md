@@ -1,6 +1,6 @@
 # ciotlosm/lovelace-thermostat-dark-card
 
-[![Stars](https://img.shields.io/github/stars/ciotlosm/lovelace-thermostat-dark-card?style=flat-square&color=yellow)](https://github.com/ciotlosm/lovelace-thermostat-dark-card/stargazers) [![Forks](https://img.shields.io/github/forks/ciotlosm/lovelace-thermostat-dark-card?style=flat-square&color=blue)](https://github.com/ciotlosm/lovelace-thermostat-dark-card/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ciotlosm/lovelace-thermostat-dark-card?style=flat-square&color=yellow)](https://github.com/ciotlosm/lovelace-thermostat-dark-card/stargazers) [![Forks](https://img.shields.io/github/forks/ciotlosm/lovelace-thermostat-dark-card?style=flat-square&color=blue)](https://github.com/ciotlosm/lovelace-thermostat-dark-card/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🌡 Thermostat card with a round and black feel to it
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 744 |
 | 🍴 **Forks** | 185 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Lovelace‑Thermostat‑Dark‑Card — это открытая карточк
 | forks | 57/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

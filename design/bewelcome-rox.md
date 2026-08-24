@@ -1,6 +1,6 @@
 # BeWelcome/rox
 
-[![Stars](https://img.shields.io/github/stars/BeWelcome/rox?style=flat-square&color=yellow)](https://github.com/BeWelcome/rox/stargazers) [![Forks](https://img.shields.io/github/forks/BeWelcome/rox?style=flat-square&color=blue)](https://github.com/BeWelcome/rox/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BeWelcome/rox?style=flat-square&color=yellow)](https://github.com/BeWelcome/rox/stargazers) [![Forks](https://img.shields.io/github/forks/BeWelcome/rox?style=flat-square&color=blue)](https://github.com/BeWelcome/rox/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > :earth_africa: BeWelcome lets you share a place to stay, connect with travellers, meet up and find accommodation on your journey. It is and will always be a free, open source, non for profit, democratic community.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ BeWelcome / rox — открытая платформа, позволяю�
 
 ### 中文
 
-BeWelcome/rox：BeWelcome/rox may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BeWelcome/rox：BeWelcome/rox may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ BeWelcome/rox：BeWelcome/rox may be useful when its README and activity match a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ BeWelcome/rox：BeWelcome/rox may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 48/100 |
-| stars | 50/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

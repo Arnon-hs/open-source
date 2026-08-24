@@ -1,6 +1,6 @@
 # AnandChowdhary/continuous-claude
 
-[![Stars](https://img.shields.io/github/stars/AnandChowdhary/continuous-claude?style=flat-square&color=yellow)](https://github.com/AnandChowdhary/continuous-claude/stargazers) [![Forks](https://img.shields.io/github/forks/AnandChowdhary/continuous-claude?style=flat-square&color=blue)](https://github.com/AnandChowdhary/continuous-claude/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnandChowdhary/continuous-claude?style=flat-square&color=yellow)](https://github.com/AnandChowdhary/continuous-claude/stargazers) [![Forks](https://img.shields.io/github/forks/AnandChowdhary/continuous-claude?style=flat-square&color=blue)](https://github.com/AnandChowdhary/continuous-claude/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AnandChowdhary/continuous-claude — это open‑source проект, реа
 
 ### 中文
 
-AnandChowdhary/continuous-claude：AnandChowdhary/continuous-claude helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AnandChowdhary/continuous-claude：AnandChowdhary/continuous-claude helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AnandChowdhary/continuous-claude：AnandChowdhary/continuous-claude helps add AI
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ AnandChowdhary/continuous-claude：AnandChowdhary/continuous-claude helps add AI
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 62/100 |
-| stars | 66/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 63/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

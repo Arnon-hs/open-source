@@ -1,6 +1,6 @@
 # Sunagatov/Iced-Latte
 
-[![Stars](https://img.shields.io/github/stars/Sunagatov/Iced-Latte?style=flat-square&color=yellow)](https://github.com/Sunagatov/Iced-Latte/stargazers) [![Forks](https://img.shields.io/github/forks/Sunagatov/Iced-Latte?style=flat-square&color=blue)](https://github.com/Sunagatov/Iced-Latte/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sunagatov/Iced-Latte?style=flat-square&color=yellow)](https://github.com/Sunagatov/Iced-Latte/stargazers) [![Forks](https://img.shields.io/github/forks/Sunagatov/Iced-Latte?style=flat-square&color=blue)](https://github.com/Sunagatov/Iced-Latte/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > a online Marketplace for coffee retail (Backend)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 629 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments · Data · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Sunagatov/Iced-Latte: Sunagatov/Iced-Latte helps integrate monetization, billing
 
 ### Русский
 
-Sunagatov/Iced-Latte: open-source проект в категориях Payments, AI/ML, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Sunagatov/Iced-Latte: open-source проект в категориях Payments, Data, Database, DevOps/Infra. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Sunagatov/Iced-Latte：Sunagatov/Iced-Latte helps integrate monetization, billin
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 57/100 |
-| adoption | 58/100 |
-| stars | 60/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

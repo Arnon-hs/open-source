@@ -1,6 +1,6 @@
 # atomicstrata/llm-wiki-compiler
 
-[![Stars](https://img.shields.io/github/stars/atomicstrata/llm-wiki-compiler?style=flat-square&color=yellow)](https://github.com/atomicstrata/llm-wiki-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/atomicstrata/llm-wiki-compiler?style=flat-square&color=blue)](https://github.com/atomicstrata/llm-wiki-compiler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atomicstrata/llm-wiki-compiler?style=flat-square&color=yellow)](https://github.com/atomicstrata/llm-wiki-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/atomicstrata/llm-wiki-compiler?style=flat-square&color=blue)](https://github.com/atomicstrata/llm-wiki-compiler/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · DevTools
+Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ atomicstrata/llm-wiki-compiler 是一个「知识编译器」——把原始文�
 | forks | 52/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 80/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

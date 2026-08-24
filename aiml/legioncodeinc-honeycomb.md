@@ -1,6 +1,6 @@
 # legioncodeinc/honeycomb
 
-[![Stars](https://img.shields.io/github/stars/legioncodeinc/honeycomb?style=flat-square&color=yellow)](https://github.com/legioncodeinc/honeycomb/stargazers) [![Forks](https://img.shields.io/github/forks/legioncodeinc/honeycomb?style=flat-square&color=blue)](https://github.com/legioncodeinc/honeycomb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/legioncodeinc/honeycomb?style=flat-square&color=yellow)](https://github.com/legioncodeinc/honeycomb/stargazers) [![Forks](https://img.shields.io/github/forks/legioncodeinc/honeycomb?style=flat-square&color=blue)](https://github.com/legioncodeinc/honeycomb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding agents forget. They forget across sessions, and they forget across tools. A decision you reached in Claude Code at midnight is invisible to Cursor the next morning. Honeycomb fixes that. Learn something once; recall it everywhere,
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Education
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Honeycomb（legioncodeinc/honeycomb）是一款帮助 AI 编码代理跨会话�
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

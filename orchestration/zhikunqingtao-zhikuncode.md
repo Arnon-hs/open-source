@@ -1,6 +1,6 @@
 # zhikunqingtao/zhikuncode
 
-[![Stars](https://img.shields.io/github/stars/zhikunqingtao/zhikuncode?style=flat-square&color=yellow)](https://github.com/zhikunqingtao/zhikuncode/stargazers) [![Forks](https://img.shields.io/github/forks/zhikunqingtao/zhikuncode?style=flat-square&color=blue)](https://github.com/zhikunqingtao/zhikuncode/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhikunqingtao/zhikuncode?style=flat-square&color=yellow)](https://github.com/zhikunqingtao/zhikuncode/stargazers) [![Forks](https://img.shields.io/github/forks/zhikunqingtao/zhikuncode?style=flat-square&color=blue)](https://github.com/zhikunqingtao/zhikuncode/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code 的开源替代方案。Multi Agent AI 编程助手，CLI & Web UI 双入口。自托管，随处部署——手机浏览器也能完整操控。支持任意 LLM，原生浏览器自动化，90+ 命令。技能、插件与持久记忆。企业级安全，零锁定。Docker 一键部署。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ zhikunqingtao/zhikuncode：zhikunqingtao/zhikuncode helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 48/100 |
-| stars | 50/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

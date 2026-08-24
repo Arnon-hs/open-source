@@ -1,6 +1,6 @@
 # oracle/oci-cli
 
-[![Stars](https://img.shields.io/github/stars/oracle/oci-cli?style=flat-square&color=yellow)](https://github.com/oracle/oci-cli/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/oci-cli?style=flat-square&color=blue)](https://github.com/oracle/oci-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oracle/oci-cli?style=flat-square&color=yellow)](https://github.com/oracle/oci-cli/stargazers) [![Forks](https://img.shields.io/github/forks/oracle/oci-cli?style=flat-square&color=blue)](https://github.com/oracle/oci-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Command Line Interface for Oracle Cloud Infrastructure
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 627 |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · DevOps/Infra
+DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ oracle/oci-cli 是 Oracle Cloud Infrastructure 的官方命令行工具，使用
 | forks | 59/100 |
 | stars | 60/100 |
 | topics | 50/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # virtualroot/asdf-opentofu
 
-[![Stars](https://img.shields.io/github/stars/virtualroot/asdf-opentofu?style=flat-square&color=yellow)](https://github.com/virtualroot/asdf-opentofu/stargazers) [![Forks](https://img.shields.io/github/forks/virtualroot/asdf-opentofu?style=flat-square&color=blue)](https://github.com/virtualroot/asdf-opentofu/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/virtualroot/asdf-opentofu?style=flat-square&color=yellow)](https://github.com/virtualroot/asdf-opentofu/stargazers) [![Forks](https://img.shields.io/github/forks/virtualroot/asdf-opentofu?style=flat-square&color=blue)](https://github.com/virtualroot/asdf-opentofu/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Official asdf plugin for opentofu
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,14 +123,15 @@ The **virtualroot/asdf‑opentofu** repository provides an official asdf plugi
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 75/100 |
-| outlook | 68/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 28/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

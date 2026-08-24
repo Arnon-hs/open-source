@@ -1,6 +1,6 @@
 # modelcontextprotocol/servers
 
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/servers/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/servers?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/servers/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/servers?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/servers/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in Habr article: Почему вы не видите, что на самом деле происходит между моделью и MCP-сервером
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | habr |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ The project has a medium production readiness score, indicating that it can be u
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 56/100 |
-| quality | 39/100 |
-| recency | 100/100 |
+| outlook | 35/100 |
+| quality | 24/100 |
+| recency | 40/100 |
 | adoption | 0/100 |
-| production | 59/100 |
+| production | 39/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

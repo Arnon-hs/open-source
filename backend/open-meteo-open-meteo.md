@@ -1,6 +1,6 @@
 # open-meteo/open-meteo
 
-[![Stars](https://img.shields.io/github/stars/open-meteo/open-meteo?style=flat-square&color=yellow)](https://github.com/open-meteo/open-meteo/stargazers) [![Forks](https://img.shields.io/github/forks/open-meteo/open-meteo?style=flat-square&color=blue)](https://github.com/open-meteo/open-meteo/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-meteo/open-meteo?style=flat-square&color=yellow)](https://github.com/open-meteo/open-meteo/stargazers) [![Forks](https://img.shields.io/github/forks/open-meteo/open-meteo?style=flat-square&color=blue)](https://github.com/open-meteo/open-meteo/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Free Weather Forecast API for non-commercial use
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 354 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ open-meteo/open-meteo 是一个面向非商业用途的免费天气预报 API，
 | forks | 64/100 |
 | stars | 80/100 |
 | topics | 38/100 |
-| outlook | 79/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

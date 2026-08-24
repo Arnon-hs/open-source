@@ -1,6 +1,6 @@
 # hujianbest/harness-flow
 
-[![Stars](https://img.shields.io/github/stars/hujianbest/harness-flow?style=flat-square&color=yellow)](https://github.com/hujianbest/harness-flow/stargazers) [![Forks](https://img.shields.io/github/forks/hujianbest/harness-flow?style=flat-square&color=blue)](https://github.com/hujianbest/harness-flow/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hujianbest/harness-flow?style=flat-square&color=yellow)](https://github.com/hujianbest/harness-flow/stargazers) [![Forks](https://img.shields.io/github/forks/hujianbest/harness-flow?style=flat-square&color=blue)](https://github.com/hujianbest/harness-flow/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > From idea to shipped product: high-quality engineering workflows for AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ hujianbest/harness-flow：hujianbest/harness-flow helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 30/100 |
-| production | 45/100 |
-| outlook | 47/100 |
+| production | 38/100 |
+| outlook | 40/100 |
 | adoption | 31/100 |
 | stars | 32/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

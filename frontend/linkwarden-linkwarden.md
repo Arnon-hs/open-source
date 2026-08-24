@@ -1,6 +1,6 @@
 # linkwarden/linkwarden
 
-[![Stars](https://img.shields.io/github/stars/linkwarden/linkwarden?style=flat-square&color=yellow)](https://github.com/linkwarden/linkwarden/stargazers) [![Forks](https://img.shields.io/github/forks/linkwarden/linkwarden?style=flat-square&color=blue)](https://github.com/linkwarden/linkwarden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linkwarden/linkwarden?style=flat-square&color=yellow)](https://github.com/linkwarden/linkwarden/stargazers) [![Forks](https://img.shields.io/github/forks/linkwarden/linkwarden?style=flat-square&color=blue)](https://github.com/linkwarden/linkwarden/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 18.2k |
 | 🍴 **Forks** | 746 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Linkwarden（linkwarden/linkwarden）是一款自托管的协作书签管理器�
 | forks | 72/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 20/100 |
 | adoption | 85/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

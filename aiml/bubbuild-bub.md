@@ -1,6 +1,6 @@
 # bubbuild/bub
 
-[![Stars](https://img.shields.io/github/stars/bubbuild/bub?style=flat-square&color=yellow)](https://github.com/bubbuild/bub/stargazers) [![Forks](https://img.shields.io/github/forks/bubbuild/bub?style=flat-square&color=blue)](https://github.com/bubbuild/bub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bubbuild/bub?style=flat-square&color=yellow)](https://github.com/bubbuild/bub/stargazers) [![Forks](https://img.shields.io/github/forks/bubbuild/bub?style=flat-square&color=blue)](https://github.com/bubbuild/bub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Bub it. Build it. A hook-first runtime for agents that live alongside people.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ bubbuild/bub：bubbuild/bub helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 63/100 |
-| stars | 66/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

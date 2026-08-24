@@ -1,6 +1,6 @@
 # tarunlnmiit/autopilot-jobhunt
 
-[![Stars](https://img.shields.io/github/stars/tarunlnmiit/autopilot-jobhunt?style=flat-square&color=yellow)](https://github.com/tarunlnmiit/autopilot-jobhunt/stargazers) [![Forks](https://img.shields.io/github/forks/tarunlnmiit/autopilot-jobhunt?style=flat-square&color=blue)](https://github.com/tarunlnmiit/autopilot-jobhunt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tarunlnmiit/autopilot-jobhunt?style=flat-square&color=yellow)](https://github.com/tarunlnmiit/autopilot-jobhunt/stargazers) [![Forks](https://img.shields.io/github/forks/tarunlnmiit/autopilot-jobhunt?style=flat-square&color=blue)](https://github.com/tarunlnmiit/autopilot-jobhunt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI job agent: scans 130+ careers pages nightly, scores every role against your resume with an LLM (0–100), alerts you on Telegram, and drafts tailored cover letters + resumes. Free & open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ tarunlnmiit/autopilot-jobhunt 是一款开源的 AI 求职助理。它会在每�
 | forks | 39/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

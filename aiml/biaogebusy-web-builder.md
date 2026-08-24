@@ -1,6 +1,6 @@
 # biaogebusy/web-builder
 
-[![Stars](https://img.shields.io/github/stars/biaogebusy/web-builder?style=flat-square&color=yellow)](https://github.com/biaogebusy/web-builder/stargazers) [![Forks](https://img.shields.io/github/forks/biaogebusy/web-builder?style=flat-square&color=blue)](https://github.com/biaogebusy/web-builder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/biaogebusy/web-builder?style=flat-square&color=yellow)](https://github.com/biaogebusy/web-builder/stargazers) [![Forks](https://img.shields.io/github/forks/biaogebusy/web-builder?style=flat-square&color=blue)](https://github.com/biaogebusy/web-builder/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI 驱动 UI 生成和发布的低代码平台，基于TailwindCss，通过拖拽可视化快速构建现代化响应式UI、动态自定义组件、多主题、多语言的网站应用。AI-powered UI generation and publishing low code platform, built on TailwindCSS, enabling rapid drag-and-drop visual creation of modern responsive UIs, dynamic customizable components, multi-theme, and multi-language web applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 560 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ biaogebusy/web-builder：biaogebusy/web-builder helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 56/100 |
-| stars | 59/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # kirill-markin/repo-to-text
 
-[![Stars](https://img.shields.io/github/stars/kirill-markin/repo-to-text?style=flat-square&color=yellow)](https://github.com/kirill-markin/repo-to-text/stargazers) [![Forks](https://img.shields.io/github/forks/kirill-markin/repo-to-text?style=flat-square&color=blue)](https://github.com/kirill-markin/repo-to-text/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kirill-markin/repo-to-text?style=flat-square&color=yellow)](https://github.com/kirill-markin/repo-to-text/stargazers) [![Forks](https://img.shields.io/github/forks/kirill-markin/repo-to-text?style=flat-square&color=blue)](https://github.com/kirill-markin/repo-to-text/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Convert a repository structure and its contents into a single text file, including the tree output and file contents in markdown code blocks. It may be useful to chat with LLM about your code.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Overall, `repo-to-text` is a solid building block for internal prototypes and ca
 | forks | 34/100 |
 | stars | 50/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

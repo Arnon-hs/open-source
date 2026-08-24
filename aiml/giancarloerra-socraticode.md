@@ -1,6 +1,6 @@
 # giancarloerra/SocratiCode
 
-[![Stars](https://img.shields.io/github/stars/giancarloerra/SocratiCode?style=flat-square&color=yellow)](https://github.com/giancarloerra/SocratiCode/stargazers) [![Forks](https://img.shields.io/github/forks/giancarloerra/SocratiCode?style=flat-square&color=blue)](https://github.com/giancarloerra/SocratiCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/giancarloerra/SocratiCode?style=flat-square&color=yellow)](https://github.com/giancarloerra/SocratiCode/stargazers) [![Forks](https://img.shields.io/github/forks/giancarloerra/SocratiCode?style=flat-square&color=blue)](https://github.com/giancarloerra/SocratiCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, interactive HTML viewer, cross-project & branch-aware search, DB/API/infra knowledge. 61% less tokens, 84% fewer calls, 37x faster. Cloud in beta.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 331 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ giancarloerra/SocratiCode：giancarloerra/SocratiCode helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 100/100 |
-| production | 66/100 |
-| outlook | 69/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 70/100 |
 | stars | 72/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

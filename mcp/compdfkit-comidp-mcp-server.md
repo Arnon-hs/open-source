@@ -1,6 +1,6 @@
 # ComPDFKit/ComIDP-MCP-Server
 
-[![Stars](https://img.shields.io/github/stars/ComPDFKit/ComIDP-MCP-Server?style=flat-square&color=yellow)](https://github.com/ComPDFKit/ComIDP-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/ComPDFKit/ComIDP-MCP-Server?style=flat-square&color=blue)](https://github.com/ComPDFKit/ComIDP-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ComPDFKit/ComIDP-MCP-Server?style=flat-square&color=yellow)](https://github.com/ComPDFKit/ComIDP-MCP-Server/stargazers) [![Forks](https://img.shields.io/github/forks/ComPDFKit/ComIDP-MCP-Server?style=flat-square&color=blue)](https://github.com/ComPDFKit/ComIDP-MCP-Server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight MCP (Model Context Protocol) server for integrating ComPDF AI with Claude Desktop, enabling AI-powered intelligent document processing and data extraction from PDFs via natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 97 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ ComPDFKit/ComIDP-MCP-Server 是一个轻量级的 MCP (模型上下文协议) �
 | forks | 24/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

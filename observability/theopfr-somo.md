@@ -1,6 +1,6 @@
 # theopfr/somo
 
-[![Stars](https://img.shields.io/github/stars/theopfr/somo?style=flat-square&color=yellow)](https://github.com/theopfr/somo/stargazers) [![Forks](https://img.shields.io/github/forks/theopfr/somo?style=flat-square&color=blue)](https://github.com/theopfr/somo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theopfr/somo?style=flat-square&color=yellow)](https://github.com/theopfr/somo/stargazers) [![Forks](https://img.shields.io/github/forks/theopfr/somo?style=flat-square&color=blue)](https://github.com/theopfr/somo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ theopfr/somo 提供了一个对人类友好的 `netstat` 替代工具，能够�
 | forks | 45/100 |
 | stars | 73/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 65/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

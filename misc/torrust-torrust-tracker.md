@@ -1,6 +1,6 @@
 # torrust/torrust-tracker
 
-[![Stars](https://img.shields.io/github/stars/torrust/torrust-tracker?style=flat-square&color=yellow)](https://github.com/torrust/torrust-tracker/stargazers) [![Forks](https://img.shields.io/github/forks/torrust/torrust-tracker?style=flat-square&color=blue)](https://github.com/torrust/torrust-tracker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/torrust/torrust-tracker?style=flat-square&color=yellow)](https://github.com/torrust/torrust-tracker/stargazers) [![Forks](https://img.shields.io/github/forks/torrust/torrust-tracker?style=flat-square&color=blue)](https://github.com/torrust/torrust-tracker/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A modern and feature-rich (private) BitTorrent tracker.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 505 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ torrust/torrust-tracker 是用 Rust 编写的现代化、功能丰富的私有 B
 | forks | 43/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

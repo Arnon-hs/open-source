@@ -1,6 +1,6 @@
 # serde-rs/serde
 
-[![Stars](https://img.shields.io/github/stars/serde-rs/serde?style=flat-square&color=yellow)](https://github.com/serde-rs/serde/stargazers) [![Forks](https://img.shields.io/github/forks/serde-rs/serde?style=flat-square&color=blue)](https://github.com/serde-rs/serde/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/serde-rs/serde?style=flat-square&color=yellow)](https://github.com/serde-rs/serde/stargazers) [![Forks](https://img.shields.io/github/forks/serde-rs/serde?style=flat-square&color=blue)](https://github.com/serde-rs/serde/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Serialization framework for Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 917 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ Serde（serde‑rs/serde）是 Rust 生态中最流行的序列化/反序列化�
 | forks | 74/100 |
 | stars | 86/100 |
 | topics | 50/100 |
-| outlook | 82/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

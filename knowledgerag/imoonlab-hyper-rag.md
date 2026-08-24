@@ -1,6 +1,6 @@
 # iMoonLab/Hyper-RAG
 
-[![Stars](https://img.shields.io/github/stars/iMoonLab/Hyper-RAG?style=flat-square&color=yellow)](https://github.com/iMoonLab/Hyper-RAG/stargazers) [![Forks](https://img.shields.io/github/forks/iMoonLab/Hyper-RAG?style=flat-square&color=blue)](https://github.com/iMoonLab/Hyper-RAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iMoonLab/Hyper-RAG?style=flat-square&color=yellow)](https://github.com/iMoonLab/Hyper-RAG/stargazers) [![Forks](https://img.shields.io/github/forks/iMoonLab/Hyper-RAG?style=flat-square&color=blue)](https://github.com/iMoonLab/Hyper-RAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > "Hyper-RAG: Combating LLM Hallucinations using Hypergraph-Driven Retrieval-Augmented Generation" by Yifan Feng, Hao Hu, Shihui Ying, Xingliang Hou, Shiquan Liu, Mingyuan Yang, Junchang Li, Shaoyi Du, Nanning Zheng, Han Hu, and Yue Gao.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ Hyper‑RAG（iMoonLab/Hyper‑RAG）是一套基于超图结构的检索增强�
 | forks | 43/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # danny-avila/LibreChat
 
-[![Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square&color=yellow)](https://github.com/danny-avila/LibreChat/stargazers) [![Forks](https://img.shields.io/github/forks/danny-avila/LibreChat?style=flat-square&color=blue)](https://github.com/danny-avila/LibreChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=flat-square&color=yellow)](https://github.com/danny-avila/LibreChat/stargazers) [![Forks](https://img.shields.io/github/forks/danny-avila/LibreChat?style=flat-square&color=blue)](https://github.com/danny-avila/LibreChat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36.7k |
 | 🍴 **Forks** | 7.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ danny-avila/LibreChat：danny-avila/LibreChat helps turn isolated prompts and to
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 94/100 |
-| production | 70/100 |
-| outlook | 76/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 97/100 |
 | stars | 97/100 |
 | forks | 97/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

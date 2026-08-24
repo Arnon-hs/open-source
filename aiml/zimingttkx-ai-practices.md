@@ -1,6 +1,6 @@
 # zimingttkx/AI-Practices
 
-[![Stars](https://img.shields.io/github/stars/zimingttkx/AI-Practices?style=flat-square&color=yellow)](https://github.com/zimingttkx/AI-Practices/stargazers) [![Forks](https://img.shields.io/github/forks/zimingttkx/AI-Practices?style=flat-square&color=blue)](https://github.com/zimingttkx/AI-Practices/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zimingttkx/AI-Practices?style=flat-square&color=yellow)](https://github.com/zimingttkx/AI-Practices/stargazers) [![Forks](https://img.shields.io/github/forks/zimingttkx/AI-Practices?style=flat-square&color=blue)](https://github.com/zimingttkx/AI-Practices/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🎓 机器学习与深度学习实战教程 | Comprehensive ML & DL Tutorial with Jupyter Notebooks | 包含线性回归、神经网络、CNN、RNN等完整教程
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 454 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ zimingttkx/AI-Practices 是一个开源的机器学习与深度学习实战教�
 | forks | 45/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

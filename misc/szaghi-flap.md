@@ -1,6 +1,6 @@
 # szaghi/FLAP
 
-[![Stars](https://img.shields.io/github/stars/szaghi/FLAP?style=flat-square&color=yellow)](https://github.com/szaghi/FLAP/stargazers) [![Forks](https://img.shields.io/github/forks/szaghi/FLAP?style=flat-square&color=blue)](https://github.com/szaghi/FLAP/network) [![Language](https://img.shields.io/badge/lang-Fortran-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/szaghi/FLAP?style=flat-square&color=yellow)](https://github.com/szaghi/FLAP/stargazers) [![Forks](https://img.shields.io/github/forks/szaghi/FLAP?style=flat-square&color=blue)](https://github.com/szaghi/FLAP/network) [![Language](https://img.shields.io/badge/lang-Fortran-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Fortran command Line Arguments Parser for poor people
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Fortran |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ szaghi/FLAP is a lightweight, pure‑Fortran library that simplifies handling co
 
 ### 中文
 
-szaghi/FLAP：szaghi/FLAP may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+szaghi/FLAP：szaghi/FLAP may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ szaghi/FLAP：szaghi/FLAP may be useful when its README and activity match a con
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ szaghi/FLAP：szaghi/FLAP may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 51/100 |
-| adoption | 45/100 |
-| stars | 47/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 47/100 |
 | topics | 75/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

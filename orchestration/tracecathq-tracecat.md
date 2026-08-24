@@ -1,6 +1,6 @@
 # TracecatHQ/tracecat
 
-[![Stars](https://img.shields.io/github/stars/TracecatHQ/tracecat?style=flat-square&color=yellow)](https://github.com/TracecatHQ/tracecat/stargazers) [![Forks](https://img.shields.io/github/forks/TracecatHQ/tracecat?style=flat-square&color=blue)](https://github.com/TracecatHQ/tracecat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TracecatHQ/tracecat?style=flat-square&color=yellow)](https://github.com/TracecatHQ/tracecat/stargazers) [![Forks](https://img.shields.io/github/forks/TracecatHQ/tracecat?style=flat-square&color=blue)](https://github.com/TracecatHQ/tracecat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source security automation platform for teams and AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 355 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · Automation · AI/ML · Observability · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ TracecatHQ/tracecat: TracecatHQ/tracecat helps turn isolated prompts and tools i
 
 ### Русский
 
-TracecatHQ/tracecat: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+TracecatHQ/tracecat: open-source проект в категориях Orchestration, Automation, AI/ML, Observability, Security. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ TracecatHQ/tracecat：TracecatHQ/tracecat helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 62/100 |
-| outlook | 72/100 |
-| adoption | 72/100 |
-| stars | 76/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

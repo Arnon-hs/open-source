@@ -1,6 +1,6 @@
 # nextcloud/news
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/news?style=flat-square&color=yellow)](https://github.com/nextcloud/news/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/news?style=flat-square&color=blue)](https://github.com/nextcloud/news/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/news?style=flat-square&color=yellow)](https://github.com/nextcloud/news/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/news?style=flat-square&color=blue)](https://github.com/nextcloud/news/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 📰 RSS/Atom feed reader
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 986 |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ nextcloud/news 是一款基于 Nextcloud 的 RSS/Atom 订阅阅读器，提供�
 | forks | 57/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

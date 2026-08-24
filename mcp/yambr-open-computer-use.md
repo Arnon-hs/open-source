@@ -1,0 +1,82 @@
+# Yambr/open-computer-use
+
+[![Stars](https://img.shields.io/github/stars/Yambr/open-computer-use?style=flat-square&color=yellow)](https://github.com/Yambr/open-computer-use/stargazers) [![Forks](https://img.shields.io/github/forks/Yambr/open-computer-use?style=flat-square&color=blue)](https://github.com/Yambr/open-computer-use/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+
+> MCP server that gives any LLM its own computer — managed Docker workspaces with live browser, terminal, code execution, document skills, and autonomous sub-agents. Self-hosted, open-source, pluggable into any model.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 67 |
+| 🍴 **Forks** | 15 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agents` `claude-code` `computer-use` `llm` `mcp-server` `openwebui` `skills`
+
+## 🎯 Categories
+
+MCP · Automation · AI/ML · Backend · DevOps/Infra
+
+## 📝 Summary
+
+### English
+
+Yambr/open-computer-use is an open‑source MCP (Model‑Computer Protocol) server that equips any large language model with its own isolated Docker workspace, complete with a live browser, terminal, code execution, document handling, and autonomous sub‑agents. The self‑hosted platform is fully pluggable into any LLM, enabling seamless AI‑driven computing across both frontend and backend components. It’s designed for developers who want to extend LLM capabilities with secure, containerized environments and customizable extensions.
+
+### Русский
+
+Yambr/open-computer-use — это сервер MCP, который предоставляет любой LLM собственный «компьютер»: управляемые Docker‑контейнеры с живым браузером, терминалом, исполнением кода, обработкой документов и автономными суб‑агентами. Решение полностью открытое, самохостируемое и легко интегрируется в любую модель, позволяя расширять её возможности за счёт полноценного интерактивного окружения. Подходит как для AI/ML, так и для фронтенд‑ и бэкенд‑разработок.
+
+### 中文
+
+Yambr/open-computer-use：Yambr/open-computer-use helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** Yambr/open-computer-use helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 67 GitHub stars
+- 15 forks
+- updated 2026-05-08
+- primary language: Python
+- 7 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 30/100 |
+| stars | 39/100 |
+| topics | 88/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Yambr/open-computer-use) · [← Back to Mcp](./README.md)</sub>

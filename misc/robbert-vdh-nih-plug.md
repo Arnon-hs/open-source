@@ -1,6 +1,6 @@
 # robbert-vdh/nih-plug
 
-[![Stars](https://img.shields.io/github/stars/robbert-vdh/nih-plug?style=flat-square&color=yellow)](https://github.com/robbert-vdh/nih-plug/stargazers) [![Forks](https://img.shields.io/github/forks/robbert-vdh/nih-plug?style=flat-square&color=blue)](https://github.com/robbert-vdh/nih-plug/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robbert-vdh/nih-plug?style=flat-square&color=yellow)](https://github.com/robbert-vdh/nih-plug/stargazers) [![Forks](https://img.shields.io/github/forks/robbert-vdh/nih-plug?style=flat-square&color=blue)](https://github.com/robbert-vdh/nih-plug/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ robbert-vdh/nih-plug：robbert-vdh/nih-plug may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 70/100 |
-| stars | 73/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

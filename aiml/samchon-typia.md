@@ -1,6 +1,6 @@
 # samchon/typia
 
-[![Stars](https://img.shields.io/github/stars/samchon/typia?style=flat-square&color=yellow)](https://github.com/samchon/typia/stargazers) [![Forks](https://img.shields.io/github/forks/samchon/typia?style=flat-square&color=blue)](https://github.com/samchon/typia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samchon/typia?style=flat-square&color=yellow)](https://github.com/samchon/typia/stargazers) [![Forks](https://img.shields.io/github/forks/samchon/typia?style=flat-square&color=blue)](https://github.com/samchon/typia/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Mentioned in dev.to article (tag programming): VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-05-04 |
 | 🔍 **Source** | devto |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once: VR Coding for 
 
 ### Русский
 
-VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once: open-source проект в категориях AI/ML, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once: open-source проект в категориях AI/ML, Observability. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -62,16 +62,16 @@ VR Coding for the AI Coding Era - Monitoring 5 AI Agents at Once：VR Coding for
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 30/100 |
-| integration | 30/100 |
-| production | 39/100 |
-| outlook | 42/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 35/100 |
+| quality | 25/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 32/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
 
 ---

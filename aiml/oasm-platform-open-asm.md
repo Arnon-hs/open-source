@@ -1,6 +1,6 @@
 # oasm-platform/open-asm
 
-[![Stars](https://img.shields.io/github/stars/oasm-platform/open-asm?style=flat-square&color=yellow)](https://github.com/oasm-platform/open-asm/stargazers) [![Forks](https://img.shields.io/github/forks/oasm-platform/open-asm?style=flat-square&color=blue)](https://github.com/oasm-platform/open-asm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oasm-platform/open-asm?style=flat-square&color=yellow)](https://github.com/oasm-platform/open-asm/stargazers) [![Forks](https://img.shields.io/github/forks/oasm-platform/open-asm?style=flat-square&color=blue)](https://github.com/oasm-platform/open-asm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source platform for cybersecurity Attack Surface Management (OASM).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Open‑ASM — открытая платформа для управления
 
 ### 中文
 
-oasm-platform/open-asm：oasm-platform/open-asm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+oasm-platform/open-asm：oasm-platform/open-asm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ oasm-platform/open-asm：oasm-platform/open-asm helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ oasm-platform/open-asm：oasm-platform/open-asm helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 39/100 |
-| stars | 43/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

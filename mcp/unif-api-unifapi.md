@@ -1,6 +1,6 @@
 # unif-api/unifapi
 
-[![Stars](https://img.shields.io/github/stars/unif-api/unifapi?style=flat-square&color=yellow)](https://github.com/unif-api/unifapi/stargazers) [![Forks](https://img.shields.io/github/forks/unif-api/unifapi?style=flat-square&color=blue)](https://github.com/unif-api/unifapi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unif-api/unifapi?style=flat-square&color=yellow)](https://github.com/unif-api/unifapi/stargazers) [![Forks](https://img.shields.io/github/forks/unif-api/unifapi?style=flat-square&color=blue)](https://github.com/unif-api/unifapi/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > UnifAPI — One Unified API for AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 476 |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ UnifAPI（`unif-api/unifapi`）提供“一站式统一 API”，让 AI 助手�
 | forks | 50/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

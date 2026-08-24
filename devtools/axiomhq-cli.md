@@ -1,6 +1,6 @@
 # axiomhq/cli
 
-[![Stars](https://img.shields.io/github/stars/axiomhq/cli?style=flat-square&color=yellow)](https://github.com/axiomhq/cli/stargazers) [![Forks](https://img.shields.io/github/forks/axiomhq/cli?style=flat-square&color=blue)](https://github.com/axiomhq/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/axiomhq/cli?style=flat-square&color=yellow)](https://github.com/axiomhq/cli/stargazers) [![Forks](https://img.shields.io/github/forks/axiomhq/cli?style=flat-square&color=blue)](https://github.com/axiomhq/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The power of Axiom on the command line.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ With those checks completed, axiomhq/cli can be safely adopted for internal work
 | forks | 27/100 |
 | stars | 38/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

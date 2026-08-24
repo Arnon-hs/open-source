@@ -1,6 +1,6 @@
 # rust-embedded/awesome-embedded-rust
 
-[![Stars](https://img.shields.io/github/stars/rust-embedded/awesome-embedded-rust?style=flat-square&color=yellow)](https://github.com/rust-embedded/awesome-embedded-rust/stargazers) [![Forks](https://img.shields.io/github/forks/rust-embedded/awesome-embedded-rust?style=flat-square&color=blue)](https://github.com/rust-embedded/awesome-embedded-rust/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-embedded/awesome-embedded-rust?style=flat-square&color=yellow)](https://github.com/rust-embedded/awesome-embedded-rust/stargazers) [![Forks](https://img.shields.io/github/forks/rust-embedded/awesome-embedded-rust?style=flat-square&color=blue)](https://github.com/rust-embedded/awesome-embedded-rust/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of resources for Embedded and Low-level development in the Rust programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 476 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ rust-embedded/awesome-embedded-rust：rust-embedded/awesome-embedded-rust may be
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 78/100 |
-| stars | 83/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| stars | 83/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # C24Be/AS_Network_List
 
-[![Stars](https://img.shields.io/github/stars/C24Be/AS_Network_List?style=flat-square&color=yellow)](https://github.com/C24Be/AS_Network_List/stargazers) [![Forks](https://img.shields.io/github/forks/C24Be/AS_Network_List?style=flat-square&color=blue)](https://github.com/C24Be/AS_Network_List/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/C24Be/AS_Network_List?style=flat-square&color=yellow)](https://github.com/C24Be/AS_Network_List/stargazers) [![Forks](https://img.shields.io/github/forks/C24Be/AS_Network_List?style=flat-square&color=blue)](https://github.com/C24Be/AS_Network_List/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Blacklists generator of subnets of Russian government agencies for blocking them on one's servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 526 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ C24Be/AS_Network_List — это открытый backend‑инструмен
 
 ### 中文
 
-C24Be/AS_Network_List：C24Be/AS_Network_List helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+C24Be/AS_Network_List：C24Be/AS_Network_List helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ C24Be/AS_Network_List：C24Be/AS_Network_List helps teams reuse service infrastr
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ C24Be/AS_Network_List：C24Be/AS_Network_List helps teams reuse service infrastr
 - updated 2026-05-09
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 62/100 |
-| production | 53/100 |
-| outlook | 45/100 |
+| production | 46/100 |
+| outlook | 38/100 |
 | adoption | 50/100 |
 | stars | 58/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

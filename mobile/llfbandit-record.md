@@ -1,6 +1,6 @@
 # llfbandit/record
 
-[![Stars](https://img.shields.io/github/stars/llfbandit/record?style=flat-square&color=yellow)](https://github.com/llfbandit/record/stargazers) [![Forks](https://img.shields.io/github/forks/llfbandit/record?style=flat-square&color=blue)](https://github.com/llfbandit/record/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/llfbandit/record?style=flat-square&color=yellow)](https://github.com/llfbandit/record/stargazers) [![Forks](https://img.shields.io/github/forks/llfbandit/record?style=flat-square&color=blue)](https://github.com/llfbandit/record/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Audio recorder plugin for Flutter with multiple options.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 312 |
 | 🍴 **Forks** | 295 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **llfbandit/record** plugin provides a simple yet powerful audio recording s
 
 ### 中文
 
-llfbandit/record：llfbandit/record may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+llfbandit/record：llfbandit/record may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ llfbandit/record：llfbandit/record may be useful when its README and activity m
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -56,22 +56,22 @@ llfbandit/record：llfbandit/record may be useful when its README and activity m
 - updated 2026-05-09
 - primary language: Kotlin
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 46/100 |
-| adoption | 56/100 |
-| stars | 53/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

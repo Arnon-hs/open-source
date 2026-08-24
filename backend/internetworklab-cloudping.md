@@ -1,6 +1,6 @@
 # internetworklab/cloudping
 
-[![Stars](https://img.shields.io/github/stars/internetworklab/cloudping?style=flat-square&color=yellow)](https://github.com/internetworklab/cloudping/stargazers) [![Forks](https://img.shields.io/github/forks/internetworklab/cloudping?style=flat-square&color=blue)](https://github.com/internetworklab/cloudping/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/internetworklab/cloudping?style=flat-square&color=yellow)](https://github.com/internetworklab/cloudping/stargazers) [![Forks](https://img.shields.io/github/forks/internetworklab/cloudping?style=flat-square&color=blue)](https://github.com/internetworklab/cloudping/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Simple web-based ping & traceroute
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Internetworklab’s **cloudping** is a lightweight, web‑based utility that let
 
 ### 中文
 
-internetworklab/cloudping：internetworklab/cloudping helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+internetworklab/cloudping：internetworklab/cloudping helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ internetworklab/cloudping：internetworklab/cloudping helps teams reuse service 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ internetworklab/cloudping：internetworklab/cloudping helps teams reuse service 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 47/100 |
+| outlook | 45/100 |
 | adoption | 25/100 |
 | stars | 29/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

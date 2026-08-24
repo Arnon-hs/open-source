@@ -1,6 +1,6 @@
 # horsicq/PDBRipper
 
-[![Stars](https://img.shields.io/github/stars/horsicq/PDBRipper?style=flat-square&color=yellow)](https://github.com/horsicq/PDBRipper/stargazers) [![Forks](https://img.shields.io/github/forks/horsicq/PDBRipper?style=flat-square&color=blue)](https://github.com/horsicq/PDBRipper/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/horsicq/PDBRipper?style=flat-square&color=yellow)](https://github.com/horsicq/PDBRipper/stargazers) [![Forks](https://img.shields.io/github/forks/horsicq/PDBRipper?style=flat-square&color=blue)](https://github.com/horsicq/PDBRipper/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > PDBRipper is a utility for extract an information from PDB-files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 891 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Horsicq/PDBRipper — это простая утилита с открытым
 
 ### 中文
 
-horsicq/PDBRipper：horsicq/PDBRipper may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+horsicq/PDBRipper：horsicq/PDBRipper may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ horsicq/PDBRipper：horsicq/PDBRipper may be useful when its README and activity
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ horsicq/PDBRipper：horsicq/PDBRipper may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 59/100 |
-| stars | 63/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 63/100 |
 | topics | 75/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

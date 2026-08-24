@@ -1,6 +1,6 @@
 # swoole/swoole-src
 
-[![Stars](https://img.shields.io/github/stars/swoole/swoole-src?style=flat-square&color=yellow)](https://github.com/swoole/swoole-src/stargazers) [![Forks](https://img.shields.io/github/forks/swoole/swoole-src?style=flat-square&color=blue)](https://github.com/swoole/swoole-src/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swoole/swoole-src?style=flat-square&color=yellow)](https://github.com/swoole/swoole-src/stargazers) [![Forks](https://img.shields.io/github/forks/swoole/swoole-src?style=flat-square&color=blue)](https://github.com/swoole/swoole-src/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Coroutine-based concurrency library for PHP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.9k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,16 +67,16 @@ swoole/swoole-src：swoole/swoole-src may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 90/100 |
-| stars | 91/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| stars | 91/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

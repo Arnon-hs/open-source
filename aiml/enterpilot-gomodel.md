@@ -1,6 +1,6 @@
 # ENTERPILOT/GoModel
 
-[![Stars](https://img.shields.io/github/stars/ENTERPILOT/GoModel?style=flat-square&color=yellow)](https://github.com/ENTERPILOT/GoModel/stargazers) [![Forks](https://img.shields.io/github/forks/ENTERPILOT/GoModel?style=flat-square&color=blue)](https://github.com/ENTERPILOT/GoModel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ENTERPILOT/GoModel?style=flat-square&color=yellow)](https://github.com/ENTERPILOT/GoModel/stargazers) [![Forks](https://img.shields.io/github/forks/ENTERPILOT/GoModel?style=flat-square&color=blue)](https://github.com/ENTERPILOT/GoModel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI & Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 852 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Backend · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ENTERPILOT/GoModel：ENTERPILOT/GoModel helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
-| adoption | 57/100 |
-| stars | 62/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

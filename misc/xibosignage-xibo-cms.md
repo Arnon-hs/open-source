@@ -1,6 +1,6 @@
 # xibosignage/xibo-cms
 
-[![Stars](https://img.shields.io/github/stars/xibosignage/xibo-cms?style=flat-square&color=yellow)](https://github.com/xibosignage/xibo-cms/stargazers) [![Forks](https://img.shields.io/github/forks/xibosignage/xibo-cms?style=flat-square&color=blue)](https://github.com/xibosignage/xibo-cms/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xibosignage/xibo-cms?style=flat-square&color=yellow)](https://github.com/xibosignage/xibo-cms/stargazers) [![Forks](https://img.shields.io/github/forks/xibosignage/xibo-cms?style=flat-square&color=blue)](https://github.com/xibosignage/xibo-cms/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Xibo Content Management System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 486 |
 | 🍴 **Forks** | 340 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Xibo CMS 是一款基于 PHP 的开源数字标牌内容管理系统，提供�
 | forks | 63/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 59/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

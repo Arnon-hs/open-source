@@ -1,6 +1,6 @@
 # elastic/integrations
 
-[![Stars](https://img.shields.io/github/stars/elastic/integrations?style=flat-square&color=yellow)](https://github.com/elastic/integrations/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/integrations?style=flat-square&color=blue)](https://github.com/elastic/integrations/network) [![Language](https://img.shields.io/badge/lang-Handlebars-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elastic/integrations?style=flat-square&color=yellow)](https://github.com/elastic/integrations/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/integrations?style=flat-square&color=blue)](https://github.com/elastic/integrations/network) [![Language](https://img.shields.io/badge/lang-Handlebars-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 323 |
 | 🍴 **Forks** | 598 |
 | 💻 **Language** | Handlebars |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ elastic/integrations 是 Elastic 官方维护的一个 Handlebars 模板库，�
 | forks | 69/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

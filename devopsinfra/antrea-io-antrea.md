@@ -1,6 +1,6 @@
 # antrea-io/antrea
 
-[![Stars](https://img.shields.io/github/stars/antrea-io/antrea?style=flat-square&color=yellow)](https://github.com/antrea-io/antrea/stargazers) [![Forks](https://img.shields.io/github/forks/antrea-io/antrea?style=flat-square&color=blue)](https://github.com/antrea-io/antrea/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antrea-io/antrea?style=flat-square&color=yellow)](https://github.com/antrea-io/antrea/stargazers) [![Forks](https://img.shields.io/github/forks/antrea-io/antrea?style=flat-square&color=blue)](https://github.com/antrea-io/antrea/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Kubernetes networking based on Open vSwitch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 465 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Antrea（antrea-io/antrea）是基于 Open vSwitch 的 Kubernetes 网络插件�
 | forks | 67/100 |
 | stars | 69/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # PradeepaRW/project-nova
 
-[![Stars](https://img.shields.io/github/stars/PradeepaRW/project-nova?style=flat-square&color=yellow)](https://github.com/PradeepaRW/project-nova/stargazers) [![Forks](https://img.shields.io/github/forks/PradeepaRW/project-nova?style=flat-square&color=blue)](https://github.com/PradeepaRW/project-nova/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PradeepaRW/project-nova?style=flat-square&color=yellow)](https://github.com/PradeepaRW/project-nova/stargazers) [![Forks](https://img.shields.io/github/forks/PradeepaRW/project-nova?style=flat-square&color=blue)](https://github.com/PradeepaRW/project-nova/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from knowledge bases to DAWs, home automation to development tools. Includes system prompts, Dockerfiles, and workflows for a complete AI assistant ecosystem.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ PradeepaRW/project-nova：PradeepaRW/project-nova helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 94/100 |
-| production | 59/100 |
-| outlook | 61/100 |
-| adoption | 29/100 |
-| stars | 32/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

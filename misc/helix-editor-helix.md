@@ -1,6 +1,6 @@
 # helix-editor/helix
 
-[![Stars](https://img.shields.io/github/stars/helix-editor/helix?style=flat-square&color=yellow)](https://github.com/helix-editor/helix/stargazers) [![Forks](https://img.shields.io/github/forks/helix-editor/helix?style=flat-square&color=blue)](https://github.com/helix-editor/helix/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/helix-editor/helix?style=flat-square&color=yellow)](https://github.com/helix-editor/helix/stargazers) [![Forks](https://img.shields.io/github/forks/helix-editor/helix?style=flat-square&color=blue)](https://github.com/helix-editor/helix/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A post-modern modal text editor.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44.3k |
 | 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ Helix（`helix-editor/helix`）是一款基于 Rust 的后现代**模态文本�
 | forks | 88/100 |
 | stars | 99/100 |
 | topics | 50/100 |
-| outlook | 82/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 71/100 |
+| recency | 20/100 |
 | adoption | 96/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

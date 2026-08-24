@@ -1,6 +1,6 @@
 # Dicklesworthstone/meta_skill
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/meta_skill?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/meta_skill/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/meta_skill?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/meta_skill/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/meta_skill?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/meta_skill/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/meta_skill?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/meta_skill/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first skill management platform for AI coding agents: dual SQLite+Git persistence, semantic search, bandit-optimized suggestions, and MCP integration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 176 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Dicklesworth​stone/meta_skill 是一款面向 AI 编码助手的本地优先�
 | forks | 38/100 |
 | stars | 48/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

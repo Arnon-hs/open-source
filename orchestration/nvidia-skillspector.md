@@ -1,6 +1,6 @@
 # NVIDIA/SkillSpector
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=flat-square&color=yellow)](https://github.com/NVIDIA/SkillSpector/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/SkillSpector?style=flat-square&color=blue)](https://github.com/NVIDIA/SkillSpector/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=flat-square&color=yellow)](https://github.com/NVIDIA/SkillSpector/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/SkillSpector?style=flat-square&color=blue)](https://github.com/NVIDIA/SkillSpector/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.3k |
 | 🍴 **Forks** | 825 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ NVIDIA/SkillSpector 是一款面向 AI 代理（agent）技能的安全扫描器
 | forks | 73/100 |
 | stars | 85/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

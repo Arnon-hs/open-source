@@ -1,6 +1,6 @@
 # zaxbysauce/opencode-swarm
 
-[![Stars](https://img.shields.io/github/stars/zaxbysauce/opencode-swarm?style=flat-square&color=yellow)](https://github.com/zaxbysauce/opencode-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/zaxbysauce/opencode-swarm?style=flat-square&color=blue)](https://github.com/zaxbysauce/opencode-swarm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zaxbysauce/opencode-swarm?style=flat-square&color=yellow)](https://github.com/zaxbysauce/opencode-swarm/stargazers) [![Forks](https://img.shields.io/github/forks/zaxbysauce/opencode-swarm?style=flat-square&color=blue)](https://github.com/zaxbysauce/opencode-swarm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ zaxbysauce/opencode-swarm: zaxbysauce/opencode-swarm helps turn isolated prompts
 
 ### Русский
 
-zaxbysauce/opencode-swarm: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+zaxbysauce/opencode-swarm: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ zaxbysauce/opencode-swarm：zaxbysauce/opencode-swarm helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 62/100 |
-| integration | 94/100 |
-| production | 62/100 |
-| outlook | 66/100 |
-| adoption | 49/100 |
-| stars | 53/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

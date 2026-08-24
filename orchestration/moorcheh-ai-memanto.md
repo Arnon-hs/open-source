@@ -1,6 +1,6 @@
 # moorcheh-ai/memanto
 
-[![Stars](https://img.shields.io/github/stars/moorcheh-ai/memanto?style=flat-square&color=yellow)](https://github.com/moorcheh-ai/memanto/stargazers) [![Forks](https://img.shields.io/github/forks/moorcheh-ai/memanto?style=flat-square&color=blue)](https://github.com/moorcheh-ai/memanto/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moorcheh-ai/memanto?style=flat-square&color=yellow)](https://github.com/moorcheh-ai/memanto/stargazers) [![Forks](https://img.shields.io/github/forks/moorcheh-ai/memanto?style=flat-square&color=blue)](https://github.com/moorcheh-ai/memanto/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Memory that AI Agents Love!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Mémanto is an open‑source memory layer designed specifically for AI agents, p
 
 ### 中文
 
-moorcheh-ai/memanto：moorcheh-ai/memanto helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+moorcheh-ai/memanto：moorcheh-ai/memanto helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ moorcheh-ai/memanto：moorcheh-ai/memanto helps turn isolated prompts and tools 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ moorcheh-ai/memanto：moorcheh-ai/memanto helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 58/100 |
-| adoption | 35/100 |
-| stars | 35/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

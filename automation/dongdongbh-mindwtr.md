@@ -1,6 +1,6 @@
 # dongdongbh/Mindwtr
 
-[![Stars](https://img.shields.io/github/stars/dongdongbh/Mindwtr?style=flat-square&color=yellow)](https://github.com/dongdongbh/Mindwtr/stargazers) [![Forks](https://img.shields.io/github/forks/dongdongbh/Mindwtr?style=flat-square&color=blue)](https://github.com/dongdongbh/Mindwtr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dongdongbh/Mindwtr?style=flat-square&color=yellow)](https://github.com/dongdongbh/Mindwtr/stargazers) [![Forks](https://img.shields.io/github/forks/dongdongbh/Mindwtr?style=flat-square&color=blue)](https://github.com/dongdongbh/Mindwtr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A complete Getting Things Done (GTD) productivity system for desktop and mobile.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Database · Product
+Automation
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Mindwtr 是一套完整的 Getting Things Done（GTD）生产力系统，支持�
 | forks | 46/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

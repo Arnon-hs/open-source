@@ -1,6 +1,6 @@
 # opensearch-project/opensearch-build
 
-[![Stars](https://img.shields.io/github/stars/opensearch-project/opensearch-build?style=flat-square&color=yellow)](https://github.com/opensearch-project/opensearch-build/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/opensearch-build?style=flat-square&color=blue)](https://github.com/opensearch-project/opensearch-build/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensearch-project/opensearch-build?style=flat-square&color=yellow)](https://github.com/opensearch-project/opensearch-build/stargazers) [![Forks](https://img.shields.io/github/forks/opensearch-project/opensearch-build?style=flat-square&color=blue)](https://github.com/opensearch-project/opensearch-build/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🧰  OpenSearch / OpenSearch-Dashboards Build Systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 333 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenSearch‑Build — это открытая система сборки и 
 
 ### 中文
 
-opensearch-project/opensearch-build：opensearch-project/opensearch-build helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+opensearch-project/opensearch-build：opensearch-project/opensearch-build helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ opensearch-project/opensearch-build：opensearch-project/opensearch-build helps 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ opensearch-project/opensearch-build：opensearch-project/opensearch-build helps 
 - updated 2026-05-08
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 53/100 |
 | stars | 49/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # taglib/taglib
 
-[![Stars](https://img.shields.io/github/stars/taglib/taglib?style=flat-square&color=yellow)](https://github.com/taglib/taglib/stargazers) [![Forks](https://img.shields.io/github/forks/taglib/taglib?style=flat-square&color=blue)](https://github.com/taglib/taglib/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/taglib/taglib?style=flat-square&color=yellow)](https://github.com/taglib/taglib/stargazers) [![Forks](https://img.shields.io/github/forks/taglib/taglib?style=flat-square&color=blue)](https://github.com/taglib/taglib/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > TagLib Audio Meta-Data Library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 385 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TagLib — это кроссплатформенная открытая биб
 
 ### 中文
 
-taglib/taglib：taglib/taglib helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+taglib/taglib：taglib/taglib helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ taglib/taglib：taglib/taglib helps convert raw data into searchable, analyzable
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ taglib/taglib：taglib/taglib helps convert raw data into searchable, analyzable
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 66/100 |
 | stars | 67/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

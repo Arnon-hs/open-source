@@ -1,6 +1,6 @@
 # OMARVII/claude-alloy
 
-[![Stars](https://img.shields.io/github/stars/OMARVII/claude-alloy?style=flat-square&color=yellow)](https://github.com/OMARVII/claude-alloy/stargazers) [![Forks](https://img.shields.io/github/forks/OMARVII/claude-alloy?style=flat-square&color=blue)](https://github.com/OMARVII/claude-alloy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OMARVII/claude-alloy?style=flat-square&color=yellow)](https://github.com/OMARVII/claude-alloy/stargazers) [![Forks](https://img.shields.io/github/forks/OMARVII/claude-alloy?style=flat-square&color=blue)](https://github.com/OMARVII/claude-alloy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 14-agent orchestration harness for Claude Code — pure config, no runtime, no wrapper
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ OMARVII/claude-alloy is a lightweight, configuration‑only framework that orche
 
 ### 中文
 
-OMARVII/claude-alloy：OMARVII/claude-alloy helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OMARVII/claude-alloy：OMARVII/claude-alloy helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OMARVII/claude-alloy：OMARVII/claude-alloy helps turn isolated prompts and tool
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ OMARVII/claude-alloy：OMARVII/claude-alloy helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 63/100 |
-| adoption | 37/100 |
-| stars | 43/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 49/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

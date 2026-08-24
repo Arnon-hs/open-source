@@ -1,6 +1,6 @@
 # karafka/karafka
 
-[![Stars](https://img.shields.io/github/stars/karafka/karafka?style=flat-square&color=yellow)](https://github.com/karafka/karafka/stargazers) [![Forks](https://img.shields.io/github/forks/karafka/karafka?style=flat-square&color=blue)](https://github.com/karafka/karafka/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karafka/karafka?style=flat-square&color=yellow)](https://github.com/karafka/karafka/stargazers) [![Forks](https://img.shields.io/github/forks/karafka/karafka?style=flat-square&color=blue)](https://github.com/karafka/karafka/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Ruby and Rails efficient Kafka processing framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 189 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ karafka/karafka：karafka/karafka helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 69/100 |
+| production | 52/100 |
+| outlook | 62/100 |
 | adoption | 67/100 |
 | stars | 71/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

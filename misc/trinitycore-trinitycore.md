@@ -1,6 +1,6 @@
 # TrinityCore/TrinityCore
 
-[![Stars](https://img.shields.io/github/stars/TrinityCore/TrinityCore?style=flat-square&color=yellow)](https://github.com/TrinityCore/TrinityCore/stargazers) [![Forks](https://img.shields.io/github/forks/TrinityCore/TrinityCore?style=flat-square&color=blue)](https://github.com/TrinityCore/TrinityCore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TrinityCore/TrinityCore?style=flat-square&color=yellow)](https://github.com/TrinityCore/TrinityCore/stargazers) [![Forks](https://img.shields.io/github/forks/TrinityCore/TrinityCore?style=flat-square&color=blue)](https://github.com/TrinityCore/TrinityCore/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > TrinityCore Open Source MMO Framework (master = 12.0.5.67314, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.5k |
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ TrinityCore/TrinityCore：TrinityCore/TrinityCore may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 78/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 88/100 |
-| stars | 86/100 |
 | forks | 95/100 |
-| recency | 40/100 |
+| stars | 86/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

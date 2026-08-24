@@ -1,6 +1,6 @@
 # mozilla/addons-frontend
 
-[![Stars](https://img.shields.io/github/stars/mozilla/addons-frontend?style=flat-square&color=yellow)](https://github.com/mozilla/addons-frontend/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/addons-frontend?style=flat-square&color=blue)](https://github.com/mozilla/addons-frontend/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla/addons-frontend?style=flat-square&color=yellow)](https://github.com/mozilla/addons-frontend/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/addons-frontend?style=flat-square&color=blue)](https://github.com/mozilla/addons-frontend/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Front-end to complement mozilla/addons-server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 547 |
 | 🍴 **Forks** | 407 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ mozilla/addons-frontend 为 Mozilla Add‑ons 项目提供了一套已经实�
 | forks | 65/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

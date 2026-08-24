@@ -1,6 +1,6 @@
 # unknown-studio-dev/hoangsa
 
-[![Stars](https://img.shields.io/github/stars/unknown-studio-dev/hoangsa?style=flat-square&color=yellow)](https://github.com/unknown-studio-dev/hoangsa/stargazers) [![Forks](https://img.shields.io/github/forks/unknown-studio-dev/hoangsa?style=flat-square&color=blue)](https://github.com/unknown-studio-dev/hoangsa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unknown-studio-dev/hoangsa?style=flat-square&color=yellow)](https://github.com/unknown-studio-dev/hoangsa/stargazers) [![Forks](https://img.shields.io/github/forks/unknown-studio-dev/hoangsa?style=flat-square&color=blue)](https://github.com/unknown-studio-dev/hoangsa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > HOANGSA is a context engineering system for Claude Code. It solves a fundamental problem: Claude's output quality degrades as the context window fills up.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ HOANGSA 为 Claude Code 在长上下文场景下提供了实用的质量保障
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 63/100 |
-| outlook | 66/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

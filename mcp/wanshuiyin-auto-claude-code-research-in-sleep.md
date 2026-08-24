@@ -1,6 +1,6 @@
 # wanshuiyin/Auto-claude-code-research-in-sleep
 
-[![Stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square&color=yellow)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/stargazers) [![Forks](https://img.shields.io/github/forks/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square&color=blue)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square&color=yellow)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/stargazers) [![Forks](https://img.shields.io/github/forks/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square&color=blue)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13k |
-| 🍴 **Forks** | 1.2k |
+| ⭐ **Stars** | 8.3k |
+| 🍴 **Forks** | 778 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
 ### English
 
-wanshuiyin/Auto-claude-code-research-in-sleep: wanshuiyin/Auto-claude-code-research-in-sleep helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wanshuiyin/Auto-claude-code-research-in-sleep: wanshuiyin/Auto-claude-code-research-in-sleep helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-wanshuiyin/Auto-claude-code-research-in-sleep: open-source проект в категориях MCP, Automation, AI/ML, Frontend, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+wanshuiyin/Auto-claude-code-research-in-sleep: open-source проект в категориях MCP, Automation, AI/ML, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-research-in-sleep helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-research-in-sleep helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-rese
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 12980 GitHub stars
-- 1176 forks
-- updated 2026-07-04
+- 8329 GitHub stars
+- 778 forks
+- updated 2026-05-07
 - primary language: Python
 - 20 topics
 
@@ -65,18 +65,18 @@ wanshuiyin/Auto-claude-code-research-in-sleep：wanshuiyin/Auto-claude-code-rese
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 93/100 |
-| integration | 62/100 |
-| production | 83/100 |
-| outlook | 96/100 |
-| adoption | 85/100 |
-| stars | 88/100 |
-| forks | 77/100 |
-| recency | 100/100 |
+| forks | 72/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · [← Back to Mcp](./README.md)</sub>

@@ -1,0 +1,82 @@
+# erwinkramer/bank-api
+
+[![Stars](https://img.shields.io/github/stars/erwinkramer/bank-api?style=flat-square&color=yellow)](https://github.com/erwinkramer/bank-api/stargazers) [![Forks](https://img.shields.io/github/forks/erwinkramer/bank-api?style=flat-square&color=blue)](https://github.com/erwinkramer/bank-api/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+
+> The Bank API is a design reference project suitable to bootstrap development for a compliant and modern API.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 831 |
+| 🍴 **Forks** | 76 |
+| 💻 **Language** | C# |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`api` `architecture` `asp-net-core` `aspnet-core` `dotnet` `gridify` `mcp` `mcp-server` `minimal-api` `scalar` `spectral`
+
+## 🎯 Categories
+
+MCP · Backend · Design
+
+## 📝 Summary
+
+### English
+
+The **Bank API** is an open‑source reference implementation that demonstrates how to build a clean, standards‑compliant banking API using modern design principles. It provides a ready‑to‑run full‑stack example—including both frontend and backend components—so developers can quickly bootstrap their own secure, scalable financial services.
+
+### Русский
+
+**erwinkramer/bank-api** — это открытый референс‑проект, демонстрирующий построение современного и соответствующего нормативным требованиям банковского API. Он включает готовую архитектуру как для фронтенда, так и для бэкенда, а также подробный дизайн‑спецификатор, позволяющий быстро стартовать разработку безопасных финансовых сервисов.
+
+### 中文
+
+erwinkramer/bank-api：erwinkramer/bank-api helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** erwinkramer/bank-api helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 831 GitHub stars
+- 76 forks
+- updated 2026-05-10
+- primary language: C#
+- 11 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 47/100 |
+| stars | 62/100 |
+| topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/erwinkramer/bank-api) · [← Back to Mcp](./README.md)</sub>

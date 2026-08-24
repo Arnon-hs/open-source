@@ -1,6 +1,6 @@
 # bartholomej/svelte-sitemap
 
-[![Stars](https://img.shields.io/github/stars/bartholomej/svelte-sitemap?style=flat-square&color=yellow)](https://github.com/bartholomej/svelte-sitemap/stargazers) [![Forks](https://img.shields.io/github/forks/bartholomej/svelte-sitemap?style=flat-square&color=blue)](https://github.com/bartholomej/svelte-sitemap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bartholomej/svelte-sitemap?style=flat-square&color=yellow)](https://github.com/bartholomej/svelte-sitemap/stargazers) [![Forks](https://img.shields.io/github/forks/bartholomej/svelte-sitemap?style=flat-square&color=blue)](https://github.com/bartholomej/svelte-sitemap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Sitemap generator for SvelteKit. Small helper which scans your SvelteKit routes and generates static sitemap.xml
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 350 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bartholomej/svelte-sitemap：bartholomej/svelte-sitemap helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 46/100 |
 | stars | 54/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

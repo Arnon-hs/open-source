@@ -1,6 +1,6 @@
 # nightflyza/Ubilling
 
-[![Stars](https://img.shields.io/github/stars/nightflyza/Ubilling?style=flat-square&color=yellow)](https://github.com/nightflyza/Ubilling/stargazers) [![Forks](https://img.shields.io/github/forks/nightflyza/Ubilling?style=flat-square&color=blue)](https://github.com/nightflyza/Ubilling/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nightflyza/Ubilling?style=flat-square&color=yellow)](https://github.com/nightflyza/Ubilling/stargazers) [![Forks](https://img.shields.io/github/forks/nightflyza/Ubilling?style=flat-square&color=blue)](https://github.com/nightflyza/Ubilling/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Ubilling is an open-source billing system designed for Internet service providers (ISPs). It provides tools for managing subscribers, handling payments and creating detailed reports. Ubilling allows control and monitoring of a wide range of network equipment and can be easily extended with custom functionality.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend
+Payments · Observability
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Ubilling — это открытая биллинговая платформа
 
 ### 中文
 
-nightflyza/Ubilling：nightflyza/Ubilling helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nightflyza/Ubilling：nightflyza/Ubilling helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ nightflyza/Ubilling：nightflyza/Ubilling helps integrate monetization, billing,
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ nightflyza/Ubilling：nightflyza/Ubilling helps integrate monetization, billing,
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 61/100 |
-| adoption | 49/100 |
-| stars | 48/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # remix-run/remix
 
-[![Stars](https://img.shields.io/github/stars/remix-run/remix?style=flat-square&color=yellow)](https://github.com/remix-run/remix/stargazers) [![Forks](https://img.shields.io/github/forks/remix-run/remix?style=flat-square&color=blue)](https://github.com/remix-run/remix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/remix-run/remix?style=flat-square&color=yellow)](https://github.com/remix-run/remix/stargazers) [![Forks](https://img.shields.io/github/forks/remix-run/remix?style=flat-square&color=blue)](https://github.com/remix-run/remix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.9k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ remix-run/remix：remix-run/remix helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 51/100 |
+| outlook | 49/100 |
 | adoption | 93/100 |
 | stars | 96/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

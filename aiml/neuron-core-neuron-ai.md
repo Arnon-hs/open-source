@@ -1,6 +1,6 @@
 # neuron-core/neuron-ai
 
-[![Stars](https://img.shields.io/github/stars/neuron-core/neuron-ai?style=flat-square&color=yellow)](https://github.com/neuron-core/neuron-ai/stargazers) [![Forks](https://img.shields.io/github/forks/neuron-core/neuron-ai?style=flat-square&color=blue)](https://github.com/neuron-core/neuron-ai/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neuron-core/neuron-ai?style=flat-square&color=yellow)](https://github.com/neuron-core/neuron-ai/stargazers) [![Forks](https://img.shields.io/github/forks/neuron-core/neuron-ai?style=flat-square&color=blue)](https://github.com/neuron-core/neuron-ai/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Neuro​n‑Core/Neuron‑AI is an open‑source PHP framework that lets develop
 
 ### 中文
 
-neuron-core/neuron-ai：neuron-core/neuron-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+neuron-core/neuron-ai：neuron-core/neuron-ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ neuron-core/neuron-ai：neuron-core/neuron-ai helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ neuron-core/neuron-ai：neuron-core/neuron-ai helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 30/100 |
-| production | 56/100 |
-| outlook | 65/100 |
-| adoption | 67/100 |
-| stars | 70/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

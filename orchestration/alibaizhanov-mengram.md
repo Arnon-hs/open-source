@@ -1,6 +1,6 @@
 # alibaizhanov/mengram
 
-[![Stars](https://img.shields.io/github/stars/alibaizhanov/mengram?style=flat-square&color=yellow)](https://github.com/alibaizhanov/mengram/stargazers) [![Forks](https://img.shields.io/github/forks/alibaizhanov/mengram?style=flat-square&color=blue)](https://github.com/alibaizhanov/mengram/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaizhanov/mengram?style=flat-square&color=yellow)](https://github.com/alibaizhanov/mengram/stargazers) [![Forks](https://img.shields.io/github/forks/alibaizhanov/mengram?style=flat-square&color=blue)](https://github.com/alibaizhanov/mengram/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ Overall, Mengram is a high‑readiness OSS candidate for teams looking to give t
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

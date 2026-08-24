@@ -1,6 +1,6 @@
 # NVIDIA/cuda-quantum
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/cuda-quantum?style=flat-square&color=yellow)](https://github.com/NVIDIA/cuda-quantum/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/cuda-quantum?style=flat-square&color=blue)](https://github.com/NVIDIA/cuda-quantum/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/cuda-quantum?style=flat-square&color=yellow)](https://github.com/NVIDIA/cuda-quantum/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/cuda-quantum?style=flat-square&color=blue)](https://github.com/NVIDIA/cuda-quantum/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 376 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ NVIDIA/cuda-quantum：NVIDIA/cuda-quantum helps research and automate market wor
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 64/100 |
 | stars | 64/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

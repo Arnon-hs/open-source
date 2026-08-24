@@ -1,6 +1,6 @@
 # microsoft/Power-CAT-Copilot-Studio-Kit
 
-[![Stars](https://img.shields.io/github/stars/microsoft/Power-CAT-Copilot-Studio-Kit?style=flat-square&color=yellow)](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/Power-CAT-Copilot-Studio-Kit?style=flat-square&color=blue)](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/Power-CAT-Copilot-Studio-Kit?style=flat-square&color=yellow)](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/Power-CAT-Copilot-Studio-Kit?style=flat-square&color=blue)](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Microsoft Power‑CAT Copilot Studio Kit 是一套基于 TypeScript 的开源工
 | forks | 47/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # prime-radiant-inc/serf
 
-[![Stars](https://img.shields.io/github/stars/prime-radiant-inc/serf?style=flat-square&color=yellow)](https://github.com/prime-radiant-inc/serf/stargazers) [![Forks](https://img.shields.io/github/forks/prime-radiant-inc/serf?style=flat-square&color=blue)](https://github.com/prime-radiant-inc/serf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prime-radiant-inc/serf?style=flat-square&color=yellow)](https://github.com/prime-radiant-inc/serf/stargazers) [![Forks](https://img.shields.io/github/forks/prime-radiant-inc/serf?style=flat-square&color=blue)](https://github.com/prime-radiant-inc/serf/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A non-interactive coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 58 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Marketing
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -119,14 +119,15 @@ prime‑radiant‑inc/serf 是一个 **非交互式代码代理**，只需提供
 | forks | 15/100 |
 | stars | 38/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

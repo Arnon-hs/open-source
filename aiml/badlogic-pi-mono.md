@@ -1,6 +1,6 @@
 # badlogic/pi-mono
 
-[![Stars](https://img.shields.io/github/stars/badlogic/pi-mono?style=flat-square&color=yellow)](https://github.com/badlogic/pi-mono/stargazers) [![Forks](https://img.shields.io/github/forks/badlogic/pi-mono?style=flat-square&color=blue)](https://github.com/badlogic/pi-mono/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/badlogic/pi-mono?style=flat-square&color=yellow)](https://github.com/badlogic/pi-mono/stargazers) [![Forks](https://img.shields.io/github/forks/badlogic/pi-mono?style=flat-square&color=blue)](https://github.com/badlogic/pi-mono/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45.7k |
 | 🍴 **Forks** | 5.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ badlogic/pi-mono：badlogic/pi-mono helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 98/100 |
 | stars | 99/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

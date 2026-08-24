@@ -1,6 +1,6 @@
 # Floe-Labs/floe-guard
 
-[![Stars](https://img.shields.io/github/stars/Floe-Labs/floe-guard?style=flat-square&color=yellow)](https://github.com/Floe-Labs/floe-guard/stargazers) [![Forks](https://img.shields.io/github/forks/Floe-Labs/floe-guard?style=flat-square&color=blue)](https://github.com/Floe-Labs/floe-guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Floe-Labs/floe-guard?style=flat-square&color=yellow)](https://github.com/Floe-Labs/floe-guard/stargazers) [![Forks](https://img.shields.io/github/forks/Floe-Labs/floe-guard?style=flat-square&color=blue)](https://github.com/Floe-Labs/floe-guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source unified billing guardrail for AI agents — hard-stop before a runaway loop burns your bill. Local, framework-agnostic, no account required.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Orchestration · AI/ML · Frontend · DevTools
+Payments · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Floe‑Labs/flo​e‑guard 是一款开源的统一计费防护组件，专为 
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

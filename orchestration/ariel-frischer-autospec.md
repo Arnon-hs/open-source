@@ -1,6 +1,6 @@
 # ariel-frischer/autospec
 
-[![Stars](https://img.shields.io/github/stars/ariel-frischer/autospec?style=flat-square&color=yellow)](https://github.com/ariel-frischer/autospec/stargazers) [![Forks](https://img.shields.io/github/forks/ariel-frischer/autospec?style=flat-square&color=blue)](https://github.com/ariel-frischer/autospec/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ariel-frischer/autospec?style=flat-square&color=yellow)](https://github.com/ariel-frischer/autospec/stargazers) [![Forks](https://img.shields.io/github/forks/ariel-frischer/autospec?style=flat-square&color=blue)](https://github.com/ariel-frischer/autospec/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > CLI for streamlined spec-driven development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 125 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ariel‑frischer/autospec 是一款基于 Go 实现的命令行工具，旨在�
 | forks | 26/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

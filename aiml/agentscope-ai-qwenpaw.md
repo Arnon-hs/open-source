@@ -1,6 +1,6 @@
 # agentscope-ai/QwenPaw
 
-[![Stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square&color=yellow)](https://github.com/agentscope-ai/QwenPaw/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/QwenPaw?style=flat-square&color=blue)](https://github.com/agentscope-ai/QwenPaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square&color=yellow)](https://github.com/agentscope-ai/QwenPaw/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/QwenPaw?style=flat-square&color=blue)](https://github.com/agentscope-ai/QwenPaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ agentscope-ai/QwenPaw：agentscope-ai/QwenPaw helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 68/100 |
-| adoption | 88/100 |
-| stars | 90/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| stars | 90/100 |
 | topics | 75/100 |
+| outlook | 61/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

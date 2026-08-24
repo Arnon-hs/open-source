@@ -1,6 +1,6 @@
 # meteroid-oss/meteroid
 
-[![Stars](https://img.shields.io/github/stars/meteroid-oss/meteroid?style=flat-square&color=yellow)](https://github.com/meteroid-oss/meteroid/stargazers) [![Forks](https://img.shields.io/github/forks/meteroid-oss/meteroid?style=flat-square&color=blue)](https://github.com/meteroid-oss/meteroid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meteroid-oss/meteroid?style=flat-square&color=yellow)](https://github.com/meteroid-oss/meteroid/stargazers) [![Forks](https://img.shields.io/github/forks/meteroid-oss/meteroid?style=flat-square&color=blue)](https://github.com/meteroid-oss/meteroid/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend · DevTools
+Payments · Backend · Data · Product
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ meteroid-oss/meteroid: meteroid-oss/meteroid helps integrate monetization, billi
 
 ### Русский
 
-meteroid-oss/meteroid: open-source проект в категориях Payments, Backend, DevTools. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+meteroid-oss/meteroid: open-source проект в категориях Payments, Backend, Data, Product. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ meteroid-oss/meteroid：meteroid-oss/meteroid helps integrate monetization, bill
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 66/100 |
-| integration | 78/100 |
-| production | 62/100 |
-| outlook | 67/100 |
-| adoption | 59/100 |
-| stars | 64/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

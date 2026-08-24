@@ -1,6 +1,6 @@
 # seL4/rust-sel4
 
-[![Stars](https://img.shields.io/github/stars/seL4/rust-sel4?style=flat-square&color=yellow)](https://github.com/seL4/rust-sel4/stargazers) [![Forks](https://img.shields.io/github/forks/seL4/rust-sel4?style=flat-square&color=blue)](https://github.com/seL4/rust-sel4/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seL4/rust-sel4?style=flat-square&color=yellow)](https://github.com/seL4/rust-sel4/stargazers) [![Forks](https://img.shields.io/github/forks/seL4/rust-sel4?style=flat-square&color=blue)](https://github.com/seL4/rust-sel4/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Rust support for seL4 userspace
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 204 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ seL4/rust-sel4 为 seL4 微内核提供 Rust 语言的 userspace 支持库，帮
 | forks | 40/100 |
 | stars | 49/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 67/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

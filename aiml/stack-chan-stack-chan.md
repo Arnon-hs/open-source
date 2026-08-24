@@ -1,6 +1,6 @@
 # stack-chan/stack-chan
 
-[![Stars](https://img.shields.io/github/stars/stack-chan/stack-chan?style=flat-square&color=yellow)](https://github.com/stack-chan/stack-chan/stargazers) [![Forks](https://img.shields.io/github/forks/stack-chan/stack-chan?style=flat-square&color=blue)](https://github.com/stack-chan/stack-chan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stack-chan/stack-chan?style=flat-square&color=yellow)](https://github.com/stack-chan/stack-chan/stargazers) [![Forks](https://img.shields.io/github/forks/stack-chan/stack-chan?style=flat-square&color=blue)](https://github.com/stack-chan/stack-chan/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript-driven M5Stack-embedded super-kawaii robot.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stack-chan/stack-chan：stack-chan/stack-chan helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 64/100 |
 | stars | 67/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

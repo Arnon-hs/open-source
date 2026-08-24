@@ -66,14 +66,14 @@ xdagiz/xytz：xdagiz/xytz helps ship user-facing interfaces with less custom UI 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| quality | 58/100 |
+| integration | 78/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

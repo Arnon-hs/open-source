@@ -1,6 +1,6 @@
 # IO-ZetZor/Visor-BootManager
 
-[![Stars](https://img.shields.io/github/stars/IO-ZetZor/Visor-BootManager?style=flat-square&color=yellow)](https://github.com/IO-ZetZor/Visor-BootManager/stargazers) [![Forks](https://img.shields.io/github/forks/IO-ZetZor/Visor-BootManager?style=flat-square&color=blue)](https://github.com/IO-ZetZor/Visor-BootManager/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IO-ZetZor/Visor-BootManager?style=flat-square&color=yellow)](https://github.com/IO-ZetZor/Visor-BootManager/stargazers) [![Forks](https://img.shields.io/github/forks/IO-ZetZor/Visor-BootManager?style=flat-square&color=blue)](https://github.com/IO-ZetZor/Visor-BootManager/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal, fast, graphical UEFI boot manager written in C. no external dependencies — just a config file :)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ Visor‑BootManager 适合作为 **内部原型** 或 **定制化固件** 的快
 | forks | 21/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

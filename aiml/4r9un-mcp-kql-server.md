@@ -1,6 +1,6 @@
 # 4R9UN/mcp-kql-server
 
-[![Stars](https://img.shields.io/github/stars/4R9UN/mcp-kql-server?style=flat-square&color=yellow)](https://github.com/4R9UN/mcp-kql-server/stargazers) [![Forks](https://img.shields.io/github/forks/4R9UN/mcp-kql-server?style=flat-square&color=blue)](https://github.com/4R9UN/mcp-kql-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/4R9UN/mcp-kql-server?style=flat-square&color=yellow)](https://github.com/4R9UN/mcp-kql-server/stargazers) [![Forks](https://img.shields.io/github/forks/4R9UN/mcp-kql-server?style=flat-square&color=blue)](https://github.com/4R9UN/mcp-kql-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Kusto and Log Analytics MCP server help you execute a KQL (Kusto Query Language) query within an AI prompt, analyze, and visualize the data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **4R9UN/mcp-kql-server** project provides a backend service that enables exe
 
 ### 中文
 
-4R9UN/mcp-kql-server：4R9UN/mcp-kql-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+4R9UN/mcp-kql-server：4R9UN/mcp-kql-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ The **4R9UN/mcp-kql-server** project provides a backend service that enables exe
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ The **4R9UN/mcp-kql-server** project provides a backend service that enables exe
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 27/100 |
 | stars | 29/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

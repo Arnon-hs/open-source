@@ -1,6 +1,6 @@
 # PipeWire/pipewire
 
-[![Stars](https://img.shields.io/github/stars/PipeWire/pipewire?style=flat-square&color=yellow)](https://github.com/PipeWire/pipewire/stargazers) [![Forks](https://img.shields.io/github/forks/PipeWire/pipewire?style=flat-square&color=blue)](https://github.com/PipeWire/pipewire/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PipeWire/pipewire?style=flat-square&color=yellow)](https://github.com/PipeWire/pipewire/stargazers) [![Forks](https://img.shields.io/github/forks/PipeWire/pipewire?style=flat-square&color=blue)](https://github.com/PipeWire/pipewire/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of the PipeWire repository (see https://gitlab.freedesktop.org/pipewire/pipewire/)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ PipeWire 在功能完整性、社区支持和跨平台兼容性方面已经达�
 | forks | 56/100 |
 | stars | 71/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 67/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

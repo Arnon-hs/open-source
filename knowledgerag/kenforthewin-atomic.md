@@ -1,6 +1,6 @@
 # kenforthewin/atomic
 
-[![Stars](https://img.shields.io/github/stars/kenforthewin/atomic?style=flat-square&color=yellow)](https://github.com/kenforthewin/atomic/stargazers) [![Forks](https://img.shields.io/github/forks/kenforthewin/atomic?style=flat-square&color=blue)](https://github.com/kenforthewin/atomic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kenforthewin/atomic?style=flat-square&color=yellow)](https://github.com/kenforthewin/atomic/stargazers) [![Forks](https://img.shields.io/github/forks/kenforthewin/atomic?style=flat-square&color=blue)](https://github.com/kenforthewin/atomic/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, semantically-connected personal knowledge base
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ kenforthewin/atomic 是一款基于 Rust 实现的自托管个人知识库，能
 | forks | 50/100 |
 | stars | 67/100 |
 | topics | 13/100 |
-| outlook | 73/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

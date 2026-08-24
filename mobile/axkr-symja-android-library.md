@@ -1,6 +1,6 @@
 # axkr/symja_android_library
 
-[![Stars](https://img.shields.io/github/stars/axkr/symja_android_library?style=flat-square&color=yellow)](https://github.com/axkr/symja_android_library/stargazers) [![Forks](https://img.shields.io/github/forks/axkr/symja_android_library?style=flat-square&color=blue)](https://github.com/axkr/symja_android_library/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/axkr/symja_android_library?style=flat-square&color=yellow)](https://github.com/axkr/symja_android_library/stargazers) [![Forks](https://img.shields.io/github/forks/axkr/symja_android_library?style=flat-square&color=blue)](https://github.com/axkr/symja_android_library/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > :coffee: Symja -  computer algebra language & symbolic math library. A collection of popular algorithms implemented in pure Java.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Symja Android Library 能够在移动端提供强大的符号数学能力，接�
 | forks | 51/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # geekjourneyx/md2wechat-skill
 
-[![Stars](https://img.shields.io/github/stars/geekjourneyx/md2wechat-skill?style=flat-square&color=yellow)](https://github.com/geekjourneyx/md2wechat-skill/stargazers) [![Forks](https://img.shields.io/github/forks/geekjourneyx/md2wechat-skill?style=flat-square&color=blue)](https://github.com/geekjourneyx/md2wechat-skill/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/geekjourneyx/md2wechat-skill?style=flat-square&color=yellow)](https://github.com/geekjourneyx/md2wechat-skill/stargazers) [![Forks](https://img.shields.io/github/forks/geekjourneyx/md2wechat-skill?style=flat-square&color=blue)](https://github.com/geekjourneyx/md2wechat-skill/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ geekjourneyx/md2wechat-skill：geekjourneyx/md2wechat-skill helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 70/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 69/100 |
-| adoption | 68/100 |
-| stars | 70/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

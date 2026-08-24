@@ -1,6 +1,6 @@
 # msasikanth/twine
 
-[![Stars](https://img.shields.io/github/stars/msasikanth/twine?style=flat-square&color=yellow)](https://github.com/msasikanth/twine/stargazers) [![Forks](https://img.shields.io/github/forks/msasikanth/twine?style=flat-square&color=blue)](https://github.com/msasikanth/twine/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/msasikanth/twine?style=flat-square&color=yellow)](https://github.com/msasikanth/twine/stargazers) [![Forks](https://img.shields.io/github/forks/msasikanth/twine?style=flat-square&color=blue)](https://github.com/msasikanth/twine/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Twine: A multiplatform RSS reader built using Kotlin and Compose
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Twine — это кроссплатформенный RSS‑читалка, н
 
 ### 中文
 
-msasikanth/twine：msasikanth/twine helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+msasikanth/twine：msasikanth/twine helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ msasikanth/twine：msasikanth/twine helps ship user-facing interfaces with less 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ msasikanth/twine：msasikanth/twine helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
+| production | 45/100 |
+| outlook | 44/100 |
 | adoption | 66/100 |
 | stars | 72/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

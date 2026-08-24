@@ -1,6 +1,6 @@
 # Dokploy/dokploy
 
-[![Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=flat-square&color=yellow)](https://github.com/Dokploy/dokploy/stargazers) [![Forks](https://img.shields.io/github/forks/Dokploy/dokploy?style=flat-square&color=blue)](https://github.com/Dokploy/dokploy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=flat-square&color=yellow)](https://github.com/Dokploy/dokploy/stargazers) [![Forks](https://img.shields.io/github/forks/Dokploy/dokploy?style=flat-square&color=blue)](https://github.com/Dokploy/dokploy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Alternative to Vercel, Netlify and Heroku.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33.8k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Data
+Frontend · Backend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Dokploy/dokploy: Dokploy/dokploy helps ship user-facing interfaces with less cus
 
 ### Русский
 
-Dokploy/dokploy: open-source проект в категориях Frontend, Backend, Data. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Dokploy/dokploy: open-source проект в категориях Frontend, Backend, Database, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Dokploy/dokploy：Dokploy/dokploy helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 82/100 |
-| integration | 78/100 |
-| production | 67/100 |
-| outlook | 69/100 |
-| adoption | 93/100 |
-| stars | 96/100 |
 | forks | 85/100 |
-| recency | 40/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 61/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # googleapis/google-cloud-java
 
-[![Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java?style=flat-square&color=yellow)](https://github.com/googleapis/google-cloud-java/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-cloud-java?style=flat-square&color=blue)](https://github.com/googleapis/google-cloud-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/google-cloud-java?style=flat-square&color=yellow)](https://github.com/googleapis/google-cloud-java/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-cloud-java?style=flat-square&color=blue)](https://github.com/googleapis/google-cloud-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Google Cloud Client Library for Java
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ googleapis/google-cloud-java：googleapis/google-cloud-java helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 57/100 |
+| outlook | 62/100 |
 | adoption | 72/100 |
 | stars | 70/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

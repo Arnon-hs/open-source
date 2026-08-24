@@ -1,6 +1,6 @@
 # openstack/openstack-helm
 
-[![Stars](https://img.shields.io/github/stars/openstack/openstack-helm?style=flat-square&color=yellow)](https://github.com/openstack/openstack-helm/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/openstack-helm?style=flat-square&color=blue)](https://github.com/openstack/openstack-helm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openstack/openstack-helm?style=flat-square&color=yellow)](https://github.com/openstack/openstack-helm/stargazers) [![Forks](https://img.shields.io/github/forks/openstack/openstack-helm?style=flat-square&color=blue)](https://github.com/openstack/openstack-helm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Helm charts for deploying OpenStack on Kubernetes. Mirror of code maintained at opendev.org.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 564 |
 | 🍴 **Forks** | 260 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Openstack/openstack‑helm — набор Helm‑чартов, позволяю
 
 ### 中文
 
-openstack/openstack-helm：openstack/openstack-helm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+openstack/openstack-helm：openstack/openstack-helm helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ openstack/openstack-helm：openstack/openstack-helm helps add AI capability with
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ openstack/openstack-helm：openstack/openstack-helm helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 47/100 |
+| production | 45/100 |
+| outlook | 40/100 |
 | adoption | 59/100 |
 | stars | 59/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

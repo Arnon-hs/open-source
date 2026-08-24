@@ -1,6 +1,6 @@
 # modiqo/skillspec
 
-[![Stars](https://img.shields.io/github/stars/modiqo/skillspec?style=flat-square&color=yellow)](https://github.com/modiqo/skillspec/stargazers) [![Forks](https://img.shields.io/github/forks/modiqo/skillspec?style=flat-square&color=blue)](https://github.com/modiqo/skillspec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modiqo/skillspec?style=flat-square&color=yellow)](https://github.com/modiqo/skillspec/stargazers) [![Forks](https://img.shields.io/github/forks/modiqo/skillspec?style=flat-square&color=blue)](https://github.com/modiqo/skillspec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > SkillSpec makes agent skills followable, testable, and provable with Doctor risk reports, guided imports, structured contracts, and alignment proof.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 504 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ modiqo/skillspec的生产可用性为中等（Medium），适合用于原型或�
 | forks | 43/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

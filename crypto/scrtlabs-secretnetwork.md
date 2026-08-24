@@ -1,6 +1,6 @@
 # scrtlabs/SecretNetwork
 
-[![Stars](https://img.shields.io/github/stars/scrtlabs/SecretNetwork?style=flat-square&color=yellow)](https://github.com/scrtlabs/SecretNetwork/stargazers) [![Forks](https://img.shields.io/github/forks/scrtlabs/SecretNetwork?style=flat-square&color=blue)](https://github.com/scrtlabs/SecretNetwork/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scrtlabs/SecretNetwork?style=flat-square&color=yellow)](https://github.com/scrtlabs/SecretNetwork/stargazers) [![Forks](https://img.shields.io/github/forks/scrtlabs/SecretNetwork?style=flat-square&color=blue)](https://github.com/scrtlabs/SecretNetwork/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 𝕊 The Secret Network
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 580 |
 | 🍴 **Forks** | 229 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ scrtlabs/SecretNetwork 是一个基于 Rust 实现的开源 Secret Network 区�
 | forks | 59/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

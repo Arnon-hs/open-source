@@ -1,6 +1,6 @@
 # appsmithorg/appsmith
 
-[![Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=flat-square&color=yellow)](https://github.com/appsmithorg/appsmith/stargazers) [![Forks](https://img.shields.io/github/forks/appsmithorg/appsmith?style=flat-square&color=blue)](https://github.com/appsmithorg/appsmith/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=flat-square&color=yellow)](https://github.com/appsmithorg/appsmith/stargazers) [![Forks](https://img.shields.io/github/forks/appsmithorg/appsmith?style=flat-square&color=blue)](https://github.com/appsmithorg/appsmith/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 39.8k |
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ appsmithorg/appsmith：appsmithorg/appsmith helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 78/100 |
+| production | 59/100 |
+| outlook | 71/100 |
 | adoption | 96/100 |
 | stars | 98/100 |
 | forks | 91/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

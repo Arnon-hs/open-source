@@ -1,6 +1,6 @@
 # PreMiD/Activities
 
-[![Stars](https://img.shields.io/github/stars/PreMiD/Activities?style=flat-square&color=yellow)](https://github.com/PreMiD/Activities/stargazers) [![Forks](https://img.shields.io/github/forks/PreMiD/Activities?style=flat-square&color=blue)](https://github.com/PreMiD/Activities/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PreMiD/Activities?style=flat-square&color=yellow)](https://github.com/PreMiD/Activities/stargazers) [![Forks](https://img.shields.io/github/forks/PreMiD/Activities?style=flat-square&color=blue)](https://github.com/PreMiD/Activities/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🛒 Storage for Activities located at our Activity Library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 747 |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ PreMiD/Activities：PreMiD/Activities helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 67/100 |
 | stars | 61/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

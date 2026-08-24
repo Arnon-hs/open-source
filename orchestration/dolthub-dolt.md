@@ -1,6 +1,6 @@
 # dolthub/dolt
 
-[![Stars](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&color=yellow)](https://github.com/dolthub/dolt/stargazers) [![Forks](https://img.shields.io/github/forks/dolthub/dolt?style=flat-square&color=blue)](https://github.com/dolthub/dolt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&color=yellow)](https://github.com/dolthub/dolt/stargazers) [![Forks](https://img.shields.io/github/forks/dolthub/dolt?style=flat-square&color=blue)](https://github.com/dolthub/dolt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Dolt – Git for Data
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.6k |
 | 🍴 **Forks** | 758 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · AI/ML · Backend · Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dolthub/dolt: dolthub/dolt helps turn isolated prompts and tools into repeatable
 
 ### Русский
 
-dolthub/dolt: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dolthub/dolt: open-source проект в категориях Orchestration, AI/ML, Backend, Data, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dolthub/dolt：dolthub/dolt helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 67/100 |
-| adoption | 87/100 |
-| stars | 93/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

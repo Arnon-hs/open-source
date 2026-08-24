@@ -1,6 +1,6 @@
 # shekohex/opencode-pty
 
-[![Stars](https://img.shields.io/github/stars/shekohex/opencode-pty?style=flat-square&color=yellow)](https://github.com/shekohex/opencode-pty/stargazers) [![Forks](https://img.shields.io/github/forks/shekohex/opencode-pty?style=flat-square&color=blue)](https://github.com/shekohex/opencode-pty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shekohex/opencode-pty?style=flat-square&color=yellow)](https://github.com/shekohex/opencode-pty/stargazers) [![Forks](https://img.shields.io/github/forks/shekohex/opencode-pty?style=flat-square&color=blue)](https://github.com/shekohex/opencode-pty/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCode plugin for interactive PTY management - run background processes, send input, read output with regex filtering
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 492 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ shekohex/opencode-pty 是一个开源项目，用于管理交互式PTY（伪终�
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # MiXaiLL76/auto_ai_router
 
-[![Stars](https://img.shields.io/github/stars/MiXaiLL76/auto_ai_router?style=flat-square&color=yellow)](https://github.com/MiXaiLL76/auto_ai_router/stargazers) [![Forks](https://img.shields.io/github/forks/MiXaiLL76/auto_ai_router?style=flat-square&color=blue)](https://github.com/MiXaiLL76/auto_ai_router/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MiXaiLL76/auto_ai_router?style=flat-square&color=yellow)](https://github.com/MiXaiLL76/auto_ai_router/stargazers) [![Forks](https://img.shields.io/github/forks/MiXaiLL76/auto_ai_router?style=flat-square&color=blue)](https://github.com/MiXaiLL76/auto_ai_router/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance proxy router for LLM APIs with automatic load balancing, rate limiting, and fail2ban protection
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Database
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ MiXaiLL76/auto_ai_router 是一款基于 Go 实现的高性能代理路由器，
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

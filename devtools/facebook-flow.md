@@ -1,6 +1,6 @@
 # facebook/flow
 
-[![Stars](https://img.shields.io/github/stars/facebook/flow?style=flat-square&color=yellow)](https://github.com/facebook/flow/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/flow?style=flat-square&color=blue)](https://github.com/facebook/flow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/flow?style=flat-square&color=yellow)](https://github.com/facebook/flow/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/flow?style=flat-square&color=blue)](https://github.com/facebook/flow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Adds static typing to JavaScript to improve developer productivity and code quality.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.2k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ DevTools · Product
 
 ### English
 
-facebook/flow: facebook/flow helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+facebook/flow: facebook/flow helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-facebook/flow: open-source проект в категориях DevTools, Product. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+facebook/flow: open-source проект в категориях DevTools, Product. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-facebook/flow：facebook/flow helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+facebook/flow：facebook/flow helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ facebook/flow：facebook/flow helps engineers save time in daily development and
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ facebook/flow：facebook/flow helps engineers save time in daily development and
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 90/100 |
 | stars | 92/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # rshankras/claude-code-apple-skills
 
-[![Stars](https://img.shields.io/github/stars/rshankras/claude-code-apple-skills?style=flat-square&color=yellow)](https://github.com/rshankras/claude-code-apple-skills/stargazers) [![Forks](https://img.shields.io/github/forks/rshankras/claude-code-apple-skills?style=flat-square&color=blue)](https://github.com/rshankras/claude-code-apple-skills/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rshankras/claude-code-apple-skills?style=flat-square&color=yellow)](https://github.com/rshankras/claude-code-apple-skills/stargazers) [![Forks](https://img.shields.io/github/forks/rshankras/claude-code-apple-skills?style=flat-square&color=blue)](https://github.com/rshankras/claude-code-apple-skills/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skills for Apple platform development (iOS, macOS, iPadOS) — product validation, code generation, App Store optimization, and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 469 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools · Database
+Orchestration · AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -124,14 +124,15 @@ rshankras/claude-code-apple‑skills 把 Claude 大模型的自然语言能力�
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

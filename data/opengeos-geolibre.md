@@ -1,6 +1,6 @@
 # opengeos/GeoLibre
 
-[![Stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat-square&color=yellow)](https://github.com/opengeos/GeoLibre/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/GeoLibre?style=flat-square&color=blue)](https://github.com/opengeos/GeoLibre/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat-square&color=yellow)](https://github.com/opengeos/GeoLibre/stargazers) [![Forks](https://img.shields.io/github/forks/opengeos/GeoLibre?style=flat-square&color=blue)](https://github.com/opengeos/GeoLibre/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Database
+Data
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ GeoLibre（opengeos/GeoLibre）是一款轻量级、云原生的 GIS 平台，�
 | forks | 56/100 |
 | stars | 66/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

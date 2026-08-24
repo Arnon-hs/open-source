@@ -1,6 +1,6 @@
 # tilfinltd/aws-extend-switch-roles
 
-[![Stars](https://img.shields.io/github/stars/tilfinltd/aws-extend-switch-roles?style=flat-square&color=yellow)](https://github.com/tilfinltd/aws-extend-switch-roles/stargazers) [![Forks](https://img.shields.io/github/forks/tilfinltd/aws-extend-switch-roles?style=flat-square&color=blue)](https://github.com/tilfinltd/aws-extend-switch-roles/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tilfinltd/aws-extend-switch-roles?style=flat-square&color=yellow)](https://github.com/tilfinltd/aws-extend-switch-roles/stargazers) [![Forks](https://img.shields.io/github/forks/tilfinltd/aws-extend-switch-roles?style=flat-square&color=blue)](https://github.com/tilfinltd/aws-extend-switch-roles/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 151 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ tilfinltd/aws-extend-switch-roles 是一个开源项目，旨在扩展 AWS IAM �
 | forks | 55/100 |
 | stars | 67/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

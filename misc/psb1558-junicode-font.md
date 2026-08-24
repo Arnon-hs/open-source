@@ -1,6 +1,6 @@
 # psb1558/Junicode-font
 
-[![Stars](https://img.shields.io/github/stars/psb1558/Junicode-font?style=flat-square&color=yellow)](https://github.com/psb1558/Junicode-font/stargazers) [![Forks](https://img.shields.io/github/forks/psb1558/Junicode-font?style=flat-square&color=blue)](https://github.com/psb1558/Junicode-font/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/psb1558/Junicode-font?style=flat-square&color=yellow)](https://github.com/psb1558/Junicode-font/stargazers) [![Forks](https://img.shields.io/github/forks/psb1558/Junicode-font?style=flat-square&color=blue)](https://github.com/psb1558/Junicode-font/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A new version of Junicode font
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 582 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Junicode‑font — это открытая версия шрифта Junico
 | forks | 33/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

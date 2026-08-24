@@ -1,6 +1,6 @@
 # getmaxun/maxun
 
-[![Stars](https://img.shields.io/github/stars/getmaxun/maxun?style=flat-square&color=yellow)](https://github.com/getmaxun/maxun/stargazers) [![Forks](https://img.shields.io/github/forks/getmaxun/maxun?style=flat-square&color=blue)](https://github.com/getmaxun/maxun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getmaxun/maxun?style=flat-square&color=yellow)](https://github.com/getmaxun/maxun/stargazers) [![Forks](https://img.shields.io/github/forks/getmaxun/maxun?style=flat-square&color=blue)](https://github.com/getmaxun/maxun/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16.2k |
-| 🍴 **Forks** | 1.4k |
+| ⭐ **Stars** | 15.6k |
+| 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · Data · Database
+Automation · Backend · Data
 
 ## 📝 Summary
 
 ### English
 
-getmaxun/maxun: getmaxun/maxun helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+getmaxun/maxun: getmaxun/maxun helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-getmaxun/maxun: open-source проект в категориях Automation, AI/ML, Backend, Data, Database. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+getmaxun/maxun: open-source проект в категориях Automation, Backend, Data. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-getmaxun/maxun：getmaxun/maxun helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+getmaxun/maxun：getmaxun/maxun helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ getmaxun/maxun：getmaxun/maxun helps remove repetitive manual operations from a
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 16166 GitHub stars
-- 1356 forks
-- updated 2026-07-02
+- 15555 GitHub stars
+- 1278 forks
+- updated 2026-05-07
 - primary language: TypeScript
 - 18 topics
 
@@ -65,18 +65,18 @@ getmaxun/maxun：getmaxun/maxun helps remove repetitive manual operations from a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 94/100 |
-| integration | 62/100 |
-| production | 84/100 |
-| outlook | 97/100 |
-| adoption | 86/100 |
-| stars | 90/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/getmaxun/maxun) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/getmaxun/maxun) · [← Back to Automation](./README.md)</sub>

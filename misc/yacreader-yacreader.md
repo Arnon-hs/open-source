@@ -1,0 +1,80 @@
+# YACReader/yacreader
+
+[![Stars](https://img.shields.io/github/stars/YACReader/yacreader?style=flat-square&color=yellow)](https://github.com/YACReader/yacreader/stargazers) [![Forks](https://img.shields.io/github/forks/YACReader/yacreader?style=flat-square&color=blue)](https://github.com/YACReader/yacreader/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+
+> This repo contains the code of YACReader's desktop version.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 113 |
+| 💻 **Language** | C++ |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`hacktoberfest` `hacktoberfest2022`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+YACReader is an open‑source desktop application for reading and managing comic books and manga, providing a clean interface, library organization, and support for multiple formats (CBR, CBZ, PDF, etc.). The repository contains the full source code for the desktop client, enabling developers to build, customize, and contribute to the reader’s features and cross‑platform capabilities.
+
+### Русский
+
+YACReader – кроссплатформенное настольное приложение для удобного чтения и организации цифровых комиксов, реализованное с открытым исходным кодом. Проект сочетает в себе быстрый рендеринг страниц, поддержку множества форматов и продвинутый механизм управления библиотекой, позволяя пользователям легко находить, сортировать и просматривать свои коллекции. Благодаря активному сообществу разработчиков, YACReader постоянно расширяется новыми функциями и улучшениями.
+
+### 中文
+
+YACReader/yacreader：YACReader/yacreader may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** YACReader/yacreader may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1262 GitHub stars
+- 113 forks
+- updated 2026-05-09
+- primary language: C++
+- 2 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 51/100 |
+| stars | 66/100 |
+| topics | 25/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/YACReader/yacreader) · [← Back to Misc](./README.md)</sub>

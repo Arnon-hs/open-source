@@ -1,6 +1,6 @@
 # oakreader/oakreader
 
-[![Stars](https://img.shields.io/github/stars/oakreader/oakreader?style=flat-square&color=yellow)](https://github.com/oakreader/oakreader/stargazers) [![Forks](https://img.shields.io/github/forks/oakreader/oakreader?style=flat-square&color=blue)](https://github.com/oakreader/oakreader/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oakreader/oakreader?style=flat-square&color=yellow)](https://github.com/oakreader/oakreader/stargazers) [![Forks](https://img.shields.io/github/forks/oakreader/oakreader?style=flat-square&color=blue)](https://github.com/oakreader/oakreader/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An AI native macOS reader. Knowledge libarary for you and your agent — everything you read in one place, searched and answered by AI, with citations you can open.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ OakReader 是一款面向 macOS 的 AI 原生阅读器，将你所有阅读的�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

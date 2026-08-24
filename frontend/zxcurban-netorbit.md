@@ -1,6 +1,6 @@
 # ZXCurban/NetOrbit
 
-[![Stars](https://img.shields.io/github/stars/ZXCurban/NetOrbit?style=flat-square&color=yellow)](https://github.com/ZXCurban/NetOrbit/stargazers) [![Forks](https://img.shields.io/github/forks/ZXCurban/NetOrbit?style=flat-square&color=blue)](https://github.com/ZXCurban/NetOrbit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZXCurban/NetOrbit?style=flat-square&color=yellow)](https://github.com/ZXCurban/NetOrbit/stargazers) [![Forks](https://img.shields.io/github/forks/ZXCurban/NetOrbit?style=flat-square&color=blue)](https://github.com/ZXCurban/NetOrbit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Network traffic visualization tool
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Security
+Frontend · DevTools · Observability
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ ZXCurban/NetOrbit — это open‑source инструмент для визу�
 
 ### 中文
 
-ZXCurban/NetOrbit：ZXCurban/NetOrbit helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ZXCurban/NetOrbit：ZXCurban/NetOrbit helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ZXCurban/NetOrbit：ZXCurban/NetOrbit helps ship user-facing interfaces with les
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ ZXCurban/NetOrbit：ZXCurban/NetOrbit helps ship user-facing interfaces with les
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 41/100 |
-| stars | 48/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

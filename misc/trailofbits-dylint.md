@@ -1,0 +1,80 @@
+# trailofbits/dylint
+
+[![Stars](https://img.shields.io/github/stars/trailofbits/dylint?style=flat-square&color=yellow)](https://github.com/trailofbits/dylint/stargazers) [![Forks](https://img.shields.io/github/forks/trailofbits/dylint?style=flat-square&color=blue)](https://github.com/trailofbits/dylint/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+
+> Run Rust lints from dynamic libraries
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 583 |
+| 🍴 **Forks** | 50 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`linting` `rust`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+**trailofbits/dylint** is an open‑source Rust tool that enables developers to run custom lints compiled as dynamic libraries, allowing linting logic to be added, updated, or swapped without rebuilding the entire toolchain. By loading lint plugins at runtime, it provides a flexible, extensible way to enforce coding standards and catch bugs across Rust projects, making it a powerful addition to any developer’s DevTools suite.
+
+### Русский
+
+**trailofbits/dylint** — это набор инструментов для Rust, позволяющий подключать и запускать пользовательские линты из динамических библиотек без необходимости перекомпиляции проекта. Он упрощает расширение статического анализа, давая разработчикам возможность быстро добавлять новые проверки кода и интегрировать их в CI/CD пайплайны. Подходит как для автоматизации качества кода, так и для экспериментов с AI/ML‑поддержкой анализа.
+
+### 中文
+
+trailofbits/dylint：trailofbits/dylint may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** trailofbits/dylint may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 583 GitHub stars
+- 50 forks
+- updated 2026-05-10
+- primary language: Rust
+- 2 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 43/100 |
+| stars | 59/100 |
+| topics | 25/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/trailofbits/dylint) · [← Back to Misc](./README.md)</sub>

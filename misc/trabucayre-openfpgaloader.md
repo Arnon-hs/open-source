@@ -1,6 +1,6 @@
 # trabucayre/openFPGALoader
 
-[![Stars](https://img.shields.io/github/stars/trabucayre/openFPGALoader?style=flat-square&color=yellow)](https://github.com/trabucayre/openFPGALoader/stargazers) [![Forks](https://img.shields.io/github/forks/trabucayre/openFPGALoader?style=flat-square&color=blue)](https://github.com/trabucayre/openFPGALoader/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trabucayre/openFPGALoader?style=flat-square&color=yellow)](https://github.com/trabucayre/openFPGALoader/stargazers) [![Forks](https://img.shields.io/github/forks/trabucayre/openFPGALoader?style=flat-square&color=blue)](https://github.com/trabucayre/openFPGALoader/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Universal utility for programming FPGA
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 348 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ The project is **highly ready** for pilot deployments: it shows recent commits (
 | forks | 64/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

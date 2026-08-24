@@ -1,6 +1,6 @@
 # foundryvtt/pf2e
 
-[![Stars](https://img.shields.io/github/stars/foundryvtt/pf2e?style=flat-square&color=yellow)](https://github.com/foundryvtt/pf2e/stargazers) [![Forks](https://img.shields.io/github/forks/foundryvtt/pf2e?style=flat-square&color=blue)](https://github.com/foundryvtt/pf2e/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foundryvtt/pf2e?style=flat-square&color=yellow)](https://github.com/foundryvtt/pf2e/stargazers) [![Forks](https://img.shields.io/github/forks/foundryvtt/pf2e?style=flat-square&color=blue)](https://github.com/foundryvtt/pf2e/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > A community contributed game system for Pathfinder Second Edition.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 598 |
 | 🍴 **Forks** | 472 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ FoundryVTT PF2E is an open‑source, community‑driven game system that bring
 
 ### 中文
 
-foundryvtt/pf2e：foundryvtt/pf2e may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+foundryvtt/pf2e：foundryvtt/pf2e may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ foundryvtt/pf2e：foundryvtt/pf2e may be useful when its README and activity mat
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ foundryvtt/pf2e：foundryvtt/pf2e may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
-| adoption | 61/100 |
-| stars | 59/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 13/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

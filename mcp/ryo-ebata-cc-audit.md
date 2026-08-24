@@ -1,6 +1,6 @@
 # ryo-ebata/cc-audit
 
-[![Stars](https://img.shields.io/github/stars/ryo-ebata/cc-audit?style=flat-square&color=yellow)](https://github.com/ryo-ebata/cc-audit/stargazers) [![Forks](https://img.shields.io/github/forks/ryo-ebata/cc-audit?style=flat-square&color=blue)](https://github.com/ryo-ebata/cc-audit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ryo-ebata/cc-audit?style=flat-square&color=yellow)](https://github.com/ryo-ebata/cc-audit/stargazers) [![Forks](https://img.shields.io/github/forks/ryo-ebata/cc-audit?style=flat-square&color=blue)](https://github.com/ryo-ebata/cc-audit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > AI-free static security scanner for Claude Code artifacts (Skills, Hooks, MCP configs). Detects data exfiltration, prompt injection, and supply chain risks with deterministic, reproducible results.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · Backend · DevTools · Security
 
 ## 📝 Summary
 
@@ -96,14 +96,15 @@ ryo-ebata/cc-audit 的生产可用性为中等（Medium）。它适合用于原�
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

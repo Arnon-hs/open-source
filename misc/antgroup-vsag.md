@@ -1,6 +1,6 @@
 # antgroup/vsag
 
-[![Stars](https://img.shields.io/github/stars/antgroup/vsag?style=flat-square&color=yellow)](https://github.com/antgroup/vsag/stargazers) [![Forks](https://img.shields.io/github/forks/antgroup/vsag?style=flat-square&color=blue)](https://github.com/antgroup/vsag/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antgroup/vsag?style=flat-square&color=yellow)](https://github.com/antgroup/vsag/stargazers) [![Forks](https://img.shields.io/github/forks/antgroup/vsag?style=flat-square&color=blue)](https://github.com/antgroup/vsag/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > vsag is a vector indexing library used for similarity search.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 471 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ vsag 是 AntGroup 开源的向量索引库，基于 C++ 实现高效的相似度
 | forks | 49/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # reviewdog/reviewdog
 
-[![Stars](https://img.shields.io/github/stars/reviewdog/reviewdog?style=flat-square&color=yellow)](https://github.com/reviewdog/reviewdog/stargazers) [![Forks](https://img.shields.io/github/forks/reviewdog/reviewdog?style=flat-square&color=blue)](https://github.com/reviewdog/reviewdog/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reviewdog/reviewdog?style=flat-square&color=yellow)](https://github.com/reviewdog/reviewdog/stargazers) [![Forks](https://img.shields.io/github/forks/reviewdog/reviewdog?style=flat-square&color=blue)](https://github.com/reviewdog/reviewdog/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 485 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ reviewdog/reviewdog：reviewdog/reviewdog helps engineers save time in daily dev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 69/100 |
-| adoption | 80/100 |
-| stars | 84/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

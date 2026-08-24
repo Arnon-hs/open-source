@@ -1,6 +1,6 @@
 # GetStream/Vision-Agents
 
-[![Stars](https://img.shields.io/github/stars/GetStream/Vision-Agents?style=flat-square&color=yellow)](https://github.com/GetStream/Vision-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/GetStream/Vision-Agents?style=flat-square&color=blue)](https://github.com/GetStream/Vision-Agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GetStream/Vision-Agents?style=flat-square&color=yellow)](https://github.com/GetStream/Vision-Agents/stargazers) [![Forks](https://img.shields.io/github/forks/GetStream/Vision-Agents?style=flat-square&color=blue)](https://github.com/GetStream/Vision-Agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 642 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ GetStream/Vision-Agents: GetStream/Vision-Agents helps add AI capability without
 
 ### Русский
 
-GetStream/Vision-Agents: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+GetStream/Vision-Agents: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ GetStream/Vision-Agents：GetStream/Vision-Agents helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 65/100 |
-| adoption | 79/100 |
-| stars | 83/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

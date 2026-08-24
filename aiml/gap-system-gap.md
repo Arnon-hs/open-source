@@ -1,6 +1,6 @@
 # gap-system/gap
 
-[![Stars](https://img.shields.io/github/stars/gap-system/gap?style=flat-square&color=yellow)](https://github.com/gap-system/gap/stargazers) [![Forks](https://img.shields.io/github/forks/gap-system/gap?style=flat-square&color=blue)](https://github.com/gap-system/gap/network) [![Language](https://img.shields.io/badge/lang-GAP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gap-system/gap?style=flat-square&color=yellow)](https://github.com/gap-system/gap/stargazers) [![Forks](https://img.shields.io/github/forks/gap-system/gap?style=flat-square&color=blue)](https://github.com/gap-system/gap/network) [![Language](https://img.shields.io/badge/lang-GAP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Main development repository for GAP - Groups, Algorithms, Programming, a System for Computational Discrete Algebra
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 960 |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | GAP |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gap-system/gap：gap-system/gap helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 62/100 |
 | stars | 63/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

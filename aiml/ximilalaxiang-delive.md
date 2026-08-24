@@ -65,15 +65,15 @@ XimilalaXiang/DeLive：XimilalaXiang/DeLive helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 57/100 |
+| usefulness | 100/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 57/100 |
 | adoption | 38/100 |
 | stars | 46/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

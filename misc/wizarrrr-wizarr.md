@@ -1,6 +1,6 @@
 # wizarrrr/wizarr
 
-[![Stars](https://img.shields.io/github/stars/wizarrrr/wizarr?style=flat-square&color=yellow)](https://github.com/wizarrrr/wizarr/stargazers) [![Forks](https://img.shields.io/github/forks/wizarrrr/wizarr?style=flat-square&color=blue)](https://github.com/wizarrrr/wizarr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wizarrrr/wizarr?style=flat-square&color=yellow)](https://github.com/wizarrrr/wizarr/stargazers) [![Forks](https://img.shields.io/github/forks/wizarrrr/wizarr?style=flat-square&color=blue)](https://github.com/wizarrrr/wizarr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 188 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Wizarr的生产可用性较高，因为它有以下特点：
 | forks | 57/100 |
 | stars | 74/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

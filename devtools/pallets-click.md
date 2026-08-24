@@ -1,6 +1,6 @@
 # pallets/click
 
-[![Stars](https://img.shields.io/github/stars/pallets/click?style=flat-square&color=yellow)](https://github.com/pallets/click/stargazers) [![Forks](https://img.shields.io/github/forks/pallets/click?style=flat-square&color=blue)](https://github.com/pallets/click/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pallets/click?style=flat-square&color=yellow)](https://github.com/pallets/click/stargazers) [![Forks](https://img.shields.io/github/forks/pallets/click?style=flat-square&color=blue)](https://github.com/pallets/click/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Python composable command line interface toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.5k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ pallets/click：pallets/click helps engineers save time in daily development and
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 66/100 |
-| adoption | 88/100 |
-| stars | 90/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| stars | 90/100 |
 | topics | 50/100 |
+| outlook | 59/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

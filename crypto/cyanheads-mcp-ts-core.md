@@ -1,6 +1,6 @@
 # cyanheads/mcp-ts-core
 
-[![Stars](https://img.shields.io/github/stars/cyanheads/mcp-ts-core?style=flat-square&color=yellow)](https://github.com/cyanheads/mcp-ts-core/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/mcp-ts-core?style=flat-square&color=blue)](https://github.com/cyanheads/mcp-ts-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyanheads/mcp-ts-core?style=flat-square&color=yellow)](https://github.com/cyanheads/mcp-ts-core/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/mcp-ts-core?style=flat-square&color=blue)](https://github.com/cyanheads/mcp-ts-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-native TypeScript framework for building MCP servers. Declarative definitions with auth, multi-backend storage, OpenTelemetry, and first-class support for Bun/Node/Cloudflare Workers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cyanheads/mcp-ts-core：cyanheads/mcp-ts-core helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 65/100 |
+| production | 50/100 |
+| outlook | 58/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ozankasikci/unity-editor-mcp
 
-[![Stars](https://img.shields.io/github/stars/ozankasikci/unity-editor-mcp?style=flat-square&color=yellow)](https://github.com/ozankasikci/unity-editor-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ozankasikci/unity-editor-mcp?style=flat-square&color=blue)](https://github.com/ozankasikci/unity-editor-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ozankasikci/unity-editor-mcp?style=flat-square&color=yellow)](https://github.com/ozankasikci/unity-editor-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ozankasikci/unity-editor-mcp?style=flat-square&color=blue)](https://github.com/ozankasikci/unity-editor-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server and client for LLMs to interact with Unity Projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ ozankasikci/unity‑editor‑mcp 是一个实现 Model Context Protocol（MC
 | forks | 25/100 |
 | stars | 31/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # cyanheads/clinicaltrialsgov-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/cyanheads/clinicaltrialsgov-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/clinicaltrialsgov-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/clinicaltrialsgov-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/clinicaltrialsgov-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyanheads/clinicaltrialsgov-mcp-server?style=flat-square&color=yellow)](https://github.com/cyanheads/clinicaltrialsgov-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/cyanheads/clinicaltrialsgov-mcp-server?style=flat-square&color=blue)](https://github.com/cyanheads/clinicaltrialsgov-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for the ClinicalTrials.gov v2 API. Search trials, retrieve study details and results, and match patients to eligible trials.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cyanheads/clinicaltrialsgov-mcp-server：cyanheads/clinicaltrialsgov-mcp-server 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 100/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 38/100 |
 | stars | 39/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

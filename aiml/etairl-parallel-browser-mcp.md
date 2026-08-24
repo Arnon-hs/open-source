@@ -35,7 +35,7 @@ Parallel Browser MCP is an open‑source micro‑control‑plane (MCP) server th
 
 ### 中文
 
-etairl/parallel-browser-mcp：etairl/parallel-browser-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+etairl/parallel-browser-mcp：etairl/parallel-browser-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ etairl/parallel-browser-mcp：etairl/parallel-browser-mcp helps add AI capabilit
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ etairl/parallel-browser-mcp：etairl/parallel-browser-mcp helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 52/100 |
+| usefulness | 100/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 54/100 |
 | adoption | 28/100 |
 | stars | 35/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

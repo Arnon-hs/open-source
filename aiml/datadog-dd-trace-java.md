@@ -1,6 +1,6 @@
 # DataDog/dd-trace-java
 
-[![Stars](https://img.shields.io/github/stars/DataDog/dd-trace-java?style=flat-square&color=yellow)](https://github.com/DataDog/dd-trace-java/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/dd-trace-java?style=flat-square&color=blue)](https://github.com/DataDog/dd-trace-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataDog/dd-trace-java?style=flat-square&color=yellow)](https://github.com/DataDog/dd-trace-java/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/dd-trace-java?style=flat-square&color=blue)](https://github.com/DataDog/dd-trace-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Datadog APM client for Java
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 720 |
 | 🍴 **Forks** | 334 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DataDog/dd-trace-java：DataDog/dd-trace-java helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 61/100 |
 | stars | 61/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Traves-Theberge/Orchestra
 
-[![Stars](https://img.shields.io/github/stars/Traves-Theberge/Orchestra?style=flat-square&color=yellow)](https://github.com/Traves-Theberge/Orchestra/stargazers) [![Forks](https://img.shields.io/github/forks/Traves-Theberge/Orchestra?style=flat-square&color=blue)](https://github.com/Traves-Theberge/Orchestra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Traves-Theberge/Orchestra?style=flat-square&color=yellow)](https://github.com/Traves-Theberge/Orchestra/stargazers) [![Forks](https://img.shields.io/github/forks/Traves-Theberge/Orchestra?style=flat-square&color=blue)](https://github.com/Traves-Theberge/Orchestra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestra is a desktop development workspace that integrates AI coding agents with project management, terminal,, and configuration
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ Orchestra 是一个面向桌面开发者的工作空间，内置 AI 编码代理
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 25/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

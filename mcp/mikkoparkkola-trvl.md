@@ -1,6 +1,6 @@
 # MikkoParkkola/trvl
 
-[![Stars](https://img.shields.io/github/stars/MikkoParkkola/trvl?style=flat-square&color=yellow)](https://github.com/MikkoParkkola/trvl/stargazers) [![Forks](https://img.shields.io/github/forks/MikkoParkkola/trvl?style=flat-square&color=blue)](https://github.com/MikkoParkkola/trvl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MikkoParkkola/trvl?style=flat-square&color=yellow)](https://github.com/MikkoParkkola/trvl/stargazers) [![Forks](https://img.shields.io/github/forks/MikkoParkkola/trvl?style=flat-square&color=blue)](https://github.com/MikkoParkkola/trvl/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > AI Travel Agent — Google Flights + Hotels from your terminal. 43 MCP tools, trip optimization, airport lounges, travel hacks. Free, no API keys, single Go binary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ MikkoParkkola/trvl 是一款基于终端的 AI 旅行助理，能够在命令行
 | forks | 21/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 26/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Codeturion/codesurface
 
-[![Stars](https://img.shields.io/github/stars/Codeturion/codesurface?style=flat-square&color=yellow)](https://github.com/Codeturion/codesurface/stargazers) [![Forks](https://img.shields.io/github/forks/Codeturion/codesurface?style=flat-square&color=blue)](https://github.com/Codeturion/codesurface/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Codeturion/codesurface?style=flat-square&color=yellow)](https://github.com/Codeturion/codesurface/stargazers) [![Forks](https://img.shields.io/github/forks/Codeturion/codesurface?style=flat-square&color=blue)](https://github.com/Codeturion/codesurface/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Give your AI agent instant API lookups instead of expensive source file reads. MCP server for C#, Go, Java, Python, and TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Codeturion/codesurface：Codeturion/codesurface helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 100/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 25/100 |
 | stars | 29/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

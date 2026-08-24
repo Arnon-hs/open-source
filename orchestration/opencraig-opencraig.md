@@ -1,6 +1,6 @@
 # opencraig/opencraig
 
-[![Stars](https://img.shields.io/github/stars/opencraig/opencraig?style=flat-square&color=yellow)](https://github.com/opencraig/opencraig/stargazers) [![Forks](https://img.shields.io/github/forks/opencraig/opencraig?style=flat-square&color=blue)](https://github.com/opencraig/opencraig/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opencraig/opencraig?style=flat-square&color=yellow)](https://github.com/opencraig/opencraig/stargazers) [![Forks](https://img.shields.io/github/forks/opencraig/opencraig?style=flat-square&color=blue)](https://github.com/opencraig/opencraig/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted document intelligence for the people who can't afford to misquote. Every answer cites the page it came from.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 664 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ OpenCraig — это self‑hosted платформа документальн
 
 ### 中文
 
-opencraig/opencraig：opencraig/opencraig helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+opencraig/opencraig：opencraig/opencraig helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ opencraig/opencraig：opencraig/opencraig helps turn isolated prompts and tools 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ opencraig/opencraig：opencraig/opencraig helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 62/100 |
-| adoption | 55/100 |
-| stars | 60/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

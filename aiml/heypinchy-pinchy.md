@@ -1,6 +1,6 @@
 # heypinchy/pinchy
 
-[![Stars](https://img.shields.io/github/stars/heypinchy/pinchy?style=flat-square&color=yellow)](https://github.com/heypinchy/pinchy/stargazers) [![Forks](https://img.shields.io/github/forks/heypinchy/pinchy?style=flat-square&color=blue)](https://github.com/heypinchy/pinchy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heypinchy/pinchy?style=flat-square&color=yellow)](https://github.com/heypinchy/pinchy/stargazers) [![Forks](https://img.shields.io/github/forks/heypinchy/pinchy?style=flat-square&color=blue)](https://github.com/heypinchy/pinchy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted AI agent platform built on OpenClaw. Enterprise-ready, offline-capable, open source. 🦞
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ heypinchy/pinchy：heypinchy/pinchy helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 43/100 |
-| stars | 47/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| stars | 47/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 39/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

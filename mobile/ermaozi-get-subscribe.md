@@ -1,6 +1,6 @@
 # ermaozi/get_subscribe
 
-[![Stars](https://img.shields.io/github/stars/ermaozi/get_subscribe?style=flat-square&color=yellow)](https://github.com/ermaozi/get_subscribe/stargazers) [![Forks](https://img.shields.io/github/forks/ermaozi/get_subscribe?style=flat-square&color=blue)](https://github.com/ermaozi/get_subscribe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ermaozi/get_subscribe?style=flat-square&color=yellow)](https://github.com/ermaozi/get_subscribe/stargazers) [![Forks](https://img.shields.io/github/forks/ermaozi/get_subscribe?style=flat-square&color=blue)](https://github.com/ermaozi/get_subscribe/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.1k |
 | 🍴 **Forks** | 667 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,14 +122,15 @@ Overall, `ermaozi/get_subscribe` is production‑ready for pilot deployments whe
 | forks | 71/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

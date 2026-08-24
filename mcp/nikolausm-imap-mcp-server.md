@@ -1,6 +1,6 @@
 # nikolausm/imap-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/nikolausm/imap-mcp-server?style=flat-square&color=yellow)](https://github.com/nikolausm/imap-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nikolausm/imap-mcp-server?style=flat-square&color=blue)](https://github.com/nikolausm/imap-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikolausm/imap-mcp-server?style=flat-square&color=yellow)](https://github.com/nikolausm/imap-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nikolausm/imap-mcp-server?style=flat-square&color=blue)](https://github.com/nikolausm/imap-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful Model Context Protocol (MCP) server for IMAP email integration with Claude
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ nikolausm/imap-mcp-server 是一款基于 TypeScript 实现的 Model Context Pro
 | forks | 33/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

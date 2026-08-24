@@ -1,6 +1,6 @@
 # libp2p/js-libp2p
 
-[![Stars](https://img.shields.io/github/stars/libp2p/js-libp2p?style=flat-square&color=yellow)](https://github.com/libp2p/js-libp2p/stargazers) [![Forks](https://img.shields.io/github/forks/libp2p/js-libp2p?style=flat-square&color=blue)](https://github.com/libp2p/js-libp2p/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libp2p/js-libp2p?style=flat-square&color=yellow)](https://github.com/libp2p/js-libp2p/stargazers) [![Forks](https://img.shields.io/github/forks/libp2p/js-libp2p?style=flat-square&color=blue)](https://github.com/libp2p/js-libp2p/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript Implementation of libp2p networking stack.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 532 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ libp2p/js-libp2p：libp2p/js-libp2p may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 71/100 |
-| stars | 72/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 63/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

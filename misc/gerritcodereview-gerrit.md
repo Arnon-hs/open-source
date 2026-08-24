@@ -1,6 +1,6 @@
 # GerritCodeReview/gerrit
 
-[![Stars](https://img.shields.io/github/stars/GerritCodeReview/gerrit?style=flat-square&color=yellow)](https://github.com/GerritCodeReview/gerrit/stargazers) [![Forks](https://img.shields.io/github/forks/GerritCodeReview/gerrit?style=flat-square&color=blue)](https://github.com/GerritCodeReview/gerrit/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GerritCodeReview/gerrit?style=flat-square&color=yellow)](https://github.com/GerritCodeReview/gerrit/stargazers) [![Forks](https://img.shields.io/github/forks/GerritCodeReview/gerrit?style=flat-square&color=blue)](https://github.com/GerritCodeReview/gerrit/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 273 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Gerrit Code Review 是一个用于代码审查和管理的开源平台，支持�
 | forks | 61/100 |
 | stars | 65/100 |
 | topics | 25/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # learnhouse/learnhouse
 
-[![Stars](https://img.shields.io/github/stars/learnhouse/learnhouse?style=flat-square&color=yellow)](https://github.com/learnhouse/learnhouse/stargazers) [![Forks](https://img.shields.io/github/forks/learnhouse/learnhouse?style=flat-square&color=blue)](https://github.com/learnhouse/learnhouse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/learnhouse/learnhouse?style=flat-square&color=yellow)](https://github.com/learnhouse/learnhouse/stargazers) [![Forks](https://img.shields.io/github/forks/learnhouse/learnhouse?style=flat-square&color=blue)](https://github.com/learnhouse/learnhouse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The Next-gen Open Source learning platform for everyone ✨
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 309 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ learnhouse/learnhouse：learnhouse/learnhouse helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 78/100 |
-| production | 63/100 |
-| outlook | 62/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

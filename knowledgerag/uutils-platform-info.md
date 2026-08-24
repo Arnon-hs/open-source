@@ -1,6 +1,6 @@
 # uutils/platform-info
 
-[![Stars](https://img.shields.io/github/stars/uutils/platform-info?style=flat-square&color=yellow)](https://github.com/uutils/platform-info/stargazers) [![Forks](https://img.shields.io/github/forks/uutils/platform-info?style=flat-square&color=blue)](https://github.com/uutils/platform-info/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uutils/platform-info?style=flat-square&color=yellow)](https://github.com/uutils/platform-info/stargazers) [![Forks](https://img.shields.io/github/forks/uutils/platform-info?style=flat-square&color=blue)](https://github.com/uutils/platform-info/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform way to get information about your machine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Database
+Knowledge/RAG
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ println!("{:#?}", info);
 | forks | 37/100 |
 | stars | 45/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # RSeidelsohn/license-checker-rseidelsohn
 
-[![Stars](https://img.shields.io/github/stars/RSeidelsohn/license-checker-rseidelsohn?style=flat-square&color=yellow)](https://github.com/RSeidelsohn/license-checker-rseidelsohn/stargazers) [![Forks](https://img.shields.io/github/forks/RSeidelsohn/license-checker-rseidelsohn?style=flat-square&color=blue)](https://github.com/RSeidelsohn/license-checker-rseidelsohn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RSeidelsohn/license-checker-rseidelsohn?style=flat-square&color=yellow)](https://github.com/RSeidelsohn/license-checker-rseidelsohn/stargazers) [![Forks](https://img.shields.io/github/forks/RSeidelsohn/license-checker-rseidelsohn?style=flat-square&color=blue)](https://github.com/RSeidelsohn/license-checker-rseidelsohn/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Extract NPM package licenses. Enhanced and updated fork of Dav Glass' original (but abandoned) license-checker.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ RSeidelsohn/license-checker-rseidelsohn 是一个用于提取 NPM 包许可证�
 | forks | 42/100 |
 | stars | 49/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

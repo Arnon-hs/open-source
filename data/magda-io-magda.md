@@ -1,6 +1,6 @@
 # magda-io/magda
 
-[![Stars](https://img.shields.io/github/stars/magda-io/magda?style=flat-square&color=yellow)](https://github.com/magda-io/magda/stargazers) [![Forks](https://img.shields.io/github/forks/magda-io/magda?style=flat-square&color=blue)](https://github.com/magda-io/magda/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/magda-io/magda?style=flat-square&color=yellow)](https://github.com/magda-io/magda/stargazers) [![Forks](https://img.shields.io/github/forks/magda-io/magda?style=flat-square&color=blue)](https://github.com/magda-io/magda/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A federated, open-source data catalog for all your big data and small data
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 597 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · DevOps/Infra
+Data · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ magda‑io/magda is an open‑source, federated data catalog that lets organizat
 
 ### 中文
 
-magda-io/magda：magda-io/magda helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+magda-io/magda：magda-io/magda helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ magda-io/magda：magda-io/magda helps convert raw data into searchable, analyzab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ magda-io/magda：magda-io/magda helps convert raw data into searchable, analyzab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 54/100 |
-| adoption | 57/100 |
-| stars | 59/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 75/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

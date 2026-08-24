@@ -1,6 +1,6 @@
 # marp-team/marp-cli
 
-[![Stars](https://img.shields.io/github/stars/marp-team/marp-cli?style=flat-square&color=yellow)](https://github.com/marp-team/marp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/marp-team/marp-cli?style=flat-square&color=blue)](https://github.com/marp-team/marp-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marp-team/marp-cli?style=flat-square&color=yellow)](https://github.com/marp-team/marp-cli/stargazers) [![Forks](https://img.shields.io/github/forks/marp-team/marp-cli?style=flat-square&color=blue)](https://github.com/marp-team/marp-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI interface for Marp and Marpit based converters
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 188 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ marp-team/marp-cli 已经接近生产就绪，主要原因是：
 | forks | 57/100 |
 | stars | 76/100 |
 | topics | 88/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

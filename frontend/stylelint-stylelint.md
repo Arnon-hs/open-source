@@ -1,6 +1,6 @@
 # stylelint/stylelint
 
-[![Stars](https://img.shields.io/github/stars/stylelint/stylelint?style=flat-square&color=yellow)](https://github.com/stylelint/stylelint/stargazers) [![Forks](https://img.shields.io/github/forks/stylelint/stylelint?style=flat-square&color=blue)](https://github.com/stylelint/stylelint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stylelint/stylelint?style=flat-square&color=yellow)](https://github.com/stylelint/stylelint/stargazers) [![Forks](https://img.shields.io/github/forks/stylelint/stylelint?style=flat-square&color=blue)](https://github.com/stylelint/stylelint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A mighty CSS linter that helps you avoid errors and enforce conventions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.5k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ stylelint 是一款强大的 CSS/SCSS/LESS 代码检查工具，能够帮助开�
 | forks | 75/100 |
 | stars | 86/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 83/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

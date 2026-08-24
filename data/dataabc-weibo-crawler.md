@@ -1,6 +1,6 @@
 # dataabc/weibo-crawler
 
-[![Stars](https://img.shields.io/github/stars/dataabc/weibo-crawler?style=flat-square&color=yellow)](https://github.com/dataabc/weibo-crawler/stargazers) [![Forks](https://img.shields.io/github/forks/dataabc/weibo-crawler?style=flat-square&color=blue)](https://github.com/dataabc/weibo-crawler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dataabc/weibo-crawler?style=flat-square&color=yellow)](https://github.com/dataabc/weibo-crawler/stargazers) [![Forks](https://img.shields.io/github/forks/dataabc/weibo-crawler?style=flat-square&color=blue)](https://github.com/dataabc/weibo-crawler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 新浪微博爬虫，用python爬取新浪微博数据，并下载微博图片和微博视频
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 897 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dataabc/weibo-crawler：dataabc/weibo-crawler helps convert raw data into search
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 55/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 77/100 |
 | stars | 78/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

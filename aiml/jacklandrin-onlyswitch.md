@@ -1,6 +1,6 @@
 # jacklandrin/OnlySwitch
 
-[![Stars](https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=flat-square&color=yellow)](https://github.com/jacklandrin/OnlySwitch/stargazers) [![Forks](https://img.shields.io/github/forks/jacklandrin/OnlySwitch?style=flat-square&color=blue)](https://github.com/jacklandrin/OnlySwitch/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=flat-square&color=yellow)](https://github.com/jacklandrin/OnlySwitch/stargazers) [![Forks](https://img.shields.io/github/forks/jacklandrin/OnlySwitch?style=flat-square&color=blue)](https://github.com/jacklandrin/OnlySwitch/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ OnlySwitch 是一款基于 Swift 开发的 macOS 菜单栏工具，聚合了多�
 | forks | 59/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # SSShooter/ebook-to-mindmap
 
-[![Stars](https://img.shields.io/github/stars/SSShooter/ebook-to-mindmap?style=flat-square&color=yellow)](https://github.com/SSShooter/ebook-to-mindmap/stargazers) [![Forks](https://img.shields.io/github/forks/SSShooter/ebook-to-mindmap?style=flat-square&color=blue)](https://github.com/SSShooter/ebook-to-mindmap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SSShooter/ebook-to-mindmap?style=flat-square&color=yellow)](https://github.com/SSShooter/ebook-to-mindmap/stargazers) [![Forks](https://img.shields.io/github/forks/SSShooter/ebook-to-mindmap?style=flat-square&color=blue)](https://github.com/SSShooter/ebook-to-mindmap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered Summaries by Extracting Content from EPUB and PDF. epub、pdf 拆书 AI 总结
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SSShooter/ebook‑to‑mindmap is an open‑source tool that leverages AI to aut
 
 ### 中文
 
-SSShooter/ebook-to-mindmap：SSShooter/ebook-to-mindmap helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SSShooter/ebook-to-mindmap：SSShooter/ebook-to-mindmap helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SSShooter/ebook-to-mindmap：SSShooter/ebook-to-mindmap helps add AI capability 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ SSShooter/ebook-to-mindmap：SSShooter/ebook-to-mindmap helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
-| adoption | 62/100 |
-| stars | 65/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

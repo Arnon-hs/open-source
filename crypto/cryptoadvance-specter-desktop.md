@@ -1,6 +1,6 @@
 # cryptoadvance/specter-desktop
 
-[![Stars](https://img.shields.io/github/stars/cryptoadvance/specter-desktop?style=flat-square&color=yellow)](https://github.com/cryptoadvance/specter-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/cryptoadvance/specter-desktop?style=flat-square&color=blue)](https://github.com/cryptoadvance/specter-desktop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cryptoadvance/specter-desktop?style=flat-square&color=yellow)](https://github.com/cryptoadvance/specter-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/cryptoadvance/specter-desktop?style=flat-square&color=blue)](https://github.com/cryptoadvance/specter-desktop/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop GUI for Bitcoin Core optimised to work with hardware wallets
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 837 |
 | 🍴 **Forks** | 254 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Specter-desktop 的生产可用性是中等的。它在 GitHub 上拥有 837 个
 | forks | 60/100 |
 | stars | 62/100 |
 | topics | 13/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

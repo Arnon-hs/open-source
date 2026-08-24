@@ -1,6 +1,6 @@
 # shanliuling/skills-link
 
-[![Stars](https://img.shields.io/github/stars/shanliuling/skills-link?style=flat-square&color=yellow)](https://github.com/shanliuling/skills-link/stargazers) [![Forks](https://img.shields.io/github/forks/shanliuling/skills-link?style=flat-square&color=blue)](https://github.com/shanliuling/skills-link/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shanliuling/skills-link?style=flat-square&color=yellow)](https://github.com/shanliuling/skills-link/stargazers) [![Forks](https://img.shields.io/github/forks/shanliuling/skills-link?style=flat-square&color=blue)](https://github.com/shanliuling/skills-link/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Sync your local skills across 41+ AI coding agents with a single command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 190 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -129,14 +129,15 @@ In short, **skills‑link** offers a pragmatic way to automate skill propagation
 | forks | 19/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

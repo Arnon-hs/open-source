@@ -1,6 +1,6 @@
 # tardis-dev/tardis-node
 
-[![Stars](https://img.shields.io/github/stars/tardis-dev/tardis-node?style=flat-square&color=yellow)](https://github.com/tardis-dev/tardis-node/stargazers) [![Forks](https://img.shields.io/github/forks/tardis-dev/tardis-node?style=flat-square&color=blue)](https://github.com/tardis-dev/tardis-node/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tardis-dev/tardis-node?style=flat-square&color=yellow)](https://github.com/tardis-dev/tardis-node/stargazers) [![Forks](https://img.shields.io/github/forks/tardis-dev/tardis-node?style=flat-square&color=blue)](https://github.com/tardis-dev/tardis-node/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Convenient access to tick-level real-time and historical cryptocurrency market data via Node.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Knowledge/RAG · Automation · AI/ML
+Crypto · Trading · Backend · Data
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ tardis‑dev/tardis‑node 已具备 **高生产可用性**，可直接用于正
 | forks | 47/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

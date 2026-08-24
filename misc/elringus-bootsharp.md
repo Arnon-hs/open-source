@@ -1,6 +1,6 @@
 # elringus/bootsharp
 
-[![Stars](https://img.shields.io/github/stars/elringus/bootsharp?style=flat-square&color=yellow)](https://github.com/elringus/bootsharp/stargazers) [![Forks](https://img.shields.io/github/forks/elringus/bootsharp?style=flat-square&color=blue)](https://github.com/elringus/bootsharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elringus/bootsharp?style=flat-square&color=yellow)](https://github.com/elringus/bootsharp/stargazers) [![Forks](https://img.shields.io/github/forks/elringus/bootsharp?style=flat-square&color=blue)](https://github.com/elringus/bootsharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Use C# in web apps with comfort
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 760 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ BootSharp scores high for pilot use: it shows recent activity, a sizable star co
 | forks | 40/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

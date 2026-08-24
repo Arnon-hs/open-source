@@ -1,6 +1,6 @@
 # keephq/keep
 
-[![Stars](https://img.shields.io/github/stars/keephq/keep?style=flat-square&color=yellow)](https://github.com/keephq/keep/stargazers) [![Forks](https://img.shields.io/github/forks/keephq/keep?style=flat-square&color=blue)](https://github.com/keephq/keep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keephq/keep?style=flat-square&color=yellow)](https://github.com/keephq/keep/stargazers) [![Forks](https://img.shields.io/github/forks/keephq/keep?style=flat-square&color=blue)](https://github.com/keephq/keep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source AIOps and alert management platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Database · Observability
+Automation · Observability
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Keephq/keep 是一款开源的 AIOps 与告警管理平台，旨在通过自动�
 | forks | 79/100 |
 | stars | 87/100 |
 | topics | 100/100 |
-| outlook | 96/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 85/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dylanroscover/Embody
 
-[![Stars](https://img.shields.io/github/stars/dylanroscover/Embody?style=flat-square&color=yellow)](https://github.com/dylanroscover/Embody/stargazers) [![Forks](https://img.shields.io/github/forks/dylanroscover/Embody?style=flat-square&color=blue)](https://github.com/dylanroscover/Embody/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dylanroscover/Embody?style=flat-square&color=yellow)](https://github.com/dylanroscover/Embody/stargazers) [![Forks](https://img.shields.io/github/forks/dylanroscover/Embody?style=flat-square&color=blue)](https://github.com/dylanroscover/Embody/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for TouchDesigner — build, wire, and debug networks with AI. Plus git-diffable externalization.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · Backend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Embody（dylanroscover/Embody）是面向 TouchDesigner 的 MCP（Model Contex
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 33/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

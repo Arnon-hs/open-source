@@ -1,6 +1,6 @@
 # activeloopai/hivemind
 
-[![Stars](https://img.shields.io/github/stars/activeloopai/hivemind?style=flat-square&color=yellow)](https://github.com/activeloopai/hivemind/stargazers) [![Forks](https://img.shields.io/github/forks/activeloopai/hivemind?style=flat-square&color=blue)](https://github.com/activeloopai/hivemind/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/activeloopai/hivemind?style=flat-square&color=yellow)](https://github.com/activeloopai/hivemind/stargazers) [![Forks](https://img.shields.io/github/forks/activeloopai/hivemind?style=flat-square&color=blue)](https://github.com/activeloopai/hivemind/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > One brain for all your agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ActiveloopAI Hivemind is an open‑source framework that lets multiple AI agen
 
 ### 中文
 
-activeloopai/hivemind：activeloopai/hivemind helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+activeloopai/hivemind：activeloopai/hivemind helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ activeloopai/hivemind：activeloopai/hivemind helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ activeloopai/hivemind：activeloopai/hivemind helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 53/100 |
 | adoption | 32/100 |
 | stars | 39/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

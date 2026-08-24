@@ -1,6 +1,6 @@
 # rustzen/rustzen-admin
 
-[![Stars](https://img.shields.io/github/stars/rustzen/rustzen-admin?style=flat-square&color=yellow)](https://github.com/rustzen/rustzen-admin/stargazers) [![Forks](https://img.shields.io/github/forks/rustzen/rustzen-admin?style=flat-square&color=blue)](https://github.com/rustzen/rustzen-admin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustzen/rustzen-admin?style=flat-square&color=yellow)](https://github.com/rustzen/rustzen-admin/stargazers) [![Forks](https://img.shields.io/github/forks/rustzen/rustzen-admin?style=flat-square&color=blue)](https://github.com/rustzen/rustzen-admin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A structured monorepo for Rust full-stack admin systems, with an Axum backend, React frontend, and clear architecture boundaries.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Database
+Frontend · Database
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ rustzen/rustzen-admin 的生产可用性为中等。它适合用于快速开发�
 | forks | 0/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pcodec/pcodec
 
-[![Stars](https://img.shields.io/github/stars/pcodec/pcodec?style=flat-square&color=yellow)](https://github.com/pcodec/pcodec/stargazers) [![Forks](https://img.shields.io/github/forks/pcodec/pcodec?style=flat-square&color=blue)](https://github.com/pcodec/pcodec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pcodec/pcodec?style=flat-square&color=yellow)](https://github.com/pcodec/pcodec/stargazers) [![Forks](https://img.shields.io/github/forks/pcodec/pcodec?style=flat-square&color=blue)](https://github.com/pcodec/pcodec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Lossless codec for numerical data
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 478 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -59,21 +59,21 @@ pcodec/pcodec：pcodec/pcodec helps convert raw data into searchable, analyzable
 - primary language: Rust
 - 1 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 46/100 |
+| production | 42/100 |
+| outlook | 39/100 |
 | adoption | 51/100 |
 | stars | 57/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

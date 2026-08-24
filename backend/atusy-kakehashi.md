@@ -1,6 +1,6 @@
 # atusy/kakehashi
 
-[![Stars](https://img.shields.io/github/stars/atusy/kakehashi?style=flat-square&color=yellow)](https://github.com/atusy/kakehashi/stargazers) [![Forks](https://img.shields.io/github/forks/atusy/kakehashi?style=flat-square&color=blue)](https://github.com/atusy/kakehashi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atusy/kakehashi?style=flat-square&color=yellow)](https://github.com/atusy/kakehashi/stargazers) [![Forks](https://img.shields.io/github/forks/atusy/kakehashi?style=flat-square&color=blue)](https://github.com/atusy/kakehashi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > language server that bridges the gap between languages, editors, and tooling
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 253 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Overall, Kakehashi offers a compelling way to standardise and reuse backend infr
 | forks | 15/100 |
 | stars | 51/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

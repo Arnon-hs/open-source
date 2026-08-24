@@ -1,6 +1,6 @@
 # zellij-org/zellij
 
-[![Stars](https://img.shields.io/github/stars/zellij-org/zellij?style=flat-square&color=yellow)](https://github.com/zellij-org/zellij/stargazers) [![Forks](https://img.shields.io/github/forks/zellij-org/zellij?style=flat-square&color=blue)](https://github.com/zellij-org/zellij/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zellij-org/zellij?style=flat-square&color=yellow)](https://github.com/zellij-org/zellij/stargazers) [![Forks](https://img.shields.io/github/forks/zellij-org/zellij?style=flat-square&color=blue)](https://github.com/zellij-org/zellij/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A terminal workspace with batteries included
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.3k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ zellij-org/zellij：zellij-org/zellij may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 91/100 |
-| stars | 96/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| stars | 96/100 |
 | topics | 38/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

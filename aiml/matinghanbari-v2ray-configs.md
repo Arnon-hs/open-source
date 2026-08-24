@@ -1,6 +1,6 @@
 # MatinGhanbari/v2ray-configs
 
-[![Stars](https://img.shields.io/github/stars/MatinGhanbari/v2ray-configs?style=flat-square&color=yellow)](https://github.com/MatinGhanbari/v2ray-configs/stargazers) [![Forks](https://img.shields.io/github/forks/MatinGhanbari/v2ray-configs?style=flat-square&color=blue)](https://github.com/MatinGhanbari/v2ray-configs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MatinGhanbari/v2ray-configs?style=flat-square&color=yellow)](https://github.com/MatinGhanbari/v2ray-configs/stargazers) [![Forks](https://img.shields.io/github/forks/MatinGhanbari/v2ray-configs?style=flat-square&color=blue)](https://github.com/MatinGhanbari/v2ray-configs/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ♾️ Free V2ray Configs, Updating Every 15 minutes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 533 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MatinGhanbari/v2ray-configs is an open‑source repository that provides a conti
 
 ### 中文
 
-MatinGhanbari/v2ray-configs：MatinGhanbari/v2ray-configs helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MatinGhanbari/v2ray-configs：MatinGhanbari/v2ray-configs helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ MatinGhanbari/v2ray-configs：MatinGhanbari/v2ray-configs helps add AI capabilit
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ MatinGhanbari/v2ray-configs：MatinGhanbari/v2ray-configs helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

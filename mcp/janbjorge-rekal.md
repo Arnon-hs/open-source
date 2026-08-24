@@ -1,6 +1,6 @@
 # janbjorge/rekal
 
-[![Stars](https://img.shields.io/github/stars/janbjorge/rekal?style=flat-square&color=yellow)](https://github.com/janbjorge/rekal/stargazers) [![Forks](https://img.shields.io/github/forks/janbjorge/rekal?style=flat-square&color=blue)](https://github.com/janbjorge/rekal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janbjorge/rekal?style=flat-square&color=yellow)](https://github.com/janbjorge/rekal/stargazers) [![Forks](https://img.shields.io/github/forks/janbjorge/rekal?style=flat-square&color=blue)](https://github.com/janbjorge/rekal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Long-term memory for LLMs. MCP server backed by hybrid search in a single SQLite file.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ janbjorge/rekal 为大模型提供长期记忆能力，基于单文件 SQLite �
 | forks | 17/100 |
 | stars | 36/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 31/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # bigcapitalhq/bigcapital
 
-[![Stars](https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=flat-square&color=yellow)](https://github.com/bigcapitalhq/bigcapital/stargazers) [![Forks](https://img.shields.io/github/forks/bigcapitalhq/bigcapital?style=flat-square&color=blue)](https://github.com/bigcapitalhq/bigcapital/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=flat-square&color=yellow)](https://github.com/bigcapitalhq/bigcapital/stargazers) [![Forks](https://img.shields.io/github/forks/bigcapitalhq/bigcapital?style=flat-square&color=blue)](https://github.com/bigcapitalhq/bigcapital/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 💵 Independent financial accounting with intelligent reporting, alternative to Quickbooks, Xero, Wave.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 437 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · Backend
+Payments
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ bigcapitalhq/bigcapital 是一款基于 TypeScript 的开源财务会计系统�
 | forks | 66/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

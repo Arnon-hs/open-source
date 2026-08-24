@@ -1,6 +1,6 @@
 # osrg/gobgp
 
-[![Stars](https://img.shields.io/github/stars/osrg/gobgp?style=flat-square&color=yellow)](https://github.com/osrg/gobgp/stargazers) [![Forks](https://img.shields.io/github/forks/osrg/gobgp?style=flat-square&color=blue)](https://github.com/osrg/gobgp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/osrg/gobgp?style=flat-square&color=yellow)](https://github.com/osrg/gobgp/stargazers) [![Forks](https://img.shields.io/github/forks/osrg/gobgp?style=flat-square&color=blue)](https://github.com/osrg/gobgp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > BGP implemented in the Go Programming Language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 781 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ gobgp is an open‑source implementation of the Border Gateway Protocol (BGP) wr
 
 ### 中文
 
-osrg/gobgp：osrg/gobgp may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+osrg/gobgp：osrg/gobgp may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ osrg/gobgp：osrg/gobgp may be useful when its README and activity match a concr
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ osrg/gobgp：osrg/gobgp may be useful when its README and activity match a concr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 51/100 |
-| adoption | 76/100 |
-| stars | 77/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| stars | 77/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # apache/activemq
 
-[![Stars](https://img.shields.io/github/stars/apache/activemq?style=flat-square&color=yellow)](https://github.com/apache/activemq/stargazers) [![Forks](https://img.shields.io/github/forks/apache/activemq?style=flat-square&color=blue)](https://github.com/apache/activemq/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/activemq?style=flat-square&color=yellow)](https://github.com/apache/activemq/stargazers) [![Forks](https://img.shields.io/github/forks/apache/activemq?style=flat-square&color=blue)](https://github.com/apache/activemq/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Apache ActiveMQ
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ Apache ActiveMQ 是一款成熟的开源消息中间件，基于 Java 实现，�
 | forks | 79/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

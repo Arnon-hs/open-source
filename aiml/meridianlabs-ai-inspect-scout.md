@@ -1,6 +1,6 @@
 # meridianlabs-ai/inspect_scout
 
-[![Stars](https://img.shields.io/github/stars/meridianlabs-ai/inspect_scout?style=flat-square&color=yellow)](https://github.com/meridianlabs-ai/inspect_scout/stargazers) [![Forks](https://img.shields.io/github/forks/meridianlabs-ai/inspect_scout?style=flat-square&color=blue)](https://github.com/meridianlabs-ai/inspect_scout/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meridianlabs-ai/inspect_scout?style=flat-square&color=yellow)](https://github.com/meridianlabs-ai/inspect_scout/stargazers) [![Forks](https://img.shields.io/github/forks/meridianlabs-ai/inspect_scout?style=flat-square&color=blue)](https://github.com/meridianlabs-ai/inspect_scout/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > In-depth analysis of AI agent transcripts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,16 +64,16 @@ meridianlabs-ai/inspect_scout：meridianlabs-ai/inspect_scout helps add AI capab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 40/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 44/100 |
-| adoption | 34/100 |
-| stars | 35/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| stars | 35/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 35/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

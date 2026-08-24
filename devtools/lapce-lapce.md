@@ -1,6 +1,6 @@
 # lapce/lapce
 
-[![Stars](https://img.shields.io/github/stars/lapce/lapce?style=flat-square&color=yellow)](https://github.com/lapce/lapce/stargazers) [![Forks](https://img.shields.io/github/forks/lapce/lapce?style=flat-square&color=blue)](https://github.com/lapce/lapce/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lapce/lapce?style=flat-square&color=yellow)](https://github.com/lapce/lapce/stargazers) [![Forks](https://img.shields.io/github/forks/lapce/lapce?style=flat-square&color=blue)](https://github.com/lapce/lapce/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Lightning-fast and Powerful Code Editor written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ lapce/lapce：lapce/lapce helps engineers save time in daily development and rev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 92/100 |
-| stars | 98/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| stars | 98/100 |
 | topics | 63/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

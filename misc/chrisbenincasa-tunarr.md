@@ -64,14 +64,14 @@ chrisbenincasa/tunarr：chrisbenincasa/tunarr may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| quality | 64/100 |
+| integration | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 65/100 |
 | stars | 71/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

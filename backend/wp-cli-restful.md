@@ -1,6 +1,6 @@
 # wp-cli/restful
 
-[![Stars](https://img.shields.io/github/stars/wp-cli/restful?style=flat-square&color=yellow)](https://github.com/wp-cli/restful/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/restful?style=flat-square&color=blue)](https://github.com/wp-cli/restful/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wp-cli/restful?style=flat-square&color=yellow)](https://github.com/wp-cli/restful/stargazers) [![Forks](https://img.shields.io/github/forks/wp-cli/restful?style=flat-square&color=blue)](https://github.com/wp-cli/restful/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Unlocking the potential of the WP REST API at the command line
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ wp‑cli/restful 是一款基于 WP‑CLI 的插件，帮助开发者在命令�
 | forks | 29/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # 34j/decryptpdf
 
-[![Stars](https://img.shields.io/github/stars/34j/decryptpdf?style=flat-square&color=yellow)](https://github.com/34j/decryptpdf/stargazers) [![Forks](https://img.shields.io/github/forks/34j/decryptpdf?style=flat-square&color=blue)](https://github.com/34j/decryptpdf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/34j/decryptpdf?style=flat-square&color=yellow)](https://github.com/34j/decryptpdf/stargazers) [![Forks](https://img.shields.io/github/forks/34j/decryptpdf?style=flat-square&color=blue)](https://github.com/34j/decryptpdf/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Simple CLI tool for decrypting PDF files. `uvx decryptpdf my.pdf` `pipx run decryptpdf my.pdf` (PDF password remover / unlocker, ✔Batch processing, ✔CLI)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A lightweight command‑line utility that removes passwords from PDF files, allo
 
 ### 中文
 
-34j/decryptpdf：34j/decryptpdf helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+34j/decryptpdf：34j/decryptpdf helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ A lightweight command‑line utility that removes passwords from PDF files, allo
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ A lightweight command‑line utility that removes passwords from PDF files, allo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 28/100 |
-| stars | 33/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 33/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

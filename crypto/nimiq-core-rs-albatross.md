@@ -1,6 +1,6 @@
 # nimiq/core-rs-albatross
 
-[![Stars](https://img.shields.io/github/stars/nimiq/core-rs-albatross?style=flat-square&color=yellow)](https://github.com/nimiq/core-rs-albatross/stargazers) [![Forks](https://img.shields.io/github/forks/nimiq/core-rs-albatross?style=flat-square&color=blue)](https://github.com/nimiq/core-rs-albatross/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nimiq/core-rs-albatross?style=flat-square&color=yellow)](https://github.com/nimiq/core-rs-albatross/stargazers) [![Forks](https://img.shields.io/github/forks/nimiq/core-rs-albatross?style=flat-square&color=blue)](https://github.com/nimiq/core-rs-albatross/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Rust implementation of the Albatross protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ nimiq/core‑rs‑albatross 是 Nimiq 团队用 Rust 实现的 Albatross 共识�
 | forks | 47/100 |
 | stars | 48/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

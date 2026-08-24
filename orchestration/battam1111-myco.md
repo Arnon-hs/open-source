@@ -1,6 +1,6 @@
 # Battam1111/Myco
 
-[![Stars](https://img.shields.io/github/stars/Battam1111/Myco?style=flat-square&color=yellow)](https://github.com/Battam1111/Myco/stargazers) [![Forks](https://img.shields.io/github/forks/Battam1111/Myco?style=flat-square&color=blue)](https://github.com/Battam1111/Myco/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Battam1111/Myco?style=flat-square&color=yellow)](https://github.com/Battam1111/Myco/stargazers) [![Forks](https://img.shields.io/github/forks/Battam1111/Myco?style=flat-square&color=blue)](https://github.com/Battam1111/Myco/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Self-evolving cognitive organism for AI agents — eternal devouring, eternal evolution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Battam1111/Myco is an open‑source framework that creates self‑evolving cogni
 
 ### 中文
 
-Battam1111/Myco：Battam1111/Myco helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Battam1111/Myco：Battam1111/Myco helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Battam1111/Myco：Battam1111/Myco helps turn isolated prompts and tools into rep
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Battam1111/Myco：Battam1111/Myco helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 61/100 |
-| adoption | 34/100 |
-| stars | 38/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| stars | 38/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 49/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

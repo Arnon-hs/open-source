@@ -1,6 +1,6 @@
 # openocta/openocta
 
-[![Stars](https://img.shields.io/github/stars/openocta/openocta?style=flat-square&color=yellow)](https://github.com/openocta/openocta/stargazers) [![Forks](https://img.shields.io/github/forks/openocta/openocta?style=flat-square&color=blue)](https://github.com/openocta/openocta/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openocta/openocta?style=flat-square&color=yellow)](https://github.com/openocta/openocta/stargazers) [![Forks](https://img.shields.io/github/forks/openocta/openocta?style=flat-square&color=blue)](https://github.com/openocta/openocta/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 开源企业级智能体，专为中国团队打造
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 313 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenOcta — это открытая платформа корпоративн
 
 ### 中文
 
-openocta/openocta：openocta/openocta may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+openocta/openocta：openocta/openocta may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ openocta/openocta：openocta/openocta may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ openocta/openocta：openocta/openocta may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 50/100 |
-| adoption | 70/100 |
-| stars | 72/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

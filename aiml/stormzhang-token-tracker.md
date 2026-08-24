@@ -1,6 +1,6 @@
 # stormzhang/token-tracker
 
-[![Stars](https://img.shields.io/github/stars/stormzhang/token-tracker?style=flat-square&color=yellow)](https://github.com/stormzhang/token-tracker/stargazers) [![Forks](https://img.shields.io/github/forks/stormzhang/token-tracker?style=flat-square&color=blue)](https://github.com/stormzhang/token-tracker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stormzhang/token-tracker?style=flat-square&color=yellow)](https://github.com/stormzhang/token-tracker/stargazers) [![Forks](https://img.shields.io/github/forks/stormzhang/token-tracker?style=flat-square&color=blue)](https://github.com/stormzhang/token-tracker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Track token usage across local AI agents (Claude Code, Codex) — CLI dashboard with cost analysis, rate limit monitoring, and session tracking
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 78 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database · Observability
+AI/ML · DevTools · Observability
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ stormzhang/token‑tracker is a Python‑based CLI tool that monitors token cons
 | forks | 25/100 |
 | stars | 40/100 |
 | topics | 88/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

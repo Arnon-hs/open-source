@@ -1,6 +1,6 @@
 # kerlos/pordee
 
-[![Stars](https://img.shields.io/github/stars/kerlos/pordee?style=flat-square&color=yellow)](https://github.com/kerlos/pordee/stargazers) [![Forks](https://img.shields.io/github/forks/kerlos/pordee?style=flat-square&color=blue)](https://github.com/kerlos/pordee/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kerlos/pordee?style=flat-square&color=yellow)](https://github.com/kerlos/pordee/stargazers) [![Forks](https://img.shields.io/github/forks/kerlos/pordee?style=flat-square&color=blue)](https://github.com/kerlos/pordee/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML
 
 ### 中文
 
-kerlos/pordee：kerlos/pordee helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kerlos/pordee：kerlos/pordee helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kerlos/pordee：kerlos/pordee helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ kerlos/pordee：kerlos/pordee helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 49/100 |
-| adoption | 45/100 |
-| stars | 50/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 50/100 |
 | topics | 50/100 |
+| outlook | 42/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

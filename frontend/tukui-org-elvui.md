@@ -1,6 +1,6 @@
 # tukui-org/ElvUI
 
-[![Stars](https://img.shields.io/github/stars/tukui-org/ElvUI?style=flat-square&color=yellow)](https://github.com/tukui-org/ElvUI/stargazers) [![Forks](https://img.shields.io/github/forks/tukui-org/ElvUI?style=flat-square&color=blue)](https://github.com/tukui-org/ElvUI/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tukui-org/ElvUI?style=flat-square&color=yellow)](https://github.com/tukui-org/ElvUI/stargazers) [![Forks](https://img.shields.io/github/forks/tukui-org/ElvUI?style=flat-square&color=blue)](https://github.com/tukui-org/ElvUI/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > User Interface replacement AddOn for World of Warcraft.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 681 |
 | 🍴 **Forks** | 235 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ tukui-org/ElvUI：tukui-org/ElvUI helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 60/100 |
 | stars | 60/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

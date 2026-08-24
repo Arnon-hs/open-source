@@ -1,6 +1,6 @@
 # sartoopjj/thefeed
 
-[![Stars](https://img.shields.io/github/stars/sartoopjj/thefeed?style=flat-square&color=yellow)](https://github.com/sartoopjj/thefeed/stargazers) [![Forks](https://img.shields.io/github/forks/sartoopjj/thefeed?style=flat-square&color=blue)](https://github.com/sartoopjj/thefeed/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sartoopjj/thefeed?style=flat-square&color=yellow)](https://github.com/sartoopjj/thefeed/stargazers) [![Forks](https://img.shields.io/github/forks/sartoopjj/thefeed?style=flat-square&color=blue)](https://github.com/sartoopjj/thefeed/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > DNS-based feed reader and lite messenger for environments where only DNS queries work. Read Telegram channels and public X accounts, and exchange end-to-end-encrypted messages with other users — all over DNS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 82 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ The project exhibits high production readiness due to its recent activity, stron
 | forks | 48/100 |
 | stars | 67/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

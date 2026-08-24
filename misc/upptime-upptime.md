@@ -1,6 +1,6 @@
 # upptime/upptime
 
-[![Stars](https://img.shields.io/github/stars/upptime/upptime?style=flat-square&color=yellow)](https://github.com/upptime/upptime/stargazers) [![Forks](https://img.shields.io/github/forks/upptime/upptime?style=flat-square&color=blue)](https://github.com/upptime/upptime/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/upptime/upptime?style=flat-square&color=yellow)](https://github.com/upptime/upptime/stargazers) [![Forks](https://img.shields.io/github/forks/upptime/upptime?style=flat-square&color=blue)](https://github.com/upptime/upptime/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ upptime/upptime：upptime/upptime may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 86/100 |
-| stars | 90/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| stars | 90/100 |
 | topics | 75/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

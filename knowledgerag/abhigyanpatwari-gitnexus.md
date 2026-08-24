@@ -1,0 +1,81 @@
+# abhigyanpatwari/GitNexus
+
+[![Stars](https://img.shields.io/github/stars/abhigyanpatwari/GitNexus?style=flat-square&color=yellow)](https://github.com/abhigyanpatwari/GitNexus/stargazers) [![Forks](https://img.shields.io/github/forks/abhigyanpatwari/GitNexus?style=flat-square&color=blue)](https://github.com/abhigyanpatwari/GitNexus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+
+> GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 36.6k |
+| 🍴 **Forks** | 4.2k |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-05-07 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Knowledge/RAG · AI/ML
+
+## 📝 Summary
+
+### English
+
+abhigyanpatwari/GitNexus: abhigyanpatwari/GitNexus helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+abhigyanpatwari/GitNexus: open-source проект в категориях Knowledge/RAG, AI/ML. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+abhigyanpatwari/GitNexus：abhigyanpatwari/GitNexus helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** abhigyanpatwari/GitNexus helps make internal knowledge searchable and usable by assistants.
+
+**Best use cases**
+
+- index knowledge bases
+- improve search over documents
+- ground assistant answers
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 36583 GitHub stars
+- 4166 forks
+- updated 2026-05-07
+- primary language: TypeScript
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 90/100 |
+| stars | 97/100 |
+| topics | 0/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/abhigyanpatwari/GitNexus) · [← Back to Knowledgerag](./README.md)</sub>

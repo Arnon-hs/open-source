@@ -1,6 +1,6 @@
 # alumnium-hq/alumnium
 
-[![Stars](https://img.shields.io/github/stars/alumnium-hq/alumnium?style=flat-square&color=yellow)](https://github.com/alumnium-hq/alumnium/stargazers) [![Forks](https://img.shields.io/github/forks/alumnium-hq/alumnium?style=flat-square&color=blue)](https://github.com/alumnium-hq/alumnium/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alumnium-hq/alumnium?style=flat-square&color=yellow)](https://github.com/alumnium-hq/alumnium/stargazers) [![Forks](https://img.shields.io/github/forks/alumnium-hq/alumnium?style=flat-square&color=blue)](https://github.com/alumnium-hq/alumnium/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > End-to-end testing with AI
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 608 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Alumnium（alumnium‑hq/alumnium）是一款基于 AI 的端到端自动化测�
 | forks | 46/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

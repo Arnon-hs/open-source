@@ -1,6 +1,6 @@
 # Simpleyyt/ai-manus
 
-[![Stars](https://img.shields.io/github/stars/Simpleyyt/ai-manus?style=flat-square&color=yellow)](https://github.com/Simpleyyt/ai-manus/stargazers) [![Forks](https://img.shields.io/github/forks/Simpleyyt/ai-manus?style=flat-square&color=blue)](https://github.com/Simpleyyt/ai-manus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Simpleyyt/ai-manus?style=flat-square&color=yellow)](https://github.com/Simpleyyt/ai-manus/stargazers) [![Forks](https://img.shields.io/github/forks/Simpleyyt/ai-manus?style=flat-square&color=blue)](https://github.com/Simpleyyt/ai-manus/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 392 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Simpleyyt/ai-manus 是一个通用的 AI Agent 框架，能够在沙箱环境中
 | forks | 65/100 |
 | stars | 68/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ruvnet/RuView
 
-[![Stars](https://img.shields.io/github/stars/ruvnet/RuView?style=flat-square&color=yellow)](https://github.com/ruvnet/RuView/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/RuView?style=flat-square&color=blue)](https://github.com/ruvnet/RuView/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruvnet/RuView?style=flat-square&color=yellow)](https://github.com/ruvnet/RuView/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/RuView?style=flat-square&color=blue)](https://github.com/ruvnet/RuView/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 52k |
 | 🍴 **Forks** | 6.9k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · Observability · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ruvnet/RuView: ruvnet/RuView helps add AI capability without starting from a bla
 
 ### Русский
 
-ruvnet/RuView: open-source проект в категориях AI/ML, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ruvnet/RuView: open-source проект в категориях AI/ML, Observability, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ruvnet/RuView：ruvnet/RuView helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 84/100 |
-| integration | 30/100 |
-| production | 61/100 |
-| outlook | 74/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

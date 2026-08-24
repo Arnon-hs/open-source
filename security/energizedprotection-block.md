@@ -1,6 +1,6 @@
 # EnergizedProtection/block
 
-[![Stars](https://img.shields.io/github/stars/EnergizedProtection/block?style=flat-square&color=yellow)](https://github.com/EnergizedProtection/block/stargazers) [![Forks](https://img.shields.io/github/forks/EnergizedProtection/block?style=flat-square&color=blue)](https://github.com/EnergizedProtection/block/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EnergizedProtection/block?style=flat-square&color=yellow)](https://github.com/EnergizedProtection/block/stargazers) [![Forks](https://img.shields.io/github/forks/EnergizedProtection/block?style=flat-square&color=blue)](https://github.com/EnergizedProtection/block/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Let's make an annoyance free, better open internet, altogether!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Security · Marketing
+Security
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ EnergizedProtection/block — это открытый проект, кото
 
 ### 中文
 
-EnergizedProtection/block：EnergizedProtection/block helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EnergizedProtection/block：EnergizedProtection/block helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ EnergizedProtection/block：EnergizedProtection/block helps catch security and p
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ EnergizedProtection/block：EnergizedProtection/block helps catch security and p
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 69/100 |
-| stars | 73/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

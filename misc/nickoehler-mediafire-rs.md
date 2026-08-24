@@ -1,6 +1,6 @@
 # NicKoehler/mediafire_rs
 
-[![Stars](https://img.shields.io/github/stars/NicKoehler/mediafire_rs?style=flat-square&color=yellow)](https://github.com/NicKoehler/mediafire_rs/stargazers) [![Forks](https://img.shields.io/github/forks/NicKoehler/mediafire_rs?style=flat-square&color=blue)](https://github.com/NicKoehler/mediafire_rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NicKoehler/mediafire_rs?style=flat-square&color=yellow)](https://github.com/NicKoehler/mediafire_rs/stargazers) [![Forks](https://img.shields.io/github/forks/NicKoehler/mediafire_rs?style=flat-square&color=blue)](https://github.com/NicKoehler/mediafire_rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Download entire mediafire folders for free, async rewrite of mediafire_bulk_downloader
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ The production readiness of Nic
 | forks | 31/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

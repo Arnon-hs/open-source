@@ -1,6 +1,6 @@
 # gemrb/gemrb
 
-[![Stars](https://img.shields.io/github/stars/gemrb/gemrb?style=flat-square&color=yellow)](https://github.com/gemrb/gemrb/stargazers) [![Forks](https://img.shields.io/github/forks/gemrb/gemrb?style=flat-square&color=blue)](https://github.com/gemrb/gemrb/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gemrb/gemrb?style=flat-square&color=yellow)](https://github.com/gemrb/gemrb/stargazers) [![Forks](https://img.shields.io/github/forks/gemrb/gemrb?style=flat-square&color=blue)](https://github.com/gemrb/gemrb/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > GemRB is a portable open-source implementation of Bioware’s Infinity Engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 214 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GemRB — это кроссплатформенный open‑source движо
 
 ### 中文
 
-gemrb/gemrb：gemrb/gemrb may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gemrb/gemrb：gemrb/gemrb may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ gemrb/gemrb：gemrb/gemrb may be useful when its README and activity match a con
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ gemrb/gemrb：gemrb/gemrb may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 64/100 |
-| stars | 66/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 75/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

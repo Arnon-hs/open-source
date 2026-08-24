@@ -1,6 +1,6 @@
 # cowrie/cowrie
 
-[![Stars](https://img.shields.io/github/stars/cowrie/cowrie?style=flat-square&color=yellow)](https://github.com/cowrie/cowrie/stargazers) [![Forks](https://img.shields.io/github/forks/cowrie/cowrie?style=flat-square&color=blue)](https://github.com/cowrie/cowrie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cowrie/cowrie?style=flat-square&color=yellow)](https://github.com/cowrie/cowrie/stargazers) [![Forks](https://img.shields.io/github/forks/cowrie/cowrie?style=flat-square&color=blue)](https://github.com/cowrie/cowrie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Cowrie 是一款基于 Python 的开源 SSH/Telnet 蜜罐，能够模拟真实�
 | forks | 75/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

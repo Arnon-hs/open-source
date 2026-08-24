@@ -1,6 +1,6 @@
 # Env-Kit/envkit-releases
 
-[![Stars](https://img.shields.io/github/stars/Env-Kit/envkit-releases?style=flat-square&color=yellow)](https://github.com/Env-Kit/envkit-releases/stargazers) [![Forks](https://img.shields.io/github/forks/Env-Kit/envkit-releases?style=flat-square&color=blue)](https://github.com/Env-Kit/envkit-releases/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Env-Kit/envkit-releases?style=flat-square&color=yellow)](https://github.com/Env-Kit/envkit-releases/stargazers) [![Forks](https://img.shields.io/github/forks/Env-Kit/envkit-releases?style=flat-square&color=blue)](https://github.com/Env-Kit/envkit-releases/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend · Backend
+MCP · Database
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Env‑Kit/envkit‑releases 提供一套免费、即装即用的本地开发环�
 | forks | 19/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

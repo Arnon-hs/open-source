@@ -1,6 +1,6 @@
 # threatexpert/gonc
 
-[![Stars](https://img.shields.io/github/stars/threatexpert/gonc?style=flat-square&color=yellow)](https://github.com/threatexpert/gonc/stargazers) [![Forks](https://img.shields.io/github/forks/threatexpert/gonc?style=flat-square&color=blue)](https://github.com/threatexpert/gonc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/threatexpert/gonc?style=flat-square&color=yellow)](https://github.com/threatexpert/gonc/stargazers) [![Forks](https://img.shields.io/github/forks/threatexpert/gonc?style=flat-square&color=blue)](https://github.com/threatexpert/gonc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Netcat with automated NAT traversal, secure P2P, and advanced features for shell access, file transfer, and network proxying.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 664 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ The project shows strong OSS candidacy: recent activity, a healthy star/fork rat
 | forks | 44/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

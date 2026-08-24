@@ -1,6 +1,6 @@
 # Sylinko/Everywhere
 
-[![Stars](https://img.shields.io/github/stars/Sylinko/Everywhere?style=flat-square&color=yellow)](https://github.com/Sylinko/Everywhere/stargazers) [![Forks](https://img.shields.io/github/forks/Sylinko/Everywhere?style=flat-square&color=blue)](https://github.com/Sylinko/Everywhere/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sylinko/Everywhere?style=flat-square&color=yellow)](https://github.com/Sylinko/Everywhere/stargazers) [![Forks](https://img.shields.io/github/forks/Sylinko/Everywhere?style=flat-square&color=blue)](https://github.com/Sylinko/Everywhere/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 364 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Sylinko/Everywhere：Sylinko/Everywhere helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 73/100 |
+| production | 53/100 |
+| outlook | 66/100 |
 | adoption | 76/100 |
 | stars | 80/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

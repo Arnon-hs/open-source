@@ -1,6 +1,6 @@
 # Wangnov/claude-code-statusline-pro
 
-[![Stars](https://img.shields.io/github/stars/Wangnov/claude-code-statusline-pro?style=flat-square&color=yellow)](https://github.com/Wangnov/claude-code-statusline-pro/stargazers) [![Forks](https://img.shields.io/github/forks/Wangnov/claude-code-statusline-pro?style=flat-square&color=blue)](https://github.com/Wangnov/claude-code-statusline-pro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wangnov/claude-code-statusline-pro?style=flat-square&color=yellow)](https://github.com/Wangnov/claude-code-statusline-pro/stargazers) [![Forks](https://img.shields.io/github/forks/Wangnov/claude-code-statusline-pro?style=flat-square&color=blue)](https://github.com/Wangnov/claude-code-statusline-pro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Pro statusline for Claude Code | 功能强大的 Claude Code 状态栏
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -57,22 +57,22 @@ Wangnov/claude-code-statusline-pro：Wangnov/claude-code-statusline-pro may be u
 - primary language: Rust
 - 1 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 45/100 |
-| stars | 50/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 50/100 |
 | topics | 13/100 |
+| outlook | 38/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

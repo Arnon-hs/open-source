@@ -1,6 +1,6 @@
 # blackcandy-org/blackcandy
 
-[![Stars](https://img.shields.io/github/stars/blackcandy-org/blackcandy?style=flat-square&color=yellow)](https://github.com/blackcandy-org/blackcandy/stargazers) [![Forks](https://img.shields.io/github/forks/blackcandy-org/blackcandy?style=flat-square&color=blue)](https://github.com/blackcandy-org/blackcandy/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blackcandy-org/blackcandy?style=flat-square&color=yellow)](https://github.com/blackcandy-org/blackcandy/stargazers) [![Forks](https://img.shields.io/github/forks/blackcandy-org/blackcandy?style=flat-square&color=blue)](https://github.com/blackcandy-org/blackcandy/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A self hosted music streaming server
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ blackcandy-org/blackcandy：blackcandy-org/blackcandy helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 50/100 |
+| outlook | 57/100 |
 | adoption | 72/100 |
 | stars | 77/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

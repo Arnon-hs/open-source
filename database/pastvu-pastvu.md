@@ -1,6 +1,6 @@
 # PastVu/pastvu
 
-[![Stars](https://img.shields.io/github/stars/PastVu/pastvu?style=flat-square&color=yellow)](https://github.com/PastVu/pastvu/stargazers) [![Forks](https://img.shields.io/github/forks/PastVu/pastvu?style=flat-square&color=blue)](https://github.com/PastVu/pastvu/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PastVu/pastvu?style=flat-square&color=yellow)](https://github.com/PastVu/pastvu/stargazers) [![Forks](https://img.shields.io/github/forks/PastVu/pastvu?style=flat-square&color=blue)](https://github.com/PastVu/pastvu/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > PastVu is an online platform for curating, annotating, attributing, and discussing vintage pictures around the world
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ PastVu 为全球老照片提供统一的收集、标注、归属和讨论平台�
 | forks | 40/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

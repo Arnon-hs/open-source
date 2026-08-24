@@ -1,6 +1,6 @@
 # mindcodings/AI-Account-Toolkit
 
-[![Stars](https://img.shields.io/github/stars/mindcodings/AI-Account-Toolkit?style=flat-square&color=yellow)](https://github.com/mindcodings/AI-Account-Toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/mindcodings/AI-Account-Toolkit?style=flat-square&color=blue)](https://github.com/mindcodings/AI-Account-Toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mindcodings/AI-Account-Toolkit?style=flat-square&color=yellow)](https://github.com/mindcodings/AI-Account-Toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/mindcodings/AI-Account-Toolkit?style=flat-square&color=blue)](https://github.com/mindcodings/AI-Account-Toolkit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AI 账号注册与管理一站式工具集 | ChatGPT, Claude, Gemini, Codex, Cursor, Grok 批量注册、Token 管理、临时邮箱服务
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 995 |
 | 🍴 **Forks** | 305 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ mindcodings/AI-Account-Toolkit 是一套基于 Python 的一站式 AI 账号管�
 | forks | 62/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

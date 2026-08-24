@@ -1,6 +1,6 @@
 # Mininglamp-AI/Mano-P
 
-[![Stars](https://img.shields.io/github/stars/Mininglamp-AI/Mano-P?style=flat-square&color=yellow)](https://github.com/Mininglamp-AI/Mano-P/stargazers) [![Forks](https://img.shields.io/github/forks/Mininglamp-AI/Mano-P?style=flat-square&color=blue)](https://github.com/Mininglamp-AI/Mano-P/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mininglamp-AI/Mano-P?style=flat-square&color=yellow)](https://github.com/Mininglamp-AI/Mano-P/stargazers) [![Forks](https://img.shields.io/github/forks/Mininglamp-AI/Mano-P?style=flat-square&color=blue)](https://github.com/Mininglamp-AI/Mano-P/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Mano-P: Open-source GUI-VLA agent for edge devices. #1 on OSWorld (specialized, 58.2%). Runs locally on Apple M4 Mac mini/MacBook — no data leaves your device.Mano-P 是一个开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作。数据完全本地处理，支持复杂多步骤任务规划与执行。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Mano‑P — это открытый GUI‑VLA‑агент, позволяю�
 
 ### 中文
 
-Mininglamp-AI/Mano-P：Mininglamp-AI/Mano-P helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Mininglamp-AI/Mano-P：Mininglamp-AI/Mano-P helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Mininglamp-AI/Mano-P：Mininglamp-AI/Mano-P helps add AI capability without star
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ Mininglamp-AI/Mano-P：Mininglamp-AI/Mano-P helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 65/100 |
+| production | 49/100 |
+| outlook | 58/100 |
 | adoption | 65/100 |
 | stars | 69/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

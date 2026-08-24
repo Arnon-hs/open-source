@@ -1,6 +1,6 @@
 # oxbshw/Agent-Span
 
-[![Stars](https://img.shields.io/github/stars/oxbshw/Agent-Span?style=flat-square&color=yellow)](https://github.com/oxbshw/Agent-Span/stargazers) [![Forks](https://img.shields.io/github/forks/oxbshw/Agent-Span?style=flat-square&color=blue)](https://github.com/oxbshw/Agent-Span/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oxbshw/Agent-Span?style=flat-square&color=yellow)](https://github.com/oxbshw/Agent-Span/stargazers) [![Forks](https://img.shields.io/github/forks/oxbshw/Agent-Span?style=flat-square&color=blue)](https://github.com/oxbshw/Agent-Span/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The Web Access Gateway for AI Agents — 52 channels, 92 MCP tools, 9 SDKs, self-healing backends, async Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ oxbshw/Agent-Span 是面向 AI 代理的 Web Access Gateway，提供 52 条通�
 | forks | 26/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

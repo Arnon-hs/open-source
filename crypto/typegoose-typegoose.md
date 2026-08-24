@@ -1,6 +1,6 @@
 # typegoose/typegoose
 
-[![Stars](https://img.shields.io/github/stars/typegoose/typegoose?style=flat-square&color=yellow)](https://github.com/typegoose/typegoose/stargazers) [![Forks](https://img.shields.io/github/forks/typegoose/typegoose?style=flat-square&color=blue)](https://github.com/typegoose/typegoose/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typegoose/typegoose?style=flat-square&color=yellow)](https://github.com/typegoose/typegoose/stargazers) [![Forks](https://img.shields.io/github/forks/typegoose/typegoose?style=flat-square&color=blue)](https://github.com/typegoose/typegoose/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Typegoose - Define Mongoose models using TypeScript classes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ typegoose/typegoose：typegoose/typegoose helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 66/100 |
 | stars | 72/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

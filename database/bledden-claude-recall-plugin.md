@@ -1,6 +1,6 @@
 # bledden/claude-recall-plugin
 
-[![Stars](https://img.shields.io/github/stars/bledden/claude-recall-plugin?style=flat-square&color=yellow)](https://github.com/bledden/claude-recall-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/bledden/claude-recall-plugin?style=flat-square&color=blue)](https://github.com/bledden/claude-recall-plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bledden/claude-recall-plugin?style=flat-square&color=yellow)](https://github.com/bledden/claude-recall-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/bledden/claude-recall-plugin?style=flat-square&color=blue)](https://github.com/bledden/claude-recall-plugin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-session, cross-project conversation recall for Claude Code — local SQLite + FTS5, auto-tagging, compaction recovery, highlight sharing, and an opt-in proactive recall assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Database · Product
+Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ bledden/claude-recall-plugin：bledden/claude-recall-plugin helps teams persist,
 | forks | 8/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 69/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 23/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

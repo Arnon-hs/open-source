@@ -1,6 +1,6 @@
 # saturneric/GpgFrontend
 
-[![Stars](https://img.shields.io/github/stars/saturneric/GpgFrontend?style=flat-square&color=yellow)](https://github.com/saturneric/GpgFrontend/stargazers) [![Forks](https://img.shields.io/github/forks/saturneric/GpgFrontend?style=flat-square&color=blue)](https://github.com/saturneric/GpgFrontend/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saturneric/GpgFrontend?style=flat-square&color=yellow)](https://github.com/saturneric/GpgFrontend/stargazers) [![Forks](https://img.shields.io/github/forks/saturneric/GpgFrontend?style=flat-square&color=blue)](https://github.com/saturneric/GpgFrontend/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A modern "Enigma" for OpenPGP. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 713 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Frontend · Security
+Crypto · Security
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Saturneric /GpgFrontend — это современный графическ
 
 ### 中文
 
-saturneric/GpgFrontend：saturneric/GpgFrontend helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+saturneric/GpgFrontend：saturneric/GpgFrontend helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ saturneric/GpgFrontend：saturneric/GpgFrontend helps prototype or inspect block
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ saturneric/GpgFrontend：saturneric/GpgFrontend helps prototype or inspect block
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 63/100 |
-| adoption | 56/100 |
-| stars | 61/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # ceresOPA/Alicization-Town
 
-[![Stars](https://img.shields.io/github/stars/ceresOPA/Alicization-Town?style=flat-square&color=yellow)](https://github.com/ceresOPA/Alicization-Town/stargazers) [![Forks](https://img.shields.io/github/forks/ceresOPA/Alicization-Town?style=flat-square&color=blue)](https://github.com/ceresOPA/Alicization-Town/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ceresOPA/Alicization-Town?style=flat-square&color=yellow)](https://github.com/ceresOPA/Alicization-Town/stargazers) [![Forks](https://img.shields.io/github/forks/ceresOPA/Alicization-Town?style=flat-square&color=blue)](https://github.com/ceresOPA/Alicization-Town/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > **⚔️ Alicization Town** is a decentralized, multi-agent pixel sandbox world powered by the **Model Context Protocol (MCP)**.    **⚔️ Alicization Town** 是一个基于 **MCP (Model Context Protocol)** 架构的去中心化多智能体像素沙盒世界。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 122 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ ceresOPA/Alicization-Town 的生产可用性为中等（Medium），适合用于
 | forks | 34/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

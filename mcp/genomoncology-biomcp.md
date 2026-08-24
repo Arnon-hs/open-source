@@ -1,6 +1,6 @@
 # genomoncology/biomcp
 
-[![Stars](https://img.shields.io/github/stars/genomoncology/biomcp?style=flat-square&color=yellow)](https://github.com/genomoncology/biomcp/stargazers) [![Forks](https://img.shields.io/github/forks/genomoncology/biomcp?style=flat-square&color=blue)](https://github.com/genomoncology/biomcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/genomoncology/biomcp?style=flat-square&color=yellow)](https://github.com/genomoncology/biomcp/stargazers) [![Forks](https://img.shields.io/github/forks/genomoncology/biomcp?style=flat-square&color=blue)](https://github.com/genomoncology/biomcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > BioMCP: Biomedical Model Context Protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 529 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ genomoncology/biomcp：genomoncology/biomcp helps connect AI assistants to real 
 | forks | 51/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

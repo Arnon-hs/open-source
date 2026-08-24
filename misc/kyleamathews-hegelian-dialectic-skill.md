@@ -1,6 +1,6 @@
 # KyleAMathews/hegelian-dialectic-skill
 
-[![Stars](https://img.shields.io/github/stars/KyleAMathews/hegelian-dialectic-skill?style=flat-square&color=yellow)](https://github.com/KyleAMathews/hegelian-dialectic-skill/stargazers) [![Forks](https://img.shields.io/github/forks/KyleAMathews/hegelian-dialectic-skill?style=flat-square&color=blue)](https://github.com/KyleAMathews/hegelian-dialectic-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KyleAMathews/hegelian-dialectic-skill?style=flat-square&color=yellow)](https://github.com/KyleAMathews/hegelian-dialectic-skill/stargazers) [![Forks](https://img.shields.io/github/forks/KyleAMathews/hegelian-dialectic-skill?style=flat-square&color=blue)](https://github.com/KyleAMathews/hegelian-dialectic-skill/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A skill for thinking
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 558 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ KyleAMathews/hegelian-dialectic-skill 是一个开源项目，旨在帮助用户
 | forks | 41/100 |
 | stars | 58/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 68/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

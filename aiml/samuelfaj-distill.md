@@ -1,6 +1,6 @@
 # samuelfaj/distill
 
-[![Stars](https://img.shields.io/github/stars/samuelfaj/distill?style=flat-square&color=yellow)](https://github.com/samuelfaj/distill/stargazers) [![Forks](https://img.shields.io/github/forks/samuelfaj/distill?style=flat-square&color=blue)](https://github.com/samuelfaj/distill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samuelfaj/distill?style=flat-square&color=yellow)](https://github.com/samuelfaj/distill/stargazers) [![Forks](https://img.shields.io/github/forks/samuelfaj/distill?style=flat-square&color=blue)](https://github.com/samuelfaj/distill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Distill large CLI outputs into small answers for LLMs and save tokens!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 541 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ AI/ML · DevTools
 | forks | 38/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

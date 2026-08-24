@@ -1,6 +1,6 @@
 # ralforion/orionbelt-analytics
 
-[![Stars](https://img.shields.io/github/stars/ralforion/orionbelt-analytics?style=flat-square&color=yellow)](https://github.com/ralforion/orionbelt-analytics/stargazers) [![Forks](https://img.shields.io/github/forks/ralforion/orionbelt-analytics?style=flat-square&color=blue)](https://github.com/ralforion/orionbelt-analytics/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ralforion/orionbelt-analytics?style=flat-square&color=yellow)](https://github.com/ralforion/orionbelt-analytics/stargazers) [![Forks](https://img.shields.io/github/forks/ralforion/orionbelt-analytics?style=flat-square&color=blue)](https://github.com/ralforion/orionbelt-analytics/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Ontology-based MCP server that analyzes database schemas (PostgreSQL, Snowflake, ClickHouse, Dremio) and generates RDF/OWL ontologies with SQL mappings for fan-trap-free Text-to-SQL.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ OrionBelt‑Analytics（ralforion/orionbelt-analytics）是基于本体的 MCP�
 | forks | 17/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

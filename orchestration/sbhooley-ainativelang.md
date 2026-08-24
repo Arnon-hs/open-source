@@ -1,6 +1,6 @@
 # sbhooley/ainativelang
 
-[![Stars](https://img.shields.io/github/stars/sbhooley/ainativelang?style=flat-square&color=yellow)](https://github.com/sbhooley/ainativelang/stargazers) [![Forks](https://img.shields.io/github/forks/sbhooley/ainativelang?style=flat-square&color=blue)](https://github.com/sbhooley/ainativelang/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sbhooley/ainativelang?style=flat-square&color=yellow)](https://github.com/sbhooley/ainativelang/stargazers) [![Forks](https://img.shields.io/github/forks/sbhooley/ainativelang?style=flat-square&color=blue)](https://github.com/sbhooley/ainativelang/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AINL helps turn AI from "a smart conversation" into "a structured worker."  It is designed for teams building AI workflows that need multiple steps, state and memory, tool use, repeatable execution, validation and control, and lower dependence on long prompt loops.  AINL is a compact, graph-canonical, AI-native programming system for (READ: README)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 827 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ AINL（AI Native Language）把 AI 从“单轮对话”提升为“可编程的
 | forks | 40/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

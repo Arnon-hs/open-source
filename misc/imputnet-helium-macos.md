@@ -1,6 +1,6 @@
 # imputnet/helium-macos
 
-[![Stars](https://img.shields.io/github/stars/imputnet/helium-macos?style=flat-square&color=yellow)](https://github.com/imputnet/helium-macos/stargazers) [![Forks](https://img.shields.io/github/forks/imputnet/helium-macos?style=flat-square&color=blue)](https://github.com/imputnet/helium-macos/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imputnet/helium-macos?style=flat-square&color=yellow)](https://github.com/imputnet/helium-macos/stargazers) [![Forks](https://img.shields.io/github/forks/imputnet/helium-macos?style=flat-square&color=blue)](https://github.com/imputnet/helium-macos/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Helium Browser for macOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Helium Browser 是一个开源的 macOS 浏览器，适合用于某些具体的�
 | forks | 50/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

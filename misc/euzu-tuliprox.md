@@ -1,6 +1,6 @@
 # euzu/tuliprox
 
-[![Stars](https://img.shields.io/github/stars/euzu/tuliprox?style=flat-square&color=yellow)](https://github.com/euzu/tuliprox/stargazers) [![Forks](https://img.shields.io/github/forks/euzu/tuliprox?style=flat-square&color=blue)](https://github.com/euzu/tuliprox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/euzu/tuliprox?style=flat-square&color=yellow)](https://github.com/euzu/tuliprox/stargazers) [![Forks](https://img.shields.io/github/forks/euzu/tuliprox?style=flat-square&color=blue)](https://github.com/euzu/tuliprox/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 447 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -142,14 +142,15 @@ Tuliprox 是用 Rust 编写的灵活 IPTV 播单处理与代理工具，支持 M
 | forks | 42/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

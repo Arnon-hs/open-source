@@ -1,6 +1,6 @@
 # mwallner/mergetopus
 
-[![Stars](https://img.shields.io/github/stars/mwallner/mergetopus?style=flat-square&color=yellow)](https://github.com/mwallner/mergetopus/stargazers) [![Forks](https://img.shields.io/github/forks/mwallner/mergetopus?style=flat-square&color=blue)](https://github.com/mwallner/mergetopus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mwallner/mergetopus?style=flat-square&color=yellow)](https://github.com/mwallner/mergetopus/stargazers) [![Forks](https://img.shields.io/github/forks/mwallner/mergetopus?style=flat-square&color=blue)](https://github.com/mwallner/mergetopus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🐙 an orchestrator to untangle complex merges 🐙
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 108 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ DevTools
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

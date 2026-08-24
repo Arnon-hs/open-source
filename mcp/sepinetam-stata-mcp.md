@@ -1,6 +1,6 @@
 # SepineTam/stata-mcp
 
-[![Stars](https://img.shields.io/github/stars/SepineTam/stata-mcp?style=flat-square&color=yellow)](https://github.com/SepineTam/stata-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/SepineTam/stata-mcp?style=flat-square&color=blue)](https://github.com/SepineTam/stata-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SepineTam/stata-mcp?style=flat-square&color=yellow)](https://github.com/SepineTam/stata-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/SepineTam/stata-mcp?style=flat-square&color=blue)](https://github.com/SepineTam/stata-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Let LLM help you achieve your regression with Stata. Evolve from reg monkey to causal thinker.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Observability
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ SepineTam /stata‑mcp 通过标准化的 Model Context Protocol (MCP) 把 LLM
 | forks | 36/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

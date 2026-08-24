@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/gemini-cloud-assist-mcp
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/gemini-cloud-assist-mcp?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/gemini-cloud-assist-mcp?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/gemini-cloud-assist-mcp?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/gemini-cloud-assist-mcp?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP Server for Gemini Cloud Assist; provides tools to assist with your tasks on GCP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 60 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Database
+MCP · Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ gemini-cloud-assist-mcp 为在 GCP 上将 AI 助手与真实业务工具快速�
 | forks | 33/100 |
 | stars | 38/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 42/100 |
+| recency | 20/100 |
 | adoption | 36/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

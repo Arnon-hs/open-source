@@ -1,6 +1,6 @@
 # browserstack/mcp-server
 
-[![Stars](https://img.shields.io/github/stars/browserstack/mcp-server?style=flat-square&color=yellow)](https://github.com/browserstack/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/browserstack/mcp-server?style=flat-square&color=blue)](https://github.com/browserstack/mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/browserstack/mcp-server?style=flat-square&color=yellow)](https://github.com/browserstack/mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/browserstack/mcp-server?style=flat-square&color=blue)](https://github.com/browserstack/mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > BrowserStack's Official MCP Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · Backend · DevTools
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ browserstack/mcp-server 是 BrowserStack 官方发布的 Model Context Proto
 | forks | 42/100 |
 | stars | 46/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

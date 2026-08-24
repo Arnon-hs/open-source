@@ -1,6 +1,6 @@
 # elysiajs/elysia
 
-[![Stars](https://img.shields.io/github/stars/elysiajs/elysia?style=flat-square&color=yellow)](https://github.com/elysiajs/elysia/stargazers) [![Forks](https://img.shields.io/github/forks/elysiajs/elysia?style=flat-square&color=blue)](https://github.com/elysiajs/elysia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elysiajs/elysia?style=flat-square&color=yellow)](https://github.com/elysiajs/elysia/stargazers) [![Forks](https://img.shields.io/github/forks/elysiajs/elysia?style=flat-square&color=blue)](https://github.com/elysiajs/elysia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Ergonomic Framework for Humans
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.2k |
 | 🍴 **Forks** | 509 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ elysiajs/elysia：elysiajs/elysia helps teams reuse service infrastructure inste
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 62/100 |
-| production | 62/100 |
-| outlook | 64/100 |
-| adoption | 84/100 |
-| stars | 91/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| stars | 91/100 |
 | topics | 75/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

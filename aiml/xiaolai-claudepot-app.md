@@ -1,6 +1,6 @@
 # xiaolai/claudepot-app
 
-[![Stars](https://img.shields.io/github/stars/xiaolai/claudepot-app?style=flat-square&color=yellow)](https://github.com/xiaolai/claudepot-app/stargazers) [![Forks](https://img.shields.io/github/forks/xiaolai/claudepot-app?style=flat-square&color=blue)](https://github.com/xiaolai/claudepot-app/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiaolai/claudepot-app?style=flat-square&color=yellow)](https://github.com/xiaolai/claudepot-app/stargazers) [![Forks](https://img.shields.io/github/forks/xiaolai/claudepot-app?style=flat-square&color=blue)](https://github.com/xiaolai/claudepot-app/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A control panel for Claude Code and Claude Desktop.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 59 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -59,22 +59,22 @@ xiaolai/claudepot-app：xiaolai/claudepot-app helps add AI capability without st
 - primary language: Rust
 - 5 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 47/100 |
-| adoption | 34/100 |
-| stars | 38/100 |
 | forks | 23/100 |
-| recency | 40/100 |
+| stars | 38/100 |
 | topics | 63/100 |
+| outlook | 40/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

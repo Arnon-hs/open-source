@@ -1,6 +1,6 @@
 # lukas-krecan/ShedLock
 
-[![Stars](https://img.shields.io/github/stars/lukas-krecan/ShedLock?style=flat-square&color=yellow)](https://github.com/lukas-krecan/ShedLock/stargazers) [![Forks](https://img.shields.io/github/forks/lukas-krecan/ShedLock?style=flat-square&color=blue)](https://github.com/lukas-krecan/ShedLock/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukas-krecan/ShedLock?style=flat-square&color=yellow)](https://github.com/lukas-krecan/ShedLock/stargazers) [![Forks](https://img.shields.io/github/forks/lukas-krecan/ShedLock?style=flat-square&color=blue)](https://github.com/lukas-krecan/ShedLock/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Distributed lock for your scheduled tasks
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 566 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -136,14 +136,15 @@ ShedLock 是一个基于分布式锁的库，帮助在多实例部署的环境�
 | forks | 69/100 |
 | stars | 77/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

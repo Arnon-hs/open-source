@@ -1,6 +1,6 @@
 # kerberos-io/agent
 
-[![Stars](https://img.shields.io/github/stars/kerberos-io/agent?style=flat-square&color=yellow)](https://github.com/kerberos-io/agent/stargazers) [![Forks](https://img.shields.io/github/forks/kerberos-io/agent?style=flat-square&color=blue)](https://github.com/kerberos-io/agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kerberos-io/agent?style=flat-square&color=yellow)](https://github.com/kerberos-io/agent/stargazers) [![Forks](https://img.shields.io/github/forks/kerberos-io/agent?style=flat-square&color=blue)](https://github.com/kerberos-io/agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > An open and scalable video surveillance system for anyone making this world a better and more peaceful place.
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1k |
-| 🍴 **Forks** | 142 |
+| ⭐ **Stars** | 1.1k |
+| 🍴 **Forks** | 149 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-17 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`docker` `golang` `ipcamera` `motiondetection` `motiondetector` `react` `video-surveillance` `videosurveillance`
 
 ## 🎯 Categories
 
@@ -25,8 +25,58 @@ AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
-The kerberos-io/agent project is an open-source, scalable video surveillance system designed to promote a safer and more peaceful world. Leveraging AI and ML capabilities, this system provides real-time monitoring and analysis to support various applications, from security and law enforcement to social good initiatives. Its modular architecture makes it accessible to a wide range of users and communities.
+### English
+
+kerberos-io/agent: kerberos-io/agent helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+kerberos-io/agent: open-source проект в категориях AI/ML, Frontend, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+kerberos-io/agent：kerberos-io/agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** kerberos-io/agent helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 1095 GitHub stars
+- 149 forks
+- updated 2026-08-17
+- primary language: Go
+- 8 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 54/100 |
+| stars | 65/100 |
+| topics | 100/100 |
+| outlook | 82/100 |
+| quality | 83/100 |
+| recency | 100/100 |
+| adoption | 62/100 |
+| production | 80/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-04 · [View on GitHub](https://github.com/kerberos-io/agent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-17 · [View on GitHub](https://github.com/kerberos-io/agent) · [← Back to AI/ML](./README.md)</sub>

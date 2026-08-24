@@ -1,6 +1,6 @@
 # AgentEvalHQ/AgentEval
 
-[![Stars](https://img.shields.io/github/stars/AgentEvalHQ/AgentEval?style=flat-square&color=yellow)](https://github.com/AgentEvalHQ/AgentEval/stargazers) [![Forks](https://img.shields.io/github/forks/AgentEvalHQ/AgentEval?style=flat-square&color=blue)](https://github.com/AgentEvalHQ/AgentEval/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AgentEvalHQ/AgentEval?style=flat-square&color=yellow)](https://github.com/AgentEvalHQ/AgentEval/stargazers) [![Forks](https://img.shields.io/github/forks/AgentEvalHQ/AgentEval?style=flat-square&color=blue)](https://github.com/AgentEvalHQ/AgentEval/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > AgentEval is the comprehensive .NET toolkit for AI agent evaluation—tool usage validation, RAG quality metrics, stochastic evaluation, and model comparison—built first for Microsoft Agent Framework (MAF) and Microsoft.Extensions.AI. What RAGAS, PromptFoo and DeepEval do for Python, AgentEval does for .NET
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ AgentEval – это полноценный .NET‑инструментарий 
 
 ### 中文
 
-AgentEvalHQ/AgentEval：AgentEvalHQ/AgentEval helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AgentEvalHQ/AgentEval：AgentEvalHQ/AgentEval helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AgentEvalHQ/AgentEval：AgentEvalHQ/AgentEval helps turn isolated prompts and to
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ AgentEvalHQ/AgentEval：AgentEvalHQ/AgentEval helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 63/100 |
-| adoption | 37/100 |
-| stars | 42/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| stars | 42/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 47/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

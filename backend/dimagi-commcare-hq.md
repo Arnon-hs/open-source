@@ -1,6 +1,6 @@
 # dimagi/commcare-hq
 
-[![Stars](https://img.shields.io/github/stars/dimagi/commcare-hq?style=flat-square&color=yellow)](https://github.com/dimagi/commcare-hq/stargazers) [![Forks](https://img.shields.io/github/forks/dimagi/commcare-hq?style=flat-square&color=blue)](https://github.com/dimagi/commcare-hq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dimagi/commcare-hq?style=flat-square&color=yellow)](https://github.com/dimagi/commcare-hq/stargazers) [![Forks](https://img.shields.io/github/forks/dimagi/commcare-hq?style=flat-square&color=blue)](https://github.com/dimagi/commcare-hq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > CommCareHQ is the server backend for CommCare, the world's largest platform for designing, managing, and deploying robust, offline-first, mobile applications to frontline workers worldwide
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 522 |
 | 🍴 **Forks** | 234 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database · Design
+Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ dimagi/commcare‑hq 为 CommCare 提供完整的后端服务，涵盖用户管�
 | forks | 59/100 |
 | stars | 58/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

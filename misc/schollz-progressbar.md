@@ -1,6 +1,6 @@
 # schollz/progressbar
 
-[![Stars](https://img.shields.io/github/stars/schollz/progressbar?style=flat-square&color=yellow)](https://github.com/schollz/progressbar/stargazers) [![Forks](https://img.shields.io/github/forks/schollz/progressbar?style=flat-square&color=blue)](https://github.com/schollz/progressbar/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/schollz/progressbar?style=flat-square&color=yellow)](https://github.com/schollz/progressbar/stargazers) [![Forks](https://img.shields.io/github/forks/schollz/progressbar?style=flat-square&color=blue)](https://github.com/schollz/progressbar/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A really basic thread-safe progress bar for Golang applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ schollz/progressbar是一款用于Go语言应用的基本线程安全进度条�
 | forks | 60/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

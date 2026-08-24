@@ -1,6 +1,6 @@
 # GeneGulanesJr/LaPis
 
-[![Stars](https://img.shields.io/github/stars/GeneGulanesJr/LaPis?style=flat-square&color=yellow)](https://github.com/GeneGulanesJr/LaPis/stargazers) [![Forks](https://img.shields.io/github/forks/GeneGulanesJr/LaPis?style=flat-square&color=blue)](https://github.com/GeneGulanesJr/LaPis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GeneGulanesJr/LaPis?style=flat-square&color=yellow)](https://github.com/GeneGulanesJr/LaPis/stargazers) [![Forks](https://img.shields.io/github/forks/GeneGulanesJr/LaPis?style=flat-square&color=blue)](https://github.com/GeneGulanesJr/LaPis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 💎 LaPis — local coding memory for Pi. Persistent project context, code intelligence, and decisions backed by SQLite.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ LaPis的生产可用性为中等（Medium）。它适用于以下场景：
 | forks | 23/100 |
 | stars | 32/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

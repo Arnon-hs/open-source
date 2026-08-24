@@ -1,6 +1,6 @@
 # readium/swift-toolkit
 
-[![Stars](https://img.shields.io/github/stars/readium/swift-toolkit?style=flat-square&color=yellow)](https://github.com/readium/swift-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/readium/swift-toolkit?style=flat-square&color=blue)](https://github.com/readium/swift-toolkit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/readium/swift-toolkit?style=flat-square&color=yellow)](https://github.com/readium/swift-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/readium/swift-toolkit?style=flat-square&color=blue)](https://github.com/readium/swift-toolkit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A toolkit for ebooks, audiobooks and comics written in Swift
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 521 |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ readium/swift-toolkit 的生产可用性为中等，适合用于原型或内部�
 | forks | 59/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Anantys-oss/koan
 
-[![Stars](https://img.shields.io/github/stars/Anantys-oss/koan?style=flat-square&color=yellow)](https://github.com/Anantys-oss/koan/stargazers) [![Forks](https://img.shields.io/github/forks/Anantys-oss/koan?style=flat-square&color=blue)](https://github.com/Anantys-oss/koan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anantys-oss/koan?style=flat-square&color=yellow)](https://github.com/Anantys-oss/koan/stargazers) [![Forks](https://img.shields.io/github/forks/Anantys-oss/koan?style=flat-square&color=blue)](https://github.com/Anantys-oss/koan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous background agent that consumes unused Claude Max quota to explore, audit, and improve a codebase — communicating with its human via Telegram and a shared mission queue.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Anantys‑oss/koan — это автономный фоновый агент, 
 
 ### 中文
 
-Anantys-oss/koan：Anantys-oss/koan helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Anantys-oss/koan：Anantys-oss/koan helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Anantys-oss/koan：Anantys-oss/koan helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,21 +59,21 @@ Anantys-oss/koan：Anantys-oss/koan helps add AI capability without starting fro
 - primary language: Python
 - 5 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 46/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 29/100 |
 | stars | 30/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

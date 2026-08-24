@@ -1,6 +1,6 @@
 # ChunelFeng/CGraph
 
-[![Stars](https://img.shields.io/github/stars/ChunelFeng/CGraph?style=flat-square&color=yellow)](https://github.com/ChunelFeng/CGraph/stargazers) [![Forks](https://img.shields.io/github/forks/ChunelFeng/CGraph?style=flat-square&color=blue)](https://github.com/ChunelFeng/CGraph/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChunelFeng/CGraph?style=flat-square&color=yellow)](https://github.com/ChunelFeng/CGraph/stargazers) [![Forks](https://img.shields.io/github/forks/ChunelFeng/CGraph?style=flat-square&color=blue)](https://github.com/ChunelFeng/CGraph/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 【A common used C++ & Python DAG framework】 一个通用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star & fork & 交流
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 386 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ChunelFeng/CGraph：ChunelFeng/CGraph helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 68/100 |
+| production | 52/100 |
+| outlook | 61/100 |
 | adoption | 70/100 |
 | stars | 71/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

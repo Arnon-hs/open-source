@@ -1,6 +1,6 @@
 # yzhao062/anywhere-agents
 
-[![Stars](https://img.shields.io/github/stars/yzhao062/anywhere-agents?style=flat-square&color=yellow)](https://github.com/yzhao062/anywhere-agents/stargazers) [![Forks](https://img.shields.io/github/forks/yzhao062/anywhere-agents?style=flat-square&color=blue)](https://github.com/yzhao062/anywhere-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yzhao062/anywhere-agents?style=flat-square&color=yellow)](https://github.com/yzhao062/anywhere-agents/stargazers) [![Forks](https://img.shields.io/github/forks/yzhao062/anywhere-agents?style=flat-square&color=blue)](https://github.com/yzhao062/anywhere-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 186 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ Overall, `anywhere‑agents` offers a compelling way to standardize AI agent wor
 | forks | 34/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

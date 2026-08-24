@@ -1,6 +1,6 @@
 # pokeheadroom/RENDER96-HD-TEXTURE-PACK
 
-[![Stars](https://img.shields.io/github/stars/pokeheadroom/RENDER96-HD-TEXTURE-PACK?style=flat-square&color=yellow)](https://github.com/pokeheadroom/RENDER96-HD-TEXTURE-PACK/stargazers) [![Forks](https://img.shields.io/github/forks/pokeheadroom/RENDER96-HD-TEXTURE-PACK?style=flat-square&color=blue)](https://github.com/pokeheadroom/RENDER96-HD-TEXTURE-PACK/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pokeheadroom/RENDER96-HD-TEXTURE-PACK?style=flat-square&color=yellow)](https://github.com/pokeheadroom/RENDER96-HD-TEXTURE-PACK/stargazers) [![Forks](https://img.shields.io/github/forks/pokeheadroom/RENDER96-HD-TEXTURE-PACK?style=flat-square&color=blue)](https://github.com/pokeheadroom/RENDER96-HD-TEXTURE-PACK/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > we'd like to think of this texture pack as a resource also, if you want to give sm64 your own look feel free to use these as a base for accuracy, just credit them render96 boys & girls
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 328 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,14 +128,15 @@ pokeheadroom/RENDER96‑HD‑TEXTURE‑PACK 是一套基于 Super Mario 64 的
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 73/100 |
-| usefulness | 42/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

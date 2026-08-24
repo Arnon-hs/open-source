@@ -1,6 +1,6 @@
 # openhue/openhue-cli
 
-[![Stars](https://img.shields.io/github/stars/openhue/openhue-cli?style=flat-square&color=yellow)](https://github.com/openhue/openhue-cli/stargazers) [![Forks](https://img.shields.io/github/forks/openhue/openhue-cli?style=flat-square&color=blue)](https://github.com/openhue/openhue-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openhue/openhue-cli?style=flat-square&color=yellow)](https://github.com/openhue/openhue-cli/stargazers) [![Forks](https://img.shields.io/github/forks/openhue/openhue-cli?style=flat-square&color=blue)](https://github.com/openhue/openhue-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > OpenHue CLI is a command-line interface for interacting with Philips Hue smart lighting systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ OpenHue CLI 是一款基于 Go 实现的命令行工具，专用于与 Philips H
 | forks | 32/100 |
 | stars | 45/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # linyqh/NarratoAI
 
-[![Stars](https://img.shields.io/github/stars/linyqh/NarratoAI?style=flat-square&color=yellow)](https://github.com/linyqh/NarratoAI/stargazers) [![Forks](https://img.shields.io/github/forks/linyqh/NarratoAI?style=flat-square&color=blue)](https://github.com/linyqh/NarratoAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linyqh/NarratoAI?style=flat-square&color=yellow)](https://github.com/linyqh/NarratoAI/stargazers) [![Forks](https://img.shields.io/github/forks/linyqh/NarratoAI?style=flat-square&color=blue)](https://github.com/linyqh/NarratoAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.1k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ linyqh/NarratoAI 通过一键调用 AI 大模型实现视频自动解说与剪�
 | forks | 78/100 |
 | stars | 85/100 |
 | topics | 75/100 |
-| outlook | 91/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 83/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

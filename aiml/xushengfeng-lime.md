@@ -1,6 +1,6 @@
 # xushengfeng/lime
 
-[![Stars](https://img.shields.io/github/stars/xushengfeng/lime?style=flat-square&color=yellow)](https://github.com/xushengfeng/lime/stargazers) [![Forks](https://img.shields.io/github/forks/xushengfeng/lime?style=flat-square&color=blue)](https://github.com/xushengfeng/lime/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xushengfeng/lime?style=flat-square&color=yellow)](https://github.com/xushengfeng/lime/stargazers) [![Forks](https://img.shields.io/github/forks/xushengfeng/lime?style=flat-square&color=blue)](https://github.com/xushengfeng/lime/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 大模型驱动的拼音输入法
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 753 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ xushengfeng/lime 的生产可用性为中等。它适合用于 prototyping 或�
 | forks | 39/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

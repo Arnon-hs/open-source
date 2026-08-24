@@ -1,6 +1,6 @@
 # sdroege/gstreamer-rs
 
-[![Stars](https://img.shields.io/github/stars/sdroege/gstreamer-rs?style=flat-square&color=yellow)](https://github.com/sdroege/gstreamer-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sdroege/gstreamer-rs?style=flat-square&color=blue)](https://github.com/sdroege/gstreamer-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sdroege/gstreamer-rs?style=flat-square&color=yellow)](https://github.com/sdroege/gstreamer-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sdroege/gstreamer-rs?style=flat-square&color=blue)](https://github.com/sdroege/gstreamer-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > GStreamer bindings for Rust - This repository moved to https://gitlab.freedesktop.org/gstreamer/gstreamer-rs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 591 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ sdroege/gstreamer‑rs 为 Rust 提供了 GStreamer 的官方绑定，帮助开�
 | forks | 46/100 |
 | stars | 59/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

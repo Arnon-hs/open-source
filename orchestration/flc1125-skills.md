@@ -1,6 +1,6 @@
 # flc1125/skills
 
-[![Stars](https://img.shields.io/github/stars/flc1125/skills?style=flat-square&color=yellow)](https://github.com/flc1125/skills/stargazers) [![Forks](https://img.shields.io/github/forks/flc1125/skills?style=flat-square&color=blue)](https://github.com/flc1125/skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flc1125/skills?style=flat-square&color=yellow)](https://github.com/flc1125/skills/stargazers) [![Forks](https://img.shields.io/github/forks/flc1125/skills?style=flat-square&color=blue)](https://github.com/flc1125/skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A personal repository of reusable AI agent skills, designed to work across compatible tools with optional ecosystem-specific integrations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Design
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ flc1125/skills 为构建可组合、可复用的 AI 代理工作流提供了即�
 | forks | 19/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

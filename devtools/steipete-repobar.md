@@ -1,6 +1,6 @@
 # steipete/RepoBar
 
-[![Stars](https://img.shields.io/github/stars/steipete/RepoBar?style=flat-square&color=yellow)](https://github.com/steipete/RepoBar/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/RepoBar?style=flat-square&color=blue)](https://github.com/steipete/RepoBar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/steipete/RepoBar?style=flat-square&color=yellow)](https://github.com/steipete/RepoBar/stargazers) [![Forks](https://img.shields.io/github/forks/steipete/RepoBar?style=flat-square&color=blue)](https://github.com/steipete/RepoBar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 100 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ RepoBar is an open‑source utility that places real‑time GitHub repository in
 
 ### 中文
 
-steipete/RepoBar：steipete/RepoBar helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+steipete/RepoBar：steipete/RepoBar helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ steipete/RepoBar：steipete/RepoBar helps engineers save time in daily developme
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ steipete/RepoBar：steipete/RepoBar helps engineers save time in daily developme
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 64/100 |
 | stars | 70/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

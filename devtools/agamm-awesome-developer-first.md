@@ -1,6 +1,6 @@
 # agamm/awesome-developer-first
 
-[![Stars](https://img.shields.io/github/stars/agamm/awesome-developer-first?style=flat-square&color=yellow)](https://github.com/agamm/awesome-developer-first/stargazers) [![Forks](https://img.shields.io/github/forks/agamm/awesome-developer-first?style=flat-square&color=blue)](https://github.com/agamm/awesome-developer-first/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agamm/awesome-developer-first?style=flat-square&color=yellow)](https://github.com/agamm/awesome-developer-first/stargazers) [![Forks](https://img.shields.io/github/forks/agamm/awesome-developer-first?style=flat-square&color=blue)](https://github.com/agamm/awesome-developer-first/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome developer-first tools products.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 323 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ agamm/awesome-developer-first 的生产可用性为中等（Medium），适合�
 | forks | 63/100 |
 | stars | 69/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

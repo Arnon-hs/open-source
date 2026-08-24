@@ -1,6 +1,6 @@
 # kurtosis-tech/kurtosis
 
-[![Stars](https://img.shields.io/github/stars/kurtosis-tech/kurtosis?style=flat-square&color=yellow)](https://github.com/kurtosis-tech/kurtosis/stargazers) [![Forks](https://img.shields.io/github/forks/kurtosis-tech/kurtosis?style=flat-square&color=blue)](https://github.com/kurtosis-tech/kurtosis/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kurtosis-tech/kurtosis?style=flat-square&color=yellow)](https://github.com/kurtosis-tech/kurtosis/stargazers) [![Forks](https://img.shields.io/github/forks/kurtosis-tech/kurtosis?style=flat-square&color=blue)](https://github.com/kurtosis-tech/kurtosis/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A platform for packaging and launching blockchain infra. Think docker compose for blockchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 539 |
 | 🍴 **Forks** | 95 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ kurtosis-tech/kurtosis：kurtosis-tech/kurtosis helps prototype or inspect block
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 94/100 |
-| production | 63/100 |
-| outlook | 56/100 |
-| adoption | 56/100 |
-| stars | 58/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

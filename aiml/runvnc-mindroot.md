@@ -1,6 +1,6 @@
 # runvnc/mindroot
 
-[![Stars](https://img.shields.io/github/stars/runvnc/mindroot?style=flat-square&color=yellow)](https://github.com/runvnc/mindroot/stargazers) [![Forks](https://img.shields.io/github/forks/runvnc/mindroot?style=flat-square&color=blue)](https://github.com/runvnc/mindroot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runvnc/mindroot?style=flat-square&color=yellow)](https://github.com/runvnc/mindroot/stargazers) [![Forks](https://img.shields.io/github/forks/runvnc/mindroot?style=flat-square&color=blue)](https://github.com/runvnc/mindroot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent web app platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 94 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ runvnc/mindroot 是一个基于 Python 的 AI Agent Web 应用平台，提供即
 | forks | 24/100 |
 | stars | 42/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

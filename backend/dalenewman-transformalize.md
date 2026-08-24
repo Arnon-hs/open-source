@@ -1,6 +1,6 @@
 # dalenewman/Transformalize
 
-[![Stars](https://img.shields.io/github/stars/dalenewman/Transformalize?style=flat-square&color=yellow)](https://github.com/dalenewman/Transformalize/stargazers) [![Forks](https://img.shields.io/github/forks/dalenewman/Transformalize?style=flat-square&color=blue)](https://github.com/dalenewman/Transformalize/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dalenewman/Transformalize?style=flat-square&color=yellow)](https://github.com/dalenewman/Transformalize/stargazers) [![Forks](https://img.shields.io/github/forks/dalenewman/Transformalize?style=flat-square&color=blue)](https://github.com/dalenewman/Transformalize/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Configurable Extract, Transform, and Load
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Transformalize 是一个可配置的 ETL 框架，帮助团队在 C# 环境下�
 | forks | 38/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

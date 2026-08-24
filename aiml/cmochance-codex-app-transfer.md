@@ -1,6 +1,6 @@
 # Cmochance/codex-app-transfer
 
-[![Stars](https://img.shields.io/github/stars/Cmochance/codex-app-transfer?style=flat-square&color=yellow)](https://github.com/Cmochance/codex-app-transfer/stargazers) [![Forks](https://img.shields.io/github/forks/Cmochance/codex-app-transfer?style=flat-square&color=blue)](https://github.com/Cmochance/codex-app-transfer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cmochance/codex-app-transfer?style=flat-square&color=yellow)](https://github.com/Cmochance/codex-app-transfer/stargazers) [![Forks](https://img.shields.io/github/forks/Cmochance/codex-app-transfer?style=flat-square&color=blue)](https://github.com/Cmochance/codex-app-transfer/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Local desktop gateway that translates OpenAI Codex CLI's Responses API into Chat Completions for Kimi / DeepSeek / Zhipu GLM / Bailian and other OpenAI-compatible providers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Cmochance/codex‑app‑transfer — это локальный шлюз‑се
 
 ### 中文
 
-Cmochance/codex-app-transfer：Cmochance/codex-app-transfer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Cmochance/codex-app-transfer：Cmochance/codex-app-transfer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Cmochance/codex-app-transfer：Cmochance/codex-app-transfer helps add AI capabil
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Cmochance/codex-app-transfer：Cmochance/codex-app-transfer helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 28/100 |
-| stars | 32/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

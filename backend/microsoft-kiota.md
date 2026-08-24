@@ -1,6 +1,6 @@
 # microsoft/kiota
 
-[![Stars](https://img.shields.io/github/stars/microsoft/kiota?style=flat-square&color=yellow)](https://github.com/microsoft/kiota/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/kiota?style=flat-square&color=blue)](https://github.com/microsoft/kiota/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/kiota?style=flat-square&color=yellow)](https://github.com/microsoft/kiota/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/kiota?style=flat-square&color=blue)](https://github.com/microsoft/kiota/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAPI based HTTP Client code generator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 309 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Microsoft Kiota 是基于 OpenAPI 的 HTTP 客户端代码生成器，可自�
 | forks | 62/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 72/100 |
-| production | 87/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

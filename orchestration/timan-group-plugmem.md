@@ -1,6 +1,6 @@
 # TIMAN-group/PlugMem
 
-[![Stars](https://img.shields.io/github/stars/TIMAN-group/PlugMem?style=flat-square&color=yellow)](https://github.com/TIMAN-group/PlugMem/stargazers) [![Forks](https://img.shields.io/github/forks/TIMAN-group/PlugMem?style=flat-square&color=blue)](https://github.com/TIMAN-group/PlugMem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TIMAN-group/PlugMem?style=flat-square&color=yellow)](https://github.com/TIMAN-group/PlugMem/stargazers) [![Forks](https://img.shields.io/github/forks/TIMAN-group/PlugMem?style=flat-square&color=blue)](https://github.com/TIMAN-group/PlugMem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ICML 2026 · Plug-and-play long-term memory for LLM agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,14 +124,15 @@ TIMAN-group/PlugMem 是一套面向大语言模型（LLM）代理的 plug‑and�
 | forks | 25/100 |
 | stars | 44/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

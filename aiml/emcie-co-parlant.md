@@ -1,6 +1,6 @@
 # emcie-co/parlant
 
-[![Stars](https://img.shields.io/github/stars/emcie-co/parlant?style=flat-square&color=yellow)](https://github.com/emcie-co/parlant/stargazers) [![Forks](https://img.shields.io/github/forks/emcie-co/parlant?style=flat-square&color=blue)](https://github.com/emcie-co/parlant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emcie-co/parlant?style=flat-square&color=yellow)](https://github.com/emcie-co/parlant/stargazers) [![Forks](https://img.shields.io/github/forks/emcie-co/parlant?style=flat-square&color=blue)](https://github.com/emcie-co/parlant/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ emcie-co/parlant: emcie-co/parlant helps add AI capability without starting from
 
 ### Русский
 
-emcie-co/parlant: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+emcie-co/parlant: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ emcie-co/parlant：emcie-co/parlant helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 67/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| stars | 91/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

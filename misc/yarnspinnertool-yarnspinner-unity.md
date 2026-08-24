@@ -1,6 +1,6 @@
 # YarnSpinnerTool/YarnSpinner-Unity
 
-[![Stars](https://img.shields.io/github/stars/YarnSpinnerTool/YarnSpinner-Unity?style=flat-square&color=yellow)](https://github.com/YarnSpinnerTool/YarnSpinner-Unity/stargazers) [![Forks](https://img.shields.io/github/forks/YarnSpinnerTool/YarnSpinner-Unity?style=flat-square&color=blue)](https://github.com/YarnSpinnerTool/YarnSpinner-Unity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YarnSpinnerTool/YarnSpinner-Unity?style=flat-square&color=yellow)](https://github.com/YarnSpinnerTool/YarnSpinner-Unity/stargazers) [![Forks](https://img.shields.io/github/forks/YarnSpinnerTool/YarnSpinner-Unity?style=flat-square&color=blue)](https://github.com/YarnSpinnerTool/YarnSpinner-Unity/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The official Unity integration for Yarn Spinner, the friendly dialogue tool.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 799 |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ YarnSpinnerTool/YarnSpinner-Unity 的生产可用性为中等。它适合用于�
 | forks | 53/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 78/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

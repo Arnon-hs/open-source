@@ -1,6 +1,6 @@
 # flix/flix
 
-[![Stars](https://img.shields.io/github/stars/flix/flix?style=flat-square&color=yellow)](https://github.com/flix/flix/stargazers) [![Forks](https://img.shields.io/github/forks/flix/flix?style=flat-square&color=blue)](https://github.com/flix/flix/network) [![Language](https://img.shields.io/badge/lang-Flix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flix/flix?style=flat-square&color=yellow)](https://github.com/flix/flix/stargazers) [![Forks](https://img.shields.io/github/forks/flix/flix?style=flat-square&color=blue)](https://github.com/flix/flix/network) [![Language](https://img.shields.io/badge/lang-Flix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The Flix Programming Language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Flix |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Flix — это современный функционально‑импер
 
 ### 中文
 
-flix/flix：flix/flix may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+flix/flix：flix/flix may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ flix/flix：flix/flix may be useful when its README and activity match a concret
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ flix/flix：flix/flix may be useful when its README and activity match a concret
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 68/100 |
-| stars | 73/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

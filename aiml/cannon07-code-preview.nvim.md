@@ -1,6 +1,6 @@
 # Cannon07/code-preview.nvim
 
-[![Stars](https://img.shields.io/github/stars/Cannon07/code-preview.nvim?style=flat-square&color=yellow)](https://github.com/Cannon07/code-preview.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/Cannon07/code-preview.nvim?style=flat-square&color=blue)](https://github.com/Cannon07/code-preview.nvim/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cannon07/code-preview.nvim?style=flat-square&color=yellow)](https://github.com/Cannon07/code-preview.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/Cannon07/code-preview.nvim?style=flat-square&color=blue)](https://github.com/Cannon07/code-preview.nvim/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A Neovim plugin that shows a live diff preview of AI coding agent's file edits before you accept or reject them.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 156 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ Cannon07/code-preview.nvim：Cannon07/code-preview.nvim helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 42/100 |
-| stars | 47/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| stars | 47/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

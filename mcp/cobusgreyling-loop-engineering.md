@@ -1,6 +1,6 @@
 # cobusgreyling/loop-engineering
 
-[![Stars](https://img.shields.io/github/stars/cobusgreyling/loop-engineering?style=flat-square&color=yellow)](https://github.com/cobusgreyling/loop-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/cobusgreyling/loop-engineering?style=flat-square&color=blue)](https://github.com/cobusgreyling/loop-engineering/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cobusgreyling/loop-engineering?style=flat-square&color=yellow)](https://github.com/cobusgreyling/loop-engineering/stargazers) [![Forks](https://img.shields.io/github/forks/cobusgreyling/loop-engineering?style=flat-square&color=blue)](https://github.com/cobusgreyling/loop-engineering/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 751 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools · Design
+MCP · Automation · AI/ML · Design
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ cobusgreyling/loop-engineering 为 AI 编码代理提供了“一站式”解决
 | forks | 50/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

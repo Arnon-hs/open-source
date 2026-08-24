@@ -1,6 +1,6 @@
 # zu1k/nali
 
-[![Stars](https://img.shields.io/github/stars/zu1k/nali?style=flat-square&color=yellow)](https://github.com/zu1k/nali/stargazers) [![Forks](https://img.shields.io/github/forks/zu1k/nali?style=flat-square&color=blue)](https://github.com/zu1k/nali/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zu1k/nali?style=flat-square&color=yellow)](https://github.com/zu1k/nali/stargazers) [![Forks](https://img.shields.io/github/forks/zu1k/nali?style=flat-square&color=blue)](https://github.com/zu1k/nali/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 367 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data · Database
+DevTools · Database
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ zu1k/nali 是一款基于 Go 实现的离线终端工具，能够快速查询任
 | forks | 64/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # GreycLab/gmic
 
-[![Stars](https://img.shields.io/github/stars/GreycLab/gmic?style=flat-square&color=yellow)](https://github.com/GreycLab/gmic/stargazers) [![Forks](https://img.shields.io/github/forks/GreycLab/gmic?style=flat-square&color=blue)](https://github.com/GreycLab/gmic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GreycLab/gmic?style=flat-square&color=yellow)](https://github.com/GreycLab/gmic/stargazers) [![Forks](https://img.shields.io/github/forks/GreycLab/gmic?style=flat-square&color=blue)](https://github.com/GreycLab/gmic/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > GREYC's Magic for Image Computing: A Full-Featured Open-Source Framework for Image Processing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ GreycLab/gmic 是一个功能完整的开源图像处理框架，提供上百种
 | forks | 34/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

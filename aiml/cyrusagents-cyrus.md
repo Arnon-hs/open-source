@@ -1,6 +1,6 @@
 # cyrusagents/cyrus
 
-[![Stars](https://img.shields.io/github/stars/cyrusagents/cyrus?style=flat-square&color=yellow)](https://github.com/cyrusagents/cyrus/stargazers) [![Forks](https://img.shields.io/github/forks/cyrusagents/cyrus?style=flat-square&color=blue)](https://github.com/cyrusagents/cyrus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cyrusagents/cyrus?style=flat-square&color=yellow)](https://github.com/cyrusagents/cyrus/stargazers) [![Forks](https://img.shields.io/github/forks/cyrusagents/cyrus?style=flat-square&color=blue)](https://github.com/cyrusagents/cyrus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor and Gemini too.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 593 |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ cyrusagents/cyrus 是一款基于 Claude Code 的后台智能体，可在 Linear
 | forks | 52/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

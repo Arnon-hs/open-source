@@ -1,6 +1,6 @@
 # lapwat/papeer
 
-[![Stars](https://img.shields.io/github/stars/lapwat/papeer?style=flat-square&color=yellow)](https://github.com/lapwat/papeer/stargazers) [![Forks](https://img.shields.io/github/forks/lapwat/papeer?style=flat-square&color=blue)](https://github.com/lapwat/papeer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lapwat/papeer?style=flat-square&color=yellow)](https://github.com/lapwat/papeer/stargazers) [![Forks](https://img.shields.io/github/forks/lapwat/papeer?style=flat-square&color=blue)](https://github.com/lapwat/papeer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Scrape the web in the eink era. Convert websites into ebooks and markdown.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 368 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ lapwat/papeer 是一款用 Go 编写的开源工具，能够在电子墨水（e�
 | forks | 36/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

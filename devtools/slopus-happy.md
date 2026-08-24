@@ -1,6 +1,6 @@
 # slopus/happy
 
-[![Stars](https://img.shields.io/github/stars/slopus/happy?style=flat-square&color=yellow)](https://github.com/slopus/happy/stargazers) [![Forks](https://img.shields.io/github/forks/slopus/happy?style=flat-square&color=blue)](https://github.com/slopus/happy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slopus/happy?style=flat-square&color=yellow)](https://github.com/slopus/happy/stargazers) [![Forks](https://img.shields.io/github/forks/slopus/happy?style=flat-square&color=blue)](https://github.com/slopus/happy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.2k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ slopus/happy：slopus/happy helps engineers save time in daily development and r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 65/100 |
-| adoption | 89/100 |
-| stars | 92/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| stars | 92/100 |
 | topics | 75/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

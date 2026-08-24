@@ -1,6 +1,6 @@
 # mnemon-dev/mnemon
 
-[![Stars](https://img.shields.io/github/stars/mnemon-dev/mnemon?style=flat-square&color=yellow)](https://github.com/mnemon-dev/mnemon/stargazers) [![Forks](https://img.shields.io/github/forks/mnemon-dev/mnemon?style=flat-square&color=blue)](https://github.com/mnemon-dev/mnemon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mnemon-dev/mnemon?style=flat-square&color=yellow)](https://github.com/mnemon-dev/mnemon/stargazers) [![Forks](https://img.shields.io/github/forks/mnemon-dev/mnemon?style=flat-square&color=blue)](https://github.com/mnemon-dev/mnemon/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with Claude Code, OpenClaw, and any CLI agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ mnemon‑dev/mnemon 为 AI 代理提供持久化记忆层，采用图结构实�
 | forks | 34/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

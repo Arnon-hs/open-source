@@ -1,6 +1,6 @@
 # rocketride-org/rocketride-server
 
-[![Stars](https://img.shields.io/github/stars/rocketride-org/rocketride-server?style=flat-square&color=yellow)](https://github.com/rocketride-org/rocketride-server/stargazers) [![Forks](https://img.shields.io/github/forks/rocketride-org/rocketride-server?style=flat-square&color=blue)](https://github.com/rocketride-org/rocketride-server/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rocketride-org/rocketride-server?style=flat-square&color=yellow)](https://github.com/rocketride-org/rocketride-server/stargazers) [![Forks](https://img.shields.io/github/forks/rocketride-org/rocketride-server?style=flat-square&color=blue)](https://github.com/rocketride-org/rocketride-server/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 412 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Data · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ rocketride-org/rocketride-server 是一款高性能 AI 流水线引擎，核心�
 | forks | 65/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 70/100 |
-| production | 86/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

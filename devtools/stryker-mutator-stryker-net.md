@@ -1,6 +1,6 @@
 # stryker-mutator/stryker-net
 
-[![Stars](https://img.shields.io/github/stars/stryker-mutator/stryker-net?style=flat-square&color=yellow)](https://github.com/stryker-mutator/stryker-net/stargazers) [![Forks](https://img.shields.io/github/forks/stryker-mutator/stryker-net?style=flat-square&color=blue)](https://github.com/stryker-mutator/stryker-net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stryker-mutator/stryker-net?style=flat-square&color=yellow)](https://github.com/stryker-mutator/stryker-net/stargazers) [![Forks](https://img.shields.io/github/forks/stryker-mutator/stryker-net?style=flat-square&color=blue)](https://github.com/stryker-mutator/stryker-net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Mutation testing for .NET core and .NET framework!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Stryker‑Mutator / Stryker‑Net — это открытый инстру
 
 ### 中文
 
-stryker-mutator/stryker-net：stryker-mutator/stryker-net helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stryker-mutator/stryker-net：stryker-mutator/stryker-net helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ stryker-mutator/stryker-net：stryker-mutator/stryker-net helps engineers save t
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ stryker-mutator/stryker-net：stryker-mutator/stryker-net helps engineers save t
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 60/100 |
+| production | 48/100 |
+| outlook | 53/100 |
 | adoption | 67/100 |
 | stars | 70/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

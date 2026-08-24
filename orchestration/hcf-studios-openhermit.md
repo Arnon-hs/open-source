@@ -1,6 +1,6 @@
 # HCF-STUDIOS/openhermit
 
-[![Stars](https://img.shields.io/github/stars/HCF-STUDIOS/openhermit?style=flat-square&color=yellow)](https://github.com/HCF-STUDIOS/openhermit/stargazers) [![Forks](https://img.shields.io/github/forks/HCF-STUDIOS/openhermit?style=flat-square&color=blue)](https://github.com/HCF-STUDIOS/openhermit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HCF-STUDIOS/openhermit?style=flat-square&color=yellow)](https://github.com/HCF-STUDIOS/openhermit/stargazers) [![Forks](https://img.shields.io/github/forks/HCF-STUDIOS/openhermit?style=flat-square&color=blue)](https://github.com/HCF-STUDIOS/openhermit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > OpenHermit is the open-source platform for deploying fleets of AI agents as production services — durable state, sandboxed execution, managed at scale, and the channels you already use.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Database · Mobile · Product
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -124,14 +124,15 @@ OpenHermit 是一套开源平台，能够把成百上千的 AI 代理以持久�
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 40/100 |
+| recency | 20/100 |
 | adoption | 28/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

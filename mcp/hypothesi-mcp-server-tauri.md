@@ -1,6 +1,6 @@
 # hypothesi/mcp-server-tauri
 
-[![Stars](https://img.shields.io/github/stars/hypothesi/mcp-server-tauri?style=flat-square&color=yellow)](https://github.com/hypothesi/mcp-server-tauri/stargazers) [![Forks](https://img.shields.io/github/forks/hypothesi/mcp-server-tauri?style=flat-square&color=blue)](https://github.com/hypothesi/mcp-server-tauri/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hypothesi/mcp-server-tauri?style=flat-square&color=yellow)](https://github.com/hypothesi/mcp-server-tauri/stargazers) [![Forks](https://img.shields.io/github/forks/hypothesi/mcp-server-tauri?style=flat-square&color=blue)](https://github.com/hypothesi/mcp-server-tauri/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server and plugin for Tauri v2 development
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 203 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · Backend · DevTools
+MCP · Automation · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ hypothesi/mcp-server-tauri 是一个为 Tauri v2 开发的 Model Context Proto
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

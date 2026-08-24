@@ -1,6 +1,6 @@
 # Fractera/Agent-Engineering-Infrastructure
 
-[![Stars](https://img.shields.io/github/stars/Fractera/Agent-Engineering-Infrastructure?style=flat-square&color=yellow)](https://github.com/Fractera/Agent-Engineering-Infrastructure/stargazers) [![Forks](https://img.shields.io/github/forks/Fractera/Agent-Engineering-Infrastructure?style=flat-square&color=blue)](https://github.com/Fractera/Agent-Engineering-Infrastructure/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fractera/Agent-Engineering-Infrastructure?style=flat-square&color=yellow)](https://github.com/Fractera/Agent-Engineering-Infrastructure/stargazers) [![Forks](https://img.shields.io/github/forks/Fractera/Agent-Engineering-Infrastructure?style=flat-square&color=blue)](https://github.com/Fractera/Agent-Engineering-Infrastructure/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > One-Click Agent Engineering Infrastructure on VPS. Deploy private multi-agent environments with a 50k-line Next.js Aircraft Carrier architecture. Replaces heavy code-generation loops with atomic MCP commands, eliminating file system parsing to drive AI token spend to absolute zero.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Fractera/Agent-Engineering-Infrastructure 是一套“一键部署”式的智�
 | forks | 21/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

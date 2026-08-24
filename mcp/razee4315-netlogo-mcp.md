@@ -1,6 +1,6 @@
 # Razee4315/NetLogo-MCP
 
-[![Stars](https://img.shields.io/github/stars/Razee4315/NetLogo-MCP?style=flat-square&color=yellow)](https://github.com/Razee4315/NetLogo-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/Razee4315/NetLogo-MCP?style=flat-square&color=blue)](https://github.com/Razee4315/NetLogo-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Razee4315/NetLogo-MCP?style=flat-square&color=yellow)](https://github.com/Razee4315/NetLogo-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/Razee4315/NetLogo-MCP?style=flat-square&color=blue)](https://github.com/Razee4315/NetLogo-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The first MCP (Model Context Protocol) server for NetLogo, enabling AI assistants like Claude to create, run, and analyze agent-based models through natural conversation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Razee4315/NetLogo‑MCP 是首个为 NetLogo 提供 Model Context Protocol（MCP
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

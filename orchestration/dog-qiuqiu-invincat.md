@@ -1,6 +1,6 @@
 # dog-qiuqiu/invincat
 
-[![Stars](https://img.shields.io/github/stars/dog-qiuqiu/invincat?style=flat-square&color=yellow)](https://github.com/dog-qiuqiu/invincat/stargazers) [![Forks](https://img.shields.io/github/forks/dog-qiuqiu/invincat?style=flat-square&color=blue)](https://github.com/dog-qiuqiu/invincat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dog-qiuqiu/invincat?style=flat-square&color=yellow)](https://github.com/dog-qiuqiu/invincat/stargazers) [![Forks](https://img.shields.io/github/forks/dog-qiuqiu/invincat?style=flat-square&color=blue)](https://github.com/dog-qiuqiu/invincat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A native Python agent CLI built on DeepAgents CLI, featuring an independent memory Agent that captures learnings after each task and delivers efficient AI coding assistance through hierarchical memory management.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 304 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dog-qiuqiu/invincat：dog-qiuqiu/invincat helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 48/100 |
-| stars | 53/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

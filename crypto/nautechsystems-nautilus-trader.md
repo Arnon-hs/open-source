@@ -1,6 +1,6 @@
 # nautechsystems/nautilus_trader
 
-[![Stars](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&color=yellow)](https://github.com/nautechsystems/nautilus_trader/stargazers) [![Forks](https://img.shields.io/github/forks/nautechsystems/nautilus_trader?style=flat-square&color=blue)](https://github.com/nautechsystems/nautilus_trader/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&color=yellow)](https://github.com/nautechsystems/nautilus_trader/stargazers) [![Forks](https://img.shields.io/github/forks/nautechsystems/nautilus_trader?style=flat-square&color=blue)](https://github.com/nautechsystems/nautilus_trader/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade Rust-native trading engine with deterministic event-driven architecture
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.6k |
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Frontend
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ nautechsystems/nautilus_trader: nautechsystems/nautilus_trader helps prototype o
 
 ### Русский
 
-nautechsystems/nautilus_trader: open-source проект в категориях Crypto, Trading, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+nautechsystems/nautilus_trader: open-source проект в категориях Crypto, Trading. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ nautechsystems/nautilus_trader：nautechsystems/nautilus_trader helps prototype 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 81/100 |
-| integration | 62/100 |
-| production | 65/100 |
-| outlook | 65/100 |
-| adoption | 91/100 |
-| stars | 93/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

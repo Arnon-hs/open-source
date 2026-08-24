@@ -1,6 +1,6 @@
 # slowlyo/owl-admin
 
-[![Stars](https://img.shields.io/github/stars/slowlyo/owl-admin?style=flat-square&color=yellow)](https://github.com/slowlyo/owl-admin/stargazers) [![Forks](https://img.shields.io/github/forks/slowlyo/owl-admin?style=flat-square&color=blue)](https://github.com/slowlyo/owl-admin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slowlyo/owl-admin?style=flat-square&color=yellow)](https://github.com/slowlyo/owl-admin/stargazers) [![Forks](https://img.shields.io/github/forks/slowlyo/owl-admin?style=flat-square&color=blue)](https://github.com/slowlyo/owl-admin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🎈 Owl Admin : 基于 laravel 和 amis 开发的后台框架, 友好的组件使用体验, 可轻松实现复杂页面, 内置代码生成器, 让开发者快速搭建后台管理系统
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 613 |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,14 +131,15 @@ Owl Admin 是基于 Laravel 与阿里巴巴开源的前端框架 AMIS 开发的�
 | forks | 50/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

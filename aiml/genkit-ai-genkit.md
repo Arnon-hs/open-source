@@ -1,6 +1,6 @@
 # genkit-ai/genkit
 
-[![Stars](https://img.shields.io/github/stars/genkit-ai/genkit?style=flat-square&color=yellow)](https://github.com/genkit-ai/genkit/stargazers) [![Forks](https://img.shields.io/github/forks/genkit-ai/genkit?style=flat-square&color=blue)](https://github.com/genkit-ai/genkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/genkit-ai/genkit?style=flat-square&color=yellow)](https://github.com/genkit-ai/genkit/stargazers) [![Forks](https://img.shields.io/github/forks/genkit-ai/genkit?style=flat-square&color=blue)](https://github.com/genkit-ai/genkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.9k |
 | 🍴 **Forks** | 730 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ genkit-ai/genkit：genkit-ai/genkit helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 78/100 |
-| production | 65/100 |
-| outlook | 71/100 |
+| production | 58/100 |
+| outlook | 64/100 |
 | adoption | 78/100 |
 | stars | 80/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

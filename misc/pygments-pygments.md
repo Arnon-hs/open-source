@@ -1,6 +1,6 @@
 # pygments/pygments
 
-[![Stars](https://img.shields.io/github/stars/pygments/pygments?style=flat-square&color=yellow)](https://github.com/pygments/pygments/stargazers) [![Forks](https://img.shields.io/github/forks/pygments/pygments?style=flat-square&color=blue)](https://github.com/pygments/pygments/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pygments/pygments?style=flat-square&color=yellow)](https://github.com/pygments/pygments/stargazers) [![Forks](https://img.shields.io/github/forks/pygments/pygments?style=flat-square&color=blue)](https://github.com/pygments/pygments/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Pygments is a generic syntax highlighter written in Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 801 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Pygments — это кроссплатформенный подсветчик 
 
 ### 中文
 
-pygments/pygments：pygments/pygments may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pygments/pygments：pygments/pygments may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ pygments/pygments：pygments/pygments may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ pygments/pygments：pygments/pygments may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 71/100 |
-| stars | 71/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 71/100 |
 | topics | 25/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

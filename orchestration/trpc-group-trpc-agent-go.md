@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 205 |
+| 🍴 **Forks** | 234 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ trpc-group/trpc-agent-go：trpc-group/trpc-agent-go helps turn isolated prompts 
 
 **Quality signals**
 
-- 1501 GitHub stars
-- 205 forks
-- updated 2026-07-05
+- 1535 GitHub stars
+- 234 forks
+- updated 2026-07-13
 - primary language: Go
 - 18 topics
 
@@ -72,11 +72,11 @@ trpc-group/trpc-agent-go：trpc-group/trpc-agent-go helps turn isolated prompts 
 | outlook | 91/100 |
 | adoption | 65/100 |
 | stars | 68/100 |
-| forks | 58/100 |
+| forks | 59/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/trpc-group/trpc-agent-go) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/trpc-group/trpc-agent-go) · [← Back to Orchestration](./README.md)</sub>

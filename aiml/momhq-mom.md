@@ -1,6 +1,6 @@
 # momhq/mom
 
-[![Stars](https://img.shields.io/github/stars/momhq/mom?style=flat-square&color=yellow)](https://github.com/momhq/mom/stargazers) [![Forks](https://img.shields.io/github/forks/momhq/mom?style=flat-square&color=blue)](https://github.com/momhq/mom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/momhq/mom?style=flat-square&color=yellow)](https://github.com/momhq/mom/stargazers) [![Forks](https://img.shields.io/github/forks/momhq/mom?style=flat-square&color=blue)](https://github.com/momhq/mom/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MOM is a persistent memory for AI agents — she remembers, so you don't have to_
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ momhq/mom：momhq/mom helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 31/100 |
 | stars | 36/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

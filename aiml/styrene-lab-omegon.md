@@ -1,6 +1,6 @@
 # styrene-lab/omegon
 
-[![Stars](https://img.shields.io/github/stars/styrene-lab/omegon?style=flat-square&color=yellow)](https://github.com/styrene-lab/omegon/stargazers) [![Forks](https://img.shields.io/github/forks/styrene-lab/omegon?style=flat-square&color=blue)](https://github.com/styrene-lab/omegon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/styrene-lab/omegon?style=flat-square&color=yellow)](https://github.com/styrene-lab/omegon/stargazers) [![Forks](https://img.shields.io/github/forks/styrene-lab/omegon?style=flat-square&color=blue)](https://github.com/styrene-lab/omegon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Native AI agent harness — for agents, by agents. Single binary, zero dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -64,16 +64,16 @@ styrene-lab/omegon：styrene-lab/omegon helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 39/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 32/100 |
-| stars | 35/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| stars | 35/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 34/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # krumjahn/applehealth
 
-[![Stars](https://img.shields.io/github/stars/krumjahn/applehealth?style=flat-square&color=yellow)](https://github.com/krumjahn/applehealth/stargazers) [![Forks](https://img.shields.io/github/forks/krumjahn/applehealth?style=flat-square&color=blue)](https://github.com/krumjahn/applehealth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krumjahn/applehealth?style=flat-square&color=yellow)](https://github.com/krumjahn/applehealth/stargazers) [![Forks](https://img.shields.io/github/forks/krumjahn/applehealth?style=flat-square&color=blue)](https://github.com/krumjahn/applehealth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Export your Apple Health data and turn them into insights and visualizations using A.I.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 396 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **krumjahn/applehealth** project provides tools to export data from Apple 
 
 ### 中文
 
-krumjahn/applehealth：krumjahn/applehealth helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+krumjahn/applehealth：krumjahn/applehealth helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ krumjahn/applehealth：krumjahn/applehealth helps convert raw data into searchab
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ krumjahn/applehealth：krumjahn/applehealth helps convert raw data into searchab
 - updated 2026-05-10
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 46/100 |
-| production | 50/100 |
-| outlook | 45/100 |
+| production | 44/100 |
+| outlook | 38/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

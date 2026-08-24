@@ -1,6 +1,6 @@
 # clawdotnet/SharpClawCode
 
-[![Stars](https://img.shields.io/github/stars/clawdotnet/SharpClawCode?style=flat-square&color=yellow)](https://github.com/clawdotnet/SharpClawCode/stargazers) [![Forks](https://img.shields.io/github/forks/clawdotnet/SharpClawCode?style=flat-square&color=blue)](https://github.com/clawdotnet/SharpClawCode/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clawdotnet/SharpClawCode?style=flat-square&color=yellow)](https://github.com/clawdotnet/SharpClawCode/stargazers) [![Forks](https://img.shields.io/github/forks/clawdotnet/SharpClawCode?style=flat-square&color=blue)](https://github.com/clawdotnet/SharpClawCode/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > C# coding-agent harness (.NET 10, Microsoft Agent Framework) — sessions, tools, permissions, providers, MCP, plugins
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ clawdotnet/SharpClawCode 是基于 .NET 10 与 Microsoft Agent Framework 的 C
 | forks | 29/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

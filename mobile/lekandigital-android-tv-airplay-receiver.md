@@ -1,0 +1,80 @@
+# lekandigital/android-tv-airplay-receiver
+
+[![Stars](https://img.shields.io/github/stars/lekandigital/android-tv-airplay-receiver?style=flat-square&color=yellow)](https://github.com/lekandigital/android-tv-airplay-receiver/stargazers) [![Forks](https://img.shields.io/github/forks/lekandigital/android-tv-airplay-receiver?style=flat-square&color=blue)](https://github.com/lekandigital/android-tv-airplay-receiver/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+
+> Discovered from Hacker News (github-mentions)
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 35/100 |
+| 🗓️ **Last push** | 2026-08-24 |
+| 🔍 **Source** | hackernews |
+
+## 🏷️ Topics
+
+`hn` `github-mentions`
+
+## 🎯 Categories
+
+Mobile
+
+## 📝 Summary
+
+### English
+
+AirPlay for Google (Android) TV Chromecast: AirPlay for Google (Android) TV Chromecast helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+AirPlay for Google (Android) TV Chromecast: open-source проект в категориях AI/ML, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+AirPlay for Google (Android) TV Chromecast：AirPlay for Google (Android) TV Chromecast helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** AirPlay for Google (Android) TV Chromecast helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-06-27
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 25/100 |
+| outlook | 33/100 |
+| quality | 26/100 |
+| recency | 40/100 |
+| adoption | 0/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/lekandigital/android-tv-airplay-receiver) · [← Back to Mobile](./README.md)</sub>

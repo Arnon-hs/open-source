@@ -1,6 +1,6 @@
 # JamsusMaximus/trainingpeaks-mcp
 
-[![Stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=flat-square&color=yellow)](https://github.com/JamsusMaximus/trainingpeaks-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JamsusMaximus/trainingpeaks-mcp?style=flat-square&color=blue)](https://github.com/JamsusMaximus/trainingpeaks-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JamsusMaximus/trainingpeaks-mcp?style=flat-square&color=yellow)](https://github.com/JamsusMaximus/trainingpeaks-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/JamsusMaximus/trainingpeaks-mcp?style=flat-square&color=blue)](https://github.com/JamsusMaximus/trainingpeaks-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > TrainingPeaks MCP server for Claude Desktop, Code and Cowork. No API approval needed - works with any account. Query workouts, CTL/ATL/TSB fitness data, power PRs via natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ JamsusMaximus/trainingpeaks‑mcp 为 Claude Desktop、Claude Code、Claude 
 | forks | 42/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

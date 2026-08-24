@@ -1,6 +1,6 @@
 # slatekit/kiit
 
-[![Stars](https://img.shields.io/github/stars/slatekit/kiit?style=flat-square&color=yellow)](https://github.com/slatekit/kiit/stargazers) [![Forks](https://img.shields.io/github/forks/slatekit/kiit?style=flat-square&color=blue)](https://github.com/slatekit/kiit/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slatekit/kiit?style=flat-square&color=yellow)](https://github.com/slatekit/kiit/stargazers) [![Forks](https://img.shields.io/github/forks/slatekit/kiit?style=flat-square&color=blue)](https://github.com/slatekit/kiit/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Kotlin Framework for Apps, APIs, CLIs, Jobs, Mobile and more...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ slatekit/kiit 是一个基于 Kotlin 的全栈框架，覆盖 Apps、API、CLI�
 | forks | 28/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

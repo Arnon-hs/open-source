@@ -1,6 +1,6 @@
 # ariebovenberg/whenever
 
-[![Stars](https://img.shields.io/github/stars/ariebovenberg/whenever?style=flat-square&color=yellow)](https://github.com/ariebovenberg/whenever/stargazers) [![Forks](https://img.shields.io/github/forks/ariebovenberg/whenever?style=flat-square&color=blue)](https://github.com/ariebovenberg/whenever/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ariebovenberg/whenever?style=flat-square&color=yellow)](https://github.com/ariebovenberg/whenever/stargazers) [![Forks](https://img.shields.io/github/forks/ariebovenberg/whenever?style=flat-square&color=blue)](https://github.com/ariebovenberg/whenever/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > ⏰ Modern datetime library for Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ Overall, `whenever` is production‑ready for a pilot integration, provided the 
 | forks | 38/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # step-security/dev-machine-guard
 
-[![Stars](https://img.shields.io/github/stars/step-security/dev-machine-guard?style=flat-square&color=yellow)](https://github.com/step-security/dev-machine-guard/stargazers) [![Forks](https://img.shields.io/github/forks/step-security/dev-machine-guard?style=flat-square&color=blue)](https://github.com/step-security/dev-machine-guard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/step-security/dev-machine-guard?style=flat-square&color=yellow)](https://github.com/step-security/dev-machine-guard/stargazers) [![Forks](https://img.shields.io/github/forks/step-security/dev-machine-guard?style=flat-square&color=blue)](https://github.com/step-security/dev-machine-guard/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Scan your dev machine for AI agents, MCP servers, IDE extensions, and suspicious packages - in seconds.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Security
+MCP · Security
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ step-security/dev-machine-guard 是一款用 Go 编写的轻量级安全扫描�
 | forks | 33/100 |
 | stars | 47/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

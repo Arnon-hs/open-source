@@ -1,6 +1,6 @@
 # mongodb-js/mongodb-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/mongodb-js/mongodb-mcp-server?style=flat-square&color=yellow)](https://github.com/mongodb-js/mongodb-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb-js/mongodb-mcp-server?style=flat-square&color=blue)](https://github.com/mongodb-js/mongodb-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mongodb-js/mongodb-mcp-server?style=flat-square&color=yellow)](https://github.com/mongodb-js/mongodb-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb-js/mongodb-mcp-server?style=flat-square&color=blue)](https://github.com/mongodb-js/mongodb-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 240 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mongodb-js/mongodb-mcp-server：mongodb-js/mongodb-mcp-server helps teams reuse 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 58/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 63/100 |
 | stars | 64/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

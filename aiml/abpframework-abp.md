@@ -1,6 +1,6 @@
 # abpframework/abp
 
-[![Stars](https://img.shields.io/github/stars/abpframework/abp?style=flat-square&color=yellow)](https://github.com/abpframework/abp/stargazers) [![Forks](https://img.shields.io/github/forks/abpframework/abp?style=flat-square&color=blue)](https://github.com/abpframework/abp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abpframework/abp?style=flat-square&color=yellow)](https://github.com/abpframework/abp/stargazers) [![Forks](https://img.shields.io/github/forks/abpframework/abp?style=flat-square&color=blue)](https://github.com/abpframework/abp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.2k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ abpframework/abp：abpframework/abp helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 80/100 |
+| usefulness | 90/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 55/100 |
+| outlook | 67/100 |
 | adoption | 89/100 |
 | stars | 88/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

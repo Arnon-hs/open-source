@@ -1,6 +1,6 @@
 # OpenXiangShan/NEMU
 
-[![Stars](https://img.shields.io/github/stars/OpenXiangShan/NEMU?style=flat-square&color=yellow)](https://github.com/OpenXiangShan/NEMU/stargazers) [![Forks](https://img.shields.io/github/forks/OpenXiangShan/NEMU?style=flat-square&color=blue)](https://github.com/OpenXiangShan/NEMU/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenXiangShan/NEMU?style=flat-square&color=yellow)](https://github.com/OpenXiangShan/NEMU/stargazers) [![Forks](https://img.shields.io/github/forks/OpenXiangShan/NEMU?style=flat-square&color=blue)](https://github.com/OpenXiangShan/NEMU/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Super fast RISC-V ISA emulator for XiangShan processor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | C |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ OpenXiangShan/NEMU 是一款针对 XiangShan 处理器实现的超高速 RISC‑
 | forks | 53/100 |
 | stars | 54/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

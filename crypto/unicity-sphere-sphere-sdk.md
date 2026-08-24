@@ -1,6 +1,6 @@
 # unicity-sphere/sphere-sdk
 
-[![Stars](https://img.shields.io/github/stars/unicity-sphere/sphere-sdk?style=flat-square&color=yellow)](https://github.com/unicity-sphere/sphere-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/unicity-sphere/sphere-sdk?style=flat-square&color=blue)](https://github.com/unicity-sphere/sphere-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unicity-sphere/sphere-sdk?style=flat-square&color=yellow)](https://github.com/unicity-sphere/sphere-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/unicity-sphere/sphere-sdk?style=flat-square&color=blue)](https://github.com/unicity-sphere/sphere-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ Sphere‑SDK 是面向自主经济体（AEA）的 TypeScript 开发工具箱，�
 | forks | 50/100 |
 | stars | 80/100 |
 | topics | 50/100 |
-| outlook | 83/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

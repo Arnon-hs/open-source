@@ -1,6 +1,6 @@
 # wandb/catnip
 
-[![Stars](https://img.shields.io/github/stars/wandb/catnip?style=flat-square&color=yellow)](https://github.com/wandb/catnip/stargazers) [![Forks](https://img.shields.io/github/forks/wandb/catnip?style=flat-square&color=blue)](https://github.com/wandb/catnip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wandb/catnip?style=flat-square&color=yellow)](https://github.com/wandb/catnip/stargazers) [![Forks](https://img.shields.io/github/forks/wandb/catnip?style=flat-square&color=blue)](https://github.com/wandb/catnip/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Like catnip, a highly addictive agentic coding tool
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 488 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Mobile
+AI/ML · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ wandb / catnip 是一款类似猫薄荷的“上瘾”式代码工具，帮�
 | forks | 40/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # urikdev/Urik
 
-[![Stars](https://img.shields.io/github/stars/urikdev/Urik?style=flat-square&color=yellow)](https://github.com/urikdev/Urik/stargazers) [![Forks](https://img.shields.io/github/forks/urikdev/Urik?style=flat-square&color=blue)](https://github.com/urikdev/Urik/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/urikdev/Urik?style=flat-square&color=yellow)](https://github.com/urikdev/Urik/stargazers) [![Forks](https://img.shields.io/github/forks/urikdev/Urik?style=flat-square&color=blue)](https://github.com/urikdev/Urik/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Privacy-focused Android keyboard with swipe typing, custom layouts, and password manager support. No tracking, 100% on-device, and fully open source.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 359 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Urik 在隐私保护和可定制输入体验方面具备明确优势，适合作
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

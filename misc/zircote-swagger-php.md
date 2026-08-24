@@ -1,6 +1,6 @@
 # zircote/swagger-php
 
-[![Stars](https://img.shields.io/github/stars/zircote/swagger-php?style=flat-square&color=yellow)](https://github.com/zircote/swagger-php/stargazers) [![Forks](https://img.shields.io/github/forks/zircote/swagger-php?style=flat-square&color=blue)](https://github.com/zircote/swagger-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zircote/swagger-php?style=flat-square&color=yellow)](https://github.com/zircote/swagger-php/stargazers) [![Forks](https://img.shields.io/github/forks/zircote/swagger-php?style=flat-square&color=blue)](https://github.com/zircote/swagger-php/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A php swagger annotation and parsing library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 938 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -130,14 +130,15 @@ zircote/swagger-php 是一款基于 PHP 注解的 Swagger（OpenAPI）文档生�
 | forks | 74/100 |
 | stars | 79/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

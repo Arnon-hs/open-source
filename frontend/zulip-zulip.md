@@ -1,6 +1,6 @@
 # zulip/zulip
 
-[![Stars](https://img.shields.io/github/stars/zulip/zulip?style=flat-square&color=yellow)](https://github.com/zulip/zulip/stargazers) [![Forks](https://img.shields.io/github/forks/zulip/zulip?style=flat-square&color=blue)](https://github.com/zulip/zulip/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zulip/zulip?style=flat-square&color=yellow)](https://github.com/zulip/zulip/stargazers) [![Forks](https://img.shields.io/github/forks/zulip/zulip?style=flat-square&color=blue)](https://github.com/zulip/zulip/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.2k |
 | 🍴 **Forks** | 9.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ zulip/zulip：zulip/zulip helps ship user-facing interfaces with less custom UI 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 83/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 95/100 |
-| stars | 94/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

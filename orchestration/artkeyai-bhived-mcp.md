@@ -1,6 +1,6 @@
 # ArtKeyAi/bhived-mcp
 
-[![Stars](https://img.shields.io/github/stars/ArtKeyAi/bhived-mcp?style=flat-square&color=yellow)](https://github.com/ArtKeyAi/bhived-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ArtKeyAi/bhived-mcp?style=flat-square&color=blue)](https://github.com/ArtKeyAi/bhived-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArtKeyAi/bhived-mcp?style=flat-square&color=yellow)](https://github.com/ArtKeyAi/bhived-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ArtKeyAi/bhived-mcp?style=flat-square&color=blue)](https://github.com/ArtKeyAi/bhived-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > bhived is an MCP server that gives AI agents shared memory, skills, and tool discovery.   install once, works in Claude Code, Cursor, and 15+ other agents.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ ArtKeyAi/bhived-mcp 是一个基于 TypeScript 的 MCP（Memory‑Control‑Prot
 | forks | 15/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

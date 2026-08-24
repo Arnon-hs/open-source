@@ -1,6 +1,6 @@
 # mlc-ai/mlc-llm
 
-[![Stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=flat-square&color=yellow)](https://github.com/mlc-ai/mlc-llm/stargazers) [![Forks](https://img.shields.io/github/forks/mlc-ai/mlc-llm?style=flat-square&color=blue)](https://github.com/mlc-ai/mlc-llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=flat-square&color=yellow)](https://github.com/mlc-ai/mlc-llm/stargazers) [![Forks](https://img.shields.io/github/forks/mlc-ai/mlc-llm?style=flat-square&color=blue)](https://github.com/mlc-ai/mlc-llm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Universal LLM Deployment Engine with ML Compilation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.9k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ mlc-ai/mlc-llm 是一款 **Universal LLM Deployment Engine**，通过机器学�
 | forks | 83/100 |
 | stars | 93/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 90/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

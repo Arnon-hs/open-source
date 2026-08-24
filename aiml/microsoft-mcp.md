@@ -1,6 +1,6 @@
 # microsoft/mcp
 
-[![Stars](https://img.shields.io/github/stars/microsoft/mcp?style=flat-square&color=yellow)](https://github.com/microsoft/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp?style=flat-square&color=blue)](https://github.com/microsoft/mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/mcp?style=flat-square&color=yellow)](https://github.com/microsoft/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/mcp?style=flat-square&color=blue)](https://github.com/microsoft/mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 485 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **microsoft/mcp** repository is a curated catalog of open‑source server im
 
 ### 中文
 
-microsoft/mcp：microsoft/mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+microsoft/mcp：microsoft/mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ microsoft/mcp：microsoft/mcp helps add AI capability without starting from a bl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ microsoft/mcp：microsoft/mcp helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 60/100 |
+| production | 47/100 |
+| outlook | 53/100 |
 | adoption | 72/100 |
 | stars | 74/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

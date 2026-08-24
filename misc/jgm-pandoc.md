@@ -1,6 +1,6 @@
 # jgm/pandoc
 
-[![Stars](https://img.shields.io/github/stars/jgm/pandoc?style=flat-square&color=yellow)](https://github.com/jgm/pandoc/stargazers) [![Forks](https://img.shields.io/github/forks/jgm/pandoc?style=flat-square&color=blue)](https://github.com/jgm/pandoc/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jgm/pandoc?style=flat-square&color=yellow)](https://github.com/jgm/pandoc/stargazers) [![Forks](https://img.shields.io/github/forks/jgm/pandoc?style=flat-square&color=blue)](https://github.com/jgm/pandoc/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Universal markup converter
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ jgm/pandoc 是一款用 Haskell 编写的跨平台通用标记转换工具，能
 | forks | 90/100 |
 | stars | 99/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 78/100 |
+| recency | 20/100 |
 | adoption | 96/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

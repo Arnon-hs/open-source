@@ -1,6 +1,6 @@
 # WordPress/WordPress
 
-[![Stars](https://img.shields.io/github/stars/WordPress/WordPress?style=flat-square&color=yellow)](https://github.com/WordPress/WordPress/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/WordPress?style=flat-square&color=blue)](https://github.com/WordPress/WordPress/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WordPress/WordPress?style=flat-square&color=yellow)](https://github.com/WordPress/WordPress/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/WordPress?style=flat-square&color=blue)](https://github.com/WordPress/WordPress/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21.1k |
 | 🍴 **Forks** | 12.9k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-WordPress/WordPress: WordPress/WordPress may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+WordPress/WordPress: WordPress/WordPress may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-WordPress/WordPress: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+WordPress/WordPress: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-WordPress/WordPress：WordPress/WordPress may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+WordPress/WordPress：WordPress/WordPress may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ WordPress/WordPress：WordPress/WordPress may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ WordPress/WordPress：WordPress/WordPress may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 94/100 |
-| stars | 92/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 92/100 |
 | topics | 0/100 |
+| outlook | 49/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

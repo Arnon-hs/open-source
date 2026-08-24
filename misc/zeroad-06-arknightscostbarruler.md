@@ -1,6 +1,6 @@
 # ZeroAd-06/ArknightsCostBarRuler
 
-[![Stars](https://img.shields.io/github/stars/ZeroAd-06/ArknightsCostBarRuler?style=flat-square&color=yellow)](https://github.com/ZeroAd-06/ArknightsCostBarRuler/stargazers) [![Forks](https://img.shields.io/github/forks/ZeroAd-06/ArknightsCostBarRuler?style=flat-square&color=blue)](https://github.com/ZeroAd-06/ArknightsCostBarRuler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZeroAd-06/ArknightsCostBarRuler?style=flat-square&color=yellow)](https://github.com/ZeroAd-06/ArknightsCostBarRuler/stargazers) [![Forks](https://img.shields.io/github/forks/ZeroAd-06/ArknightsCostBarRuler?style=flat-square&color=blue)](https://github.com/ZeroAd-06/ArknightsCostBarRuler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > 超好用的明日方舟费用条尺子！ Awesome Arknights Cost Bar Ruler!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ ZeroAd‑06/ArknightsCostBarRuler 是一款基于 Rust 实现的「明日方舟�
 | forks | 24/100 |
 | stars | 48/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

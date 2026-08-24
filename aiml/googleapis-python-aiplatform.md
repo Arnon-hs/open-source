@@ -1,6 +1,6 @@
 # googleapis/python-aiplatform
 
-[![Stars](https://img.shields.io/github/stars/googleapis/python-aiplatform?style=flat-square&color=yellow)](https://github.com/googleapis/python-aiplatform/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/python-aiplatform?style=flat-square&color=blue)](https://github.com/googleapis/python-aiplatform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/python-aiplatform?style=flat-square&color=yellow)](https://github.com/googleapis/python-aiplatform/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/python-aiplatform?style=flat-square&color=blue)](https://github.com/googleapis/python-aiplatform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A Python SDK for Vertex AI, a fully managed, end-to-end platform for data science and machine learning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 885 |
 | 🍴 **Forks** | 448 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ googleapis/python-aiplatform：googleapis/python-aiplatform helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 94/100 |
-| production | 59/100 |
-| outlook | 55/100 |
+| production | 53/100 |
+| outlook | 48/100 |
 | adoption | 64/100 |
 | stars | 63/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

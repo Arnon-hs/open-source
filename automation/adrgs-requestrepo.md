@@ -1,6 +1,6 @@
 # adrgs/requestrepo
 
-[![Stars](https://img.shields.io/github/stars/adrgs/requestrepo?style=flat-square&color=yellow)](https://github.com/adrgs/requestrepo/stargazers) [![Forks](https://img.shields.io/github/forks/adrgs/requestrepo?style=flat-square&color=blue)](https://github.com/adrgs/requestrepo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adrgs/requestrepo?style=flat-square&color=yellow)](https://github.com/adrgs/requestrepo/stargazers) [![Forks](https://img.shields.io/github/forks/adrgs/requestrepo?style=flat-square&color=blue)](https://github.com/adrgs/requestrepo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Analyze HTTP, DNS and SMTP requests and create custom responses and DNS records for your subdomain
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 524 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML
+Automation
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Overall, adrgs/requestrepo can quickly eliminate manual request‑handling chore
 | forks | 38/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

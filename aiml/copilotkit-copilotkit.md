@@ -1,6 +1,6 @@
 # CopilotKit/CopilotKit
 
-[![Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=flat-square&color=yellow)](https://github.com/CopilotKit/CopilotKit/stargazers) [![Forks](https://img.shields.io/github/forks/CopilotKit/CopilotKit?style=flat-square&color=blue)](https://github.com/CopilotKit/CopilotKit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=flat-square&color=yellow)](https://github.com/CopilotKit/CopilotKit/stargazers) [![Forks](https://img.shields.io/github/forks/CopilotKit/CopilotKit?style=flat-square&color=blue)](https://github.com/CopilotKit/CopilotKit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30.8k |
 | 🍴 **Forks** | 4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ CopilotKit/CopilotKit：CopilotKit/CopilotKit helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 82/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 69/100 |
-| adoption | 94/100 |
-| stars | 96/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

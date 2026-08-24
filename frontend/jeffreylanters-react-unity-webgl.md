@@ -1,6 +1,6 @@
 # jeffreylanters/react-unity-webgl
 
-[![Stars](https://img.shields.io/github/stars/jeffreylanters/react-unity-webgl?style=flat-square&color=yellow)](https://github.com/jeffreylanters/react-unity-webgl/stargazers) [![Forks](https://img.shields.io/github/forks/jeffreylanters/react-unity-webgl?style=flat-square&color=blue)](https://github.com/jeffreylanters/react-unity-webgl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeffreylanters/react-unity-webgl?style=flat-square&color=yellow)](https://github.com/jeffreylanters/react-unity-webgl/stargazers) [![Forks](https://img.shields.io/github/forks/jeffreylanters/react-unity-webgl?style=flat-square&color=blue)](https://github.com/jeffreylanters/react-unity-webgl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jeffreylanters/react-unity-webgl：jeffreylanters/react-unity-webgl helps ship u
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 51/100 |
+| outlook | 49/100 |
 | adoption | 66/100 |
 | stars | 70/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

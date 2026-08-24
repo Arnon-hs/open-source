@@ -1,6 +1,6 @@
 # adamlui/ai-web-extensions
 
-[![Stars](https://img.shields.io/github/stars/adamlui/ai-web-extensions?style=flat-square&color=yellow)](https://github.com/adamlui/ai-web-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/adamlui/ai-web-extensions?style=flat-square&color=blue)](https://github.com/adamlui/ai-web-extensions/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adamlui/ai-web-extensions?style=flat-square&color=yellow)](https://github.com/adamlui/ai-web-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/adamlui/ai-web-extensions?style=flat-square&color=blue)](https://github.com/adamlui/ai-web-extensions/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 AI browser extensions & userscripts to augment your web experience
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 542 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ adamlui/ai-web-extensions — это набор открытых браузе�
 
 ### 中文
 
-adamlui/ai-web-extensions：adamlui/ai-web-extensions helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+adamlui/ai-web-extensions：adamlui/ai-web-extensions helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ adamlui/ai-web-extensions：adamlui/ai-web-extensions helps add AI capability wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ adamlui/ai-web-extensions：adamlui/ai-web-extensions helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 56/100 |
-| adoption | 54/100 |
-| stars | 58/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

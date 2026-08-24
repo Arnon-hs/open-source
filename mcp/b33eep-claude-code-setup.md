@@ -1,6 +1,6 @@
 # b33eep/claude-code-setup
 
-[![Stars](https://img.shields.io/github/stars/b33eep/claude-code-setup?style=flat-square&color=yellow)](https://github.com/b33eep/claude-code-setup/stargazers) [![Forks](https://img.shields.io/github/forks/b33eep/claude-code-setup?style=flat-square&color=blue)](https://github.com/b33eep/claude-code-setup/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/b33eep/claude-code-setup?style=flat-square&color=yellow)](https://github.com/b33eep/claude-code-setup/stargazers) [![Forks](https://img.shields.io/github/forks/b33eep/claude-code-setup?style=flat-square&color=blue)](https://github.com/b33eep/claude-code-setup/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory system for Claude Code via Markdown. Setup with /init-project, resume with /catchup, wrap with /wrapup. Includes coding standards, MCP   servers, and modular skills. Solves context loss after /clear.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Product
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ b33eep/claude-code-setup 是一个基于 Markdown 的持久化记忆系统，专
 | forks | 21/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

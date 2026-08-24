@@ -1,6 +1,6 @@
 # generalaction/emdash
 
-[![Stars](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square&color=yellow)](https://github.com/generalaction/emdash/stargazers) [![Forks](https://img.shields.io/github/forks/generalaction/emdash?style=flat-square&color=blue)](https://github.com/generalaction/emdash/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square&color=yellow)](https://github.com/generalaction/emdash/stargazers) [![Forks](https://img.shields.io/github/forks/generalaction/emdash?style=flat-square&color=blue)](https://github.com/generalaction/emdash/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 515 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Emdash（generalaction/emdash）是一个开源的 *Agentic Development Environm
 | forks | 68/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

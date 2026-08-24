@@ -1,6 +1,6 @@
 # maplibre/martin
 
-[![Stars](https://img.shields.io/github/stars/maplibre/martin?style=flat-square&color=yellow)](https://github.com/maplibre/martin/stargazers) [![Forks](https://img.shields.io/github/forks/maplibre/martin?style=flat-square&color=blue)](https://github.com/maplibre/martin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maplibre/martin?style=flat-square&color=yellow)](https://github.com/maplibre/martin/stargazers) [![Forks](https://img.shields.io/github/forks/maplibre/martin?style=flat-square&color=blue)](https://github.com/maplibre/martin/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 355 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ maplibre/martin：maplibre/martin helps teams reuse service infrastructure inste
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 72/100 |
 | stars | 76/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

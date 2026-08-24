@@ -1,0 +1,77 @@
+# jher7/tokenyst
+
+[![Stars](https://img.shields.io/github/stars/jher7/tokenyst?style=flat-square&color=yellow)](https://github.com/jher7/tokenyst/stargazers) [![Forks](https://img.shields.io/github/forks/jher7/tokenyst?style=flat-square&color=blue)](https://github.com/jher7/tokenyst/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+
+> Discovered from Hacker News (github-mentions)
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 36/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | hackernews |
+
+## 🏷️ Topics
+
+`hn` `github-mentions`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+A lightweight command‑line tool that tracks and budgets the cost of Claude AI code‑generation sessions, letting developers monitor usage in real time and set spending limits. It parses Claude’s API responses, calculates token‑based expenses, and provides simple reports and alerts to help keep AI‑assisted development within budget.
+
+### Русский
+
+CLI‑утилита Show HN позволяет быстро узнать и контролировать расходы на сессии Claude Code, автоматически собирая данные о затратах из упоминаний на Hacker News (github‑mentions). Инструмент ориентирован на разработчиков, которым нужен простой способ мониторинга расходов при работе с Claude, и легко интегрируется в любые скрипты и CI‑pipelines. Open‑source проект доступен в репозитории и приглашает к доработке.
+
+### 中文
+
+Show HN: CLI to budget Claude Code session costs：Show HN: CLI to budget Claude Code session costs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** Show HN: CLI to budget Claude Code session costs may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- updated 2026-05-09
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 25/100 |
+| outlook | 29/100 |
+| quality | 21/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 34/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 80/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/jher7/tokenyst) · [← Back to Misc](./README.md)</sub>

@@ -1,6 +1,6 @@
 # boshu2/agentops
 
-[![Stars](https://img.shields.io/github/stars/boshu2/agentops?style=flat-square&color=yellow)](https://github.com/boshu2/agentops/stargazers) [![Forks](https://img.shields.io/github/forks/boshu2/agentops?style=flat-square&color=blue)](https://github.com/boshu2/agentops/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/boshu2/agentops?style=flat-square&color=yellow)](https://github.com/boshu2/agentops/stargazers) [![Forks](https://img.shields.io/github/forks/boshu2/agentops?style=flat-square&color=blue)](https://github.com/boshu2/agentops/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The operational layer for coding agents. Memory, validation, and feedback loops that compound between sessions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ boshu2/agentops：boshu2/agentops helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 49/100 |
-| stars | 54/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

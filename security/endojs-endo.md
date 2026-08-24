@@ -1,0 +1,84 @@
+# endojs/endo
+
+[![Stars](https://img.shields.io/github/stars/endojs/endo?style=flat-square&color=yellow)](https://github.com/endojs/endo/stargazers) [![Forks](https://img.shields.io/github/forks/endojs/endo?style=flat-square&color=blue)](https://github.com/endojs/endo/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+
+> Endo is a distributed secure JavaScript sandbox, based on SES
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1k |
+| 🍴 **Forks** | 86 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-05-07 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`capabilities` `captp` `hardened` `javascript` `multi-tenant` `ocaps` `powerbox` `prototype-pollution` `sandbox` `security` `supply-chain`
+
+## 🎯 Categories
+
+Security
+
+## 📝 Summary
+
+### English
+
+Endo is an open-source, distributed secure JavaScript sandbox that leverages the SES (Secure Execution Sandbox) framework to provide a robust environment for executing JavaScript code safely. This project enables secure testing and evaluation of JavaScript code, making it an essential tool for AI/ML developers and security researchers. By utilizing Endo, users can execute JavaScript code in a sandboxed environment, reducing the risk of security vulnerabilities and malicious code execution.
+
+### Русский
+
+Резюме:
+
+Эндо - это распределенная безопасная среда JavaScript, основанная на SES (Secure ECMAScript). Этот проект предназначен для обеспечения безопасной и надежной экзекуции JavaScript-кода, используя принципы распределенной вычислимитности и защиты данных. Endo ориентирован на применение в области искусственного интеллекта и машинного обучения, где безопасность и надежность являются приоритетными факторами.
+
+### 中文
+
+endojs/endo：endojs/endo helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** endojs/endo helps catch security and privacy issues earlier in the workflow.
+
+**Best use cases**
+
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1012 GitHub stars
+- 86 forks
+- updated 2026-05-07
+- primary language: JavaScript
+- 11 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 48/100 |
+| stars | 64/100 |
+| topics | 100/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/endojs/endo) · [← Back to Security](./README.md)</sub>

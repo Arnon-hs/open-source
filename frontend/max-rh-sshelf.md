@@ -1,6 +1,6 @@
 # max-rh/sshelf
 
-[![Stars](https://img.shields.io/github/stars/max-rh/sshelf?style=flat-square&color=yellow)](https://github.com/max-rh/sshelf/stargazers) [![Forks](https://img.shields.io/github/forks/max-rh/sshelf?style=flat-square&color=blue)](https://github.com/max-rh/sshelf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/max-rh/sshelf?style=flat-square&color=yellow)](https://github.com/max-rh/sshelf/stargazers) [![Forks](https://img.shields.io/github/forks/max-rh/sshelf?style=flat-square&color=blue)](https://github.com/max-rh/sshelf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Fast terminal UI for your SSH hosts: fuzzy-search and connect in two keystrokes, dual-pane SFTP file transfer, and background port forwarding. Keeps its own host database and generates the ssh command — never edits ~/.ssh/config.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Data · Database
+Frontend · DevTools · Database
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ max‑rh/sshelf is a fast, Rust‑based terminal UI for managing SSH hosts. It l
 | forks | 23/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

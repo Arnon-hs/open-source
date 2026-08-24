@@ -1,0 +1,80 @@
+# rainbowpigeon/sublime-text-4-patcher
+
+[![Stars](https://img.shields.io/github/stars/rainbowpigeon/sublime-text-4-patcher?style=flat-square&color=yellow)](https://github.com/rainbowpigeon/sublime-text-4-patcher/stargazers) [![Forks](https://img.shields.io/github/forks/rainbowpigeon/sublime-text-4-patcher?style=flat-square&color=blue)](https://github.com/rainbowpigeon/sublime-text-4-patcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+
+> Python 3 patcher for Sublime Text v4107-4205 Windows x64
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 302 |
+| 🍴 **Forks** | 69 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`patch` `patcher` `python` `python3`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+rainbowpigeon’s **sublime-text-4-patcher** is a lightweight Python 3 utility that modifies Sublime Text 4 builds 4107‑4205 for 64‑bit Windows, enabling custom patches and fixes without rebuilding the editor from source. It automates the injection of binary patches, streamlines version‑specific adjustments, and provides clear command‑line options for developers who need to tailor their Sublime Text installation.
+
+### Русский
+
+rainbowpigeon/sublime-text-4-patcher — это лёгкий Python 3‑скрипт, предназначенный для применения патчей к 64‑битным сборкам Sublime Text 4 (версии 4107‑4205) под Windows. Он автоматизирует процесс модификации бинарных файлов, позволяя быстро включать новые возможности или исправления без пересборки редактора. Проект открытый, легко настраиваемый и подходит как для разработчиков, так и для пользователей, желающих расширить функциональность Sublime Text.
+
+### 中文
+
+rainbowpigeon/sublime-text-4-patcher：rainbowpigeon/sublime-text-4-patcher may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** rainbowpigeon/sublime-text-4-patcher may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 302 GitHub stars
+- 69 forks
+- updated 2026-05-10
+- primary language: Python
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 46/100 |
+| stars | 53/100 |
+| topics | 50/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rainbowpigeon/sublime-text-4-patcher) · [← Back to Misc](./README.md)</sub>

@@ -1,6 +1,6 @@
 # rust-lang/triagebot
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/triagebot?style=flat-square&color=yellow)](https://github.com/rust-lang/triagebot/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/triagebot?style=flat-square&color=blue)](https://github.com/rust-lang/triagebot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/triagebot?style=flat-square&color=yellow)](https://github.com/rust-lang/triagebot/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/triagebot?style=flat-square&color=blue)](https://github.com/rust-lang/triagebot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Automation/tooling for Rust spaces
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ rust-lang/triagebot：rust-lang/triagebot helps engineers save time in daily dev
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 51/100 |
+| production | 42/100 |
+| outlook | 44/100 |
 | adoption | 50/100 |
 | stars | 50/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

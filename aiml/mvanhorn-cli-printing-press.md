@@ -1,6 +1,6 @@
 # mvanhorn/cli-printing-press
 
-[![Stars](https://img.shields.io/github/stars/mvanhorn/cli-printing-press?style=flat-square&color=yellow)](https://github.com/mvanhorn/cli-printing-press/stargazers) [![Forks](https://img.shields.io/github/forks/mvanhorn/cli-printing-press?style=flat-square&color=blue)](https://github.com/mvanhorn/cli-printing-press/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mvanhorn/cli-printing-press?style=flat-square&color=yellow)](https://github.com/mvanhorn/cli-printing-press/stargazers) [![Forks](https://img.shields.io/github/forks/mvanhorn/cli-printing-press?style=flat-square&color=blue)](https://github.com/mvanhorn/cli-printing-press/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mvanhorn/cli-printing-press: mvanhorn/cli-printing-press helps add AI capability
 
 ### Русский
 
-mvanhorn/cli-printing-press: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mvanhorn/cli-printing-press: open-source проект в категориях AI/ML, DevTools, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ mvanhorn/cli-printing-press：mvanhorn/cli-printing-press helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 62/100 |
-| adoption | 40/100 |
-| stars | 48/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 48/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

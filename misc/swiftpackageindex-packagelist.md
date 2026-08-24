@@ -1,6 +1,6 @@
 # SwiftPackageIndex/PackageList
 
-[![Stars](https://img.shields.io/github/stars/SwiftPackageIndex/PackageList?style=flat-square&color=yellow)](https://github.com/SwiftPackageIndex/PackageList/stargazers) [![Forks](https://img.shields.io/github/forks/SwiftPackageIndex/PackageList?style=flat-square&color=blue)](https://github.com/SwiftPackageIndex/PackageList/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SwiftPackageIndex/PackageList?style=flat-square&color=yellow)](https://github.com/SwiftPackageIndex/PackageList/stargazers) [![Forks](https://img.shields.io/github/forks/SwiftPackageIndex/PackageList?style=flat-square&color=blue)](https://github.com/SwiftPackageIndex/PackageList/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > The canonical list of repositories indexed by the Swift Package Index
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 837 |
 | 🍴 **Forks** | 632 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SwiftPackageIndex/PackageList — это открытый репозитори
 
 ### 中文
 
-SwiftPackageIndex/PackageList：SwiftPackageIndex/PackageList may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SwiftPackageIndex/PackageList：SwiftPackageIndex/PackageList may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ SwiftPackageIndex/PackageList：SwiftPackageIndex/PackageList may be useful when
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ SwiftPackageIndex/PackageList：SwiftPackageIndex/PackageList may be useful when
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 64/100 |
-| stars | 62/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 25/100 |
+| outlook | 44/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

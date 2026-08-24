@@ -1,6 +1,6 @@
 # Dicklesworthstone/frankenterm
 
-[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/frankenterm?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/frankenterm/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/frankenterm?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/frankenterm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dicklesworthstone/frankenterm?style=flat-square&color=yellow)](https://github.com/Dicklesworthstone/frankenterm/stargazers) [![Forks](https://img.shields.io/github/forks/Dicklesworthstone/frankenterm?style=flat-square&color=blue)](https://github.com/Dicklesworthstone/frankenterm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Dicklesworthstone/frankenterm — это open‑source гипервизор т
 
 ### 中文
 
-Dicklesworthstone/frankenterm：Dicklesworthstone/frankenterm helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Dicklesworthstone/frankenterm：Dicklesworthstone/frankenterm helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Dicklesworthstone/frankenterm：Dicklesworthstone/frankenterm helps turn isolate
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Dicklesworthstone/frankenterm：Dicklesworthstone/frankenterm helps turn isolate
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 57/100 |
-| adoption | 37/100 |
-| stars | 41/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| stars | 41/100 |
 | topics | 63/100 |
+| outlook | 50/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 45/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

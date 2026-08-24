@@ -1,6 +1,6 @@
 # jiangxinke/Agentic-RAG-R1
 
-[![Stars](https://img.shields.io/github/stars/jiangxinke/Agentic-RAG-R1?style=flat-square&color=yellow)](https://github.com/jiangxinke/Agentic-RAG-R1/stargazers) [![Forks](https://img.shields.io/github/forks/jiangxinke/Agentic-RAG-R1?style=flat-square&color=blue)](https://github.com/jiangxinke/Agentic-RAG-R1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jiangxinke/Agentic-RAG-R1?style=flat-square&color=yellow)](https://github.com/jiangxinke/Agentic-RAG-R1/stargazers) [![Forks](https://img.shields.io/github/forks/jiangxinke/Agentic-RAG-R1?style=flat-square&color=blue)](https://github.com/jiangxinke/Agentic-RAG-R1/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic RAG R1 Framework via Reinforcement Learning
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 420 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Education
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Agentic‑RAG‑R1（jiangxinke/Agentic‑RAG‑R1）是一套基于强化学习
 | forks | 43/100 |
 | stars | 56/100 |
 | topics | 50/100 |
-| outlook | 81/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

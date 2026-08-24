@@ -1,6 +1,6 @@
 # agentculture/culture
 
-[![Stars](https://img.shields.io/github/stars/agentculture/culture?style=flat-square&color=yellow)](https://github.com/agentculture/culture/stargazers) [![Forks](https://img.shields.io/github/forks/agentculture/culture?style=flat-square&color=blue)](https://github.com/agentculture/culture/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentculture/culture?style=flat-square&color=yellow)](https://github.com/agentculture/culture/stargazers) [![Forks](https://img.shields.io/github/forks/agentculture/culture?style=flat-square&color=blue)](https://github.com/agentculture/culture/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The professional workspace for humans and AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AgentCulture (Culture) is an open‑source platform that creates a shared, pro
 
 ### 中文
 
-agentculture/culture：agentculture/culture helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+agentculture/culture：agentculture/culture helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ agentculture/culture：agentculture/culture helps turn isolated prompts and tool
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ agentculture/culture：agentculture/culture helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 35/100 |
-| stars | 41/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 41/100 |
 | topics | 75/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

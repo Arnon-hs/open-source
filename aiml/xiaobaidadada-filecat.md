@@ -1,6 +1,6 @@
 # xiaobaidadada/filecat
 
-[![Stars](https://img.shields.io/github/stars/xiaobaidadada/filecat?style=flat-square&color=yellow)](https://github.com/xiaobaidadada/filecat/stargazers) [![Forks](https://img.shields.io/github/forks/xiaobaidadada/filecat?style=flat-square&color=blue)](https://github.com/xiaobaidadada/filecat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiaobaidadada/filecat?style=flat-square&color=yellow)](https://github.com/xiaobaidadada/filecat/stargazers) [![Forks](https://img.shields.io/github/forks/xiaobaidadada/filecat?style=flat-square&color=blue)](https://github.com/xiaobaidadada/filecat/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 📂 Web File Browser | Server Manager |  Server Ai Agent | 文件服务器 | 内网穿透
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 95 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ xiaobaidadada/filecat 是一款基于 Web 的文件浏览与服务器管理平�
 | forks | 28/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

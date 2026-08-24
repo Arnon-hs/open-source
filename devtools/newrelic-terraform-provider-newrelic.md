@@ -1,6 +1,6 @@
 # newrelic/terraform-provider-newrelic
 
-[![Stars](https://img.shields.io/github/stars/newrelic/terraform-provider-newrelic?style=flat-square&color=yellow)](https://github.com/newrelic/terraform-provider-newrelic/stargazers) [![Forks](https://img.shields.io/github/forks/newrelic/terraform-provider-newrelic?style=flat-square&color=blue)](https://github.com/newrelic/terraform-provider-newrelic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/newrelic/terraform-provider-newrelic?style=flat-square&color=yellow)](https://github.com/newrelic/terraform-provider-newrelic/stargazers) [![Forks](https://img.shields.io/github/forks/newrelic/terraform-provider-newrelic?style=flat-square&color=blue)](https://github.com/newrelic/terraform-provider-newrelic/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform provider for New Relic
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 289 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ The newrelic/terraform-provider-newrelic project provides an open-source Terrafo
 
 ### 中文
 
-newrelic/terraform-provider-newrelic：newrelic/terraform-provider-newrelic helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+newrelic/terraform-provider-newrelic：newrelic/terraform-provider-newrelic helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ newrelic/terraform-provider-newrelic：newrelic/terraform-provider-newrelic help
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,16 +67,16 @@ newrelic/terraform-provider-newrelic：newrelic/terraform-provider-newrelic help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 53/100 |
-| stars | 50/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 50/100 |
 | topics | 75/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

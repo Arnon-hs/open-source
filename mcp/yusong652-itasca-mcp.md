@@ -1,6 +1,6 @@
 # yusong652/itasca-mcp
 
-[![Stars](https://img.shields.io/github/stars/yusong652/itasca-mcp?style=flat-square&color=yellow)](https://github.com/yusong652/itasca-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/yusong652/itasca-mcp?style=flat-square&color=blue)](https://github.com/yusong652/itasca-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yusong652/itasca-mcp?style=flat-square&color=yellow)](https://github.com/yusong652/itasca-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/yusong652/itasca-mcp?style=flat-square&color=blue)](https://github.com/yusong652/itasca-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server connecting AI agents to ITASCA PFC — run DEM simulations through natural conversation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ yusong652/itasca-mcp 是一个基于 Model Context Protocol（MCP）的服务器
 | forks | 27/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

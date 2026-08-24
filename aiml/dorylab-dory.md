@@ -1,6 +1,6 @@
 # dorylab/dory
 
-[![Stars](https://img.shields.io/github/stars/dorylab/dory?style=flat-square&color=yellow)](https://github.com/dorylab/dory/stargazers) [![Forks](https://img.shields.io/github/forks/dorylab/dory?style=flat-square&color=blue)](https://github.com/dorylab/dory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dorylab/dory?style=flat-square&color=yellow)](https://github.com/dorylab/dory/stargazers) [![Forks](https://img.shields.io/github/forks/dorylab/dory?style=flat-square&color=blue)](https://github.com/dorylab/dory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native SQL workspace for modern databases. SQL Copilot, schema-aware editor, database chat, and operational tools in one place.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 160 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Frontend · DevTools · Data · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dorylab/dory：dorylab/dory helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 42/100 |
-| stars | 47/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| stars | 47/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

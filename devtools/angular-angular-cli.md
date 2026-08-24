@@ -1,6 +1,6 @@
 # angular/angular-cli
 
-[![Stars](https://img.shields.io/github/stars/angular/angular-cli?style=flat-square&color=yellow)](https://github.com/angular/angular-cli/stargazers) [![Forks](https://img.shields.io/github/forks/angular/angular-cli?style=flat-square&color=blue)](https://github.com/angular/angular-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/angular/angular-cli?style=flat-square&color=yellow)](https://github.com/angular/angular-cli/stargazers) [![Forks](https://img.shields.io/github/forks/angular/angular-cli?style=flat-square&color=blue)](https://github.com/angular/angular-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for Angular
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27k |
 | 🍴 **Forks** | 11.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ angular/angular-cli：angular/angular-cli helps engineers save time in daily dev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 68/100 |
-| adoption | 96/100 |
-| stars | 94/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 94/100 |
 | topics | 50/100 |
+| outlook | 61/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

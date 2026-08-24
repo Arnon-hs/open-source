@@ -1,6 +1,6 @@
 # tagspaces/tagspaces
 
-[![Stars](https://img.shields.io/github/stars/tagspaces/tagspaces?style=flat-square&color=yellow)](https://github.com/tagspaces/tagspaces/stargazers) [![Forks](https://img.shields.io/github/forks/tagspaces/tagspaces?style=flat-square&color=blue)](https://github.com/tagspaces/tagspaces/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tagspaces/tagspaces?style=flat-square&color=yellow)](https://github.com/tagspaces/tagspaces/stargazers) [![Forks](https://img.shields.io/github/forks/tagspaces/tagspaces?style=flat-square&color=blue)](https://github.com/tagspaces/tagspaces/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > TagSpaces is an offline, open source, document manager with tagging support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 504 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ TagSpaces（tagspaces/tagspaces）是一款离线、开源的文档管理工具�
 | forks | 68/100 |
 | stars | 79/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 76/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

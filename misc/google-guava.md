@@ -1,6 +1,6 @@
 # google/guava
 
-[![Stars](https://img.shields.io/github/stars/google/guava?style=flat-square&color=yellow)](https://github.com/google/guava/stargazers) [![Forks](https://img.shields.io/github/forks/google/guava?style=flat-square&color=blue)](https://github.com/google/guava/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/guava?style=flat-square&color=yellow)](https://github.com/google/guava/stargazers) [![Forks](https://img.shields.io/github/forks/google/guava?style=flat-square&color=blue)](https://github.com/google/guava/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Google core libraries for Java
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 51.5k |
 | 🍴 **Forks** | 11.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -73,14 +73,15 @@ Google Guava 是 Google 为 Java 提供的核心工具库，涵盖集合、缓�
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 25/100 |
-| outlook | 81/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

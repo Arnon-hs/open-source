@@ -1,6 +1,6 @@
 # iagooar/qqqa
 
-[![Stars](https://img.shields.io/github/stars/iagooar/qqqa?style=flat-square&color=yellow)](https://github.com/iagooar/qqqa/stargazers) [![Forks](https://img.shields.io/github/forks/iagooar/qqqa?style=flat-square&color=blue)](https://github.com/iagooar/qqqa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iagooar/qqqa?style=flat-square&color=yellow)](https://github.com/iagooar/qqqa/stargazers) [![Forks](https://img.shields.io/github/forks/iagooar/qqqa?style=flat-square&color=blue)](https://github.com/iagooar/qqqa/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, stateless LLM for your shell: qq answers; qa runs commands
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 620 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ iagooar/qqqa 是一个基于 Rust 实现的超轻量、无状态大语言模型�
 | forks | 34/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

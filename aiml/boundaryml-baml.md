@@ -1,6 +1,6 @@
 # BoundaryML/baml
 
-[![Stars](https://img.shields.io/github/stars/BoundaryML/baml?style=flat-square&color=yellow)](https://github.com/BoundaryML/baml/stargazers) [![Forks](https://img.shields.io/github/forks/BoundaryML/baml?style=flat-square&color=blue)](https://github.com/BoundaryML/baml/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BoundaryML/baml?style=flat-square&color=yellow)](https://github.com/BoundaryML/baml/stargazers) [![Forks](https://img.shields.io/github/forks/BoundaryML/baml?style=flat-square&color=blue)](https://github.com/BoundaryML/baml/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 418 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ BoundaryML/baml：BoundaryML/baml helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
+| usefulness | 74/100 |
+| quality | 70/100 |
 | integration | 78/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 78/100 |
 | stars | 83/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

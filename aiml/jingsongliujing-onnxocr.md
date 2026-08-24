@@ -1,6 +1,6 @@
 # jingsongliujing/OnnxOCR
 
-[![Stars](https://img.shields.io/github/stars/jingsongliujing/OnnxOCR?style=flat-square&color=yellow)](https://github.com/jingsongliujing/OnnxOCR/stargazers) [![Forks](https://img.shields.io/github/forks/jingsongliujing/OnnxOCR?style=flat-square&color=blue)](https://github.com/jingsongliujing/OnnxOCR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jingsongliujing/OnnxOCR?style=flat-square&color=yellow)](https://github.com/jingsongliujing/OnnxOCR/stargazers) [![Forks](https://img.shields.io/github/forks/jingsongliujing/OnnxOCR?style=flat-square&color=blue)](https://github.com/jingsongliujing/OnnxOCR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 基于PaddleOCR重构，并且脱离PaddlePaddle深度学习训练框架的轻量级OCR，推理速度超快   ——  A lightweight OCR system based on PaddleOCR, decoupled from the PaddlePaddle deep learning training framework, with ultra-fast inference speed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 195 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jingsongliujing/OnnxOCR：jingsongliujing/OnnxOCR helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

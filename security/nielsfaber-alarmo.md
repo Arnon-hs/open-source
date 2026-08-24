@@ -1,6 +1,6 @@
 # nielsfaber/alarmo
 
-[![Stars](https://img.shields.io/github/stars/nielsfaber/alarmo?style=flat-square&color=yellow)](https://github.com/nielsfaber/alarmo/stargazers) [![Forks](https://img.shields.io/github/forks/nielsfaber/alarmo?style=flat-square&color=blue)](https://github.com/nielsfaber/alarmo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nielsfaber/alarmo?style=flat-square&color=yellow)](https://github.com/nielsfaber/alarmo/stargazers) [![Forks](https://img.shields.io/github/forks/nielsfaber/alarmo?style=flat-square&color=blue)](https://github.com/nielsfaber/alarmo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Easy to use alarm system integration for Home Assistant
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ nielsfaber/alarmo：nielsfaber/alarmo helps catch security and privacy issues ea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 66/100 |
-| stars | 71/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| stars | 71/100 |
 | topics | 88/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

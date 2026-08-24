@@ -1,6 +1,6 @@
 # stacklok/toolhive
 
-[![Stars](https://img.shields.io/github/stars/stacklok/toolhive?style=flat-square&color=yellow)](https://github.com/stacklok/toolhive/stargazers) [![Forks](https://img.shields.io/github/forks/stacklok/toolhive?style=flat-square&color=blue)](https://github.com/stacklok/toolhive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stacklok/toolhive?style=flat-square&color=yellow)](https://github.com/stacklok/toolhive/stargazers) [![Forks](https://img.shields.io/github/forks/stacklok/toolhive?style=flat-square&color=blue)](https://github.com/stacklok/toolhive/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 213 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stacklok/toolhive：stacklok/toolhive helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 66/100 |
 | stars | 69/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

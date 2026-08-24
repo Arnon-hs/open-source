@@ -1,6 +1,6 @@
 # runmat-org/runmat
 
-[![Stars](https://img.shields.io/github/stars/runmat-org/runmat?style=flat-square&color=yellow)](https://github.com/runmat-org/runmat/stargazers) [![Forks](https://img.shields.io/github/forks/runmat-org/runmat?style=flat-square&color=blue)](https://github.com/runmat-org/runmat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runmat-org/runmat?style=flat-square&color=yellow)](https://github.com/runmat-org/runmat/stargazers) [![Forks](https://img.shields.io/github/forks/runmat-org/runmat?style=flat-square&color=blue)](https://github.com/runmat-org/runmat/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source runtime for math. Write MATLAB syntax, run on CPU + GPU automatically. Install via CLI, embed via NPM, or try instantly in the browser — no account needed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Runmat — это открытый runtime, позволяющий писат�
 
 ### 中文
 
-runmat-org/runmat：runmat-org/runmat helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+runmat-org/runmat：runmat-org/runmat helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ runmat-org/runmat：runmat-org/runmat helps engineers save time in daily develop
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ runmat-org/runmat：runmat-org/runmat helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 42/100 |
 | stars | 49/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # learning-rust/learning-rust.github.io
 
-[![Stars](https://img.shields.io/github/stars/learning-rust/learning-rust.github.io?style=flat-square&color=yellow)](https://github.com/learning-rust/learning-rust.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/learning-rust/learning-rust.github.io?style=flat-square&color=blue)](https://github.com/learning-rust/learning-rust.github.io/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/learning-rust/learning-rust.github.io?style=flat-square&color=yellow)](https://github.com/learning-rust/learning-rust.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/learning-rust/learning-rust.github.io?style=flat-square&color=blue)](https://github.com/learning-rust/learning-rust.github.io/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Rust Programming Language Tutorials for Everyone!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ learning‑rust/learning‑rust.github.io 汇聚了大量真实可运行的 Rust
 | forks | 57/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

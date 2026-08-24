@@ -1,6 +1,6 @@
 # FalkorDB/falkordb-browser
 
-[![Stars](https://img.shields.io/github/stars/FalkorDB/falkordb-browser?style=flat-square&color=yellow)](https://github.com/FalkorDB/falkordb-browser/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/falkordb-browser?style=flat-square&color=blue)](https://github.com/FalkorDB/falkordb-browser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FalkorDB/falkordb-browser?style=flat-square&color=yellow)](https://github.com/FalkorDB/falkordb-browser/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/falkordb-browser?style=flat-square&color=blue)](https://github.com/FalkorDB/falkordb-browser/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > FalkorDB-Browser is a visualization UI for FalkorDB.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ FalkorDB‑Browser 是 FalkorDB 的可视化前端 UI，基于 TypeScript 实现
 | forks | 36/100 |
 | stars | 44/100 |
 | topics | 50/100 |
-| outlook | 69/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

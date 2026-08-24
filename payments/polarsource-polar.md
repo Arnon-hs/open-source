@@ -1,6 +1,6 @@
 # polarsource/polar
 
-[![Stars](https://img.shields.io/github/stars/polarsource/polar?style=flat-square&color=yellow)](https://github.com/polarsource/polar/stargazers) [![Forks](https://img.shields.io/github/forks/polarsource/polar?style=flat-square&color=blue)](https://github.com/polarsource/polar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/polarsource/polar?style=flat-square&color=yellow)](https://github.com/polarsource/polar/stargazers) [![Forks](https://img.shields.io/github/forks/polarsource/polar?style=flat-square&color=blue)](https://github.com/polarsource/polar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your software into a business.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 706 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · Backend
+Payments · Frontend · Product
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ polarsource/polar: polarsource/polar helps integrate monetization, billing, or P
 
 ### Русский
 
-polarsource/polar: open-source проект в категориях Payments, Frontend, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+polarsource/polar: open-source проект в категориях Payments, Frontend, Product. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ polarsource/polar：polarsource/polar helps integrate monetization, billing, or 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 78/100 |
-| production | 65/100 |
-| outlook | 66/100 |
-| adoption | 81/100 |
-| stars | 85/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

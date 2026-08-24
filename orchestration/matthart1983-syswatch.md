@@ -1,6 +1,6 @@
 # matthart1983/syswatch
 
-[![Stars](https://img.shields.io/github/stars/matthart1983/syswatch?style=flat-square&color=yellow)](https://github.com/matthart1983/syswatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/syswatch?style=flat-square&color=blue)](https://github.com/matthart1983/syswatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matthart1983/syswatch?style=flat-square&color=yellow)](https://github.com/matthart1983/syswatch/stargazers) [![Forks](https://img.shields.io/github/forks/matthart1983/syswatch?style=flat-square&color=blue)](https://github.com/matthart1983/syswatch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 399 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ matthart1983/syswatch：matthart1983/syswatch helps turn isolated prompts and to
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 45/100 |
+| production | 41/100 |
+| outlook | 38/100 |
 | adoption | 48/100 |
 | stars | 55/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

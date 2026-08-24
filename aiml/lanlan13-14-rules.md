@@ -1,6 +1,6 @@
 # Lanlan13-14/Rules
 
-[![Stars](https://img.shields.io/github/stars/Lanlan13-14/Rules?style=flat-square&color=yellow)](https://github.com/Lanlan13-14/Rules/stargazers) [![Forks](https://img.shields.io/github/forks/Lanlan13-14/Rules?style=flat-square&color=blue)](https://github.com/Lanlan13-14/Rules/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Lanlan13-14/Rules?style=flat-square&color=yellow)](https://github.com/Lanlan13-14/Rules/stargazers) [![Forks](https://img.shields.io/github/forks/Lanlan13-14/Rules?style=flat-square&color=blue)](https://github.com/Lanlan13-14/Rules/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > 适用于Mihomo/Stash客户端的Yaml配置文件
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 553 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -57,21 +57,21 @@ Lanlan13-14/Rules：Lanlan13-14/Rules helps add AI capability without starting f
 - 71 forks
 - updated 2026-05-09
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 46/100 |
+| production | 42/100 |
+| outlook | 39/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

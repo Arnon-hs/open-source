@@ -1,6 +1,6 @@
 # openclaw/wacli
 
-[![Stars](https://img.shields.io/github/stars/openclaw/wacli?style=flat-square&color=yellow)](https://github.com/openclaw/wacli/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw/wacli?style=flat-square&color=blue)](https://github.com/openclaw/wacli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openclaw/wacli?style=flat-square&color=yellow)](https://github.com/openclaw/wacli/stargazers) [![Forks](https://img.shields.io/github/forks/openclaw/wacli?style=flat-square&color=blue)](https://github.com/openclaw/wacli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > WhatsApp CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ openclaw/wacli：openclaw/wacli helps engineers save time in daily development a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 56/100 |
-| adoption | 68/100 |
-| stars | 71/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 71/100 |
 | topics | 38/100 |
+| outlook | 49/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

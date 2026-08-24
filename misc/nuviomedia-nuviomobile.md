@@ -1,6 +1,6 @@
 # NuvioMedia/NuvioMobile
 
-[![Stars](https://img.shields.io/github/stars/NuvioMedia/NuvioMobile?style=flat-square&color=yellow)](https://github.com/NuvioMedia/NuvioMobile/stargazers) [![Forks](https://img.shields.io/github/forks/NuvioMedia/NuvioMobile?style=flat-square&color=blue)](https://github.com/NuvioMedia/NuvioMobile/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NuvioMedia/NuvioMobile?style=flat-square&color=yellow)](https://github.com/NuvioMedia/NuvioMobile/stargazers) [![Forks](https://img.shields.io/github/forks/NuvioMedia/NuvioMobile?style=flat-square&color=blue)](https://github.com/NuvioMedia/NuvioMobile/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Official Nuvio Mobile Repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 290 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ NuvioMobile 是 Nuvio Media 官方发布的 Android 客户端代码库，使用 
 | forks | 62/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

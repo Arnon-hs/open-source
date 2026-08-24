@@ -1,6 +1,6 @@
 # ScrapeGraphAI/Scrapegraph-ai
 
-[![Stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&color=yellow)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&color=blue)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&color=yellow)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ScrapeGraphAI/Scrapegraph-ai?style=flat-square&color=blue)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Python scraper based on AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24.9k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ScrapeGraphAI/Scrapegraph-ai：ScrapeGraphAI/Scrapegraph-ai helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 72/100 |
+| production | 58/100 |
+| outlook | 65/100 |
 | adoption | 91/100 |
 | stars | 94/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Nubaeon/empirica
 
-[![Stars](https://img.shields.io/github/stars/Nubaeon/empirica?style=flat-square&color=yellow)](https://github.com/Nubaeon/empirica/stargazers) [![Forks](https://img.shields.io/github/forks/Nubaeon/empirica?style=flat-square&color=blue)](https://github.com/Nubaeon/empirica/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nubaeon/empirica?style=flat-square&color=yellow)](https://github.com/Nubaeon/empirica/stargazers) [![Forks](https://img.shields.io/github/forks/Nubaeon/empirica?style=flat-square&color=blue)](https://github.com/Nubaeon/empirica/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Make AI agents and AI workflows measurably reliable. Epistemic measurement, Noetic RAG, Sentinel gating, and grounded calibration for Claude Code  and beyond
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 223 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ Nubaeon/empirica 为 AI 代理和工作流提供可量化的可靠性保障，�
 | forks | 36/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 46/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

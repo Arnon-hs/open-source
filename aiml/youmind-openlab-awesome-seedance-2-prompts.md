@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-seedance-2-prompts
 
-[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-prompts?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-seedance-2-prompts?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-seedance-2-prompts?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-seedance-2-prompts?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 960 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ YouMind-OpenLab/awesome-seedance-2-prompts：YouMind-OpenLab/awesome-seedance-2-
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 60/100 |
 | stars | 63/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

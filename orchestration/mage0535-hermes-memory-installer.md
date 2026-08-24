@@ -1,6 +1,6 @@
 # mage0535/hermes-memory-installer
 
-[![Stars](https://img.shields.io/github/stars/mage0535/hermes-memory-installer?style=flat-square&color=yellow)](https://github.com/mage0535/hermes-memory-installer/stargazers) [![Forks](https://img.shields.io/github/forks/mage0535/hermes-memory-installer?style=flat-square&color=blue)](https://github.com/mage0535/hermes-memory-installer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mage0535/hermes-memory-installer?style=flat-square&color=yellow)](https://github.com/mage0535/hermes-memory-installer/stargazers) [![Forks](https://img.shields.io/github/forks/mage0535/hermes-memory-installer?style=flat-square&color=blue)](https://github.com/mage0535/hermes-memory-installer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🧠 Production-grade memory sidecar for AI agents — gbrain + Hindsight + 3-tier recall. Agent-agnostic, battle-tested. | 生产级外挂记忆系统，兼容Hermes/Claude/Cursor等任意AI智能体
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 158 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · DevTools · Product
+Orchestration · Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ mage0535/hermes-memory-installer 是一款面向 AI 代理的生产级记忆 Sid
 | forks | 25/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

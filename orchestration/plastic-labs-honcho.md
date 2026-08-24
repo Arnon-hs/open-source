@@ -1,6 +1,6 @@
 # plastic-labs/honcho
 
-[![Stars](https://img.shields.io/github/stars/plastic-labs/honcho?style=flat-square&color=yellow)](https://github.com/plastic-labs/honcho/stargazers) [![Forks](https://img.shields.io/github/forks/plastic-labs/honcho?style=flat-square&color=blue)](https://github.com/plastic-labs/honcho/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plastic-labs/honcho?style=flat-square&color=yellow)](https://github.com/plastic-labs/honcho/stargazers) [![Forks](https://img.shields.io/github/forks/plastic-labs/honcho?style=flat-square&color=blue)](https://github.com/plastic-labs/honcho/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Memory library for building stateful agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 390 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -67,16 +67,16 @@ plastic-labs/honcho：plastic-labs/honcho helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 72/100 |
-| integration | 78/100 |
-| production | 64/100 |
-| outlook | 70/100 |
-| adoption | 72/100 |
-| stars | 75/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

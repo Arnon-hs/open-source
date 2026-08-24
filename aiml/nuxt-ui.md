@@ -1,6 +1,6 @@
 # nuxt/ui
 
-[![Stars](https://img.shields.io/github/stars/nuxt/ui?style=flat-square&color=yellow)](https://github.com/nuxt/ui/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/ui?style=flat-square&color=blue)](https://github.com/nuxt/ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nuxt/ui?style=flat-square&color=yellow)](https://github.com/nuxt/ui/stargazers) [![Forks](https://img.shields.io/github/forks/nuxt/ui?style=flat-square&color=blue)](https://github.com/nuxt/ui/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nuxt/ui：nuxt/ui helps add AI capability without starting from a blank model st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 80/100 |
 | stars | 81/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # svenstaro/genact
 
-[![Stars](https://img.shields.io/github/stars/svenstaro/genact?style=flat-square&color=yellow)](https://github.com/svenstaro/genact/stargazers) [![Forks](https://img.shields.io/github/forks/svenstaro/genact?style=flat-square&color=blue)](https://github.com/svenstaro/genact/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/svenstaro/genact?style=flat-square&color=yellow)](https://github.com/svenstaro/genact/stargazers) [![Forks](https://img.shields.io/github/forks/svenstaro/genact?style=flat-square&color=blue)](https://github.com/svenstaro/genact/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🌀 A nonsense activity generator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.1k |
 | 🍴 **Forks** | 491 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ svenstaro/genact 的价值在于它可以帮助工程师提高开发效率，自
 | forks | 67/100 |
 | stars | 87/100 |
 | topics | 88/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

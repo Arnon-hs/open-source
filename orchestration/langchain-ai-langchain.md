@@ -1,6 +1,6 @@
 # langchain-ai/langchain
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > The agent engineering platform. Available in TypeScript!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 136k |
 | 🍴 **Forks** | 22.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ langchain-ai/langchain: langchain-ai/langchain helps turn isolated prompts and t
 
 ### Русский
 
-langchain-ai/langchain: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+langchain-ai/langchain: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ langchain-ai/langchain：langchain-ai/langchain helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 85/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 77/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 59/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

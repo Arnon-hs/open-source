@@ -1,6 +1,6 @@
 # free-nodes/v2rayfree
 
-[![Stars](https://img.shields.io/github/stars/free-nodes/v2rayfree?style=flat-square&color=yellow)](https://github.com/free-nodes/v2rayfree/stargazers) [![Forks](https://img.shields.io/github/forks/free-nodes/v2rayfree?style=flat-square&color=blue)](https://github.com/free-nodes/v2rayfree/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/free-nodes/v2rayfree?style=flat-square&color=yellow)](https://github.com/free-nodes/v2rayfree/stargazers) [![Forks](https://img.shields.io/github/forks/free-nodes/v2rayfree?style=flat-square&color=blue)](https://github.com/free-nodes/v2rayfree/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > v2ray节点、免费节点、免费v2ray节点、最新公益免费v2ray节点订阅地址、免费v2ray节点每日更新、免费ss/v2ray/trojan节点、freefq
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.4k |
 | 🍴 **Forks** | 811 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ free-nodes/v2rayfree：free-nodes/v2rayfree may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 83/100 |
-| stars | 87/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 87/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

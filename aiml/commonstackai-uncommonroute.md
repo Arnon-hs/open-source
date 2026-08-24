@@ -1,6 +1,6 @@
 # CommonstackAI/UncommonRoute
 
-[![Stars](https://img.shields.io/github/stars/CommonstackAI/UncommonRoute?style=flat-square&color=yellow)](https://github.com/CommonstackAI/UncommonRoute/stargazers) [![Forks](https://img.shields.io/github/forks/CommonstackAI/UncommonRoute?style=flat-square&color=blue)](https://github.com/CommonstackAI/UncommonRoute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CommonstackAI/UncommonRoute?style=flat-square&color=yellow)](https://github.com/CommonstackAI/UncommonRoute/stargazers) [![Forks](https://img.shields.io/github/forks/CommonstackAI/UncommonRoute?style=flat-square&color=blue)](https://github.com/CommonstackAI/UncommonRoute/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-CommonstackAI/UncommonRoute: CommonstackAI/UncommonRoute helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CommonstackAI/UncommonRoute: CommonstackAI/UncommonRoute helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-CommonstackAI/UncommonRoute: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+CommonstackAI/UncommonRoute: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-CommonstackAI/UncommonRoute：CommonstackAI/UncommonRoute helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CommonstackAI/UncommonRoute：CommonstackAI/UncommonRoute helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ CommonstackAI/UncommonRoute：CommonstackAI/UncommonRoute helps add AI capabilit
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ CommonstackAI/UncommonRoute：CommonstackAI/UncommonRoute helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 51/100 |
-| stars | 58/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

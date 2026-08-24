@@ -1,6 +1,6 @@
 # NVIDIA/warp
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/warp?style=flat-square&color=yellow)](https://github.com/NVIDIA/warp/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/warp?style=flat-square&color=blue)](https://github.com/NVIDIA/warp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/warp?style=flat-square&color=yellow)](https://github.com/NVIDIA/warp/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/warp?style=flat-square&color=blue)](https://github.com/NVIDIA/warp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 502 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ NVIDIA/warp：NVIDIA/warp may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 77/100 |
-| stars | 81/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| stars | 81/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # atlassian-api/atlassian-python-api
 
-[![Stars](https://img.shields.io/github/stars/atlassian-api/atlassian-python-api?style=flat-square&color=yellow)](https://github.com/atlassian-api/atlassian-python-api/stargazers) [![Forks](https://img.shields.io/github/forks/atlassian-api/atlassian-python-api?style=flat-square&color=blue)](https://github.com/atlassian-api/atlassian-python-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atlassian-api/atlassian-python-api?style=flat-square&color=yellow)](https://github.com/atlassian-api/atlassian-python-api/stargazers) [![Forks](https://img.shields.io/github/forks/atlassian-api/atlassian-python-api?style=flat-square&color=blue)](https://github.com/atlassian-api/atlassian-python-api/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Atlassian Python REST API wrapper. The atlassian-python-api library provides a simple and convenient way to interact with Atlassian products (such as Jira Service management, Jira Software, Confluence, Bitbucket and apps Insight, X-Ray) using Python. It is based on the official REST APIs of these products and by community for Atlassian
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 710 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Product
+Backend
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ atlassian-api/atlassian-python-api：atlassian-api/atlassian-python-api helps te
 | forks | 71/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

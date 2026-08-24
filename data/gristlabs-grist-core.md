@@ -1,6 +1,6 @@
 # gristlabs/grist-core
 
-[![Stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=flat-square&color=yellow)](https://github.com/gristlabs/grist-core/stargazers) [![Forks](https://img.shields.io/github/forks/gristlabs/grist-core?style=flat-square&color=blue)](https://github.com/gristlabs/grist-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=flat-square&color=yellow)](https://github.com/gristlabs/grist-core/stargazers) [![Forks](https://img.shields.io/github/forks/gristlabs/grist-core?style=flat-square&color=blue)](https://github.com/gristlabs/grist-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Grist is the evolution of spreadsheets.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11k |
 | 🍴 **Forks** | 570 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gristlabs/grist-core：gristlabs/grist-core helps convert raw data into searchab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 51/100 |
+| outlook | 49/100 |
 | adoption | 81/100 |
 | stars | 86/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

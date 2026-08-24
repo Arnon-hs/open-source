@@ -1,6 +1,6 @@
 # outsourc-e/hermes-workspace
 
-[![Stars](https://img.shields.io/github/stars/outsourc-e/hermes-workspace?style=flat-square&color=yellow)](https://github.com/outsourc-e/hermes-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/outsourc-e/hermes-workspace?style=flat-square&color=blue)](https://github.com/outsourc-e/hermes-workspace/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/outsourc-e/hermes-workspace?style=flat-square&color=yellow)](https://github.com/outsourc-e/hermes-workspace/stargazers) [![Forks](https://img.shields.io/github/forks/outsourc-e/hermes-workspace?style=flat-square&color=blue)](https://github.com/outsourc-e/hermes-workspace/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 452 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -69,16 +69,16 @@ outsourc-e/hermes-workspace：outsourc-e/hermes-workspace helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 73/100 |
-| stars | 76/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| stars | 76/100 |
 | topics | 88/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

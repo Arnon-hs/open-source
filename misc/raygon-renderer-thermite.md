@@ -1,6 +1,6 @@
 # raygon-renderer/thermite
 
-[![Stars](https://img.shields.io/github/stars/raygon-renderer/thermite?style=flat-square&color=yellow)](https://github.com/raygon-renderer/thermite/stargazers) [![Forks](https://img.shields.io/github/forks/raygon-renderer/thermite?style=flat-square&color=blue)](https://github.com/raygon-renderer/thermite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raygon-renderer/thermite?style=flat-square&color=yellow)](https://github.com/raygon-renderer/thermite/stargazers) [![Forks](https://img.shields.io/github/forks/raygon-renderer/thermite?style=flat-square&color=blue)](https://github.com/raygon-renderer/thermite/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Thermite SIMD: Melt your CPU
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Thermite SIMD（raygon‑renderer/thermite）是一套基于 Rust 的 SIMD 加�
 | forks | 8/100 |
 | stars | 47/100 |
 | topics | 75/100 |
-| outlook | 70/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 72/100 |
-| usefulness | 42/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

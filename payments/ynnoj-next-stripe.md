@@ -1,6 +1,6 @@
 # ynnoj/next-stripe
 
-[![Stars](https://img.shields.io/github/stars/ynnoj/next-stripe?style=flat-square&color=yellow)](https://github.com/ynnoj/next-stripe/stargazers) [![Forks](https://img.shields.io/github/forks/ynnoj/next-stripe?style=flat-square&color=blue)](https://github.com/ynnoj/next-stripe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ynnoj/next-stripe?style=flat-square&color=yellow)](https://github.com/ynnoj/next-stripe/stargazers) [![Forks](https://img.shields.io/github/forks/ynnoj/next-stripe?style=flat-square&color=blue)](https://github.com/ynnoj/next-stripe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Simplified server-side Stripe workflows in Next.js
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 560 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Automation · Backend
+Payments
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ ynnoj/next‑stripe 是一个面向 Next.js 的轻量库，封装了常见的 St
 | forks | 31/100 |
 | stars | 59/100 |
 | topics | 25/100 |
-| outlook | 72/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

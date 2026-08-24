@@ -1,6 +1,6 @@
 # shishkin/astro-pagefind
 
-[![Stars](https://img.shields.io/github/stars/shishkin/astro-pagefind?style=flat-square&color=yellow)](https://github.com/shishkin/astro-pagefind/stargazers) [![Forks](https://img.shields.io/github/forks/shishkin/astro-pagefind?style=flat-square&color=blue)](https://github.com/shishkin/astro-pagefind/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shishkin/astro-pagefind?style=flat-square&color=yellow)](https://github.com/shishkin/astro-pagefind/stargazers) [![Forks](https://img.shields.io/github/forks/shishkin/astro-pagefind?style=flat-square&color=blue)](https://github.com/shishkin/astro-pagefind/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Astro integration for Pagefind static site search.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 524 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ shishkin/astro-pagefind — это открытая интеграция Astro
 
 ### 中文
 
-shishkin/astro-pagefind：shishkin/astro-pagefind may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+shishkin/astro-pagefind：shishkin/astro-pagefind may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ shishkin/astro-pagefind：shishkin/astro-pagefind may be useful when its README 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ shishkin/astro-pagefind：shishkin/astro-pagefind may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 52/100 |
-| stars | 58/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 50/100 |
+| outlook | 46/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

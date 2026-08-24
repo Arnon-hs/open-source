@@ -1,6 +1,6 @@
 # galkahana/PDF-Writer
 
-[![Stars](https://img.shields.io/github/stars/galkahana/PDF-Writer?style=flat-square&color=yellow)](https://github.com/galkahana/PDF-Writer/stargazers) [![Forks](https://img.shields.io/github/forks/galkahana/PDF-Writer?style=flat-square&color=blue)](https://github.com/galkahana/PDF-Writer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/galkahana/PDF-Writer?style=flat-square&color=yellow)](https://github.com/galkahana/PDF-Writer/stargazers) [![Forks](https://img.shields.io/github/forks/galkahana/PDF-Writer?style=flat-square&color=blue)](https://github.com/galkahana/PDF-Writer/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > High performance library for creating, modiyfing and parsing PDF files in C++
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | C |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ galkahana/PDF-Writer — это высокопроизводительная �
 
 ### 中文
 
-galkahana/PDF-Writer：galkahana/PDF-Writer may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+galkahana/PDF-Writer：galkahana/PDF-Writer may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ galkahana/PDF-Writer：galkahana/PDF-Writer may be useful when its README and ac
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ galkahana/PDF-Writer：galkahana/PDF-Writer may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 63/100 |
-| stars | 64/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

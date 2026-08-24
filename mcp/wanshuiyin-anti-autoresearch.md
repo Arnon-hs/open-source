@@ -1,6 +1,6 @@
 # wanshuiyin/Anti-Autoresearch
 
-[![Stars](https://img.shields.io/github/stars/wanshuiyin/Anti-Autoresearch?style=flat-square&color=yellow)](https://github.com/wanshuiyin/Anti-Autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/wanshuiyin/Anti-Autoresearch?style=flat-square&color=blue)](https://github.com/wanshuiyin/Anti-Autoresearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wanshuiyin/Anti-Autoresearch?style=flat-square&color=yellow)](https://github.com/wanshuiyin/Anti-Autoresearch/stargazers) [![Forks](https://img.shields.io/github/forks/wanshuiyin/Anti-Autoresearch?style=flat-square&color=blue)](https://github.com/wanshuiyin/Anti-Autoresearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Don't trust an autoresearch paper at face value. Reviewer-side integrity forensics (self-consistency + fabrication), deterministic verdict. 61 signals: 46 integrity hack-patterns (families A–H, verdict-bearing) + 13 zero-weight AI writing-style impressions (AIS) + 2 advisory. Not an opaque AI-text classifier. The dual of ARIS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Education
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ wanshuiyin/Anti-Autoresearch 的价值在于它可以帮助连接 AI 代理与�
 | forks | 12/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

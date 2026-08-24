@@ -1,6 +1,6 @@
 # kardolus/chatgpt-cli
 
-[![Stars](https://img.shields.io/github/stars/kardolus/chatgpt-cli?style=flat-square&color=yellow)](https://github.com/kardolus/chatgpt-cli/stargazers) [![Forks](https://img.shields.io/github/forks/kardolus/chatgpt-cli?style=flat-square&color=blue)](https://github.com/kardolus/chatgpt-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kardolus/chatgpt-cli?style=flat-square&color=yellow)](https://github.com/kardolus/chatgpt-cli/stargazers) [![Forks](https://img.shields.io/github/forks/kardolus/chatgpt-cli?style=flat-square&color=blue)](https://github.com/kardolus/chatgpt-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, prompt files, image/audio I/O, MCP tool calls, and an experimental agent mode for safe, multi-step automation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 922 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kardolus/chatgpt-cli：kardolus/chatgpt-cli helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 58/100 |
 | stars | 63/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/k8s-config-connector
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/k8s-config-connector?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/k8s-config-connector/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/k8s-config-connector?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/k8s-config-connector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/k8s-config-connector?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/k8s-config-connector/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/k8s-config-connector?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/k8s-config-connector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > GCP Config Connector, a Kubernetes add-on for managing GCP resources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 335 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GoogleCloudPlatform/k8s-config-connector — это открытый прое�
 
 ### 中文
 
-GoogleCloudPlatform/k8s-config-connector：GoogleCloudPlatform/k8s-config-connector helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+GoogleCloudPlatform/k8s-config-connector：GoogleCloudPlatform/k8s-config-connector helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ GoogleCloudPlatform/k8s-config-connector：GoogleCloudPlatform/k8s-config-connec
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ GoogleCloudPlatform/k8s-config-connector：GoogleCloudPlatform/k8s-config-connec
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 48/100 |
-| adoption | 64/100 |
-| stars | 64/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

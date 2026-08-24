@@ -1,6 +1,6 @@
 # alirezarezvani/claude-skills
 
-[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square&color=yellow)](https://github.com/alirezarezvani/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/alirezarezvani/claude-skills?style=flat-square&color=blue)](https://github.com/alirezarezvani/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square&color=yellow)](https://github.com/alirezarezvani/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/alirezarezvani/claude-skills?style=flat-square&color=blue)](https://github.com/alirezarezvani/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.1k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · DevTools · Marketing
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ alirezarezvani/claude-skills：alirezarezvani/claude-skills helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 79/100 |
-| integration | 78/100 |
-| production | 66/100 |
-| outlook | 74/100 |
-| adoption | 87/100 |
-| stars | 88/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

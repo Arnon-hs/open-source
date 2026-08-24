@@ -1,6 +1,6 @@
 # alibaba/open-code-review
 
-[![Stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square&color=yellow)](https://github.com/alibaba/open-code-review/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/open-code-review?style=flat-square&color=blue)](https://github.com/alibaba/open-code-review/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square&color=yellow)](https://github.com/alibaba/open-code-review/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/open-code-review?style=flat-square&color=blue)](https://github.com/alibaba/open-code-review/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.6k |
 | 🍴 **Forks** | 622 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ alibaba/open‑code‑review 是一款在阿里巴巴规模上经过验证的开
 | forks | 70/100 |
 | stars | 85/100 |
 | topics | 75/100 |
-| outlook | 87/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hacs/default
 
-[![Stars](https://img.shields.io/github/stars/hacs/default?style=flat-square&color=yellow)](https://github.com/hacs/default/stargazers) [![Forks](https://img.shields.io/github/forks/hacs/default?style=flat-square&color=blue)](https://github.com/hacs/default/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hacs/default?style=flat-square&color=yellow)](https://github.com/hacs/default/stargazers) [![Forks](https://img.shields.io/github/forks/hacs/default?style=flat-square&color=blue)](https://github.com/hacs/default/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The home of the default HACS repositories.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ hacs/default 是 Home Assistant Community Store（HACS）官方维护的默认�
 | forks | 86/100 |
 | stars | 59/100 |
 | topics | 13/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 66/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

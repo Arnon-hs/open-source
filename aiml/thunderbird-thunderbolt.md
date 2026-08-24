@@ -1,6 +1,6 @@
 # thunderbird/thunderbolt
 
-[![Stars](https://img.shields.io/github/stars/thunderbird/thunderbolt?style=flat-square&color=yellow)](https://github.com/thunderbird/thunderbolt/stargazers) [![Forks](https://img.shields.io/github/forks/thunderbird/thunderbolt?style=flat-square&color=blue)](https://github.com/thunderbird/thunderbolt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thunderbird/thunderbolt?style=flat-square&color=yellow)](https://github.com/thunderbird/thunderbolt/stargazers) [![Forks](https://img.shields.io/github/forks/thunderbird/thunderbolt?style=flat-square&color=blue)](https://github.com/thunderbird/thunderbolt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ thunderbird/thunderbolt: thunderbird/thunderbolt helps add AI capability without
 
 ### Русский
 
-thunderbird/thunderbolt: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+thunderbird/thunderbolt: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ thunderbird/thunderbolt：thunderbird/thunderbolt helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 73/100 |
-| stars | 78/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

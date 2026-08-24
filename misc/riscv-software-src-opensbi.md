@@ -1,6 +1,6 @@
 # riscv-software-src/opensbi
 
-[![Stars](https://img.shields.io/github/stars/riscv-software-src/opensbi?style=flat-square&color=yellow)](https://github.com/riscv-software-src/opensbi/stargazers) [![Forks](https://img.shields.io/github/forks/riscv-software-src/opensbi?style=flat-square&color=blue)](https://github.com/riscv-software-src/opensbi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/riscv-software-src/opensbi?style=flat-square&color=yellow)](https://github.com/riscv-software-src/opensbi/stargazers) [![Forks](https://img.shields.io/github/forks/riscv-software-src/opensbi?style=flat-square&color=blue)](https://github.com/riscv-software-src/opensbi/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > RISC-V Open Source Supervisor Binary Interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 672 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ riscv-software-src/opensbi 是 RISC‑V 生态的 Open Source Supervisor Binary 
 | forks | 71/100 |
 | stars | 67/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 68/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

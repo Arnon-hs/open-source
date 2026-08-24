@@ -1,6 +1,6 @@
 # xr843/fojin
 
-[![Stars](https://img.shields.io/github/stars/xr843/fojin?style=flat-square&color=yellow)](https://github.com/xr843/fojin/stargazers) [![Forks](https://img.shields.io/github/forks/xr843/fojin?style=flat-square&color=blue)](https://github.com/xr843/fojin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xr843/fojin?style=flat-square&color=yellow)](https://github.com/xr843/fojin/stargazers) [![Forks](https://img.shields.io/github/forks/xr843/fojin?style=flat-square&color=blue)](https://github.com/xr843/fojin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Buddhist Digital Text Platform — 9,200+ texts, 500+ sources, 8 UI languages, AI Q&A (RAG), knowledge graph, full-text search
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ xr843/fojin：xr843/fojin helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 50/100 |
 | stars | 53/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

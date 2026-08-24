@@ -1,6 +1,6 @@
 # robotlearning123/gpt2agent
 
-[![Stars](https://img.shields.io/github/stars/robotlearning123/gpt2agent?style=flat-square&color=yellow)](https://github.com/robotlearning123/gpt2agent/stargazers) [![Forks](https://img.shields.io/github/forks/robotlearning123/gpt2agent?style=flat-square&color=blue)](https://github.com/robotlearning123/gpt2agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/robotlearning123/gpt2agent?style=flat-square&color=yellow)](https://github.com/robotlearning123/gpt2agent/stargazers) [![Forks](https://img.shields.io/github/forks/robotlearning123/gpt2agent?style=flat-square&color=blue)](https://github.com/robotlearning123/gpt2agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Your codex login → a full ChatGPT Plus/Pro account (every model, deep research, image gen, code exec) inside Claude Code, Codex & any MCP client. One-line install.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ robotlearning123/gpt2agent 是一个一键安装的开源工具，能够在 Clau
 | forks | 15/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

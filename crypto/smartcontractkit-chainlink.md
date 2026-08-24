@@ -1,6 +1,6 @@
 # smartcontractkit/chainlink
 
-[![Stars](https://img.shields.io/github/stars/smartcontractkit/chainlink?style=flat-square&color=yellow)](https://github.com/smartcontractkit/chainlink/stargazers) [![Forks](https://img.shields.io/github/forks/smartcontractkit/chainlink?style=flat-square&color=blue)](https://github.com/smartcontractkit/chainlink/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smartcontractkit/chainlink?style=flat-square&color=yellow)](https://github.com/smartcontractkit/chainlink/stargazers) [![Forks](https://img.shields.io/github/forks/smartcontractkit/chainlink?style=flat-square&color=blue)](https://github.com/smartcontractkit/chainlink/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > node of the decentralized oracle network, bridging on and off-chain computation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ smartcontractkit/chainlink：smartcontractkit/chainlink helps prototype or inspe
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
-| adoption | 83/100 |
-| stars | 83/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 83/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

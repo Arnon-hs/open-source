@@ -1,6 +1,6 @@
 # ghbalf/freecad-ai
 
-[![Stars](https://img.shields.io/github/stars/ghbalf/freecad-ai?style=flat-square&color=yellow)](https://github.com/ghbalf/freecad-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ghbalf/freecad-ai?style=flat-square&color=blue)](https://github.com/ghbalf/freecad-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ghbalf/freecad-ai?style=flat-square&color=yellow)](https://github.com/ghbalf/freecad-ai/stargazers) [![Forks](https://img.shields.io/github/forks/ghbalf/freecad-ai?style=flat-square&color=blue)](https://github.com/ghbalf/freecad-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered assistant workbench for FreeCAD — generate 3D models from natural language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ghbalf/freecad-ai：ghbalf/freecad-ai helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 47/100 |
 | stars | 50/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

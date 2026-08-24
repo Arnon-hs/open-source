@@ -1,6 +1,6 @@
 # kulikov0/whitelist-bypass
 
-[![Stars](https://img.shields.io/github/stars/kulikov0/whitelist-bypass?style=flat-square&color=yellow)](https://github.com/kulikov0/whitelist-bypass/stargazers) [![Forks](https://img.shields.io/github/forks/kulikov0/whitelist-bypass?style=flat-square&color=blue)](https://github.com/kulikov0/whitelist-bypass/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kulikov0/whitelist-bypass?style=flat-square&color=yellow)](https://github.com/kulikov0/whitelist-bypass/stargazers) [![Forks](https://img.shields.io/github/forks/kulikov0/whitelist-bypass?style=flat-square&color=blue)](https://github.com/kulikov0/whitelist-bypass/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ The *whitelist-bypass* project by kulikov0 provides a lightweight utility for ci
 
 ### 中文
 
-kulikov0/whitelist-bypass：kulikov0/whitelist-bypass may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kulikov0/whitelist-bypass：kulikov0/whitelist-bypass may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ kulikov0/whitelist-bypass：kulikov0/whitelist-bypass may be useful when its REA
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ kulikov0/whitelist-bypass：kulikov0/whitelist-bypass may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 34/100 |
-| production | 50/100 |
-| outlook | 47/100 |
-| adoption | 58/100 |
-| stars | 64/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 34/100 |
 | sourceTrust | 100/100 |
 
 ---

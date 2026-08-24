@@ -1,6 +1,6 @@
 # leeguooooo/claude-code-usage-bar
 
-[![Stars](https://img.shields.io/github/stars/leeguooooo/claude-code-usage-bar?style=flat-square&color=yellow)](https://github.com/leeguooooo/claude-code-usage-bar/stargazers) [![Forks](https://img.shields.io/github/forks/leeguooooo/claude-code-usage-bar?style=flat-square&color=blue)](https://github.com/leeguooooo/claude-code-usage-bar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leeguooooo/claude-code-usage-bar?style=flat-square&color=yellow)](https://github.com/leeguooooo/claude-code-usage-bar/stargazers) [![Forks](https://img.shields.io/github/forks/leeguooooo/claude-code-usage-bar?style=flat-square&color=blue)](https://github.com/leeguooooo/claude-code-usage-bar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 229 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Frontend · DevTools · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ leeguooooo/claude-code-usage-bar：leeguooooo/claude-code-usage-bar helps add AI
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 43/100 |
-| stars | 50/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

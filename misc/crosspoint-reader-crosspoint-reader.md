@@ -1,6 +1,6 @@
 # crosspoint-reader/crosspoint-reader
 
-[![Stars](https://img.shields.io/github/stars/crosspoint-reader/crosspoint-reader?style=flat-square&color=yellow)](https://github.com/crosspoint-reader/crosspoint-reader/stargazers) [![Forks](https://img.shields.io/github/forks/crosspoint-reader/crosspoint-reader?style=flat-square&color=blue)](https://github.com/crosspoint-reader/crosspoint-reader/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crosspoint-reader/crosspoint-reader?style=flat-square&color=yellow)](https://github.com/crosspoint-reader/crosspoint-reader/stargazers) [![Forks](https://img.shields.io/github/forks/crosspoint-reader/crosspoint-reader?style=flat-square&color=blue)](https://github.com/crosspoint-reader/crosspoint-reader/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Firmware for the Xteink X4 e-paper display reader
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 746 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ crosspoint‑reader is an open‑source firmware project that drives the Xteink 
 
 ### 中文
 
-crosspoint-reader/crosspoint-reader：crosspoint-reader/crosspoint-reader may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+crosspoint-reader/crosspoint-reader：crosspoint-reader/crosspoint-reader may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ crosspoint-reader/crosspoint-reader：crosspoint-reader/crosspoint-reader may be
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ crosspoint-reader/crosspoint-reader：crosspoint-reader/crosspoint-reader may be
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 76/100 |
-| stars | 77/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| stars | 77/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

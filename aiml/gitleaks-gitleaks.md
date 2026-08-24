@@ -1,6 +1,6 @@
 # gitleaks/gitleaks
 
-[![Stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=flat-square&color=yellow)](https://github.com/gitleaks/gitleaks/stargazers) [![Forks](https://img.shields.io/github/forks/gitleaks/gitleaks?style=flat-square&color=blue)](https://github.com/gitleaks/gitleaks/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=flat-square&color=yellow)](https://github.com/gitleaks/gitleaks/stargazers) [![Forks](https://img.shields.io/github/forks/gitleaks/gitleaks?style=flat-square&color=blue)](https://github.com/gitleaks/gitleaks/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Find secrets with Gitleaks 🔑
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ gitleaks 是一款基于 Go 实现的开源工具，能够在 Git 仓库历史�
 | forks | 83/100 |
 | stars | 95/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 91/100 |
-| production | 84/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

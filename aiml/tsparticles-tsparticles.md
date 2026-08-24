@@ -1,6 +1,6 @@
 # tsparticles/tsparticles
 
-[![Stars](https://img.shields.io/github/stars/tsparticles/tsparticles?style=flat-square&color=yellow)](https://github.com/tsparticles/tsparticles/stargazers) [![Forks](https://img.shields.io/github/forks/tsparticles/tsparticles?style=flat-square&color=blue)](https://github.com/tsparticles/tsparticles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tsparticles/tsparticles?style=flat-square&color=yellow)](https://github.com/tsparticles/tsparticles/stargazers) [![Forks](https://img.shields.io/github/forks/tsparticles/tsparticles?style=flat-square&color=blue)](https://github.com/tsparticles/tsparticles/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 943 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tsparticles/tsparticles：tsparticles/tsparticles helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 54/100 |
+| outlook | 56/100 |
 | adoption | 81/100 |
 | stars | 84/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

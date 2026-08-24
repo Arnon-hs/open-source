@@ -1,6 +1,6 @@
 # WeAreAthlon/frontend-webpack-boilerplate
 
-[![Stars](https://img.shields.io/github/stars/WeAreAthlon/frontend-webpack-boilerplate?style=flat-square&color=yellow)](https://github.com/WeAreAthlon/frontend-webpack-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/WeAreAthlon/frontend-webpack-boilerplate?style=flat-square&color=blue)](https://github.com/WeAreAthlon/frontend-webpack-boilerplate/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WeAreAthlon/frontend-webpack-boilerplate?style=flat-square&color=yellow)](https://github.com/WeAreAthlon/frontend-webpack-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/WeAreAthlon/frontend-webpack-boilerplate?style=flat-square&color=blue)](https://github.com/WeAreAthlon/frontend-webpack-boilerplate/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Simple starter webpack 5 project template supporting SASS/PostCSS, Babel ES7, browser syncing, code linting. Easy project setup having multiple features and developer friendly tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 732 |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ WeAreAthlon/frontend-webpack-boilerplate：WeAreAthlon/frontend-webpack-boilerpl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 67/100 |
+| usefulness | 74/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 60/100 |
 | stars | 61/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

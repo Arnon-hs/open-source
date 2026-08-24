@@ -1,6 +1,6 @@
 # embassy-rs/embassy
 
-[![Stars](https://img.shields.io/github/stars/embassy-rs/embassy?style=flat-square&color=yellow)](https://github.com/embassy-rs/embassy/stargazers) [![Forks](https://img.shields.io/github/forks/embassy-rs/embassy?style=flat-square&color=blue)](https://github.com/embassy-rs/embassy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/embassy-rs/embassy?style=flat-square&color=yellow)](https://github.com/embassy-rs/embassy/stargazers) [![Forks](https://img.shields.io/github/forks/embassy-rs/embassy?style=flat-square&color=blue)](https://github.com/embassy-rs/embassy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Modern embedded framework, using Rust and async.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.2k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ embassy-rs/embassy：embassy-rs/embassy may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 83/100 |
-| stars | 84/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| stars | 84/100 |
 | topics | 75/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

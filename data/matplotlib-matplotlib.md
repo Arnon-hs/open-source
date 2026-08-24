@@ -1,6 +1,6 @@
 # matplotlib/matplotlib
 
-[![Stars](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&color=yellow)](https://github.com/matplotlib/matplotlib/stargazers) [![Forks](https://img.shields.io/github/forks/matplotlib/matplotlib?style=flat-square&color=blue)](https://github.com/matplotlib/matplotlib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&color=yellow)](https://github.com/matplotlib/matplotlib/stargazers) [![Forks](https://img.shields.io/github/forks/matplotlib/matplotlib?style=flat-square&color=blue)](https://github.com/matplotlib/matplotlib/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > matplotlib: plotting with Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.8k |
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ matplotlib/matplotlib：matplotlib/matplotlib helps convert raw data into search
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 82/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 94/100 |
-| stars | 93/100 |
 | forks | 98/100 |
-| recency | 40/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

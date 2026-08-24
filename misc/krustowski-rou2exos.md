@@ -1,6 +1,6 @@
 # krustowski/rou2exOS
 
-[![Stars](https://img.shields.io/github/stars/krustowski/rou2exOS?style=flat-square&color=yellow)](https://github.com/krustowski/rou2exOS/stargazers) [![Forks](https://img.shields.io/github/forks/krustowski/rou2exOS?style=flat-square&color=blue)](https://github.com/krustowski/rou2exOS/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krustowski/rou2exOS?style=flat-square&color=yellow)](https://github.com/krustowski/rou2exOS/stargazers) [![Forks](https://img.shields.io/github/forks/krustowski/rou2exOS?style=flat-square&color=blue)](https://github.com/krustowski/rou2exOS/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A second iteration of the (to be) DOS-friendly hobby OS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ krustowski/rou2exOS — это второй этап разработки hobb
 
 ### 中文
 
-krustowski/rou2exOS：krustowski/rou2exOS may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+krustowski/rou2exOS：krustowski/rou2exOS may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ krustowski/rou2exOS：krustowski/rou2exOS may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ krustowski/rou2exOS：krustowski/rou2exOS may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 43/100 |
-| stars | 49/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

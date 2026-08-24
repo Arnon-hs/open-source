@@ -1,6 +1,6 @@
 # snyk/agent-scan
 
-[![Stars](https://img.shields.io/github/stars/snyk/agent-scan?style=flat-square&color=yellow)](https://github.com/snyk/agent-scan/stargazers) [![Forks](https://img.shields.io/github/forks/snyk/agent-scan?style=flat-square&color=blue)](https://github.com/snyk/agent-scan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/snyk/agent-scan?style=flat-square&color=yellow)](https://github.com/snyk/agent-scan/stargazers) [![Forks](https://img.shields.io/github/forks/snyk/agent-scan?style=flat-square&color=blue)](https://github.com/snyk/agent-scan/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Security scanner for AI agents, MCP servers and agent skills.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ snyk/agent-scan：snyk/agent-scan helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 68/100 |
-| stars | 72/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

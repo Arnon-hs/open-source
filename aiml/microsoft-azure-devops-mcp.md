@@ -1,6 +1,6 @@
 # microsoft/azure-devops-mcp
 
-[![Stars](https://img.shields.io/github/stars/microsoft/azure-devops-mcp?style=flat-square&color=yellow)](https://github.com/microsoft/azure-devops-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/azure-devops-mcp?style=flat-square&color=blue)](https://github.com/microsoft/azure-devops-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/azure-devops-mcp?style=flat-square&color=yellow)](https://github.com/microsoft/azure-devops-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/azure-devops-mcp?style=flat-square&color=blue)](https://github.com/microsoft/azure-devops-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 545 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **Azure DevOps MCP** (Microsoft Cloud Provider) server extends Azure DevOps 
 
 ### 中文
 
-microsoft/azure-devops-mcp：microsoft/azure-devops-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+microsoft/azure-devops-mcp：microsoft/azure-devops-mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ microsoft/azure-devops-mcp：microsoft/azure-devops-mcp helps add AI capability 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ microsoft/azure-devops-mcp：microsoft/azure-devops-mcp helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 56/100 |
+| production | 49/100 |
+| outlook | 49/100 |
 | adoption | 69/100 |
 | stars | 69/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

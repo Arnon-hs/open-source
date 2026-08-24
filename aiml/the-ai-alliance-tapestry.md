@@ -1,6 +1,6 @@
 # The-AI-Alliance/tapestry
 
-[![Stars](https://img.shields.io/github/stars/The-AI-Alliance/tapestry?style=flat-square&color=yellow)](https://github.com/The-AI-Alliance/tapestry/stargazers) [![Forks](https://img.shields.io/github/forks/The-AI-Alliance/tapestry?style=flat-square&color=blue)](https://github.com/The-AI-Alliance/tapestry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/The-AI-Alliance/tapestry?style=flat-square&color=yellow)](https://github.com/The-AI-Alliance/tapestry/stargazers) [![Forks](https://img.shields.io/github/forks/The-AI-Alliance/tapestry?style=flat-square&color=blue)](https://github.com/The-AI-Alliance/tapestry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Project Tapestry aims to give every nation and participant frontier AI they can call their own — uniting a global consortium to train a shared frontier model from which partners build and own sovereign models aligned to their national, socio-cultural, and industrial needs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Security · Education
+AI/ML · Data · Security
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ Project Tapestry 通过全球联盟共同训练前沿大模型，让各国及�
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

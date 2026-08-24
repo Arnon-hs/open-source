@@ -1,6 +1,6 @@
 # just1and0/React-Native-Paystack-WebView
 
-[![Stars](https://img.shields.io/github/stars/just1and0/React-Native-Paystack-WebView?style=flat-square&color=yellow)](https://github.com/just1and0/React-Native-Paystack-WebView/stargazers) [![Forks](https://img.shields.io/github/forks/just1and0/React-Native-Paystack-WebView?style=flat-square&color=blue)](https://github.com/just1and0/React-Native-Paystack-WebView/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/just1and0/React-Native-Paystack-WebView?style=flat-square&color=yellow)](https://github.com/just1and0/React-Native-Paystack-WebView/stargazers) [![Forks](https://img.shields.io/github/forks/just1and0/React-Native-Paystack-WebView?style=flat-square&color=blue)](https://github.com/just1and0/React-Native-Paystack-WebView/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 💸💳The package allows you accept payment using paystack and guess what, it doesn't require linking!  just install and begin to use 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 197 |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ just1and0/React‑Native‑Paystack‑WebView 能让 React Native 项目在移
 | forks | 52/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

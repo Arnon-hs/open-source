@@ -1,6 +1,6 @@
 # leleliu008/ndk-pkg
 
-[![Stars](https://img.shields.io/github/stars/leleliu008/ndk-pkg?style=flat-square&color=yellow)](https://github.com/leleliu008/ndk-pkg/stargazers) [![Forks](https://img.shields.io/github/forks/leleliu008/ndk-pkg?style=flat-square&color=blue)](https://github.com/leleliu008/ndk-pkg/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leleliu008/ndk-pkg?style=flat-square&color=yellow)](https://github.com/leleliu008/ndk-pkg/stargazers) [![Forks](https://img.shields.io/github/forks/leleliu008/ndk-pkg?style=flat-square&color=blue)](https://github.com/leleliu008/ndk-pkg/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A package builder for Android using NDK
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ le​leliu008/ndk‑pkg is an open‑source tool that streamlines the creation o
 
 ### 中文
 
-leleliu008/ndk-pkg：leleliu008/ndk-pkg helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+leleliu008/ndk-pkg：leleliu008/ndk-pkg helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ leleliu008/ndk-pkg：leleliu008/ndk-pkg helps ship user-facing interfaces with l
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ leleliu008/ndk-pkg：leleliu008/ndk-pkg helps ship user-facing interfaces with l
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 40/100 |
 | stars | 43/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

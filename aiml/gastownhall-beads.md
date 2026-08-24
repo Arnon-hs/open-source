@@ -1,6 +1,6 @@
 # gastownhall/beads
 
-[![Stars](https://img.shields.io/github/stars/gastownhall/beads?style=flat-square&color=yellow)](https://github.com/gastownhall/beads/stargazers) [![Forks](https://img.shields.io/github/forks/gastownhall/beads?style=flat-square&color=blue)](https://github.com/gastownhall/beads/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gastownhall/beads?style=flat-square&color=yellow)](https://github.com/gastownhall/beads/stargazers) [![Forks](https://img.shields.io/github/forks/gastownhall/beads?style=flat-square&color=blue)](https://github.com/gastownhall/beads/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Beads - A memory upgrade for your coding agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23.3k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gastownhall/beads：gastownhall/beads helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 89/100 |
 | stars | 93/100 |
 | forks | 80/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

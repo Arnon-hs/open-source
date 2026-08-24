@@ -1,6 +1,6 @@
 # zip-rs/zip2
 
-[![Stars](https://img.shields.io/github/stars/zip-rs/zip2?style=flat-square&color=yellow)](https://github.com/zip-rs/zip2/stargazers) [![Forks](https://img.shields.io/github/forks/zip-rs/zip2?style=flat-square&color=blue)](https://github.com/zip-rs/zip2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zip-rs/zip2?style=flat-square&color=yellow)](https://github.com/zip-rs/zip2/stargazers) [![Forks](https://img.shields.io/github/forks/zip-rs/zip2?style=flat-square&color=blue)](https://github.com/zip-rs/zip2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Zip implementation in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -127,14 +127,15 @@ zip‑rs/zip2 是用 Rust 编写的 Zip 文件读写库，代码简洁、性能�
 | forks | 51/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 38/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # dragonflyoss/dragonfly
 
-[![Stars](https://img.shields.io/github/stars/dragonflyoss/dragonfly?style=flat-square&color=yellow)](https://github.com/dragonflyoss/dragonfly/stargazers) [![Forks](https://img.shields.io/github/forks/dragonflyoss/dragonfly?style=flat-square&color=blue)](https://github.com/dragonflyoss/dragonfly/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dragonflyoss/dragonfly?style=flat-square&color=yellow)](https://github.com/dragonflyoss/dragonfly/stargazers) [![Forks](https://img.shields.io/github/forks/dragonflyoss/dragonfly?style=flat-square&color=blue)](https://github.com/dragonflyoss/dragonfly/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 395 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dragonflyoss/dragonfly：dragonflyoss/dragonfly helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 72/100 |
 | stars | 74/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

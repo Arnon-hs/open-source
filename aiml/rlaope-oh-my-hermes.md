@@ -1,6 +1,6 @@
 # rlaope/oh-my-hermes
 
-[![Stars](https://img.shields.io/github/stars/rlaope/oh-my-hermes?style=flat-square&color=yellow)](https://github.com/rlaope/oh-my-hermes/stargazers) [![Forks](https://img.shields.io/github/forks/rlaope/oh-my-hermes?style=flat-square&color=blue)](https://github.com/rlaope/oh-my-hermes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rlaope/oh-my-hermes?style=flat-square&color=yellow)](https://github.com/rlaope/oh-my-hermes/stargazers) [![Forks](https://img.shields.io/github/forks/rlaope/oh-my-hermes?style=flat-square&color=blue)](https://github.com/rlaope/oh-my-hermes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The best runtime for your AI agent (hermes-agent). Just install to instantly maximize its true power — OMH (Oh-My-Hermes)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ rlaope/oh-my-hermes 的主要价值在于，它可以帮助您快速添加 AI �
 | forks | 8/100 |
 | stars | 34/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 37/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

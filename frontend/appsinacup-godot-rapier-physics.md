@@ -1,6 +1,6 @@
 # appsinacup/godot-rapier-physics
 
-[![Stars](https://img.shields.io/github/stars/appsinacup/godot-rapier-physics?style=flat-square&color=yellow)](https://github.com/appsinacup/godot-rapier-physics/stargazers) [![Forks](https://img.shields.io/github/forks/appsinacup/godot-rapier-physics?style=flat-square&color=blue)](https://github.com/appsinacup/godot-rapier-physics/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appsinacup/godot-rapier-physics?style=flat-square&color=yellow)](https://github.com/appsinacup/godot-rapier-physics/stargazers) [![Forks](https://img.shields.io/github/forks/appsinacup/godot-rapier-physics?style=flat-square&color=blue)](https://github.com/appsinacup/godot-rapier-physics/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Godot Rapier Physics – 2D and 3D physics engine for the Godot game engine. with better stability, performance, liquids, determinism, state serialization and no ghost collisions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 868 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ appsinacup/godot-rapier-physics：appsinacup/godot-rapier-physics helps ship use
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

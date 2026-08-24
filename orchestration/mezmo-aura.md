@@ -1,6 +1,6 @@
 # mezmo/aura
 
-[![Stars](https://img.shields.io/github/stars/mezmo/aura?style=flat-square&color=yellow)](https://github.com/mezmo/aura/stargazers) [![Forks](https://img.shields.io/github/forks/mezmo/aura?style=flat-square&color=blue)](https://github.com/mezmo/aura/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mezmo/aura?style=flat-square&color=yellow)](https://github.com/mezmo/aura/stargazers) [![Forks](https://img.shields.io/github/forks/mezmo/aura?style=flat-square&color=blue)](https://github.com/mezmo/aura/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A production-ready framework for composing AI agents from declarative TOML configuration, with MCP tool integration, RAG pipelines, and an OpenAI-compatible web API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Mezmo Aura – это готовый к продакшену фреймво�
 
 ### 中文
 
-mezmo/aura：mezmo/aura helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mezmo/aura：mezmo/aura helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mezmo/aura：mezmo/aura helps turn isolated prompts and tools into repeatable ag
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ mezmo/aura：mezmo/aura helps turn isolated prompts and tools into repeatable ag
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 63/100 |
-| adoption | 35/100 |
-| stars | 38/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| stars | 38/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 49/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

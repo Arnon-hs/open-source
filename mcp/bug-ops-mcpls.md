@@ -1,6 +1,6 @@
 # bug-ops/mcpls
 
-[![Stars](https://img.shields.io/github/stars/bug-ops/mcpls?style=flat-square&color=yellow)](https://github.com/bug-ops/mcpls/stargazers) [![Forks](https://img.shields.io/github/forks/bug-ops/mcpls?style=flat-square&color=blue)](https://github.com/bug-ops/mcpls/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bug-ops/mcpls?style=flat-square&color=yellow)](https://github.com/bug-ops/mcpls/stargazers) [![Forks](https://img.shields.io/github/forks/bug-ops/mcpls?style=flat-square&color=blue)](https://github.com/bug-ops/mcpls/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Universal MCP to LSP bridge - expose Language Server Protocol capabilities as MCP tools for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ bug-ops/mcpls 是一个 **Universal MCP → LSP 桥梁**，通过实现 Language
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

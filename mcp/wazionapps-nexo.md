@@ -1,6 +1,6 @@
 # wazionapps/nexo
 
-[![Stars](https://img.shields.io/github/stars/wazionapps/nexo?style=flat-square&color=yellow)](https://github.com/wazionapps/nexo/stargazers) [![Forks](https://img.shields.io/github/forks/wazionapps/nexo?style=flat-square&color=blue)](https://github.com/wazionapps/nexo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wazionapps/nexo?style=flat-square&color=yellow)](https://github.com/wazionapps/nexo/stargazers) [![Forks](https://img.shields.io/github/forks/wazionapps/nexo?style=flat-square&color=blue)](https://github.com/wazionapps/nexo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > NEXO Brain — Shared brain for AI agents. Persistent memory, semantic RAG, natural forgetting, metacognitive guard, trust scoring, 150+ MCP tools. Works with Claude Code, Codex, Claude Desktop & any MCP client. 100% local, open source, free.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ NEXO Brain 是一个本地、开源的共享记忆层，为 AI 代理提供持�
 | forks | 24/100 |
 | stars | 28/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 27/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

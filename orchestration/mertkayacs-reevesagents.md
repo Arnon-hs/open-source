@@ -1,6 +1,6 @@
 # mertkayacs/reevesagents
 
-[![Stars](https://img.shields.io/github/stars/mertkayacs/reevesagents?style=flat-square&color=yellow)](https://github.com/mertkayacs/reevesagents/stargazers) [![Forks](https://img.shields.io/github/forks/mertkayacs/reevesagents?style=flat-square&color=blue)](https://github.com/mertkayacs/reevesagents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mertkayacs/reevesagents?style=flat-square&color=yellow)](https://github.com/mertkayacs/reevesagents/stargazers) [![Forks](https://img.shields.io/github/forks/mertkayacs/reevesagents?style=flat-square&color=blue)](https://github.com/mertkayacs/reevesagents/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Free, local, tmux-first workspace for AI CLI agents. Let one agent (Claude Code, Codex, Hermes, DeepSeek, Kimi, ...) spawn and drive others over MCP. No API keys, no changes to your Agent.md or Claude.md. TUI, Web UI, CLI, MCP in one package.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ mertkayacs/reevesagents 是一个免费、本地化、以 tmux 为首的 AI CLI 
 | forks | 26/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

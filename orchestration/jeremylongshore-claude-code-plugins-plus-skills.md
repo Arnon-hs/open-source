@@ -1,6 +1,6 @@
 # jeremylongshore/claude-code-plugins-plus-skills
 
-[![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&color=yellow)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&color=blue)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&color=yellow)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/stargazers) [![Forks](https://img.shields.io/github/forks/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&color=blue)](https://github.com/jeremylongshore/claude-code-plugins-plus-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > 425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ jeremylongshore/claude-code-plugins-plus-skills: jeremylongshore/claude-code-plu
 
 ### Русский
 
-jeremylongshore/claude-code-plugins-plus-skills: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+jeremylongshore/claude-code-plugins-plus-skills: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ jeremylongshore/claude-code-plugins-plus-skills：jeremylongshore/claude-code-pl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 71/100 |
-| integration | 94/100 |
-| production | 65/100 |
-| outlook | 71/100 |
-| adoption | 68/100 |
-| stars | 71/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

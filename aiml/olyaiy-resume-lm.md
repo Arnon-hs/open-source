@@ -1,6 +1,6 @@
 # olyaiy/resume-lm
 
-[![Stars](https://img.shields.io/github/stars/olyaiy/resume-lm?style=flat-square&color=yellow)](https://github.com/olyaiy/resume-lm/stargazers) [![Forks](https://img.shields.io/github/forks/olyaiy/resume-lm?style=flat-square&color=blue)](https://github.com/olyaiy/resume-lm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/olyaiy/resume-lm?style=flat-square&color=yellow)](https://github.com/olyaiy/resume-lm/stargazers) [![Forks](https://img.shields.io/github/forks/olyaiy/resume-lm?style=flat-square&color=blue)](https://github.com/olyaiy/resume-lm/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI resume builder • Next.js 15, React 19, Tailwind CSS • Tailor job-ready resumes in minutes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 259 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ olyaiy/resume‑lm 是一个基于 Next.js 15、React 19 与 Tailwind CSS 
 | forks | 52/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

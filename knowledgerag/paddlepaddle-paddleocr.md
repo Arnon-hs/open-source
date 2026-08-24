@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleOCR
 
-[![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square&color=yellow)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/PaddleOCR?style=flat-square&color=blue)](https://github.com/PaddlePaddle/PaddleOCR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat-square&color=yellow)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) [![Forks](https://img.shields.io/github/forks/PaddlePaddle/PaddleOCR?style=flat-square&color=blue)](https://github.com/PaddlePaddle/PaddleOCR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77.6k |
 | 🍴 **Forks** | 10.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Marketing
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ PaddleOCR 是基于 PaddlePaddle 的轻量级 OCR 工具箱，能够将任意 PD
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 80/100 |
+| recency | 20/100 |
 | adoption | 100/100 |
-| production | 84/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

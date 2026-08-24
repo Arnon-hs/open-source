@@ -1,6 +1,6 @@
 # microsoft/DirectXTex
 
-[![Stars](https://img.shields.io/github/stars/microsoft/DirectXTex?style=flat-square&color=yellow)](https://github.com/microsoft/DirectXTex/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/DirectXTex?style=flat-square&color=blue)](https://github.com/microsoft/DirectXTex/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/DirectXTex?style=flat-square&color=yellow)](https://github.com/microsoft/DirectXTex/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/DirectXTex?style=flat-square&color=blue)](https://github.com/microsoft/DirectXTex/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > DirectXTex texture processing library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 481 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ microsoft/DirectXTex：microsoft/DirectXTex may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 70/100 |
-| stars | 71/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # junhoyeo/tokscale
 
-[![Stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square&color=yellow)](https://github.com/junhoyeo/tokscale/stargazers) [![Forks](https://img.shields.io/github/forks/junhoyeo/tokscale?style=flat-square&color=blue)](https://github.com/junhoyeo/tokscale/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square&color=yellow)](https://github.com/junhoyeo/tokscale/stargazers) [![Forks](https://img.shields.io/github/forks/junhoyeo/tokscale?style=flat-square&color=blue)](https://github.com/junhoyeo/tokscale/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ junhoyeo/tokscale：junhoyeo/tokscale helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 69/100 |
-| adoption | 69/100 |
-| stars | 73/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

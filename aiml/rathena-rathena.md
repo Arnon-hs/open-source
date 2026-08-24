@@ -1,6 +1,6 @@
 # rathena/rathena
 
-[![Stars](https://img.shields.io/github/stars/rathena/rathena?style=flat-square&color=yellow)](https://github.com/rathena/rathena/stargazers) [![Forks](https://img.shields.io/github/forks/rathena/rathena?style=flat-square&color=blue)](https://github.com/rathena/rathena/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rathena/rathena?style=flat-square&color=yellow)](https://github.com/rathena/rathena/stargazers) [![Forks](https://img.shields.io/github/forks/rathena/rathena?style=flat-square&color=blue)](https://github.com/rathena/rathena/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > rAthena is an open-source cross-platform MMORPG server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rathena/rathena：rathena/rathena helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 78/100 |
 | stars | 75/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

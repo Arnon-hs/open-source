@@ -1,6 +1,6 @@
 # sjtug/SJTUBeamer
 
-[![Stars](https://img.shields.io/github/stars/sjtug/SJTUBeamer?style=flat-square&color=yellow)](https://github.com/sjtug/SJTUBeamer/stargazers) [![Forks](https://img.shields.io/github/forks/sjtug/SJTUBeamer?style=flat-square&color=blue)](https://github.com/sjtug/SJTUBeamer/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sjtug/SJTUBeamer?style=flat-square&color=yellow)](https://github.com/sjtug/SJTUBeamer/stargazers) [![Forks](https://img.shields.io/github/forks/sjtug/SJTUBeamer?style=flat-square&color=blue)](https://github.com/sjtug/SJTUBeamer/network) [![Language](https://img.shields.io/badge/lang-TeX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 上海交通大学 Beamer 模版 | Beamer template for Shanghai Jiao Tong University
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 753 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TeX |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ sjtug/SJTUBeamer：sjtug/SJTUBeamer helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
+| usefulness | 58/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 57/100 |
 | stars | 61/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

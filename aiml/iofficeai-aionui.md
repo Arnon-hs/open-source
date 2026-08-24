@@ -1,6 +1,6 @@
 # iOfficeAI/AionUi
 
-[![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&color=yellow)](https://github.com/iOfficeAI/AionUi/stargazers) [![Forks](https://img.shields.io/github/forks/iOfficeAI/AionUi?style=flat-square&color=blue)](https://github.com/iOfficeAI/AionUi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&color=yellow)](https://github.com/iOfficeAI/AionUi/stargazers) [![Forks](https://img.shields.io/github/forks/iOfficeAI/AionUi?style=flat-square&color=blue)](https://github.com/iOfficeAI/AionUi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ iOfficeAI/AionUi: iOfficeAI/AionUi helps add AI capability without starting from
 
 ### Русский
 
-iOfficeAI/AionUi: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+iOfficeAI/AionUi: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ iOfficeAI/AionUi：iOfficeAI/AionUi helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 81/100 |
-| integration | 62/100 |
-| production | 65/100 |
-| outlook | 71/100 |
-| adoption | 90/100 |
-| stars | 93/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

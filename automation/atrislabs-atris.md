@@ -1,6 +1,6 @@
 # atrislabs/atris
 
-[![Stars](https://img.shields.io/github/stars/atrislabs/atris?style=flat-square&color=yellow)](https://github.com/atrislabs/atris/stargazers) [![Forks](https://img.shields.io/github/forks/atrislabs/atris?style=flat-square&color=blue)](https://github.com/atrislabs/atris/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atrislabs/atris?style=flat-square&color=yellow)](https://github.com/atrislabs/atris/stargazers) [![Forks](https://img.shields.io/github/forks/atrislabs/atris?style=flat-square&color=blue)](https://github.com/atrislabs/atris/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > a self improving operating system for intelligence
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ atrislabs/atris 是一个面向智能体的自我改进操作系统，旨在通�
 | forks | 12/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

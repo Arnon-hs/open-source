@@ -1,6 +1,6 @@
 # dmonad/lib0
 
-[![Stars](https://img.shields.io/github/stars/dmonad/lib0?style=flat-square&color=yellow)](https://github.com/dmonad/lib0/stargazers) [![Forks](https://img.shields.io/github/forks/dmonad/lib0?style=flat-square&color=blue)](https://github.com/dmonad/lib0/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmonad/lib0?style=flat-square&color=yellow)](https://github.com/dmonad/lib0/stargazers) [![Forks](https://img.shields.io/github/forks/dmonad/lib0?style=flat-square&color=blue)](https://github.com/dmonad/lib0/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Monorepo of isomorphic utility functions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 440 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ dmonad/lib0 是一个以 Monorepo 形式组织的同构（isomorphic）工具函
 | forks | 47/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

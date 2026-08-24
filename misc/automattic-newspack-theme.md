@@ -1,6 +1,6 @@
 # Automattic/newspack-theme
 
-[![Stars](https://img.shields.io/github/stars/Automattic/newspack-theme?style=flat-square&color=yellow)](https://github.com/Automattic/newspack-theme/stargazers) [![Forks](https://img.shields.io/github/forks/Automattic/newspack-theme?style=flat-square&color=blue)](https://github.com/Automattic/newspack-theme/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Automattic/newspack-theme?style=flat-square&color=yellow)](https://github.com/Automattic/newspack-theme/stargazers) [![Forks](https://img.shields.io/github/forks/Automattic/newspack-theme?style=flat-square&color=blue)](https://github.com/Automattic/newspack-theme/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > A theme for Newspack.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 341 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -56,22 +56,22 @@ Automattic/newspack-theme：Automattic/newspack-theme may be useful when its REA
 - updated 2026-05-09
 - primary language: PHP
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 52/100 |
-| stars | 54/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

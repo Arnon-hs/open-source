@@ -1,6 +1,6 @@
 # timescale/timescaledb
 
-[![Stars](https://img.shields.io/github/stars/timescale/timescaledb?style=flat-square&color=yellow)](https://github.com/timescale/timescaledb/stargazers) [![Forks](https://img.shields.io/github/forks/timescale/timescaledb?style=flat-square&color=blue)](https://github.com/timescale/timescaledb/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timescale/timescaledb?style=flat-square&color=yellow)](https://github.com/timescale/timescaledb/stargazers) [![Forks](https://img.shields.io/github/forks/timescale/timescaledb?style=flat-square&color=blue)](https://github.com/timescale/timescaledb/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A time-series database for high-performance real-time analytics packaged as a Postgres extension
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ TimescaleDB（`timescale/timescaledb`）是一个基于 PostgreSQL 的时序数�
 | forks | 76/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 75/100 |
+| recency | 20/100 |
 | adoption | 88/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

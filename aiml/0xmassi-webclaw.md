@@ -1,6 +1,6 @@
 # 0xMassi/webclaw
 
-[![Stars](https://img.shields.io/github/stars/0xMassi/webclaw?style=flat-square&color=yellow)](https://github.com/0xMassi/webclaw/stargazers) [![Forks](https://img.shields.io/github/forks/0xMassi/webclaw?style=flat-square&color=blue)](https://github.com/0xMassi/webclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/0xMassi/webclaw?style=flat-square&color=yellow)](https://github.com/0xMassi/webclaw/stargazers) [![Forks](https://img.shields.io/github/forks/0xMassi/webclaw?style=flat-square&color=blue)](https://github.com/0xMassi/webclaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from Rust. CLI, REST API, and MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ AI/ML · Backend · DevTools
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 69/100 |
+| production | 55/100 |
+| outlook | 62/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

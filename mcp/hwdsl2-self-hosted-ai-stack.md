@@ -1,6 +1,6 @@
 # hwdsl2/self-hosted-ai-stack
 
-[![Stars](https://img.shields.io/github/stars/hwdsl2/self-hosted-ai-stack?style=flat-square&color=yellow)](https://github.com/hwdsl2/self-hosted-ai-stack/stargazers) [![Forks](https://img.shields.io/github/forks/hwdsl2/self-hosted-ai-stack?style=flat-square&color=blue)](https://github.com/hwdsl2/self-hosted-ai-stack/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hwdsl2/self-hosted-ai-stack?style=flat-square&color=yellow)](https://github.com/hwdsl2/self-hosted-ai-stack/stargazers) [![Forks](https://img.shields.io/github/forks/hwdsl2/self-hosted-ai-stack?style=flat-square&color=blue)](https://github.com/hwdsl2/self-hosted-ai-stack/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy a complete self-hosted AI stack with Docker Compose: Ollama, LiteLLM, AnythingLLM, Whisper, WhisperLive, Kokoro, Embeddings, Docling and MCP Gateway. Local-first, private by default, with lightweight stacks, optional HTTPS and NVIDIA CUDA acceleration. Multi-arch: amd64, arm64.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · DevTools · DevOps/Infra
+MCP · Knowledge/RAG · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ hwdsl2/self-hosted-ai-stack 是一个基于 Docker‑Compose 的全栈本地 AI 
 | forks | 34/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

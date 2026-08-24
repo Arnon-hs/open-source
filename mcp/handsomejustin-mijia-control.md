@@ -1,6 +1,6 @@
 # handsomejustin/mijia-control
 
-[![Stars](https://img.shields.io/github/stars/handsomejustin/mijia-control?style=flat-square&color=yellow)](https://github.com/handsomejustin/mijia-control/stargazers) [![Forks](https://img.shields.io/github/forks/handsomejustin/mijia-control?style=flat-square&color=blue)](https://github.com/handsomejustin/mijia-control/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/handsomejustin/mijia-control?style=flat-square&color=yellow)](https://github.com/handsomejustin/mijia-control/stargazers) [![Forks](https://img.shields.io/github/forks/handsomejustin/mijia-control?style=flat-square&color=blue)](https://github.com/handsomejustin/mijia-control/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > MijiaPilot - 小米-米家生态 × MCP × CLI x AI Agent × HomeKit 全桥接家庭智能家居平台。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ handsomejustin/mijia-control 提供了一个成熟且易于上手的桥接层，
 | forks | 19/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 29/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

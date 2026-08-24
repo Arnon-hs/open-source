@@ -1,6 +1,6 @@
 # higress-group/himarket
 
-[![Stars](https://img.shields.io/github/stars/higress-group/himarket?style=flat-square&color=yellow)](https://github.com/higress-group/himarket/stargazers) [![Forks](https://img.shields.io/github/forks/higress-group/himarket?style=flat-square&color=blue)](https://github.com/higress-group/himarket/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/higress-group/himarket?style=flat-square&color=yellow)](https://github.com/higress-group/himarket/stargazers) [![Forks](https://img.shields.io/github/forks/higress-group/himarket?style=flat-square&color=blue)](https://github.com/higress-group/himarket/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > HiMarket is an enterprise-level "AI Capability Marketplace and Developer Ecosystem Hub." It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc., through standardized product formats.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ HiMarket（higress‑group/himarket）是面向企业的 AI 能力商城与开�
 | forks | 55/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 79/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

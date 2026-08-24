@@ -1,6 +1,6 @@
 # emersonfelipesp/netbox-proxbox
 
-[![Stars](https://img.shields.io/github/stars/emersonfelipesp/netbox-proxbox?style=flat-square&color=yellow)](https://github.com/emersonfelipesp/netbox-proxbox/stargazers) [![Forks](https://img.shields.io/github/forks/emersonfelipesp/netbox-proxbox?style=flat-square&color=blue)](https://github.com/emersonfelipesp/netbox-proxbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emersonfelipesp/netbox-proxbox?style=flat-square&color=yellow)](https://github.com/emersonfelipesp/netbox-proxbox/stargazers) [![Forks](https://img.shields.io/github/forks/emersonfelipesp/netbox-proxbox?style=flat-square&color=blue)](https://github.com/emersonfelipesp/netbox-proxbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Netbox Plugin for integration between Proxmox and Netbox
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 539 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ emersonfelipesp/netbox-proxbox：emersonfelipesp/netbox-proxbox helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

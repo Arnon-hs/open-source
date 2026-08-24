@@ -1,6 +1,6 @@
 # grafana/mcp-k6
 
-[![Stars](https://img.shields.io/github/stars/grafana/mcp-k6?style=flat-square&color=yellow)](https://github.com/grafana/mcp-k6/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/mcp-k6?style=flat-square&color=blue)](https://github.com/grafana/mcp-k6/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grafana/mcp-k6?style=flat-square&color=yellow)](https://github.com/grafana/mcp-k6/stargazers) [![Forks](https://img.shields.io/github/forks/grafana/mcp-k6?style=flat-square&color=blue)](https://github.com/grafana/mcp-k6/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > k6 MCP server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Grafana 的 **mcp‑k6** 是一个基于 Go 实现的 **Model Context Protocol (
 | forks | 24/100 |
 | stars | 34/100 |
 | topics | 38/100 |
-| outlook | 68/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 40/100 |
+| recency | 20/100 |
 | adoption | 31/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

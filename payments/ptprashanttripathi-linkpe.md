@@ -1,6 +1,6 @@
 # PtPrashantTripathi/linkpe
 
-[![Stars](https://img.shields.io/github/stars/PtPrashantTripathi/linkpe?style=flat-square&color=yellow)](https://github.com/PtPrashantTripathi/linkpe/stargazers) [![Forks](https://img.shields.io/github/forks/PtPrashantTripathi/linkpe?style=flat-square&color=blue)](https://github.com/PtPrashantTripathi/linkpe/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PtPrashantTripathi/linkpe?style=flat-square&color=yellow)](https://github.com/PtPrashantTripathi/linkpe/stargazers) [![Forks](https://img.shields.io/github/forks/PtPrashantTripathi/linkpe?style=flat-square&color=blue)](https://github.com/PtPrashantTripathi/linkpe/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Linkpe is a Node.js based API🐳 to generate shareable UPI Payment links
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ PtPrashantTripathi/linkpe：PtPrashantTripathi/linkpe helps integrate monetizati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 43/100 |
-| stars | 43/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

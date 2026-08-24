@@ -1,6 +1,6 @@
 # bmadone/senior-software-engineer
 
-[![Stars](https://img.shields.io/github/stars/bmadone/senior-software-engineer?style=flat-square&color=yellow)](https://github.com/bmadone/senior-software-engineer/stargazers) [![Forks](https://img.shields.io/github/forks/bmadone/senior-software-engineer?style=flat-square&color=blue)](https://github.com/bmadone/senior-software-engineer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bmadone/senior-software-engineer?style=flat-square&color=yellow)](https://github.com/bmadone/senior-software-engineer/stargazers) [![Forks](https://img.shields.io/github/forks/bmadone/senior-software-engineer?style=flat-square&color=blue)](https://github.com/bmadone/senior-software-engineer/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of articles, books, and recommendations for senior-level interviews and assessments
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 407 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ bmadone/senior-software-engineer — это открытая подборка 
 
 ### 中文
 
-bmadone/senior-software-engineer：bmadone/senior-software-engineer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bmadone/senior-software-engineer：bmadone/senior-software-engineer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bmadone/senior-software-engineer：bmadone/senior-software-engineer helps add AI
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ bmadone/senior-software-engineer：bmadone/senior-software-engineer helps add AI
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 52/100 |
-| stars | 56/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

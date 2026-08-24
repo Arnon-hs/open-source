@@ -1,6 +1,6 @@
 # google-gemini/gemini-cli
 
-[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&color=yellow)](https://github.com/google-gemini/gemini-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-cli?style=flat-square&color=blue)](https://github.com/google-gemini/gemini-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&color=yellow)](https://github.com/google-gemini/gemini-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-cli?style=flat-square&color=blue)](https://github.com/google-gemini/gemini-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 103.3k |
 | 🍴 **Forks** | 13.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 89/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ google-gemini/gemini-cli：google-gemini/gemini-cli helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 100/100 |
-| production | 71/100 |
-| outlook | 78/100 |
+| production | 64/100 |
+| outlook | 71/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

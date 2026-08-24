@@ -1,6 +1,6 @@
 # sugarcube-sh/sugarcube
 
-[![Stars](https://img.shields.io/github/stars/sugarcube-sh/sugarcube?style=flat-square&color=yellow)](https://github.com/sugarcube-sh/sugarcube/stargazers) [![Forks](https://img.shields.io/github/forks/sugarcube-sh/sugarcube?style=flat-square&color=blue)](https://github.com/sugarcube-sh/sugarcube/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sugarcube-sh/sugarcube?style=flat-square&color=yellow)](https://github.com/sugarcube-sh/sugarcube/stargazers) [![Forks](https://img.shields.io/github/forks/sugarcube-sh/sugarcube?style=flat-square&color=blue)](https://github.com/sugarcube-sh/sugarcube/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Design tokens in, CSS and components out.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Database · Design
+Frontend · DevTools · Design
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Overall, Sugarcube offers a low‑friction way to standardise styling and accele
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 35/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

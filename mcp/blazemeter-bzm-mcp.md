@@ -1,6 +1,6 @@
 # Blazemeter/bzm-mcp
 
-[![Stars](https://img.shields.io/github/stars/Blazemeter/bzm-mcp?style=flat-square&color=yellow)](https://github.com/Blazemeter/bzm-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Blazemeter/bzm-mcp?style=flat-square&color=blue)](https://github.com/Blazemeter/bzm-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Blazemeter/bzm-mcp?style=flat-square&color=yellow)](https://github.com/Blazemeter/bzm-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Blazemeter/bzm-mcp?style=flat-square&color=blue)](https://github.com/Blazemeter/bzm-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Official BlazeMeter MCP Server for AI-driven performance testing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Database
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Blazemeter/bzm-mcp 是 BlazeMeter 官方发布的 MCP（Model Context Protocol�
 | forks | 23/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

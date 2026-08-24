@@ -1,6 +1,6 @@
 # itgoyo/TelegramBot
 
-[![Stars](https://img.shields.io/github/stars/itgoyo/TelegramBot?style=flat-square&color=yellow)](https://github.com/itgoyo/TelegramBot/stargazers) [![Forks](https://img.shields.io/github/forks/itgoyo/TelegramBot?style=flat-square&color=blue)](https://github.com/itgoyo/TelegramBot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itgoyo/TelegramBot?style=flat-square&color=yellow)](https://github.com/itgoyo/TelegramBot/stargazers) [![Forks](https://img.shields.io/github/forks/itgoyo/TelegramBot?style=flat-square&color=blue)](https://github.com/itgoyo/TelegramBot/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 持续收集更新全网最全最有趣的Telegram机器人🤖大全，相信总有你需要的一款机器人~
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ itgoyo/TelegramBot：itgoyo/TelegramBot helps teams reuse service infrastructure
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 63/100 |
 | stars | 68/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # bitwarden/android
 
-[![Stars](https://img.shields.io/github/stars/bitwarden/android?style=flat-square&color=yellow)](https://github.com/bitwarden/android/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/android?style=flat-square&color=blue)](https://github.com/bitwarden/android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitwarden/android?style=flat-square&color=yellow)](https://github.com/bitwarden/android/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/android?style=flat-square&color=blue)](https://github.com/bitwarden/android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 954 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Mobile · Security
+Mobile
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Bitwarden — это открытый менеджер паролей и ау�
 
 ### 中文
 
-bitwarden/android：bitwarden/android may be useful when its README and activity match a concrete workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bitwarden/android：bitwarden/android may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -43,12 +43,11 @@ bitwarden/android：bitwarden/android may be useful when its README and activity
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +63,16 @@ bitwarden/android：bitwarden/android may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 81/100 |
-| stars | 84/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| stars | 84/100 |
 | topics | 63/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

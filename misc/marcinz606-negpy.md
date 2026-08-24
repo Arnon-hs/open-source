@@ -1,6 +1,6 @@
 # marcinz606/NegPy
 
-[![Stars](https://img.shields.io/github/stars/marcinz606/NegPy?style=flat-square&color=yellow)](https://github.com/marcinz606/NegPy/stargazers) [![Forks](https://img.shields.io/github/forks/marcinz606/NegPy?style=flat-square&color=blue)](https://github.com/marcinz606/NegPy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcinz606/NegPy?style=flat-square&color=yellow)](https://github.com/marcinz606/NegPy/stargazers) [![Forks](https://img.shields.io/github/forks/marcinz606/NegPy?style=flat-square&color=blue)](https://github.com/marcinz606/NegPy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Tool for processing film negatives.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 609 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ NegPy（marcinz606/NegPy）是一个基于 Python 的开源工具库，专注于
 | forks | 39/100 |
 | stars | 59/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

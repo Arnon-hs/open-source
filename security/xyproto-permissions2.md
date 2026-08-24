@@ -1,6 +1,6 @@
 # xyproto/permissions2
 
-[![Stars](https://img.shields.io/github/stars/xyproto/permissions2?style=flat-square&color=yellow)](https://github.com/xyproto/permissions2/stargazers) [![Forks](https://img.shields.io/github/forks/xyproto/permissions2?style=flat-square&color=blue)](https://github.com/xyproto/permissions2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xyproto/permissions2?style=flat-square&color=yellow)](https://github.com/xyproto/permissions2/stargazers) [![Forks](https://img.shields.io/github/forks/xyproto/permissions2?style=flat-square&color=blue)](https://github.com/xyproto/permissions2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > :closed_lock_with_key: Middleware for keeping track of users, login states and permissions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 506 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ xyproto/permissions2 — это открытый middleware, обеспечив�
 
 ### 中文
 
-xyproto/permissions2：xyproto/permissions2 helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+xyproto/permissions2：xyproto/permissions2 helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ xyproto/permissions2：xyproto/permissions2 helps catch security and privacy iss
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ xyproto/permissions2：xyproto/permissions2 helps catch security and privacy iss
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 48/100 |
+| outlook | 46/100 |
 | adoption | 53/100 |
 | stars | 58/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

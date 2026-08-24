@@ -1,6 +1,6 @@
 # navikt/copilot
 
-[![Stars](https://img.shields.io/github/stars/navikt/copilot?style=flat-square&color=yellow)](https://github.com/navikt/copilot/stargazers) [![Forks](https://img.shields.io/github/forks/navikt/copilot?style=flat-square&color=blue)](https://github.com/navikt/copilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/navikt/copilot?style=flat-square&color=yellow)](https://github.com/navikt/copilot/stargazers) [![Forks](https://img.shields.io/github/forks/navikt/copilot?style=flat-square&color=blue)](https://github.com/navikt/copilot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > All things Copilot, Agents, MCPs, Skills, and coding related AI features for the Norwegian Government
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ navikt/copilot 是挪威政府面向 Copilot、AI 代理、模型上下文协议
 | forks | 28/100 |
 | stars | 35/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 42/100 |
+| recency | 20/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # github/spec-kit
 
-[![Stars](https://img.shields.io/github/stars/github/spec-kit?style=flat-square&color=yellow)](https://github.com/github/spec-kit/stargazers) [![Forks](https://img.shields.io/github/forks/github/spec-kit?style=flat-square&color=blue)](https://github.com/github/spec-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/github/spec-kit?style=flat-square&color=yellow)](https://github.com/github/spec-kit/stargazers) [![Forks](https://img.shields.io/github/forks/github/spec-kit?style=flat-square&color=blue)](https://github.com/github/spec-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 💫 Toolkit to help you get started with Spec-Driven Development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 93.5k |
 | 🍴 **Forks** | 8.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ github/spec-kit：github/spec-kit helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 83/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 69/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 98/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 88/100 |
+| outlook | 62/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

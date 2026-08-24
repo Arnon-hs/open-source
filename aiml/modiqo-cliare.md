@@ -1,6 +1,6 @@
 # modiqo/cliare
 
-[![Stars](https://img.shields.io/github/stars/modiqo/cliare?style=flat-square&color=yellow)](https://github.com/modiqo/cliare/stargazers) [![Forks](https://img.shields.io/github/forks/modiqo/cliare?style=flat-square&color=blue)](https://github.com/modiqo/cliare/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modiqo/cliare?style=flat-square&color=yellow)](https://github.com/modiqo/cliare/stargazers) [![Forks](https://img.shields.io/github/forks/modiqo/cliare?style=flat-square&color=blue)](https://github.com/modiqo/cliare/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > CLI agent-readiness measurement, command-shape inference, and CI scorecards
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 665 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Overall, claire offers a practical shortcut to embed AI readiness checks into de
 | forks | 40/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,0 +1,82 @@
+# adminsyspro/proxcenter-ui
+
+[![Stars](https://img.shields.io/github/stars/adminsyspro/proxcenter-ui?style=flat-square&color=yellow)](https://github.com/adminsyspro/proxcenter-ui/stargazers) [![Forks](https://img.shields.io/github/forks/adminsyspro/proxcenter-ui?style=flat-square&color=blue)](https://github.com/adminsyspro/proxcenter-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+
+> ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a single pane of glass.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 873 |
+| 🍴 **Forks** | 48 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`backup-management` `ceph` `cluster-management` `datacenter` `drs` `high-availability` `load-balancing` `monitoring` `pbs` `proxmox` `pve` `pve-cluster`
+
+## 🎯 Categories
+
+Observability
+
+## 📝 Summary
+
+### English
+
+ProxCenter is an open‑source web UI that serves as a unified management console for Proxmox environments, offering a modern, intuitive alternative to VMware vCenter. It lets administrators monitor and control multiple Proxmox VE clusters and Proxmox Backup Server instances from a single pane of glass, streamlining tasks such as VM provisioning, resource allocation, and backup management. The project includes both frontend and backend components, leveraging contemporary web technologies to deliver a seamless, cross‑cluster experience.
+
+### Русский
+
+ProxCenter — это открытая альтернатива VMware vCenter, предназначенная для управления несколькими кластерами Proxmox VE и серверами резервного копирования Proxmox Backup Server через единый современный веб‑интерфейс. Проект сочетает продвинутый frontend и надёжный backend, обеспечивая интуитивную работу, масштабируемость и удобный контроль над всей инфраструктурой. Он подходит как для небольших, так и для крупных виртуализированных сред.
+
+### 中文
+
+adminsyspro/proxcenter-ui：adminsyspro/proxcenter-ui helps make production behavior easier to inspect and debug.。适合用于monitor systems、debug production behavior。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** adminsyspro/proxcenter-ui helps make production behavior easier to inspect and debug.
+
+**Best use cases**
+
+- monitor systems
+- debug production behavior
+- track service health
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 873 GitHub stars
+- 48 forks
+- updated 2026-05-09
+- primary language: TypeScript
+- 15 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 42/100 |
+| stars | 63/100 |
+| topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/adminsyspro/proxcenter-ui) · [← Back to Observability](./README.md)</sub>

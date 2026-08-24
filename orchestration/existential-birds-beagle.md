@@ -1,6 +1,6 @@
 # existential-birds/beagle
 
-[![Stars](https://img.shields.io/github/stars/existential-birds/beagle?style=flat-square&color=yellow)](https://github.com/existential-birds/beagle/stargazers) [![Forks](https://img.shields.io/github/forks/existential-birds/beagle?style=flat-square&color=blue)](https://github.com/existential-birds/beagle/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/existential-birds/beagle?style=flat-square&color=yellow)](https://github.com/existential-birds/beagle/stargazers) [![Forks](https://img.shields.io/github/forks/existential-birds/beagle?style=flat-square&color=blue)](https://github.com/existential-birds/beagle/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skills marketplace: framework-aware skills for code review, documentation, test-plan generation, AI-writing detection, architectural analysis, and git workflows — for Python, Go, Rust, Elixir, React, Remix, and iOS/Swift. Works with Claude Code, Codex, and any agent that supports Agent Skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · DevTools
+Orchestration · AI/ML · Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ existential‑birds/beagle 是一个 Agent Skills 市场，提供面向多语�
 | forks | 25/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

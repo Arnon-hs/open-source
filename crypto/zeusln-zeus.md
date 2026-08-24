@@ -1,6 +1,6 @@
 # ZeusLN/zeus
 
-[![Stars](https://img.shields.io/github/stars/ZeusLN/zeus?style=flat-square&color=yellow)](https://github.com/ZeusLN/zeus/stargazers) [![Forks](https://img.shields.io/github/forks/ZeusLN/zeus?style=flat-square&color=blue)](https://github.com/ZeusLN/zeus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZeusLN/zeus?style=flat-square&color=yellow)](https://github.com/ZeusLN/zeus/stargazers) [![Forks](https://img.shields.io/github/forks/ZeusLN/zeus?style=flat-square&color=blue)](https://github.com/ZeusLN/zeus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A mobile Bitcoin wallet fit for the gods. ⚡️ Est. 563345
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Frontend
+Crypto · Payments · Frontend · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ZeusLN/zeus: ZeusLN/zeus helps prototype or inspect blockchain workflows with op
 
 ### Русский
 
-ZeusLN/zeus: open-source проект в категориях Crypto, Payments, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ZeusLN/zeus: open-source проект в категориях Crypto, Payments, Frontend, Mobile. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ZeusLN/zeus：ZeusLN/zeus helps prototype or inspect blockchain workflows with o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 59/100 |
-| adoption | 65/100 |
-| stars | 67/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # astropy/astropy
 
-[![Stars](https://img.shields.io/github/stars/astropy/astropy?style=flat-square&color=yellow)](https://github.com/astropy/astropy/stargazers) [![Forks](https://img.shields.io/github/forks/astropy/astropy?style=flat-square&color=blue)](https://github.com/astropy/astropy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/astropy/astropy?style=flat-square&color=yellow)](https://github.com/astropy/astropy/stargazers) [![Forks](https://img.shields.io/github/forks/astropy/astropy?style=flat-square&color=blue)](https://github.com/astropy/astropy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Astronomy and astrophysics core library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ AstroPy（`astropy/astropy`）是天文学与天体物理学领域的核心 Pyth
 | forks | 83/100 |
 | stars | 79/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

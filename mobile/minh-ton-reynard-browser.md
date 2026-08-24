@@ -1,6 +1,6 @@
 # minh-ton/reynard-browser
 
-[![Stars](https://img.shields.io/github/stars/minh-ton/reynard-browser?style=flat-square&color=yellow)](https://github.com/minh-ton/reynard-browser/stargazers) [![Forks](https://img.shields.io/github/forks/minh-ton/reynard-browser?style=flat-square&color=blue)](https://github.com/minh-ton/reynard-browser/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minh-ton/reynard-browser?style=flat-square&color=yellow)](https://github.com/minh-ton/reynard-browser/stargazers) [![Forks](https://img.shields.io/github/forks/minh-ton/reynard-browser?style=flat-square&color=blue)](https://github.com/minh-ton/reynard-browser/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > An experimental Gecko-based web browser for iOS 14+.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 519 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ minh‑ton/reynard-browser — экспериментальный веб‑бр�
 
 ### 中文
 
-minh-ton/reynard-browser：minh-ton/reynard-browser may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+minh-ton/reynard-browser：minh-ton/reynard-browser may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ minh-ton/reynard-browser：minh-ton/reynard-browser may be useful when its READM
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ minh-ton/reynard-browser：minh-ton/reynard-browser may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
-| adoption | 53/100 |
-| stars | 58/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 38/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # genlayerlabs/subzeroclaw
 
-[![Stars](https://img.shields.io/github/stars/genlayerlabs/subzeroclaw?style=flat-square&color=yellow)](https://github.com/genlayerlabs/subzeroclaw/stargazers) [![Forks](https://img.shields.io/github/forks/genlayerlabs/subzeroclaw?style=flat-square&color=blue)](https://github.com/genlayerlabs/subzeroclaw/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/genlayerlabs/subzeroclaw?style=flat-square&color=yellow)](https://github.com/genlayerlabs/subzeroclaw/stargazers) [![Forks](https://img.shields.io/github/forks/genlayerlabs/subzeroclaw?style=flat-square&color=blue)](https://github.com/genlayerlabs/subzeroclaw/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An agent small enough to run anywhere. A minimal agentic runtime in C — ~380 lines, 54KB binary, ~2MB RAM. A skill file + an LLM + a shell loop, no framework.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | C |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ genlayerlabs/subzeroclaw 提供了一个极简的 “agentic runtime”，仅用
 | forks | 30/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

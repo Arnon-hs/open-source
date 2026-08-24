@@ -1,6 +1,6 @@
 # Cortex-AI-Network/crypto-arbitrage-bot-automated-trading
 
-[![Stars](https://img.shields.io/github/stars/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading?style=flat-square&color=yellow)](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/stargazers) [![Forks](https://img.shields.io/github/forks/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading?style=flat-square&color=blue)](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading?style=flat-square&color=yellow)](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/stargazers) [![Forks](https://img.shields.io/github/forks/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading?style=flat-square&color=blue)](https://github.com/Cortex-AI-Network/crypto-arbitrage-bot-automated-trading/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Cortex AI: #1 AI Trading Bot for Crypto, Forex & Stocks. Automated Arbitrage Engine v3.4. Works on Solana, TON, Binance & Bybit. Best Free Crypto Trading Bot 2026.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 53 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · MCP · Knowledge/RAG · Automation
+Crypto · Trading · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ Cortex-AI-Network/crypto-arbitrage-bot-automated-trading：Cortex-AI-Network/cry
 | forks | 35/100 |
 | stars | 37/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

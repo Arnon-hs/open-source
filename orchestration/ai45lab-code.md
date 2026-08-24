@@ -1,6 +1,6 @@
 # AI45Lab/Code
 
-[![Stars](https://img.shields.io/github/stars/AI45Lab/Code?style=flat-square&color=yellow)](https://github.com/AI45Lab/Code/stargazers) [![Forks](https://img.shields.io/github/forks/AI45Lab/Code?style=flat-square&color=blue)](https://github.com/AI45Lab/Code/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AI45Lab/Code?style=flat-square&color=yellow)](https://github.com/AI45Lab/Code/stargazers) [![Forks](https://img.shields.io/github/forks/AI45Lab/Code?style=flat-square&color=blue)](https://github.com/AI45Lab/Code/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic Agent Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 148 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ AI45Lab/Code：AI45Lab/Code helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 41/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 48/100 |
-| adoption | 37/100 |
-| stars | 46/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 36/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 39/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

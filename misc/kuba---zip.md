@@ -1,6 +1,6 @@
 # kuba--/zip
 
-[![Stars](https://img.shields.io/github/stars/kuba--/zip?style=flat-square&color=yellow)](https://github.com/kuba--/zip/stargazers) [![Forks](https://img.shields.io/github/forks/kuba--/zip?style=flat-square&color=blue)](https://github.com/kuba--/zip/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kuba--/zip?style=flat-square&color=yellow)](https://github.com/kuba--/zip/stargazers) [![Forks](https://img.shields.io/github/forks/kuba--/zip?style=flat-square&color=blue)](https://github.com/kuba--/zip/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A portable, simple zip library written in C
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 305 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ kuba--/zip 是一款用 C 语言实现的轻量级、跨平台 ZIP 压缩/解压
 | forks | 62/100 |
 | stars | 68/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

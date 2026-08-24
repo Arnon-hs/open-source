@@ -1,6 +1,6 @@
 # xuwei95/ezdata
 
-[![Stars](https://img.shields.io/github/stars/xuwei95/ezdata?style=flat-square&color=yellow)](https://github.com/xuwei95/ezdata/stargazers) [![Forks](https://img.shields.io/github/forks/xuwei95/ezdata?style=flat-square&color=blue)](https://github.com/xuwei95/ezdata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xuwei95/ezdata?style=flat-square&color=yellow)](https://github.com/xuwei95/ezdata/stargazers) [![Forks](https://img.shields.io/github/forks/xuwei95/ezdata?style=flat-square&color=blue)](https://github.com/xuwei95/ezdata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 基于python和llm大模型开发的数据处理和任务调度系统。 支持数据源管理，数据模型管理，数据集成，数据查询API接口，低代码自定义数据处理任务模版，单任务及dag任务工作流调度等功能。集成了llm模块实现rag知识库问答，链接各数据源数据进行数据对话问答，交互式数据分析功能。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 285 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML · Backend · Data
+Knowledge/RAG · Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ xuwei95/ezdata 是一套基于 Python 与 LLM 大模型的开源数据处理与�
 | forks | 44/100 |
 | stars | 52/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

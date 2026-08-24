@@ -1,6 +1,6 @@
 # aplaceforallmystuff/mcp-arr
 
-[![Stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-arr?style=flat-square&color=yellow)](https://github.com/aplaceforallmystuff/mcp-arr/stargazers) [![Forks](https://img.shields.io/github/forks/aplaceforallmystuff/mcp-arr?style=flat-square&color=blue)](https://github.com/aplaceforallmystuff/mcp-arr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aplaceforallmystuff/mcp-arr?style=flat-square&color=yellow)](https://github.com/aplaceforallmystuff/mcp-arr/stargazers) [![Forks](https://img.shields.io/github/forks/aplaceforallmystuff/mcp-arr?style=flat-square&color=blue)](https://github.com/aplaceforallmystuff/mcp-arr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for *arr media management suite
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 169 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ aplaceforallmystuff/mcp-arr 是面向 *arr 系列媒体管理套件的 MCP（Mod
 | forks | 35/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

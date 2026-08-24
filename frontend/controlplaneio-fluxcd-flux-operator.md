@@ -1,6 +1,6 @@
 # controlplaneio-fluxcd/flux-operator
 
-[![Stars](https://img.shields.io/github/stars/controlplaneio-fluxcd/flux-operator?style=flat-square&color=yellow)](https://github.com/controlplaneio-fluxcd/flux-operator/stargazers) [![Forks](https://img.shields.io/github/forks/controlplaneio-fluxcd/flux-operator?style=flat-square&color=blue)](https://github.com/controlplaneio-fluxcd/flux-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/controlplaneio-fluxcd/flux-operator?style=flat-square&color=yellow)](https://github.com/controlplaneio-fluxcd/flux-operator/stargazers) [![Forks](https://img.shields.io/github/forks/controlplaneio-fluxcd/flux-operator?style=flat-square&color=blue)](https://github.com/controlplaneio-fluxcd/flux-operator/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > GitOps on Autopilot Mode
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 620 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ controlplaneio-fluxcd/flux-operator：controlplaneio-fluxcd/flux-operator helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

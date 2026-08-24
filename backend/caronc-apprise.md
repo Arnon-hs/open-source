@@ -1,6 +1,6 @@
 # caronc/apprise
 
-[![Stars](https://img.shields.io/github/stars/caronc/apprise?style=flat-square&color=yellow)](https://github.com/caronc/apprise/stargazers) [![Forks](https://img.shields.io/github/forks/caronc/apprise?style=flat-square&color=blue)](https://github.com/caronc/apprise/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caronc/apprise?style=flat-square&color=yellow)](https://github.com/caronc/apprise/stargazers) [![Forks](https://img.shields.io/github/forks/caronc/apprise?style=flat-square&color=blue)](https://github.com/caronc/apprise/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Apprise - Push Notifications that work with just about every platform!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.5k |
 | 🍴 **Forks** | 597 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ caronc/apprise：caronc/apprise helps teams reuse service infrastructure instead
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 78/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 70/100 |
-| adoption | 84/100 |
-| stars | 90/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

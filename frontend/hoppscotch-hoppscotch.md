@@ -1,6 +1,6 @@
 # hoppscotch/hoppscotch
 
-[![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat-square&color=yellow)](https://github.com/hoppscotch/hoppscotch/stargazers) [![Forks](https://img.shields.io/github/forks/hoppscotch/hoppscotch?style=flat-square&color=blue)](https://github.com/hoppscotch/hoppscotch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat-square&color=yellow)](https://github.com/hoppscotch/hoppscotch/stargazers) [![Forks](https://img.shields.io/github/forks/hoppscotch/hoppscotch?style=flat-square&color=blue)](https://github.com/hoppscotch/hoppscotch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 79.1k |
 | 🍴 **Forks** | 5.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ hoppscotch/hoppscotch：hoppscotch/hoppscotch helps ship user-facing interfaces 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 84/100 |
-| integration | 78/100 |
-| production | 68/100 |
-| outlook | 77/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 61/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

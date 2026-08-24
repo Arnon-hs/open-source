@@ -1,6 +1,6 @@
 # KylinMountain/TradingAgents-AShare
 
-[![Stars](https://img.shields.io/github/stars/KylinMountain/TradingAgents-AShare?style=flat-square&color=yellow)](https://github.com/KylinMountain/TradingAgents-AShare/stargazers) [![Forks](https://img.shields.io/github/forks/KylinMountain/TradingAgents-AShare?style=flat-square&color=blue)](https://github.com/KylinMountain/TradingAgents-AShare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KylinMountain/TradingAgents-AShare?style=flat-square&color=yellow)](https://github.com/KylinMountain/TradingAgents-AShare/stargazers) [![Forks](https://img.shields.io/github/forks/KylinMountain/TradingAgents-AShare?style=flat-square&color=blue)](https://github.com/KylinMountain/TradingAgents-AShare/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A 股多智能体智能投研系统 — 基于 TradingAgents 架构，15 名 AI Agent 模拟机构协作与实时辩论对抗，全流程可视化，支持 OpenClaw / Claude Code 集成，Docker 一键部署。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ KylinMountain/TradingAgents-AShare：KylinMountain/TradingAgents-AShare helps re
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 52/100 |
 | stars | 53/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

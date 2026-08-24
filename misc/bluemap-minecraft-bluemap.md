@@ -1,6 +1,6 @@
 # BlueMap-Minecraft/BlueMap
 
-[![Stars](https://img.shields.io/github/stars/BlueMap-Minecraft/BlueMap?style=flat-square&color=yellow)](https://github.com/BlueMap-Minecraft/BlueMap/stargazers) [![Forks](https://img.shields.io/github/forks/BlueMap-Minecraft/BlueMap?style=flat-square&color=blue)](https://github.com/BlueMap-Minecraft/BlueMap/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BlueMap-Minecraft/BlueMap?style=flat-square&color=yellow)](https://github.com/BlueMap-Minecraft/BlueMap/stargazers) [![Forks](https://img.shields.io/github/forks/BlueMap-Minecraft/BlueMap?style=flat-square&color=blue)](https://github.com/BlueMap-Minecraft/BlueMap/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ BlueMap 是一款开源的 Minecraft 地图渲染工具，能够把游戏世界�
 | forks | 59/100 |
 | stars | 73/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

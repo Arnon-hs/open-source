@@ -1,6 +1,6 @@
 # holoviz/panel
 
-[![Stars](https://img.shields.io/github/stars/holoviz/panel?style=flat-square&color=yellow)](https://github.com/holoviz/panel/stargazers) [![Forks](https://img.shields.io/github/forks/holoviz/panel?style=flat-square&color=blue)](https://github.com/holoviz/panel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holoviz/panel?style=flat-square&color=yellow)](https://github.com/holoviz/panel/stargazers) [![Forks](https://img.shields.io/github/forks/holoviz/panel?style=flat-square&color=blue)](https://github.com/holoviz/panel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Panel: The powerful data exploration & web app framework for Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 605 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ holoviz/panel：holoviz/panel helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 61/100 |
 | adoption | 77/100 |
 | stars | 80/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

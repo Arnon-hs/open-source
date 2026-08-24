@@ -1,6 +1,6 @@
 # kafbat/kafka-ui
 
-[![Stars](https://img.shields.io/github/stars/kafbat/kafka-ui?style=flat-square&color=yellow)](https://github.com/kafbat/kafka-ui/stargazers) [![Forks](https://img.shields.io/github/forks/kafbat/kafka-ui?style=flat-square&color=blue)](https://github.com/kafbat/kafka-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kafbat/kafka-ui?style=flat-square&color=yellow)](https://github.com/kafbat/kafka-ui/stargazers) [![Forks](https://img.shields.io/github/forks/kafbat/kafka-ui?style=flat-square&color=blue)](https://github.com/kafbat/kafka-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open-Source Web UI for managing Apache Kafka clusters
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 307 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Data
+Frontend · Data
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ kafbat/kafka‑ui 是一款开源的 Web UI，专门用于可视化管理 Apache
 | forks | 62/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

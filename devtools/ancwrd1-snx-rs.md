@@ -1,6 +1,6 @@
 # ancwrd1/snx-rs
 
-[![Stars](https://img.shields.io/github/stars/ancwrd1/snx-rs?style=flat-square&color=yellow)](https://github.com/ancwrd1/snx-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ancwrd1/snx-rs?style=flat-square&color=blue)](https://github.com/ancwrd1/snx-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ancwrd1/snx-rs?style=flat-square&color=yellow)](https://github.com/ancwrd1/snx-rs/stargazers) [![Forks](https://img.shields.io/github/forks/ancwrd1/snx-rs?style=flat-square&color=blue)](https://github.com/ancwrd1/snx-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Linux Client For Check Point VPN Tunnels
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ancwrd1/snx‑rs — это открытый клиент для Linux, поз
 
 ### 中文
 
-ancwrd1/snx-rs：ancwrd1/snx-rs helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ancwrd1/snx-rs：ancwrd1/snx-rs helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ancwrd1/snx-rs：ancwrd1/snx-rs helps engineers save time in daily development a
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ancwrd1/snx-rs：ancwrd1/snx-rs helps engineers save time in daily development a
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

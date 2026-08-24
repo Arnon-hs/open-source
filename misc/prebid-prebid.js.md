@@ -1,6 +1,6 @@
 # prebid/Prebid.js
 
-[![Stars](https://img.shields.io/github/stars/prebid/Prebid.js?style=flat-square&color=yellow)](https://github.com/prebid/Prebid.js/stargazers) [![Forks](https://img.shields.io/github/forks/prebid/Prebid.js?style=flat-square&color=blue)](https://github.com/prebid/Prebid.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prebid/Prebid.js?style=flat-square&color=yellow)](https://github.com/prebid/Prebid.js/stargazers) [![Forks](https://img.shields.io/github/forks/prebid/Prebid.js?style=flat-square&color=blue)](https://github.com/prebid/Prebid.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ prebid/Prebid.js：prebid/Prebid.js may be useful when its README and activity m
 | forks | 84/100 |
 | stars | 68/100 |
 | topics | 38/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

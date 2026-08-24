@@ -1,6 +1,6 @@
 # bluenviron/gortsplib
 
-[![Stars](https://img.shields.io/github/stars/bluenviron/gortsplib?style=flat-square&color=yellow)](https://github.com/bluenviron/gortsplib/stargazers) [![Forks](https://img.shields.io/github/forks/bluenviron/gortsplib?style=flat-square&color=blue)](https://github.com/bluenviron/gortsplib/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bluenviron/gortsplib?style=flat-square&color=yellow)](https://github.com/bluenviron/gortsplib/stargazers) [![Forks](https://img.shields.io/github/forks/bluenviron/gortsplib?style=flat-square&color=blue)](https://github.com/bluenviron/gortsplib/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > RTSP client and server library for the Go programming language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 927 |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ bluenviron/gortsplib 帮助团队快速部署 API 服务，重用后端基础设
 | forks | 61/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

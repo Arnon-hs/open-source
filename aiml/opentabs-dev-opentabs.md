@@ -1,6 +1,6 @@
 # opentabs-dev/opentabs
 
-[![Stars](https://img.shields.io/github/stars/opentabs-dev/opentabs?style=flat-square&color=yellow)](https://github.com/opentabs-dev/opentabs/stargazers) [![Forks](https://img.shields.io/github/forks/opentabs-dev/opentabs?style=flat-square&color=blue)](https://github.com/opentabs-dev/opentabs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opentabs-dev/opentabs?style=flat-square&color=yellow)](https://github.com/opentabs-dev/opentabs/stargazers) [![Forks](https://img.shields.io/github/forks/opentabs-dev/opentabs?style=flat-square&color=blue)](https://github.com/opentabs-dev/opentabs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Browser automation clicks buttons. OpenTabs calls APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ opentabs-dev/opentabs：opentabs-dev/opentabs helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 100/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 53/100 |
 | stars | 57/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

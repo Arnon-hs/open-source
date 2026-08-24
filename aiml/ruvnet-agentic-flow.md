@@ -1,6 +1,6 @@
 # ruvnet/agentic-flow
 
-[![Stars](https://img.shields.io/github/stars/ruvnet/agentic-flow?style=flat-square&color=yellow)](https://github.com/ruvnet/agentic-flow/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/agentic-flow?style=flat-square&color=blue)](https://github.com/ruvnet/agentic-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ruvnet/agentic-flow?style=flat-square&color=yellow)](https://github.com/ruvnet/agentic-flow/stargazers) [![Forks](https://img.shields.io/github/forks/ruvnet/agentic-flow?style=flat-square&color=blue)](https://github.com/ruvnet/agentic-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agents for real business purposes. Use Claude Code to get the agent working, then deploy it in your favorite cloud.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 691 |
 | 🍴 **Forks** | 159 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ ruvnet/agentic-flow：ruvnet/agentic-flow helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 59/100 |
-| stars | 60/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

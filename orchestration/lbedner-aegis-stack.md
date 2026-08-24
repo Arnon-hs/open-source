@@ -65,15 +65,15 @@ lbedner/aegis-stack：lbedner/aegis-stack helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 57/100 |
+| usefulness | 100/100 |
+| quality | 52/100 |
 | integration | 100/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 38/100 |
 | stars | 43/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

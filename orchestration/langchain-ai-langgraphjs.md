@@ -1,6 +1,6 @@
 # langchain-ai/langgraphjs
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs?style=flat-square&color=yellow)](https://github.com/langchain-ai/langgraphjs/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langgraphjs?style=flat-square&color=blue)](https://github.com/langchain-ai/langgraphjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langgraphjs?style=flat-square&color=yellow)](https://github.com/langchain-ai/langgraphjs/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langgraphjs?style=flat-square&color=blue)](https://github.com/langchain-ai/langgraphjs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Framework to build resilient language agents as graphs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 482 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ langchain-ai/langgraphjs：langchain-ai/langgraphjs helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 72/100 |
-| stars | 74/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| stars | 74/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

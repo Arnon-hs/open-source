@@ -1,6 +1,6 @@
 # Ezz-lol/boiii-free
 
-[![Stars](https://img.shields.io/github/stars/Ezz-lol/boiii-free?style=flat-square&color=yellow)](https://github.com/Ezz-lol/boiii-free/stargazers) [![Forks](https://img.shields.io/github/forks/Ezz-lol/boiii-free?style=flat-square&color=blue)](https://github.com/Ezz-lol/boiii-free/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ezz-lol/boiii-free?style=flat-square&color=yellow)](https://github.com/Ezz-lol/boiii-free/stargazers) [![Forks](https://img.shields.io/github/forks/Ezz-lol/boiii-free?style=flat-square&color=blue)](https://github.com/Ezz-lol/boiii-free/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Ezz!!!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ Ezz-lol/boiii-free 的生产可用性为中等（Medium），适合用于内部�
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

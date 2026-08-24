@@ -1,6 +1,6 @@
 # ChenChenyaqi/learn-anything
 
-[![Stars](https://img.shields.io/github/stars/ChenChenyaqi/learn-anything?style=flat-square&color=yellow)](https://github.com/ChenChenyaqi/learn-anything/stargazers) [![Forks](https://img.shields.io/github/forks/ChenChenyaqi/learn-anything?style=flat-square&color=blue)](https://github.com/ChenChenyaqi/learn-anything/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChenChenyaqi/learn-anything?style=flat-square&color=yellow)](https://github.com/ChenChenyaqi/learn-anything/stargazers) [![Forks](https://img.shields.io/github/forks/ChenChenyaqi/learn-anything?style=flat-square&color=blue)](https://github.com/ChenChenyaqi/learn-anything/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Learn Anything is an AI-powered recursive learning system — Socratic deep-dives and TDD-style exercises integrated directly into your coding assistant.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Education
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Learn Anything 是一个 AI 驱动的递归学习系统，能够在编码助手�
 | forks | 31/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

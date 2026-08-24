@@ -1,6 +1,6 @@
 # scalikejdbc/scalikejdbc
 
-[![Stars](https://img.shields.io/github/stars/scalikejdbc/scalikejdbc?style=flat-square&color=yellow)](https://github.com/scalikejdbc/scalikejdbc/stargazers) [![Forks](https://img.shields.io/github/forks/scalikejdbc/scalikejdbc?style=flat-square&color=blue)](https://github.com/scalikejdbc/scalikejdbc/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scalikejdbc/scalikejdbc?style=flat-square&color=yellow)](https://github.com/scalikejdbc/scalikejdbc/stargazers) [![Forks](https://img.shields.io/github/forks/scalikejdbc/scalikejdbc?style=flat-square&color=blue)](https://github.com/scalikejdbc/scalikejdbc/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ scalikejdbc/scalikejdbc：scalikejdbc/scalikejdbc helps teams reuse service infr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 64/100 |
 | stars | 66/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

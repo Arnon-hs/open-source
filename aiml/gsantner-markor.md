@@ -1,6 +1,6 @@
 # gsantner/markor
 
-[![Stars](https://img.shields.io/github/stars/gsantner/markor?style=flat-square&color=yellow)](https://github.com/gsantner/markor/stargazers) [![Forks](https://img.shields.io/github/forks/gsantner/markor?style=flat-square&color=blue)](https://github.com/gsantner/markor/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gsantner/markor?style=flat-square&color=yellow)](https://github.com/gsantner/markor/stargazers) [![Forks](https://img.shields.io/github/forks/gsantner/markor?style=flat-square&color=blue)](https://github.com/gsantner/markor/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gsantner/markor：gsantner/markor helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 53/100 |
+| outlook | 58/100 |
 | adoption | 76/100 |
 | stars | 80/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

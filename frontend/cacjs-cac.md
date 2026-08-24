@@ -1,6 +1,6 @@
 # cacjs/cac
 
-[![Stars](https://img.shields.io/github/stars/cacjs/cac?style=flat-square&color=yellow)](https://github.com/cacjs/cac/stargazers) [![Forks](https://img.shields.io/github/forks/cacjs/cac?style=flat-square&color=blue)](https://github.com/cacjs/cac/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cacjs/cac?style=flat-square&color=yellow)](https://github.com/cacjs/cac/stargazers) [![Forks](https://img.shields.io/github/forks/cacjs/cac?style=flat-square&color=blue)](https://github.com/cacjs/cac/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Simple yet powerful framework for building command-line apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cacjs/cac：cacjs/cac helps ship user-facing interfaces with less custom UI work
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 54/100 |
+| outlook | 57/100 |
 | adoption | 68/100 |
 | stars | 74/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

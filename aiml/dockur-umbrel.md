@@ -1,6 +1,6 @@
 # dockur/umbrel
 
-[![Stars](https://img.shields.io/github/stars/dockur/umbrel?style=flat-square&color=yellow)](https://github.com/dockur/umbrel/stargazers) [![Forks](https://img.shields.io/github/forks/dockur/umbrel?style=flat-square&color=blue)](https://github.com/dockur/umbrel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dockur/umbrel?style=flat-square&color=yellow)](https://github.com/dockur/umbrel/stargazers) [![Forks](https://img.shields.io/github/forks/dockur/umbrel?style=flat-square&color=blue)](https://github.com/dockur/umbrel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > umbrelOS inside a Docker container.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 378 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ dockur/umbrel：dockur/umbrel helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 51/100 |
 | stars | 55/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # debugmcp/mcp-debugger
 
-[![Stars](https://img.shields.io/github/stars/debugmcp/mcp-debugger?style=flat-square&color=yellow)](https://github.com/debugmcp/mcp-debugger/stargazers) [![Forks](https://img.shields.io/github/forks/debugmcp/mcp-debugger?style=flat-square&color=blue)](https://github.com/debugmcp/mcp-debugger/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/debugmcp/mcp-debugger?style=flat-square&color=yellow)](https://github.com/debugmcp/mcp-debugger/stargazers) [![Forks](https://img.shields.io/github/forks/debugmcp/mcp-debugger?style=flat-square&color=blue)](https://github.com/debugmcp/mcp-debugger/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A headless, agentic debugger over MCP — let your AI agents debug running programs in six languages.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · AI/ML
+MCP
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ debugmcp/mcp‑debugger 是一个 **无头、可代理的调试器**，基于 Mo
 | forks | 32/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

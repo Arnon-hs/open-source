@@ -1,6 +1,6 @@
 # Chunyu33/light-c
 
-[![Stars](https://img.shields.io/github/stars/Chunyu33/light-c?style=flat-square&color=yellow)](https://github.com/Chunyu33/light-c/stargazers) [![Forks](https://img.shields.io/github/forks/Chunyu33/light-c?style=flat-square&color=blue)](https://github.com/Chunyu33/light-c/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chunyu33/light-c?style=flat-square&color=yellow)](https://github.com/Chunyu33/light-c/stargazers) [![Forks](https://img.shields.io/github/forks/Chunyu33/light-c?style=flat-square&color=blue)](https://github.com/Chunyu33/light-c/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 免费、极简、轻量且高性能的C盘清理工具
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 244 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Chunyu33/light‑c 是一款 **免费、极简、轻量且高性能** 的 C 盘�
 | forks | 28/100 |
 | stars | 51/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 45/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

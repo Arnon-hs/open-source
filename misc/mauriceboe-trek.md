@@ -1,6 +1,6 @@
 # mauriceboe/TREK
 
-[![Stars](https://img.shields.io/github/stars/mauriceboe/TREK?style=flat-square&color=yellow)](https://github.com/mauriceboe/TREK/stargazers) [![Forks](https://img.shields.io/github/forks/mauriceboe/TREK?style=flat-square&color=blue)](https://github.com/mauriceboe/TREK/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mauriceboe/TREK?style=flat-square&color=yellow)](https://github.com/mauriceboe/TREK/stargazers) [![Forks](https://img.shields.io/github/forks/mauriceboe/TREK?style=flat-square&color=blue)](https://github.com/mauriceboe/TREK/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.8k |
 | 🍴 **Forks** | 572 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ mauriceboe/TREK：mauriceboe/TREK may be useful when its README and activity mat
 | forks | 69/100 |
 | stars | 80/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

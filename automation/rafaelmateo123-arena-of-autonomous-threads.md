@@ -1,6 +1,6 @@
 # rafaelmateo123/Arena-of-Autonomous-Threads
 
-[![Stars](https://img.shields.io/github/stars/rafaelmateo123/Arena-of-Autonomous-Threads?style=flat-square&color=yellow)](https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads/stargazers) [![Forks](https://img.shields.io/github/forks/rafaelmateo123/Arena-of-Autonomous-Threads?style=flat-square&color=blue)](https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafaelmateo123/Arena-of-Autonomous-Threads?style=flat-square&color=yellow)](https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads/stargazers) [![Forks](https://img.shields.io/github/forks/rafaelmateo123/Arena-of-Autonomous-Threads?style=flat-square&color=blue)](https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Marketing
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Arena‑of‑Autonomous‑Threads 是一个面向 LLM 的本地 Reddit 论坛模
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 69/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # crossxx-labs/free-proxy
 
-[![Stars](https://img.shields.io/github/stars/crossxx-labs/free-proxy?style=flat-square&color=yellow)](https://github.com/crossxx-labs/free-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/crossxx-labs/free-proxy?style=flat-square&color=blue)](https://github.com/crossxx-labs/free-proxy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crossxx-labs/free-proxy?style=flat-square&color=yellow)](https://github.com/crossxx-labs/free-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/crossxx-labs/free-proxy?style=flat-square&color=blue)](https://github.com/crossxx-labs/free-proxy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Provide free clash subscriptions of ssr / vmess / hysteria2 proxy servers 提供免费clash订阅，免费ssr节点，免费trojan节点，免费vmess节点，免费hysteria2节点服务器
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ crossxx-labs/free-proxy 在 **快速验证**、**内部研发** 或 **低成本�
 | forks | 47/100 |
 | stars | 68/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # aofp/yume
 
-[![Stars](https://img.shields.io/github/stars/aofp/yume?style=flat-square&color=yellow)](https://github.com/aofp/yume/stargazers) [![Forks](https://img.shields.io/github/forks/aofp/yume?style=flat-square&color=blue)](https://github.com/aofp/yume/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aofp/yume?style=flat-square&color=yellow)](https://github.com/aofp/yume/stargazers) [![Forks](https://img.shields.io/github/forks/aofp/yume?style=flat-square&color=blue)](https://github.com/aofp/yume/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Native desktop UI for Claude Code with orchestration, streaming, background agents, and multi-provider support. Built with Tauri + React.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ aofp/yume：aofp/yume helps turn isolated prompts and tools into repeatable agen
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 57/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 39/100 |
-| stars | 45/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

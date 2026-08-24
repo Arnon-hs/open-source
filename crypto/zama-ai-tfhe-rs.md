@@ -1,6 +1,6 @@
 # zama-ai/tfhe-rs
 
-[![Stars](https://img.shields.io/github/stars/zama-ai/tfhe-rs?style=flat-square&color=yellow)](https://github.com/zama-ai/tfhe-rs/stargazers) [![Forks](https://img.shields.io/github/forks/zama-ai/tfhe-rs?style=flat-square&color=blue)](https://github.com/zama-ai/tfhe-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zama-ai/tfhe-rs?style=flat-square&color=yellow)](https://github.com/zama-ai/tfhe-rs/stargazers) [![Forks](https://img.shields.io/github/forks/zama-ai/tfhe-rs?style=flat-square&color=blue)](https://github.com/zama-ai/tfhe-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > TFHE-rs: A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TFHE‑rs — это полностью написанная на Rust биб�
 
 ### 中文
 
-zama-ai/tfhe-rs：zama-ai/tfhe-rs helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+zama-ai/tfhe-rs：zama-ai/tfhe-rs helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ zama-ai/tfhe-rs：zama-ai/tfhe-rs helps prototype or inspect blockchain workflow
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ zama-ai/tfhe-rs：zama-ai/tfhe-rs helps prototype or inspect blockchain workflow
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 54/100 |
+| production | 47/100 |
+| outlook | 47/100 |
 | adoption | 67/100 |
 | stars | 68/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

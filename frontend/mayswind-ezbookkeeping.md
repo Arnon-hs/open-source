@@ -1,6 +1,6 @@
 # mayswind/ezbookkeeping
 
-[![Stars](https://img.shields.io/github/stars/mayswind/ezbookkeeping?style=flat-square&color=yellow)](https://github.com/mayswind/ezbookkeeping/stargazers) [![Forks](https://img.shields.io/github/forks/mayswind/ezbookkeeping?style=flat-square&color=blue)](https://github.com/mayswind/ezbookkeeping/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mayswind/ezbookkeeping?style=flat-square&color=yellow)](https://github.com/mayswind/ezbookkeeping/stargazers) [![Forks](https://img.shields.io/github/forks/mayswind/ezbookkeeping?style=flat-square&color=blue)](https://github.com/mayswind/ezbookkeeping/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 514 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ mayswind/ezbookkeeping：mayswind/ezbookkeeping helps ship user-facing interface
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 78/100 |
-| production | 64/100 |
-| outlook | 64/100 |
-| adoption | 75/100 |
-| stars | 78/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

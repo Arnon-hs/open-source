@@ -1,6 +1,6 @@
 # msaad00/agent-bom
 
-[![Stars](https://img.shields.io/github/stars/msaad00/agent-bom?style=flat-square&color=yellow)](https://github.com/msaad00/agent-bom/stargazers) [![Forks](https://img.shields.io/github/forks/msaad00/agent-bom?style=flat-square&color=blue)](https://github.com/msaad00/agent-bom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/msaad00/agent-bom?style=flat-square&color=yellow)](https://github.com/msaad00/agent-bom/stargazers) [![Forks](https://img.shields.io/github/forks/msaad00/agent-bom?style=flat-square&color=blue)](https://github.com/msaad00/agent-bom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > AI supply-chain & cloud security scanner and self-hosted control plane — agents, MCP, packages, cloud estate, non-human identities, and LLM cost. SBOM/SARIF, graph attack-paths, runtime enforcement, and compliance evidence.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ msaad00/agent-bom：msaad00/agent-bom helps connect AI assistants to real tools 
 | forks | 24/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # CursorTouch/Windows-MCP
 
-[![Stars](https://img.shields.io/github/stars/CursorTouch/Windows-MCP?style=flat-square&color=yellow)](https://github.com/CursorTouch/Windows-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/CursorTouch/Windows-MCP?style=flat-square&color=blue)](https://github.com/CursorTouch/Windows-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CursorTouch/Windows-MCP?style=flat-square&color=yellow)](https://github.com/CursorTouch/Windows-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/CursorTouch/Windows-MCP?style=flat-square&color=blue)](https://github.com/CursorTouch/Windows-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > MCP Server for Computer Use in Windows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 716 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ CursorTouch/Windows-MCP 是一款在 Windows 环境下实现 Model Context P
 | forks | 71/100 |
 | stars | 80/100 |
 | topics | 75/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 77/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # vadimdemedes/ink
 
-[![Stars](https://img.shields.io/github/stars/vadimdemedes/ink?style=flat-square&color=yellow)](https://github.com/vadimdemedes/ink/stargazers) [![Forks](https://img.shields.io/github/forks/vadimdemedes/ink?style=flat-square&color=blue)](https://github.com/vadimdemedes/ink/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vadimdemedes/ink?style=flat-square&color=yellow)](https://github.com/vadimdemedes/ink/stargazers) [![Forks](https://img.shields.io/github/forks/vadimdemedes/ink?style=flat-square&color=blue)](https://github.com/vadimdemedes/ink/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🌈 React for interactive command-line apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38.3k |
 | 🍴 **Forks** | 981 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Ink (vadimdemedes/ink) brings the component‑based model of React to the termin
 | forks | 75/100 |
 | stars | 98/100 |
 | topics | 75/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
 | adoption | 91/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

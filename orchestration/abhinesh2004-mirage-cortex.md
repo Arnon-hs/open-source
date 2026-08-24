@@ -1,6 +1,6 @@
 # Abhinesh2004/mirage-cortex
 
-[![Stars](https://img.shields.io/github/stars/Abhinesh2004/mirage-cortex?style=flat-square&color=yellow)](https://github.com/Abhinesh2004/mirage-cortex/stargazers) [![Forks](https://img.shields.io/github/forks/Abhinesh2004/mirage-cortex?style=flat-square&color=blue)](https://github.com/Abhinesh2004/mirage-cortex/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Abhinesh2004/mirage-cortex?style=flat-square&color=yellow)](https://github.com/Abhinesh2004/mirage-cortex/stargazers) [![Forks](https://img.shields.io/github/forks/Abhinesh2004/mirage-cortex?style=flat-square&color=blue)](https://github.com/Abhinesh2004/mirage-cortex/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Top Agent Swarm Simulation Tools for LLM World Modeling 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Abhinesh2004/mirage-cortex 的生产可用性为中等（Medium）。它适用�
 | forks | 0/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

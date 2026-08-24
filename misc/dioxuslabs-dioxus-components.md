@@ -1,6 +1,6 @@
 # DioxusLabs/dioxus-components
 
-[![Stars](https://img.shields.io/github/stars/DioxusLabs/dioxus-components?style=flat-square&color=yellow)](https://github.com/DioxusLabs/dioxus-components/stargazers) [![Forks](https://img.shields.io/github/forks/DioxusLabs/dioxus-components?style=flat-square&color=blue)](https://github.com/DioxusLabs/dioxus-components/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DioxusLabs/dioxus-components?style=flat-square&color=yellow)](https://github.com/DioxusLabs/dioxus-components/stargazers) [![Forks](https://img.shields.io/github/forks/DioxusLabs/dioxus-components?style=flat-square&color=blue)](https://github.com/DioxusLabs/dioxus-components/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Accessible, unstyled, foundational components for Dioxus.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 298 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -133,14 +133,15 @@ Dioxus‑Labs 的 **dioxus-components** 是一套为 Dioxus 框架提供的可
 | forks | 45/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # softmata/horus
 
-[![Stars](https://img.shields.io/github/stars/softmata/horus?style=flat-square&color=yellow)](https://github.com/softmata/horus/stargazers) [![Forks](https://img.shields.io/github/forks/softmata/horus?style=flat-square&color=blue)](https://github.com/softmata/horus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/softmata/horus?style=flat-square&color=yellow)](https://github.com/softmata/horus/stargazers) [![Forks](https://img.shields.io/github/forks/softmata/horus?style=flat-square&color=blue)](https://github.com/softmata/horus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Fastest Robotics Runtime System.  If phones have Android, robots deserve HORUS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 383 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools · Mobile
+Automation · Mobile
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ softmata/horus 是一套基于 Rust 的超高速机器人运行时系统，口�
 | forks | 37/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

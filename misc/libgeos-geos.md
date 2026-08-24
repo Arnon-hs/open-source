@@ -1,6 +1,6 @@
 # libgeos/geos
 
-[![Stars](https://img.shields.io/github/stars/libgeos/geos?style=flat-square&color=yellow)](https://github.com/libgeos/geos/stargazers) [![Forks](https://img.shields.io/github/forks/libgeos/geos?style=flat-square&color=blue)](https://github.com/libgeos/geos/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libgeos/geos?style=flat-square&color=yellow)](https://github.com/libgeos/geos/stargazers) [![Forks](https://img.shields.io/github/forks/libgeos/geos?style=flat-square&color=blue)](https://github.com/libgeos/geos/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Geometry Engine, Open Source
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 410 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ libgeos/geos 是一个用 C++ 实现的开源几何运算库（Geometry Engine�
 | forks | 65/100 |
 | stars | 67/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

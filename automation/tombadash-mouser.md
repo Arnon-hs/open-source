@@ -1,6 +1,6 @@
 # TomBadash/Mouser
 
-[![Stars](https://img.shields.io/github/stars/TomBadash/Mouser?style=flat-square&color=yellow)](https://github.com/TomBadash/Mouser/stargazers) [![Forks](https://img.shields.io/github/forks/TomBadash/Mouser?style=flat-square&color=blue)](https://github.com/TomBadash/Mouser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TomBadash/Mouser?style=flat-square&color=yellow)](https://github.com/TomBadash/Mouser/stargazers) [![Forks](https://img.shields.io/github/forks/TomBadash/Mouser?style=flat-square&color=blue)](https://github.com/TomBadash/Mouser/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, open-source, fully local alternative to Logitech Options+ for remapping Logitech HID++ mice.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Product
+Automation
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ TomBadash/Mouser 是一款轻量级、完全本地化的开源工具，用于替
 | forks | 52/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 70/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

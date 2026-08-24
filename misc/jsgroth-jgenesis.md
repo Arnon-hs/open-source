@@ -1,6 +1,6 @@
 # jsgroth/jgenesis
 
-[![Stars](https://img.shields.io/github/stars/jsgroth/jgenesis?style=flat-square&color=yellow)](https://github.com/jsgroth/jgenesis/stargazers) [![Forks](https://img.shields.io/github/forks/jsgroth/jgenesis?style=flat-square&color=blue)](https://github.com/jsgroth/jgenesis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jsgroth/jgenesis?style=flat-square&color=yellow)](https://github.com/jsgroth/jgenesis/stargazers) [![Forks](https://img.shields.io/github/forks/jsgroth/jgenesis?style=flat-square&color=blue)](https://github.com/jsgroth/jgenesis/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Sega Genesis / Sega CD / SNES / Master System / Game Gear emulator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -57,22 +57,22 @@ jsgroth/jgenesis：jsgroth/jgenesis may be useful when its README and activity m
 - primary language: Rust
 - 2 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 47/100 |
-| adoption | 47/100 |
-| stars | 54/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 25/100 |
+| outlook | 40/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

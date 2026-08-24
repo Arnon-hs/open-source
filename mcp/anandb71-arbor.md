@@ -1,6 +1,6 @@
 # Anandb71/arbor
 
-[![Stars](https://img.shields.io/github/stars/Anandb71/arbor?style=flat-square&color=yellow)](https://github.com/Anandb71/arbor/stargazers) [![Forks](https://img.shields.io/github/forks/Anandb71/arbor?style=flat-square&color=blue)](https://github.com/Anandb71/arbor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Anandb71/arbor?style=flat-square&color=yellow)](https://github.com/Anandb71/arbor/stargazers) [![Forks](https://img.shields.io/github/forks/Anandb71/arbor?style=flat-square&color=blue)](https://github.com/Anandb71/arbor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Graph-native code intelligence that replaces embedding-based RAG with deterministic program understanding.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 140 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Anandb71/arbor 是一个面向图结构的代码智能平台，它用确定性�
 | forks | 33/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Alishahryar1/free-claude-code
 
-[![Stars](https://img.shields.io/github/stars/Alishahryar1/free-claude-code?style=flat-square&color=yellow)](https://github.com/Alishahryar1/free-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/Alishahryar1/free-claude-code?style=flat-square&color=blue)](https://github.com/Alishahryar1/free-claude-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alishahryar1/free-claude-code?style=flat-square&color=yellow)](https://github.com/Alishahryar1/free-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/Alishahryar1/free-claude-code?style=flat-square&color=blue)](https://github.com/Alishahryar1/free-claude-code/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23.4k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ Alishahryar1/free-claude-code：Alishahryar1/free-claude-code may be useful when
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 55/100 |
-| adoption | 92/100 |
-| stars | 93/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| stars | 93/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

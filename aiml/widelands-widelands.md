@@ -1,6 +1,6 @@
 # widelands/widelands
 
-[![Stars](https://img.shields.io/github/stars/widelands/widelands?style=flat-square&color=yellow)](https://github.com/widelands/widelands/stargazers) [![Forks](https://img.shields.io/github/forks/widelands/widelands?style=flat-square&color=blue)](https://github.com/widelands/widelands/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/widelands/widelands?style=flat-square&color=yellow)](https://github.com/widelands/widelands/stargazers) [![Forks](https://img.shields.io/github/forks/widelands/widelands?style=flat-square&color=blue)](https://github.com/widelands/widelands/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ widelands/widelands：widelands/widelands helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 73/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

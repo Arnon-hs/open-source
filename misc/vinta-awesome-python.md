@@ -1,6 +1,6 @@
 # vinta/awesome-python
 
-[![Stars](https://img.shields.io/github/stars/vinta/awesome-python?style=flat-square&color=yellow)](https://github.com/vinta/awesome-python/stargazers) [![Forks](https://img.shields.io/github/forks/vinta/awesome-python?style=flat-square&color=blue)](https://github.com/vinta/awesome-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vinta/awesome-python?style=flat-square&color=yellow)](https://github.com/vinta/awesome-python/stargazers) [![Forks](https://img.shields.io/github/forks/vinta/awesome-python?style=flat-square&color=blue)](https://github.com/vinta/awesome-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > An opinionated list of Python frameworks, libraries, tools, and resources
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 296.3k |
 | 🍴 **Forks** | 27.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ vinta/awesome-python：vinta/awesome-python may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 81/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 71/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 75/100 |
+| outlook | 64/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

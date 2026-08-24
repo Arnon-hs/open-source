@@ -1,6 +1,6 @@
 # bjornbytes/lovr
 
-[![Stars](https://img.shields.io/github/stars/bjornbytes/lovr?style=flat-square&color=yellow)](https://github.com/bjornbytes/lovr/stargazers) [![Forks](https://img.shields.io/github/forks/bjornbytes/lovr?style=flat-square&color=blue)](https://github.com/bjornbytes/lovr/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bjornbytes/lovr?style=flat-square&color=yellow)](https://github.com/bjornbytes/lovr/stargazers) [![Forks](https://img.shields.io/github/forks/bjornbytes/lovr?style=flat-square&color=blue)](https://github.com/bjornbytes/lovr/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Lua Virtual Reality Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | C |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ The project shows strong production signals: recent commits (as of 2026‑06‑2
 | forks | 55/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

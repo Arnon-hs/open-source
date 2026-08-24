@@ -1,6 +1,6 @@
 # teng-lin/notebooklm-py
 
-[![Stars](https://img.shields.io/github/stars/teng-lin/notebooklm-py?style=flat-square&color=yellow)](https://github.com/teng-lin/notebooklm-py/stargazers) [![Forks](https://img.shields.io/github/forks/teng-lin/notebooklm-py?style=flat-square&color=blue)](https://github.com/teng-lin/notebooklm-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teng-lin/notebooklm-py?style=flat-square&color=yellow)](https://github.com/teng-lin/notebooklm-py/stargazers) [![Forks](https://img.shields.io/github/forks/teng-lin/notebooklm-py?style=flat-square&color=blue)](https://github.com/teng-lin/notebooklm-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.9k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 83/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ teng-lin/notebooklm-py：teng-lin/notebooklm-py helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 100/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 62/100 |
+| outlook | 68/100 |
 | adoption | 86/100 |
 | stars | 87/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # beyond-all-reason/Beyond-All-Reason
 
-[![Stars](https://img.shields.io/github/stars/beyond-all-reason/Beyond-All-Reason?style=flat-square&color=yellow)](https://github.com/beyond-all-reason/Beyond-All-Reason/stargazers) [![Forks](https://img.shields.io/github/forks/beyond-all-reason/Beyond-All-Reason?style=flat-square&color=blue)](https://github.com/beyond-all-reason/Beyond-All-Reason/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beyond-all-reason/Beyond-All-Reason?style=flat-square&color=yellow)](https://github.com/beyond-all-reason/Beyond-All-Reason/stargazers) [![Forks](https://img.shields.io/github/forks/beyond-all-reason/Beyond-All-Reason?style=flat-square&color=blue)](https://github.com/beyond-all-reason/Beyond-All-Reason/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Main game repository for Beyond All Reason.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 584 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Beyond All Reason — это открытый репозиторий осно�
 
 ### 中文
 
-beyond-all-reason/Beyond-All-Reason：beyond-all-reason/Beyond-All-Reason helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+beyond-all-reason/Beyond-All-Reason：beyond-all-reason/Beyond-All-Reason helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ beyond-all-reason/Beyond-All-Reason：beyond-all-reason/Beyond-All-Reason helps 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ beyond-all-reason/Beyond-All-Reason：beyond-all-reason/Beyond-All-Reason helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
+| production | 45/100 |
+| outlook | 44/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

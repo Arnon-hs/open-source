@@ -1,6 +1,6 @@
 # SonarSource/sonar-dotnet
 
-[![Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet?style=flat-square&color=yellow)](https://github.com/SonarSource/sonar-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonar-dotnet?style=flat-square&color=blue)](https://github.com/SonarSource/sonar-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SonarSource/sonar-dotnet?style=flat-square&color=yellow)](https://github.com/SonarSource/sonar-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/SonarSource/sonar-dotnet?style=flat-square&color=blue)](https://github.com/SonarSource/sonar-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Code analyzer for C# and VB.NET projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 909 |
 | 🍴 **Forks** | 242 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ SonarSource/sonar-dotnet 是 SonarSource 官方维护的开源代码分析器，
 | forks | 60/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

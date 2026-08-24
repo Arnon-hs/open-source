@@ -1,6 +1,6 @@
 # Significant-Gravitas/AutoGPT
 
-[![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=flat-square&color=yellow)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) [![Forks](https://img.shields.io/github/forks/Significant-Gravitas/AutoGPT?style=flat-square&color=blue)](https://github.com/Significant-Gravitas/AutoGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=flat-square&color=yellow)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) [![Forks](https://img.shields.io/github/forks/Significant-Gravitas/AutoGPT?style=flat-square&color=blue)](https://github.com/Significant-Gravitas/AutoGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 185.1k |
 | 🍴 **Forks** | 46.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend
+Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Significant‑Gravitas/AutoGPT 是一套面向所有人的可访问 AI 平台，
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 98/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 77/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 86/100 |
+| production | 66/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

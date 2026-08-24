@@ -1,6 +1,6 @@
 # kornelski/dssim
 
-[![Stars](https://img.shields.io/github/stars/kornelski/dssim?style=flat-square&color=yellow)](https://github.com/kornelski/dssim/stargazers) [![Forks](https://img.shields.io/github/forks/kornelski/dssim?style=flat-square&color=blue)](https://github.com/kornelski/dssim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kornelski/dssim?style=flat-square&color=yellow)](https://github.com/kornelski/dssim/stargazers) [![Forks](https://img.shields.io/github/forks/kornelski/dssim?style=flat-square&color=blue)](https://github.com/kornelski/dssim/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Image similarity comparison simulating human perception (multiscale SSIM in Rust)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ kornelski/dssim — это кроссплатформенная библиот
 
 ### 中文
 
-kornelski/dssim：kornelski/dssim may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kornelski/dssim：kornelski/dssim may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ kornelski/dssim：kornelski/dssim may be useful when its README and activity mat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ kornelski/dssim：kornelski/dssim may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 60/100 |
-| stars | 65/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

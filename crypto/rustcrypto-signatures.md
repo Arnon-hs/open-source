@@ -1,6 +1,6 @@
 # RustCrypto/signatures
 
-[![Stars](https://img.shields.io/github/stars/RustCrypto/signatures?style=flat-square&color=yellow)](https://github.com/RustCrypto/signatures/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/signatures?style=flat-square&color=blue)](https://github.com/RustCrypto/signatures/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustCrypto/signatures?style=flat-square&color=yellow)](https://github.com/RustCrypto/signatures/stargazers) [![Forks](https://img.shields.io/github/forks/RustCrypto/signatures?style=flat-square&color=blue)](https://github.com/RustCrypto/signatures/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Cryptographic signature algorithms: DSA, ECDSA, Ed25519
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 633 |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ RustCrypto/signatures — это открытая библиотека на Ru
 
 ### 中文
 
-RustCrypto/signatures：RustCrypto/signatures helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+RustCrypto/signatures：RustCrypto/signatures helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ RustCrypto/signatures：RustCrypto/signatures helps prototype or inspect blockch
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ RustCrypto/signatures：RustCrypto/signatures helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 59/100 |
 | stars | 60/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

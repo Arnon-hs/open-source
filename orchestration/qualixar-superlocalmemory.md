@@ -1,6 +1,6 @@
 # qualixar/superlocalmemory
 
-[![Stars](https://img.shields.io/github/stars/qualixar/superlocalmemory?style=flat-square&color=yellow)](https://github.com/qualixar/superlocalmemory/stargazers) [![Forks](https://img.shields.io/github/forks/qualixar/superlocalmemory?style=flat-square&color=blue)](https://github.com/qualixar/superlocalmemory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qualixar/superlocalmemory?style=flat-square&color=yellow)](https://github.com/qualixar/superlocalmemory/stargazers) [![Forks](https://img.shields.io/github/forks/qualixar/superlocalmemory?style=flat-square&color=blue)](https://github.com/qualixar/superlocalmemory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > World's first local-only AI memory to break 74% retrieval and 60% zero-LLM on LoCoMo. No cloud, no APIs, no data leaves your machine. Additionally, mode C (LLM/Cloud) - 87.7% LoCoMo. Research-backed. arXiv: 2603.14588
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ qualixar/superlocalmemory：qualixar/superlocalmemory helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 59/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 41/100 |
-| stars | 46/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

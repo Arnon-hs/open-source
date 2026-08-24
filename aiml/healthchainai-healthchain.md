@@ -1,6 +1,6 @@
 # healthchainai/HealthChain
 
-[![Stars](https://img.shields.io/github/stars/healthchainai/HealthChain?style=flat-square&color=yellow)](https://github.com/healthchainai/HealthChain/stargazers) [![Forks](https://img.shields.io/github/forks/healthchainai/HealthChain?style=flat-square&color=blue)](https://github.com/healthchainai/HealthChain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/healthchainai/HealthChain?style=flat-square&color=yellow)](https://github.com/healthchainai/HealthChain/stargazers) [![Forks](https://img.shields.io/github/forks/healthchainai/HealthChain?style=flat-square&color=blue)](https://github.com/healthchainai/HealthChain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 194 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ healthchainai/HealthChain：healthchainai/HealthChain helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 46/100 |
-| stars | 49/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

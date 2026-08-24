@@ -1,6 +1,6 @@
 # zigflow/zigflow
 
-[![Stars](https://img.shields.io/github/stars/zigflow/zigflow?style=flat-square&color=yellow)](https://github.com/zigflow/zigflow/stargazers) [![Forks](https://img.shields.io/github/forks/zigflow/zigflow?style=flat-square&color=blue)](https://github.com/zigflow/zigflow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zigflow/zigflow?style=flat-square&color=yellow)](https://github.com/zigflow/zigflow/stargazers) [![Forks](https://img.shields.io/github/forks/zigflow/zigflow?style=flat-square&color=blue)](https://github.com/zigflow/zigflow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Define durable workflows in YAML, powered by Temporal
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Zigflow — это open‑source платформа, позволяющая о�
 
 ### 中文
 
-zigflow/zigflow：zigflow/zigflow helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+zigflow/zigflow：zigflow/zigflow helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ zigflow/zigflow：zigflow/zigflow helps prototype or inspect blockchain workflow
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ zigflow/zigflow：zigflow/zigflow helps prototype or inspect blockchain workflow
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 41/100 |
 | stars | 46/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # lf-edge/eve
 
-[![Stars](https://img.shields.io/github/stars/lf-edge/eve?style=flat-square&color=yellow)](https://github.com/lf-edge/eve/stargazers) [![Forks](https://img.shields.io/github/forks/lf-edge/eve?style=flat-square&color=blue)](https://github.com/lf-edge/eve/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lf-edge/eve?style=flat-square&color=yellow)](https://github.com/lf-edge/eve/stargazers) [![Forks](https://img.shields.io/github/forks/lf-edge/eve?style=flat-square&color=blue)](https://github.com/lf-edge/eve/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > EVE is Edge Virtualization Engine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 544 |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ lf-edge/eve 的生产可用性非常高，因为它有：
 | forks | 57/100 |
 | stars | 58/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

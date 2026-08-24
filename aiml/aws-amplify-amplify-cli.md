@@ -1,6 +1,6 @@
 # aws-amplify/amplify-cli
 
-[![Stars](https://img.shields.io/github/stars/aws-amplify/amplify-cli?style=flat-square&color=yellow)](https://github.com/aws-amplify/amplify-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aws-amplify/amplify-cli?style=flat-square&color=blue)](https://github.com/aws-amplify/amplify-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-amplify/amplify-cli?style=flat-square&color=yellow)](https://github.com/aws-amplify/amplify-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aws-amplify/amplify-cli?style=flat-square&color=blue)](https://github.com/aws-amplify/amplify-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 820 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aws-amplify/amplify-cli：aws-amplify/amplify-cli helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 72/100 |
+| production | 57/100 |
+| outlook | 65/100 |
 | adoption | 73/100 |
 | stars | 74/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

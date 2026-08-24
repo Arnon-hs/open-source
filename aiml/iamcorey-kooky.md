@@ -1,6 +1,6 @@
 # iAmCorey/kooky
 
-[![Stars](https://img.shields.io/github/stars/iAmCorey/kooky?style=flat-square&color=yellow)](https://github.com/iAmCorey/kooky/stargazers) [![Forks](https://img.shields.io/github/forks/iAmCorey/kooky?style=flat-square&color=blue)](https://github.com/iAmCorey/kooky/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iAmCorey/kooky?style=flat-square&color=yellow)](https://github.com/iAmCorey/kooky/stargazers) [![Forks](https://img.shields.io/github/forks/iAmCorey/kooky?style=flat-square&color=blue)](https://github.com/iAmCorey/kooky/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click Node and branch switching.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 511 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ iAmCorey/kooky 是一款面向 AI 编码的极简现代终端，提供侧边栏�
 | forks | 35/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

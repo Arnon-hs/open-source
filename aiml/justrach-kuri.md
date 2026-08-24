@@ -1,6 +1,6 @@
 # justrach/kuri
 
-[![Stars](https://img.shields.io/github/stars/justrach/kuri?style=flat-square&color=yellow)](https://github.com/justrach/kuri/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/kuri?style=flat-square&color=blue)](https://github.com/justrach/kuri/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/justrach/kuri?style=flat-square&color=yellow)](https://github.com/justrach/kuri/stargazers) [![Forks](https://img.shields.io/github/forks/justrach/kuri?style=flat-square&color=blue)](https://github.com/justrach/kuri/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ justrach/kuri：justrach/kuri helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 66/100 |
+| production | 51/100 |
+| outlook | 59/100 |
 | adoption | 46/100 |
 | stars | 53/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

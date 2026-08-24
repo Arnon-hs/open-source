@@ -1,6 +1,6 @@
 # kernelslacker/trinity
 
-[![Stars](https://img.shields.io/github/stars/kernelslacker/trinity?style=flat-square&color=yellow)](https://github.com/kernelslacker/trinity/stargazers) [![Forks](https://img.shields.io/github/forks/kernelslacker/trinity?style=flat-square&color=blue)](https://github.com/kernelslacker/trinity/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kernelslacker/trinity?style=flat-square&color=yellow)](https://github.com/kernelslacker/trinity/stargazers) [![Forks](https://img.shields.io/github/forks/kernelslacker/trinity?style=flat-square&color=blue)](https://github.com/kernelslacker/trinity/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Linux system call fuzzer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 903 |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Trinity 的生产可用性是中等的。它可以用于开发环境和内部工
 | forks | 60/100 |
 | stars | 63/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

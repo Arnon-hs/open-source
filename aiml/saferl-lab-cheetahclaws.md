@@ -1,6 +1,6 @@
 # SafeRL-Lab/cheetahclaws
 
-[![Stars](https://img.shields.io/github/stars/SafeRL-Lab/cheetahclaws?style=flat-square&color=yellow)](https://github.com/SafeRL-Lab/cheetahclaws/stargazers) [![Forks](https://img.shields.io/github/forks/SafeRL-Lab/cheetahclaws?style=flat-square&color=blue)](https://github.com/SafeRL-Lab/cheetahclaws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SafeRL-Lab/cheetahclaws?style=flat-square&color=yellow)](https://github.com/SafeRL-Lab/cheetahclaws/stargazers) [![Forks](https://img.shields.io/github/forks/SafeRL-Lab/cheetahclaws?style=flat-square&color=blue)](https://github.com/SafeRL-Lab/cheetahclaws/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > CheetahClaws (Nano Claude Code): A Fast, Easy-to-Use, Production-Ready, Python-Native Personal AI Assistant for Any Model, Inspired by OpenClaw and Claude Code, Built to Work for You Autonomously 24/7.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 643 |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ SafeRL-Lab/cheetahclaws: SafeRL-Lab/cheetahclaws helps add AI capability without
 
 ### Русский
 
-SafeRL-Lab/cheetahclaws: open-source проект в категориях AI/ML, Frontend, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SafeRL-Lab/cheetahclaws: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ SafeRL-Lab/cheetahclaws：SafeRL-Lab/cheetahclaws helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 60/100 |
-| stars | 60/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

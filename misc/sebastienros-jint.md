@@ -1,6 +1,6 @@
 # sebastienros/jint
 
-[![Stars](https://img.shields.io/github/stars/sebastienros/jint?style=flat-square&color=yellow)](https://github.com/sebastienros/jint/stargazers) [![Forks](https://img.shields.io/github/forks/sebastienros/jint?style=flat-square&color=blue)](https://github.com/sebastienros/jint/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sebastienros/jint?style=flat-square&color=yellow)](https://github.com/sebastienros/jint/stargazers) [![Forks](https://img.shields.io/github/forks/sebastienros/jint?style=flat-square&color=blue)](https://github.com/sebastienros/jint/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Javascript Interpreter for .NET
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 596 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Jint — это полностью реализованный интерпре�
 
 ### 中文
 
-sebastienros/jint：sebastienros/jint may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sebastienros/jint：sebastienros/jint may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sebastienros/jint：sebastienros/jint may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ sebastienros/jint：sebastienros/jint may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 76/100 |
-| stars | 78/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

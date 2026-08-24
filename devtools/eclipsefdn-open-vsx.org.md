@@ -1,6 +1,6 @@
 # EclipseFdn/open-vsx.org
 
-[![Stars](https://img.shields.io/github/stars/EclipseFdn/open-vsx.org?style=flat-square&color=yellow)](https://github.com/EclipseFdn/open-vsx.org/stargazers) [![Forks](https://img.shields.io/github/forks/EclipseFdn/open-vsx.org?style=flat-square&color=blue)](https://github.com/EclipseFdn/open-vsx.org/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EclipseFdn/open-vsx.org?style=flat-square&color=yellow)](https://github.com/EclipseFdn/open-vsx.org/stargazers) [![Forks](https://img.shields.io/github/forks/EclipseFdn/open-vsx.org?style=flat-square&color=blue)](https://github.com/EclipseFdn/open-vsx.org/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Source of open-vsx.org
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 335 |
 | 🍴 **Forks** | 133 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ EclipseFdn/open-vsx.org：EclipseFdn/open-vsx.org helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 51/100 |
+| outlook | 49/100 |
 | adoption | 54/100 |
 | stars | 54/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

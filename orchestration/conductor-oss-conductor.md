@@ -1,6 +1,6 @@
 # conductor-oss/conductor
 
-[![Stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=flat-square&color=yellow)](https://github.com/conductor-oss/conductor/stargazers) [![Forks](https://img.shields.io/github/forks/conductor-oss/conductor?style=flat-square&color=blue)](https://github.com/conductor-oss/conductor/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=flat-square&color=yellow)](https://github.com/conductor-oss/conductor/stargazers) [![Forks](https://img.shields.io/github/forks/conductor-oss/conductor?style=flat-square&color=blue)](https://github.com/conductor-oss/conductor/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.8k |
 | 🍴 **Forks** | 886 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ conductor-oss/conductor：conductor-oss/conductor helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 80/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 74/100 |
-| adoption | 90/100 |
-| stars | 96/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # mlflow/mlflow
 
-[![Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=flat-square&color=yellow)](https://github.com/mlflow/mlflow/stargazers) [![Forks](https://img.shields.io/github/forks/mlflow/mlflow?style=flat-square&color=blue)](https://github.com/mlflow/mlflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=flat-square&color=yellow)](https://github.com/mlflow/mlflow/stargazers) [![Forks](https://img.shields.io/github/forks/mlflow/mlflow?style=flat-square&color=blue)](https://github.com/mlflow/mlflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.8k |
 | 🍴 **Forks** | 5.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mlflow/mlflow: mlflow/mlflow helps turn isolated prompts and tools into repeatab
 
 ### Русский
 
-mlflow/mlflow: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mlflow/mlflow: open-source проект в категориях Orchestration, AI/ML, Observability. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ mlflow/mlflow：mlflow/mlflow helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 82/100 |
-| integration | 62/100 |
-| production | 65/100 |
-| outlook | 72/100 |
-| adoption | 94/100 |
-| stars | 94/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

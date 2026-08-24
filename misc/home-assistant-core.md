@@ -1,6 +1,6 @@
 # home-assistant/core
 
-[![Stars](https://img.shields.io/github/stars/home-assistant/core?style=flat-square&color=yellow)](https://github.com/home-assistant/core/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/core?style=flat-square&color=blue)](https://github.com/home-assistant/core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/home-assistant/core?style=flat-square&color=yellow)](https://github.com/home-assistant/core/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant/core?style=flat-square&color=blue)](https://github.com/home-assistant/core/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > :house_with_garden: Open source home automation that puts local control and privacy first.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 86.9k |
 | 🍴 **Forks** | 37.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ home-assistant/core：home-assistant/core may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 71/100 |
+| production | 57/100 |
+| outlook | 64/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

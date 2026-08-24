@@ -1,6 +1,6 @@
 # kaelzhang/shell-safe-rm
 
-[![Stars](https://img.shields.io/github/stars/kaelzhang/shell-safe-rm?style=flat-square&color=yellow)](https://github.com/kaelzhang/shell-safe-rm/stargazers) [![Forks](https://img.shields.io/github/forks/kaelzhang/shell-safe-rm?style=flat-square&color=blue)](https://github.com/kaelzhang/shell-safe-rm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaelzhang/shell-safe-rm?style=flat-square&color=yellow)](https://github.com/kaelzhang/shell-safe-rm/stargazers) [![Forks](https://img.shields.io/github/forks/kaelzhang/shell-safe-rm?style=flat-square&color=blue)](https://github.com/kaelzhang/shell-safe-rm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 599 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -131,14 +131,15 @@ Overall, *shell-safe-rm* offers a pragmatic safety net for file deletions with a
 | forks | 40/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

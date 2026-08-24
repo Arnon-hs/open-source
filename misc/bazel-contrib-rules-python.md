@@ -1,6 +1,6 @@
 # bazel-contrib/rules_python
 
-[![Stars](https://img.shields.io/github/stars/bazel-contrib/rules_python?style=flat-square&color=yellow)](https://github.com/bazel-contrib/rules_python/stargazers) [![Forks](https://img.shields.io/github/forks/bazel-contrib/rules_python?style=flat-square&color=blue)](https://github.com/bazel-contrib/rules_python/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bazel-contrib/rules_python?style=flat-square&color=yellow)](https://github.com/bazel-contrib/rules_python/stargazers) [![Forks](https://img.shields.io/github/forks/bazel-contrib/rules_python?style=flat-square&color=blue)](https://github.com/bazel-contrib/rules_python/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Bazel Python Rules
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 678 |
 | 🍴 **Forks** | 699 |
 | 💻 **Language** | Starlark |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -76,14 +76,15 @@ bazel-contrib/rules_python 是一个开源项目，提供了一个用于 Bazel �
 | forks | 71/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

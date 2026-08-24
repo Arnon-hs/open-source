@@ -1,6 +1,6 @@
 # nerves-hub/nerves_hub_web
 
-[![Stars](https://img.shields.io/github/stars/nerves-hub/nerves_hub_web?style=flat-square&color=yellow)](https://github.com/nerves-hub/nerves_hub_web/stargazers) [![Forks](https://img.shields.io/github/forks/nerves-hub/nerves_hub_web?style=flat-square&color=blue)](https://github.com/nerves-hub/nerves_hub_web/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nerves-hub/nerves_hub_web?style=flat-square&color=yellow)](https://github.com/nerves-hub/nerves_hub_web/stargazers) [![Forks](https://img.shields.io/github/forks/nerves-hub/nerves_hub_web?style=flat-square&color=blue)](https://github.com/nerves-hub/nerves_hub_web/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Manage firmware updates for Nerves devices
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 265 |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ nerves‑hub/nerves_hub_web is an open‑source Elixir web UI for the Nerves Hub
 | forks | 49/100 |
 | stars | 52/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

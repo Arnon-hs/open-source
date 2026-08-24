@@ -1,6 +1,6 @@
 # backstabslash/goccc
 
-[![Stars](https://img.shields.io/github/stars/backstabslash/goccc?style=flat-square&color=yellow)](https://github.com/backstabslash/goccc/stargazers) [![Forks](https://img.shields.io/github/forks/backstabslash/goccc?style=flat-square&color=blue)](https://github.com/backstabslash/goccc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backstabslash/goccc?style=flat-square&color=yellow)](https://github.com/backstabslash/goccc/stargazers) [![Forks](https://img.shields.io/github/forks/backstabslash/goccc?style=flat-square&color=blue)](https://github.com/backstabslash/goccc/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, zero-dependency cost calculator and customizable statusline for Claude Code. Breakdowns by model, day, project, and branch. Lightweight, single binary, no runtime needed.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ backstabslash/goccc 是一款 **零依赖、单二进制** 的成本计算与可
 | forks | 17/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

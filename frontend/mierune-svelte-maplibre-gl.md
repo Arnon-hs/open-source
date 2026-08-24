@@ -1,6 +1,6 @@
 # MIERUNE/svelte-maplibre-gl
 
-[![Stars](https://img.shields.io/github/stars/MIERUNE/svelte-maplibre-gl?style=flat-square&color=yellow)](https://github.com/MIERUNE/svelte-maplibre-gl/stargazers) [![Forks](https://img.shields.io/github/forks/MIERUNE/svelte-maplibre-gl?style=flat-square&color=blue)](https://github.com/MIERUNE/svelte-maplibre-gl/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MIERUNE/svelte-maplibre-gl?style=flat-square&color=yellow)](https://github.com/MIERUNE/svelte-maplibre-gl/stargazers) [![Forks](https://img.shields.io/github/forks/MIERUNE/svelte-maplibre-gl?style=flat-square&color=blue)](https://github.com/MIERUNE/svelte-maplibre-gl/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Svelte 5 wrapper for 🗺 MapLibre GL JS — Build interactive web maps effortlessly with Svelte’s reactive and declarative power 🚀
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 301 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MIERUNE/svelte-maplibre-gl — это открытый обёртка‑ком
 
 ### 中文
 
-MIERUNE/svelte-maplibre-gl：MIERUNE/svelte-maplibre-gl helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MIERUNE/svelte-maplibre-gl：MIERUNE/svelte-maplibre-gl helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ MIERUNE/svelte-maplibre-gl：MIERUNE/svelte-maplibre-gl helps ship user-facing i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ MIERUNE/svelte-maplibre-gl：MIERUNE/svelte-maplibre-gl helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 47/100 |
 | stars | 53/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

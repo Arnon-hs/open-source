@@ -1,6 +1,6 @@
 # web-infra-dev/rslint
 
-[![Stars](https://img.shields.io/github/stars/web-infra-dev/rslint?style=flat-square&color=yellow)](https://github.com/web-infra-dev/rslint/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/rslint?style=flat-square&color=blue)](https://github.com/web-infra-dev/rslint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web-infra-dev/rslint?style=flat-square&color=yellow)](https://github.com/web-infra-dev/rslint/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/rslint?style=flat-square&color=blue)](https://github.com/web-infra-dev/rslint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Go Faster. Go Typed
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 395 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ web-infra-dev/rslint：web-infra-dev/rslint helps engineers save time in daily d
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 53/100 |
+| production | 51/100 |
+| outlook | 46/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

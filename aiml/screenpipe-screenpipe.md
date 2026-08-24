@@ -1,6 +1,6 @@
 # screenpipe/screenpipe
 
-[![Stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=flat-square&color=yellow)](https://github.com/screenpipe/screenpipe/stargazers) [![Forks](https://img.shields.io/github/forks/screenpipe/screenpipe?style=flat-square&color=blue)](https://github.com/screenpipe/screenpipe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=flat-square&color=yellow)](https://github.com/screenpipe/screenpipe/stargazers) [![Forks](https://img.shields.io/github/forks/screenpipe/screenpipe?style=flat-square&color=blue)](https://github.com/screenpipe/screenpipe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.6k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ screenpipe/screenpipe：screenpipe/screenpipe helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 80/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 68/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| stars | 91/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

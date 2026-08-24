@@ -1,6 +1,6 @@
 # permit0-ai/permit0
 
-[![Stars](https://img.shields.io/github/stars/permit0-ai/permit0?style=flat-square&color=yellow)](https://github.com/permit0-ai/permit0/stargazers) [![Forks](https://img.shields.io/github/forks/permit0-ai/permit0?style=flat-square&color=blue)](https://github.com/permit0-ai/permit0/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/permit0-ai/permit0?style=flat-square&color=yellow)](https://github.com/permit0-ai/permit0/stargazers) [![Forks](https://img.shields.io/github/forks/permit0-ai/permit0?style=flat-square&color=blue)](https://github.com/permit0-ai/permit0/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Stop AI agents from doing things they shouldn't. The action authorization layer — pre-execution, deterministic, policies included. Drop in. Day one.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Permit0（`permit0-ai/permit0`）为 AI 代理提供“执行前”授权层，�
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

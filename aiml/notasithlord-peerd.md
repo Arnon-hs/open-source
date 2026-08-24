@@ -1,6 +1,6 @@
 # NotASithLord/peerd
 
-[![Stars](https://img.shields.io/github/stars/NotASithLord/peerd?style=flat-square&color=yellow)](https://github.com/NotASithLord/peerd/stargazers) [![Forks](https://img.shields.io/github/forks/NotASithLord/peerd?style=flat-square&color=blue)](https://github.com/NotASithLord/peerd/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NotASithLord/peerd?style=flat-square&color=yellow)](https://github.com/NotASithLord/peerd/stargazers) [![Forks](https://img.shields.io/github/forks/NotASithLord/peerd?style=flat-square&color=blue)](https://github.com/NotASithLord/peerd/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -121,14 +121,15 @@ NotASithLord/peerd 是首个在浏览器原生运行的 AI 代理框架，提供
 | forks | 0/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nextcloud/appstore
 
-[![Stars](https://img.shields.io/github/stars/nextcloud/appstore?style=flat-square&color=yellow)](https://github.com/nextcloud/appstore/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/appstore?style=flat-square&color=blue)](https://github.com/nextcloud/appstore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextcloud/appstore?style=flat-square&color=yellow)](https://github.com/nextcloud/appstore/stargazers) [![Forks](https://img.shields.io/github/forks/nextcloud/appstore?style=flat-square&color=blue)](https://github.com/nextcloud/appstore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > :convenience_store: App Store for Nextcloud
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 384 |
 | 🍴 **Forks** | 172 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ nextcloud/appstore：nextcloud/appstore may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 55/100 |
-| adoption | 55/100 |
-| stars | 55/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 88/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

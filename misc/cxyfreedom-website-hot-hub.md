@@ -1,6 +1,6 @@
 # cxyfreedom/website-hot-hub
 
-[![Stars](https://img.shields.io/github/stars/cxyfreedom/website-hot-hub?style=flat-square&color=yellow)](https://github.com/cxyfreedom/website-hot-hub/stargazers) [![Forks](https://img.shields.io/github/forks/cxyfreedom/website-hot-hub?style=flat-square&color=blue)](https://github.com/cxyfreedom/website-hot-hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cxyfreedom/website-hot-hub?style=flat-square&color=yellow)](https://github.com/cxyfreedom/website-hot-hub/stargazers) [![Forks](https://img.shields.io/github/forks/cxyfreedom/website-hot-hub?style=flat-square&color=blue)](https://github.com/cxyfreedom/website-hot-hub/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 记录 36Kr、bilibili、GitHub、抖音、掘金、微信读书平台从 2023-10-25 日至今的热点榜。每小时抓取一次数据，按天归档。非当年数据归档到 Releases 中
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 349 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ cxyfreedom/website-hot-hub is an open‑source data collector that tracks the da
 
 ### 中文
 
-cxyfreedom/website-hot-hub：cxyfreedom/website-hot-hub may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+cxyfreedom/website-hot-hub：cxyfreedom/website-hot-hub may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ cxyfreedom/website-hot-hub：cxyfreedom/website-hot-hub may be useful when its R
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -56,22 +56,22 @@ cxyfreedom/website-hot-hub：cxyfreedom/website-hot-hub may be useful when its R
 - updated 2026-05-09
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 45/100 |
-| adoption | 51/100 |
-| stars | 54/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

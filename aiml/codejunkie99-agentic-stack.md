@@ -1,6 +1,6 @@
 # codejunkie99/agentic-stack
 
-[![Stars](https://img.shields.io/github/stars/codejunkie99/agentic-stack?style=flat-square&color=yellow)](https://github.com/codejunkie99/agentic-stack/stargazers) [![Forks](https://img.shields.io/github/forks/codejunkie99/agentic-stack?style=flat-square&color=blue)](https://github.com/codejunkie99/agentic-stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codejunkie99/agentic-stack?style=flat-square&color=yellow)](https://github.com/codejunkie99/agentic-stack/stargazers) [![Forks](https://img.shields.io/github/forks/codejunkie99/agentic-stack?style=flat-square&color=blue)](https://github.com/codejunkie99/agentic-stack/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **agentic‑stack** project provides a portable `.agent/` directory that bun
 
 ### 中文
 
-codejunkie99/agentic-stack：codejunkie99/agentic-stack helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+codejunkie99/agentic-stack：codejunkie99/agentic-stack helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ codejunkie99/agentic-stack：codejunkie99/agentic-stack helps add AI capability 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ codejunkie99/agentic-stack：codejunkie99/agentic-stack helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 52/100 |
+| production | 47/100 |
+| outlook | 45/100 |
 | adoption | 67/100 |
 | stars | 70/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

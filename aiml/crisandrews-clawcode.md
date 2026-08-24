@@ -1,6 +1,6 @@
 # crisandrews/ClawCode
 
-[![Stars](https://img.shields.io/github/stars/crisandrews/ClawCode?style=flat-square&color=yellow)](https://github.com/crisandrews/ClawCode/stargazers) [![Forks](https://img.shields.io/github/forks/crisandrews/ClawCode?style=flat-square&color=blue)](https://github.com/crisandrews/ClawCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crisandrews/ClawCode?style=flat-square&color=yellow)](https://github.com/crisandrews/ClawCode/stargazers) [![Forks](https://img.shields.io/github/forks/crisandrews/ClawCode?style=flat-square&color=blue)](https://github.com/crisandrews/ClawCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent agents for Claude Code as a plugin, not a harness. Memory, personality, messaging across WhatsApp, Telegram, and Discord, plus a service mode for 24/7 runs. Imports from OpenClaw.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 54 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ crisandrews/ClawCode：crisandrews/ClawCode helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 34/100 |
 | stars | 37/100 |
 | forks | 27/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # eugeniughelbur/obsidian-second-brain
 
-[![Stars](https://img.shields.io/github/stars/eugeniughelbur/obsidian-second-brain?style=flat-square&color=yellow)](https://github.com/eugeniughelbur/obsidian-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/eugeniughelbur/obsidian-second-brain?style=flat-square&color=blue)](https://github.com/eugeniughelbur/obsidian-second-brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eugeniughelbur/obsidian-second-brain?style=flat-square&color=yellow)](https://github.com/eugeniughelbur/obsidian-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/eugeniughelbur/obsidian-second-brain?style=flat-square&color=blue)](https://github.com/eugeniughelbur/obsidian-second-brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, OpenCode, Hermes, and Pi. 44 commands - self-rewriting notes, local+hybrid semantic search, key-less web research, /obsidian-architect codebase docs, and scheduled agents that maintain the vault while you sleep.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 350 |
+| ⭐ **Stars** | 3.2k |
+| 🍴 **Forks** | 390 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-07-12 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 
 **Quality signals**
 
-- 2934 GitHub stars
-- 350 forks
-- updated 2026-07-03
+- 3180 GitHub stars
+- 390 forks
+- updated 2026-07-12
 - primary language: Python
 - 20 topics
 
@@ -68,15 +68,15 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 | usefulness | 100/100 |
 | quality | 87/100 |
 | integration | 78/100 |
-| production | 83/100 |
+| production | 84/100 |
 | outlook | 93/100 |
-| adoption | 71/100 |
-| stars | 74/100 |
-| forks | 64/100 |
+| adoption | 72/100 |
+| stars | 75/100 |
+| forks | 65/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) · [← Back to Knowledgerag](./README.md)</sub>

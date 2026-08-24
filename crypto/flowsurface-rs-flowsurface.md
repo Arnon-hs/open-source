@@ -1,6 +1,6 @@
 # flowsurface-rs/flowsurface
 
-[![Stars](https://img.shields.io/github/stars/flowsurface-rs/flowsurface?style=flat-square&color=yellow)](https://github.com/flowsurface-rs/flowsurface/stargazers) [![Forks](https://img.shields.io/github/forks/flowsurface-rs/flowsurface?style=flat-square&color=blue)](https://github.com/flowsurface-rs/flowsurface/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flowsurface-rs/flowsurface?style=flat-square&color=yellow)](https://github.com/flowsurface-rs/flowsurface/stargazers) [![Forks](https://img.shields.io/github/forks/flowsurface-rs/flowsurface?style=flat-square&color=blue)](https://github.com/flowsurface-rs/flowsurface/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A native desktop charting platform for crypto markets
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 313 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Data · Database
+Crypto · Data
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ flowsurface‑rs/flowsurface 是一个基于 Rust 的本地桌面图表平台，
 | forks | 62/100 |
 | stars | 68/100 |
 | topics | 38/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

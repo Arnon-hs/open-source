@@ -1,6 +1,6 @@
 # EmpiricaAI/empirica
 
-[![Stars](https://img.shields.io/github/stars/EmpiricaAI/empirica?style=flat-square&color=yellow)](https://github.com/EmpiricaAI/empirica/stargazers) [![Forks](https://img.shields.io/github/forks/EmpiricaAI/empirica?style=flat-square&color=blue)](https://github.com/EmpiricaAI/empirica/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EmpiricaAI/empirica?style=flat-square&color=yellow)](https://github.com/EmpiricaAI/empirica/stargazers) [![Forks](https://img.shields.io/github/forks/EmpiricaAI/empirica?style=flat-square&color=blue)](https://github.com/EmpiricaAI/empirica/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Make AI agents and AI workflows measurably reliable. Epistemic measurement, Noetic RAG, Sentinel gating, and grounded calibration for Claude Code  and beyond
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Automation · AI/ML
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Empirica（EmpiricaAI/empirica）通过“认知测量、理性检索增强（No
 | forks | 37/100 |
 | stars | 50/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

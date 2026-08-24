@@ -1,6 +1,6 @@
 # expo/snack
 
-[![Stars](https://img.shields.io/github/stars/expo/snack?style=flat-square&color=yellow)](https://github.com/expo/snack/stargazers) [![Forks](https://img.shields.io/github/forks/expo/snack?style=flat-square&color=blue)](https://github.com/expo/snack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/expo/snack?style=flat-square&color=yellow)](https://github.com/expo/snack/stargazers) [![Forks](https://img.shields.io/github/forks/expo/snack?style=flat-square&color=blue)](https://github.com/expo/snack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Expo Snack lets you run Expo in the browser.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Expo Snack 是一个基于浏览器的在线编辑器，能够在无需本地�
 | forks | 56/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

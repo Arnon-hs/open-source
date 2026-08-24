@@ -1,6 +1,6 @@
 # aws/secrets-store-csi-driver-provider-aws
 
-[![Stars](https://img.shields.io/github/stars/aws/secrets-store-csi-driver-provider-aws?style=flat-square&color=yellow)](https://github.com/aws/secrets-store-csi-driver-provider-aws/stargazers) [![Forks](https://img.shields.io/github/forks/aws/secrets-store-csi-driver-provider-aws?style=flat-square&color=blue)](https://github.com/aws/secrets-store-csi-driver-provider-aws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws/secrets-store-csi-driver-provider-aws?style=flat-square&color=yellow)](https://github.com/aws/secrets-store-csi-driver-provider-aws/stargazers) [![Forks](https://img.shields.io/github/forks/aws/secrets-store-csi-driver-provider-aws?style=flat-square&color=blue)](https://github.com/aws/secrets-store-csi-driver-provider-aws/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The AWS provider for the Secrets Store CSI Driver allows you to fetch secrets from AWS Secrets Manager and AWS Systems Manager Parameter Store, and mount them into Kubernetes pods.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 584 |
 | 🍴 **Forks** | 164 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ The aws/secrets-store-csi-driver‑provider‑aws project is the official AW
 | forks | 55/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

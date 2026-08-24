@@ -1,6 +1,6 @@
 # sudoskys/telegramify-markdown
 
-[![Stars](https://img.shields.io/github/stars/sudoskys/telegramify-markdown?style=flat-square&color=yellow)](https://github.com/sudoskys/telegramify-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/sudoskys/telegramify-markdown?style=flat-square&color=blue)](https://github.com/sudoskys/telegramify-markdown/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sudoskys/telegramify-markdown?style=flat-square&color=yellow)](https://github.com/sudoskys/telegramify-markdown/stargazers) [![Forks](https://img.shields.io/github/forks/sudoskys/telegramify-markdown?style=flat-square&color=blue)](https://github.com/sudoskys/telegramify-markdown/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 🪄  Markdown To Telegram MarkdownV2 Converter Python| No more worrying about formatting.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 351 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ sudoskys/telegramify-markdown is a lightweight Python library that converts stan
 
 ### 中文
 
-sudoskys/telegramify-markdown：sudoskys/telegramify-markdown may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sudoskys/telegramify-markdown：sudoskys/telegramify-markdown may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sudoskys/telegramify-markdown：sudoskys/telegramify-markdown may be useful when
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ sudoskys/telegramify-markdown：sudoskys/telegramify-markdown may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 47/100 |
 | stars | 54/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

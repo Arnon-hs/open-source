@@ -1,6 +1,6 @@
 # libprima/prima
 
-[![Stars](https://img.shields.io/github/stars/libprima/prima?style=flat-square&color=yellow)](https://github.com/libprima/prima/stargazers) [![Forks](https://img.shields.io/github/forks/libprima/prima?style=flat-square&color=blue)](https://github.com/libprima/prima/network) [![Language](https://img.shields.io/badge/lang-Fortran-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libprima/prima?style=flat-square&color=yellow)](https://github.com/libprima/prima/stargazers) [![Forks](https://img.shields.io/github/forks/libprima/prima?style=flat-square&color=blue)](https://github.com/libprima/prima/network) [![Language](https://img.shields.io/badge/lang-Fortran-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > PRIMA is a package for solving general nonlinear optimization problems without using derivatives. It provides the reference implementation for Powell's derivative-free optimization methods, i.e., COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA. PRIMA means Reference Implementation for Powell's methods with Modernization and Amelioration,  P for Powell.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 402 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Fortran |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PRIMA (libprima/prima) is an open‑source C/C++ library that implements Powell�
 
 ### 中文
 
-libprima/prima：libprima/prima helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+libprima/prima：libprima/prima helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ libprima/prima：libprima/prima helps add AI capability without starting from a 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ libprima/prima：libprima/prima helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 49/100 |
+| outlook | 48/100 |
 | adoption | 52/100 |
 | stars | 55/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

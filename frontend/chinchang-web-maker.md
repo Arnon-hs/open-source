@@ -1,6 +1,6 @@
 # chinchang/web-maker
 
-[![Stars](https://img.shields.io/github/stars/chinchang/web-maker?style=flat-square&color=yellow)](https://github.com/chinchang/web-maker/stargazers) [![Forks](https://img.shields.io/github/forks/chinchang/web-maker?style=flat-square&color=blue)](https://github.com/chinchang/web-maker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chinchang/web-maker?style=flat-square&color=yellow)](https://github.com/chinchang/web-maker/stargazers) [![Forks](https://img.shields.io/github/forks/chinchang/web-maker?style=flat-square&color=blue)](https://github.com/chinchang/web-maker/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A blazing fast & offline frontend code editor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 322 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Frontend
 
 ### 中文
 
-chinchang/web-maker：chinchang/web-maker helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+chinchang/web-maker：chinchang/web-maker helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ chinchang/web-maker：chinchang/web-maker helps ship user-facing interfaces with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ chinchang/web-maker：chinchang/web-maker helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

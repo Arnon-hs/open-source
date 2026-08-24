@@ -1,6 +1,6 @@
 # nomi-sec/PoC-in-GitHub
 
-[![Stars](https://img.shields.io/github/stars/nomi-sec/PoC-in-GitHub?style=flat-square&color=yellow)](https://github.com/nomi-sec/PoC-in-GitHub/stargazers) [![Forks](https://img.shields.io/github/forks/nomi-sec/PoC-in-GitHub?style=flat-square&color=blue)](https://github.com/nomi-sec/PoC-in-GitHub/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nomi-sec/PoC-in-GitHub?style=flat-square&color=yellow)](https://github.com/nomi-sec/PoC-in-GitHub/stargazers) [![Forks](https://img.shields.io/github/forks/nomi-sec/PoC-in-GitHub?style=flat-square&color=blue)](https://github.com/nomi-sec/PoC-in-GitHub/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -89,14 +89,15 @@ nomi-sec/PoC-in-GitHub 是一款自动从 GitHub 仓库抓取 PoC（概念验证
 | forks | 78/100 |
 | stars | 83/100 |
 | topics | 63/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 82/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

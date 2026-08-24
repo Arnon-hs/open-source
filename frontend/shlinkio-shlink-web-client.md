@@ -1,6 +1,6 @@
 # shlinkio/shlink-web-client
 
-[![Stars](https://img.shields.io/github/stars/shlinkio/shlink-web-client?style=flat-square&color=yellow)](https://github.com/shlinkio/shlink-web-client/stargazers) [![Forks](https://img.shields.io/github/forks/shlinkio/shlink-web-client?style=flat-square&color=blue)](https://github.com/shlinkio/shlink-web-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shlinkio/shlink-web-client?style=flat-square&color=yellow)](https://github.com/shlinkio/shlink-web-client/stargazers) [![Forks](https://img.shields.io/github/forks/shlinkio/shlink-web-client?style=flat-square&color=blue)](https://github.com/shlinkio/shlink-web-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A React-based client application for Shlink
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 382 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ shlinkio/shlink-web-client：shlinkio/shlink-web-client helps ship user-facing i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 62/100 |
-| adoption | 54/100 |
-| stars | 55/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

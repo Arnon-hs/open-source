@@ -1,6 +1,6 @@
 # getumbrel/umbrel
 
-[![Stars](https://img.shields.io/github/stars/getumbrel/umbrel?style=flat-square&color=yellow)](https://github.com/getumbrel/umbrel/stargazers) [![Forks](https://img.shields.io/github/forks/getumbrel/umbrel?style=flat-square&color=blue)](https://github.com/getumbrel/umbrel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/getumbrel/umbrel?style=flat-square&color=yellow)](https://github.com/getumbrel/umbrel/stargazers) [![Forks](https://img.shields.io/github/forks/getumbrel/umbrel?style=flat-square&color=blue)](https://github.com/getumbrel/umbrel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.2k |
 | 🍴 **Forks** | 757 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Umbrel（`getumbrel/umbrel`）是一款面向家庭服务器的开源操作系�
 | forks | 72/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
 | adoption | 82/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

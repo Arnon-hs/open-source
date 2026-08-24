@@ -1,6 +1,6 @@
 # MayersScott/rkn-block-checker
 
-[![Stars](https://img.shields.io/github/stars/MayersScott/rkn-block-checker?style=flat-square&color=yellow)](https://github.com/MayersScott/rkn-block-checker/stargazers) [![Forks](https://img.shields.io/github/forks/MayersScott/rkn-block-checker?style=flat-square&color=blue)](https://github.com/MayersScott/rkn-block-checker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MayersScott/rkn-block-checker?style=flat-square&color=yellow)](https://github.com/MayersScott/rkn-block-checker/stargazers) [![Forks](https://img.shields.io/github/forks/MayersScott/rkn-block-checker?style=flat-square&color=blue)](https://github.com/MayersScott/rkn-block-checker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 925 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MayersScott/rkn-block-checker：MayersScott/rkn-block-checker helps turn isolate
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

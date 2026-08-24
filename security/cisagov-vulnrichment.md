@@ -1,6 +1,6 @@
 # cisagov/vulnrichment
 
-[![Stars](https://img.shields.io/github/stars/cisagov/vulnrichment?style=flat-square&color=yellow)](https://github.com/cisagov/vulnrichment/stargazers) [![Forks](https://img.shields.io/github/forks/cisagov/vulnrichment?style=flat-square&color=blue)](https://github.com/cisagov/vulnrichment/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cisagov/vulnrichment?style=flat-square&color=yellow)](https://github.com/cisagov/vulnrichment/stargazers) [![Forks](https://img.shields.io/github/forks/cisagov/vulnrichment?style=flat-square&color=blue)](https://github.com/cisagov/vulnrichment/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A repo to conduct vulnerability enrichment.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 771 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ cisagov/vulnrichment 是一个用于漏洞信息丰富化的开源库，帮助�
 | forks | 50/100 |
 | stars | 61/100 |
 | topics | 0/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

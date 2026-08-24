@@ -1,6 +1,6 @@
 # concourse/concourse
 
-[![Stars](https://img.shields.io/github/stars/concourse/concourse?style=flat-square&color=yellow)](https://github.com/concourse/concourse/stargazers) [![Forks](https://img.shields.io/github/forks/concourse/concourse?style=flat-square&color=blue)](https://github.com/concourse/concourse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/concourse/concourse?style=flat-square&color=yellow)](https://github.com/concourse/concourse/stargazers) [![Forks](https://img.shields.io/github/forks/concourse/concourse?style=flat-square&color=blue)](https://github.com/concourse/concourse/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 892 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Education
+Automation
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Concourse（concourse/concourse）是用 Go 编写的基于容器的自动化平
 | forks | 74/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

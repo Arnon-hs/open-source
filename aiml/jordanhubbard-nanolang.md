@@ -1,6 +1,6 @@
 # jordanhubbard/nanolang
 
-[![Stars](https://img.shields.io/github/stars/jordanhubbard/nanolang?style=flat-square&color=yellow)](https://github.com/jordanhubbard/nanolang/stargazers) [![Forks](https://img.shields.io/github/forks/jordanhubbard/nanolang?style=flat-square&color=blue)](https://github.com/jordanhubbard/nanolang/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jordanhubbard/nanolang?style=flat-square&color=yellow)](https://github.com/jordanhubbard/nanolang/stargazers) [![Forks](https://img.shields.io/github/forks/jordanhubbard/nanolang?style=flat-square&color=blue)](https://github.com/jordanhubbard/nanolang/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A tiny experimental language designed to be targeted by coding LLMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 596 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Jordanhubbard/nanolang — это крошечный эксперимента�
 
 ### 中文
 
-jordanhubbard/nanolang：jordanhubbard/nanolang helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jordanhubbard/nanolang：jordanhubbard/nanolang helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jordanhubbard/nanolang：jordanhubbard/nanolang helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ jordanhubbard/nanolang：jordanhubbard/nanolang helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 52/100 |
-| stars | 59/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 75/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

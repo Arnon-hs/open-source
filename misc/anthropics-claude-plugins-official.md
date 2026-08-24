@@ -1,6 +1,6 @@
 # anthropics/claude-plugins-official
 
-[![Stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square&color=yellow)](https://github.com/anthropics/claude-plugins-official/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-plugins-official?style=flat-square&color=blue)](https://github.com/anthropics/claude-plugins-official/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square&color=yellow)](https://github.com/anthropics/claude-plugins-official/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-plugins-official?style=flat-square&color=blue)](https://github.com/anthropics/claude-plugins-official/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.8k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ anthropics/claude-plugins-official：anthropics/claude-plugins-official may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 62/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 89/100 |
 | stars | 91/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # phpstan/phpstan-src
 
-[![Stars](https://img.shields.io/github/stars/phpstan/phpstan-src?style=flat-square&color=yellow)](https://github.com/phpstan/phpstan-src/stargazers) [![Forks](https://img.shields.io/github/forks/phpstan/phpstan-src?style=flat-square&color=blue)](https://github.com/phpstan/phpstan-src/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phpstan/phpstan-src?style=flat-square&color=yellow)](https://github.com/phpstan/phpstan-src/stargazers) [![Forks](https://img.shields.io/github/forks/phpstan/phpstan-src?style=flat-square&color=blue)](https://github.com/phpstan/phpstan-src/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > PHPStan's source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 574 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ phpstan/phpstan-src：phpstan/phpstan-src may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
-| adoption | 59/100 |
-| stars | 55/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

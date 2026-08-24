@@ -1,6 +1,6 @@
 # rexleimo/harness-cli
 
-[![Stars](https://img.shields.io/github/stars/rexleimo/harness-cli?style=flat-square&color=yellow)](https://github.com/rexleimo/harness-cli/stargazers) [![Forks](https://img.shields.io/github/forks/rexleimo/harness-cli?style=flat-square&color=blue)](https://github.com/rexleimo/harness-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rexleimo/harness-cli?style=flat-square&color=yellow)](https://github.com/rexleimo/harness-cli/stargazers) [![Forks](https://img.shields.io/github/forks/rexleimo/harness-cli?style=flat-square&color=blue)](https://github.com/rexleimo/harness-cli/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI agent bootstrap: Playwright Browser MCP + ContextDB for Codex CLI, Claude     Code, Gemini CLI, and OpenCode.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -68,14 +68,15 @@ rexleimo/harness-cli：rexleimo/harness-cli helps connect AI assistants to real 
 | forks | 21/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

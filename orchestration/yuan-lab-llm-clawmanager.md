@@ -1,6 +1,6 @@
 # Yuan-lab-LLM/ClawManager
 
-[![Stars](https://img.shields.io/github/stars/Yuan-lab-LLM/ClawManager?style=flat-square&color=yellow)](https://github.com/Yuan-lab-LLM/ClawManager/stargazers) [![Forks](https://img.shields.io/github/forks/Yuan-lab-LLM/ClawManager?style=flat-square&color=blue)](https://github.com/Yuan-lab-LLM/ClawManager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yuan-lab-LLM/ClawManager?style=flat-square&color=yellow)](https://github.com/Yuan-lab-LLM/ClawManager/stargazers) [![Forks](https://img.shields.io/github/forks/Yuan-lab-LLM/ClawManager?style=flat-square&color=blue)](https://github.com/Yuan-lab-LLM/ClawManager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A Kubernetes-native control plane for AI agent instance management, with governed AI access, runtime orchestration, and reusable resources across multiple agent runtimes.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Yuan‑lab‑LLM/ClawManager 是一个基于 Kubernetes 的原生控制平面，
 | forks | 54/100 |
 | stars | 69/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sky-map-team/stardroid
 
-[![Stars](https://img.shields.io/github/stars/sky-map-team/stardroid?style=flat-square&color=yellow)](https://github.com/sky-map-team/stardroid/stargazers) [![Forks](https://img.shields.io/github/forks/sky-map-team/stardroid?style=flat-square&color=blue)](https://github.com/sky-map-team/stardroid/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sky-map-team/stardroid?style=flat-square&color=yellow)](https://github.com/sky-map-team/stardroid/stargazers) [![Forks](https://img.shields.io/github/forks/sky-map-team/stardroid?style=flat-square&color=blue)](https://github.com/sky-map-team/stardroid/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Sky Map (formerly Google Sky Map, open sourced in 2012)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Stardroid is an open‑source Android app that turns your device into a portable
 
 ### 中文
 
-sky-map-team/stardroid：sky-map-team/stardroid may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sky-map-team/stardroid：sky-map-team/stardroid may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sky-map-team/stardroid：sky-map-team/stardroid may be useful when its README an
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ sky-map-team/stardroid：sky-map-team/stardroid may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
-| adoption | 66/100 |
-| stars | 69/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # dborth/snes9xgx
 
-[![Stars](https://img.shields.io/github/stars/dborth/snes9xgx?style=flat-square&color=yellow)](https://github.com/dborth/snes9xgx/stargazers) [![Forks](https://img.shields.io/github/forks/dborth/snes9xgx?style=flat-square&color=blue)](https://github.com/dborth/snes9xgx/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dborth/snes9xgx?style=flat-square&color=yellow)](https://github.com/dborth/snes9xgx/stargazers) [![Forks](https://img.shields.io/github/forks/dborth/snes9xgx?style=flat-square&color=blue)](https://github.com/dborth/snes9xgx/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Snes9x GX - Port of Snes9x for Wii
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 481 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ dborth/snes9xgx 是 Snes9x 模拟器的 Wii 移植版，基于 C++ 实现，保�
 | forks | 46/100 |
 | stars | 57/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

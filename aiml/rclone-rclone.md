@@ -1,6 +1,6 @@
 # rclone/rclone
 
-[![Stars](https://img.shields.io/github/stars/rclone/rclone?style=flat-square&color=yellow)](https://github.com/rclone/rclone/stargazers) [![Forks](https://img.shields.io/github/forks/rclone/rclone?style=flat-square&color=blue)](https://github.com/rclone/rclone/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rclone/rclone?style=flat-square&color=yellow)](https://github.com/rclone/rclone/stargazers) [![Forks](https://img.shields.io/github/forks/rclone/rclone?style=flat-square&color=blue)](https://github.com/rclone/rclone/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57k |
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rclone/rclone：rclone/rclone helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 98/100 |
 | stars | 100/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

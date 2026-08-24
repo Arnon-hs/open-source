@@ -1,6 +1,6 @@
 # gethomepage/homepage
 
-[![Stars](https://img.shields.io/github/stars/gethomepage/homepage?style=flat-square&color=yellow)](https://github.com/gethomepage/homepage/stargazers) [![Forks](https://img.shields.io/github/forks/gethomepage/homepage?style=flat-square&color=blue)](https://github.com/gethomepage/homepage/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gethomepage/homepage?style=flat-square&color=yellow)](https://github.com/gethomepage/homepage/stargazers) [![Forks](https://img.shields.io/github/forks/gethomepage/homepage?style=flat-square&color=blue)](https://github.com/gethomepage/homepage/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29.9k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevOps/Infra
+Frontend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ gethomepage/homepage: gethomepage/homepage helps ship user-facing interfaces wit
 
 ### Русский
 
-gethomepage/homepage: open-source проект в категориях Frontend, Backend, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+gethomepage/homepage: open-source проект в категориях Frontend, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ gethomepage/homepage：gethomepage/homepage helps ship user-facing interfaces wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 79/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 76/100 |
-| adoption | 92/100 |
-| stars | 95/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 95/100 |
 | topics | 88/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

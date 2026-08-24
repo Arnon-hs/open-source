@@ -1,6 +1,6 @@
 # bingbing-gui/dotnet-agent-playbook
 
-[![Stars](https://img.shields.io/github/stars/bingbing-gui/dotnet-agent-playbook?style=flat-square&color=yellow)](https://github.com/bingbing-gui/dotnet-agent-playbook/stargazers) [![Forks](https://img.shields.io/github/forks/bingbing-gui/dotnet-agent-playbook?style=flat-square&color=blue)](https://github.com/bingbing-gui/dotnet-agent-playbook/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bingbing-gui/dotnet-agent-playbook?style=flat-square&color=yellow)](https://github.com/bingbing-gui/dotnet-agent-playbook/stargazers) [![Forks](https://img.shields.io/github/forks/bingbing-gui/dotnet-agent-playbook?style=flat-square&color=blue)](https://github.com/bingbing-gui/dotnet-agent-playbook/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 一个面向 .NET + AI Agent 开发的实践型仓库，涵盖 Web、云原生与微服务场景，聚焦智能应用的工程化落地。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ bingbing-gui/dotnet-agent-playbook：bingbing-gui/dotnet-agent-playbook helps ad
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 46/100 |
-| adoption | 44/100 |
-| stars | 46/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 40/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 40/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # rainbowpigeon/sublime-text-4-patcher
 
-[![Stars](https://img.shields.io/github/stars/rainbowpigeon/sublime-text-4-patcher?style=flat-square&color=yellow)](https://github.com/rainbowpigeon/sublime-text-4-patcher/stargazers) [![Forks](https://img.shields.io/github/forks/rainbowpigeon/sublime-text-4-patcher?style=flat-square&color=blue)](https://github.com/rainbowpigeon/sublime-text-4-patcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rainbowpigeon/sublime-text-4-patcher?style=flat-square&color=yellow)](https://github.com/rainbowpigeon/sublime-text-4-patcher/stargazers) [![Forks](https://img.shields.io/github/forks/rainbowpigeon/sublime-text-4-patcher?style=flat-square&color=blue)](https://github.com/rainbowpigeon/sublime-text-4-patcher/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Python 3 patcher for Sublime Text v4107-4205 Windows x64
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ rainbowpigeon/sublime-text-4-patcher — это лёгкий Python 3‑ск
 
 ### 中文
 
-rainbowpigeon/sublime-text-4-patcher：rainbowpigeon/sublime-text-4-patcher helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rainbowpigeon/sublime-text-4-patcher：rainbowpigeon/sublime-text-4-patcher helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rainbowpigeon/sublime-text-4-patcher：rainbowpigeon/sublime-text-4-patcher help
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rainbowpigeon/sublime-text-4-patcher：rainbowpigeon/sublime-text-4-patcher help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 50/100 |
+| production | 47/100 |
+| outlook | 43/100 |
 | adoption | 51/100 |
 | stars | 53/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

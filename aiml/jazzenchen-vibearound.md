@@ -1,6 +1,6 @@
 # jazzenchen/VibeAround
 
-[![Stars](https://img.shields.io/github/stars/jazzenchen/VibeAround?style=flat-square&color=yellow)](https://github.com/jazzenchen/VibeAround/stargazers) [![Forks](https://img.shields.io/github/forks/jazzenchen/VibeAround?style=flat-square&color=blue)](https://github.com/jazzenchen/VibeAround/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jazzenchen/VibeAround?style=flat-square&color=yellow)](https://github.com/jazzenchen/VibeAround/stargazers) [![Forks](https://img.shields.io/github/forks/jazzenchen/VibeAround?style=flat-square&color=blue)](https://github.com/jazzenchen/VibeAround/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Vibe coding companion: work with your local AI agents from anywhere. Chat on your phone or through a browser terminal, with instant previews for your work. Switch profiles freely, run multiple agents in parallel, and third-party APIs are supported.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 227 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ VibeAround — это открытый «кодинг‑компаньон», 
 
 ### 中文
 
-jazzenchen/VibeAround：jazzenchen/VibeAround helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jazzenchen/VibeAround：jazzenchen/VibeAround helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jazzenchen/VibeAround：jazzenchen/VibeAround helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ jazzenchen/VibeAround：jazzenchen/VibeAround helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 57/100 |
-| adoption | 46/100 |
-| stars | 50/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 50/100 |
 | topics | 38/100 |
+| outlook | 50/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 45/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

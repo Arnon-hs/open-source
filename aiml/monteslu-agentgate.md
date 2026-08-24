@@ -1,6 +1,6 @@
 # monteslu/agentgate
 
-[![Stars](https://img.shields.io/github/stars/monteslu/agentgate?style=flat-square&color=yellow)](https://github.com/monteslu/agentgate/stargazers) [![Forks](https://img.shields.io/github/forks/monteslu/agentgate?style=flat-square&color=blue)](https://github.com/monteslu/agentgate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/monteslu/agentgate?style=flat-square&color=yellow)](https://github.com/monteslu/agentgate/stargazers) [![Forks](https://img.shields.io/github/forks/monteslu/agentgate?style=flat-square&color=blue)](https://github.com/monteslu/agentgate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > API gateway for AI agents to access your personal data with human-in-the-loop write approval.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ monteslu/agentgate is an open‑source API gateway that lets AI agents retrieve 
 
 ### 中文
 
-monteslu/agentgate：monteslu/agentgate helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+monteslu/agentgate：monteslu/agentgate helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ monteslu/agentgate：monteslu/agentgate helps add AI capability without starting
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ monteslu/agentgate：monteslu/agentgate helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 60/100 |
+| production | 48/100 |
+| outlook | 53/100 |
 | adoption | 31/100 |
 | stars | 33/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

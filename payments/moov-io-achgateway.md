@@ -1,6 +1,6 @@
 # moov-io/achgateway
 
-[![Stars](https://img.shields.io/github/stars/moov-io/achgateway?style=flat-square&color=yellow)](https://github.com/moov-io/achgateway/stargazers) [![Forks](https://img.shields.io/github/forks/moov-io/achgateway?style=flat-square&color=blue)](https://github.com/moov-io/achgateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moov-io/achgateway?style=flat-square&color=yellow)](https://github.com/moov-io/achgateway/stargazers) [![Forks](https://img.shields.io/github/forks/moov-io/achgateway?style=flat-square&color=blue)](https://github.com/moov-io/achgateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Payment gateway enabling automated ACH operations in a distributed and fault tolerant way.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 80 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ moov‑io/achgateway is an open‑source, highly available payment gateway that 
 
 ### 中文
 
-moov-io/achgateway：moov-io/achgateway helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+moov-io/achgateway：moov-io/achgateway helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ moov-io/achgateway：moov-io/achgateway helps integrate monetization, billing, o
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ moov-io/achgateway：moov-io/achgateway helps integrate monetization, billing, o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 51/100 |
-| adoption | 40/100 |
-| stars | 41/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| stars | 41/100 |
 | topics | 88/100 |
+| outlook | 44/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

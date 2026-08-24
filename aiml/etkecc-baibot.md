@@ -1,6 +1,6 @@
 # etkecc/baibot
 
-[![Stars](https://img.shields.io/github/stars/etkecc/baibot?style=flat-square&color=yellow)](https://github.com/etkecc/baibot/stargazers) [![Forks](https://img.shields.io/github/forks/etkecc/baibot?style=flat-square&color=blue)](https://github.com/etkecc/baibot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/etkecc/baibot?style=flat-square&color=yellow)](https://github.com/etkecc/baibot/stargazers) [![Forks](https://img.shields.io/github/forks/etkecc/baibot?style=flat-square&color=blue)](https://github.com/etkecc/baibot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 A Matrix bot for using different capabilities (text-generation, text-to-speech, speech-to-text, image-generation, etc.) of AI / Large Language Models (OpenAI, Anthropic, etc.)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 222 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ etkecc/baibot — это открытый Matrix‑бот, объединяю�
 
 ### 中文
 
-etkecc/baibot：etkecc/baibot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+etkecc/baibot：etkecc/baibot helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ etkecc/baibot：etkecc/baibot helps add AI capability without starting from a bl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ etkecc/baibot：etkecc/baibot helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 45/100 |
+| outlook | 45/100 |
 | adoption | 47/100 |
 | stars | 50/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

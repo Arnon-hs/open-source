@@ -1,6 +1,6 @@
 # mksglu/context-mode
 
-[![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&color=yellow)](https://github.com/mksglu/context-mode/stargazers) [![Forks](https://img.shields.io/github/forks/mksglu/context-mode?style=flat-square&color=blue)](https://github.com/mksglu/context-mode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&color=yellow)](https://github.com/mksglu/context-mode/stargazers) [![Forks](https://img.shields.io/github/forks/mksglu/context-mode?style=flat-square&color=blue)](https://github.com/mksglu/context-mode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.7k |
 | 🍴 **Forks** | 945 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 81/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mksglu/context-mode: mksglu/context-mode helps turn isolated prompts and tools i
 
 ### Русский
 
-mksglu/context-mode: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mksglu/context-mode: open-source проект в категориях Orchestration, MCP, AI/ML, Backend, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ mksglu/context-mode：mksglu/context-mode helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 78/100 |
-| integration | 94/100 |
-| production | 68/100 |
-| outlook | 75/100 |
-| adoption | 84/100 |
-| stars | 88/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 61/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

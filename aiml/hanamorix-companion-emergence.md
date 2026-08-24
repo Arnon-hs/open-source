@@ -1,6 +1,6 @@
 # hanamorix/companion-emergence
 
-[![Stars](https://img.shields.io/github/stars/hanamorix/companion-emergence?style=flat-square&color=yellow)](https://github.com/hanamorix/companion-emergence/stargazers) [![Forks](https://img.shields.io/github/forks/hanamorix/companion-emergence?style=flat-square&color=blue)](https://github.com/hanamorix/companion-emergence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hanamorix/companion-emergence?style=flat-square&color=yellow)](https://github.com/hanamorix/companion-emergence/stargazers) [![Forks](https://img.shields.io/github/forks/hanamorix/companion-emergence?style=flat-square&color=blue)](https://github.com/hanamorix/companion-emergence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI companion framework — persistent memory, emotional state, dreaming, embodied avatar. Desktop app + Python brain. macOS · Linux · Windows. Runs against Claude.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -133,14 +133,15 @@ hanamorix/companion‑emergence 是一个 **本地优先（local‑first）AI �
 | forks | 25/100 |
 | stars | 30/100 |
 | topics | 88/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 71/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

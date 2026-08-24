@@ -1,6 +1,6 @@
 # facebookresearch/habitat-lab
 
-[![Stars](https://img.shields.io/github/stars/facebookresearch/habitat-lab?style=flat-square&color=yellow)](https://github.com/facebookresearch/habitat-lab/stargazers) [![Forks](https://img.shields.io/github/forks/facebookresearch/habitat-lab?style=flat-square&color=blue)](https://github.com/facebookresearch/habitat-lab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookresearch/habitat-lab?style=flat-square&color=yellow)](https://github.com/facebookresearch/habitat-lab/stargazers) [![Forks](https://img.shields.io/github/forks/facebookresearch/habitat-lab?style=flat-square&color=blue)](https://github.com/facebookresearch/habitat-lab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 659 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ facebookresearch/habitat-lab：facebookresearch/habitat-lab helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 64/100 |
-| adoption | 73/100 |
-| stars | 74/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

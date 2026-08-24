@@ -1,6 +1,6 @@
 # siddharthvaddem/openscreen
 
-[![Stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat-square&color=yellow)](https://github.com/siddharthvaddem/openscreen/stargazers) [![Forks](https://img.shields.io/github/forks/siddharthvaddem/openscreen?style=flat-square&color=blue)](https://github.com/siddharthvaddem/openscreen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siddharthvaddem/openscreen?style=flat-square&color=yellow)](https://github.com/siddharthvaddem/openscreen/stargazers) [![Forks](https://img.shields.io/github/forks/siddharthvaddem/openscreen?style=flat-square&color=blue)](https://github.com/siddharthvaddem/openscreen/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35.6k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ siddharthvaddem/openscreen：siddharthvaddem/openscreen helps integrate monetiza
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 93/100 |
 | stars | 97/100 |
 | forks | 85/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

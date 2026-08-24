@@ -1,6 +1,6 @@
 # langflow-ai/langflow
 
-[![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=flat-square&color=yellow)](https://github.com/langflow-ai/langflow/stargazers) [![Forks](https://img.shields.io/github/forks/langflow-ai/langflow?style=flat-square&color=blue)](https://github.com/langflow-ai/langflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=flat-square&color=yellow)](https://github.com/langflow-ai/langflow/stargazers) [![Forks](https://img.shields.io/github/forks/langflow-ai/langflow?style=flat-square&color=blue)](https://github.com/langflow-ai/langflow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 147.8k |
 | 🍴 **Forks** | 8.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ langflow-ai/langflow：langflow-ai/langflow helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 81/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 74/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 99/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 75/100 |
+| outlook | 67/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

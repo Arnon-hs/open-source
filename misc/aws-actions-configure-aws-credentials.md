@@ -1,6 +1,6 @@
 # aws-actions/configure-aws-credentials
 
-[![Stars](https://img.shields.io/github/stars/aws-actions/configure-aws-credentials?style=flat-square&color=yellow)](https://github.com/aws-actions/configure-aws-credentials/stargazers) [![Forks](https://img.shields.io/github/forks/aws-actions/configure-aws-credentials?style=flat-square&color=blue)](https://github.com/aws-actions/configure-aws-credentials/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aws-actions/configure-aws-credentials?style=flat-square&color=yellow)](https://github.com/aws-actions/configure-aws-credentials/stargazers) [![Forks](https://img.shields.io/github/forks/aws-actions/configure-aws-credentials?style=flat-square&color=blue)](https://github.com/aws-actions/configure-aws-credentials/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Configure AWS credential environment variables for use in other GitHub Actions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 568 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -132,14 +132,15 @@ jobs:
 | forks | 69/100 |
 | stars | 74/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 72/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

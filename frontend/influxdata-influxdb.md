@@ -1,6 +1,6 @@
 # influxdata/influxdb
 
-[![Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=flat-square&color=yellow)](https://github.com/influxdata/influxdb/stargazers) [![Forks](https://img.shields.io/github/forks/influxdata/influxdb?style=flat-square&color=blue)](https://github.com/influxdata/influxdb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=flat-square&color=yellow)](https://github.com/influxdata/influxdb/stargazers) [![Forks](https://img.shields.io/github/forks/influxdata/influxdb?style=flat-square&color=blue)](https://github.com/influxdata/influxdb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Scalable datastore for metrics, events, and real-time analytics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.5k |
 | 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data
+Frontend · Database · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ influxdata/influxdb：influxdata/influxdb helps ship user-facing interfaces with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 82/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 69/100 |
-| adoption | 94/100 |
-| stars | 96/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # lukasl-dev/pi.nix
 
-[![Stars](https://img.shields.io/github/stars/lukasl-dev/pi.nix?style=flat-square&color=yellow)](https://github.com/lukasl-dev/pi.nix/stargazers) [![Forks](https://img.shields.io/github/forks/lukasl-dev/pi.nix?style=flat-square&color=blue)](https://github.com/lukasl-dev/pi.nix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukasl-dev/pi.nix?style=flat-square&color=yellow)](https://github.com/lukasl-dev/pi.nix/stargazers) [![Forks](https://img.shields.io/github/forks/lukasl-dev/pi.nix?style=flat-square&color=blue)](https://github.com/lukasl-dev/pi.nix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Nix flake for pi, a terminal coding agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -60,22 +60,22 @@ lukasl-dev/pi.nix：lukasl-dev/pi.nix helps add AI capability without starting f
 - primary language: TypeScript
 - 5 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 27/100 |
-| stars | 29/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 29/100 |
 | topics | 63/100 |
+| outlook | 42/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

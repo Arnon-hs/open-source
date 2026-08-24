@@ -1,6 +1,6 @@
 # dxos/dxos
 
-[![Stars](https://img.shields.io/github/stars/dxos/dxos?style=flat-square&color=yellow)](https://github.com/dxos/dxos/stargazers) [![Forks](https://img.shields.io/github/forks/dxos/dxos?style=flat-square&color=blue)](https://github.com/dxos/dxos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dxos/dxos?style=flat-square&color=yellow)](https://github.com/dxos/dxos/stargazers) [![Forks](https://img.shields.io/github/forks/dxos/dxos?style=flat-square&color=blue)](https://github.com/dxos/dxos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dxos/dxos：dxos/dxos helps add AI capability without starting from a blank mode
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 53/100 |
-| stars | 58/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

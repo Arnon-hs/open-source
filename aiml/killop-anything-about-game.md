@@ -1,6 +1,6 @@
 # killop/anything_about_game
 
-[![Stars](https://img.shields.io/github/stars/killop/anything_about_game?style=flat-square&color=yellow)](https://github.com/killop/anything_about_game/stargazers) [![Forks](https://img.shields.io/github/forks/killop/anything_about_game?style=flat-square&color=blue)](https://github.com/killop/anything_about_game/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/killop/anything_about_game?style=flat-square&color=yellow)](https://github.com/killop/anything_about_game/stargazers) [![Forks](https://img.shields.io/github/forks/killop/anything_about_game?style=flat-square&color=blue)](https://github.com/killop/anything_about_game/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A wonderful list of Game Development resources.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 499 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ killop/anything_about_game：killop/anything_about_game helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 67/100 |
-| adoption | 74/100 |
-| stars | 76/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

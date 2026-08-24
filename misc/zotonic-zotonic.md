@@ -1,6 +1,6 @@
 # zotonic/zotonic
 
-[![Stars](https://img.shields.io/github/stars/zotonic/zotonic?style=flat-square&color=yellow)](https://github.com/zotonic/zotonic/stargazers) [![Forks](https://img.shields.io/github/forks/zotonic/zotonic?style=flat-square&color=blue)](https://github.com/zotonic/zotonic/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zotonic/zotonic?style=flat-square&color=yellow)](https://github.com/zotonic/zotonic/stargazers) [![Forks](https://img.shields.io/github/forks/zotonic/zotonic?style=flat-square&color=blue)](https://github.com/zotonic/zotonic/network) [![Language](https://img.shields.io/badge/lang-Erlang-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Zotonic - The Erlang Web Framework & CMS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 846 |
 | 🍴 **Forks** | 207 |
 | 💻 **Language** | Erlang |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ Zotonic 是基于 Erlang 的全栈 Web 框架与内容管理系统（CMS），�
 | forks | 58/100 |
 | stars | 62/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Haehnchen/idea-php-symfony2-plugin
 
-[![Stars](https://img.shields.io/github/stars/Haehnchen/idea-php-symfony2-plugin?style=flat-square&color=yellow)](https://github.com/Haehnchen/idea-php-symfony2-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Haehnchen/idea-php-symfony2-plugin?style=flat-square&color=blue)](https://github.com/Haehnchen/idea-php-symfony2-plugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Haehnchen/idea-php-symfony2-plugin?style=flat-square&color=yellow)](https://github.com/Haehnchen/idea-php-symfony2-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/Haehnchen/idea-php-symfony2-plugin?style=flat-square&color=blue)](https://github.com/Haehnchen/idea-php-symfony2-plugin/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > IntelliJ IDEA / PhpStorm Symfony Plugin
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 929 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Haehnchen/idea-php-symfony2-plugin：Haehnchen/idea-php-symfony2-plugin helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 61/100 |
 | stars | 63/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

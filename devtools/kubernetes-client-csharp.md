@@ -1,6 +1,6 @@
 # kubernetes-client/csharp
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-client/csharp?style=flat-square&color=yellow)](https://github.com/kubernetes-client/csharp/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-client/csharp?style=flat-square&color=blue)](https://github.com/kubernetes-client/csharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-client/csharp?style=flat-square&color=yellow)](https://github.com/kubernetes-client/csharp/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-client/csharp?style=flat-square&color=blue)](https://github.com/kubernetes-client/csharp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Officially supported dotnet Kubernetes Client library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 311 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **kubernetes-client/csharp** repository provides an officially supported .NE
 
 ### 中文
 
-kubernetes-client/csharp：kubernetes-client/csharp helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kubernetes-client/csharp：kubernetes-client/csharp helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kubernetes-client/csharp：kubernetes-client/csharp helps engineers save time in
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ kubernetes-client/csharp：kubernetes-client/csharp helps engineers save time in
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 65/100 |
 | stars | 66/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

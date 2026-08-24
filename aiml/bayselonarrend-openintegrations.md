@@ -1,6 +1,6 @@
 # Bayselonarrend/OpenIntegrations
 
-[![Stars](https://img.shields.io/github/stars/Bayselonarrend/OpenIntegrations?style=flat-square&color=yellow)](https://github.com/Bayselonarrend/OpenIntegrations/stargazers) [![Forks](https://img.shields.io/github/forks/Bayselonarrend/OpenIntegrations?style=flat-square&color=blue)](https://github.com/Bayselonarrend/OpenIntegrations/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bayselonarrend/OpenIntegrations?style=flat-square&color=yellow)](https://github.com/Bayselonarrend/OpenIntegrations/stargazers) [![Forks](https://img.shields.io/github/forks/Bayselonarrend/OpenIntegrations?style=flat-square&color=blue)](https://github.com/Bayselonarrend/OpenIntegrations/network) [![Language](https://img.shields.io/badge/lang-1C%20Enterprise-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Набор инструментов интеграции с популярными сервисами и технологиями для 1С:Предприятие, OneScript и CLI+MCP (Telegram, VK, Bitrix24, Google, Яндекс, S3, PostgreSQL, SQLite, MySQL и др.)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 602 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | 1C Enterprise |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Bayselonarrend/OpenIntegrations：Bayselonarrend/OpenIntegrations helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 94/100 |
-| production | 63/100 |
-| outlook | 68/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 56/100 |
 | stars | 59/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

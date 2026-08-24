@@ -1,6 +1,6 @@
 # LF-Decentralized-Trust-labs/gitmesh
 
-[![Stars](https://img.shields.io/github/stars/LF-Decentralized-Trust-labs/gitmesh?style=flat-square&color=yellow)](https://github.com/LF-Decentralized-Trust-labs/gitmesh/stargazers) [![Forks](https://img.shields.io/github/forks/LF-Decentralized-Trust-labs/gitmesh?style=flat-square&color=blue)](https://github.com/LF-Decentralized-Trust-labs/gitmesh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LF-Decentralized-Trust-labs/gitmesh?style=flat-square&color=yellow)](https://github.com/LF-Decentralized-Trust-labs/gitmesh/stargazers) [![Forks](https://img.shields.io/github/forks/LF-Decentralized-Trust-labs/gitmesh?style=flat-square&color=blue)](https://github.com/LF-Decentralized-Trust-labs/gitmesh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > GitMesh: Policy-as-Code Engine for Open Source AI Agent Orchestration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GitMesh — это открытый движок Policy‑as‑Code, позв
 
 ### 中文
 
-LF-Decentralized-Trust-labs/gitmesh：LF-Decentralized-Trust-labs/gitmesh helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+LF-Decentralized-Trust-labs/gitmesh：LF-Decentralized-Trust-labs/gitmesh helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ LF-Decentralized-Trust-labs/gitmesh：LF-Decentralized-Trust-labs/gitmesh helps 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ LF-Decentralized-Trust-labs/gitmesh：LF-Decentralized-Trust-labs/gitmesh helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 44/100 |
-| stars | 45/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| stars | 45/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

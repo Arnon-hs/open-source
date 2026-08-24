@@ -1,6 +1,6 @@
 # GlitterKill/sdl-mcp
 
-[![Stars](https://img.shields.io/github/stars/GlitterKill/sdl-mcp?style=flat-square&color=yellow)](https://github.com/GlitterKill/sdl-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/GlitterKill/sdl-mcp?style=flat-square&color=blue)](https://github.com/GlitterKill/sdl-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GlitterKill/sdl-mcp?style=flat-square&color=yellow)](https://github.com/GlitterKill/sdl-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/GlitterKill/sdl-mcp?style=flat-square&color=blue)](https://github.com/GlitterKill/sdl-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > SDL-MCP gives coding agents the right code context, not your entire repo. It turns sprawling codebases into compact, high-signal context that saves tokens, speeds up workflows, and improves agent output.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 296 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ GlitterKill/sdl-mcp: GlitterKill/sdl-mcp helps turn isolated prompts and tools i
 
 ### Русский
 
-GlitterKill/sdl-mcp: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+GlitterKill/sdl-mcp: open-source проект в категориях Orchestration, MCP, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ GlitterKill/sdl-mcp：GlitterKill/sdl-mcp helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 66/100 |
-| adoption | 47/100 |
-| stars | 53/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

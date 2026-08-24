@@ -1,6 +1,6 @@
 # espressif/esp-iot-solution
 
-[![Stars](https://img.shields.io/github/stars/espressif/esp-iot-solution?style=flat-square&color=yellow)](https://github.com/espressif/esp-iot-solution/stargazers) [![Forks](https://img.shields.io/github/forks/espressif/esp-iot-solution?style=flat-square&color=blue)](https://github.com/espressif/esp-iot-solution/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/espressif/esp-iot-solution?style=flat-square&color=yellow)](https://github.com/espressif/esp-iot-solution/stargazers) [![Forks](https://img.shields.io/github/forks/espressif/esp-iot-solution?style=flat-square&color=blue)](https://github.com/espressif/esp-iot-solution/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 979 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Espressif IoT Solution – это открытая библиотека о
 
 ### 中文
 
-espressif/esp-iot-solution：espressif/esp-iot-solution may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+espressif/esp-iot-solution：espressif/esp-iot-solution may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ espressif/esp-iot-solution：espressif/esp-iot-solution may be useful when its R
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ espressif/esp-iot-solution：espressif/esp-iot-solution may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 73/100 |
-| stars | 73/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

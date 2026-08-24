@@ -1,6 +1,6 @@
 # vsys-host/shkeeper.io
 
-[![Stars](https://img.shields.io/github/stars/vsys-host/shkeeper.io?style=flat-square&color=yellow)](https://github.com/vsys-host/shkeeper.io/stargazers) [![Forks](https://img.shields.io/github/forks/vsys-host/shkeeper.io?style=flat-square&color=blue)](https://github.com/vsys-host/shkeeper.io/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vsys-host/shkeeper.io?style=flat-square&color=yellow)](https://github.com/vsys-host/shkeeper.io/stargazers) [![Forks](https://img.shields.io/github/forks/vsys-host/shkeeper.io?style=flat-square&color=blue)](https://github.com/vsys-host/shkeeper.io/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > SHKeeper is a self-hosted and open-source cryptocurrency gateway payment processor. It's integrate with popular CMS, any e-commerce, your own code or product
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 562 |
 | 🍴 **Forks** | 140 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ vsys-host/shkeeper.io：vsys-host/shkeeper.io helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 57/100 |
-| stars | 59/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

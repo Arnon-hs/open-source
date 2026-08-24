@@ -1,6 +1,6 @@
 # CrossPaste/crosspaste-desktop
 
-[![Stars](https://img.shields.io/github/stars/CrossPaste/crosspaste-desktop?style=flat-square&color=yellow)](https://github.com/CrossPaste/crosspaste-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/CrossPaste/crosspaste-desktop?style=flat-square&color=blue)](https://github.com/CrossPaste/crosspaste-desktop/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CrossPaste/crosspaste-desktop?style=flat-square&color=yellow)](https://github.com/CrossPaste/crosspaste-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/CrossPaste/crosspaste-desktop?style=flat-square&color=blue)](https://github.com/CrossPaste/crosspaste-desktop/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Universal Pasteboard Across Devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CrossPaste/crosspaste-desktop：CrossPaste/crosspaste-desktop helps engineers sa
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 65/100 |
 | stars | 71/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

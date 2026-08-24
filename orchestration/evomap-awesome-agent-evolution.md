@@ -1,6 +1,6 @@
 # EvoMap/awesome-agent-evolution
 
-[![Stars](https://img.shields.io/github/stars/EvoMap/awesome-agent-evolution?style=flat-square&color=yellow)](https://github.com/EvoMap/awesome-agent-evolution/stargazers) [![Forks](https://img.shields.io/github/forks/EvoMap/awesome-agent-evolution?style=flat-square&color=blue)](https://github.com/EvoMap/awesome-agent-evolution/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EvoMap/awesome-agent-evolution?style=flat-square&color=yellow)](https://github.com/EvoMap/awesome-agent-evolution/stargazers) [![Forks](https://img.shields.io/github/forks/EvoMap/awesome-agent-evolution?style=flat-square&color=blue)](https://github.com/EvoMap/awesome-agent-evolution/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap.ai
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ EvoMap/awesome-agent-evolution 是一个精选的资源库，收录了 AI 代理
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,0 +1,82 @@
+# panguard-ai/panguard-ai
+
+[![Stars](https://img.shields.io/github/stars/panguard-ai/panguard-ai?style=flat-square&color=yellow)](https://github.com/panguard-ai/panguard-ai/stargazers) [![Forks](https://img.shields.io/github/forks/panguard-ai/panguard-ai?style=flat-square&color=blue)](https://github.com/panguard-ai/panguard-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+
+> Open-source security platform for AI agents -- audits skills before install, monitors 24/7, shares threat intelligence across all users. |  AI Agent 開源安全平台 -- 安裝前審計 skill、24/7 即時監控、社群共享威脅情報。
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 40 |
+| 🍴 **Forks** | 5 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai-agent` `ai-security` `cybersecurity` `llm-security` `mcp` `open-source` `prompt-injection` `sigma-rules` `threat-detection` `threat-intelligence` `tool-poisoning` `typescript`
+
+## 🎯 Categories
+
+MCP · AI/ML · Security
+
+## 📝 Summary
+
+### English
+
+panguard‑ai is an open‑source security platform designed to protect AI agents throughout their lifecycle. It audits an agent’s skills before installation, provides continuous 24/7 monitoring, and aggregates threat intelligence from the community to keep all users informed of emerging risks.
+
+### Русский
+
+panguard‑ai — это открытая платформа безопасности для AI‑агентов, которая проверяет их навыки перед установкой, обеспечивает круглосуточный мониторинг в режиме реального времени и объединяет угрозы в единую базу данных, доступную всем пользователям. Благодаря совместному обмену разведданными о вредоносных действиях, сообщество получает проактивную защиту и быстрый отклик на новые риски. Проект сочетает технологии AI/ML и кибербезопасности, предоставляя открытый, масштабируемый и прозрачный инструмент для безопасной интеграции интеллектуальных агентов.
+
+### 中文
+
+panguard-ai/panguard-ai：panguard-ai/panguard-ai helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** panguard-ai/panguard-ai helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 40 GitHub stars
+- 5 forks
+- updated 2026-05-10
+- primary language: TypeScript
+- 13 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 19/100 |
+| stars | 34/100 |
+| topics | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 48/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/panguard-ai/panguard-ai) · [← Back to Mcp](./README.md)</sub>

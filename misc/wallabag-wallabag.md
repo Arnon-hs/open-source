@@ -1,6 +1,6 @@
 # wallabag/wallabag
 
-[![Stars](https://img.shields.io/github/stars/wallabag/wallabag?style=flat-square&color=yellow)](https://github.com/wallabag/wallabag/stargazers) [![Forks](https://img.shields.io/github/forks/wallabag/wallabag?style=flat-square&color=blue)](https://github.com/wallabag/wallabag/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wallabag/wallabag?style=flat-square&color=yellow)](https://github.com/wallabag/wallabag/stargazers) [![Forks](https://img.shields.io/github/forks/wallabag/wallabag?style=flat-square&color=blue)](https://github.com/wallabag/wallabag/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.7k |
 | 🍴 **Forks** | 868 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ wallabag/wallabag：wallabag/wallabag may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 83/100 |
-| stars | 87/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 87/100 |
 | topics | 88/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

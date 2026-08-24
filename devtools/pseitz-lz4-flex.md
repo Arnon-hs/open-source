@@ -1,6 +1,6 @@
 # PSeitz/lz4_flex
 
-[![Stars](https://img.shields.io/github/stars/PSeitz/lz4_flex?style=flat-square&color=yellow)](https://github.com/PSeitz/lz4_flex/stargazers) [![Forks](https://img.shields.io/github/forks/PSeitz/lz4_flex?style=flat-square&color=blue)](https://github.com/PSeitz/lz4_flex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PSeitz/lz4_flex?style=flat-square&color=yellow)](https://github.com/PSeitz/lz4_flex/stargazers) [![Forks](https://img.shields.io/github/forks/PSeitz/lz4_flex?style=flat-square&color=blue)](https://github.com/PSeitz/lz4_flex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Fastest pure Rust implementation of LZ4 compression/decompression.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 594 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ PSeitz/lz4_flex — это самая быстрая чисто‑Rust реа�
 
 ### 中文
 
-PSeitz/lz4_flex：PSeitz/lz4_flex helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+PSeitz/lz4_flex：PSeitz/lz4_flex helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ PSeitz/lz4_flex：PSeitz/lz4_flex helps engineers save time in daily development
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ PSeitz/lz4_flex：PSeitz/lz4_flex helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 44/100 |
+| outlook | 41/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ksimback/hermes-ecosystem
 
-[![Stars](https://img.shields.io/github/stars/ksimback/hermes-ecosystem?style=flat-square&color=yellow)](https://github.com/ksimback/hermes-ecosystem/stargazers) [![Forks](https://img.shields.io/github/forks/ksimback/hermes-ecosystem?style=flat-square&color=blue)](https://github.com/ksimback/hermes-ecosystem/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ksimback/hermes-ecosystem?style=flat-square&color=yellow)](https://github.com/ksimback/hermes-ecosystem/stargazers) [![Forks](https://img.shields.io/github/forks/ksimback/hermes-ecosystem?style=flat-square&color=blue)](https://github.com/ksimback/hermes-ecosystem/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🗺️ Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 773 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Hermes Atlas — открытая карта, объединяющая все 
 
 ### 中文
 
-ksimback/hermes-ecosystem：ksimback/hermes-ecosystem helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ksimback/hermes-ecosystem：ksimback/hermes-ecosystem helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ksimback/hermes-ecosystem：ksimback/hermes-ecosystem helps add AI capability wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ ksimback/hermes-ecosystem：ksimback/hermes-ecosystem helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 62/100 |
-| adoption | 57/100 |
-| stars | 61/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 46/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # jayminwest/os-eco
 
-[![Stars](https://img.shields.io/github/stars/jayminwest/os-eco?style=flat-square&color=yellow)](https://github.com/jayminwest/os-eco/stargazers) [![Forks](https://img.shields.io/github/forks/jayminwest/os-eco?style=flat-square&color=blue)](https://github.com/jayminwest/os-eco/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jayminwest/os-eco?style=flat-square&color=yellow)](https://github.com/jayminwest/os-eco/stargazers) [![Forks](https://img.shields.io/github/forks/jayminwest/os-eco?style=flat-square&color=blue)](https://github.com/jayminwest/os-eco/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Meta-project for the AI agent tooling ecosystem — Mulch, Seeds, Canopy, and Overstory
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ jayminwest/os-eco 是一个面向 AI 代理工具链的元项目，统一管理 
 | forks | 28/100 |
 | stars | 45/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 38/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 69/100 |
+| production | 42/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

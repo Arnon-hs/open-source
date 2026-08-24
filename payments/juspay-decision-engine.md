@@ -1,6 +1,6 @@
 # juspay/decision-engine
 
-[![Stars](https://img.shields.io/github/stars/juspay/decision-engine?style=flat-square&color=yellow)](https://github.com/juspay/decision-engine/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/decision-engine?style=flat-square&color=blue)](https://github.com/juspay/decision-engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juspay/decision-engine?style=flat-square&color=yellow)](https://github.com/juspay/decision-engine/stargazers) [![Forks](https://img.shields.io/github/forks/juspay/decision-engine?style=flat-square&color=blue)](https://github.com/juspay/decision-engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > open-source routing system designed for payment processing
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Design
+Payments
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ juspay/decision‑engine 是一个基于 Rust 的开源路由系统，专为支�
 | forks | 39/100 |
 | stars | 44/100 |
 | topics | 13/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
 | adoption | 42/100 |
-| production | 67/100 |
+| production | 41/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

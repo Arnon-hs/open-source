@@ -1,0 +1,79 @@
+# taglib/taglib
+
+[![Stars](https://img.shields.io/github/stars/taglib/taglib?style=flat-square&color=yellow)](https://github.com/taglib/taglib/stargazers) [![Forks](https://img.shields.io/github/forks/taglib/taglib?style=flat-square&color=blue)](https://github.com/taglib/taglib/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+
+> TagLib Audio Meta-Data Library
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 385 |
+| 💻 **Language** | C++ |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+TagLib is a fast, portable C++ library for reading and editing audio metadata across a wide range of formats (MP3, FLAC, Ogg, MP4, AIFF, and more). It provides a simple, object‑oriented API that supports tag types such as ID3v1, ID3v2, Vorbis comments, and MP4 atoms, enabling developers to retrieve, modify, and write tag information efficiently. The project is open‑source, cross‑platform, and widely used in media players, editors, and other audio‑related applications.
+
+### Русский
+
+TagLib — это кроссплатформенная открытая библиотека для работы с аудио‑метаданными, поддерживающая широкий спектр форматов (MP3, FLAC, Ogg, MP4 и др.). Она позволяет быстро читать, редактировать и сохранять теги, а также получать техническую информацию о файлах (длительность, битрейт, каналы). Проект ориентирован на разработчиков, которым нужен надёжный и лёгкий в интеграции инструмент для управления аудио‑коллекциями.
+
+### 中文
+
+taglib/taglib：taglib/taglib may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** taglib/taglib may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1404 GitHub stars
+- 385 forks
+- updated 2026-05-09
+- primary language: C++
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 65/100 |
+| stars | 67/100 |
+| topics | 0/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/taglib/taglib) · [← Back to Misc](./README.md)</sub>

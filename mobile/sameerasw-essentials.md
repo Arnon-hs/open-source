@@ -1,6 +1,6 @@
 # sameerasw/essentials
 
-[![Stars](https://img.shields.io/github/stars/sameerasw/essentials?style=flat-square&color=yellow)](https://github.com/sameerasw/essentials/stargazers) [![Forks](https://img.shields.io/github/forks/sameerasw/essentials?style=flat-square&color=blue)](https://github.com/sameerasw/essentials/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sameerasw/essentials?style=flat-square&color=yellow)](https://github.com/sameerasw/essentials/stargazers) [![Forks](https://img.shields.io/github/forks/sameerasw/essentials?style=flat-square&color=blue)](https://github.com/sameerasw/essentials/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Essential tools and mods for Android nerds
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ sameerasw/essentials：sameerasw/essentials may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 61/100 |
-| adoption | 60/100 |
-| stars | 68/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.3k |
-| 🍴 **Forks** | 364 |
+| 🍴 **Forks** | 361 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 🗓️ **Last push** | 2026-07-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ metorial/metorial：metorial/metorial helps turn isolated prompts and tools into
 
 **Quality signals**
 
-- 3311 GitHub stars
-- 364 forks
-- updated 2026-07-03
+- 3314 GitHub stars
+- 361 forks
+- updated 2026-07-10
 - primary language: TypeScript
 - 8 topics
 
@@ -79,4 +79,4 @@ metorial/metorial：metorial/metorial helps turn isolated prompts and tools into
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/metorial/metorial) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-10 · [View on GitHub](https://github.com/metorial/metorial) · [← Back to Orchestration](./README.md)</sub>

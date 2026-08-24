@@ -1,6 +1,6 @@
 # hexclave/hexclave
 
-[![Stars](https://img.shields.io/github/stars/hexclave/hexclave?style=flat-square&color=yellow)](https://github.com/hexclave/hexclave/stargazers) [![Forks](https://img.shields.io/github/forks/hexclave/hexclave?style=flat-square&color=blue)](https://github.com/hexclave/hexclave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hexclave/hexclave?style=flat-square&color=yellow)](https://github.com/hexclave/hexclave/stargazers) [![Forks](https://img.shields.io/github/forks/hexclave/hexclave?style=flat-square&color=blue)](https://github.com/hexclave/hexclave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.8k |
 | 🍴 **Forks** | 519 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend · Backend · Data
+Payments · Backend · Data · Database
 
 ## 📝 Summary
 
@@ -68,14 +68,15 @@ hexclave/hexclave：hexclave/hexclave helps integrate monetization, billing, or 
 | forks | 68/100 |
 | stars | 82/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 78/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

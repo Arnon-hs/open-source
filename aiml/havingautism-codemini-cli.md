@@ -1,6 +1,6 @@
 # havingautism/Codemini-CLI
 
-[![Stars](https://img.shields.io/github/stars/havingautism/Codemini-CLI?style=flat-square&color=yellow)](https://github.com/havingautism/Codemini-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/havingautism/Codemini-CLI?style=flat-square&color=blue)](https://github.com/havingautism/Codemini-CLI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/havingautism/Codemini-CLI?style=flat-square&color=yellow)](https://github.com/havingautism/Codemini-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/havingautism/Codemini-CLI?style=flat-square&color=blue)](https://github.com/havingautism/Codemini-CLI/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal-first AI workspace with coding agents, workflows and built-in web UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ havingautism/Codemini-CLI：havingautism/Codemini-CLI helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 53/100 |
-| adoption | 21/100 |
-| stars | 29/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 29/100 |
 | topics | 63/100 |
+| outlook | 46/100 |
+| quality | 39/100 |
+| recency | 20/100 |
+| adoption | 21/100 |
+| production | 42/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

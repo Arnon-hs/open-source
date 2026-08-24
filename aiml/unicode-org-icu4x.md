@@ -1,6 +1,6 @@
 # unicode-org/icu4x
 
-[![Stars](https://img.shields.io/github/stars/unicode-org/icu4x?style=flat-square&color=yellow)](https://github.com/unicode-org/icu4x/stargazers) [![Forks](https://img.shields.io/github/forks/unicode-org/icu4x?style=flat-square&color=blue)](https://github.com/unicode-org/icu4x/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unicode-org/icu4x?style=flat-square&color=yellow)](https://github.com/unicode-org/icu4x/stargazers) [![Forks](https://img.shields.io/github/forks/unicode-org/icu4x?style=flat-square&color=blue)](https://github.com/unicode-org/icu4x/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Solving i18n for client-side and resource-constrained environments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 267 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ unicode-org/icu4x：unicode-org/icu4x helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 67/100 |
 | stars | 69/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

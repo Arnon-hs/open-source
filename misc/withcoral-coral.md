@@ -1,0 +1,79 @@
+# withcoral/coral
+
+[![Stars](https://img.shields.io/github/stars/withcoral/coral?style=flat-square&color=yellow)](https://github.com/withcoral/coral/stargazers) [![Forks](https://img.shields.io/github/forks/withcoral/coral?style=flat-square&color=blue)](https://github.com/withcoral/coral/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> One SQL interface over APIs, files, and live sources — built for agents.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 434 |
+| 🍴 **Forks** | 15 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Coral provides a unified SQL‑like query layer that lets developers fetch and manipulate data from disparate sources—REST APIs, file systems, streaming services, and other live endpoints—using familiar relational syntax. Designed with AI agents in mind, it abstracts away the complexities of heterogeneous integrations, enabling rapid data access for both frontend and backend applications. The open‑source project streamlines data pipelines while remaining flexible enough for a wide range of AI/ML and web development workloads.
+
+### Русский
+
+**withcoral/coral** — открытый проект, предоставляющий единый SQL‑подобный интерфейс к разным источникам данных: веб‑API, файловым хранилищам и живым потокам. Он упрощает работу агентов, позволяя им писать запросы в привычном синтаксисе и получать ответы из любой комбинации AI/ML, фронтенд‑ и бэкенд‑сервисов. Проект ориентирован на гибкую интеграцию и масштабируемую обработку данных в реальном времени.
+
+### 中文
+
+withcoral/coral：withcoral/coral may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** withcoral/coral may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 434 GitHub stars
+- 15 forks
+- updated 2026-05-09
+- primary language: Rust
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 30/100 |
+| stars | 56/100 |
+| topics | 0/100 |
+| outlook | 44/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 44/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/withcoral/coral) · [← Back to Misc](./README.md)</sub>

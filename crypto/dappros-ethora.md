@@ -1,6 +1,6 @@
 # dappros/ethora
 
-[![Stars](https://img.shields.io/github/stars/dappros/ethora?style=flat-square&color=yellow)](https://github.com/dappros/ethora/stargazers) [![Forks](https://img.shields.io/github/forks/dappros/ethora?style=flat-square&color=blue)](https://github.com/dappros/ethora/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dappros/ethora?style=flat-square&color=yellow)](https://github.com/dappros/ethora/stargazers) [![Forks](https://img.shields.io/github/forks/dappros/ethora?style=flat-square&color=blue)](https://github.com/dappros/ethora/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source engine for chat 💬, AI assistants 🤖 & wallets 🪪. React, Typescript, Python, XMPP. Build future apps with chat, AI agents and web3.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 530 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · MCP · Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dappros/ethora: dappros/ethora helps prototype or inspect blockchain workflows w
 
 ### Русский
 
-dappros/ethora: open-source проект в категориях Crypto, AI/ML, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dappros/ethora: open-source проект в категориях Crypto, MCP, Knowledge/RAG, AI/ML, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dappros/ethora：dappros/ethora helps prototype or inspect blockchain workflows 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 65/100 |
-| integration | 94/100 |
-| production | 63/100 |
-| outlook | 68/100 |
-| adoption | 56/100 |
-| stars | 58/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

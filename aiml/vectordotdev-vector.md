@@ -1,6 +1,6 @@
 # vectordotdev/vector
 
-[![Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=flat-square&color=yellow)](https://github.com/vectordotdev/vector/stargazers) [![Forks](https://img.shields.io/github/forks/vectordotdev/vector?style=flat-square&color=blue)](https://github.com/vectordotdev/vector/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=flat-square&color=yellow)](https://github.com/vectordotdev/vector/stargazers) [![Forks](https://img.shields.io/github/forks/vectordotdev/vector?style=flat-square&color=blue)](https://github.com/vectordotdev/vector/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance observability data pipeline.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Data · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ vectordotdev/vector: vectordotdev/vector helps add AI capability without startin
 
 ### Русский
 
-vectordotdev/vector: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+vectordotdev/vector: open-source проект в категориях AI/ML, Data, Observability. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ vectordotdev/vector：vectordotdev/vector helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 80/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 71/100 |
-| adoption | 90/100 |
-| stars | 92/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| stars | 92/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

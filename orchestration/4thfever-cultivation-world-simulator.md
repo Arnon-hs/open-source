@@ -1,6 +1,6 @@
 # 4thfever/cultivation-world-simulator
 
-[![Stars](https://img.shields.io/github/stars/4thfever/cultivation-world-simulator?style=flat-square&color=yellow)](https://github.com/4thfever/cultivation-world-simulator/stargazers) [![Forks](https://img.shields.io/github/forks/4thfever/cultivation-world-simulator?style=flat-square&color=blue)](https://github.com/4thfever/cultivation-world-simulator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/4thfever/cultivation-world-simulator?style=flat-square&color=yellow)](https://github.com/4thfever/cultivation-world-simulator/stargazers) [![Forks](https://img.shields.io/github/forks/4thfever/cultivation-world-simulator?style=flat-square&color=blue)](https://github.com/4thfever/cultivation-world-simulator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Orchestration · AI/ML
 
 ### Русский
 
-4thfever/cultivation-world-simulator: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+4thfever/cultivation-world-simulator: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Orchestration · AI/ML
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 65/100 |
-| stars | 68/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

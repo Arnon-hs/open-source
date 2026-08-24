@@ -1,6 +1,6 @@
 # x-cmd/x-cmd
 
-[![Stars](https://img.shields.io/github/stars/x-cmd/x-cmd?style=flat-square&color=yellow)](https://github.com/x-cmd/x-cmd/stargazers) [![Forks](https://img.shields.io/github/forks/x-cmd/x-cmd?style=flat-square&color=blue)](https://github.com/x-cmd/x-cmd/network) [![Language](https://img.shields.io/badge/lang-Awk-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/x-cmd/x-cmd?style=flat-square&color=yellow)](https://github.com/x-cmd/x-cmd/stargazers) [![Forks](https://img.shields.io/github/forks/x-cmd/x-cmd?style=flat-square&color=blue)](https://github.com/x-cmd/x-cmd/network) [![Language](https://img.shields.io/badge/lang-Awk-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Shell Superpowers for AI Agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | Awk |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ x-cmd/x-cmd：x-cmd/x-cmd helps add AI capability without starting from a blank 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 71/100 |
-| stars | 77/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| stars | 77/100 |
 | topics | 88/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # ai-dynamo/dynamo
 
-[![Stars](https://img.shields.io/github/stars/ai-dynamo/dynamo?style=flat-square&color=yellow)](https://github.com/ai-dynamo/dynamo/stargazers) [![Forks](https://img.shields.io/github/forks/ai-dynamo/dynamo?style=flat-square&color=blue)](https://github.com/ai-dynamo/dynamo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-dynamo/dynamo?style=flat-square&color=yellow)](https://github.com/ai-dynamo/dynamo/stargazers) [![Forks](https://img.shields.io/github/forks/ai-dynamo/dynamo?style=flat-square&color=blue)](https://github.com/ai-dynamo/dynamo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Datacenter Scale Distributed Inference Serving Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Data
 
 ### English
 
-ai-dynamo/dynamo: ai-dynamo/dynamo helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ai-dynamo/dynamo: ai-dynamo/dynamo helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-ai-dynamo/dynamo: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ai-dynamo/dynamo: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-ai-dynamo/dynamo：ai-dynamo/dynamo helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ai-dynamo/dynamo：ai-dynamo/dynamo helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ai-dynamo/dynamo：ai-dynamo/dynamo helps add AI capability without starting fro
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ ai-dynamo/dynamo：ai-dynamo/dynamo helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 56/100 |
+| production | 46/100 |
+| outlook | 49/100 |
 | adoption | 80/100 |
 | stars | 81/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

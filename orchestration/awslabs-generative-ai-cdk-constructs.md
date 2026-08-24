@@ -1,6 +1,6 @@
 # awslabs/generative-ai-cdk-constructs
 
-[![Stars](https://img.shields.io/github/stars/awslabs/generative-ai-cdk-constructs?style=flat-square&color=yellow)](https://github.com/awslabs/generative-ai-cdk-constructs/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/generative-ai-cdk-constructs?style=flat-square&color=blue)](https://github.com/awslabs/generative-ai-cdk-constructs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/generative-ai-cdk-constructs?style=flat-square&color=yellow)](https://github.com/awslabs/generative-ai-cdk-constructs/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/generative-ai-cdk-constructs?style=flat-square&color=blue)](https://github.com/awslabs/generative-ai-cdk-constructs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 535 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ AWS Generative AI CDK Constructs — открытый набор CDK‑кон�
 
 ### 中文
 
-awslabs/generative-ai-cdk-constructs：awslabs/generative-ai-cdk-constructs helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+awslabs/generative-ai-cdk-constructs：awslabs/generative-ai-cdk-constructs helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ awslabs/generative-ai-cdk-constructs：awslabs/generative-ai-cdk-constructs help
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ awslabs/generative-ai-cdk-constructs：awslabs/generative-ai-cdk-constructs help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 55/100 |
-| stars | 58/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

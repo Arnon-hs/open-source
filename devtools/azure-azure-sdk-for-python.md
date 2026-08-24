@@ -1,6 +1,6 @@
 # Azure/azure-sdk-for-python
 
-[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-python?style=flat-square&color=yellow)](https://github.com/Azure/azure-sdk-for-python/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-python?style=flat-square&color=blue)](https://github.com/Azure/azure-sdk-for-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-python?style=flat-square&color=yellow)](https://github.com/Azure/azure-sdk-for-python/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/azure-sdk-for-python?style=flat-square&color=blue)](https://github.com/Azure/azure-sdk-for-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 3.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Azure/azure-sdk-for-python：Azure/azure-sdk-for-python helps engineers save tim
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 82/100 |
 | stars | 80/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

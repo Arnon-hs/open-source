@@ -1,6 +1,6 @@
 # davila7/claude-code-templates
 
-[![Stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&color=yellow)](https://github.com/davila7/claude-code-templates/stargazers) [![Forks](https://img.shields.io/github/forks/davila7/claude-code-templates?style=flat-square&color=blue)](https://github.com/davila7/claude-code-templates/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&color=yellow)](https://github.com/davila7/claude-code-templates/stargazers) [![Forks](https://img.shields.io/github/forks/davila7/claude-code-templates?style=flat-square&color=blue)](https://github.com/davila7/claude-code-templates/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for configuring and monitoring Claude Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26.9k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ davila7/claude-code-templates：davila7/claude-code-templates helps engineers sa
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 74/100 |
+| usefulness | 100/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 70/100 |
+| production | 58/100 |
+| outlook | 65/100 |
 | adoption | 92/100 |
 | stars | 94/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

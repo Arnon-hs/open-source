@@ -1,6 +1,6 @@
 # shareAI-lab/claw0
 
-[![Stars](https://img.shields.io/github/stars/shareAI-lab/claw0?style=flat-square&color=yellow)](https://github.com/shareAI-lab/claw0/stargazers) [![Forks](https://img.shields.io/github/forks/shareAI-lab/claw0?style=flat-square&color=blue)](https://github.com/shareAI-lab/claw0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shareAI-lab/claw0?style=flat-square&color=yellow)](https://github.com/shareAI-lab/claw0/stargazers) [![Forks](https://img.shields.io/github/forks/shareAI-lab/claw0?style=flat-square&color=blue)](https://github.com/shareAI-lab/claw0/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 0 - 1 learn OpenClaw: sections to build an claw-AI agent from scratch
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Education
+AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ shareAI‑lab/claw0 是一个面向 0‑to‑1 学习 OpenClaw 的教学/实验�
 | forks | 64/100 |
 | stars | 74/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

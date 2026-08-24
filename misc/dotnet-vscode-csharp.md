@@ -1,6 +1,6 @@
 # dotnet/vscode-csharp
 
-[![Stars](https://img.shields.io/github/stars/dotnet/vscode-csharp?style=flat-square&color=yellow)](https://github.com/dotnet/vscode-csharp/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/vscode-csharp?style=flat-square&color=blue)](https://github.com/dotnet/vscode-csharp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dotnet/vscode-csharp?style=flat-square&color=yellow)](https://github.com/dotnet/vscode-csharp/stargazers) [![Forks](https://img.shields.io/github/forks/dotnet/vscode-csharp?style=flat-square&color=blue)](https://github.com/dotnet/vscode-csharp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Official C# support for Visual Studio Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 723 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ dotnet/vscode-csharp 是 Microsoft 官方维护的 Visual Studio Code 插件
 | forks | 71/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

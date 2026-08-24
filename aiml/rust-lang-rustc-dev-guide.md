@@ -1,6 +1,6 @@
 # rust-lang/rustc-dev-guide
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/rustc-dev-guide?style=flat-square&color=yellow)](https://github.com/rust-lang/rustc-dev-guide/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustc-dev-guide?style=flat-square&color=blue)](https://github.com/rust-lang/rustc-dev-guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/rustc-dev-guide?style=flat-square&color=yellow)](https://github.com/rust-lang/rustc-dev-guide/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/rustc-dev-guide?style=flat-square&color=blue)](https://github.com/rust-lang/rustc-dev-guide/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A guide to how rustc works and how to contribute to it.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 584 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **rustc-dev-guide** is an open‑source handbook that explains the architect
 
 ### 中文
 
-rust-lang/rustc-dev-guide：rust-lang/rustc-dev-guide helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rust-lang/rustc-dev-guide：rust-lang/rustc-dev-guide helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rust-lang/rustc-dev-guide：rust-lang/rustc-dev-guide helps add AI capability wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ rust-lang/rustc-dev-guide：rust-lang/rustc-dev-guide helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 69/100 |
 | stars | 70/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

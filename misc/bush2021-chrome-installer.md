@@ -1,6 +1,6 @@
 # Bush2021/chrome_installer
 
-[![Stars](https://img.shields.io/github/stars/Bush2021/chrome_installer?style=flat-square&color=yellow)](https://github.com/Bush2021/chrome_installer/stargazers) [![Forks](https://img.shields.io/github/forks/Bush2021/chrome_installer?style=flat-square&color=blue)](https://github.com/Bush2021/chrome_installer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bush2021/chrome_installer?style=flat-square&color=yellow)](https://github.com/Bush2021/chrome_installer/stargazers) [![Forks](https://img.shields.io/github/forks/Bush2021/chrome_installer?style=flat-square&color=blue)](https://github.com/Bush2021/chrome_installer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-updated Google Chrome offline installers for Windows (Stable/Beta/Dev/Canary, x86/x64/ARM64) with direct links and SHA-256, via GitHub Actions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Bush2021/chrome_installer 具备高可用的离线 Chrome 安装包供应能力�
 | forks | 51/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # mifunedev/openharness
 
-[![Stars](https://img.shields.io/github/stars/mifunedev/openharness?style=flat-square&color=yellow)](https://github.com/mifunedev/openharness/stargazers) [![Forks](https://img.shields.io/github/forks/mifunedev/openharness?style=flat-square&color=blue)](https://github.com/mifunedev/openharness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mifunedev/openharness?style=flat-square&color=yellow)](https://github.com/mifunedev/openharness/stargazers) [![Forks](https://img.shields.io/github/forks/mifunedev/openharness?style=flat-square&color=blue)](https://github.com/mifunedev/openharness/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🏗️ We provide the Sandbox. You choose the Harness.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · DevOps/Infra
+Orchestration · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ mifunedev/openharness 是一个面向 AI/ML 与 DevOps 场景的开源编排框�
 | forks | 15/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

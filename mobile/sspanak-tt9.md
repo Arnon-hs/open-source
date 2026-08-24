@@ -1,6 +1,6 @@
 # sspanak/tt9
 
-[![Stars](https://img.shields.io/github/stars/sspanak/tt9?style=flat-square&color=yellow)](https://github.com/sspanak/tt9/stargazers) [![Forks](https://img.shields.io/github/forks/sspanak/tt9?style=flat-square&color=blue)](https://github.com/sspanak/tt9/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sspanak/tt9?style=flat-square&color=yellow)](https://github.com/sspanak/tt9/stargazers) [![Forks](https://img.shields.io/github/forks/sspanak/tt9?style=flat-square&color=blue)](https://github.com/sspanak/tt9/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A T9 keyboard for Android inspired by the classic Nokia phones of the 2000s.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ tt9 — это открытая клавиатура T9 для Android, вдо
 
 ### 中文
 
-sspanak/tt9：sspanak/tt9 may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sspanak/tt9：sspanak/tt9 may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ sspanak/tt9：sspanak/tt9 may be useful when its README and activity match a con
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ sspanak/tt9：sspanak/tt9 may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 63/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

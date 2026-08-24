@@ -1,6 +1,6 @@
 # sozercan/kaset
 
-[![Stars](https://img.shields.io/github/stars/sozercan/kaset?style=flat-square&color=yellow)](https://github.com/sozercan/kaset/stargazers) [![Forks](https://img.shields.io/github/forks/sozercan/kaset?style=flat-square&color=blue)](https://github.com/sozercan/kaset/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sozercan/kaset?style=flat-square&color=yellow)](https://github.com/sozercan/kaset/stargazers) [![Forks](https://img.shields.io/github/forks/sozercan/kaset?style=flat-square&color=blue)](https://github.com/sozercan/kaset/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 📻 The missing YouTube Music macOS app
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sozercan/kaset：sozercan/kaset helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

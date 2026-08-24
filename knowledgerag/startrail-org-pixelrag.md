@@ -1,6 +1,6 @@
 # StarTrail-org/PixelRAG
 
-[![Stars](https://img.shields.io/github/stars/StarTrail-org/PixelRAG?style=flat-square&color=yellow)](https://github.com/StarTrail-org/PixelRAG/stargazers) [![Forks](https://img.shields.io/github/forks/StarTrail-org/PixelRAG?style=flat-square&color=blue)](https://github.com/StarTrail-org/PixelRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StarTrail-org/PixelRAG?style=flat-square&color=yellow)](https://github.com/StarTrail-org/PixelRAG/stargazers) [![Forks](https://img.shields.io/github/forks/StarTrail-org/PixelRAG?style=flat-square&color=blue)](https://github.com/StarTrail-org/PixelRAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > The end of web parsing. The beginning of scalable pixel-native search.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 310 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ PixelRAG（StarTrail‑org/PixelRAG）是面向像素级别内容的检索增强
 | forks | 62/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

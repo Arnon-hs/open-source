@@ -1,6 +1,6 @@
 # arabicapp/everything-claude-code
 
-[![Stars](https://img.shields.io/github/stars/arabicapp/everything-claude-code?style=flat-square&color=yellow)](https://github.com/arabicapp/everything-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/arabicapp/everything-claude-code?style=flat-square&color=blue)](https://github.com/arabicapp/everything-claude-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arabicapp/everything-claude-code?style=flat-square&color=yellow)](https://github.com/arabicapp/everything-claude-code/stargazers) [![Forks](https://img.shields.io/github/forks/arabicapp/everything-claude-code?style=flat-square&color=blue)](https://github.com/arabicapp/everything-claude-code/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Build powerful agents and configurations with the complete collection of Claude Code from an Anthropic hackathon winner, refined over 10+ months.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **everything‑claude‑code** repository bundles the full set of Claude Cod
 
 ### 中文
 
-arabicapp/everything-claude-code：arabicapp/everything-claude-code helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+arabicapp/everything-claude-code：arabicapp/everything-claude-code helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ arabicapp/everything-claude-code：arabicapp/everything-claude-code helps add AI
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ arabicapp/everything-claude-code：arabicapp/everything-claude-code helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 61/100 |
+| production | 46/100 |
+| outlook | 54/100 |
 | adoption | 28/100 |
 | stars | 29/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

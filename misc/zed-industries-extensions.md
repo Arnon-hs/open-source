@@ -1,6 +1,6 @@
 # zed-industries/extensions
 
-[![Stars](https://img.shields.io/github/stars/zed-industries/extensions?style=flat-square&color=yellow)](https://github.com/zed-industries/extensions/stargazers) [![Forks](https://img.shields.io/github/forks/zed-industries/extensions?style=flat-square&color=blue)](https://github.com/zed-industries/extensions/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zed-industries/extensions?style=flat-square&color=yellow)](https://github.com/zed-industries/extensions/stargazers) [![Forks](https://img.shields.io/github/forks/zed-industries/extensions?style=flat-square&color=blue)](https://github.com/zed-industries/extensions/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Extensions for the Zed editor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ With these checks in place, `zed-industries/extensions` can be safely leveraged 
 | forks | 82/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 72/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

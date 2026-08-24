@@ -1,6 +1,6 @@
 # timschmidt/csgrs
 
-[![Stars](https://img.shields.io/github/stars/timschmidt/csgrs?style=flat-square&color=yellow)](https://github.com/timschmidt/csgrs/stargazers) [![Forks](https://img.shields.io/github/forks/timschmidt/csgrs?style=flat-square&color=blue)](https://github.com/timschmidt/csgrs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timschmidt/csgrs?style=flat-square&color=yellow)](https://github.com/timschmidt/csgrs/stargazers) [![Forks](https://img.shields.io/github/forks/timschmidt/csgrs?style=flat-square&color=blue)](https://github.com/timschmidt/csgrs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-modal constructive solid geometry kernel in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ The project shows strong production signals: recent activity, a healthy star/for
 | forks | 38/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

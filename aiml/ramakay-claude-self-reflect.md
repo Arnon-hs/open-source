@@ -1,6 +1,6 @@
 # ramakay/claude-self-reflect
 
-[![Stars](https://img.shields.io/github/stars/ramakay/claude-self-reflect?style=flat-square&color=yellow)](https://github.com/ramakay/claude-self-reflect/stargazers) [![Forks](https://img.shields.io/github/forks/ramakay/claude-self-reflect?style=flat-square&color=blue)](https://github.com/ramakay/claude-self-reflect/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ramakay/claude-self-reflect?style=flat-square&color=yellow)](https://github.com/ramakay/claude-self-reflect/stargazers) [![Forks](https://img.shields.io/github/forks/ramakay/claude-self-reflect?style=flat-square&color=blue)](https://github.com/ramakay/claude-self-reflect/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ AI/ML
 
 ### 中文
 
-ramakay/claude-self-reflect：ramakay/claude-self-reflect helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ramakay/claude-self-reflect：ramakay/claude-self-reflect helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ ramakay/claude-self-reflect：ramakay/claude-self-reflect helps add AI capabilit
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ ramakay/claude-self-reflect：ramakay/claude-self-reflect helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 48/100 |
+| outlook | 50/100 |
 | adoption | 46/100 |
 | stars | 50/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

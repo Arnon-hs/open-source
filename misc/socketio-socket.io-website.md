@@ -1,6 +1,6 @@
 # socketio/socket.io-website
 
-[![Stars](https://img.shields.io/github/stars/socketio/socket.io-website?style=flat-square&color=yellow)](https://github.com/socketio/socket.io-website/stargazers) [![Forks](https://img.shields.io/github/forks/socketio/socket.io-website?style=flat-square&color=blue)](https://github.com/socketio/socket.io-website/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/socketio/socket.io-website?style=flat-square&color=yellow)](https://github.com/socketio/socket.io-website/stargazers) [![Forks](https://img.shields.io/github/forks/socketio/socket.io-website?style=flat-square&color=blue)](https://github.com/socketio/socket.io-website/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Socket.IO website and blog
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ socketio/socket.io-website 是 Socket.IO 官方的站点与博客源码仓库，
 | forks | 76/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

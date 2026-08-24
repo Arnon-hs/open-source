@@ -1,6 +1,6 @@
 # MarcoPorcellato/matryca-plumber
 
-[![Stars](https://img.shields.io/github/stars/MarcoPorcellato/matryca-plumber?style=flat-square&color=yellow)](https://github.com/MarcoPorcellato/matryca-plumber/stargazers) [![Forks](https://img.shields.io/github/forks/MarcoPorcellato/matryca-plumber?style=flat-square&color=blue)](https://github.com/MarcoPorcellato/matryca-plumber/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MarcoPorcellato/matryca-plumber?style=flat-square&color=yellow)](https://github.com/MarcoPorcellato/matryca-plumber/stargazers) [![Forks](https://img.shields.io/github/forks/MarcoPorcellato/matryca-plumber?style=flat-square&color=blue)](https://github.com/MarcoPorcellato/matryca-plumber/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI daemon for Logseq OG: background semantic indexing, link hygiene, and agent-ready CLI/MCP — edits Markdown on disk (no cloud, no Logseq API). Karpathy LLM-Wiki inspired.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · Automation · AI/ML · Backend
+MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ MarcoPorcellato/matryca‑plumber 是一个本地化的 AI 守护进程，专为
 | forks | 23/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

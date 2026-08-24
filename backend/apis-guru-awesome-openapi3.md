@@ -1,6 +1,6 @@
 # APIs-guru/awesome-openapi3
 
-[![Stars](https://img.shields.io/github/stars/APIs-guru/awesome-openapi3?style=flat-square&color=yellow)](https://github.com/APIs-guru/awesome-openapi3/stargazers) [![Forks](https://img.shields.io/github/forks/APIs-guru/awesome-openapi3?style=flat-square&color=blue)](https://github.com/APIs-guru/awesome-openapi3/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/APIs-guru/awesome-openapi3?style=flat-square&color=yellow)](https://github.com/APIs-guru/awesome-openapi3/stargazers) [![Forks](https://img.shields.io/github/forks/APIs-guru/awesome-openapi3?style=flat-square&color=blue)](https://github.com/APIs-guru/awesome-openapi3/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 😎 A list of awesome projects related to OpenAPI 3.0.x, curated by the community
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 697 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ APIs‑guru/awesome‑openapi3 是社区维护的 OpenAPI 3.0.x 生态资源�
 | forks | 46/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

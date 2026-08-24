@@ -1,6 +1,6 @@
 # radareorg/radare2
 
-[![Stars](https://img.shields.io/github/stars/radareorg/radare2?style=flat-square&color=yellow)](https://github.com/radareorg/radare2/stargazers) [![Forks](https://img.shields.io/github/forks/radareorg/radare2?style=flat-square&color=blue)](https://github.com/radareorg/radare2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/radareorg/radare2?style=flat-square&color=yellow)](https://github.com/radareorg/radare2/stargazers) [![Forks](https://img.shields.io/github/forks/radareorg/radare2?style=flat-square&color=blue)](https://github.com/radareorg/radare2/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > UNIX-like reverse engineering framework and command-line toolset
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23.7k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | C |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ radareorg/radare2：radareorg/radare2 helps catch security and privacy issues ea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 81/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 72/100 |
-| adoption | 92/100 |
-| stars | 93/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

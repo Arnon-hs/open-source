@@ -1,6 +1,6 @@
 # mixpanel/mixpanel-swift
 
-[![Stars](https://img.shields.io/github/stars/mixpanel/mixpanel-swift?style=flat-square&color=yellow)](https://github.com/mixpanel/mixpanel-swift/stargazers) [![Forks](https://img.shields.io/github/forks/mixpanel/mixpanel-swift?style=flat-square&color=blue)](https://github.com/mixpanel/mixpanel-swift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mixpanel/mixpanel-swift?style=flat-square&color=yellow)](https://github.com/mixpanel/mixpanel-swift/stargazers) [![Forks](https://img.shields.io/github/forks/mixpanel/mixpanel-swift?style=flat-square&color=blue)](https://github.com/mixpanel/mixpanel-swift/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Official iOS (Swift) Tracking Library for Mixpanel Analytics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 472 |
 | 🍴 **Forks** | 248 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ mixpanel/mixpanel-swift：mixpanel/mixpanel-swift helps convert raw data into se
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 58/100 |
-| stars | 57/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

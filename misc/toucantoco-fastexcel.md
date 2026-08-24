@@ -1,6 +1,6 @@
 # ToucanToco/fastexcel
 
-[![Stars](https://img.shields.io/github/stars/ToucanToco/fastexcel?style=flat-square&color=yellow)](https://github.com/ToucanToco/fastexcel/stargazers) [![Forks](https://img.shields.io/github/forks/ToucanToco/fastexcel?style=flat-square&color=blue)](https://github.com/ToucanToco/fastexcel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ToucanToco/fastexcel?style=flat-square&color=yellow)](https://github.com/ToucanToco/fastexcel/stargazers) [![Forks](https://img.shields.io/github/forks/ToucanToco/fastexcel?style=flat-square&color=blue)](https://github.com/ToucanToco/fastexcel/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A fast excel reader for Rust and Python
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 230 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ ToucanToco / fastexcel is an open‑source library that provides high‑perf
 | forks | 33/100 |
 | stars | 50/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

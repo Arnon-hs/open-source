@@ -1,6 +1,6 @@
 # Moekotori/ECHO
 
-[![Stars](https://img.shields.io/github/stars/Moekotori/ECHO?style=flat-square&color=yellow)](https://github.com/Moekotori/ECHO/stargazers) [![Forks](https://img.shields.io/github/forks/Moekotori/ECHO?style=flat-square&color=blue)](https://github.com/Moekotori/ECHO/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Moekotori/ECHO?style=flat-square&color=yellow)](https://github.com/Moekotori/ECHO/stargazers) [![Forks](https://img.shields.io/github/forks/Moekotori/ECHO?style=flat-square&color=blue)](https://github.com/Moekotori/ECHO/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The Bit-Perfect Bridge to Your Sonic Multiverse.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 787 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -79,14 +79,15 @@ Moekotori/ECHO 是一个 TypeScript 实现的“位完美桥梁”，能够在�
 | forks | 37/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # googleapis/mcp-toolbox-sdk-python
 
-[![Stars](https://img.shields.io/github/stars/googleapis/mcp-toolbox-sdk-python?style=flat-square&color=yellow)](https://github.com/googleapis/mcp-toolbox-sdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/mcp-toolbox-sdk-python?style=flat-square&color=blue)](https://github.com/googleapis/mcp-toolbox-sdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/mcp-toolbox-sdk-python?style=flat-square&color=yellow)](https://github.com/googleapis/mcp-toolbox-sdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/mcp-toolbox-sdk-python?style=flat-square&color=blue)](https://github.com/googleapis/mcp-toolbox-sdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
 
 > Python SDK for interacting with the MCP Toolbox for Databases.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 190 |
-| 🍴 **Forks** | 54 |
+| ⭐ **Stars** | 191 |
+| 🍴 **Forks** | 59 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend · DevTools
+Orchestration · MCP
 
 ## 📝 Summary
 
@@ -53,9 +53,9 @@ googleapis/mcp-toolbox-sdk-python：googleapis/mcp-toolbox-sdk-python helps turn
 
 **Quality signals**
 
-- 190 GitHub stars
-- 54 forks
-- updated 2026-06-25
+- 191 GitHub stars
+- 59 forks
+- updated 2026-08-17
 - primary language: Python
 - 8 topics
 
@@ -65,18 +65,19 @@ googleapis/mcp-toolbox-sdk-python：googleapis/mcp-toolbox-sdk-python helps turn
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 76/100 |
-| integration | 100/100 |
-| production | 83/100 |
-| outlook | 87/100 |
-| adoption | 47/100 |
-| stars | 49/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 80/100 |
+| quality | 71/100 |
+| recency | 80/100 |
+| adoption | 47/100 |
+| production | 76/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/googleapis/mcp-toolbox-sdk-python) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-17 · [View on GitHub](https://github.com/googleapis/mcp-toolbox-sdk-python) · [← Back to Orchestration](./README.md)</sub>

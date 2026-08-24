@@ -1,6 +1,6 @@
 # doitsujin/dxvk
 
-[![Stars](https://img.shields.io/github/stars/doitsujin/dxvk?style=flat-square&color=yellow)](https://github.com/doitsujin/dxvk/stargazers) [![Forks](https://img.shields.io/github/forks/doitsujin/dxvk?style=flat-square&color=blue)](https://github.com/doitsujin/dxvk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doitsujin/dxvk?style=flat-square&color=yellow)](https://github.com/doitsujin/dxvk/stargazers) [![Forks](https://img.shields.io/github/forks/doitsujin/dxvk?style=flat-square&color=blue)](https://github.com/doitsujin/dxvk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ DXVK 是基于 Vulkan 的 D3D8/9/10/11 实现，能够在 Linux 环境下通过 
 | forks | 76/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 86/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

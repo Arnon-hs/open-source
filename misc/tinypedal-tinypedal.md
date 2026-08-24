@@ -1,6 +1,6 @@
 # TinyPedal/TinyPedal
 
-[![Stars](https://img.shields.io/github/stars/TinyPedal/TinyPedal?style=flat-square&color=yellow)](https://github.com/TinyPedal/TinyPedal/stargazers) [![Forks](https://img.shields.io/github/forks/TinyPedal/TinyPedal?style=flat-square&color=blue)](https://github.com/TinyPedal/TinyPedal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TinyPedal/TinyPedal?style=flat-square&color=yellow)](https://github.com/TinyPedal/TinyPedal/stargazers) [![Forks](https://img.shields.io/github/forks/TinyPedal/TinyPedal?style=flat-square&color=blue)](https://github.com/TinyPedal/TinyPedal/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Free and Open Source telemetry overlay application for racing simulation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 309 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ TinyPedal — это бесплатное и открытое приложен
 
 ### 中文
 
-TinyPedal/TinyPedal：TinyPedal/TinyPedal may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+TinyPedal/TinyPedal：TinyPedal/TinyPedal may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ TinyPedal/TinyPedal：TinyPedal/TinyPedal may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ TinyPedal/TinyPedal：TinyPedal/TinyPedal may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
-| adoption | 49/100 |
-| stars | 53/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 75/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

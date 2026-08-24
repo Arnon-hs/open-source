@@ -1,6 +1,6 @@
 # uiNerd16/aicanvas
 
-[![Stars](https://img.shields.io/github/stars/uiNerd16/aicanvas?style=flat-square&color=yellow)](https://github.com/uiNerd16/aicanvas/stargazers) [![Forks](https://img.shields.io/github/forks/uiNerd16/aicanvas?style=flat-square&color=blue)](https://github.com/uiNerd16/aicanvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uiNerd16/aicanvas?style=flat-square&color=yellow)](https://github.com/uiNerd16/aicanvas/stargazers) [![Forks](https://img.shields.io/github/forks/uiNerd16/aicanvas?style=flat-square&color=blue)](https://github.com/uiNerd16/aicanvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source React and Tailwind component marketplace. Install via the shadcn CLI or your AI editor over MCP, with reproduction prompts for Claude Code, Lovable, and V0.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools · Design
+MCP · AI/ML · Frontend · Design
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ uiNerd16/aicanvas 是一个开源的 React + Tailwind 组件市场，支持�
 | forks | 8/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

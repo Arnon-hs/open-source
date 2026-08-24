@@ -1,6 +1,6 @@
 # jo-inc/pi-reflect
 
-[![Stars](https://img.shields.io/github/stars/jo-inc/pi-reflect?style=flat-square&color=yellow)](https://github.com/jo-inc/pi-reflect/stargazers) [![Forks](https://img.shields.io/github/forks/jo-inc/pi-reflect?style=flat-square&color=blue)](https://github.com/jo-inc/pi-reflect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jo-inc/pi-reflect?style=flat-square&color=yellow)](https://github.com/jo-inc/pi-reflect/stargazers) [![Forks](https://img.shields.io/github/forks/jo-inc/pi-reflect?style=flat-square&color=blue)](https://github.com/jo-inc/pi-reflect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Self-improving behavioral files for AI coding agents. Analyzes session transcripts for correction patterns and makes surgical edits to prevent recurrence.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ jo-inc/pi-reflect is an open‑source tool that automatically reviews AI coding 
 
 ### 中文
 
-jo-inc/pi-reflect：jo-inc/pi-reflect helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jo-inc/pi-reflect：jo-inc/pi-reflect helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jo-inc/pi-reflect：jo-inc/pi-reflect helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ jo-inc/pi-reflect：jo-inc/pi-reflect helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 26/100 |
-| stars | 30/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 30/100 |
 | topics | 100/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 26/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

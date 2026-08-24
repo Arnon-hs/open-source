@@ -1,6 +1,6 @@
 # varun29ankuS/shodh-memory
 
-[![Stars](https://img.shields.io/github/stars/varun29ankuS/shodh-memory?style=flat-square&color=yellow)](https://github.com/varun29ankuS/shodh-memory/stargazers) [![Forks](https://img.shields.io/github/forks/varun29ankuS/shodh-memory?style=flat-square&color=blue)](https://github.com/varun29ankuS/shodh-memory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/varun29ankuS/shodh-memory?style=flat-square&color=yellow)](https://github.com/varun29ankuS/shodh-memory/stargazers) [![Forks](https://img.shields.io/github/forks/varun29ankuS/shodh-memory?style=flat-square&color=blue)](https://github.com/varun29ankuS/shodh-memory/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Cognitive memory for AI agents — learns from use, forgets what's irrelevant, strengthens what matters. Single binary, fully offline.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 219 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ varun29ankuS/shodh-memory 是一款面向 AI 代理的认知记忆库，能够�
 | forks | 38/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

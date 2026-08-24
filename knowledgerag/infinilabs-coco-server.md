@@ -1,6 +1,6 @@
 # infinilabs/coco-server
 
-[![Stars](https://img.shields.io/github/stars/infinilabs/coco-server?style=flat-square&color=yellow)](https://github.com/infinilabs/coco-server/stargazers) [![Forks](https://img.shields.io/github/forks/infinilabs/coco-server?style=flat-square&color=blue)](https://github.com/infinilabs/coco-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/infinilabs/coco-server?style=flat-square&color=yellow)](https://github.com/infinilabs/coco-server/stargazers) [![Forks](https://img.shields.io/github/forks/infinilabs/coco-server?style=flat-square&color=blue)](https://github.com/infinilabs/coco-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🥥 Coco AI Server - Search, Connect, Collaborate, AI-powered Enterprise Search, all in one space.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Backend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ Coco AI Server is an open‑source, TypeScript‑based backend that turns intern
 | forks | 38/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

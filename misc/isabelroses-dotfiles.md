@@ -1,6 +1,6 @@
 # isabelroses/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/isabelroses/dotfiles?style=flat-square&color=yellow)](https://github.com/isabelroses/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/isabelroses/dotfiles?style=flat-square&color=blue)](https://github.com/isabelroses/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/isabelroses/dotfiles?style=flat-square&color=yellow)](https://github.com/isabelroses/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/isabelroses/dotfiles?style=flat-square&color=blue)](https://github.com/isabelroses/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > my over complex system configurations
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Misc
 | forks | 30/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

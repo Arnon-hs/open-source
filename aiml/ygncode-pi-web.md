@@ -1,6 +1,6 @@
 # ygncode/pi-web
 
-[![Stars](https://img.shields.io/github/stars/ygncode/pi-web?style=flat-square&color=yellow)](https://github.com/ygncode/pi-web/stargazers) [![Forks](https://img.shields.io/github/forks/ygncode/pi-web?style=flat-square&color=blue)](https://github.com/ygncode/pi-web/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ygncode/pi-web?style=flat-square&color=yellow)](https://github.com/ygncode/pi-web/stargazers) [![Forks](https://img.shields.io/github/forks/ygncode/pi-web?style=flat-square&color=blue)](https://github.com/ygncode/pi-web/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Drive your pi coding agent from any browser on your network — laptop, phone, or tablet.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ ygncode/pi-web 让你可以在局域网内通过任意浏览器（笔记本、�
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 50/100 |
-| outlook | 70/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

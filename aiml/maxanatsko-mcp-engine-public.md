@@ -1,6 +1,6 @@
 # maxanatsko/mcp-engine-public
 
-[![Stars](https://img.shields.io/github/stars/maxanatsko/mcp-engine-public?style=flat-square&color=yellow)](https://github.com/maxanatsko/mcp-engine-public/stargazers) [![Forks](https://img.shields.io/github/forks/maxanatsko/mcp-engine-public?style=flat-square&color=blue)](https://github.com/maxanatsko/mcp-engine-public/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maxanatsko/mcp-engine-public?style=flat-square&color=yellow)](https://github.com/maxanatsko/mcp-engine-public/stargazers) [![Forks](https://img.shields.io/github/forks/maxanatsko/mcp-engine-public?style=flat-square&color=blue)](https://github.com/maxanatsko/mcp-engine-public/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The SemanticOps MCP (formerly MCP Engine) is a Power BI tool that lets AI assistants like Claude interact with your Power BI models programmatically: read your model structure, run DAX queries, modify your semantic model, and perform advanced analytics - all through natural conversation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 236 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ maxanatsko/mcp-engine-public — это open‑source‑платформа Sem
 
 ### 中文
 
-maxanatsko/mcp-engine-public：maxanatsko/mcp-engine-public helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+maxanatsko/mcp-engine-public：maxanatsko/mcp-engine-public helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ maxanatsko/mcp-engine-public：maxanatsko/mcp-engine-public helps add AI capabil
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ maxanatsko/mcp-engine-public：maxanatsko/mcp-engine-public helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 49/100 |
 | stars | 51/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

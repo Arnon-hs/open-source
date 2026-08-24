@@ -1,0 +1,82 @@
+# urfave/cli
+
+[![Stars](https://img.shields.io/github/stars/urfave/cli?style=flat-square&color=yellow)](https://github.com/urfave/cli/stargazers) [![Forks](https://img.shields.io/github/forks/urfave/cli?style=flat-square&color=blue)](https://github.com/urfave/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+
+> A declarative, simple, fast, and fun package for building command line tools in Go
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 24k |
+| 🍴 **Forks** | 1.8k |
+| 💻 **Language** | Go |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cli` `command-line` `go` `golang-library` `json` `toml` `yaml`
+
+## 🎯 Categories
+
+DevTools
+
+## 📝 Summary
+
+### English
+
+urFave/cli is a lightweight Go library that lets developers define command‑line interfaces declaratively, offering fast parsing, built‑in help generation, and support for flags, subcommands, and custom actions. Its simple API and zero‑dependency design make it ideal for creating robust, user‑friendly CLI tools quickly, and it’s widely adopted in the Go ecosystem for DevOps and development utilities.
+
+### Русский
+
+`urfave/cli` — это легковесный и быстрый пакет для Go, позволяющий декларативно описывать команды, флаги и подкоманды, что упрощает создание удобных CLI‑утилит. Он сочетает простоту использования с высокой производительностью, делая процесс разработки инструментов командной строки более приятным. Подходит для разработчиков, которым нужны надёжные DevTools без лишних зависимостей.
+
+### 中文
+
+urfave/cli：urfave/cli helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** urfave/cli helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 24024 GitHub stars
+- 1775 forks
+- updated 2026-05-09
+- primary language: Go
+- 7 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 81/100 |
+| stars | 93/100 |
+| topics | 88/100 |
+| outlook | 63/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/urfave/cli) · [← Back to DevTools](./README.md)</sub>

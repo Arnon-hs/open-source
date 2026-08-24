@@ -1,6 +1,6 @@
 # maplibre/maputnik
 
-[![Stars](https://img.shields.io/github/stars/maplibre/maputnik?style=flat-square&color=yellow)](https://github.com/maplibre/maputnik/stargazers) [![Forks](https://img.shields.io/github/forks/maplibre/maputnik?style=flat-square&color=blue)](https://github.com/maplibre/maputnik/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maplibre/maputnik?style=flat-square&color=yellow)](https://github.com/maplibre/maputnik/stargazers) [![Forks](https://img.shields.io/github/forks/maplibre/maputnik?style=flat-square&color=blue)](https://github.com/maplibre/maputnik/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An open source visual editor for the 'MapLibre Style Specification'
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 459 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -130,14 +130,15 @@ Maputnik（GitHub maplibre/maputnik）是一款基于 TypeScript 的开源可�
 | forks | 67/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

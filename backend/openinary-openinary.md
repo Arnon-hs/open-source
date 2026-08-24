@@ -1,6 +1,6 @@
 # openinary/openinary
 
-[![Stars](https://img.shields.io/github/stars/openinary/openinary?style=flat-square&color=yellow)](https://github.com/openinary/openinary/stargazers) [![Forks](https://img.shields.io/github/forks/openinary/openinary?style=flat-square&color=blue)](https://github.com/openinary/openinary/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openinary/openinary?style=flat-square&color=yellow)](https://github.com/openinary/openinary/stargazers) [![Forks](https://img.shields.io/github/forks/openinary/openinary?style=flat-square&color=blue)](https://github.com/openinary/openinary/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > The self-hostable alternative to Cloudinary
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Database · DevOps/Infra
+Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Openinary（`openinary/openinary`）是一个可自托管的 Cloudinary 替代�
 | forks | 40/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

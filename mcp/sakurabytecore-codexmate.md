@@ -1,6 +1,6 @@
 # SakuraByteCore/codexmate
 
-[![Stars](https://img.shields.io/github/stars/SakuraByteCore/codexmate?style=flat-square&color=yellow)](https://github.com/SakuraByteCore/codexmate/stargazers) [![Forks](https://img.shields.io/github/forks/SakuraByteCore/codexmate?style=flat-square&color=blue)](https://github.com/SakuraByteCore/codexmate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SakuraByteCore/codexmate?style=flat-square&color=yellow)](https://github.com/SakuraByteCore/codexmate/stargazers) [![Forks](https://img.shields.io/github/forks/SakuraByteCore/codexmate?style=flat-square&color=blue)](https://github.com/SakuraByteCore/codexmate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > One dashboard for all your local AI coding agents. Switch providers, manage sessions, and orchestrate tasks across Codex, Claude Code, OpenCode, and OpenClaw. Zero cloud, local-first control plane.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 310 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ SakuraByteCore / codexmate 提供一个本地化的统一仪表盘，集中�
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

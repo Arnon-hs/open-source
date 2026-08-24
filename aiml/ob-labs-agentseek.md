@@ -1,6 +1,6 @@
 # ob-labs/agentseek
 
-[![Stars](https://img.shields.io/github/stars/ob-labs/agentseek?style=flat-square&color=yellow)](https://github.com/ob-labs/agentseek/stargazers) [![Forks](https://img.shields.io/github/forks/ob-labs/agentseek?style=flat-square&color=blue)](https://github.com/ob-labs/agentseek/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ob-labs/agentseek?style=flat-square&color=yellow)](https://github.com/ob-labs/agentseek/stargazers) [![Forks](https://img.shields.io/github/forks/ob-labs/agentseek?style=flat-square&color=blue)](https://github.com/ob-labs/agentseek/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A database-native Agent Harness, built by OceanBase OSS Team.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Database
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ ob‑labs/agentseek 是 OceanBase OSS 团队打造的 *database‑native Agent H
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # finos/git-proxy
 
-[![Stars](https://img.shields.io/github/stars/finos/git-proxy?style=flat-square&color=yellow)](https://github.com/finos/git-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/finos/git-proxy?style=flat-square&color=blue)](https://github.com/finos/git-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/finos/git-proxy?style=flat-square&color=yellow)](https://github.com/finos/git-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/finos/git-proxy?style=flat-square&color=blue)](https://github.com/finos/git-proxy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy custom push protections and policies on top of Git
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 158 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ finos/git-proxy — это open‑source решение, позволяюще�
 
 ### 中文
 
-finos/git-proxy：finos/git-proxy helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+finos/git-proxy：finos/git-proxy helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ finos/git-proxy：finos/git-proxy helps catch security and privacy issues earlie
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ finos/git-proxy：finos/git-proxy helps catch security and privacy issues earlie
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
-| adoption | 51/100 |
-| stars | 49/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 38/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

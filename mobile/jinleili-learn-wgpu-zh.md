@@ -1,6 +1,6 @@
 # jinleili/learn-wgpu-zh
 
-[![Stars](https://img.shields.io/github/stars/jinleili/learn-wgpu-zh?style=flat-square&color=yellow)](https://github.com/jinleili/learn-wgpu-zh/stargazers) [![Forks](https://img.shields.io/github/forks/jinleili/learn-wgpu-zh?style=flat-square&color=blue)](https://github.com/jinleili/learn-wgpu-zh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jinleili/learn-wgpu-zh?style=flat-square&color=yellow)](https://github.com/jinleili/learn-wgpu-zh/stargazers) [![Forks](https://img.shields.io/github/forks/jinleili/learn-wgpu-zh?style=flat-square&color=blue)](https://github.com/jinleili/learn-wgpu-zh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Learn wgpu 中文版
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 492 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Mobile
+Mobile · Education
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ A concise, Chinese‑language tutorial for using **wgpu**, the modern, cross‑p
 
 ### 中文
 
-jinleili/learn-wgpu-zh：jinleili/learn-wgpu-zh may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jinleili/learn-wgpu-zh：jinleili/learn-wgpu-zh may be useful when its README and activity match a concrete workflow.。适合用于learn an implementation pattern、build tutorials。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -43,11 +43,12 @@ jinleili/learn-wgpu-zh：jinleili/learn-wgpu-zh may be useful when its README an
 
 **Best use cases**
 
-- Not enough metadata yet.
+- learn an implementation pattern
+- build tutorials
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +64,16 @@ jinleili/learn-wgpu-zh：jinleili/learn-wgpu-zh may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 52/100 |
-| stars | 57/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

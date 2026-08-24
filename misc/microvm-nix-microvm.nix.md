@@ -1,6 +1,6 @@
 # microvm-nix/microvm.nix
 
-[![Stars](https://img.shields.io/github/stars/microvm-nix/microvm.nix?style=flat-square&color=yellow)](https://github.com/microvm-nix/microvm.nix/stargazers) [![Forks](https://img.shields.io/github/forks/microvm-nix/microvm.nix?style=flat-square&color=blue)](https://github.com/microvm-nix/microvm.nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microvm-nix/microvm.nix?style=flat-square&color=yellow)](https://github.com/microvm-nix/microvm.nix/stargazers) [![Forks](https://img.shields.io/github/forks/microvm-nix/microvm.nix?style=flat-square&color=blue)](https://github.com/microvm-nix/microvm.nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > NixOS MicroVMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 201 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ This NixOS MicroVMs project enables the creation and management of lightweight v
 
 ### 中文
 
-microvm-nix/microvm.nix：microvm-nix/microvm.nix may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+microvm-nix/microvm.nix：microvm-nix/microvm.nix may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ microvm-nix/microvm.nix：microvm-nix/microvm.nix may be useful when its README 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ microvm-nix/microvm.nix：microvm-nix/microvm.nix may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 56/100 |
-| outlook | 63/100 |
-| adoption | 68/100 |
-| stars | 72/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

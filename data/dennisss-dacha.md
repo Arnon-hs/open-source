@@ -1,6 +1,6 @@
 # dennisss/dacha
 
-[![Stars](https://img.shields.io/github/stars/dennisss/dacha?style=flat-square&color=yellow)](https://github.com/dennisss/dacha/stargazers) [![Forks](https://img.shields.io/github/forks/dennisss/dacha?style=flat-square&color=blue)](https://github.com/dennisss/dacha/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dennisss/dacha?style=flat-square&color=yellow)](https://github.com/dennisss/dacha/stargazers) [![Forks](https://img.shields.io/github/forks/dennisss/dacha?style=flat-square&color=blue)](https://github.com/dennisss/dacha/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Monorepo for awesome tools/projects/libraries
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Den​nisss/dacha is a monorepo that aggregates a collection of high‑quality o
 
 ### 中文
 
-dennisss/dacha：dennisss/dacha helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dennisss/dacha：dennisss/dacha helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dennisss/dacha：dennisss/dacha helps convert raw data into searchable, analyzab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ dennisss/dacha：dennisss/dacha helps convert raw data into searchable, analyzab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 53/100 |
+| production | 44/100 |
+| outlook | 46/100 |
 | adoption | 41/100 |
 | stars | 47/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

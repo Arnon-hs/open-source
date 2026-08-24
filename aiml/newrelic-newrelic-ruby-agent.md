@@ -1,6 +1,6 @@
 # newrelic/newrelic-ruby-agent
 
-[![Stars](https://img.shields.io/github/stars/newrelic/newrelic-ruby-agent?style=flat-square&color=yellow)](https://github.com/newrelic/newrelic-ruby-agent/stargazers) [![Forks](https://img.shields.io/github/forks/newrelic/newrelic-ruby-agent?style=flat-square&color=blue)](https://github.com/newrelic/newrelic-ruby-agent/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/newrelic/newrelic-ruby-agent?style=flat-square&color=yellow)](https://github.com/newrelic/newrelic-ruby-agent/stargazers) [![Forks](https://img.shields.io/github/forks/newrelic/newrelic-ruby-agent?style=flat-square&color=blue)](https://github.com/newrelic/newrelic-ruby-agent/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > New Relic RPM Ruby Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 609 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ newrelic/newrelic-ruby-agent 的生产可用性为中等。它适用于 prototyp
 | forks | 70/100 |
 | stars | 66/100 |
 | topics | 50/100 |
-| outlook | 78/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

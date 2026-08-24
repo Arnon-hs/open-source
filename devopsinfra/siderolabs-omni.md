@@ -1,6 +1,6 @@
 # siderolabs/omni
 
-[![Stars](https://img.shields.io/github/stars/siderolabs/omni?style=flat-square&color=yellow)](https://github.com/siderolabs/omni/stargazers) [![Forks](https://img.shields.io/github/forks/siderolabs/omni?style=flat-square&color=blue)](https://github.com/siderolabs/omni/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/siderolabs/omni?style=flat-square&color=yellow)](https://github.com/siderolabs/omni/stargazers) [![Forks](https://img.shields.io/github/forks/siderolabs/omni?style=flat-square&color=blue)](https://github.com/siderolabs/omni/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > SaaS-simple deployment of Kubernetes - on your own hardware.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-DevOps/Infra · Product
+DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ siderolabs/omni 是一款面向自有硬件的 SaaS‑style Kubernetes 部署工
 | forks | 51/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

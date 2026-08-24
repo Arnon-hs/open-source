@@ -1,6 +1,6 @@
 # lockbook/lockbook
 
-[![Stars](https://img.shields.io/github/stars/lockbook/lockbook?style=flat-square&color=yellow)](https://github.com/lockbook/lockbook/stargazers) [![Forks](https://img.shields.io/github/forks/lockbook/lockbook?style=flat-square&color=blue)](https://github.com/lockbook/lockbook/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lockbook/lockbook?style=flat-square&color=yellow)](https://github.com/lockbook/lockbook/stargazers) [![Forks](https://img.shields.io/github/forks/lockbook/lockbook?style=flat-square&color=blue)](https://github.com/lockbook/lockbook/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Encrypted notebook
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 390 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Lockbook 是一个基于 Rust 实现的加密笔记本，提供端到端加密�
 | forks | 40/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

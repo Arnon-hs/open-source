@@ -1,6 +1,6 @@
 # vakra-dev/reader
 
-[![Stars](https://img.shields.io/github/stars/vakra-dev/reader?style=flat-square&color=yellow)](https://github.com/vakra-dev/reader/stargazers) [![Forks](https://img.shields.io/github/forks/vakra-dev/reader?style=flat-square&color=blue)](https://github.com/vakra-dev/reader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vakra-dev/reader?style=flat-square&color=yellow)](https://github.com/vakra-dev/reader/stargazers) [![Forks](https://img.shields.io/github/forks/vakra-dev/reader?style=flat-square&color=blue)](https://github.com/vakra-dev/reader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Open source web infrastructure for AI. Scrape, crawl, and automate the web, clean markdown, browser sessions, ready for your agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 526 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vakra-dev/reader：vakra-dev/reader helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 53/100 |
 | stars | 58/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

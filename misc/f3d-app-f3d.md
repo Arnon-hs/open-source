@@ -1,6 +1,6 @@
 # f3d-app/f3d
 
-[![Stars](https://img.shields.io/github/stars/f3d-app/f3d?style=flat-square&color=yellow)](https://github.com/f3d-app/f3d/stargazers) [![Forks](https://img.shields.io/github/forks/f3d-app/f3d?style=flat-square&color=blue)](https://github.com/f3d-app/f3d/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/f3d-app/f3d?style=flat-square&color=yellow)](https://github.com/f3d-app/f3d/stargazers) [![Forks](https://img.shields.io/github/forks/f3d-app/f3d?style=flat-square&color=blue)](https://github.com/f3d-app/f3d/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and minimalist 3D viewer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 405 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ f3d-app/f3d：f3d-app/f3d may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 74/100 |
-| stars | 77/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # eq1024/WinPaste
 
-[![Stars](https://img.shields.io/github/stars/eq1024/WinPaste?style=flat-square&color=yellow)](https://github.com/eq1024/WinPaste/stargazers) [![Forks](https://img.shields.io/github/forks/eq1024/WinPaste?style=flat-square&color=blue)](https://github.com/eq1024/WinPaste/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eq1024/WinPaste?style=flat-square&color=yellow)](https://github.com/eq1024/WinPaste/stargazers) [![Forks](https://img.shields.io/github/forks/eq1024/WinPaste?style=flat-square&color=blue)](https://github.com/eq1024/WinPaste/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > 一个快速、轻量且功能强大的 Windows 剪贴板增强工具。它能无缝替换系统自带的Win+V历史功能，让你无需学习即可上手。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ eq1024/WinPaste：eq1024/WinPaste may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 43/100 |
-| adoption | 41/100 |
-| stars | 49/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 0/100 |
+| outlook | 36/100 |
+| quality | 39/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -66,14 +66,14 @@ jordanrendric/claude-video-vision：jordanrendric/claude-video-vision helps team
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| quality | 60/100 |
+| integration | 94/100 |
+| production | 57/100 |
+| outlook | 52/100 |
 | adoption | 55/100 |
 | stars | 58/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

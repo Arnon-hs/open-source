@@ -1,6 +1,6 @@
 # rush86999/atom
 
-[![Stars](https://img.shields.io/github/stars/rush86999/atom?style=flat-square&color=yellow)](https://github.com/rush86999/atom/stargazers) [![Forks](https://img.shields.io/github/forks/rush86999/atom?style=flat-square&color=blue)](https://github.com/rush86999/atom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rush86999/atom?style=flat-square&color=yellow)](https://github.com/rush86999/atom/stargazers) [![Forks](https://img.shields.io/github/forks/rush86999/atom?style=flat-square&color=blue)](https://github.com/rush86999/atom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Atom Agent, automate your workflows by talking to an AI — and let it remember, search, and handle tasks like a real assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 762 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Product
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Atom 是一款基于大模型的 AI 助手框架，能够通过自然语言指�
 | forks | 47/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

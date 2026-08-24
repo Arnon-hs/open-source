@@ -1,6 +1,6 @@
 # petoncle/mousemaster
 
-[![Stars](https://img.shields.io/github/stars/petoncle/mousemaster?style=flat-square&color=yellow)](https://github.com/petoncle/mousemaster/stargazers) [![Forks](https://img.shields.io/github/forks/petoncle/mousemaster?style=flat-square&color=blue)](https://github.com/petoncle/mousemaster/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petoncle/mousemaster?style=flat-square&color=yellow)](https://github.com/petoncle/mousemaster/stargazers) [![Forks](https://img.shields.io/github/forks/petoncle/mousemaster?style=flat-square&color=blue)](https://github.com/petoncle/mousemaster/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Mouseless mouse control and advanced keyboard customization.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 742 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MouseMaster is an open‑source tool that lets you control the cursor without a 
 
 ### 中文
 
-petoncle/mousemaster：petoncle/mousemaster may be useful when its README and activity match a concrete workflow.。适合用于Product。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+petoncle/mousemaster：petoncle/mousemaster may be useful when its README and activity match a concrete workflow.。适合用于Product。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ petoncle/mousemaster：petoncle/mousemaster may be useful when its README and ac
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ petoncle/mousemaster：petoncle/mousemaster may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 55/100 |
 | stars | 61/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

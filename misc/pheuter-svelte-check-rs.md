@@ -1,6 +1,6 @@
 # pheuter/svelte-check-rs
 
-[![Stars](https://img.shields.io/github/stars/pheuter/svelte-check-rs?style=flat-square&color=yellow)](https://github.com/pheuter/svelte-check-rs/stargazers) [![Forks](https://img.shields.io/github/forks/pheuter/svelte-check-rs?style=flat-square&color=blue)](https://github.com/pheuter/svelte-check-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pheuter/svelte-check-rs?style=flat-square&color=yellow)](https://github.com/pheuter/svelte-check-rs/stargazers) [![Forks](https://img.shields.io/github/forks/pheuter/svelte-check-rs?style=flat-square&color=blue)](https://github.com/pheuter/svelte-check-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Fast Rust-powered drop-in replacement for svelte-check (Svelte 5+)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 119 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Misc
 | forks | 21/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 35/100 |
+| quality | 37/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 66/100 |
+| production | 40/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

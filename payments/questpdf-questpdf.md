@@ -1,6 +1,6 @@
 # QuestPDF/QuestPDF
 
-[![Stars](https://img.shields.io/github/stars/QuestPDF/QuestPDF?style=flat-square&color=yellow)](https://github.com/QuestPDF/QuestPDF/stargazers) [![Forks](https://img.shields.io/github/forks/QuestPDF/QuestPDF?style=flat-square&color=blue)](https://github.com/QuestPDF/QuestPDF/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QuestPDF/QuestPDF?style=flat-square&color=yellow)](https://github.com/QuestPDF/QuestPDF/stargazers) [![Forks](https://img.shields.io/github/forks/QuestPDF/QuestPDF?style=flat-square&color=blue)](https://github.com/QuestPDF/QuestPDF/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > QuestPDF is a modern library for PDF document generation. Its fluent C# API lets you design complex layouts with clean, readable code. Create documents using a flexible, component-based approach.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14k |
 | 🍴 **Forks** | 760 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments · Design
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ QuestPDF/QuestPDF：QuestPDF/QuestPDF helps integrate monetization, billing, or 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 78/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 67/100 |
-| adoption | 84/100 |
-| stars | 88/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

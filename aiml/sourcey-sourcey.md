@@ -1,6 +1,6 @@
 # sourcey/sourcey
 
-[![Stars](https://img.shields.io/github/stars/sourcey/sourcey?style=flat-square&color=yellow)](https://github.com/sourcey/sourcey/stargazers) [![Forks](https://img.shields.io/github/forks/sourcey/sourcey?style=flat-square&color=blue)](https://github.com/sourcey/sourcey/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sourcey/sourcey?style=flat-square&color=yellow)](https://github.com/sourcey/sourcey/stargazers) [![Forks](https://img.shields.io/github/forks/sourcey/sourcey?style=flat-square&color=blue)](https://github.com/sourcey/sourcey/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 325 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sourcey/sourcey：sourcey/sourcey helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 65/100 |
 | stars | 66/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

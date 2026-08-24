@@ -1,6 +1,6 @@
 # BeryJu/gravity
 
-[![Stars](https://img.shields.io/github/stars/BeryJu/gravity?style=flat-square&color=yellow)](https://github.com/BeryJu/gravity/stargazers) [![Forks](https://img.shields.io/github/forks/BeryJu/gravity?style=flat-square&color=blue)](https://github.com/BeryJu/gravity/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BeryJu/gravity?style=flat-square&color=yellow)](https://github.com/BeryJu/gravity/stargazers) [![Forks](https://img.shields.io/github/forks/BeryJu/gravity?style=flat-square&color=blue)](https://github.com/BeryJu/gravity/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 921 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ BeryJu/gravity：BeryJu/gravity helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 56/100 |
 | stars | 63/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

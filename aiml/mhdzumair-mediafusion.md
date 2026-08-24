@@ -1,6 +1,6 @@
 # mhdzumair/MediaFusion
 
-[![Stars](https://img.shields.io/github/stars/mhdzumair/MediaFusion?style=flat-square&color=yellow)](https://github.com/mhdzumair/MediaFusion/stargazers) [![Forks](https://img.shields.io/github/forks/mhdzumair/MediaFusion?style=flat-square&color=blue)](https://github.com/mhdzumair/MediaFusion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mhdzumair/MediaFusion?style=flat-square&color=yellow)](https://github.com/mhdzumair/MediaFusion/stargazers) [![Forks](https://img.shields.io/github/forks/mhdzumair/MediaFusion?style=flat-square&color=blue)](https://github.com/mhdzumair/MediaFusion/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Universal  Add-On for Stremio & Kodi
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 849 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mhdzumair/MediaFusion：mhdzumair/MediaFusion helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

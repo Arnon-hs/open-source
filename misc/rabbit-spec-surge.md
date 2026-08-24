@@ -1,6 +1,6 @@
 # Rabbit-Spec/Surge
 
-[![Stars](https://img.shields.io/github/stars/Rabbit-Spec/Surge?style=flat-square&color=yellow)](https://github.com/Rabbit-Spec/Surge/stargazers) [![Forks](https://img.shields.io/github/forks/Rabbit-Spec/Surge?style=flat-square&color=blue)](https://github.com/Rabbit-Spec/Surge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Rabbit-Spec/Surge?style=flat-square&color=yellow)](https://github.com/Rabbit-Spec/Surge/stargazers) [![Forks](https://img.shields.io/github/forks/Rabbit-Spec/Surge?style=flat-square&color=blue)](https://github.com/Rabbit-Spec/Surge/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Surge自用配置以及模块和脚本
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 314 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Rabbit‑Spec/Surge 是一套个人化的 Surge（网络代理工具）配置、
 | forks | 62/100 |
 | stars | 75/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 72/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

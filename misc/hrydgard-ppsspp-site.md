@@ -1,6 +1,6 @@
 # hrydgard/ppsspp-site
 
-[![Stars](https://img.shields.io/github/stars/hrydgard/ppsspp-site?style=flat-square&color=yellow)](https://github.com/hrydgard/ppsspp-site/stargazers) [![Forks](https://img.shields.io/github/forks/hrydgard/ppsspp-site?style=flat-square&color=blue)](https://github.com/hrydgard/ppsspp-site/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hrydgard/ppsspp-site?style=flat-square&color=yellow)](https://github.com/hrydgard/ppsspp-site/stargazers) [![Forks](https://img.shields.io/github/forks/hrydgard/ppsspp-site?style=flat-square&color=blue)](https://github.com/hrydgard/ppsspp-site/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > New PPSSPP website
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | 57 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ hrydgard/ppsspp‑site 是 PPSSPP（PlayStation Portable 模拟器）全新官�
 | forks | 44/100 |
 | stars | 43/100 |
 | topics | 0/100 |
-| outlook | 64/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 36/100 |
+| quality | 40/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 67/100 |
+| production | 40/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

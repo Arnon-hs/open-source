@@ -1,6 +1,6 @@
 # Alex8791-cyber/cognithor
 
-[![Stars](https://img.shields.io/github/stars/Alex8791-cyber/cognithor?style=flat-square&color=yellow)](https://github.com/Alex8791-cyber/cognithor/stargazers) [![Forks](https://img.shields.io/github/forks/Alex8791-cyber/cognithor?style=flat-square&color=blue)](https://github.com/Alex8791-cyber/cognithor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alex8791-cyber/cognithor?style=flat-square&color=yellow)](https://github.com/Alex8791-cyber/cognithor/stargazers) [![Forks](https://img.shields.io/github/forks/Alex8791-cyber/cognithor?style=flat-square&color=blue)](https://github.com/Alex8791-cyber/cognithor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Cognithor · Agent OS: Local-first autonomous agent operating system. 19 LLM providers, 18 channels, 145 MCP tools, 6-tier memory, Agent Packs marketplace, zero telemetry. Python 3.12+, Apache 2.0.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Alex8791-cyber/cognithor：Alex8791-cyber/cognithor helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 42/100 |
 | stars | 45/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

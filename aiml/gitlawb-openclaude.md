@@ -1,6 +1,6 @@
 # Gitlawb/openclaude
 
-[![Stars](https://img.shields.io/github/stars/Gitlawb/openclaude?style=flat-square&color=yellow)](https://github.com/Gitlawb/openclaude/stargazers) [![Forks](https://img.shields.io/github/forks/Gitlawb/openclaude?style=flat-square&color=blue)](https://github.com/Gitlawb/openclaude/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gitlawb/openclaude?style=flat-square&color=yellow)](https://github.com/Gitlawb/openclaude/stargazers) [![Forks](https://img.shields.io/github/forks/Gitlawb/openclaude?style=flat-square&color=blue)](https://github.com/Gitlawb/openclaude/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > runs anywhere. uses anything
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 26.1k |
 | 🍴 **Forks** | 8.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ Gitlawb/openclaude：Gitlawb/openclaude helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 72/100 |
-| adoption | 95/100 |
-| stars | 94/100 |
 | forks | 98/100 |
-| recency | 40/100 |
+| stars | 94/100 |
 | topics | 63/100 |
+| outlook | 65/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

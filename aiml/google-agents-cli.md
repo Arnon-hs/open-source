@@ -1,6 +1,6 @@
 # google/agents-cli
 
-[![Stars](https://img.shields.io/github/stars/google/agents-cli?style=flat-square&color=yellow)](https://github.com/google/agents-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google/agents-cli?style=flat-square&color=blue)](https://github.com/google/agents-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/agents-cli?style=flat-square&color=yellow)](https://github.com/google/agents-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google/agents-cli?style=flat-square&color=blue)](https://github.com/google/agents-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 249 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ google/agents-cli: google/agents-cli helps add AI capability without starting fr
 
 ### Русский
 
-google/agents-cli: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+google/agents-cli: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,16 +64,16 @@ google/agents-cli：google/agents-cli helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 66/100 |
-| adoption | 68/100 |
-| stars | 71/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

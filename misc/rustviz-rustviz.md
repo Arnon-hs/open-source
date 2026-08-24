@@ -1,6 +1,6 @@
 # rustviz/rustviz
 
-[![Stars](https://img.shields.io/github/stars/rustviz/rustviz?style=flat-square&color=yellow)](https://github.com/rustviz/rustviz/stargazers) [![Forks](https://img.shields.io/github/forks/rustviz/rustviz?style=flat-square&color=blue)](https://github.com/rustviz/rustviz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustviz/rustviz?style=flat-square&color=yellow)](https://github.com/rustviz/rustviz/stargazers) [![Forks](https://img.shields.io/github/forks/rustviz/rustviz?style=flat-square&color=blue)](https://github.com/rustviz/rustviz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Interactively Visualizing Ownership and Borrowing for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ rustviz is an open‑source tool that visualizes Rust’s ownership and borrowin
 
 ### 中文
 
-rustviz/rustviz：rustviz/rustviz may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rustviz/rustviz：rustviz/rustviz may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ rustviz/rustviz：rustviz/rustviz may be useful when its README and activity mat
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ rustviz/rustviz：rustviz/rustviz may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 49/100 |
-| adoption | 66/100 |
-| stars | 73/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

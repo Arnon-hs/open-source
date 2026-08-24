@@ -1,6 +1,6 @@
 # zgsm-ai/costrict
 
-[![Stars](https://img.shields.io/github/stars/zgsm-ai/costrict?style=flat-square&color=yellow)](https://github.com/zgsm-ai/costrict/stargazers) [![Forks](https://img.shields.io/github/forks/zgsm-ai/costrict?style=flat-square&color=blue)](https://github.com/zgsm-ai/costrict/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zgsm-ai/costrict?style=flat-square&color=yellow)](https://github.com/zgsm-ai/costrict/stargazers) [![Forks](https://img.shields.io/github/forks/zgsm-ai/costrict?style=flat-square&color=blue)](https://github.com/zgsm-ai/costrict/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Costrict - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 153 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ zgsm-ai/costrict：zgsm-ai/costrict helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 66/100 |
-| adoption | 70/100 |
-| stars | 77/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

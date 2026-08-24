@@ -1,6 +1,6 @@
 # QLHazyCoder/codex-oauth-automation-extension
 
-[![Stars](https://img.shields.io/github/stars/QLHazyCoder/codex-oauth-automation-extension?style=flat-square&color=yellow)](https://github.com/QLHazyCoder/codex-oauth-automation-extension/stargazers) [![Forks](https://img.shields.io/github/forks/QLHazyCoder/codex-oauth-automation-extension?style=flat-square&color=blue)](https://github.com/QLHazyCoder/codex-oauth-automation-extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/QLHazyCoder/codex-oauth-automation-extension?style=flat-square&color=yellow)](https://github.com/QLHazyCoder/codex-oauth-automation-extension/stargazers) [![Forks](https://img.shields.io/github/forks/QLHazyCoder/codex-oauth-automation-extension?style=flat-square&color=blue)](https://github.com/QLHazyCoder/codex-oauth-automation-extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Chrome扩展：支持OpenAI OAuth注册(自动开通plus账号)、验证码获取、CPA/sub/cpdex2api回调验证与自动恢复
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 676 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ QLLazyCoder/codex-oauth-automation-extension — это открытый Chrom
 
 ### 中文
 
-QLHazyCoder/codex-oauth-automation-extension：QLHazyCoder/codex-oauth-automation-extension helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+QLHazyCoder/codex-oauth-automation-extension：QLHazyCoder/codex-oauth-automation-extension helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ QLHazyCoder/codex-oauth-automation-extension：QLHazyCoder/codex-oauth-automatio
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ QLHazyCoder/codex-oauth-automation-extension：QLHazyCoder/codex-oauth-automatio
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 57/100 |
+| production | 48/100 |
+| outlook | 50/100 |
 | adoption | 74/100 |
 | stars | 75/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

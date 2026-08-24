@@ -1,6 +1,6 @@
 # NVIDIA/cuopt
 
-[![Stars](https://img.shields.io/github/stars/NVIDIA/cuopt?style=flat-square&color=yellow)](https://github.com/NVIDIA/cuopt/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/cuopt?style=flat-square&color=blue)](https://github.com/NVIDIA/cuopt/network) [![Language](https://img.shields.io/badge/lang-Cuda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIA/cuopt?style=flat-square&color=yellow)](https://github.com/NVIDIA/cuopt/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIA/cuopt?style=flat-square&color=blue)](https://github.com/NVIDIA/cuopt/network) [![Language](https://img.shields.io/badge/lang-Cuda-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > GPU accelerated decision optimization
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 961 |
 | 🍴 **Forks** | 203 |
 | 💻 **Language** | Cuda |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ NVIDIA/cuopt 是一个基于 CUDA 的开源库，提供 GPU 加速的决策优�
 | forks | 58/100 |
 | stars | 63/100 |
 | topics | 50/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

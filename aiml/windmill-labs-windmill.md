@@ -1,6 +1,6 @@
 # windmill-labs/windmill
 
-[![Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=flat-square&color=yellow)](https://github.com/windmill-labs/windmill/stargazers) [![Forks](https://img.shields.io/github/forks/windmill-labs/windmill?style=flat-square&color=blue)](https://github.com/windmill-labs/windmill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=flat-square&color=yellow)](https://github.com/windmill-labs/windmill/stargazers) [![Forks](https://img.shields.io/github/forks/windmill-labs/windmill?style=flat-square&color=blue)](https://github.com/windmill-labs/windmill/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 947 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ windmill-labs/windmill：windmill-labs/windmill helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 69/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 85/100 |
 | stars | 90/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

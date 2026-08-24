@@ -1,6 +1,6 @@
 # aquaproj/aqua-registry
 
-[![Stars](https://img.shields.io/github/stars/aquaproj/aqua-registry?style=flat-square&color=yellow)](https://github.com/aquaproj/aqua-registry/stargazers) [![Forks](https://img.shields.io/github/forks/aquaproj/aqua-registry?style=flat-square&color=blue)](https://github.com/aquaproj/aqua-registry/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aquaproj/aqua-registry?style=flat-square&color=yellow)](https://github.com/aquaproj/aqua-registry/stargazers) [![Forks](https://img.shields.io/github/forks/aquaproj/aqua-registry?style=flat-square&color=blue)](https://github.com/aquaproj/aqua-registry/network) [![Language](https://img.shields.io/badge/lang-YAML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > aqua's Standard Registry
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 323 |
 | 🍴 **Forks** | 333 |
 | 💻 **Language** | YAML |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ aquaproj/aqua-registry：aquaproj/aqua-registry helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 56/100 |
 | stars | 53/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # shinpr/ai-coding-project-boilerplate
 
-[![Stars](https://img.shields.io/github/stars/shinpr/ai-coding-project-boilerplate?style=flat-square&color=yellow)](https://github.com/shinpr/ai-coding-project-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/ai-coding-project-boilerplate?style=flat-square&color=blue)](https://github.com/shinpr/ai-coding-project-boilerplate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinpr/ai-coding-project-boilerplate?style=flat-square&color=yellow)](https://github.com/shinpr/ai-coding-project-boilerplate/stargazers) [![Forks](https://img.shields.io/github/forks/shinpr/ai-coding-project-boilerplate?style=flat-square&color=blue)](https://github.com/shinpr/ai-coding-project-boilerplate/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic coding TypeScript boilerplate for Claude Code — sub-agent workflows with built-in quality checks and context engineering.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ sh​inpr/ai-coding-project-boilerplate — это открытый шабло
 
 ### 中文
 
-shinpr/ai-coding-project-boilerplate：shinpr/ai-coding-project-boilerplate helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+shinpr/ai-coding-project-boilerplate：shinpr/ai-coding-project-boilerplate helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ shinpr/ai-coding-project-boilerplate：shinpr/ai-coding-project-boilerplate help
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ shinpr/ai-coding-project-boilerplate：shinpr/ai-coding-project-boilerplate help
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 63/100 |
+| production | 48/100 |
+| outlook | 56/100 |
 | adoption | 45/100 |
 | stars | 49/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # DiegoNogueiraDev/mcp-graph-workflow
 
-[![Stars](https://img.shields.io/github/stars/DiegoNogueiraDev/mcp-graph-workflow?style=flat-square&color=yellow)](https://github.com/DiegoNogueiraDev/mcp-graph-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/DiegoNogueiraDev/mcp-graph-workflow?style=flat-square&color=blue)](https://github.com/DiegoNogueiraDev/mcp-graph-workflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DiegoNogueiraDev/mcp-graph-workflow?style=flat-square&color=yellow)](https://github.com/DiegoNogueiraDev/mcp-graph-workflow/stargazers) [![Forks](https://img.shields.io/github/forks/DiegoNogueiraDev/mcp-graph-workflow?style=flat-square&color=blue)](https://github.com/DiegoNogueiraDev/mcp-graph-workflow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > MCP local-first CLI tool that converts PRD text files into persistent execution graphs (SQLite) for structured agentic workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DiegoNogueiraDev/mcp-graph-workflow：DiegoNogueiraDev/mcp-graph-workflow helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 94/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 53/100 |
+| outlook | 55/100 |
 | adoption | 30/100 |
 | stars | 33/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ursisterbtw/ccprompts
 
-[![Stars](https://img.shields.io/github/stars/ursisterbtw/ccprompts?style=flat-square&color=yellow)](https://github.com/ursisterbtw/ccprompts/stargazers) [![Forks](https://img.shields.io/github/forks/ursisterbtw/ccprompts?style=flat-square&color=blue)](https://github.com/ursisterbtw/ccprompts/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ursisterbtw/ccprompts?style=flat-square&color=yellow)](https://github.com/ursisterbtw/ccprompts/stargazers) [![Forks](https://img.shields.io/github/forks/ursisterbtw/ccprompts?style=flat-square&color=blue)](https://github.com/ursisterbtw/ccprompts/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > practical claude code commands and subagents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -128,14 +128,15 @@ In short, `ccprompts` can accelerate AI feature development, but teams should st
 | forks | 26/100 |
 | stars | 39/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

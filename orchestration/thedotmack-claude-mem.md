@@ -1,6 +1,6 @@
 # thedotmack/claude-mem
 
-[![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square&color=yellow)](https://github.com/thedotmack/claude-mem/stargazers) [![Forks](https://img.shields.io/github/forks/thedotmack/claude-mem?style=flat-square&color=blue)](https://github.com/thedotmack/claude-mem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square&color=yellow)](https://github.com/thedotmack/claude-mem/stargazers) [![Forks](https://img.shields.io/github/forks/thedotmack/claude-mem?style=flat-square&color=blue)](https://github.com/thedotmack/claude-mem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 73.1k |
 | 🍴 **Forks** | 6.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ thedotmack/claude-mem: thedotmack/claude-mem helps turn isolated prompts and too
 
 ### Русский
 
-thedotmack/claude-mem: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+thedotmack/claude-mem: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ thedotmack/claude-mem：thedotmack/claude-mem helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 84/100 |
-| integration | 78/100 |
-| production | 68/100 |
-| outlook | 77/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 95/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 61/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # ioccc-src/winner
 
-[![Stars](https://img.shields.io/github/stars/ioccc-src/winner?style=flat-square&color=yellow)](https://github.com/ioccc-src/winner/stargazers) [![Forks](https://img.shields.io/github/forks/ioccc-src/winner?style=flat-square&color=blue)](https://github.com/ioccc-src/winner/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ioccc-src/winner?style=flat-square&color=yellow)](https://github.com/ioccc-src/winner/stargazers) [![Forks](https://img.shields.io/github/forks/ioccc-src/winner?style=flat-square&color=blue)](https://github.com/ioccc-src/winner/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Winners of the International Obfuscated C Code Contest
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ ioccc-src/winner：ioccc-src/winner helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 61/100 |
 | stars | 66/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

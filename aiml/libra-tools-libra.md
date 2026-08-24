@@ -1,6 +1,6 @@
 # libra-tools/libra
 
-[![Stars](https://img.shields.io/github/stars/libra-tools/libra?style=flat-square&color=yellow)](https://github.com/libra-tools/libra/stargazers) [![Forks](https://img.shields.io/github/forks/libra-tools/libra?style=flat-square&color=blue)](https://github.com/libra-tools/libra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libra-tools/libra?style=flat-square&color=yellow)](https://github.com/libra-tools/libra/stargazers) [![Forks](https://img.shields.io/github/forks/libra-tools/libra?style=flat-square&color=blue)](https://github.com/libra-tools/libra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Libra is evolving into an AI agent–native version control tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 161 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Libra（`libra-tools/libra`）是一套面向 AI 代理的原生版本控制工�
 | forks | 55/100 |
 | stars | 40/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

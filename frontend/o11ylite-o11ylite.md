@@ -1,6 +1,6 @@
 # o11ylite/o11ylite
 
-[![Stars](https://img.shields.io/github/stars/o11ylite/o11ylite?style=flat-square&color=yellow)](https://github.com/o11ylite/o11ylite/stargazers) [![Forks](https://img.shields.io/github/forks/o11ylite/o11ylite?style=flat-square&color=blue)](https://github.com/o11ylite/o11ylite/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/o11ylite/o11ylite?style=flat-square&color=yellow)](https://github.com/o11ylite/o11ylite/stargazers) [![Forks](https://img.shields.io/github/forks/o11ylite/o11ylite?style=flat-square&color=blue)](https://github.com/o11ylite/o11ylite/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 31/100 |
+| 📈 **Score** | 28/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | hackernews |
 
@@ -63,14 +63,14 @@ Show HN: OpenTelemetry backend built on DuckDB(Ducklake), SQLite, and Clojure：
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 26/100 |
+| quality | 21/100 |
 | integration | 30/100 |
-| production | 38/100 |
-| outlook | 33/100 |
+| production | 32/100 |
+| outlook | 26/100 |
 | adoption | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 80/100 |
 

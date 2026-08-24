@@ -1,6 +1,6 @@
 # harumiWeb/exstruct
 
-[![Stars](https://img.shields.io/github/stars/harumiWeb/exstruct?style=flat-square&color=yellow)](https://github.com/harumiWeb/exstruct/stargazers) [![Forks](https://img.shields.io/github/forks/harumiWeb/exstruct?style=flat-square&color=blue)](https://github.com/harumiWeb/exstruct/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harumiWeb/exstruct?style=flat-square&color=yellow)](https://github.com/harumiWeb/exstruct/stargazers) [![Forks](https://img.shields.io/github/forks/harumiWeb/exstruct?style=flat-square&color=blue)](https://github.com/harumiWeb/exstruct/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Conversion from Excel to structured JSON (tables, shapes, charts) for LLM/RAG pipelines, and autonomous Excel reading/writing by AI agents via CLI and MCP integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ harumiWeb/exstruct 是一款开源工具，能够将 Excel 文件转换为结构
 | forks | 34/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 43/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

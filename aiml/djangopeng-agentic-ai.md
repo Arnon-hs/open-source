@@ -1,6 +1,6 @@
 # DjangoPeng/agentic-ai
 
-[![Stars](https://img.shields.io/github/stars/DjangoPeng/agentic-ai?style=flat-square&color=yellow)](https://github.com/DjangoPeng/agentic-ai/stargazers) [![Forks](https://img.shields.io/github/forks/DjangoPeng/agentic-ai?style=flat-square&color=blue)](https://github.com/DjangoPeng/agentic-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DjangoPeng/agentic-ai?style=flat-square&color=yellow)](https://github.com/DjangoPeng/agentic-ai/stargazers) [![Forks](https://img.shields.io/github/forks/DjangoPeng/agentic-ai?style=flat-square&color=blue)](https://github.com/DjangoPeng/agentic-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 一套经过生产验证的 OpenClaw + Claude Code 实战知识库：涵盖生产部署、IM 接入、模型配置、安全加固，以及一系列可落地的 AI Agent 业务流项目（小红书发布 / 财务票据 / 智能早报 / CRM / 量化投研 / 密钥巡检自愈）。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 115 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ DjangoPeng/agentic‑ai 是一套已在生产环境验证的 OpenClaw + Claude C
 | forks | 49/100 |
 | stars | 44/100 |
 | topics | 75/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

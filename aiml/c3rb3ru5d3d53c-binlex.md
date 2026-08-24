@@ -1,6 +1,6 @@
 # c3rb3ru5d3d53c/binlex
 
-[![Stars](https://img.shields.io/github/stars/c3rb3ru5d3d53c/binlex?style=flat-square&color=yellow)](https://github.com/c3rb3ru5d3d53c/binlex/stargazers) [![Forks](https://img.shields.io/github/forks/c3rb3ru5d3d53c/binlex?style=flat-square&color=blue)](https://github.com/c3rb3ru5d3d53c/binlex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/c3rb3ru5d3d53c/binlex?style=flat-square&color=yellow)](https://github.com/c3rb3ru5d3d53c/binlex/stargazers) [![Forks](https://img.shields.io/github/forks/c3rb3ru5d3d53c/binlex?style=flat-square&color=blue)](https://github.com/c3rb3ru5d3d53c/binlex/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A Binary Genetic Traits Lexer Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 568 |
 | 🍴 **Forks** | 59 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ c3rb3ru5d3d53c/binlex — это открытая платформа‑лис�
 
 ### 中文
 
-c3rb3ru5d3d53c/binlex：c3rb3ru5d3d53c/binlex helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+c3rb3ru5d3d53c/binlex：c3rb3ru5d3d53c/binlex helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ c3rb3ru5d3d53c/binlex：c3rb3ru5d3d53c/binlex helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ c3rb3ru5d3d53c/binlex：c3rb3ru5d3d53c/binlex helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 55/100 |
 | stars | 59/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

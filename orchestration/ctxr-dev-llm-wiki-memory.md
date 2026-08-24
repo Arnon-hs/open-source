@@ -1,6 +1,6 @@
 # ctxr-dev/llm-wiki-memory
 
-[![Stars](https://img.shields.io/github/stars/ctxr-dev/llm-wiki-memory?style=flat-square&color=yellow)](https://github.com/ctxr-dev/llm-wiki-memory/stargazers) [![Forks](https://img.shields.io/github/forks/ctxr-dev/llm-wiki-memory?style=flat-square&color=blue)](https://github.com/ctxr-dev/llm-wiki-memory/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ctxr-dev/llm-wiki-memory?style=flat-square&color=yellow)](https://github.com/ctxr-dev/llm-wiki-memory/stargazers) [![Forks](https://img.shields.io/github/forks/ctxr-dev/llm-wiki-memory?style=flat-square&color=blue)](https://github.com/ctxr-dev/llm-wiki-memory/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Local, git-versioned memory for AI coding agents. No RAG, no Docker, no external service. Capture, compile, recall over a local LLM wiki with on-device embeddings and an MCP server.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ ctxr-dev/llm-wiki-memory 的价值在于，它能够帮助将孤立的提示和�
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

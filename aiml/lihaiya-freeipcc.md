@@ -1,6 +1,6 @@
 # lihaiya/freeipcc
 
-[![Stars](https://img.shields.io/github/stars/lihaiya/freeipcc?style=flat-square&color=yellow)](https://github.com/lihaiya/freeipcc/stargazers) [![Forks](https://img.shields.io/github/forks/lihaiya/freeipcc?style=flat-square&color=blue)](https://github.com/lihaiya/freeipcc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lihaiya/freeipcc?style=flat-square&color=yellow)](https://github.com/lihaiya/freeipcc/stargazers) [![Forks](https://img.shields.io/github/forks/lihaiya/freeipcc?style=flat-square&color=blue)](https://github.com/lihaiya/freeipcc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Call Center，Contact Center，AI，呼叫中心，客服系统，工单系统，智能外呼，大模型呼叫中心，智能呼叫中心，FreeSWITCH
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ lihaiya/freeipcc 是基于 FreeSWITCH 的开源呼叫中心/客服系统，内�
 | forks | 35/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

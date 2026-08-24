@@ -1,6 +1,6 @@
 # cachix/secretspec
 
-[![Stars](https://img.shields.io/github/stars/cachix/secretspec?style=flat-square&color=yellow)](https://github.com/cachix/secretspec/stargazers) [![Forks](https://img.shields.io/github/forks/cachix/secretspec?style=flat-square&color=blue)](https://github.com/cachix/secretspec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cachix/secretspec?style=flat-square&color=yellow)](https://github.com/cachix/secretspec/stargazers) [![Forks](https://img.shields.io/github/forks/cachix/secretspec?style=flat-square&color=blue)](https://github.com/cachix/secretspec/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative secrets, every environment, any provider.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 442 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ cachix / secretspec 是一个用 Rust 编写的声明式密钥管理框架�
 | forks | 38/100 |
 | stars | 56/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 69/100 |
+| production | 43/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

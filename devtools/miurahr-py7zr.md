@@ -1,6 +1,6 @@
 # miurahr/py7zr
 
-[![Stars](https://img.shields.io/github/stars/miurahr/py7zr?style=flat-square&color=yellow)](https://github.com/miurahr/py7zr/stargazers) [![Forks](https://img.shields.io/github/forks/miurahr/py7zr?style=flat-square&color=blue)](https://github.com/miurahr/py7zr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miurahr/py7zr?style=flat-square&color=yellow)](https://github.com/miurahr/py7zr/stargazers) [![Forks](https://img.shields.io/github/forks/miurahr/py7zr?style=flat-square&color=blue)](https://github.com/miurahr/py7zr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 7zip in python3 with ZStandard, PPMd, LZMA2, LZMA1, Delta, BCJ, BZip2, and Deflate compressions, and AES encryption.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ Overall, py7zr offers a mature, feature‑rich solution for Python‑centric arc
 | forks | 49/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

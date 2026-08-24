@@ -1,6 +1,6 @@
 # grokability/snipe-it
 
-[![Stars](https://img.shields.io/github/stars/grokability/snipe-it?style=flat-square&color=yellow)](https://github.com/grokability/snipe-it/stargazers) [![Forks](https://img.shields.io/github/forks/grokability/snipe-it?style=flat-square&color=blue)](https://github.com/grokability/snipe-it/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/grokability/snipe-it?style=flat-square&color=yellow)](https://github.com/grokability/snipe-it/stargazers) [![Forks](https://img.shields.io/github/forks/grokability/snipe-it?style=flat-square&color=blue)](https://github.com/grokability/snipe-it/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A free open source IT asset/license management system
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 14k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ grokability/snipe-it 是一个免费开源的 IT 资产/许可管理系统。它
 | forks | 90/100 |
 | stars | 88/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 89/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

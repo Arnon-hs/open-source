@@ -1,6 +1,6 @@
 # Repcz/Tool
 
-[![Stars](https://img.shields.io/github/stars/Repcz/Tool?style=flat-square&color=yellow)](https://github.com/Repcz/Tool/stargazers) [![Forks](https://img.shields.io/github/forks/Repcz/Tool?style=flat-square&color=blue)](https://github.com/Repcz/Tool/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Repcz/Tool?style=flat-square&color=yellow)](https://github.com/Repcz/Tool/stargazers) [![Forks](https://img.shields.io/github/forks/Repcz/Tool?style=flat-square&color=blue)](https://github.com/Repcz/Tool/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Powered by DeepSeek V4
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 986 |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Repcz/Tool 是一款基于 DeepSeek V4 的开源 JavaScript 工具库，拥有
 | forks | 53/100 |
 | stars | 64/100 |
 | topics | 25/100 |
-| outlook | 74/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

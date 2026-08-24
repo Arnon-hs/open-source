@@ -1,6 +1,6 @@
 # facebookincubator/nimble
 
-[![Stars](https://img.shields.io/github/stars/facebookincubator/nimble?style=flat-square&color=yellow)](https://github.com/facebookincubator/nimble/stargazers) [![Forks](https://img.shields.io/github/forks/facebookincubator/nimble?style=flat-square&color=blue)](https://github.com/facebookincubator/nimble/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebookincubator/nimble?style=flat-square&color=yellow)](https://github.com/facebookincubator/nimble/stargazers) [![Forks](https://img.shields.io/github/forks/facebookincubator/nimble?style=flat-square&color=blue)](https://github.com/facebookincubator/nimble/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > New and extensible file format for storage of large columnar datasets.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 709 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Data · Database
 
 ## 📝 Summary
 
 ### English
 
-facebookincubator/nimble: facebookincubator/nimble helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+facebookincubator/nimble: facebookincubator/nimble helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-facebookincubator/nimble: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+facebookincubator/nimble: open-source проект в категориях AI/ML, Data, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-facebookincubator/nimble：facebookincubator/nimble helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+facebookincubator/nimble：facebookincubator/nimble helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ facebookincubator/nimble：facebookincubator/nimble helps add AI capability with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ facebookincubator/nimble：facebookincubator/nimble helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 57/100 |
-| stars | 61/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

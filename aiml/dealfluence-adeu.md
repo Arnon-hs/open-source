@@ -1,6 +1,6 @@
 # dealfluence/adeu
 
-[![Stars](https://img.shields.io/github/stars/dealfluence/adeu?style=flat-square&color=yellow)](https://github.com/dealfluence/adeu/stargazers) [![Forks](https://img.shields.io/github/forks/dealfluence/adeu?style=flat-square&color=blue)](https://github.com/dealfluence/adeu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dealfluence/adeu?style=flat-square&color=yellow)](https://github.com/dealfluence/adeu/stargazers) [![Forks](https://img.shields.io/github/forks/dealfluence/adeu?style=flat-square&color=blue)](https://github.com/dealfluence/adeu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Native Word Track Changes for AI agents. An MCP server and Python SDK that translates LLM edits into safe DOCX redlines without breaking formatting.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 69 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dealfluence/adeu：dealfluence/adeu helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 58/100 |
-| outlook | 63/100 |
+| production | 51/100 |
+| outlook | 56/100 |
 | adoption | 36/100 |
 | stars | 39/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # bitwarden/server
 
-[![Stars](https://img.shields.io/github/stars/bitwarden/server?style=flat-square&color=yellow)](https://github.com/bitwarden/server/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/server?style=flat-square&color=blue)](https://github.com/bitwarden/server/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitwarden/server?style=flat-square&color=yellow)](https://github.com/bitwarden/server/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/server?style=flat-square&color=blue)](https://github.com/bitwarden/server/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Bitwarden infrastructure/backend (API, database, Docker, etc).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.3k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data · Database · DevOps/Infra
+Backend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Bitwarden Server 是 Bitwarden 的后端基础设施仓库，提供完整的 A
 | forks | 81/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 80/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

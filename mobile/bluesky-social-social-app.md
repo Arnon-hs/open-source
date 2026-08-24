@@ -1,6 +1,6 @@
 # bluesky-social/social-app
 
-[![Stars](https://img.shields.io/github/stars/bluesky-social/social-app?style=flat-square&color=yellow)](https://github.com/bluesky-social/social-app/stargazers) [![Forks](https://img.shields.io/github/forks/bluesky-social/social-app?style=flat-square&color=blue)](https://github.com/bluesky-social/social-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bluesky-social/social-app?style=flat-square&color=yellow)](https://github.com/bluesky-social/social-app/stargazers) [![Forks](https://img.shields.io/github/forks/bluesky-social/social-app?style=flat-square&color=blue)](https://github.com/bluesky-social/social-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Bluesky Social application for Web, iOS, and Android
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17.9k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ bluesky-social/social-app：bluesky-social/social-app may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 55/100 |
-| adoption | 89/100 |
-| stars | 91/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| stars | 91/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # BerriAI/litellm
 
-[![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&color=yellow)](https://github.com/BerriAI/litellm/stargazers) [![Forks](https://img.shields.io/github/forks/BerriAI/litellm?style=flat-square&color=blue)](https://github.com/BerriAI/litellm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&color=yellow)](https://github.com/BerriAI/litellm/stargazers) [![Forks](https://img.shields.io/github/forks/BerriAI/litellm?style=flat-square&color=blue)](https://github.com/BerriAI/litellm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46k |
 | 🍴 **Forks** | 7.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ BerriAI/litellm: BerriAI/litellm helps turn isolated prompts and tools into repe
 
 ### Русский
 
-BerriAI/litellm: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+BerriAI/litellm: open-source проект в категориях Orchestration, MCP, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ BerriAI/litellm：BerriAI/litellm helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 84/100 |
-| integration | 94/100 |
-| production | 70/100 |
-| outlook | 77/100 |
-| adoption | 99/100 |
-| stars | 99/100 |
 | forks | 97/100 |
-| recency | 40/100 |
+| stars | 99/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 64/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

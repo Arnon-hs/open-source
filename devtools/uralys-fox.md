@@ -1,6 +1,6 @@
 # uralys/fox
 
-[![Stars](https://img.shields.io/github/stars/uralys/fox?style=flat-square&color=yellow)](https://github.com/uralys/fox/stargazers) [![Forks](https://img.shields.io/github/forks/uralys/fox?style=flat-square&color=blue)](https://github.com/uralys/fox/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uralys/fox?style=flat-square&color=yellow)](https://github.com/uralys/fox/stargazers) [![Forks](https://img.shields.io/github/forks/uralys/fox?style=flat-square&color=blue)](https://github.com/uralys/fox/network) [![Language](https://img.shields.io/badge/lang-GDScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 🦊 Tooling for Godot 4.4
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 173 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | GDScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ DevTools · Mobile
 | forks | 17/100 |
 | stars | 48/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tomaae/homeassistant-mikrotik_router
 
-[![Stars](https://img.shields.io/github/stars/tomaae/homeassistant-mikrotik_router?style=flat-square&color=yellow)](https://github.com/tomaae/homeassistant-mikrotik_router/stargazers) [![Forks](https://img.shields.io/github/forks/tomaae/homeassistant-mikrotik_router?style=flat-square&color=blue)](https://github.com/tomaae/homeassistant-mikrotik_router/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tomaae/homeassistant-mikrotik_router?style=flat-square&color=yellow)](https://github.com/tomaae/homeassistant-mikrotik_router/stargazers) [![Forks](https://img.shields.io/github/forks/tomaae/homeassistant-mikrotik_router?style=flat-square&color=blue)](https://github.com/tomaae/homeassistant-mikrotik_router/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Mikrotik router integration for Home Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Overall, the project is a solid candidate for internal or prototype deployments,
 | forks | 52/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

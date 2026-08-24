@@ -1,6 +1,6 @@
 # Frank-ay/mimo-mcp
 
-[![Stars](https://img.shields.io/github/stars/Frank-ay/mimo-mcp?style=flat-square&color=yellow)](https://github.com/Frank-ay/mimo-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Frank-ay/mimo-mcp?style=flat-square&color=blue)](https://github.com/Frank-ay/mimo-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Frank-ay/mimo-mcp?style=flat-square&color=yellow)](https://github.com/Frank-ay/mimo-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/Frank-ay/mimo-mcp?style=flat-square&color=blue)](https://github.com/Frank-ay/mimo-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 把小米 MiMo 全模态能力(对话/图像/视频/TTS/声音克隆)封装成 stdio MCP Server,Claude Code 与 Codex 可直接调用
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -130,14 +130,15 @@ Frank‑ay/mimo‑mcp 将小米 MiMo 的全模态能力（对话、图像、视�
 | forks | 12/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 24/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

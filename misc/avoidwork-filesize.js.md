@@ -1,0 +1,80 @@
+# avoidwork/filesize.js
+
+[![Stars](https://img.shields.io/github/stars/avoidwork/filesize.js?style=flat-square&color=yellow)](https://github.com/avoidwork/filesize.js/stargazers) [![Forks](https://img.shields.io/github/forks/avoidwork/filesize.js?style=flat-square&color=blue)](https://github.com/avoidwork/filesize.js/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> A lightweight, high-performance file size utility that converts bytes to human-readable strings. Zero dependencies. 100% test coverage.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 98 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`bits` `bytes` `file` `filesize` `filesystem` `iec` `jedec` `simple` `size` `size-calculation`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+**avoidwork/filesize.js** is a lightweight, zero‑dependency utility that converts raw byte counts into concise, human‑readable strings (e.g., KB, MB, GB) with a focus on speed and minimal bundle size. It’s fully tested with 100 % coverage, making it a reliable choice for developers needing fast file‑size formatting in any JavaScript or TypeScript project.
+
+### Русский
+
+**avoidwork/filesize.js** – это лёгкая и быстрая утилита для преобразования размеров файлов из байтов в человекочитаемые строки (KB, MB, GB и т.д.). Библиотека не имеет внешних зависимостей, полностью покрыта тестами (100 % покрытие) и идеально подходит для разработчиков, которым нужен надёжный инструмент работы с размерами файлов в проектах AI/ML и DevTools.
+
+### 中文
+
+avoidwork/filesize.js：avoidwork/filesize.js may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** avoidwork/filesize.js may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1704 GitHub stars
+- 98 forks
+- updated 2026-05-10
+- primary language: JavaScript
+- 10 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 50/100 |
+| stars | 69/100 |
+| topics | 100/100 |
+| outlook | 54/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/avoidwork/filesize.js) · [← Back to Misc](./README.md)</sub>

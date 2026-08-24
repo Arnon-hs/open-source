@@ -1,6 +1,6 @@
 # docling-project/docling
 
-[![Stars](https://img.shields.io/github/stars/docling-project/docling?style=flat-square&color=yellow)](https://github.com/docling-project/docling/stargazers) [![Forks](https://img.shields.io/github/forks/docling-project/docling?style=flat-square&color=blue)](https://github.com/docling-project/docling/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docling-project/docling?style=flat-square&color=yellow)](https://github.com/docling-project/docling/stargazers) [![Forks](https://img.shields.io/github/forks/docling-project/docling?style=flat-square&color=blue)](https://github.com/docling-project/docling/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Get your documents ready for gen AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 59.3k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ docling-project/docling: docling-project/docling helps add AI capability without
 
 ### Русский
 
-docling-project/docling: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+docling-project/docling: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ docling-project/docling：docling-project/docling helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 84/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 70/100 |
-| adoption | 97/100 |
-| stars | 100/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

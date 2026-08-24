@@ -1,6 +1,6 @@
 # edspencer/herdctl
 
-[![Stars](https://img.shields.io/github/stars/edspencer/herdctl?style=flat-square&color=yellow)](https://github.com/edspencer/herdctl/stargazers) [![Forks](https://img.shields.io/github/forks/edspencer/herdctl?style=flat-square&color=blue)](https://github.com/edspencer/herdctl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/edspencer/herdctl?style=flat-square&color=yellow)](https://github.com/edspencer/herdctl/stargazers) [![Forks](https://img.shields.io/github/forks/edspencer/herdctl?style=flat-square&color=blue)](https://github.com/edspencer/herdctl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Runs Claude Code agents natively or in Docker, on schedules and connected to Discord & Slack
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Overall, *herdctl* offers a quick way to embed Claude‑driven agents into colla
 | forks | 15/100 |
 | stars | 31/100 |
 | topics | 50/100 |
-| outlook | 68/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

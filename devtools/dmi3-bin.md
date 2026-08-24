@@ -1,6 +1,6 @@
 # dmi3/bin
 
-[![Stars](https://img.shields.io/github/stars/dmi3/bin?style=flat-square&color=yellow)](https://github.com/dmi3/bin/stargazers) [![Forks](https://img.shields.io/github/forks/dmi3/bin?style=flat-square&color=blue)](https://github.com/dmi3/bin/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmi3/bin?style=flat-square&color=yellow)](https://github.com/dmi3/bin/stargazers) [![Forks](https://img.shields.io/github/forks/dmi3/bin?style=flat-square&color=blue)](https://github.com/dmi3/bin/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Useful scripts and configs for Linux users
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ dmi3/bin is a collection of handy shell scripts and configuration files aimed at
 | forks | 27/100 |
 | stars | 46/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

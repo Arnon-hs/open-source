@@ -1,6 +1,6 @@
 # emcrisostomo/fswatch
 
-[![Stars](https://img.shields.io/github/stars/emcrisostomo/fswatch?style=flat-square&color=yellow)](https://github.com/emcrisostomo/fswatch/stargazers) [![Forks](https://img.shields.io/github/forks/emcrisostomo/fswatch?style=flat-square&color=blue)](https://github.com/emcrisostomo/fswatch/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emcrisostomo/fswatch?style=flat-square&color=yellow)](https://github.com/emcrisostomo/fswatch/stargazers) [![Forks](https://img.shields.io/github/forks/emcrisostomo/fswatch?style=flat-square&color=blue)](https://github.com/emcrisostomo/fswatch/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a stat()-based backend.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 345 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ emcrisostomo/fswatch：emcrisostomo/fswatch helps teams reuse service infrastruc
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 75/100 |
 | stars | 80/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

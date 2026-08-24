@@ -1,6 +1,6 @@
 # stacks-network/stacks-core
 
-[![Stars](https://img.shields.io/github/stars/stacks-network/stacks-core?style=flat-square&color=yellow)](https://github.com/stacks-network/stacks-core/stargazers) [![Forks](https://img.shields.io/github/forks/stacks-network/stacks-core?style=flat-square&color=blue)](https://github.com/stacks-network/stacks-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stacks-network/stacks-core?style=flat-square&color=yellow)](https://github.com/stacks-network/stacks-core/stargazers) [![Forks](https://img.shields.io/github/forks/stacks-network/stacks-core?style=flat-square&color=blue)](https://github.com/stacks-network/stacks-core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Stacks blockchain implementation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 758 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -88,14 +88,15 @@ Stacks 栈区块链实现具有高生产可用性，理由如下：
 | forks | 72/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

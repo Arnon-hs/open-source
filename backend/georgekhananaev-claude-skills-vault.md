@@ -1,6 +1,6 @@
 # georgekhananaev/claude-skills-vault
 
-[![Stars](https://img.shields.io/github/stars/georgekhananaev/claude-skills-vault?style=flat-square&color=yellow)](https://github.com/georgekhananaev/claude-skills-vault/stargazers) [![Forks](https://img.shields.io/github/forks/georgekhananaev/claude-skills-vault?style=flat-square&color=blue)](https://github.com/georgekhananaev/claude-skills-vault/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/georgekhananaev/claude-skills-vault?style=flat-square&color=yellow)](https://github.com/georgekhananaev/claude-skills-vault/stargazers) [![Forks](https://img.shields.io/github/forks/georgekhananaev/claude-skills-vault?style=flat-square&color=blue)](https://github.com/georgekhananaev/claude-skills-vault/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A curated collection of high impact skills for Claude Code designed to supercharge the senior full stack workflow. This vault automates the repetitive parts of development like architectural reviews, TDD cycles, and PR management so you can stay in flow. It is a force multiplier for shipping clean, production ready code at scale. 🚀⚡️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ georgekhananaev/claude-skills-vault is an open‑source vault of pre‑crafted C
 
 ### 中文
 
-georgekhananaev/claude-skills-vault：georgekhananaev/claude-skills-vault helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+georgekhananaev/claude-skills-vault：georgekhananaev/claude-skills-vault helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ georgekhananaev/claude-skills-vault：georgekhananaev/claude-skills-vault helps 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ georgekhananaev/claude-skills-vault：georgekhananaev/claude-skills-vault helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 27/100 |
 | stars | 29/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

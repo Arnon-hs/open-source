@@ -1,6 +1,6 @@
 # bitwarden/sdk-internal
 
-[![Stars](https://img.shields.io/github/stars/bitwarden/sdk-internal?style=flat-square&color=yellow)](https://github.com/bitwarden/sdk-internal/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/sdk-internal?style=flat-square&color=blue)](https://github.com/bitwarden/sdk-internal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bitwarden/sdk-internal?style=flat-square&color=yellow)](https://github.com/bitwarden/sdk-internal/stargazers) [![Forks](https://img.shields.io/github/forks/bitwarden/sdk-internal?style=flat-square&color=blue)](https://github.com/bitwarden/sdk-internal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Bitwarden internal SDK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ Bitwarden SDK 内部 SDK 的生产可用性是中等的。它可以在内部work
 | forks | 39/100 |
 | stars | 43/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # pixeltable/pixeltable
 
-[![Stars](https://img.shields.io/github/stars/pixeltable/pixeltable?style=flat-square&color=yellow)](https://github.com/pixeltable/pixeltable/stargazers) [![Forks](https://img.shields.io/github/forks/pixeltable/pixeltable?style=flat-square&color=blue)](https://github.com/pixeltable/pixeltable/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pixeltable/pixeltable?style=flat-square&color=yellow)](https://github.com/pixeltable/pixeltable/stargazers) [![Forks](https://img.shields.io/github/forks/pixeltable/pixeltable?style=flat-square&color=blue)](https://github.com/pixeltable/pixeltable/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Data Infrastructure providing a declarative, incremental approach for multimodal AI workloads.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 210 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · DevOps/Infra
+AI/ML · Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ pixeltable/pixeltable: pixeltable/pixeltable helps add AI capability without sta
 
 ### Русский
 
-pixeltable/pixeltable: open-source проект в категориях AI/ML, Data, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+pixeltable/pixeltable: open-source проект в категориях AI/ML, Data, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ pixeltable/pixeltable：pixeltable/pixeltable helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 59/100 |
-| adoption | 65/100 |
-| stars | 68/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

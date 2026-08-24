@@ -1,6 +1,6 @@
 # masterking32/MasterHttpRelayVPN
 
-[![Stars](https://img.shields.io/github/stars/masterking32/MasterHttpRelayVPN?style=flat-square&color=yellow)](https://github.com/masterking32/MasterHttpRelayVPN/stargazers) [![Forks](https://img.shields.io/github/forks/masterking32/MasterHttpRelayVPN?style=flat-square&color=blue)](https://github.com/masterking32/MasterHttpRelayVPN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/masterking32/MasterHttpRelayVPN?style=flat-square&color=yellow)](https://github.com/masterking32/MasterHttpRelayVPN/stargazers) [![Forks](https://img.shields.io/github/forks/masterking32/MasterHttpRelayVPN?style=flat-square&color=blue)](https://github.com/masterking32/MasterHttpRelayVPN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ masterking32/MasterHttpRelayVPN：masterking32/MasterHttpRelayVPN helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 70/100 |
 | stars | 73/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

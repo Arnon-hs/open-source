@@ -1,6 +1,6 @@
 # jiangzhe/doradb
 
-[![Stars](https://img.shields.io/github/stars/jiangzhe/doradb?style=flat-square&color=yellow)](https://github.com/jiangzhe/doradb/stargazers) [![Forks](https://img.shields.io/github/forks/jiangzhe/doradb?style=flat-square&color=blue)](https://github.com/jiangzhe/doradb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jiangzhe/doradb?style=flat-square&color=yellow)](https://github.com/jiangzhe/doradb/stargazers) [![Forks](https://img.shields.io/github/forks/jiangzhe/doradb?style=flat-square&color=blue)](https://github.com/jiangzhe/doradb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > DoraDB - Yet Another Storage Engine written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ jiangzhe/doradb：jiangzhe/doradb helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 52/100 |
+| production | 43/100 |
+| outlook | 45/100 |
 | adoption | 36/100 |
 | stars | 44/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

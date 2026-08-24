@@ -1,6 +1,6 @@
 # simple-icons/simple-icons
 
-[![Stars](https://img.shields.io/github/stars/simple-icons/simple-icons?style=flat-square&color=yellow)](https://github.com/simple-icons/simple-icons/stargazers) [![Forks](https://img.shields.io/github/forks/simple-icons/simple-icons?style=flat-square&color=blue)](https://github.com/simple-icons/simple-icons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simple-icons/simple-icons?style=flat-square&color=yellow)](https://github.com/simple-icons/simple-icons/stargazers) [![Forks](https://img.shields.io/github/forks/simple-icons/simple-icons?style=flat-square&color=blue)](https://github.com/simple-icons/simple-icons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > SVG icons for popular brands
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.1k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ simple-icons/simple-icons：simple-icons/simple-icons may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 81/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 65/100 |
-| adoption | 92/100 |
-| stars | 94/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

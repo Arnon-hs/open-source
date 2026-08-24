@@ -1,6 +1,6 @@
 # Apil-Shrestha/token-efficiency-lex
 
-[![Stars](https://img.shields.io/github/stars/Apil-Shrestha/token-efficiency-lex?style=flat-square&color=yellow)](https://github.com/Apil-Shrestha/token-efficiency-lex/stargazers) [![Forks](https://img.shields.io/github/forks/Apil-Shrestha/token-efficiency-lex?style=flat-square&color=blue)](https://github.com/Apil-Shrestha/token-efficiency-lex/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Apil-Shrestha/token-efficiency-lex?style=flat-square&color=yellow)](https://github.com/Apil-Shrestha/token-efficiency-lex/stargazers) [![Forks](https://img.shields.io/github/forks/Apil-Shrestha/token-efficiency-lex?style=flat-square&color=blue)](https://github.com/Apil-Shrestha/token-efficiency-lex/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Token Cost Parity: Multilingual LLM Efficiency Analysis 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ Apil‑Shrestha/token-efficiency-lex 是一款面向多语言大模型的 **Toke
 | forks | 0/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 73/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # projectdiscovery/httpx
 
-[![Stars](https://img.shields.io/github/stars/projectdiscovery/httpx?style=flat-square&color=yellow)](https://github.com/projectdiscovery/httpx/stargazers) [![Forks](https://img.shields.io/github/forks/projectdiscovery/httpx?style=flat-square&color=blue)](https://github.com/projectdiscovery/httpx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectdiscovery/httpx?style=flat-square&color=yellow)](https://github.com/projectdiscovery/httpx/stargazers) [![Forks](https://img.shields.io/github/forks/projectdiscovery/httpx?style=flat-square&color=blue)](https://github.com/projectdiscovery/httpx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Security
+DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ projectdiscovery/httpx is a high‑performance, multi‑purpose HTTP toolkit bui
 | forks | 76/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 72/100 |
+| recency | 20/100 |
 | adoption | 82/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

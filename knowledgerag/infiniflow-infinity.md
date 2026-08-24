@@ -1,6 +1,6 @@
 # infiniflow/infinity
 
-[![Stars](https://img.shields.io/github/stars/infiniflow/infinity?style=flat-square&color=yellow)](https://github.com/infiniflow/infinity/stargazers) [![Forks](https://img.shields.io/github/forks/infiniflow/infinity?style=flat-square&color=blue)](https://github.com/infiniflow/infinity/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/infiniflow/infinity?style=flat-square&color=yellow)](https://github.com/infiniflow/infinity/stargazers) [![Forks](https://img.shields.io/github/forks/infiniflow/infinity?style=flat-square&color=blue)](https://github.com/infiniflow/infinity/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 419 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Data · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ infiniflow/infinity 是一款面向大语言模型（LLM）应用的 AI 原生�
 | forks | 66/100 |
 | stars | 78/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 74/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

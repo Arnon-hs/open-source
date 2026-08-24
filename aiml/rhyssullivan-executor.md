@@ -1,6 +1,6 @@
 # RhysSullivan/executor
 
-[![Stars](https://img.shields.io/github/stars/RhysSullivan/executor?style=flat-square&color=yellow)](https://github.com/RhysSullivan/executor/stargazers) [![Forks](https://img.shields.io/github/forks/RhysSullivan/executor?style=flat-square&color=blue)](https://github.com/RhysSullivan/executor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RhysSullivan/executor?style=flat-square&color=yellow)](https://github.com/RhysSullivan/executor/stargazers) [![Forks](https://img.shields.io/github/forks/RhysSullivan/executor?style=flat-square&color=blue)](https://github.com/RhysSullivan/executor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ RhysSullivan/executor：RhysSullivan/executor helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 61/100 |
 | stars | 67/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

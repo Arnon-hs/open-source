@@ -1,6 +1,6 @@
 # jegly/OfflineLLM
 
-[![Stars](https://img.shields.io/github/stars/jegly/OfflineLLM?style=flat-square&color=yellow)](https://github.com/jegly/OfflineLLM/stargazers) [![Forks](https://img.shields.io/github/forks/jegly/OfflineLLM?style=flat-square&color=blue)](https://github.com/jegly/OfflineLLM/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jegly/OfflineLLM?style=flat-square&color=yellow)](https://github.com/jegly/OfflineLLM/stargazers) [![Forks](https://img.shields.io/github/forks/jegly/OfflineLLM?style=flat-square&color=blue)](https://github.com/jegly/OfflineLLM/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A privacy-first Android chat app that runs large language models entirely on-device. No internet, no cloud, no tracking. Built with Kotlin, Jetpack Compose, and llama.cpp with optimized ARM NEON/SVE inference.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 128 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ OfflineLLM is a privacy‑focused Android chat application that runs large langu
 
 ### 中文
 
-jegly/OfflineLLM：jegly/OfflineLLM helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jegly/OfflineLLM：jegly/OfflineLLM helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jegly/OfflineLLM：jegly/OfflineLLM helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ jegly/OfflineLLM：jegly/OfflineLLM helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 39/100 |
-| stars | 45/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

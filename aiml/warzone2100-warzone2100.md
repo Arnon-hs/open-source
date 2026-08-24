@@ -1,6 +1,6 @@
 # Warzone2100/warzone2100
 
-[![Stars](https://img.shields.io/github/stars/Warzone2100/warzone2100?style=flat-square&color=yellow)](https://github.com/Warzone2100/warzone2100/stargazers) [![Forks](https://img.shields.io/github/forks/Warzone2100/warzone2100?style=flat-square&color=blue)](https://github.com/Warzone2100/warzone2100/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Warzone2100/warzone2100?style=flat-square&color=yellow)](https://github.com/Warzone2100/warzone2100/stargazers) [![Forks](https://img.shields.io/github/forks/Warzone2100/warzone2100?style=flat-square&color=blue)](https://github.com/Warzone2100/warzone2100/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 597 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Warzone2100/warzone2100：Warzone2100/warzone2100 helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 61/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

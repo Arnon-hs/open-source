@@ -1,6 +1,6 @@
 # guanguans/ai-commit
 
-[![Stars](https://img.shields.io/github/stars/guanguans/ai-commit?style=flat-square&color=yellow)](https://github.com/guanguans/ai-commit/stargazers) [![Forks](https://img.shields.io/github/forks/guanguans/ai-commit?style=flat-square&color=blue)](https://github.com/guanguans/ai-commit/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/guanguans/ai-commit?style=flat-square&color=yellow)](https://github.com/guanguans/ai-commit/stargazers) [![Forks](https://img.shields.io/github/forks/guanguans/ai-commit?style=flat-square&color=blue)](https://github.com/guanguans/ai-commit/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 395 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ guanguans/ai-commit 是一个基于 AI 的 Git 提交信息生成工具，能够
 | forks | 34/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

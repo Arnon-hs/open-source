@@ -1,6 +1,6 @@
 # jjang-ai/jangq
 
-[![Stars](https://img.shields.io/github/stars/jjang-ai/jangq?style=flat-square&color=yellow)](https://github.com/jjang-ai/jangq/stargazers) [![Forks](https://img.shields.io/github/forks/jjang-ai/jangq?style=flat-square&color=blue)](https://github.com/jjang-ai/jangq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jjang-ai/jangq?style=flat-square&color=yellow)](https://github.com/jjang-ai/jangq/stargazers) [![Forks](https://img.shields.io/github/forks/jjang-ai/jangq?style=flat-square&color=blue)](https://github.com/jjang-ai/jangq/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > JANG — GGUF for MLX. YOU MUST USE JANG_Q RUNTIME. Adaptive Mixed-Precision Quantization + Runtime for Apple Silicon
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 149 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ JANG is an open-source project that combines adaptive mixed-precision quantizati
 
 ### 中文
 
-jjang-ai/jangq：jjang-ai/jangq helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jjang-ai/jangq：jjang-ai/jangq helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ jjang-ai/jangq：jjang-ai/jangq helps research and automate market workflows.。
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -70,14 +70,14 @@ jjang-ai/jangq：jjang-ai/jangq helps research and automate market workflows.。
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 48/100 |
+| outlook | 46/100 |
 | adoption | 43/100 |
 | stars | 46/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # 54yyyu/zotero-mcp
 
-[![Stars](https://img.shields.io/github/stars/54yyyu/zotero-mcp?style=flat-square&color=yellow)](https://github.com/54yyyu/zotero-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/54yyyu/zotero-mcp?style=flat-square&color=blue)](https://github.com/54yyyu/zotero-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/54yyyu/zotero-mcp?style=flat-square&color=yellow)](https://github.com/54yyyu/zotero-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/54yyyu/zotero-mcp?style=flat-square&color=blue)](https://github.com/54yyyu/zotero-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 349 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML
+MCP · Knowledge/RAG
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ Zotero MCP 将你的 Zotero 文献库通过 **Model Context Protocol（MCP
 | forks | 64/100 |
 | stars | 77/100 |
 | topics | 50/100 |
-| outlook | 80/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

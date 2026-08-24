@@ -1,6 +1,6 @@
 # sausheong/felix
 
-[![Stars](https://img.shields.io/github/stars/sausheong/felix?style=flat-square&color=yellow)](https://github.com/sausheong/felix/stargazers) [![Forks](https://img.shields.io/github/forks/sausheong/felix?style=flat-square&color=blue)](https://github.com/sausheong/felix/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sausheong/felix?style=flat-square&color=yellow)](https://github.com/sausheong/felix/stargazers) [![Forks](https://img.shields.io/github/forks/sausheong/felix?style=flat-square&color=blue)](https://github.com/sausheong/felix/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Felix — single-binary AI agent gateway. Multi-provider LLM, persistent memory, MCP client, runs entirely on your hardware
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sausheong/felix：sausheong/felix helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 31/100 |
 | stars | 33/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

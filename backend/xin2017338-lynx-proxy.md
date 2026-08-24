@@ -1,6 +1,6 @@
 # xin2017338/lynx-proxy
 
-[![Stars](https://img.shields.io/github/stars/xin2017338/lynx-proxy?style=flat-square&color=yellow)](https://github.com/xin2017338/lynx-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/xin2017338/lynx-proxy?style=flat-square&color=blue)](https://github.com/xin2017338/lynx-proxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xin2017338/lynx-proxy?style=flat-square&color=yellow)](https://github.com/xin2017338/lynx-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/xin2017338/lynx-proxy?style=flat-square&color=blue)](https://github.com/xin2017338/lynx-proxy/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Lynx Proxy is a high-performance and flexible proxy tool developed in Rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 501 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Lynx Proxy 是用 Rust 编写的高性能、可高度定制的代理工具，�
 | forks | 38/100 |
 | stars | 57/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

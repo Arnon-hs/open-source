@@ -1,6 +1,6 @@
 # aliyun/aliyun-cli
 
-[![Stars](https://img.shields.io/github/stars/aliyun/aliyun-cli?style=flat-square&color=yellow)](https://github.com/aliyun/aliyun-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/aliyun-cli?style=flat-square&color=blue)](https://github.com/aliyun/aliyun-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aliyun/aliyun-cli?style=flat-square&color=yellow)](https://github.com/aliyun/aliyun-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/aliyun-cli?style=flat-square&color=blue)](https://github.com/aliyun/aliyun-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Alibaba Cloud CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 957 |
 | 🍴 **Forks** | 217 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ aliyun/aliyun-cli：aliyun/aliyun-cli helps teams reuse service infrastructure i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 68/100 |
-| integration | 94/100 |
-| production | 64/100 |
-| outlook | 68/100 |
-| adoption | 62/100 |
-| stars | 63/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

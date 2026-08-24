@@ -1,6 +1,6 @@
 # catlog22/maestro-flow
 
-[![Stars](https://img.shields.io/github/stars/catlog22/maestro-flow?style=flat-square&color=yellow)](https://github.com/catlog22/maestro-flow/stargazers) [![Forks](https://img.shields.io/github/forks/catlog22/maestro-flow?style=flat-square&color=blue)](https://github.com/catlog22/maestro-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/catlog22/maestro-flow?style=flat-square&color=yellow)](https://github.com/catlog22/maestro-flow/stargazers) [![Forks](https://img.shields.io/github/forks/catlog22/maestro-flow?style=flat-square&color=blue)](https://github.com/catlog22/maestro-flow/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Intent-driven workflow orchestration for multi-agent AI development — adaptive lifecycle engine, self-reinforcing knowledge graph, and visual dashboard for Claude Code, Gemini, Codex & more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 398 |
 | 🍴 **Forks** | 52 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ catlog22/maestro‑flow 是一套面向多 Agent AI 开发的 Intent‑驱动工
 | forks | 43/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 80/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

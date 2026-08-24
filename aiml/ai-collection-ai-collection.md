@@ -1,6 +1,6 @@
 # ai-collection/ai-collection
 
-[![Stars](https://img.shields.io/github/stars/ai-collection/ai-collection?style=flat-square&color=yellow)](https://github.com/ai-collection/ai-collection/stargazers) [![Forks](https://img.shields.io/github/forks/ai-collection/ai-collection?style=flat-square&color=blue)](https://github.com/ai-collection/ai-collection/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ai-collection/ai-collection?style=flat-square&color=yellow)](https://github.com/ai-collection/ai-collection/stargazers) [![Forks](https://img.shields.io/github/forks/ai-collection/ai-collection?style=flat-square&color=blue)](https://github.com/ai-collection/ai-collection/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.9k |
 | 🍴 **Forks** | 974 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Design
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ ai-collection/ai-collection：ai-collection/ai-collection helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 81/100 |
-| stars | 84/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

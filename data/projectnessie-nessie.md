@@ -1,6 +1,6 @@
 # projectnessie/nessie
 
-[![Stars](https://img.shields.io/github/stars/projectnessie/nessie?style=flat-square&color=yellow)](https://github.com/projectnessie/nessie/stargazers) [![Forks](https://img.shields.io/github/forks/projectnessie/nessie?style=flat-square&color=blue)](https://github.com/projectnessie/nessie/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectnessie/nessie?style=flat-square&color=yellow)](https://github.com/projectnessie/nessie/stargazers) [![Forks](https://img.shields.io/github/forks/projectnessie/nessie?style=flat-square&color=blue)](https://github.com/projectnessie/nessie/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Nessie: Transactional Catalog for Data Lakes with Git-like semantics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 177 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Nessie（projectnessie/nessie）是面向数据湖的事务型目录服务，提
 | forks | 56/100 |
 | stars | 67/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

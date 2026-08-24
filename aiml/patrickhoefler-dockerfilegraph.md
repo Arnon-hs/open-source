@@ -1,6 +1,6 @@
 # patrickhoefler/dockerfilegraph
 
-[![Stars](https://img.shields.io/github/stars/patrickhoefler/dockerfilegraph?style=flat-square&color=yellow)](https://github.com/patrickhoefler/dockerfilegraph/stargazers) [![Forks](https://img.shields.io/github/forks/patrickhoefler/dockerfilegraph?style=flat-square&color=blue)](https://github.com/patrickhoefler/dockerfilegraph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/patrickhoefler/dockerfilegraph?style=flat-square&color=yellow)](https://github.com/patrickhoefler/dockerfilegraph/stargazers) [![Forks](https://img.shields.io/github/forks/patrickhoefler/dockerfilegraph?style=flat-square&color=blue)](https://github.com/patrickhoefler/dockerfilegraph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Visualize your multi-stage Dockerfiles
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 263 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ patrickhoefler/dockerfilegraph：patrickhoefler/dockerfilegraph helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 57/100 |
+| production | 53/100 |
+| outlook | 50/100 |
 | adoption | 46/100 |
 | stars | 52/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # IrtezaAsadRizvi/ai-megalist
 
-[![Stars](https://img.shields.io/github/stars/IrtezaAsadRizvi/ai-megalist?style=flat-square&color=yellow)](https://github.com/IrtezaAsadRizvi/ai-megalist/stargazers) [![Forks](https://img.shields.io/github/forks/IrtezaAsadRizvi/ai-megalist?style=flat-square&color=blue)](https://github.com/IrtezaAsadRizvi/ai-megalist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IrtezaAsadRizvi/ai-megalist?style=flat-square&color=yellow)](https://github.com/IrtezaAsadRizvi/ai-megalist/stargazers) [![Forks](https://img.shields.io/github/forks/IrtezaAsadRizvi/ai-megalist?style=flat-square&color=blue)](https://github.com/IrtezaAsadRizvi/ai-megalist/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Curated index of 200+ AI tools, one writeup per tool with hands-on takes. Covers coding, design, research, video, voice, agents, music, local LLMs. Compare alternatives, see real pricing, find the right tool for the job.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ IrtezaAsadRizvi/ai-megalist 是一个开源项目，提供了一个涵盖200+个
 | forks | 29/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

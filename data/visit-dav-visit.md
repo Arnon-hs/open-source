@@ -1,6 +1,6 @@
 # visit-dav/visit
 
-[![Stars](https://img.shields.io/github/stars/visit-dav/visit?style=flat-square&color=yellow)](https://github.com/visit-dav/visit/stargazers) [![Forks](https://img.shields.io/github/forks/visit-dav/visit?style=flat-square&color=blue)](https://github.com/visit-dav/visit/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/visit-dav/visit?style=flat-square&color=yellow)](https://github.com/visit-dav/visit/stargazers) [![Forks](https://img.shields.io/github/forks/visit-dav/visit?style=flat-square&color=blue)](https://github.com/visit-dav/visit/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > VisIt - Visualization and Data Analysis for Mesh-based Scientific Data
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 514 |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ visit-dav/visit：visit-dav/visit helps convert raw data into searchable, analyz
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
-| adoption | 56/100 |
-| stars | 58/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

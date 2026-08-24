@@ -1,6 +1,6 @@
 # FranciscoMoretti/chat-js
 
-[![Stars](https://img.shields.io/github/stars/FranciscoMoretti/chat-js?style=flat-square&color=yellow)](https://github.com/FranciscoMoretti/chat-js/stargazers) [![Forks](https://img.shields.io/github/forks/FranciscoMoretti/chat-js?style=flat-square&color=blue)](https://github.com/FranciscoMoretti/chat-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FranciscoMoretti/chat-js?style=flat-square&color=yellow)](https://github.com/FranciscoMoretti/chat-js/stargazers) [![Forks](https://img.shields.io/github/forks/FranciscoMoretti/chat-js?style=flat-square&color=blue)](https://github.com/FranciscoMoretti/chat-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 111 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ FranciscoMoretti/chat-js：FranciscoMoretti/chat-js helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

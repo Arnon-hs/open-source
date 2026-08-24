@@ -1,6 +1,6 @@
 # WingedGuardian/GENesis-AGI
 
-[![Stars](https://img.shields.io/github/stars/WingedGuardian/GENesis-AGI?style=flat-square&color=yellow)](https://github.com/WingedGuardian/GENesis-AGI/stargazers) [![Forks](https://img.shields.io/github/forks/WingedGuardian/GENesis-AGI?style=flat-square&color=blue)](https://github.com/WingedGuardian/GENesis-AGI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WingedGuardian/GENesis-AGI?style=flat-square&color=yellow)](https://github.com/WingedGuardian/GENesis-AGI/stargazers) [![Forks](https://img.shields.io/github/forks/WingedGuardian/GENesis-AGI?style=flat-square&color=blue)](https://github.com/WingedGuardian/GENesis-AGI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI agent with persistent memory, self-learning, and earned autonomy. Cognitive partner that remembers, learns, and evolves.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ WingedGuardian/GENesis-AGI — это открытая платформа а
 
 ### 中文
 
-WingedGuardian/GENesis-AGI：WingedGuardian/GENesis-AGI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+WingedGuardian/GENesis-AGI：WingedGuardian/GENesis-AGI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ WingedGuardian/GENesis-AGI：WingedGuardian/GENesis-AGI helps add AI capability 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ WingedGuardian/GENesis-AGI：WingedGuardian/GENesis-AGI helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 53/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 30/100 |
 | stars | 32/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

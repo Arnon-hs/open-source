@@ -1,6 +1,6 @@
 # samber/cc-skills-golang
 
-[![Stars](https://img.shields.io/github/stars/samber/cc-skills-golang?style=flat-square&color=yellow)](https://github.com/samber/cc-skills-golang/stargazers) [![Forks](https://img.shields.io/github/forks/samber/cc-skills-golang?style=flat-square&color=blue)](https://github.com/samber/cc-skills-golang/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samber/cc-skills-golang?style=flat-square&color=yellow)](https://github.com/samber/cc-skills-golang/stargazers) [![Forks](https://img.shields.io/github/forks/samber/cc-skills-golang?style=flat-square&color=blue)](https://github.com/samber/cc-skills-golang/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🧑‍🎨 A collection of Golang agentic skills that works
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ samber/cc-skills-golang：samber/cc-skills-golang helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 68/100 |
-| integration | 78/100 |
-| production | 62/100 |
-| outlook | 65/100 |
-| adoption | 63/100 |
-| stars | 68/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

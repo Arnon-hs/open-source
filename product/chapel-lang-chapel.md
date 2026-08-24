@@ -1,6 +1,6 @@
 # chapel-lang/chapel
 
-[![Stars](https://img.shields.io/github/stars/chapel-lang/chapel?style=flat-square&color=yellow)](https://github.com/chapel-lang/chapel/stargazers) [![Forks](https://img.shields.io/github/forks/chapel-lang/chapel?style=flat-square&color=blue)](https://github.com/chapel-lang/chapel/network) [![Language](https://img.shields.io/badge/lang-Chapel-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chapel-lang/chapel?style=flat-square&color=yellow)](https://github.com/chapel-lang/chapel/stargazers) [![Forks](https://img.shields.io/github/forks/chapel-lang/chapel?style=flat-square&color=blue)](https://github.com/chapel-lang/chapel/network) [![Language](https://img.shields.io/badge/lang-Chapel-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > a Productive Parallel Programming Language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 446 |
 | 💻 **Language** | Chapel |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Product
 
 ### English
 
-chapel-lang/chapel: chapel-lang/chapel may be useful when its README and activity match a concrete workflow.. Use it for Product. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+chapel-lang/chapel: chapel-lang/chapel may be useful when its README and activity match a concrete workflow.. Use it for Product. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-chapel-lang/chapel: open-source проект в категориях Product. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+chapel-lang/chapel: open-source проект в категориях Product. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-chapel-lang/chapel：chapel-lang/chapel may be useful when its README and activity match a concrete workflow.。适合用于Product。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+chapel-lang/chapel：chapel-lang/chapel may be useful when its README and activity match a concrete workflow.。适合用于Product。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ chapel-lang/chapel：chapel-lang/chapel may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ chapel-lang/chapel：chapel-lang/chapel may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 70/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

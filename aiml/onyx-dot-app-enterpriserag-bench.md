@@ -1,6 +1,6 @@
 # onyx-dot-app/EnterpriseRAG-Bench
 
-[![Stars](https://img.shields.io/github/stars/onyx-dot-app/EnterpriseRAG-Bench?style=flat-square&color=yellow)](https://github.com/onyx-dot-app/EnterpriseRAG-Bench/stargazers) [![Forks](https://img.shields.io/github/forks/onyx-dot-app/EnterpriseRAG-Bench?style=flat-square&color=blue)](https://github.com/onyx-dot-app/EnterpriseRAG-Bench/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onyx-dot-app/EnterpriseRAG-Bench?style=flat-square&color=yellow)](https://github.com/onyx-dot-app/EnterpriseRAG-Bench/stargazers) [![Forks](https://img.shields.io/github/forks/onyx-dot-app/EnterpriseRAG-Bench?style=flat-square&color=blue)](https://github.com/onyx-dot-app/EnterpriseRAG-Bench/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Dataset and benchmark for RAG on company internal documents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 155 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **EnterpriseRAG‑Bench** project provides a curated dataset and a comprehen
 
 ### 中文
 
-onyx-dot-app/EnterpriseRAG-Bench：onyx-dot-app/EnterpriseRAG-Bench helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+onyx-dot-app/EnterpriseRAG-Bench：onyx-dot-app/EnterpriseRAG-Bench helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ onyx-dot-app/EnterpriseRAG-Bench：onyx-dot-app/EnterpriseRAG-Bench helps add AI
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ onyx-dot-app/EnterpriseRAG-Bench：onyx-dot-app/EnterpriseRAG-Bench helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 41/100 |
 | stars | 47/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

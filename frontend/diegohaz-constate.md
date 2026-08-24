@@ -1,6 +1,6 @@
 # diegohaz/constate
 
-[![Stars](https://img.shields.io/github/stars/diegohaz/constate?style=flat-square&color=yellow)](https://github.com/diegohaz/constate/stargazers) [![Forks](https://img.shields.io/github/forks/diegohaz/constate?style=flat-square&color=blue)](https://github.com/diegohaz/constate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/diegohaz/constate?style=flat-square&color=yellow)](https://github.com/diegohaz/constate/stargazers) [![Forks](https://img.shields.io/github/forks/diegohaz/constate?style=flat-square&color=blue)](https://github.com/diegohaz/constate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > React Context + State
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -127,14 +127,15 @@ Overall, the library is mature enough for a serious pilot in production, with th
 | forks | 49/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # DependencyTrack/dependency-track
 
-[![Stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track?style=flat-square&color=yellow)](https://github.com/DependencyTrack/dependency-track/stargazers) [![Forks](https://img.shields.io/github/forks/DependencyTrack/dependency-track?style=flat-square&color=blue)](https://github.com/DependencyTrack/dependency-track/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track?style=flat-square&color=yellow)](https://github.com/DependencyTrack/dependency-track/stargazers) [![Forks](https://img.shields.io/github/forks/DependencyTrack/dependency-track?style=flat-square&color=blue)](https://github.com/DependencyTrack/dependency-track/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 731 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ DependencyTrack/dependency-track：DependencyTrack/dependency-track helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 75/100 |
 | stars | 76/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # meltano/meltano
 
-[![Stars](https://img.shields.io/github/stars/meltano/meltano?style=flat-square&color=yellow)](https://github.com/meltano/meltano/stargazers) [![Forks](https://img.shields.io/github/forks/meltano/meltano?style=flat-square&color=blue)](https://github.com/meltano/meltano/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meltano/meltano?style=flat-square&color=yellow)](https://github.com/meltano/meltano/stargazers) [![Forks](https://img.shields.io/github/forks/meltano/meltano?style=flat-square&color=blue)](https://github.com/meltano/meltano/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 235 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ meltano/meltano：meltano/meltano helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 94/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 59/100 |
+| outlook | 62/100 |
 | adoption | 69/100 |
 | stars | 72/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

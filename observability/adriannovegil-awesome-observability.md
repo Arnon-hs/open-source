@@ -1,6 +1,6 @@
 # adriannovegil/awesome-observability
 
-[![Stars](https://img.shields.io/github/stars/adriannovegil/awesome-observability?style=flat-square&color=yellow)](https://github.com/adriannovegil/awesome-observability/stargazers) [![Forks](https://img.shields.io/github/forks/adriannovegil/awesome-observability?style=flat-square&color=blue)](https://github.com/adriannovegil/awesome-observability/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adriannovegil/awesome-observability?style=flat-square&color=yellow)](https://github.com/adriannovegil/awesome-observability/stargazers) [![Forks](https://img.shields.io/github/forks/adriannovegil/awesome-observability?style=flat-square&color=blue)](https://github.com/adriannovegil/awesome-observability/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome observability page
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 637 |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ adriannovegil/awesome‑observability 是一个收录了监控、追踪、日志
 | forks | 53/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

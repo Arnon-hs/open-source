@@ -1,6 +1,6 @@
 # alibaba/arthas
 
-[![Stars](https://img.shields.io/github/stars/alibaba/arthas?style=flat-square&color=yellow)](https://github.com/alibaba/arthas/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/arthas?style=flat-square&color=blue)](https://github.com/alibaba/arthas/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alibaba/arthas?style=flat-square&color=yellow)](https://github.com/alibaba/arthas/stargazers) [![Forks](https://img.shields.io/github/forks/alibaba/arthas?style=flat-square&color=blue)](https://github.com/alibaba/arthas/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37.3k |
 | 🍴 **Forks** | 7.6k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ alibaba/arthas：alibaba/arthas helps turn isolated prompts and tools into repea
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 73/100 |
+| production | 55/100 |
+| outlook | 66/100 |
 | adoption | 97/100 |
 | stars | 97/100 |
 | forks | 97/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # IliasHad/edit-mind
 
-[![Stars](https://img.shields.io/github/stars/IliasHad/edit-mind?style=flat-square&color=yellow)](https://github.com/IliasHad/edit-mind/stargazers) [![Forks](https://img.shields.io/github/forks/IliasHad/edit-mind?style=flat-square&color=blue)](https://github.com/IliasHad/edit-mind/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IliasHad/edit-mind?style=flat-square&color=yellow)](https://github.com/IliasHad/edit-mind/stargazers) [![Forks](https://img.shields.io/github/forks/IliasHad/edit-mind?style=flat-square&color=blue)](https://github.com/IliasHad/edit-mind/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first Video Knowledge Base. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ IliasHad/edit-mind：IliasHad/edit-mind helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 62/100 |
 | stars | 67/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

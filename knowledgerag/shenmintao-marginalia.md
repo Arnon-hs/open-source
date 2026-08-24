@@ -1,6 +1,6 @@
 # shenmintao/marginalia
 
-[![Stars](https://img.shields.io/github/stars/shenmintao/marginalia?style=flat-square&color=yellow)](https://github.com/shenmintao/marginalia/stargazers) [![Forks](https://img.shields.io/github/forks/shenmintao/marginalia?style=flat-square&color=blue)](https://github.com/shenmintao/marginalia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shenmintao/marginalia?style=flat-square&color=yellow)](https://github.com/shenmintao/marginalia/stargazers) [![Forks](https://img.shields.io/github/forks/shenmintao/marginalia?style=flat-square&color=blue)](https://github.com/shenmintao/marginalia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > A library-science-inspired personal knowledge management system with LLM agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Backend · Database
+Knowledge/RAG · AI/ML · Frontend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ shenmintao/marginalia 是一个受图书馆学启发的个人知识管理系统�
 | forks | 31/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

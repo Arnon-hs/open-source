@@ -1,6 +1,6 @@
 # iamtouchskyer/memex
 
-[![Stars](https://img.shields.io/github/stars/iamtouchskyer/memex?style=flat-square&color=yellow)](https://github.com/iamtouchskyer/memex/stargazers) [![Forks](https://img.shields.io/github/forks/iamtouchskyer/memex?style=flat-square&color=blue)](https://github.com/iamtouchskyer/memex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iamtouchskyer/memex?style=flat-square&color=yellow)](https://github.com/iamtouchskyer/memex/stargazers) [![Forks](https://img.shields.io/github/forks/iamtouchskyer/memex?style=flat-square&color=blue)](https://github.com/iamtouchskyer/memex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ iamtouchskyer/memex：iamtouchskyer/memex helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 47/100 |
-| stars | 49/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

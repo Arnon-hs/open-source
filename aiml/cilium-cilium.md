@@ -1,6 +1,6 @@
 # cilium/cilium
 
-[![Stars](https://img.shields.io/github/stars/cilium/cilium?style=flat-square&color=yellow)](https://github.com/cilium/cilium/stargazers) [![Forks](https://img.shields.io/github/forks/cilium/cilium?style=flat-square&color=blue)](https://github.com/cilium/cilium/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cilium/cilium?style=flat-square&color=yellow)](https://github.com/cilium/cilium/stargazers) [![Forks](https://img.shields.io/github/forks/cilium/cilium?style=flat-square&color=blue)](https://github.com/cilium/cilium/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > eBPF-based Networking, Security, and Observability
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24.3k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ cilium/cilium：cilium/cilium helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 92/100 |
 | stars | 93/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

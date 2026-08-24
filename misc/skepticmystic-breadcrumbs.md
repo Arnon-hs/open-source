@@ -1,6 +1,6 @@
 # SkepticMystic/breadcrumbs
 
-[![Stars](https://img.shields.io/github/stars/SkepticMystic/breadcrumbs?style=flat-square&color=yellow)](https://github.com/SkepticMystic/breadcrumbs/stargazers) [![Forks](https://img.shields.io/github/forks/SkepticMystic/breadcrumbs?style=flat-square&color=blue)](https://github.com/SkepticMystic/breadcrumbs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SkepticMystic/breadcrumbs?style=flat-square&color=yellow)](https://github.com/SkepticMystic/breadcrumbs/stargazers) [![Forks](https://img.shields.io/github/forks/SkepticMystic/breadcrumbs?style=flat-square&color=blue)](https://github.com/SkepticMystic/breadcrumbs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Add typed-links to your Obsidian notes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 778 |
 | 🍴 **Forks** | 68 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SkepticMystic/breadcrumbs — это открытый плагин для Obsi
 
 ### 中文
 
-SkepticMystic/breadcrumbs：SkepticMystic/breadcrumbs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SkepticMystic/breadcrumbs：SkepticMystic/breadcrumbs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ SkepticMystic/breadcrumbs：SkepticMystic/breadcrumbs may be useful when its REA
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ SkepticMystic/breadcrumbs：SkepticMystic/breadcrumbs may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 50/100 |
-| adoption | 57/100 |
-| stars | 62/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

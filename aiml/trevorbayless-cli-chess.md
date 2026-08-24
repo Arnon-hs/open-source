@@ -1,6 +1,6 @@
 # trevorbayless/cli-chess
 
-[![Stars](https://img.shields.io/github/stars/trevorbayless/cli-chess?style=flat-square&color=yellow)](https://github.com/trevorbayless/cli-chess/stargazers) [![Forks](https://img.shields.io/github/forks/trevorbayless/cli-chess?style=flat-square&color=blue)](https://github.com/trevorbayless/cli-chess/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trevorbayless/cli-chess?style=flat-square&color=yellow)](https://github.com/trevorbayless/cli-chess/stargazers) [![Forks](https://img.shields.io/github/forks/trevorbayless/cli-chess?style=flat-square&color=blue)](https://github.com/trevorbayless/cli-chess/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A highly customizable way to play chess in your terminal. Play online (via Lichess.org) and offline against the Fairy-Stockfish engine. All Lichess variants are supported.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ trevorbayless/cli-chess：trevorbayless/cli-chess helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 46/100 |
 | stars | 52/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

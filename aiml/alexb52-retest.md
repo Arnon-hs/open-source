@@ -1,6 +1,6 @@
 # AlexB52/retest
 
-[![Stars](https://img.shields.io/github/stars/AlexB52/retest?style=flat-square&color=yellow)](https://github.com/AlexB52/retest/stargazers) [![Forks](https://img.shields.io/github/forks/AlexB52/retest?style=flat-square&color=blue)](https://github.com/AlexB52/retest/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlexB52/retest?style=flat-square&color=yellow)](https://github.com/AlexB52/retest/stargazers) [![Forks](https://img.shields.io/github/forks/AlexB52/retest?style=flat-square&color=blue)](https://github.com/AlexB52/retest/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A trusty CLI companion to monitor file changes and automatically run the corresponding Ruby specs. Ready to assist on any Ruby project, no setup needed!
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 221 |
+| ⭐ **Stars** | 220 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-20 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`bundler` `cli` `file-changes` `hanami` `rails` `refactoring` `refactoring-tools` `ruby` `task-runner` `test` `testing` `testing-tools`
 
 ## 🎯 Categories
 
@@ -25,10 +25,58 @@ AI/ML · DevTools
 
 ## 📝 Summary
 
-Here is a 2-3 sentence summary for the open-source project:
+### English
 
-This CLI tool, retest, helps developers streamline their workflow by automatically running Ruby specs in response to file changes, making it easier to monitor and test code changes. With no setup required, retest is a convenient companion for Ruby projects, enabling seamless integration of code changes and testing. Its user-friendly interface allows developers to focus on writing code, not manually running tests.
+AlexB52/retest: AlexB52/retest helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+AlexB52/retest: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+AlexB52/retest：AlexB52/retest helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** AlexB52/retest helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 220 GitHub stars
+- 5 forks
+- updated 2026-08-20
+- primary language: Ruby
+- 13 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 19/100 |
+| stars | 50/100 |
+| topics | 100/100 |
+| outlook | 83/100 |
+| quality | 74/100 |
+| recency | 100/100 |
+| adoption | 41/100 |
+| production | 74/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/AlexB52/retest) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-20 · [View on GitHub](https://github.com/AlexB52/retest) · [← Back to AI/ML](./README.md)</sub>

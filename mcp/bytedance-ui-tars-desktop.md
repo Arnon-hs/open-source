@@ -1,6 +1,6 @@
 # bytedance/UI-TARS-desktop
 
-[![Stars](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop?style=flat-square&color=yellow)](https://github.com/bytedance/UI-TARS-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/UI-TARS-desktop?style=flat-square&color=blue)](https://github.com/bytedance/UI-TARS-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop?style=flat-square&color=yellow)](https://github.com/bytedance/UI-TARS-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/UI-TARS-desktop?style=flat-square&color=blue)](https://github.com/bytedance/UI-TARS-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 37.4k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ bytedance/UI‑TARS‑desktop 是一套开源的多模态 AI Agent 框架，提�
 | forks | 89/100 |
 | stars | 97/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 83/100 |
+| recency | 40/100 |
 | adoption | 95/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # nixopus/nixopus
 
-[![Stars](https://img.shields.io/github/stars/nixopus/nixopus?style=flat-square&color=yellow)](https://github.com/nixopus/nixopus/stargazers) [![Forks](https://img.shields.io/github/forks/nixopus/nixopus?style=flat-square&color=blue)](https://github.com/nixopus/nixopus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nixopus/nixopus?style=flat-square&color=yellow)](https://github.com/nixopus/nixopus/stargazers) [![Forks](https://img.shields.io/github/forks/nixopus/nixopus?style=flat-square&color=blue)](https://github.com/nixopus/nixopus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nixopus/nixopus：nixopus/nixopus helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 63/100 |
 | stars | 67/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

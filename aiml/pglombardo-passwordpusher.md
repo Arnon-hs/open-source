@@ -1,6 +1,6 @@
 # pglombardo/PasswordPusher
 
-[![Stars](https://img.shields.io/github/stars/pglombardo/PasswordPusher?style=flat-square&color=yellow)](https://github.com/pglombardo/PasswordPusher/stargazers) [![Forks](https://img.shields.io/github/forks/pglombardo/PasswordPusher?style=flat-square&color=blue)](https://github.com/pglombardo/PasswordPusher/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pglombardo/PasswordPusher?style=flat-square&color=yellow)](https://github.com/pglombardo/PasswordPusher/stargazers) [![Forks](https://img.shields.io/github/forks/pglombardo/PasswordPusher?style=flat-square&color=blue)](https://github.com/pglombardo/PasswordPusher/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🔐   Securely share sensitive information with automatic expiration & deletion after a set number of views or duration.  Track who, what and when with full audit logs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 444 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ pglombardo/PasswordPusher：pglombardo/PasswordPusher helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 72/100 |
 | stars | 74/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # LuxAlgo/PineTS
 
-[![Stars](https://img.shields.io/github/stars/LuxAlgo/PineTS?style=flat-square&color=yellow)](https://github.com/LuxAlgo/PineTS/stargazers) [![Forks](https://img.shields.io/github/forks/LuxAlgo/PineTS?style=flat-square&color=blue)](https://github.com/LuxAlgo/PineTS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LuxAlgo/PineTS?style=flat-square&color=yellow)](https://github.com/LuxAlgo/PineTS/stargazers) [![Forks](https://img.shields.io/github/forks/LuxAlgo/PineTS?style=flat-square&color=blue)](https://github.com/LuxAlgo/PineTS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Run Pine Script® anywhere. PineTS is an open-source transpiler and runtime that brings Pine Script® logic to Node.js and the browser with 1:1 syntax compatibility. Reliably write, port, and run indicators or strategies on your own infrastructure.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · DevOps/Infra
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ LuxAlgo/PineTS：LuxAlgo/PineTS helps prototype or inspect blockchain workflows 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 55/100 |
-| adoption | 52/100 |
-| stars | 54/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

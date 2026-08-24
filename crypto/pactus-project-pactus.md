@@ -1,6 +1,6 @@
 # pactus-project/pactus
 
-[![Stars](https://img.shields.io/github/stars/pactus-project/pactus?style=flat-square&color=yellow)](https://github.com/pactus-project/pactus/stargazers) [![Forks](https://img.shields.io/github/forks/pactus-project/pactus?style=flat-square&color=blue)](https://github.com/pactus-project/pactus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pactus-project/pactus?style=flat-square&color=yellow)](https://github.com/pactus-project/pactus/stargazers) [![Forks](https://img.shields.io/github/forks/pactus-project/pactus?style=flat-square&color=blue)](https://github.com/pactus-project/pactus/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Pactus blockchain
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 237 |
 | 🍴 **Forks** | 166 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Pactus is an open‑source blockchain platform focused on delivering high‑perf
 
 ### 中文
 
-pactus-project/pactus：pactus-project/pactus helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pactus-project/pactus：pactus-project/pactus helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ pactus-project/pactus：pactus-project/pactus helps prototype or inspect blockch
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,22 +58,22 @@ pactus-project/pactus：pactus-project/pactus helps prototype or inspect blockch
 - updated 2026-05-09
 - primary language: Go
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 45/100 |
-| adoption | 52/100 |
-| stars | 51/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| stars | 51/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

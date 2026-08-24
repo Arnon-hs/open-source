@@ -1,6 +1,6 @@
 # rizinorg/rizin
 
-[![Stars](https://img.shields.io/github/stars/rizinorg/rizin?style=flat-square&color=yellow)](https://github.com/rizinorg/rizin/stargazers) [![Forks](https://img.shields.io/github/forks/rizinorg/rizin?style=flat-square&color=blue)](https://github.com/rizinorg/rizin/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rizinorg/rizin?style=flat-square&color=yellow)](https://github.com/rizinorg/rizin/stargazers) [![Forks](https://img.shields.io/github/forks/rizinorg/rizin?style=flat-square&color=blue)](https://github.com/rizinorg/rizin/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > UNIX-like reverse engineering framework and command-line toolset.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 559 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Rizin is an open‑source, UNIX‑like reverse‑engineering framework that prov
 
 ### 中文
 
-rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 68/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 63/100 |
-| adoption | 74/100 |
-| stars | 76/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| stars | 76/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # microg/GmsCore
 
-[![Stars](https://img.shields.io/github/stars/microg/GmsCore?style=flat-square&color=yellow)](https://github.com/microg/GmsCore/stargazers) [![Forks](https://img.shields.io/github/forks/microg/GmsCore?style=flat-square&color=blue)](https://github.com/microg/GmsCore/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microg/GmsCore?style=flat-square&color=yellow)](https://github.com/microg/GmsCore/stargazers) [![Forks](https://img.shields.io/github/forks/microg/GmsCore?style=flat-square&color=blue)](https://github.com/microg/GmsCore/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Free implementation of Play Services
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13.8k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ microg/GmsCore 是一个开源的、兼容 Google Play Services 的实现，提�
 | forks | 87/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 88/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

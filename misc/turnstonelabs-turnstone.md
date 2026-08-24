@@ -1,6 +1,6 @@
 # turnstonelabs/turnstone
 
-[![Stars](https://img.shields.io/github/stars/turnstonelabs/turnstone?style=flat-square&color=yellow)](https://github.com/turnstonelabs/turnstone/stargazers) [![Forks](https://img.shields.io/github/forks/turnstonelabs/turnstone?style=flat-square&color=blue)](https://github.com/turnstonelabs/turnstone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/turnstonelabs/turnstone?style=flat-square&color=yellow)](https://github.com/turnstonelabs/turnstone/stargazers) [![Forks](https://img.shields.io/github/forks/turnstonelabs/turnstone?style=flat-square&color=blue)](https://github.com/turnstonelabs/turnstone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 585 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -71,14 +71,15 @@ Turnstone Labs 的 Turnstone 项目是一款开源工具，分数为 54/100。�
 | forks | 42/100 |
 | stars | 59/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

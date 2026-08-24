@@ -1,6 +1,6 @@
 # joncampbell123/dosbox-x
 
-[![Stars](https://img.shields.io/github/stars/joncampbell123/dosbox-x?style=flat-square&color=yellow)](https://github.com/joncampbell123/dosbox-x/stargazers) [![Forks](https://img.shields.io/github/forks/joncampbell123/dosbox-x?style=flat-square&color=blue)](https://github.com/joncampbell123/dosbox-x/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joncampbell123/dosbox-x?style=flat-square&color=yellow)](https://github.com/joncampbell123/dosbox-x/stargazers) [![Forks](https://img.shields.io/github/forks/joncampbell123/dosbox-x?style=flat-square&color=blue)](https://github.com/joncampbell123/dosbox-x/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > DOSBox-X fork of the DOSBox project
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 506 |
 | 💻 **Language** | C |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ DOSBox‑X 是 DOSBox 的一个功能更丰富的分支，保持了对经典 DOS
 | forks | 68/100 |
 | stars | 76/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # southliu/south-admin-react
 
-[![Stars](https://img.shields.io/github/stars/southliu/south-admin-react?style=flat-square&color=yellow)](https://github.com/southliu/south-admin-react/stargazers) [![Forks](https://img.shields.io/github/forks/southliu/south-admin-react?style=flat-square&color=blue)](https://github.com/southliu/south-admin-react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/southliu/south-admin-react?style=flat-square&color=yellow)](https://github.com/southliu/south-admin-react/stargazers) [![Forks](https://img.shields.io/github/forks/southliu/south-admin-react?style=flat-square&color=blue)](https://github.com/southliu/south-admin-react/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > React-Admin后台管理系统模版，React19、Vite7、Antd5、Unocss、Zustand、Keepalive、i18n国际化、动态菜单、适配手机端、虚拟表格组件等。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 568 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ South‑Admin‑React is a modern React‑Admin starter kit built with React 1
 | forks | 51/100 |
 | stars | 59/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

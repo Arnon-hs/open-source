@@ -1,6 +1,6 @@
 # bigbag/papyrix-reader
 
-[![Stars](https://img.shields.io/github/stars/bigbag/papyrix-reader?style=flat-square&color=yellow)](https://github.com/bigbag/papyrix-reader/stargazers) [![Forks](https://img.shields.io/github/forks/bigbag/papyrix-reader?style=flat-square&color=blue)](https://github.com/bigbag/papyrix-reader/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bigbag/papyrix-reader?style=flat-square&color=yellow)](https://github.com/bigbag/papyrix-reader/stargazers) [![Forks](https://img.shields.io/github/forks/bigbag/papyrix-reader?style=flat-square&color=blue)](https://github.com/bigbag/papyrix-reader/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight open-source firmware for Xteink X4/X3 e-paper reader • EPUB/FB2/MD/TXT support • Custom themes & fonts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 316 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ bigbag/papyrix-reader is a lightweight, open‑source firmware designed for the 
 
 ### 中文
 
-bigbag/papyrix-reader：bigbag/papyrix-reader may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bigbag/papyrix-reader：bigbag/papyrix-reader may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ bigbag/papyrix-reader：bigbag/papyrix-reader may be useful when its README and 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ bigbag/papyrix-reader：bigbag/papyrix-reader may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 48/100 |
-| stars | 53/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

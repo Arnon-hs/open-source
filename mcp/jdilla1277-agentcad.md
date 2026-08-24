@@ -1,6 +1,6 @@
 # jdilla1277/agentcad
 
-[![Stars](https://img.shields.io/github/stars/jdilla1277/agentcad?style=flat-square&color=yellow)](https://github.com/jdilla1277/agentcad/stargazers) [![Forks](https://img.shields.io/github/forks/jdilla1277/agentcad?style=flat-square&color=blue)](https://github.com/jdilla1277/agentcad/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jdilla1277/agentcad?style=flat-square&color=yellow)](https://github.com/jdilla1277/agentcad/stargazers) [![Forks](https://img.shields.io/github/forks/jdilla1277/agentcad?style=flat-square&color=blue)](https://github.com/jdilla1277/agentcad/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > CAD CLI and MCP server for AI agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ jdilla1277/agentcad 是一个基于标准化协议的 CAD 命令行工具和 Mod
 | forks | 23/100 |
 | stars | 36/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 64/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 49/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # socfortress/CoPilot
 
-[![Stars](https://img.shields.io/github/stars/socfortress/CoPilot?style=flat-square&color=yellow)](https://github.com/socfortress/CoPilot/stargazers) [![Forks](https://img.shields.io/github/forks/socfortress/CoPilot?style=flat-square&color=blue)](https://github.com/socfortress/CoPilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/socfortress/CoPilot?style=flat-square&color=yellow)](https://github.com/socfortress/CoPilot/stargazers) [![Forks](https://img.shields.io/github/forks/socfortress/CoPilot?style=flat-square&color=blue)](https://github.com/socfortress/CoPilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > SOCFortress CoPilot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 485 |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SOCFortress CoPilot — это открытый инструмент, пре
 
 ### 中文
 
-socfortress/CoPilot：socfortress/CoPilot may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+socfortress/CoPilot：socfortress/CoPilot may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ socfortress/CoPilot：socfortress/CoPilot may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ socfortress/CoPilot：socfortress/CoPilot may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 46/100 |
-| adoption | 56/100 |
-| stars | 57/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

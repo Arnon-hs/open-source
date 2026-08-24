@@ -1,6 +1,6 @@
 # 2501035-wq/mobile-sim-streamer
 
-[![Stars](https://img.shields.io/github/stars/2501035-wq/mobile-sim-streamer?style=flat-square&color=yellow)](https://github.com/2501035-wq/mobile-sim-streamer/stargazers) [![Forks](https://img.shields.io/github/forks/2501035-wq/mobile-sim-streamer?style=flat-square&color=blue)](https://github.com/2501035-wq/mobile-sim-streamer/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/2501035-wq/mobile-sim-streamer?style=flat-square&color=yellow)](https://github.com/2501035-wq/mobile-sim-streamer/stargazers) [![Forks](https://img.shields.io/github/forks/2501035-wq/mobile-sim-streamer?style=flat-square&color=blue)](https://github.com/2501035-wq/mobile-sim-streamer/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-Hosted Mobile Device Streaming for QA Teams 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · DevTools · Mobile
+MCP · Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ With those checks in place, mobile‑sim‑streamer is well suited for internal 
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

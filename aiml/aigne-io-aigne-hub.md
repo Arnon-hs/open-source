@@ -1,6 +1,6 @@
 # AIGNE-io/aigne-hub
 
-[![Stars](https://img.shields.io/github/stars/AIGNE-io/aigne-hub?style=flat-square&color=yellow)](https://github.com/AIGNE-io/aigne-hub/stargazers) [![Forks](https://img.shields.io/github/forks/AIGNE-io/aigne-hub?style=flat-square&color=blue)](https://github.com/AIGNE-io/aigne-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AIGNE-io/aigne-hub?style=flat-square&color=yellow)](https://github.com/AIGNE-io/aigne-hub/stargazers) [![Forks](https://img.shields.io/github/forks/AIGNE-io/aigne-hub?style=flat-square&color=blue)](https://github.com/AIGNE-io/aigne-hub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AIGNE Hub is the default multi-provider LLM/GPT adapter and API key usage manager for all AIGNE-based apps and Blocklets.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ AIGNE Hub 是 AIGNE 生态下的默认多供应商 LLM/GPT 适配层和 API‑Ke
 | forks | 55/100 |
 | stars | 48/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # safedep/vet
 
-[![Stars](https://img.shields.io/github/stars/safedep/vet?style=flat-square&color=yellow)](https://github.com/safedep/vet/stargazers) [![Forks](https://img.shields.io/github/forks/safedep/vet?style=flat-square&color=blue)](https://github.com/safedep/vet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/safedep/vet?style=flat-square&color=yellow)](https://github.com/safedep/vet/stargazers) [![Forks](https://img.shields.io/github/forks/safedep/vet?style=flat-square&color=blue)](https://github.com/safedep/vet/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Protect against malicious open source packages 🤖
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 96 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ safedep/vet：safedep/vet helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # MxIris-Reverse-Engineering/RuntimeViewer
 
-[![Stars](https://img.shields.io/github/stars/MxIris-Reverse-Engineering/RuntimeViewer?style=flat-square&color=yellow)](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer/stargazers) [![Forks](https://img.shields.io/github/forks/MxIris-Reverse-Engineering/RuntimeViewer?style=flat-square&color=blue)](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MxIris-Reverse-Engineering/RuntimeViewer?style=flat-square&color=yellow)](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer/stargazers) [![Forks](https://img.shields.io/github/forks/MxIris-Reverse-Engineering/RuntimeViewer?style=flat-square&color=blue)](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Objective-C & Swift Runtime Viewer for macOS and iOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -56,22 +56,22 @@ MxIris-Reverse-Engineering/RuntimeViewer：MxIris-Reverse-Engineering/RuntimeVie
 - updated 2026-05-10
 - primary language: Swift
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 49/100 |
-| stars | 56/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

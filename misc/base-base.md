@@ -1,6 +1,6 @@
 # base/base
 
-[![Stars](https://img.shields.io/github/stars/base/base?style=flat-square&color=yellow)](https://github.com/base/base/stargazers) [![Forks](https://img.shields.io/github/forks/base/base?style=flat-square&color=blue)](https://github.com/base/base/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/base/base?style=flat-square&color=yellow)](https://github.com/base/base/stargazers) [![Forks](https://img.shields.io/github/forks/base/base?style=flat-square&color=blue)](https://github.com/base/base/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > All components used to run Base
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 423 |
 | 🍴 **Forks** | 347 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,16 +64,16 @@ base/base：base/base may be useful when its README and activity match a concret
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 47/100 |
-| adoption | 58/100 |
-| stars | 56/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

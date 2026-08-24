@@ -1,6 +1,6 @@
 # yizhiyanhua-ai/fireworks-tech-graph
 
-[![Stars](https://img.shields.io/github/stars/yizhiyanhua-ai/fireworks-tech-graph?style=flat-square&color=yellow)](https://github.com/yizhiyanhua-ai/fireworks-tech-graph/stargazers) [![Forks](https://img.shields.io/github/forks/yizhiyanhua-ai/fireworks-tech-graph?style=flat-square&color=blue)](https://github.com/yizhiyanhua-ai/fireworks-tech-graph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yizhiyanhua-ai/fireworks-tech-graph?style=flat-square&color=yellow)](https://github.com/yizhiyanhua-ai/fireworks-tech-graph/stargazers) [![Forks](https://img.shields.io/github/forks/yizhiyanhua-ai/fireworks-tech-graph?style=flat-square&color=blue)](https://github.com/yizhiyanhua-ai/fireworks-tech-graph/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 549 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Product
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ yizhiyanhua‑ai/fireworks‑tech‑graph 能把自然语言描述自动转化�
 | forks | 69/100 |
 | stars | 80/100 |
 | topics | 75/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 77/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

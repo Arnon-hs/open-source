@@ -1,6 +1,6 @@
 # hiyouga/LlamaFactory
 
-[![Stars](https://img.shields.io/github/stars/hiyouga/LlamaFactory?style=flat-square&color=yellow)](https://github.com/hiyouga/LlamaFactory/stargazers) [![Forks](https://img.shields.io/github/forks/hiyouga/LlamaFactory?style=flat-square&color=blue)](https://github.com/hiyouga/LlamaFactory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hiyouga/LlamaFactory?style=flat-square&color=yellow)](https://github.com/hiyouga/LlamaFactory/stargazers) [![Forks](https://img.shields.io/github/forks/hiyouga/LlamaFactory?style=flat-square&color=blue)](https://github.com/hiyouga/LlamaFactory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71k |
 | 🍴 **Forks** | 8.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ hiyouga/LlamaFactory：hiyouga/LlamaFactory helps research and automate market w
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 98/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

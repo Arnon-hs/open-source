@@ -1,6 +1,6 @@
 # Submitty/Submitty
 
-[![Stars](https://img.shields.io/github/stars/Submitty/Submitty?style=flat-square&color=yellow)](https://github.com/Submitty/Submitty/stargazers) [![Forks](https://img.shields.io/github/forks/Submitty/Submitty?style=flat-square&color=blue)](https://github.com/Submitty/Submitty/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Submitty/Submitty?style=flat-square&color=yellow)](https://github.com/Submitty/Submitty/stargazers) [![Forks](https://img.shields.io/github/forks/Submitty/Submitty?style=flat-square&color=blue)](https://github.com/Submitty/Submitty/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Homework Submission, Automated Grading, and TA grading system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 773 |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Submitty 为教学团队提供了一套完整的作业提交、自动评测和�
 | forks | 76/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

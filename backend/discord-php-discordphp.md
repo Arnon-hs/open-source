@@ -1,6 +1,6 @@
 # discord-php/DiscordPHP
 
-[![Stars](https://img.shields.io/github/stars/discord-php/DiscordPHP?style=flat-square&color=yellow)](https://github.com/discord-php/DiscordPHP/stargazers) [![Forks](https://img.shields.io/github/forks/discord-php/DiscordPHP?style=flat-square&color=blue)](https://github.com/discord-php/DiscordPHP/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/discord-php/DiscordPHP?style=flat-square&color=yellow)](https://github.com/discord-php/DiscordPHP/stargazers) [![Forks](https://img.shields.io/github/forks/discord-php/DiscordPHP?style=flat-square&color=blue)](https://github.com/discord-php/DiscordPHP/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An API to interact with the popular messaging app Discord
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 250 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ DiscordPHP（`discord-php/DiscordPHP`）是一个用 PHP 编写的 Discord API �
 | forks | 60/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

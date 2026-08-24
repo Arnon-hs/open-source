@@ -1,6 +1,6 @@
 # AbsolutelySkilled/AbsolutelySkilled
 
-[![Stars](https://img.shields.io/github/stars/AbsolutelySkilled/AbsolutelySkilled?style=flat-square&color=yellow)](https://github.com/AbsolutelySkilled/AbsolutelySkilled/stargazers) [![Forks](https://img.shields.io/github/forks/AbsolutelySkilled/AbsolutelySkilled?style=flat-square&color=blue)](https://github.com/AbsolutelySkilled/AbsolutelySkilled/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AbsolutelySkilled/AbsolutelySkilled?style=flat-square&color=yellow)](https://github.com/AbsolutelySkilled/AbsolutelySkilled/stargazers) [![Forks](https://img.shields.io/github/forks/AbsolutelySkilled/AbsolutelySkilled?style=flat-square&color=blue)](https://github.com/AbsolutelySkilled/AbsolutelySkilled/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome Skills from Around the World
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AbsolutelySkilled — это открытый проект, собирающи
 
 ### 中文
 
-AbsolutelySkilled/AbsolutelySkilled：AbsolutelySkilled/AbsolutelySkilled may be useful when its README and activity match a concrete workflow.。适合用于Marketing、Product。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AbsolutelySkilled/AbsolutelySkilled：AbsolutelySkilled/AbsolutelySkilled may be useful when its README and activity match a concrete workflow.。适合用于Marketing、Product。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ AbsolutelySkilled/AbsolutelySkilled：AbsolutelySkilled/AbsolutelySkilled may be
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ AbsolutelySkilled/AbsolutelySkilled：AbsolutelySkilled/AbsolutelySkilled may be
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 43/100 |
-| stars | 46/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

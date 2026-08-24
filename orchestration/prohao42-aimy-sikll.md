@@ -1,6 +1,6 @@
 # Prohao42/aimy-sikll
 
-[![Stars](https://img.shields.io/github/stars/Prohao42/aimy-sikll?style=flat-square&color=yellow)](https://github.com/Prohao42/aimy-sikll/stargazers) [![Forks](https://img.shields.io/github/forks/Prohao42/aimy-sikll?style=flat-square&color=blue)](https://github.com/Prohao42/aimy-sikll/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Prohao42/aimy-sikll?style=flat-square&color=yellow)](https://github.com/Prohao42/aimy-sikll/stargazers) [![Forks](https://img.shields.io/github/forks/Prohao42/aimy-sikll?style=flat-square&color=blue)](https://github.com/Prohao42/aimy-sikll/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > aimy-skill 是一个轻量级、可嵌入 AI Agent 的渗透测试辅助技能，专为授权环境下的自动化信息收集和基础漏洞探测设计。它可以被 AI 助手（如 AutoGPT、LangChain 应用）调用，也可以独立命令行运行。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Aimy‑skill（Prohao42/aimy-sikll）是一个轻量级、可嵌入的 AI Agent 
 | forks | 21/100 |
 | stars | 39/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 40/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

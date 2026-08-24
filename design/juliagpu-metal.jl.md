@@ -1,6 +1,6 @@
 # JuliaGPU/Metal.jl
 
-[![Stars](https://img.shields.io/github/stars/JuliaGPU/Metal.jl?style=flat-square&color=yellow)](https://github.com/JuliaGPU/Metal.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaGPU/Metal.jl?style=flat-square&color=blue)](https://github.com/JuliaGPU/Metal.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JuliaGPU/Metal.jl?style=flat-square&color=yellow)](https://github.com/JuliaGPU/Metal.jl/stargazers) [![Forks](https://img.shields.io/github/forks/JuliaGPU/Metal.jl?style=flat-square&color=blue)](https://github.com/JuliaGPU/Metal.jl/network) [![Language](https://img.shields.io/badge/lang-Julia-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Metal programming in Julia
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 448 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Julia |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ JuliaGPU/Metal.jl — это открытая библиотека, позво
 
 ### 中文
 
-JuliaGPU/Metal.jl：JuliaGPU/Metal.jl may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+JuliaGPU/Metal.jl：JuliaGPU/Metal.jl may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ JuliaGPU/Metal.jl：JuliaGPU/Metal.jl may be useful when its README and activity
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ JuliaGPU/Metal.jl：JuliaGPU/Metal.jl may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 58/100 |
+| production | 47/100 |
+| outlook | 51/100 |
 | adoption | 53/100 |
 | stars | 56/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # spitfireuptown/datalinkx
 
-[![Stars](https://img.shields.io/github/stars/spitfireuptown/datalinkx?style=flat-square&color=yellow)](https://github.com/spitfireuptown/datalinkx/stargazers) [![Forks](https://img.shields.io/github/forks/spitfireuptown/datalinkx?style=flat-square&color=blue)](https://github.com/spitfireuptown/datalinkx/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spitfireuptown/datalinkx?style=flat-square&color=yellow)](https://github.com/spitfireuptown/datalinkx/stargazers) [![Forks](https://img.shields.io/github/forks/spitfireuptown/datalinkx?style=flat-square&color=blue)](https://github.com/spitfireuptown/datalinkx/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥🔥DatalinkX异构数据源之间的数据同步系统，支持海量数据的增量或全量同步，同时支持HTTP、Oracle、MySQL、ES等数据源之间的数据流转，支持中间transform算子如SQL算子、大模型算子，底层依赖Flink、Seatunnel引擎，提供流转任务管理、任务级联配置、任务日志采集等功能🔥🔥
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ DatalinkX 是基于 Flink / Seatunnel 的异构数据源同步系统，能够在
 | forks | 40/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

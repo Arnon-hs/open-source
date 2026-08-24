@@ -1,6 +1,6 @@
 # atopos31/llmio
 
-[![Stars](https://img.shields.io/github/stars/atopos31/llmio?style=flat-square&color=yellow)](https://github.com/atopos31/llmio/stargazers) [![Forks](https://img.shields.io/github/forks/atopos31/llmio?style=flat-square&color=blue)](https://github.com/atopos31/llmio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atopos31/llmio?style=flat-square&color=yellow)](https://github.com/atopos31/llmio/stargazers) [![Forks](https://img.shields.io/github/forks/atopos31/llmio?style=flat-square&color=blue)](https://github.com/atopos31/llmio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Unified LLM gateway with weighted load balancing, observability & cost tracking. 统一的 LLM 网关，提供权重负载均衡、可观测性与费用追踪。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 294 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools · Database · Observability
+AI/ML · DevTools · Observability
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ atopos31/llmio 是一个统一的 LLM（大语言模型）网关，提供基于�
 | forks | 39/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 82/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

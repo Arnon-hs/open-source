@@ -1,6 +1,6 @@
 # aa-proxy/aa-proxy-rs
 
-[![Stars](https://img.shields.io/github/stars/aa-proxy/aa-proxy-rs?style=flat-square&color=yellow)](https://github.com/aa-proxy/aa-proxy-rs/stargazers) [![Forks](https://img.shields.io/github/forks/aa-proxy/aa-proxy-rs?style=flat-square&color=blue)](https://github.com/aa-proxy/aa-proxy-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aa-proxy/aa-proxy-rs?style=flat-square&color=yellow)](https://github.com/aa-proxy/aa-proxy-rs/stargazers) [![Forks](https://img.shields.io/github/forks/aa-proxy/aa-proxy-rs?style=flat-square&color=blue)](https://github.com/aa-proxy/aa-proxy-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > AndroidAuto wired/wireless proxy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Mobile
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Azure/co-op-translator
 
-[![Stars](https://img.shields.io/github/stars/Azure/co-op-translator?style=flat-square&color=yellow)](https://github.com/Azure/co-op-translator/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/co-op-translator?style=flat-square&color=blue)](https://github.com/Azure/co-op-translator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/co-op-translator?style=flat-square&color=yellow)](https://github.com/Azure/co-op-translator/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/co-op-translator?style=flat-square&color=blue)](https://github.com/Azure/co-op-translator/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Easily automate the translation of your documentation into multiple languages, powered by Azure AI Services
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 623 |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Azure/co-op-translator 的生产可用性评估为高（High），因为：
 | forks | 50/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

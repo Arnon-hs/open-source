@@ -1,6 +1,6 @@
 # gitbutlerapp/gitbutler
 
-[![Stars](https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=flat-square&color=yellow)](https://github.com/gitbutlerapp/gitbutler/stargazers) [![Forks](https://img.shields.io/github/forks/gitbutlerapp/gitbutler?style=flat-square&color=blue)](https://github.com/gitbutlerapp/gitbutler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitbutlerapp/gitbutler?style=flat-square&color=yellow)](https://github.com/gitbutlerapp/gitbutler/stargazers) [![Forks](https://img.shields.io/github/forks/gitbutlerapp/gitbutler?style=flat-square&color=blue)](https://github.com/gitbutlerapp/gitbutler/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 20.8k |
 | 🍴 **Forks** | 932 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gitbutlerapp/gitbutler：gitbutlerapp/gitbutler helps engineers save time in dai
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 61/100 |
+| production | 52/100 |
+| outlook | 54/100 |
 | adoption | 87/100 |
 | stars | 92/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ZeroDeng01/sublinkPro
 
-[![Stars](https://img.shields.io/github/stars/ZeroDeng01/sublinkPro?style=flat-square&color=yellow)](https://github.com/ZeroDeng01/sublinkPro/stargazers) [![Forks](https://img.shields.io/github/forks/ZeroDeng01/sublinkPro?style=flat-square&color=blue)](https://github.com/ZeroDeng01/sublinkPro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZeroDeng01/sublinkPro?style=flat-square&color=yellow)](https://github.com/ZeroDeng01/sublinkPro/stargazers) [![Forks](https://img.shields.io/github/forks/ZeroDeng01/sublinkPro?style=flat-square&color=blue)](https://github.com/ZeroDeng01/sublinkPro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ZeroDeng01/sublinkPro — это современная платформа �
 
 ### 中文
 
-ZeroDeng01/sublinkPro：ZeroDeng01/sublinkPro helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ZeroDeng01/sublinkPro：ZeroDeng01/sublinkPro helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ZeroDeng01/sublinkPro：ZeroDeng01/sublinkPro helps ship user-facing interfaces 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ ZeroDeng01/sublinkPro：ZeroDeng01/sublinkPro helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 48/100 |
+| production | 46/100 |
+| outlook | 41/100 |
 | adoption | 63/100 |
 | stars | 65/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

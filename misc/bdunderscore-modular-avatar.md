@@ -1,6 +1,6 @@
 # bdunderscore/modular-avatar
 
-[![Stars](https://img.shields.io/github/stars/bdunderscore/modular-avatar?style=flat-square&color=yellow)](https://github.com/bdunderscore/modular-avatar/stargazers) [![Forks](https://img.shields.io/github/forks/bdunderscore/modular-avatar?style=flat-square&color=blue)](https://github.com/bdunderscore/modular-avatar/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bdunderscore/modular-avatar?style=flat-square&color=yellow)](https://github.com/bdunderscore/modular-avatar/stargazers) [![Forks](https://img.shields.io/github/forks/bdunderscore/modular-avatar?style=flat-square&color=blue)](https://github.com/bdunderscore/modular-avatar/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 756 |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ bdunderscore/modular-avatar 是一个基于 C# 的开源库，旨在提供可组
 | forks | 50/100 |
 | stars | 61/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

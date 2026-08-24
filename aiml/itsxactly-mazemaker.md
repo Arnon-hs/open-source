@@ -1,6 +1,6 @@
 # itsXactlY/mazemaker
 
-[![Stars](https://img.shields.io/github/stars/itsXactlY/mazemaker?style=flat-square&color=yellow)](https://github.com/itsXactlY/mazemaker/stargazers) [![Forks](https://img.shields.io/github/forks/itsXactlY/mazemaker?style=flat-square&color=blue)](https://github.com/itsXactlY/mazemaker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itsXactlY/mazemaker?style=flat-square&color=yellow)](https://github.com/itsXactlY/mazemaker/stargazers) [![Forks](https://img.shields.io/github/forks/itsXactlY/mazemaker?style=flat-square&color=blue)](https://github.com/itsXactlY/mazemaker/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Semantic memory system with knowledge graph, spreading activation, embedding-based recall, autonomous dream consolidation, and C++ LSTM+kNN pattern learning for any /MCP and the Hermes Agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ itsXactlY/mazemaker：itsXactlY/mazemaker helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 32/100 |
 | stars | 35/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

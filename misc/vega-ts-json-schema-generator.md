@@ -1,6 +1,6 @@
 # vega/ts-json-schema-generator
 
-[![Stars](https://img.shields.io/github/stars/vega/ts-json-schema-generator?style=flat-square&color=yellow)](https://github.com/vega/ts-json-schema-generator/stargazers) [![Forks](https://img.shields.io/github/forks/vega/ts-json-schema-generator?style=flat-square&color=blue)](https://github.com/vega/ts-json-schema-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vega/ts-json-schema-generator?style=flat-square&color=yellow)](https://github.com/vega/ts-json-schema-generator/stargazers) [![Forks](https://img.shields.io/github/forks/vega/ts-json-schema-generator?style=flat-square&color=blue)](https://github.com/vega/ts-json-schema-generator/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Generate JSON schema from your Typescript sources
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 237 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -118,14 +118,15 @@ vega/ts-json-schema-generator 是一个开源工具，可直接从 TypeScript �
 | forks | 59/100 |
 | stars | 69/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

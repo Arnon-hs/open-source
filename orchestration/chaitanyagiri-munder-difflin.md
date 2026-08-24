@@ -1,6 +1,6 @@
 # chaitanyagiri/munder-difflin
 
-[![Stars](https://img.shields.io/github/stars/chaitanyagiri/munder-difflin?style=flat-square&color=yellow)](https://github.com/chaitanyagiri/munder-difflin/stargazers) [![Forks](https://img.shields.io/github/forks/chaitanyagiri/munder-difflin?style=flat-square&color=blue)](https://github.com/chaitanyagiri/munder-difflin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chaitanyagiri/munder-difflin?style=flat-square&color=yellow)](https://github.com/chaitanyagiri/munder-difflin/stargazers) [![Forks](https://img.shields.io/github/forks/chaitanyagiri/munder-difflin?style=flat-square&color=blue)](https://github.com/chaitanyagiri/munder-difflin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > local multi-agent harness
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 575 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ chaitanyagiri/munder‑difflin 是一个基于 TypeScript 的本地多代理编�
 | forks | 45/100 |
 | stars | 59/100 |
 | topics | 75/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 55/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

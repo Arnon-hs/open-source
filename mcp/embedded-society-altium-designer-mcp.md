@@ -1,6 +1,6 @@
 # embedded-society/altium-designer-mcp
 
-[![Stars](https://img.shields.io/github/stars/embedded-society/altium-designer-mcp?style=flat-square&color=yellow)](https://github.com/embedded-society/altium-designer-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/embedded-society/altium-designer-mcp?style=flat-square&color=blue)](https://github.com/embedded-society/altium-designer-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/embedded-society/altium-designer-mcp?style=flat-square&color=yellow)](https://github.com/embedded-society/altium-designer-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/embedded-society/altium-designer-mcp?style=flat-square&color=blue)](https://github.com/embedded-society/altium-designer-mcp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for AI-assisted Altium Designer component libraries management
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Design
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ In short, *altium‑designer‑mcp* offers a clean, protocol‑driven way to bri
 | forks | 24/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

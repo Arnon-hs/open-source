@@ -1,6 +1,6 @@
 # openvinotoolkit/openvino
 
-[![Stars](https://img.shields.io/github/stars/openvinotoolkit/openvino?style=flat-square&color=yellow)](https://github.com/openvinotoolkit/openvino/stargazers) [![Forks](https://img.shields.io/github/forks/openvinotoolkit/openvino?style=flat-square&color=blue)](https://github.com/openvinotoolkit/openvino/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openvinotoolkit/openvino?style=flat-square&color=yellow)](https://github.com/openvinotoolkit/openvino/stargazers) [![Forks](https://img.shields.io/github/forks/openvinotoolkit/openvino?style=flat-square&color=blue)](https://github.com/openvinotoolkit/openvino/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.2k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ openvinotoolkit/openvino：openvinotoolkit/openvino helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 67/100 |
-| adoption | 86/100 |
-| stars | 85/100 |
 | forks | 88/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

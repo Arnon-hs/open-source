@@ -1,6 +1,6 @@
 # DFHack/dfhack
 
-[![Stars](https://img.shields.io/github/stars/DFHack/dfhack?style=flat-square&color=yellow)](https://github.com/DFHack/dfhack/stargazers) [![Forks](https://img.shields.io/github/forks/DFHack/dfhack?style=flat-square&color=blue)](https://github.com/DFHack/dfhack/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DFHack/dfhack?style=flat-square&color=yellow)](https://github.com/DFHack/dfhack/stargazers) [![Forks](https://img.shields.io/github/forks/DFHack/dfhack?style=flat-square&color=blue)](https://github.com/DFHack/dfhack/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Memory hacking library for Dwarf Fortress and a set of tools that use it
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 497 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ DFHack 是一套用于《Dwarf Fortress》的内存修改库及其衍生工具�
 | forks | 67/100 |
 | stars | 70/100 |
 | topics | 25/100 |
-| outlook | 76/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

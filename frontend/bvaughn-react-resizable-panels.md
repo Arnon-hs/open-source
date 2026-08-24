@@ -1,6 +1,6 @@
 # bvaughn/react-resizable-panels
 
-[![Stars](https://img.shields.io/github/stars/bvaughn/react-resizable-panels?style=flat-square&color=yellow)](https://github.com/bvaughn/react-resizable-panels/stargazers) [![Forks](https://img.shields.io/github/forks/bvaughn/react-resizable-panels?style=flat-square&color=blue)](https://github.com/bvaughn/react-resizable-panels/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bvaughn/react-resizable-panels?style=flat-square&color=yellow)](https://github.com/bvaughn/react-resizable-panels/stargazers) [![Forks](https://img.shields.io/github/forks/bvaughn/react-resizable-panels?style=flat-square&color=blue)](https://github.com/bvaughn/react-resizable-panels/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ Frontend
 | forks | 58/100 |
 | stars | 79/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

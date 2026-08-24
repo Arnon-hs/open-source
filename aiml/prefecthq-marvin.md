@@ -1,6 +1,6 @@
 # PrefectHQ/marvin
 
-[![Stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=flat-square&color=yellow)](https://github.com/PrefectHQ/marvin/stargazers) [![Forks](https://img.shields.io/github/forks/PrefectHQ/marvin?style=flat-square&color=blue)](https://github.com/PrefectHQ/marvin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=flat-square&color=yellow)](https://github.com/PrefectHQ/marvin/stargazers) [![Forks](https://img.shields.io/github/forks/PrefectHQ/marvin?style=flat-square&color=blue)](https://github.com/PrefectHQ/marvin/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > an ambient intelligence library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 398 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ PrefectHQ/marvin：PrefectHQ/marvin helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 65/100 |
-| adoption | 76/100 |
-| stars | 81/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

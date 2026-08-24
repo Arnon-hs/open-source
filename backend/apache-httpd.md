@@ -1,6 +1,6 @@
 # apache/httpd
 
-[![Stars](https://img.shields.io/github/stars/apache/httpd?style=flat-square&color=yellow)](https://github.com/apache/httpd/stargazers) [![Forks](https://img.shields.io/github/forks/apache/httpd?style=flat-square&color=blue)](https://github.com/apache/httpd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/httpd?style=flat-square&color=yellow)](https://github.com/apache/httpd/stargazers) [![Forks](https://img.shields.io/github/forks/apache/httpd?style=flat-square&color=blue)](https://github.com/apache/httpd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Apache HTTP Server — это надёжный и широко использ�
 
 ### 中文
 
-apache/httpd：apache/httpd helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apache/httpd：apache/httpd helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ apache/httpd：apache/httpd helps teams reuse service infrastructure instead of 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ apache/httpd：apache/httpd helps teams reuse service infrastructure instead of 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 47/100 |
+| outlook | 46/100 |
 | adoption | 77/100 |
 | stars | 76/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

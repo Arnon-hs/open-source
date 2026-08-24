@@ -1,6 +1,6 @@
 # mkuthan/homelab-public
 
-[![Stars](https://img.shields.io/github/stars/mkuthan/homelab-public?style=flat-square&color=yellow)](https://github.com/mkuthan/homelab-public/stargazers) [![Forks](https://img.shields.io/github/forks/mkuthan/homelab-public?style=flat-square&color=blue)](https://github.com/mkuthan/homelab-public/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mkuthan/homelab-public?style=flat-square&color=yellow)](https://github.com/mkuthan/homelab-public/stargazers) [![Forks](https://img.shields.io/github/forks/mkuthan/homelab-public?style=flat-square&color=blue)](https://github.com/mkuthan/homelab-public/network) [![Language](https://img.shields.io/badge/lang-HCL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Homelab infrastructure as a code (IaaC)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 610 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | HCL |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mkuthan/homelab-public is an open‑source repository that codifies the author�
 
 ### 中文
 
-mkuthan/homelab-public：mkuthan/homelab-public helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mkuthan/homelab-public：mkuthan/homelab-public helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mkuthan/homelab-public：mkuthan/homelab-public helps make deployment and operat
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ mkuthan/homelab-public：mkuthan/homelab-public helps make deployment and operat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 53/100 |
-| stars | 59/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # Kesin11/actions-timeline
 
-[![Stars](https://img.shields.io/github/stars/Kesin11/actions-timeline?style=flat-square&color=yellow)](https://github.com/Kesin11/actions-timeline/stargazers) [![Forks](https://img.shields.io/github/forks/Kesin11/actions-timeline?style=flat-square&color=blue)](https://github.com/Kesin11/actions-timeline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kesin11/actions-timeline?style=flat-square&color=yellow)](https://github.com/Kesin11/actions-timeline/stargazers) [![Forks](https://img.shields.io/github/forks/Kesin11/actions-timeline?style=flat-square&color=blue)](https://github.com/Kesin11/actions-timeline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > An Action shows timeline of a workflow in a run summary.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 330 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Kesin11/actions-timeline 的生产可用性为中等（Medium），适合用于�
 | forks | 23/100 |
 | stars | 54/100 |
 | topics | 13/100 |
-| outlook | 69/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

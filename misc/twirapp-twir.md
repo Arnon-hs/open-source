@@ -1,6 +1,6 @@
 # twirapp/twir
 
-[![Stars](https://img.shields.io/github/stars/twirapp/twir?style=flat-square&color=yellow)](https://github.com/twirapp/twir/stargazers) [![Forks](https://img.shields.io/github/forks/twirapp/twir?style=flat-square&color=blue)](https://github.com/twirapp/twir/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/twirapp/twir?style=flat-square&color=yellow)](https://github.com/twirapp/twir/stargazers) [![Forks](https://img.shields.io/github/forks/twirapp/twir?style=flat-square&color=blue)](https://github.com/twirapp/twir/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Twitch chat bot written on Golang and TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 212 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ twirapp/twir：twirapp/twir may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 53/100 |
+| production | 50/100 |
+| outlook | 46/100 |
 | adoption | 44/100 |
 | stars | 50/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

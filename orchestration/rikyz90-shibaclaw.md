@@ -1,6 +1,6 @@
 # RikyZ90/ShibaClaw
 
-[![Stars](https://img.shields.io/github/stars/RikyZ90/ShibaClaw?style=flat-square&color=yellow)](https://github.com/RikyZ90/ShibaClaw/stargazers) [![Forks](https://img.shields.io/github/forks/RikyZ90/ShibaClaw?style=flat-square&color=blue)](https://github.com/RikyZ90/ShibaClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RikyZ90/ShibaClaw?style=flat-square&color=yellow)](https://github.com/RikyZ90/ShibaClaw/stargazers) [![Forks](https://img.shields.io/github/forks/RikyZ90/ShibaClaw?style=flat-square&color=blue)](https://github.com/RikyZ90/ShibaClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 🐕 Self-hosted security-first AI agent · 22 providers · 11 chat channels · WebUI · 3-level memory · cron · heartbeat · skills · MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ RikyZ90/ShibaClaw：RikyZ90/ShibaClaw helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 62/100 |
-| adoption | 30/100 |
-| stars | 36/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| stars | 36/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

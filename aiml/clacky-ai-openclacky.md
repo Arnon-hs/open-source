@@ -1,6 +1,6 @@
 # clacky-ai/openclacky
 
-[![Stars](https://img.shields.io/github/stars/clacky-ai/openclacky?style=flat-square&color=yellow)](https://github.com/clacky-ai/openclacky/stargazers) [![Forks](https://img.shields.io/github/forks/clacky-ai/openclacky?style=flat-square&color=blue)](https://github.com/clacky-ai/openclacky/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/clacky-ai/openclacky?style=flat-square&color=yellow)](https://github.com/clacky-ai/openclacky/stargazers) [![Forks](https://img.shields.io/github/forks/clacky-ai/openclacky?style=flat-square&color=blue)](https://github.com/clacky-ai/openclacky/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > The most Token-efficient open-source AI Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 379 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -133,14 +133,15 @@ clacky-ai/openclacky 是一个 **高 Token 效率** 的开源 AI Agent，提供�
 | forks | 35/100 |
 | stars | 55/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 43/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

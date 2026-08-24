@@ -1,6 +1,6 @@
 # agent-sh/agentsys
 
-[![Stars](https://img.shields.io/github/stars/agent-sh/agentsys?style=flat-square&color=yellow)](https://github.com/agent-sh/agentsys/stargazers) [![Forks](https://img.shields.io/github/forks/agent-sh/agentsys?style=flat-square&color=blue)](https://github.com/agent-sh/agentsys/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agent-sh/agentsys?style=flat-square&color=yellow)](https://github.com/agent-sh/agentsys/stargazers) [![Forks](https://img.shields.io/github/forks/agent-sh/agentsys?style=flat-square&color=blue)](https://github.com/agent-sh/agentsys/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 884 |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Product
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ agent-sh/agentsys 的生产可用性很高，主要原因是：
 | forks | 51/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

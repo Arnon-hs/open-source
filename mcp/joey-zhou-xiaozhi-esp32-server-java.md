@@ -1,0 +1,82 @@
+# joey-zhou/xiaozhi-esp32-server-java
+
+[![Stars](https://img.shields.io/github/stars/joey-zhou/xiaozhi-esp32-server-java?style=flat-square&color=yellow)](https://github.com/joey-zhou/xiaozhi-esp32-server-java/stargazers) [![Forks](https://img.shields.io/github/forks/joey-zhou/xiaozhi-esp32-server-java?style=flat-square&color=blue)](https://github.com/joey-zhou/xiaozhi-esp32-server-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+
+> 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.2k |
+| 🍴 **Forks** | 455 |
+| 💻 **Language** | Java |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`esp32` `java` `mcp` `mcp-client` `mcp-server` `spring-ai` `stt` `tts` `xiaozhi` `xiaozhi-ai` `xiaozhi-esp32` `xiaozhi-server`
+
+## 🎯 Categories
+
+MCP · AI/ML · Backend
+
+## 📝 Summary
+
+### English
+
+A Java‑based enterprise management platform for the XiaoZhi ESP32 device, delivering an integrated front‑end, back‑end, and service solution. It offers real‑time device monitoring, customizable voice tones, role switching, and comprehensive dialogue‑record management. Designed for AI/ML‑enabled IoT applications, it serves as a full‑stack dev‑tool for developers and administrators.
+
+### Русский
+
+**joey-zhou/xiaozhi-esp32-server-java** – корпоративная Java‑платформа для управления устройствами ESP32 «小智». Она объединяет фронтенд и бэкенд, предоставляя мониторинг состояния, настройку звуковых параметров, переключение ролей и хранение истории диалогов. Проект ориентирован на AI/ML‑приложения, масштабируемый бэкенд и удобные инструменты разработки.
+
+### 中文
+
+joey-zhou/xiaozhi-esp32-server-java：joey-zhou/xiaozhi-esp32-server-java helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** joey-zhou/xiaozhi-esp32-server-java helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1243 GitHub stars
+- 455 forks
+- updated 2026-05-09
+- primary language: Java
+- 12 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 66/100 |
+| stars | 66/100 |
+| topics | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/joey-zhou/xiaozhi-esp32-server-java) · [← Back to Mcp](./README.md)</sub>

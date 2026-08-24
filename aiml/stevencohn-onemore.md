@@ -1,6 +1,6 @@
 # stevencohn/OneMore
 
-[![Stars](https://img.shields.io/github/stars/stevencohn/OneMore?style=flat-square&color=yellow)](https://github.com/stevencohn/OneMore/stargazers) [![Forks](https://img.shields.io/github/forks/stevencohn/OneMore?style=flat-square&color=blue)](https://github.com/stevencohn/OneMore/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stevencohn/OneMore?style=flat-square&color=yellow)](https://github.com/stevencohn/OneMore/stargazers) [![Forks](https://img.shields.io/github/forks/stevencohn/OneMore?style=flat-square&color=blue)](https://github.com/stevencohn/OneMore/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A OneNote add-in with simple, yet powerful and useful features
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 255 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ stevencohn/OneMore：stevencohn/OneMore helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 71/100 |
 | stars | 75/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

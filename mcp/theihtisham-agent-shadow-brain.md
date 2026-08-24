@@ -1,0 +1,82 @@
+# theihtisham/agent-shadow-brain
+
+[![Stars](https://img.shields.io/github/stars/theihtisham/agent-shadow-brain?style=flat-square&color=yellow)](https://github.com/theihtisham/agent-shadow-brain/stargazers) [![Forks](https://img.shields.io/github/forks/theihtisham/agent-shadow-brain?style=flat-square&color=blue)](https://github.com/theihtisham/agent-shadow-brain/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+
+> 🧠 v6.0 Hive Mind — One open-source brain every AI coding agent can share (Claude Code, Cursor, Cline, Codex, Copilot, Windsurf). 22 novel features. Free. Local-first. MIT.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 22 |
+| 🍴 **Forks** | 3 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai` `causal-chains` `claude-code` `cline` `codex` `copilot` `cursor` `developer-tools` `dream-engine` `hive-mind` `llm` `local-first`
+
+## 🎯 Categories
+
+MCP · AI/ML · Backend · DevTools
+
+## 📝 Summary
+
+### English
+
+The Agent‑Shadow‑Brain project provides a free, MIT‑licensed “Hive Mind” brain (v6.0) that can be shared locally among any AI coding assistant—Claude Code, Cursor, Cline, Codex, Copilot, Windsurf, and others. It bundles 22 novel features for seamless code generation, context sharing, and tool integration, offering a backend‑agnostic, open‑source solution for developers who want a single, local‑first brain to power multiple AI agents.
+
+### Русский
+
+**theihtisham/agent-shadow-brain** — это открытая платформа v6.0 Hive Mind, предоставляющая единый «мозг» для всех AI‑кодирующих агентов (Claude Code, Cursor, Cline, Codex, Copilot, Windsurf) и включающая 22 новых функции. Проект полностью бесплатен, работает локально, имеет лицензию MIT и ориентирован на разработчиков в областях AI/ML, backend и DevTools.
+
+### 中文
+
+theihtisham/agent-shadow-brain：theihtisham/agent-shadow-brain helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** theihtisham/agent-shadow-brain helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 22 GitHub stars
+- 3 forks
+- updated 2026-05-09
+- primary language: TypeScript
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 15/100 |
+| stars | 29/100 |
+| topics | 100/100 |
+| outlook | 53/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 25/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/theihtisham/agent-shadow-brain) · [← Back to Mcp](./README.md)</sub>

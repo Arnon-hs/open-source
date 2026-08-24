@@ -1,6 +1,6 @@
 # Palm1r/QodeAssist
 
-[![Stars](https://img.shields.io/github/stars/Palm1r/QodeAssist?style=flat-square&color=yellow)](https://github.com/Palm1r/QodeAssist/stargazers) [![Forks](https://img.shields.io/github/forks/Palm1r/QodeAssist?style=flat-square&color=blue)](https://github.com/Palm1r/QodeAssist/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Palm1r/QodeAssist?style=flat-square&color=yellow)](https://github.com/Palm1r/QodeAssist/stargazers) [![Forks](https://img.shields.io/github/forks/Palm1r/QodeAssist?style=flat-square&color=blue)](https://github.com/Palm1r/QodeAssist/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > QodeAssist is an AI-powered coding assistant plugin for Qt Creator
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 388 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ QodeAssist 是一款基于 AI 的编码助理插件，直接集成到 Qt Creat
 | forks | 44/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

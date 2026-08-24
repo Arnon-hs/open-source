@@ -1,6 +1,6 @@
 # OpenRaiser/NanoResearch
 
-[![Stars](https://img.shields.io/github/stars/OpenRaiser/NanoResearch?style=flat-square&color=yellow)](https://github.com/OpenRaiser/NanoResearch/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRaiser/NanoResearch?style=flat-square&color=blue)](https://github.com/OpenRaiser/NanoResearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenRaiser/NanoResearch?style=flat-square&color=yellow)](https://github.com/OpenRaiser/NanoResearch/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRaiser/NanoResearch?style=flat-square&color=blue)](https://github.com/OpenRaiser/NanoResearch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🦞+🔬 NanoResearch: The Autonomous AI Research Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 899 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ OpenRaiser/NanoResearch 是一款开源的自主 AI 研究助理，能够把单�
 | forks | 49/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 59/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

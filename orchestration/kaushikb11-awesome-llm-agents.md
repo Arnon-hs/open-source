@@ -1,6 +1,6 @@
 # kaushikb11/awesome-llm-agents
 
-[![Stars](https://img.shields.io/github/stars/kaushikb11/awesome-llm-agents?style=flat-square&color=yellow)](https://github.com/kaushikb11/awesome-llm-agents/stargazers) [![Forks](https://img.shields.io/github/forks/kaushikb11/awesome-llm-agents?style=flat-square&color=blue)](https://github.com/kaushikb11/awesome-llm-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kaushikb11/awesome-llm-agents?style=flat-square&color=yellow)](https://github.com/kaushikb11/awesome-llm-agents/stargazers) [![Forks](https://img.shields.io/github/forks/kaushikb11/awesome-llm-agents?style=flat-square&color=blue)](https://github.com/kaushikb11/awesome-llm-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome LLM agents frameworks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 272 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A curated repository of top-notch frameworks for building and orchestrating larg
 
 ### 中文
 
-kaushikb11/awesome-llm-agents：kaushikb11/awesome-llm-agents helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kaushikb11/awesome-llm-agents：kaushikb11/awesome-llm-agents helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kaushikb11/awesome-llm-agents：kaushikb11/awesome-llm-agents helps turn isolate
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ kaushikb11/awesome-llm-agents：kaushikb11/awesome-llm-agents helps turn isolate
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 66/100 |
-| stars | 67/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 67/100 |
 | topics | 38/100 |
+| outlook | 52/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

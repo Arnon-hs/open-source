@@ -1,6 +1,6 @@
 # continuedev/continue
 
-[![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square&color=yellow)](https://github.com/continuedev/continue/stargazers) [![Forks](https://img.shields.io/github/forks/continuedev/continue?style=flat-square&color=blue)](https://github.com/continuedev/continue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square&color=yellow)](https://github.com/continuedev/continue/stargazers) [![Forks](https://img.shields.io/github/forks/continuedev/continue?style=flat-square&color=blue)](https://github.com/continuedev/continue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ continuedev/continue：continuedev/continue helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 83/100 |
-| integration | 78/100 |
-| production | 67/100 |
-| outlook | 76/100 |
-| adoption | 95/100 |
-| stars | 96/100 |
 | forks | 91/100 |
-| recency | 40/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 69/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 61/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

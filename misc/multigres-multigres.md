@@ -1,6 +1,6 @@
 # multigres/multigres
 
-[![Stars](https://img.shields.io/github/stars/multigres/multigres?style=flat-square&color=yellow)](https://github.com/multigres/multigres/stargazers) [![Forks](https://img.shields.io/github/forks/multigres/multigres?style=flat-square&color=blue)](https://github.com/multigres/multigres/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/multigres/multigres?style=flat-square&color=yellow)](https://github.com/multigres/multigres/stargazers) [![Forks](https://img.shields.io/github/forks/multigres/multigres?style=flat-square&color=blue)](https://github.com/multigres/multigres/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Vitess for Postgres
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Multigres is an open‑source framework that brings Vitess‑style sharding, sca
 
 ### 中文
 
-multigres/multigres：multigres/multigres may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+multigres/multigres：multigres/multigres may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ multigres/multigres：multigres/multigres may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ multigres/multigres：multigres/multigres may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 65/100 |
 | stars | 71/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

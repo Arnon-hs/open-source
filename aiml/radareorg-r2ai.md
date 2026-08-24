@@ -1,6 +1,6 @@
 # radareorg/r2ai
 
-[![Stars](https://img.shields.io/github/stars/radareorg/r2ai?style=flat-square&color=yellow)](https://github.com/radareorg/r2ai/stargazers) [![Forks](https://img.shields.io/github/forks/radareorg/r2ai?style=flat-square&color=blue)](https://github.com/radareorg/r2ai/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/radareorg/r2ai?style=flat-square&color=yellow)](https://github.com/radareorg/r2ai/stargazers) [![Forks](https://img.shields.io/github/forks/radareorg/r2ai?style=flat-square&color=blue)](https://github.com/radareorg/r2ai/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > LLM-based reversing for radare2
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 429 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | C |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ radareorg/r2ai is an open‑source extension that brings large‑language‑mode
 
 ### 中文
 
-radareorg/r2ai：radareorg/r2ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+radareorg/r2ai：radareorg/r2ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ radareorg/r2ai：radareorg/r2ai helps add AI capability without starting from a 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ radareorg/r2ai：radareorg/r2ai helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 51/100 |
-| adoption | 53/100 |
-| stars | 56/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 50/100 |
+| outlook | 44/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

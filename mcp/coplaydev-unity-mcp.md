@@ -1,6 +1,6 @@
 # CoplayDev/unity-mcp
 
-[![Stars](https://img.shields.io/github/stars/CoplayDev/unity-mcp?style=flat-square&color=yellow)](https://github.com/CoplayDev/unity-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/CoplayDev/unity-mcp?style=flat-square&color=blue)](https://github.com/CoplayDev/unity-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CoplayDev/unity-mcp?style=flat-square&color=yellow)](https://github.com/CoplayDev/unity-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/CoplayDev/unity-mcp?style=flat-square&color=blue)](https://github.com/CoplayDev/unity-mcp/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 11.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ CoplayDev/unity-mcp 的生产可用性非常高，主要原因包括：
 | forks | 77/100 |
 | stars | 86/100 |
 | topics | 100/100 |
-| outlook | 94/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 73/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 84/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # emreturkmencom/antigravity-telegram-suite
 
-[![Stars](https://img.shields.io/github/stars/emreturkmencom/antigravity-telegram-suite?style=flat-square&color=yellow)](https://github.com/emreturkmencom/antigravity-telegram-suite/stargazers) [![Forks](https://img.shields.io/github/forks/emreturkmencom/antigravity-telegram-suite?style=flat-square&color=blue)](https://github.com/emreturkmencom/antigravity-telegram-suite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emreturkmencom/antigravity-telegram-suite?style=flat-square&color=yellow)](https://github.com/emreturkmencom/antigravity-telegram-suite/stargazers) [![Forks](https://img.shields.io/github/forks/emreturkmencom/antigravity-telegram-suite?style=flat-square&color=blue)](https://github.com/emreturkmencom/antigravity-telegram-suite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Antigravity Telegram bot — remote-control your AI agent via Telegram. Chat, switch models, orchestrate multi-agent workflows, and manage workspaces from your phone.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 116 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -157,14 +157,15 @@ Antigravity Telegram Suite 是一款基于 Telegram 的远程控制机器人，�
 | forks | 37/100 |
 | stars | 44/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

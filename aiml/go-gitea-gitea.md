@@ -1,6 +1,6 @@
 # go-gitea/gitea
 
-[![Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=flat-square&color=yellow)](https://github.com/go-gitea/gitea/stargazers) [![Forks](https://img.shields.io/github/forks/go-gitea/gitea?style=flat-square&color=blue)](https://github.com/go-gitea/gitea/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=flat-square&color=yellow)](https://github.com/go-gitea/gitea/stargazers) [![Forks](https://img.shields.io/github/forks/go-gitea/gitea?style=flat-square&color=blue)](https://github.com/go-gitea/gitea/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55.4k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ go-gitea/gitea：go-gitea/gitea helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 62/100 |
+| outlook | 63/100 |
 | adoption | 99/100 |
 | stars | 100/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

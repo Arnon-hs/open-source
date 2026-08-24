@@ -1,6 +1,6 @@
 # beetbox/beets
 
-[![Stars](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&color=yellow)](https://github.com/beetbox/beets/stargazers) [![Forks](https://img.shields.io/github/forks/beetbox/beets?style=flat-square&color=blue)](https://github.com/beetbox/beets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&color=yellow)](https://github.com/beetbox/beets/stargazers) [![Forks](https://img.shields.io/github/forks/beetbox/beets?style=flat-square&color=blue)](https://github.com/beetbox/beets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > music library manager and MusicBrainz tagger
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.1k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ beetbox/beets：beetbox/beets helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 87/100 |
 | stars | 89/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

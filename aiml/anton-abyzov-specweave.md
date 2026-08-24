@@ -1,6 +1,6 @@
 # anton-abyzov/specweave
 
-[![Stars](https://img.shields.io/github/stars/anton-abyzov/specweave?style=flat-square&color=yellow)](https://github.com/anton-abyzov/specweave/stargazers) [![Forks](https://img.shields.io/github/forks/anton-abyzov/specweave?style=flat-square&color=blue)](https://github.com/anton-abyzov/specweave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anton-abyzov/specweave?style=flat-square&color=yellow)](https://github.com/anton-abyzov/specweave/stargazers) [![Forks](https://img.shields.io/github/forks/anton-abyzov/specweave?style=flat-square&color=blue)](https://github.com/anton-abyzov/specweave/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Spec-first AI development: describe a feature → AI creates spec + plan + tasks, builds autonomously, syncs to GitHub/JIRA. Domain-expert skills for PM, Architect, Frontend, QA learn your patterns permanently. Claude Code, Codex, Cursor, Copilot & more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ anton-abyzov/specweave：anton-abyzov/specweave helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 42/100 |
-| stars | 46/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

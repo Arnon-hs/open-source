@@ -1,6 +1,6 @@
 # dekkerglen/CubeCobra
 
-[![Stars](https://img.shields.io/github/stars/dekkerglen/CubeCobra?style=flat-square&color=yellow)](https://github.com/dekkerglen/CubeCobra/stargazers) [![Forks](https://img.shields.io/github/forks/dekkerglen/CubeCobra?style=flat-square&color=blue)](https://github.com/dekkerglen/CubeCobra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dekkerglen/CubeCobra?style=flat-square&color=yellow)](https://github.com/dekkerglen/CubeCobra/stargazers) [![Forks](https://img.shields.io/github/forks/dekkerglen/CubeCobra?style=flat-square&color=blue)](https://github.com/dekkerglen/CubeCobra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > An open source web application for building, managing, and playtesting Magic the Gathering cubes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 142 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
 ### English
 
-dekkerglen/CubeCobra: dekkerglen/CubeCobra helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dekkerglen/CubeCobra: dekkerglen/CubeCobra helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-dekkerglen/CubeCobra: open-source проект в категориях Frontend, DevTools. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dekkerglen/CubeCobra: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-dekkerglen/CubeCobra：dekkerglen/CubeCobra helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dekkerglen/CubeCobra：dekkerglen/CubeCobra helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dekkerglen/CubeCobra：dekkerglen/CubeCobra helps ship user-facing interfaces wi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ dekkerglen/CubeCobra：dekkerglen/CubeCobra helps ship user-facing interfaces wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
-| adoption | 52/100 |
-| stars | 51/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| stars | 51/100 |
 | topics | 38/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

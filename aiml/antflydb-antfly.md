@@ -1,6 +1,6 @@
 # antflydb/antfly
 
-[![Stars](https://img.shields.io/github/stars/antflydb/antfly?style=flat-square&color=yellow)](https://github.com/antflydb/antfly/stargazers) [![Forks](https://img.shields.io/github/forks/antflydb/antfly?style=flat-square&color=blue)](https://github.com/antflydb/antfly/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antflydb/antfly?style=flat-square&color=yellow)](https://github.com/antflydb/antfly/stargazers) [![Forks](https://img.shields.io/github/forks/antflydb/antfly?style=flat-square&color=blue)](https://github.com/antflydb/antfly/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 342 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Antfly is an open‑source AI/ML framework that provides a lightweight, modular 
 
 ### 中文
 
-antflydb/antfly：antflydb/antfly helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+antflydb/antfly：antflydb/antfly helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ antflydb/antfly：antflydb/antfly helps add AI capability without starting from 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ antflydb/antfly：antflydb/antfly helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 34/100 |
-| production | 54/100 |
-| outlook | 61/100 |
+| production | 47/100 |
+| outlook | 54/100 |
 | adoption | 49/100 |
 | stars | 54/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

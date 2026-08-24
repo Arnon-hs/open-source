@@ -1,6 +1,6 @@
 # systemd/systemd
 
-[![Stars](https://img.shields.io/github/stars/systemd/systemd?style=flat-square&color=yellow)](https://github.com/systemd/systemd/stargazers) [![Forks](https://img.shields.io/github/forks/systemd/systemd?style=flat-square&color=blue)](https://github.com/systemd/systemd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/systemd/systemd?style=flat-square&color=yellow)](https://github.com/systemd/systemd/stargazers) [![Forks](https://img.shields.io/github/forks/systemd/systemd?style=flat-square&color=blue)](https://github.com/systemd/systemd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The systemd System and Service Manager
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 4.5k |
 | 💻 **Language** | C |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ systemd 是 Linux 上的系统与服务管理器，负责启动、停止和监�
 | forks | 91/100 |
 | stars | 90/100 |
 | topics | 75/100 |
-| outlook | 83/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 90/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

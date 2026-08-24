@@ -1,6 +1,6 @@
 # amiable-dev/llm-council
 
-[![Stars](https://img.shields.io/github/stars/amiable-dev/llm-council?style=flat-square&color=yellow)](https://github.com/amiable-dev/llm-council/stargazers) [![Forks](https://img.shields.io/github/forks/amiable-dev/llm-council?style=flat-square&color=blue)](https://github.com/amiable-dev/llm-council/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amiable-dev/llm-council?style=flat-square&color=yellow)](https://github.com/amiable-dev/llm-council/stargazers) [![Forks](https://img.shields.io/github/forks/amiable-dev/llm-council?style=flat-square&color=blue)](https://github.com/amiable-dev/llm-council/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > The LLM Council works together to answer your hardest questions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ LLM Council（amiable-dev/llm-council）是一个开源框架，旨在通过统�
 | forks | 23/100 |
 | stars | 29/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 27/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

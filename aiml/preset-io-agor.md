@@ -1,6 +1,6 @@
 # preset-io/agor
 
-[![Stars](https://img.shields.io/github/stars/preset-io/agor?style=flat-square&color=yellow)](https://github.com/preset-io/agor/stargazers) [![Forks](https://img.shields.io/github/forks/preset-io/agor?style=flat-square&color=blue)](https://github.com/preset-io/agor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/preset-io/agor?style=flat-square&color=yellow)](https://github.com/preset-io/agor/stargazers) [![Forks](https://img.shields.io/github/forks/preset-io/agor?style=flat-square&color=blue)](https://github.com/preset-io/agor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 99 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ preset-io/agor — это open‑source платформа, позволяющ
 
 ### 中文
 
-preset-io/agor：preset-io/agor helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+preset-io/agor：preset-io/agor helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ preset-io/agor：preset-io/agor helps add AI capability without starting from a 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ preset-io/agor：preset-io/agor helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 48/100 |
+| outlook | 44/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

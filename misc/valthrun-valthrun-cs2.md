@@ -1,6 +1,6 @@
 # Valthrun/valthrun-cs2
 
-[![Stars](https://img.shields.io/github/stars/Valthrun/valthrun-cs2?style=flat-square&color=yellow)](https://github.com/Valthrun/valthrun-cs2/stargazers) [![Forks](https://img.shields.io/github/forks/Valthrun/valthrun-cs2?style=flat-square&color=blue)](https://github.com/Valthrun/valthrun-cs2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Valthrun/valthrun-cs2?style=flat-square&color=yellow)](https://github.com/Valthrun/valthrun-cs2/stargazers) [![Forks](https://img.shields.io/github/forks/Valthrun/valthrun-cs2?style=flat-square&color=blue)](https://github.com/Valthrun/valthrun-cs2/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Valthrun an open source external CS2 read only kernel gameplay enhancer.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 768 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Valthrun 在提供 **可靠、只读的 CS2 核心数据** 方面具有显著价
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

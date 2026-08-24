@@ -1,6 +1,6 @@
 # vedika-io/xalen-ephemeris
 
-[![Stars](https://img.shields.io/github/stars/vedika-io/xalen-ephemeris?style=flat-square&color=yellow)](https://github.com/vedika-io/xalen-ephemeris/stargazers) [![Forks](https://img.shields.io/github/forks/vedika-io/xalen-ephemeris?style=flat-square&color=blue)](https://github.com/vedika-io/xalen-ephemeris/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vedika-io/xalen-ephemeris?style=flat-square&color=yellow)](https://github.com/vedika-io/xalen-ephemeris/stargazers) [![Forks](https://img.shields.io/github/forks/vedika-io/xalen-ephemeris?style=flat-square&color=blue)](https://github.com/vedika-io/xalen-ephemeris/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Pure-Rust astronomical ephemeris for astrology — Vedic, Western, Chinese, and 9 world traditions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 131 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -92,14 +92,15 @@ vedika-io/xalen-ephemeris 的生产可用性为中等。它可以用于原型或
 | forks | 53/100 |
 | stars | 64/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # web-infra-dev/midscene
 
-[![Stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=flat-square&color=yellow)](https://github.com/web-infra-dev/midscene/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/midscene?style=flat-square&color=blue)](https://github.com/web-infra-dev/midscene/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=flat-square&color=yellow)](https://github.com/web-infra-dev/midscene/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/midscene?style=flat-square&color=blue)](https://github.com/web-infra-dev/midscene/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered, vision-driven UI automation for every platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 13k |
 | 🍴 **Forks** | 966 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools · Database
+Automation · AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ web‑infra‑dev/midscene 是一款基于 AI 与视觉识别的跨平台 UI 自
 | forks | 75/100 |
 | stars | 88/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 20/100 |
 | adoption | 84/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

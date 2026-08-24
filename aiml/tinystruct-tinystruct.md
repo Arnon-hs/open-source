@@ -1,6 +1,6 @@
 # tinystruct/tinystruct
 
-[![Stars](https://img.shields.io/github/stars/tinystruct/tinystruct?style=flat-square&color=yellow)](https://github.com/tinystruct/tinystruct/stargazers) [![Forks](https://img.shields.io/github/forks/tinystruct/tinystruct?style=flat-square&color=blue)](https://github.com/tinystruct/tinystruct/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tinystruct/tinystruct?style=flat-square&color=yellow)](https://github.com/tinystruct/tinystruct/stargazers) [![Forks](https://img.shields.io/github/forks/tinystruct/tinystruct?style=flat-square&color=blue)](https://github.com/tinystruct/tinystruct/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, modular Java application framework for web and CLI development,         designed for AI integration and plugin-based architecture.         Enabling developers to create robust solutions with ease for building efficient and scalable applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tinystruct/tinystruct：tinystruct/tinystruct helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 67/100 |
+| production | 54/100 |
+| outlook | 60/100 |
 | adoption | 50/100 |
 | stars | 54/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

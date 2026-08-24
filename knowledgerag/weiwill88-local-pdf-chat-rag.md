@@ -1,6 +1,6 @@
 # weiwill88/Local_Pdf_Chat_RAG
 
-[![Stars](https://img.shields.io/github/stars/weiwill88/Local_Pdf_Chat_RAG?style=flat-square&color=yellow)](https://github.com/weiwill88/Local_Pdf_Chat_RAG/stargazers) [![Forks](https://img.shields.io/github/forks/weiwill88/Local_Pdf_Chat_RAG?style=flat-square&color=blue)](https://github.com/weiwill88/Local_Pdf_Chat_RAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weiwill88/Local_Pdf_Chat_RAG?style=flat-square&color=yellow)](https://github.com/weiwill88/Local_Pdf_Chat_RAG/stargazers) [![Forks](https://img.shields.io/github/forks/weiwill88/Local_Pdf_Chat_RAG?style=flat-square&color=blue)](https://github.com/weiwill88/Local_Pdf_Chat_RAG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 🧠 纯原生 Python 实现的 RAG 框架 | FAISS + BM25 混合检索 | 支持 Ollama / SiliconFlow | 适合新手入门学习
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 921 |
 | 🍴 **Forks** | 173 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Design
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Overall, Local_Pdf_Chat_RAG is a strong OSS candidate for teams looking to add s
 | forks | 56/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

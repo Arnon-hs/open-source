@@ -1,6 +1,6 @@
 # appolloqin/gen-txt-to-image
 
-[![Stars](https://img.shields.io/github/stars/appolloqin/gen-txt-to-image?style=flat-square&color=yellow)](https://github.com/appolloqin/gen-txt-to-image/stargazers) [![Forks](https://img.shields.io/github/forks/appolloqin/gen-txt-to-image?style=flat-square&color=blue)](https://github.com/appolloqin/gen-txt-to-image/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appolloqin/gen-txt-to-image?style=flat-square&color=yellow)](https://github.com/appolloqin/gen-txt-to-image/stargazers) [![Forks](https://img.shields.io/github/forks/appolloqin/gen-txt-to-image?style=flat-square&color=blue)](https://github.com/appolloqin/gen-txt-to-image/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 一款文生视频应用，用于小说推文，生成漫画等视频。使用主流大模型，结合Stable Diffusion，实现文生图，图生视频本地化私有部署。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ To adopt appolloqin/gen-txt-to-image, developers can follow these steps:
 | forks | 40/100 |
 | stars | 43/100 |
 | topics | 63/100 |
-| outlook | 70/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

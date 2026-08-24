@@ -1,6 +1,6 @@
 # iOfficeAI/aionrs
 
-[![Stars](https://img.shields.io/github/stars/iOfficeAI/aionrs?style=flat-square&color=yellow)](https://github.com/iOfficeAI/aionrs/stargazers) [![Forks](https://img.shields.io/github/forks/iOfficeAI/aionrs?style=flat-square&color=blue)](https://github.com/iOfficeAI/aionrs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iOfficeAI/aionrs?style=flat-square&color=yellow)](https://github.com/iOfficeAI/aionrs/stargazers) [![Forks](https://img.shields.io/github/forks/iOfficeAI/aionrs?style=flat-square&color=blue)](https://github.com/iOfficeAI/aionrs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A multi-provider AI agent CLI with tool orchestration support
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 85 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ iOfficeAI/aionrs 是一款基于 Rust 的多供应商 AI Agent 命令行工具�
 | forks | 36/100 |
 | stars | 41/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 38/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

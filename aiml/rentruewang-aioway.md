@@ -1,6 +1,6 @@
 # rentruewang/aioway
 
-[![Stars](https://img.shields.io/github/stars/rentruewang/aioway?style=flat-square&color=yellow)](https://github.com/rentruewang/aioway/stargazers) [![Forks](https://img.shields.io/github/forks/rentruewang/aioway?style=flat-square&color=blue)](https://github.com/rentruewang/aioway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rentruewang/aioway?style=flat-square&color=yellow)](https://github.com/rentruewang/aioway/stargazers) [![Forks](https://img.shields.io/github/forks/rentruewang/aioway?style=flat-square&color=blue)](https://github.com/rentruewang/aioway/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI on the way. An RDBMS approach to deep learning. Declarative, explainable, scalable, optimizable, easy to deploy, all that good stuff.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ rentruewang/aioway：rentruewang/aioway helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 58/100 |
+| production | 53/100 |
+| outlook | 51/100 |
 | adoption | 63/100 |
 | stars | 69/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

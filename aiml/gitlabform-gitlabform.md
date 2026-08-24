@@ -1,6 +1,6 @@
 # gitlabform/gitlabform
 
-[![Stars](https://img.shields.io/github/stars/gitlabform/gitlabform?style=flat-square&color=yellow)](https://github.com/gitlabform/gitlabform/stargazers) [![Forks](https://img.shields.io/github/forks/gitlabform/gitlabform?style=flat-square&color=blue)](https://github.com/gitlabform/gitlabform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gitlabform/gitlabform?style=flat-square&color=yellow)](https://github.com/gitlabform/gitlabform/stargazers) [![Forks](https://img.shields.io/github/forks/gitlabform/gitlabform?style=flat-square&color=blue)](https://github.com/gitlabform/gitlabform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🏗 Specialized configuration as a code tool for GitLab
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ GitLabForm — это open‑source инструмент, позволяющи
 
 ### 中文
 
-gitlabform/gitlabform：gitlabform/gitlabform helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gitlabform/gitlabform：gitlabform/gitlabform helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ gitlabform/gitlabform：gitlabform/gitlabform helps add AI capability without st
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ gitlabform/gitlabform：gitlabform/gitlabform helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 50/100 |
+| outlook | 51/100 |
 | adoption | 55/100 |
 | stars | 57/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # vicanso/charts-rs
 
-[![Stars](https://img.shields.io/github/stars/vicanso/charts-rs?style=flat-square&color=yellow)](https://github.com/vicanso/charts-rs/stargazers) [![Forks](https://img.shields.io/github/forks/vicanso/charts-rs?style=flat-square&color=blue)](https://github.com/vicanso/charts-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vicanso/charts-rs?style=flat-square&color=yellow)](https://github.com/vicanso/charts-rs/stargazers) [![Forks](https://img.shields.io/github/forks/vicanso/charts-rs?style=flat-square&color=blue)](https://github.com/vicanso/charts-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A charts library for rust
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 314 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,14 +124,15 @@ vicanso/charts-rs 是一个用 Rust 编写的图表绘制库，提供常见的�
 | forks | 33/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 65/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 67/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

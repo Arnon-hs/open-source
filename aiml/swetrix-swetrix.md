@@ -1,6 +1,6 @@
 # Swetrix/swetrix
 
-[![Stars](https://img.shields.io/github/stars/Swetrix/swetrix?style=flat-square&color=yellow)](https://github.com/Swetrix/swetrix/stargazers) [![Forks](https://img.shields.io/github/forks/Swetrix/swetrix?style=flat-square&color=blue)](https://github.com/Swetrix/swetrix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Swetrix/swetrix?style=flat-square&color=yellow)](https://github.com/Swetrix/swetrix/stargazers) [![Forks](https://img.shields.io/github/forks/Swetrix/swetrix?style=flat-square&color=blue)](https://github.com/Swetrix/swetrix/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 968 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Swetrix/swetrix：Swetrix/swetrix helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 94/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 58/100 |
 | stars | 64/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

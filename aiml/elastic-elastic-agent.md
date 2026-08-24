@@ -1,6 +1,6 @@
 # elastic/elastic-agent
 
-[![Stars](https://img.shields.io/github/stars/elastic/elastic-agent?style=flat-square&color=yellow)](https://github.com/elastic/elastic-agent/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/elastic-agent?style=flat-square&color=blue)](https://github.com/elastic/elastic-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elastic/elastic-agent?style=flat-square&color=yellow)](https://github.com/elastic/elastic-agent/stargazers) [![Forks](https://img.shields.io/github/forks/elastic/elastic-agent?style=flat-square&color=blue)](https://github.com/elastic/elastic-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 253 |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Elastic Agent — это единственное открытое решен�
 
 ### 中文
 
-elastic/elastic-agent：elastic/elastic-agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+elastic/elastic-agent：elastic/elastic-agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ elastic/elastic-agent：elastic/elastic-agent helps add AI capability without st
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ elastic/elastic-agent：elastic/elastic-agent helps add AI capability without st
 - updated 2026-05-09
 - primary language: Go
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 52/100 |
+| production | 44/100 |
+| outlook | 45/100 |
 | adoption | 54/100 |
 | stars | 51/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

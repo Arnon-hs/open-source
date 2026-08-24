@@ -1,6 +1,6 @@
 # emdash-cms/emdash
 
-[![Stars](https://img.shields.io/github/stars/emdash-cms/emdash?style=flat-square&color=yellow)](https://github.com/emdash-cms/emdash/stargazers) [![Forks](https://img.shields.io/github/forks/emdash-cms/emdash?style=flat-square&color=blue)](https://github.com/emdash-cms/emdash/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emdash-cms/emdash?style=flat-square&color=yellow)](https://github.com/emdash-cms/emdash/stargazers) [![Forks](https://img.shields.io/github/forks/emdash-cms/emdash?style=flat-square&color=blue)](https://github.com/emdash-cms/emdash/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.4k |
 | 🍴 **Forks** | 908 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ emdash-cms/emdash：emdash-cms/emdash may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 82/100 |
-| stars | 85/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 50/100 |
+| outlook | 51/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

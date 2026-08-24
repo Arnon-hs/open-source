@@ -1,6 +1,6 @@
 # txpipe/pallas
 
-[![Stars](https://img.shields.io/github/stars/txpipe/pallas?style=flat-square&color=yellow)](https://github.com/txpipe/pallas/stargazers) [![Forks](https://img.shields.io/github/forks/txpipe/pallas?style=flat-square&color=blue)](https://github.com/txpipe/pallas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/txpipe/pallas?style=flat-square&color=yellow)](https://github.com/txpipe/pallas/stargazers) [![Forks](https://img.shields.io/github/forks/txpipe/pallas?style=flat-square&color=blue)](https://github.com/txpipe/pallas/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Rust-native building blocks for the Cardano blockchain ecosystem
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 199 |
 | 🍴 **Forks** | 91 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ txpipe/pallas is an open‑source Rust library that provides low‑level, high�
 
 ### 中文
 
-txpipe/pallas：txpipe/pallas helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+txpipe/pallas：txpipe/pallas helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ txpipe/pallas：txpipe/pallas helps prototype or inspect blockchain workflows wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ txpipe/pallas：txpipe/pallas helps prototype or inspect blockchain workflows wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 49/100 |
-| stars | 49/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 50/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

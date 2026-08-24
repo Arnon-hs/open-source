@@ -1,6 +1,6 @@
 # maximhq/bifrost
 
-[![Stars](https://img.shields.io/github/stars/maximhq/bifrost?style=flat-square&color=yellow)](https://github.com/maximhq/bifrost/stargazers) [![Forks](https://img.shields.io/github/forks/maximhq/bifrost?style=flat-square&color=blue)](https://github.com/maximhq/bifrost/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maximhq/bifrost?style=flat-square&color=yellow)](https://github.com/maximhq/bifrost/stargazers) [![Forks](https://img.shields.io/github/forks/maximhq/bifrost?style=flat-square&color=blue)](https://github.com/maximhq/bifrost/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 554 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ maximhq/bifrost：maximhq/bifrost helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 78/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| production | 58/100 |
+| outlook | 61/100 |
 | adoption | 75/100 |
 | stars | 78/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

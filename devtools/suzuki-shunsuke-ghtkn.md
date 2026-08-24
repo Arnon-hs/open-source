@@ -1,6 +1,6 @@
 # suzuki-shunsuke/ghtkn
 
-[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/ghtkn?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/ghtkn/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/ghtkn?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/ghtkn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suzuki-shunsuke/ghtkn?style=flat-square&color=yellow)](https://github.com/suzuki-shunsuke/ghtkn/stargazers) [![Forks](https://img.shields.io/github/forks/suzuki-shunsuke/ghtkn?style=flat-square&color=blue)](https://github.com/suzuki-shunsuke/ghtkn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A CLI to create short-lived (8 hours) GitHub App User Access Token for secure local development
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 143 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ DevTools · Security
 
 ### English
 
-suzuki-shunsuke/ghtkn: suzuki-shunsuke/ghtkn helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+suzuki-shunsuke/ghtkn: suzuki-shunsuke/ghtkn helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-suzuki-shunsuke/ghtkn: open-source проект в категориях DevTools, Security. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+suzuki-shunsuke/ghtkn: open-source проект в категориях DevTools, Security. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-suzuki-shunsuke/ghtkn：suzuki-shunsuke/ghtkn helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+suzuki-shunsuke/ghtkn：suzuki-shunsuke/ghtkn helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ suzuki-shunsuke/ghtkn：suzuki-shunsuke/ghtkn helps engineers save time in daily
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,22 +59,22 @@ suzuki-shunsuke/ghtkn：suzuki-shunsuke/ghtkn helps engineers save time in daily
 - primary language: Go
 - 4 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 49/100 |
-| adoption | 35/100 |
-| stars | 46/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 50/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # qt/qtbase
 
-[![Stars](https://img.shields.io/github/stars/qt/qtbase?style=flat-square&color=yellow)](https://github.com/qt/qtbase/stargazers) [![Forks](https://img.shields.io/github/forks/qt/qtbase?style=flat-square&color=blue)](https://github.com/qt/qtbase/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qt/qtbase?style=flat-square&color=yellow)](https://github.com/qt/qtbase/stargazers) [![Forks](https://img.shields.io/github/forks/qt/qtbase?style=flat-square&color=blue)](https://github.com/qt/qtbase/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Qt Base (Core, Gui, Widgets, Network, ...)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Qt Base — это фундаментальная часть фреймво�
 
 ### 中文
 
-qt/qtbase：qt/qtbase helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+qt/qtbase：qt/qtbase helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ qt/qtbase：qt/qtbase helps ship user-facing interfaces with less custom UI work
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ qt/qtbase：qt/qtbase helps ship user-facing interfaces with less custom UI work
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 75/100 |
 | stars | 74/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

@@ -1,0 +1,80 @@
+# f-droid/fdroiddata
+
+[![Stars](https://img.shields.io/github/stars/f-droid/fdroiddata?style=flat-square&color=yellow)](https://github.com/f-droid/fdroiddata/stargazers) [![Forks](https://img.shields.io/github/forks/f-droid/fdroiddata?style=flat-square&color=blue)](https://github.com/f-droid/fdroiddata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+
+> Data for the main F-Droid repository.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 320 |
+| 🍴 **Forks** | 97 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`android` `apps` `fdroid`
+
+## 🎯 Categories
+
+Mobile
+
+## 📝 Summary
+
+### English
+
+f-droid/fdroiddata is the official data repository for the F‑Droid app store, providing the metadata, version information, and signing keys for all open‑source Android applications that appear in the main F‑Droid repository. The project maintains structured, machine‑readable data (including app descriptions, screenshots, and build instructions) that powers the F‑Droid client and website, enabling automated updates and secure distribution of free mobile software. It serves as a key open‑source resource for developers and users seeking a curated, privacy‑respecting Android app ecosystem.
+
+### Русский
+
+Проект **f-droid/fdroiddata** содержит метаданные и файлы приложений, используемые в основном репозитории F‑Droid — открытом магазине Android‑приложений с открытым исходным кодом. Он обеспечивает автоматическую сборку и обновление каталога, предоставляя структурированные данные (описания, версии, зависимости, лицензии) для более 3000 приложений, что облегчает их поиск, проверку и распространение в мобильной экосистеме. Проект активно поддерживается сообществом и служит базой для дальнейшего анализа и разработки AI/ML‑инструментов, работающих с мобильными данными.
+
+### 中文
+
+f-droid/fdroiddata：f-droid/fdroiddata may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** f-droid/fdroiddata may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 320 GitHub stars
+- 97 forks
+- updated 2026-05-10
+- primary language: Python
+- 3 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 50/100 |
+| stars | 53/100 |
+| topics | 38/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/f-droid/fdroiddata) · [← Back to Mobile](./README.md)</sub>

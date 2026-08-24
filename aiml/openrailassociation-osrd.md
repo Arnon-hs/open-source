@@ -1,6 +1,6 @@
 # OpenRailAssociation/osrd
 
-[![Stars](https://img.shields.io/github/stars/OpenRailAssociation/osrd?style=flat-square&color=yellow)](https://github.com/OpenRailAssociation/osrd/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRailAssociation/osrd?style=flat-square&color=blue)](https://github.com/OpenRailAssociation/osrd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenRailAssociation/osrd?style=flat-square&color=yellow)](https://github.com/OpenRailAssociation/osrd/stargazers) [![Forks](https://img.shields.io/github/forks/OpenRailAssociation/osrd?style=flat-square&color=blue)](https://github.com/OpenRailAssociation/osrd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 629 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenRailAssociation/osrd — это открытая веб‑платформ
 
 ### 中文
 
-OpenRailAssociation/osrd：OpenRailAssociation/osrd helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OpenRailAssociation/osrd：OpenRailAssociation/osrd helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OpenRailAssociation/osrd：OpenRailAssociation/osrd helps add AI capability with
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ OpenRailAssociation/osrd：OpenRailAssociation/osrd helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 42/100 |
 | adoption | 56/100 |
 | stars | 60/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

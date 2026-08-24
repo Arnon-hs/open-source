@@ -1,6 +1,6 @@
 # GitTools/GitVersion
 
-[![Stars](https://img.shields.io/github/stars/GitTools/GitVersion?style=flat-square&color=yellow)](https://github.com/GitTools/GitVersion/stargazers) [![Forks](https://img.shields.io/github/forks/GitTools/GitVersion?style=flat-square&color=blue)](https://github.com/GitTools/GitVersion/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GitTools/GitVersion?style=flat-square&color=yellow)](https://github.com/GitTools/GitVersion/stargazers) [![Forks](https://img.shields.io/github/forks/GitTools/GitVersion?style=flat-square&color=blue)](https://github.com/GitTools/GitVersion/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > From git log to SemVer in no time
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 664 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ GitTools/GitVersion 是一款基于 Git 提交历史自动生成符合 Semantic 
 | forks | 71/100 |
 | stars | 74/100 |
 | topics | 63/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 73/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

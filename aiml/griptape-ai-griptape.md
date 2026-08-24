@@ -1,6 +1,6 @@
 # griptape-ai/griptape
 
-[![Stars](https://img.shields.io/github/stars/griptape-ai/griptape?style=flat-square&color=yellow)](https://github.com/griptape-ai/griptape/stargazers) [![Forks](https://img.shields.io/github/forks/griptape-ai/griptape?style=flat-square&color=blue)](https://github.com/griptape-ai/griptape/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/griptape-ai/griptape?style=flat-square&color=yellow)](https://github.com/griptape-ai/griptape/stargazers) [![Forks](https://img.shields.io/github/forks/griptape-ai/griptape?style=flat-square&color=blue)](https://github.com/griptape-ai/griptape/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 232 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ griptape-ai/griptape：griptape-ai/griptape helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 71/100 |
-| adoption | 69/100 |
-| stars | 72/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

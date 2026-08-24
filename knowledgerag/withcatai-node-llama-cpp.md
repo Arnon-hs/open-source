@@ -1,6 +1,6 @@
 # withcatai/node-llama-cpp
 
-[![Stars](https://img.shields.io/github/stars/withcatai/node-llama-cpp?style=flat-square&color=yellow)](https://github.com/withcatai/node-llama-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/withcatai/node-llama-cpp?style=flat-square&color=blue)](https://github.com/withcatai/node-llama-cpp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/withcatai/node-llama-cpp?style=flat-square&color=yellow)](https://github.com/withcatai/node-llama-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/withcatai/node-llama-cpp?style=flat-square&color=blue)](https://github.com/withcatai/node-llama-cpp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.1k |
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -89,14 +89,15 @@ withcatai/node-llama-cpp 提供了基于 llama.cpp 的 Node.js 绑定，使得�
 | forks | 58/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 78/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

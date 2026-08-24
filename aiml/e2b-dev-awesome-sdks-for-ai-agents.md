@@ -61,16 +61,16 @@ e2b-dev/awesome-sdks-for-ai-agents：e2b-dev/awesome-sdks-for-ai-agents helps ad
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 19/100 |
-| integration | 46/100 |
-| production | 32/100 |
-| outlook | 31/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 25/100 |
+| outlook | 31/100 |
+| quality | 19/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 32/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
 
 ---

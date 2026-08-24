@@ -1,6 +1,6 @@
 # nrwl/nx
 
-[![Stars](https://img.shields.io/github/stars/nrwl/nx?style=flat-square&color=yellow)](https://github.com/nrwl/nx/stargazers) [![Forks](https://img.shields.io/github/forks/nrwl/nx?style=flat-square&color=blue)](https://github.com/nrwl/nx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nrwl/nx?style=flat-square&color=yellow)](https://github.com/nrwl/nx/stargazers) [![Forks](https://img.shields.io/github/forks/nrwl/nx?style=flat-square&color=blue)](https://github.com/nrwl/nx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28.7k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nrwl/nx：nrwl/nx helps add AI capability without starting from a blank model st
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 75/100 |
+| production | 58/100 |
+| outlook | 68/100 |
 | adoption | 92/100 |
 | stars | 95/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

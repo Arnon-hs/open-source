@@ -1,6 +1,6 @@
 # Paymenter/Paymenter
 
-[![Stars](https://img.shields.io/github/stars/Paymenter/Paymenter?style=flat-square&color=yellow)](https://github.com/Paymenter/Paymenter/stargazers) [![Forks](https://img.shields.io/github/forks/Paymenter/Paymenter?style=flat-square&color=blue)](https://github.com/Paymenter/Paymenter/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Paymenter/Paymenter?style=flat-square&color=yellow)](https://github.com/Paymenter/Paymenter/stargazers) [![Forks](https://img.shields.io/github/forks/Paymenter/Paymenter?style=flat-square&color=blue)](https://github.com/Paymenter/Paymenter/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open-source webshop solution for hostings
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 369 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Payments
 
 ### English
 
-Paymenter/Paymenter: Paymenter/Paymenter helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Paymenter/Paymenter: Paymenter/Paymenter helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Paymenter/Paymenter: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Paymenter/Paymenter: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Paymenter/Paymenter：Paymenter/Paymenter helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Paymenter/Paymenter：Paymenter/Paymenter helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Paymenter/Paymenter：Paymenter/Paymenter helps integrate monetization, billing,
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Paymenter/Paymenter：Paymenter/Paymenter helps integrate monetization, billing,
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 30/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 67/100 |
-| stars | 69/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # calimero-network/core
 
-[![Stars](https://img.shields.io/github/stars/calimero-network/core?style=flat-square&color=yellow)](https://github.com/calimero-network/core/stargazers) [![Forks](https://img.shields.io/github/forks/calimero-network/core?style=flat-square&color=blue)](https://github.com/calimero-network/core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calimero-network/core?style=flat-square&color=yellow)](https://github.com/calimero-network/core/stargazers) [![Forks](https://img.shields.io/github/forks/calimero-network/core?style=flat-square&color=blue)](https://github.com/calimero-network/core/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Calimero - Peer-to-peer application platform with local-first governance, CRDT state sync, and WASM execution.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -56,22 +56,22 @@ calimero-network/core：calimero-network/core may be useful when its README and 
 - updated 2026-05-09
 - primary language: Rust
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 44/100 |
-| adoption | 45/100 |
-| stars | 47/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 47/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 40/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # assafkip/huntkit
 
-[![Stars](https://img.shields.io/github/stars/assafkip/huntkit?style=flat-square&color=yellow)](https://github.com/assafkip/huntkit/stargazers) [![Forks](https://img.shields.io/github/forks/assafkip/huntkit?style=flat-square&color=blue)](https://github.com/assafkip/huntkit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/assafkip/huntkit?style=flat-square&color=yellow)](https://github.com/assafkip/huntkit/stargazers) [![Forks](https://img.shields.io/github/forks/assafkip/huntkit?style=flat-square&color=blue)](https://github.com/assafkip/huntkit/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Investigation toolkit for Claude Code: case management, OSINT, structured analytic techniques, chain-of-custody evidence capture, and bundled threat-intel MCP servers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Backend · Security
+Orchestration · MCP · AI/ML · Security
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ assafkip/huntkit - это комплексный инструмент для р�
 | forks | 17/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

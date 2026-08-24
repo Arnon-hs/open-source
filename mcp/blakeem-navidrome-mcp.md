@@ -1,6 +1,6 @@
 # Blakeem/Navidrome-MCP
 
-[![Stars](https://img.shields.io/github/stars/Blakeem/Navidrome-MCP?style=flat-square&color=yellow)](https://github.com/Blakeem/Navidrome-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/Blakeem/Navidrome-MCP?style=flat-square&color=blue)](https://github.com/Blakeem/Navidrome-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Blakeem/Navidrome-MCP?style=flat-square&color=yellow)](https://github.com/Blakeem/Navidrome-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/Blakeem/Navidrome-MCP?style=flat-square&color=blue)](https://github.com/Blakeem/Navidrome-MCP/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Analyze listening patterns, create custom playlists, discover missing albums, discover similar artists, discover radio stations, and validate radio streams using natural language.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 66 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Blakeem/Navidrome‑MCP 是一款基于 Model Context Protocol（MCP）的�
 | forks | 17/100 |
 | stars | 39/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 60/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 40/100 |
+| recency | 20/100 |
 | adoption | 33/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

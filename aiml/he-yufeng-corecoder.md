@@ -1,6 +1,6 @@
 # he-yufeng/CoreCoder
 
-[![Stars](https://img.shields.io/github/stars/he-yufeng/CoreCoder?style=flat-square&color=yellow)](https://github.com/he-yufeng/CoreCoder/stargazers) [![Forks](https://img.shields.io/github/forks/he-yufeng/CoreCoder?style=flat-square&color=blue)](https://github.com/he-yufeng/CoreCoder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/he-yufeng/CoreCoder?style=flat-square&color=yellow)](https://github.com/he-yufeng/CoreCoder/stargazers) [![Forks](https://img.shields.io/github/forks/he-yufeng/CoreCoder?style=flat-square&color=blue)](https://github.com/he-yufeng/CoreCoder/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 675 |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ he-yufeng/CoreCoder：he-yufeng/CoreCoder helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 59/100 |
-| stars | 60/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

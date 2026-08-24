@@ -1,6 +1,6 @@
 # aliyun/alibabacloud-api-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/aliyun/alibabacloud-api-mcp-server?style=flat-square&color=yellow)](https://github.com/aliyun/alibabacloud-api-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/alibabacloud-api-mcp-server?style=flat-square&color=blue)](https://github.com/aliyun/alibabacloud-api-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aliyun/alibabacloud-api-mcp-server?style=flat-square&color=yellow)](https://github.com/aliyun/alibabacloud-api-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/aliyun/alibabacloud-api-mcp-server?style=flat-square&color=blue)](https://github.com/aliyun/alibabacloud-api-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 阿里云 MCP Server 是一个强大的云服务集成平台，通过 Model Context Protocol (MCP) 为 AI 应用提供阿里云服务的无缝集成能力。该平台支持数万个阿里云 OpenAPI，让开发者能够轻松地将阿里云的各种服务能力集成到 AI 工作流中。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -120,14 +120,15 @@ aliyun/alibabacloud-api-mcp-server — это открытая платфо�
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 55/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 40/100 |
+| recency | 40/100 |
 | adoption | 26/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

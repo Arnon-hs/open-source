@@ -1,6 +1,6 @@
 # notify-rs/notify
 
-[![Stars](https://img.shields.io/github/stars/notify-rs/notify?style=flat-square&color=yellow)](https://github.com/notify-rs/notify/stargazers) [![Forks](https://img.shields.io/github/forks/notify-rs/notify?style=flat-square&color=blue)](https://github.com/notify-rs/notify/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/notify-rs/notify?style=flat-square&color=yellow)](https://github.com/notify-rs/notify/stargazers) [![Forks](https://img.shields.io/github/forks/notify-rs/notify?style=flat-square&color=blue)](https://github.com/notify-rs/notify/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🔭 Cross-platform filesystem notification library for Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 269 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ notify‑rs/notify is a Rust library that provides cross‑platform filesystem e
 
 ### 中文
 
-notify-rs/notify：notify-rs/notify may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+notify-rs/notify：notify-rs/notify may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ notify-rs/notify：notify-rs/notify may be useful when its README and activity m
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ notify-rs/notify：notify-rs/notify may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 71/100 |
-| stars | 75/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 75/100 |
 | topics | 63/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

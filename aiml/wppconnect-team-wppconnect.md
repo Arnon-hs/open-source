@@ -1,6 +1,6 @@
 # wppconnect-team/wppconnect
 
-[![Stars](https://img.shields.io/github/stars/wppconnect-team/wppconnect?style=flat-square&color=yellow)](https://github.com/wppconnect-team/wppconnect/stargazers) [![Forks](https://img.shields.io/github/forks/wppconnect-team/wppconnect?style=flat-square&color=blue)](https://github.com/wppconnect-team/wppconnect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wppconnect-team/wppconnect?style=flat-square&color=yellow)](https://github.com/wppconnect-team/wppconnect/stargazers) [![Forks](https://img.shields.io/github/forks/wppconnect-team/wppconnect?style=flat-square&color=blue)](https://github.com/wppconnect-team/wppconnect/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 540 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wppconnect-team/wppconnect：wppconnect-team/wppconnect helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 73/100 |
 | stars | 75/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

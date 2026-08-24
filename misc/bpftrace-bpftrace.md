@@ -1,6 +1,6 @@
 # bpftrace/bpftrace
 
-[![Stars](https://img.shields.io/github/stars/bpftrace/bpftrace?style=flat-square&color=yellow)](https://github.com/bpftrace/bpftrace/stargazers) [![Forks](https://img.shields.io/github/forks/bpftrace/bpftrace?style=flat-square&color=blue)](https://github.com/bpftrace/bpftrace/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bpftrace/bpftrace?style=flat-square&color=yellow)](https://github.com/bpftrace/bpftrace/stargazers) [![Forks](https://img.shields.io/github/forks/bpftrace/bpftrace?style=flat-square&color=blue)](https://github.com/bpftrace/bpftrace/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > High-level tracing language for Linux
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ bpftrace/bpftrace：bpftrace/bpftrace may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 56/100 |
 | adoption | 83/100 |
 | stars | 85/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

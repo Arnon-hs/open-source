@@ -1,6 +1,6 @@
 # activepieces/activepieces
 
-[![Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square&color=yellow)](https://github.com/activepieces/activepieces/stargazers) [![Forks](https://img.shields.io/github/forks/activepieces/activepieces?style=flat-square&color=blue)](https://github.com/activepieces/activepieces/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=flat-square&color=yellow)](https://github.com/activepieces/activepieces/stargazers) [![Forks](https://img.shields.io/github/forks/activepieces/activepieces?style=flat-square&color=blue)](https://github.com/activepieces/activepieces/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22.1k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ activepieces/activepieces：activepieces/activepieces helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 77/100 |
+| production | 58/100 |
+| outlook | 70/100 |
 | adoption | 91/100 |
 | stars | 92/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

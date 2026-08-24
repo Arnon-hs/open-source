@@ -1,6 +1,6 @@
 # gaasher/Agent-Loop-Skills
 
-[![Stars](https://img.shields.io/github/stars/gaasher/Agent-Loop-Skills?style=flat-square&color=yellow)](https://github.com/gaasher/Agent-Loop-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/gaasher/Agent-Loop-Skills?style=flat-square&color=blue)](https://github.com/gaasher/Agent-Loop-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gaasher/Agent-Loop-Skills?style=flat-square&color=yellow)](https://github.com/gaasher/Agent-Loop-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/gaasher/Agent-Loop-Skills?style=flat-square&color=blue)](https://github.com/gaasher/Agent-Loop-Skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Loop until it's better — drop-in agentic loops (autoresearch, scientific writing, data analysis, code/SQL/prompt optimization, red-teaming) as open-standard Agent Skills. Verification-gated; native on Claude Code, portable across Codex, Cursor & other Skills hosts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Data · Education
+Orchestration · AI/ML · Data
 
 ## 📝 Summary
 
@@ -114,14 +114,15 @@ gaasher/Agent-Loop-Skills 是一套开源的“Agent Skill”库，提供可直�
 | forks | 29/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

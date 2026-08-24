@@ -1,6 +1,6 @@
 # rynfar/meridian
 
-[![Stars](https://img.shields.io/github/stars/rynfar/meridian?style=flat-square&color=yellow)](https://github.com/rynfar/meridian/stargazers) [![Forks](https://img.shields.io/github/forks/rynfar/meridian?style=flat-square&color=blue)](https://github.com/rynfar/meridian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rynfar/meridian?style=flat-square&color=yellow)](https://github.com/rynfar/meridian/stargazers) [![Forks](https://img.shields.io/github/forks/rynfar/meridian?style=flat-square&color=blue)](https://github.com/rynfar/meridian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Overall, Meridian is a high‑readiness OSS component that can be piloted quickl
 | forks | 54/100 |
 | stars | 66/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 84/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

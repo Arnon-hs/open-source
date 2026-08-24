@@ -1,6 +1,6 @@
 # mt-empty/pi-inky-weather-epd
 
-[![Stars](https://img.shields.io/github/stars/mt-empty/pi-inky-weather-epd?style=flat-square&color=yellow)](https://github.com/mt-empty/pi-inky-weather-epd/stargazers) [![Forks](https://img.shields.io/github/forks/mt-empty/pi-inky-weather-epd?style=flat-square&color=blue)](https://github.com/mt-empty/pi-inky-weather-epd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mt-empty/pi-inky-weather-epd?style=flat-square&color=yellow)](https://github.com/mt-empty/pi-inky-weather-epd/stargazers) [![Forks](https://img.shields.io/github/forks/mt-empty/pi-inky-weather-epd?style=flat-square&color=blue)](https://github.com/mt-empty/pi-inky-weather-epd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A weather dashboard for any colour E-Paper Display
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 105 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ The mt-empty/pi-inky-weather-epd is an open-source weather dashboard designed fo
 | forks | 19/100 |
 | stars | 43/100 |
 | topics | 75/100 |
-| outlook | 73/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # rust-lang/crates.io-index
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/crates.io-index?style=flat-square&color=yellow)](https://github.com/rust-lang/crates.io-index/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/crates.io-index?style=flat-square&color=blue)](https://github.com/rust-lang/crates.io-index/network) [![Language](https://img.shields.io/badge/lang-Tcl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/crates.io-index?style=flat-square&color=yellow)](https://github.com/rust-lang/crates.io-index/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/crates.io-index?style=flat-square&color=blue)](https://github.com/rust-lang/crates.io-index/network) [![Language](https://img.shields.io/badge/lang-Tcl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Registry index for crates.io
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 705 |
 | 🍴 **Forks** | 268 |
 | 💻 **Language** | Tcl |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ rust-lang/crates.io-index：rust-lang/crates.io-index may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 61/100 |
-| stars | 61/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

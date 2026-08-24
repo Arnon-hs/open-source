@@ -1,6 +1,6 @@
 # ntygod/ZhiWei
 
-[![Stars](https://img.shields.io/github/stars/ntygod/ZhiWei?style=flat-square&color=yellow)](https://github.com/ntygod/ZhiWei/stargazers) [![Forks](https://img.shields.io/github/forks/ntygod/ZhiWei?style=flat-square&color=blue)](https://github.com/ntygod/ZhiWei/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ntygod/ZhiWei?style=flat-square&color=yellow)](https://github.com/ntygod/ZhiWei/stargazers) [![Forks](https://img.shields.io/github/forks/ntygod/ZhiWei?style=flat-square&color=blue)](https://github.com/ntygod/ZhiWei/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 本地优先的个人 AI Agent 助手，支持记忆、自主任务、工具授权和工作流。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ ZhiWei（nty​god/ZhiWei）是一款本地优先的个人 AI Agent 助手，具
 | forks | 15/100 |
 | stars | 47/100 |
 | topics | 88/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 38/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

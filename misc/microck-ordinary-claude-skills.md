@@ -1,6 +1,6 @@
 # Microck/ordinary-claude-skills
 
-[![Stars](https://img.shields.io/github/stars/Microck/ordinary-claude-skills?style=flat-square&color=yellow)](https://github.com/Microck/ordinary-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Microck/ordinary-claude-skills?style=flat-square&color=blue)](https://github.com/Microck/ordinary-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Microck/ordinary-claude-skills?style=flat-square&color=yellow)](https://github.com/Microck/ordinary-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Microck/ordinary-claude-skills?style=flat-square&color=blue)](https://github.com/Microck/ordinary-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An unappealing collection of Claude Skills and resources.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Microck/ordinary-claude-skills 是一个收录了多种 Claude（Anthropic 大�
 | forks | 40/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

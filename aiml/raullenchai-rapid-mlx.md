@@ -1,6 +1,6 @@
 # raullenchai/Rapid-MLX
 
-[![Stars](https://img.shields.io/github/stars/raullenchai/Rapid-MLX?style=flat-square&color=yellow)](https://github.com/raullenchai/Rapid-MLX/stargazers) [![Forks](https://img.shields.io/github/forks/raullenchai/Rapid-MLX?style=flat-square&color=blue)](https://github.com/raullenchai/Rapid-MLX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raullenchai/Rapid-MLX?style=flat-square&color=yellow)](https://github.com/raullenchai/Rapid-MLX/stargazers) [![Forks](https://img.shields.io/github/forks/raullenchai/Rapid-MLX?style=flat-square&color=blue)](https://github.com/raullenchai/Rapid-MLX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ raullenchai/Rapid-MLX: raullenchai/Rapid-MLX helps add AI capability without sta
 
 ### Русский
 
-raullenchai/Rapid-MLX: open-source проект в категориях AI/ML, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+raullenchai/Rapid-MLX: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ raullenchai/Rapid-MLX：raullenchai/Rapid-MLX helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 65/100 |
-| adoption | 67/100 |
-| stars | 69/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

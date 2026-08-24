@@ -1,6 +1,6 @@
 # noviaidrl/copilot-tunnel-proxy
 
-[![Stars](https://img.shields.io/github/stars/noviaidrl/copilot-tunnel-proxy?style=flat-square&color=yellow)](https://github.com/noviaidrl/copilot-tunnel-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/noviaidrl/copilot-tunnel-proxy?style=flat-square&color=blue)](https://github.com/noviaidrl/copilot-tunnel-proxy/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/noviaidrl/copilot-tunnel-proxy?style=flat-square&color=yellow)](https://github.com/noviaidrl/copilot-tunnel-proxy/stargazers) [![Forks](https://img.shields.io/github/forks/noviaidrl/copilot-tunnel-proxy?style=flat-square&color=blue)](https://github.com/noviaidrl/copilot-tunnel-proxy/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Copilot as Local AI API Bridge for Claude Code 2026
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ noviaidrl/copilot-tunnel-proxy 的价值在于，它可以帮助开发者快速�
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

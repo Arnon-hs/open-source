@@ -1,6 +1,6 @@
 # PatrickJS/awesome-cursorrules
 
-[![Stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules?style=flat-square&color=yellow)](https://github.com/PatrickJS/awesome-cursorrules/stargazers) [![Forks](https://img.shields.io/github/forks/PatrickJS/awesome-cursorrules?style=flat-square&color=blue)](https://github.com/PatrickJS/awesome-cursorrules/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules?style=flat-square&color=yellow)](https://github.com/PatrickJS/awesome-cursorrules/stargazers) [![Forks](https://img.shields.io/github/forks/PatrickJS/awesome-cursorrules?style=flat-square&color=blue)](https://github.com/PatrickJS/awesome-cursorrules/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39.5k |
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ PatrickJS/awesome‑cursorrules 提供一套可直接在 Cursor AI 编辑器中�
 | forks | 88/100 |
 | stars | 98/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 72/100 |
+| recency | 20/100 |
 | adoption | 95/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

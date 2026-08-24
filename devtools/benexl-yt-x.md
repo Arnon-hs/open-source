@@ -1,6 +1,6 @@
 # Benexl/yt-x
 
-[![Stars](https://img.shields.io/github/stars/Benexl/yt-x?style=flat-square&color=yellow)](https://github.com/Benexl/yt-x/stargazers) [![Forks](https://img.shields.io/github/forks/Benexl/yt-x?style=flat-square&color=blue)](https://github.com/Benexl/yt-x/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Benexl/yt-x?style=flat-square&color=yellow)](https://github.com/Benexl/yt-x/stargazers) [![Forks](https://img.shields.io/github/forks/Benexl/yt-x?style=flat-square&color=blue)](https://github.com/Benexl/yt-x/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Browse youtube from your terminal
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ Benexl/yt-x：Benexl/yt-x helps engineers save time in daily development and rev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 62/100 |
-| stars | 68/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

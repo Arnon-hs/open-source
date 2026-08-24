@@ -1,6 +1,6 @@
 # langbot-app/LangBot
 
-[![Stars](https://img.shields.io/github/stars/langbot-app/LangBot?style=flat-square&color=yellow)](https://github.com/langbot-app/LangBot/stargazers) [![Forks](https://img.shields.io/github/forks/langbot-app/LangBot?style=flat-square&color=blue)](https://github.com/langbot-app/LangBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langbot-app/LangBot?style=flat-square&color=yellow)](https://github.com/langbot-app/LangBot/stargazers) [![Forks](https://img.shields.io/github/forks/langbot-app/LangBot?style=flat-square&color=blue)](https://github.com/langbot-app/LangBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, clawdbot / openclaw
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ langbot-app/LangBot：langbot-app/LangBot helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 86/100 |
 | stars | 89/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

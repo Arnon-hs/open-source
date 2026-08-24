@@ -1,6 +1,6 @@
 # conan-io/conan-center-index
 
-[![Stars](https://img.shields.io/github/stars/conan-io/conan-center-index?style=flat-square&color=yellow)](https://github.com/conan-io/conan-center-index/stargazers) [![Forks](https://img.shields.io/github/forks/conan-io/conan-center-index?style=flat-square&color=blue)](https://github.com/conan-io/conan-center-index/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/conan-io/conan-center-index?style=flat-square&color=yellow)](https://github.com/conan-io/conan-center-index/stargazers) [![Forks](https://img.shields.io/github/forks/conan-io/conan-center-index?style=flat-square&color=blue)](https://github.com/conan-io/conan-center-index/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Recipes for the ConanCenter repository
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ conan-io/conan-center-index 是 Conan 包管理器官方的公共仓库，收录
 | forks | 84/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
 | adoption | 71/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

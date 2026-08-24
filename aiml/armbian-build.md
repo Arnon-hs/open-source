@@ -1,6 +1,6 @@
 # armbian/build
 
-[![Stars](https://img.shields.io/github/stars/armbian/build?style=flat-square&color=yellow)](https://github.com/armbian/build/stargazers) [![Forks](https://img.shields.io/github/forks/armbian/build?style=flat-square&color=blue)](https://github.com/armbian/build/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/armbian/build?style=flat-square&color=yellow)](https://github.com/armbian/build/stargazers) [![Forks](https://img.shields.io/github/forks/armbian/build?style=flat-square&color=blue)](https://github.com/armbian/build/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ armbian/build：armbian/build helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 69/100 |
+| production | 52/100 |
+| outlook | 62/100 |
 | adoption | 81/100 |
 | stars | 79/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # web-infra-dev/rspress
 
-[![Stars](https://img.shields.io/github/stars/web-infra-dev/rspress?style=flat-square&color=yellow)](https://github.com/web-infra-dev/rspress/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/rspress?style=flat-square&color=blue)](https://github.com/web-infra-dev/rspress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web-infra-dev/rspress?style=flat-square&color=yellow)](https://github.com/web-infra-dev/rspress/stargazers) [![Forks](https://img.shields.io/github/forks/web-infra-dev/rspress?style=flat-square&color=blue)](https://github.com/web-infra-dev/rspress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🦀 A fast Rsbuild-based static site generator.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 218 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ web-infra-dev/rspress：web-infra-dev/rspress helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

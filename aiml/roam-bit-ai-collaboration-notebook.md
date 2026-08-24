@@ -1,6 +1,6 @@
 # roam-bit/ai-collaboration-notebook
 
-[![Stars](https://img.shields.io/github/stars/roam-bit/ai-collaboration-notebook?style=flat-square&color=yellow)](https://github.com/roam-bit/ai-collaboration-notebook/stargazers) [![Forks](https://img.shields.io/github/forks/roam-bit/ai-collaboration-notebook?style=flat-square&color=blue)](https://github.com/roam-bit/ai-collaboration-notebook/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/roam-bit/ai-collaboration-notebook?style=flat-square&color=yellow)](https://github.com/roam-bit/ai-collaboration-notebook/stargazers) [![Forks](https://img.shields.io/github/forks/roam-bit/ai-collaboration-notebook?style=flat-square&color=blue)](https://github.com/roam-bit/ai-collaboration-notebook/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > 让 AI 主动记错题、自我迭代的协作机制 · A framework that makes your AI reflect on its own mistakes and stop repeating them
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 126 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ roam-bit/ai-collaboration-notebook 是一个让 AI 主动记录错误、进行�
 | forks | 0/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

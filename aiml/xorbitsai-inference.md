@@ -1,6 +1,6 @@
 # xorbitsai/inference
 
-[![Stars](https://img.shields.io/github/stars/xorbitsai/inference?style=flat-square&color=yellow)](https://github.com/xorbitsai/inference/stargazers) [![Forks](https://img.shields.io/github/forks/xorbitsai/inference?style=flat-square&color=blue)](https://github.com/xorbitsai/inference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xorbitsai/inference?style=flat-square&color=yellow)](https://github.com/xorbitsai/inference/stargazers) [![Forks](https://img.shields.io/github/forks/xorbitsai/inference?style=flat-square&color=blue)](https://github.com/xorbitsai/inference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 825 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Product
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ xorbitsai/inference: xorbitsai/inference helps add AI capability without startin
 
 ### Русский
 
-xorbitsai/inference: open-source проект в категориях AI/ML, Backend, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+xorbitsai/inference: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ xorbitsai/inference：xorbitsai/inference helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 81/100 |
-| stars | 84/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

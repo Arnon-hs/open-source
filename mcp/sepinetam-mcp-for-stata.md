@@ -1,6 +1,6 @@
 # SepineTam/mcp-for-stata
 
-[![Stars](https://img.shields.io/github/stars/SepineTam/mcp-for-stata?style=flat-square&color=yellow)](https://github.com/SepineTam/mcp-for-stata/stargazers) [![Forks](https://img.shields.io/github/forks/SepineTam/mcp-for-stata?style=flat-square&color=blue)](https://github.com/SepineTam/mcp-for-stata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SepineTam/mcp-for-stata?style=flat-square&color=yellow)](https://github.com/SepineTam/mcp-for-stata/stargazers) [![Forks](https://img.shields.io/github/forks/SepineTam/mcp-for-stata?style=flat-square&color=blue)](https://github.com/SepineTam/mcp-for-stata/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Integrate Stata into your agent.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Observability
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ SepineTam/mcp‑for‑stata 为 Stata 提供 Model Context Protocol（MCP）实�
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

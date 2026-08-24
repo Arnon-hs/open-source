@@ -1,6 +1,6 @@
 # skibidiskib/ai-codex
 
-[![Stars](https://img.shields.io/github/stars/skibidiskib/ai-codex?style=flat-square&color=yellow)](https://github.com/skibidiskib/ai-codex/stargazers) [![Forks](https://img.shields.io/github/forks/skibidiskib/ai-codex?style=flat-square&color=blue)](https://github.com/skibidiskib/ai-codex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/skibidiskib/ai-codex?style=flat-square&color=yellow)](https://github.com/skibidiskib/ai-codex/stargazers) [![Forks](https://img.shields.io/github/forks/skibidiskib/ai-codex?style=flat-square&color=blue)](https://github.com/skibidiskib/ai-codex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Generate a compact codebase index for AI assistants — saves 50K+ tokens per conversation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ skibidiskib/ai‑codex 能为 AI 助手生成紧凑的代码库索引，每次�
 | forks | 35/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 47/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

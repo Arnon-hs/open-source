@@ -1,6 +1,6 @@
 # adysec/nuclei_poc
 
-[![Stars](https://img.shields.io/github/stars/adysec/nuclei_poc?style=flat-square&color=yellow)](https://github.com/adysec/nuclei_poc/stargazers) [![Forks](https://img.shields.io/github/forks/adysec/nuclei_poc?style=flat-square&color=blue)](https://github.com/adysec/nuclei_poc/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adysec/nuclei_poc?style=flat-square&color=yellow)](https://github.com/adysec/nuclei_poc/stargazers) [![Forks](https://img.shields.io/github/forks/adysec/nuclei_poc?style=flat-square&color=blue)](https://github.com/adysec/nuclei_poc/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Nuclei POC，每2小时更新 | 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现。已有41w+POC，其中3.5w+高质量POC
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 493 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -64,15 +64,15 @@ adysec/nuclei_poc：adysec/nuclei_poc helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
+| usefulness | 74/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
+| production | 52/100 |
+| outlook | 59/100 |
 | adoption | 69/100 |
 | stars | 70/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

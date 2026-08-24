@@ -1,6 +1,6 @@
 # dymensionxyz/dymension
 
-[![Stars](https://img.shields.io/github/stars/dymensionxyz/dymension?style=flat-square&color=yellow)](https://github.com/dymensionxyz/dymension/stargazers) [![Forks](https://img.shields.io/github/forks/dymensionxyz/dymension?style=flat-square&color=blue)](https://github.com/dymensionxyz/dymension/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dymensionxyz/dymension?style=flat-square&color=yellow)](https://github.com/dymensionxyz/dymension/stargazers) [![Forks](https://img.shields.io/github/forks/dymensionxyz/dymension?style=flat-square&color=blue)](https://github.com/dymensionxyz/dymension/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Dymension Hub
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 393 |
 | 🍴 **Forks** | 429 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ Dymension Hub（dymensionxyz/dymension）是一个基于 Go 实现的开源框�
 | forks | 66/100 |
 | stars | 55/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

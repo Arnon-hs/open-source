@@ -1,6 +1,6 @@
 # arduino/arduino-lint
 
-[![Stars](https://img.shields.io/github/stars/arduino/arduino-lint?style=flat-square&color=yellow)](https://github.com/arduino/arduino-lint/stargazers) [![Forks](https://img.shields.io/github/forks/arduino/arduino-lint?style=flat-square&color=blue)](https://github.com/arduino/arduino-lint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arduino/arduino-lint?style=flat-square&color=yellow)](https://github.com/arduino/arduino-lint/stargazers) [![Forks](https://img.shields.io/github/forks/arduino/arduino-lint?style=flat-square&color=blue)](https://github.com/arduino/arduino-lint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Tool to check for problems with Arduino projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Arduino‑lint — это открытый инструмент статиче
 
 ### 中文
 
-arduino/arduino-lint：arduino/arduino-lint helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+arduino/arduino-lint：arduino/arduino-lint helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ arduino/arduino-lint：arduino/arduino-lint helps ship user-facing interfaces wi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ arduino/arduino-lint：arduino/arduino-lint helps ship user-facing interfaces wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 58/100 |
+| production | 47/100 |
+| outlook | 51/100 |
 | adoption | 40/100 |
 | stars | 45/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

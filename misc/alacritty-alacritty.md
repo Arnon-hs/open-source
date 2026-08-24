@@ -1,23 +1,23 @@
 # alacritty/alacritty
 
-[![Stars](https://img.shields.io/github/stars/alacritty/alacritty?style=flat-square&color=yellow)](https://github.com/alacritty/alacritty/stargazers) [![Forks](https://img.shields.io/github/forks/alacritty/alacritty?style=flat-square&color=blue)](https://github.com/alacritty/alacritty/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-100%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alacritty/alacritty?style=flat-square&color=yellow)](https://github.com/alacritty/alacritty/stargazers) [![Forks](https://img.shields.io/github/forks/alacritty/alacritty?style=flat-square&color=blue)](https://github.com/alacritty/alacritty/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
 
-> A cross-platform, OpenGL terminal emulator.
+> Listed in awesome-rust
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 63.9k |
-| 🍴 **Forks** | 3.4k |
-| 💻 **Language** | Rust |
-| 📈 **Score** | 100/100 |
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 28/100 |
 | 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| 🔍 **Source** | awesome |
 
 ## 🏷️ Topics
 
-_no topics_
+`awesome` `rust`
 
 ## 🎯 Categories
 
@@ -25,8 +25,52 @@ Misc
 
 ## 📝 Summary
 
-Alacritty is a highly customizable, open-source terminal emulator that utilizes OpenGL for rendering, allowing for fast and efficient performance across multiple platforms. It offers advanced features and a user-friendly interface, making it a popular choice among terminal users. By leveraging OpenGL, Alacritty provides a seamless and responsive experience, even with large amounts of text.
+### English
+
+alacritty/alacritty: alacritty/alacritty may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+### Русский
+
+alacritty/alacritty: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+
+### 中文
+
+alacritty/alacritty：alacritty/alacritty may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** alacritty/alacritty may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 25/100 |
+| outlook | 25/100 |
+| quality | 19/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 30/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 70/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/alacritty/alacritty) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-08-23 · [View on GitHub](https://github.com/alacritty/alacritty) · [← Back to Misc](./README.md)</sub>

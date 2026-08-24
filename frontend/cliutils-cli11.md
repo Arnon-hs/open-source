@@ -1,6 +1,6 @@
 # CLIUtils/CLI11
 
-[![Stars](https://img.shields.io/github/stars/CLIUtils/CLI11?style=flat-square&color=yellow)](https://github.com/CLIUtils/CLI11/stargazers) [![Forks](https://img.shields.io/github/forks/CLIUtils/CLI11?style=flat-square&color=blue)](https://github.com/CLIUtils/CLI11/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CLIUtils/CLI11?style=flat-square&color=yellow)](https://github.com/CLIUtils/CLI11/stargazers) [![Forks](https://img.shields.io/github/forks/CLIUtils/CLI11?style=flat-square&color=blue)](https://github.com/CLIUtils/CLI11/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 444 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CLIUtils/CLI11：CLIUtils/CLI11 helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 74/100 |
 | stars | 77/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

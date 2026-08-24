@@ -1,6 +1,6 @@
 # backslashxx/mountify
 
-[![Stars](https://img.shields.io/github/stars/backslashxx/mountify?style=flat-square&color=yellow)](https://github.com/backslashxx/mountify/stargazers) [![Forks](https://img.shields.io/github/forks/backslashxx/mountify?style=flat-square&color=blue)](https://github.com/backslashxx/mountify/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backslashxx/mountify?style=flat-square&color=yellow)](https://github.com/backslashxx/mountify/stargazers) [![Forks](https://img.shields.io/github/forks/backslashxx/mountify?style=flat-square&color=blue)](https://github.com/backslashxx/mountify/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Globally mounted modules via OverlayFS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ Overall, Mountify offers a practical, low‑overhead way to share modules system
 | forks | 45/100 |
 | stars | 65/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

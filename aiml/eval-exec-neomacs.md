@@ -1,6 +1,6 @@
 # eval-exec/neomacs
 
-[![Stars](https://img.shields.io/github/stars/eval-exec/neomacs?style=flat-square&color=yellow)](https://github.com/eval-exec/neomacs/stargazers) [![Forks](https://img.shields.io/github/forks/eval-exec/neomacs?style=flat-square&color=blue)](https://github.com/eval-exec/neomacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eval-exec/neomacs?style=flat-square&color=yellow)](https://github.com/eval-exec/neomacs/stargazers) [![Forks](https://img.shields.io/github/forks/eval-exec/neomacs?style=flat-square&color=blue)](https://github.com/eval-exec/neomacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 707 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Neomacs is a work‑in‑progress, GPU‑accelerated reimplementation of Emacs w
 
 ### 中文
 
-eval-exec/neomacs：eval-exec/neomacs helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+eval-exec/neomacs：eval-exec/neomacs helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ eval-exec/neomacs：eval-exec/neomacs helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ eval-exec/neomacs：eval-exec/neomacs helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 47/100 |
+| outlook | 49/100 |
 | adoption | 54/100 |
 | stars | 61/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

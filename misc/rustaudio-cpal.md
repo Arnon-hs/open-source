@@ -1,6 +1,6 @@
 # RustAudio/cpal
 
-[![Stars](https://img.shields.io/github/stars/RustAudio/cpal?style=flat-square&color=yellow)](https://github.com/RustAudio/cpal/stargazers) [![Forks](https://img.shields.io/github/forks/RustAudio/cpal?style=flat-square&color=blue)](https://github.com/RustAudio/cpal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RustAudio/cpal?style=flat-square&color=yellow)](https://github.com/RustAudio/cpal/stargazers) [![Forks](https://img.shields.io/github/forks/RustAudio/cpal?style=flat-square&color=blue)](https://github.com/RustAudio/cpal/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform audio I/O library in pure Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 502 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ RustAudio/cpal — это кроссплатформенная библиот�
 
 ### 中文
 
-RustAudio/cpal：RustAudio/cpal may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+RustAudio/cpal：RustAudio/cpal may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ RustAudio/cpal：RustAudio/cpal may be useful when its README and activity match
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ RustAudio/cpal：RustAudio/cpal may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 74/100 |
-| stars | 76/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| stars | 76/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

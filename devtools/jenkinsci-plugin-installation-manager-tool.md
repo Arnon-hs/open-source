@@ -1,6 +1,6 @@
 # jenkinsci/plugin-installation-manager-tool
 
-[![Stars](https://img.shields.io/github/stars/jenkinsci/plugin-installation-manager-tool?style=flat-square&color=yellow)](https://github.com/jenkinsci/plugin-installation-manager-tool/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/plugin-installation-manager-tool?style=flat-square&color=blue)](https://github.com/jenkinsci/plugin-installation-manager-tool/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jenkinsci/plugin-installation-manager-tool?style=flat-square&color=yellow)](https://github.com/jenkinsci/plugin-installation-manager-tool/stargazers) [![Forks](https://img.shields.io/github/forks/jenkinsci/plugin-installation-manager-tool?style=flat-square&color=blue)](https://github.com/jenkinsci/plugin-installation-manager-tool/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Plugin Manager CLI tool for Jenkins
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 227 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **Jenkins Plugin Installation Manager Tool** is a command‑line utility tha
 
 ### 中文
 
-jenkinsci/plugin-installation-manager-tool：jenkinsci/plugin-installation-manager-tool helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jenkinsci/plugin-installation-manager-tool：jenkinsci/plugin-installation-manager-tool helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jenkinsci/plugin-installation-manager-tool：jenkinsci/plugin-installation-manag
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ jenkinsci/plugin-installation-manager-tool：jenkinsci/plugin-installation-manag
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 57/100 |
-| stars | 57/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 50/100 |
+| outlook | 51/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

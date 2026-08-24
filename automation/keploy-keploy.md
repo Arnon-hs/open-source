@@ -1,6 +1,6 @@
 # keploy/keploy
 
-[![Stars](https://img.shields.io/github/stars/keploy/keploy?style=flat-square&color=yellow)](https://github.com/keploy/keploy/stargazers) [![Forks](https://img.shields.io/github/forks/keploy/keploy?style=flat-square&color=blue)](https://github.com/keploy/keploy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/keploy/keploy?style=flat-square&color=yellow)](https://github.com/keploy/keploy/stargazers) [![Forks](https://img.shields.io/github/forks/keploy/keploy?style=flat-square&color=blue)](https://github.com/keploy/keploy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.7k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ keploy（keploy/keploy）是一款开源平台，能够为 API、集成和端到
 | forks | 84/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 97/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 76/100 |
+| quality | 80/100 |
+| recency | 40/100 |
 | adoption | 89/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

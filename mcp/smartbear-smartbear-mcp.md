@@ -1,6 +1,6 @@
 # SmartBear/smartbear-mcp
 
-[![Stars](https://img.shields.io/github/stars/SmartBear/smartbear-mcp?style=flat-square&color=yellow)](https://github.com/SmartBear/smartbear-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/SmartBear/smartbear-mcp?style=flat-square&color=blue)](https://github.com/SmartBear/smartbear-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SmartBear/smartbear-mcp?style=flat-square&color=yellow)](https://github.com/SmartBear/smartbear-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/SmartBear/smartbear-mcp?style=flat-square&color=blue)](https://github.com/SmartBear/smartbear-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > SmartBear's official MCP Server
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ SmartBear /smartbear-mcp 是 SmartBear 官方维护的 Model Context Proto
 | forks | 38/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 34/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

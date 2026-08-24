@@ -1,6 +1,6 @@
 # OpenAPITools/openapi-generator
 
-[![Stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=flat-square&color=yellow)](https://github.com/OpenAPITools/openapi-generator/stargazers) [![Forks](https://img.shields.io/github/forks/OpenAPITools/openapi-generator?style=flat-square&color=blue)](https://github.com/OpenAPITools/openapi-generator/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=flat-square&color=yellow)](https://github.com/OpenAPITools/openapi-generator/stargazers) [![Forks](https://img.shields.io/github/forks/OpenAPITools/openapi-generator?style=flat-square&color=blue)](https://github.com/OpenAPITools/openapi-generator/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26.2k |
 | 🍴 **Forks** | 7.5k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ OpenAPI Generator（OpenAPITools/openapi-generator）能够基于 OpenAPI (v2/
 | forks | 97/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 99/100 |
-| quality | 98/100 |
-| recency | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 20/100 |
 | adoption | 95/100 |
-| production | 87/100 |
+| production | 61/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

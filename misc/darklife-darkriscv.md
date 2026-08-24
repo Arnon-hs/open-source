@@ -1,6 +1,6 @@
 # darklife/darkriscv
 
-[![Stars](https://img.shields.io/github/stars/darklife/darkriscv?style=flat-square&color=yellow)](https://github.com/darklife/darkriscv/stargazers) [![Forks](https://img.shields.io/github/forks/darklife/darkriscv?style=flat-square&color=blue)](https://github.com/darklife/darkriscv/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/darklife/darkriscv?style=flat-square&color=yellow)](https://github.com/darklife/darkriscv/stargazers) [![Forks](https://img.shields.io/github/forks/darklife/darkriscv?style=flat-square&color=blue)](https://github.com/darklife/darkriscv/network) [![Language](https://img.shields.io/badge/lang-Verilog-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > opensouce RISC-V cpu core implemented in Verilog from scratch in one night!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 324 |
 | 💻 **Language** | Verilog |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -123,14 +123,15 @@ darklife/darkriscv 是一个 **轻量、易于上手的 RISC‑V 核**，非常�
 | forks | 63/100 |
 | stars | 72/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 70/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

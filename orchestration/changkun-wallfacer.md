@@ -1,6 +1,6 @@
 # changkun/wallfacer
 
-[![Stars](https://img.shields.io/github/stars/changkun/wallfacer?style=flat-square&color=yellow)](https://github.com/changkun/wallfacer/stargazers) [![Forks](https://img.shields.io/github/forks/changkun/wallfacer?style=flat-square&color=blue)](https://github.com/changkun/wallfacer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/changkun/wallfacer?style=flat-square&color=yellow)](https://github.com/changkun/wallfacer/stargazers) [![Forks](https://img.shields.io/github/forks/changkun/wallfacer?style=flat-square&color=blue)](https://github.com/changkun/wallfacer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Chat, specs, tasks, and code. An autonomous engineering platform. Full autonomy when you trust it. Full control when you don't.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 72 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Database
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ Overall, wallfacer offers a compelling way to formalize AI‑driven automation, 
 | forks | 25/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 36/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

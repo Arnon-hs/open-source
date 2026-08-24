@@ -1,6 +1,6 @@
 # incogbyte/iOS-reverse-engineering-claude-skill
 
-[![Stars](https://img.shields.io/github/stars/incogbyte/iOS-reverse-engineering-claude-skill?style=flat-square&color=yellow)](https://github.com/incogbyte/iOS-reverse-engineering-claude-skill/stargazers) [![Forks](https://img.shields.io/github/forks/incogbyte/iOS-reverse-engineering-claude-skill?style=flat-square&color=blue)](https://github.com/incogbyte/iOS-reverse-engineering-claude-skill/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/incogbyte/iOS-reverse-engineering-claude-skill?style=flat-square&color=yellow)](https://github.com/incogbyte/iOS-reverse-engineering-claude-skill/stargazers) [![Forks](https://img.shields.io/github/forks/incogbyte/iOS-reverse-engineering-claude-skill?style=flat-square&color=blue)](https://github.com/incogbyte/iOS-reverse-engineering-claude-skill/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill that enables Claude to extract, analyze, reverse engineer iOS apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ incogbyte/iOS-reverse-engineering-claude-skill 为 Claude 提供了「逆向 iOS
 | forks | 30/100 |
 | stars | 36/100 |
 | topics | 63/100 |
-| outlook | 71/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

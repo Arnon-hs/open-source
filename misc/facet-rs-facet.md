@@ -1,6 +1,6 @@
 # facet-rs/facet
 
-[![Stars](https://img.shields.io/github/stars/facet-rs/facet?style=flat-square&color=yellow)](https://github.com/facet-rs/facet/stargazers) [![Forks](https://img.shields.io/github/forks/facet-rs/facet?style=flat-square&color=blue)](https://github.com/facet-rs/facet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facet-rs/facet?style=flat-square&color=yellow)](https://github.com/facet-rs/facet/stargazers) [![Forks](https://img.shields.io/github/forks/facet-rs/facet?style=flat-square&color=blue)](https://github.com/facet-rs/facet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Rust reflection, serialization, deserialization, pretty printing, etc. — the last proc macro you should need
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ Facet scores high on production readiness: it has recent commits, a healthy star
 | forks | 52/100 |
 | stars | 72/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 67/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

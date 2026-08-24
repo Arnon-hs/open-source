@@ -1,6 +1,6 @@
 # iOfficeAI/OfficeCLI
 
-[![Stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=flat-square&color=yellow)](https://github.com/iOfficeAI/OfficeCLI/stargazers) [![Forks](https://img.shields.io/github/forks/iOfficeAI/OfficeCLI?style=flat-square&color=blue)](https://github.com/iOfficeAI/OfficeCLI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iOfficeAI/OfficeCLI?style=flat-square&color=yellow)](https://github.com/iOfficeAI/OfficeCLI/stargazers) [![Forks](https://img.shields.io/github/forks/iOfficeAI/OfficeCLI?style=flat-square&color=blue)](https://github.com/iOfficeAI/OfficeCLI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 230 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ iOfficeAI/OfficeCLI: iOfficeAI/OfficeCLI helps add AI capability without startin
 
 ### Русский
 
-iOfficeAI/OfficeCLI: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+iOfficeAI/OfficeCLI: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ iOfficeAI/OfficeCLI：iOfficeAI/OfficeCLI helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 70/100 |
-| stars | 74/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 74/100 |
 | topics | 75/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

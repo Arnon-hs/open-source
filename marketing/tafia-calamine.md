@@ -1,6 +1,6 @@
 # tafia/calamine
 
-[![Stars](https://img.shields.io/github/stars/tafia/calamine?style=flat-square&color=yellow)](https://github.com/tafia/calamine/stargazers) [![Forks](https://img.shields.io/github/forks/tafia/calamine?style=flat-square&color=blue)](https://github.com/tafia/calamine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tafia/calamine?style=flat-square&color=yellow)](https://github.com/tafia/calamine/stargazers) [![Forks](https://img.shields.io/github/forks/tafia/calamine?style=flat-square&color=blue)](https://github.com/tafia/calamine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 224 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Tafia / Calamine is a pure‑Rust library that reads Excel (XLSX, XLSB, XLS)
 
 ### 中文
 
-tafia/calamine：tafia/calamine may be useful when its README and activity match a concrete workflow.。适合用于Marketing。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tafia/calamine：tafia/calamine may be useful when its README and activity match a concrete workflow.。适合用于Marketing。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ tafia/calamine：tafia/calamine may be useful when its README and activity match
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ tafia/calamine：tafia/calamine may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 49/100 |
+| outlook | 51/100 |
 | adoption | 68/100 |
 | stars | 71/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

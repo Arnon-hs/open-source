@@ -1,6 +1,6 @@
 # thorsten/phpMyFAQ
 
-[![Stars](https://img.shields.io/github/stars/thorsten/phpMyFAQ?style=flat-square&color=yellow)](https://github.com/thorsten/phpMyFAQ/stargazers) [![Forks](https://img.shields.io/github/forks/thorsten/phpMyFAQ?style=flat-square&color=blue)](https://github.com/thorsten/phpMyFAQ/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thorsten/phpMyFAQ?style=flat-square&color=yellow)](https://github.com/thorsten/phpMyFAQ/stargazers) [![Forks](https://img.shields.io/github/forks/thorsten/phpMyFAQ?style=flat-square&color=blue)](https://github.com/thorsten/phpMyFAQ/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 616 |
 | 🍴 **Forks** | 263 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ thorsten/phpMyFAQ：thorsten/phpMyFAQ helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 94/100 |
-| production | 64/100 |
-| outlook | 61/100 |
+| production | 57/100 |
+| outlook | 54/100 |
 | adoption | 60/100 |
 | stars | 59/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

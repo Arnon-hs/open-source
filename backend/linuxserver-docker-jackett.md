@@ -1,6 +1,6 @@
 # linuxserver/docker-jackett
 
-[![Stars](https://img.shields.io/github/stars/linuxserver/docker-jackett?style=flat-square&color=yellow)](https://github.com/linuxserver/docker-jackett/stargazers) [![Forks](https://img.shields.io/github/forks/linuxserver/docker-jackett?style=flat-square&color=blue)](https://github.com/linuxserver/docker-jackett/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linuxserver/docker-jackett?style=flat-square&color=yellow)](https://github.com/linuxserver/docker-jackett/stargazers) [![Forks](https://img.shields.io/github/forks/linuxserver/docker-jackett?style=flat-square&color=blue)](https://github.com/linuxserver/docker-jackett/network) [![Language](https://img.shields.io/badge/lang-Dockerfile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 481 |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | Dockerfile |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ linuxserver/docker-jackett — это полностью открытый Dock
 
 ### 中文
 
-linuxserver/docker-jackett：linuxserver/docker-jackett helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+linuxserver/docker-jackett：linuxserver/docker-jackett helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ linuxserver/docker-jackett：linuxserver/docker-jackett helps teams reuse servic
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ linuxserver/docker-jackett：linuxserver/docker-jackett helps teams reuse servic
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 34/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 44/100 |
+| outlook | 41/100 |
 | adoption | 56/100 |
 | stars | 57/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

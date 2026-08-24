@@ -1,6 +1,6 @@
 # kubecost/kubecost
 
-[![Stars](https://img.shields.io/github/stars/kubecost/kubecost?style=flat-square&color=yellow)](https://github.com/kubecost/kubecost/stargazers) [![Forks](https://img.shields.io/github/forks/kubecost/kubecost?style=flat-square&color=blue)](https://github.com/kubecost/kubecost/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubecost/kubecost?style=flat-square&color=yellow)](https://github.com/kubecost/kubecost/stargazers) [![Forks](https://img.shields.io/github/forks/kubecost/kubecost?style=flat-square&color=blue)](https://github.com/kubecost/kubecost/network) [![Language](https://img.shields.io/badge/lang-Mustache-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Kubecost helm chart
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 633 |
 | 🍴 **Forks** | 434 |
 | 💻 **Language** | Mustache |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ kubecost/kubecost：kubecost/kubecost may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 61/100 |
-| stars | 60/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

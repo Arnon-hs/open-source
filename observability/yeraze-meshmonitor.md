@@ -1,6 +1,6 @@
 # Yeraze/meshmonitor
 
-[![Stars](https://img.shields.io/github/stars/Yeraze/meshmonitor?style=flat-square&color=yellow)](https://github.com/Yeraze/meshmonitor/stargazers) [![Forks](https://img.shields.io/github/forks/Yeraze/meshmonitor?style=flat-square&color=blue)](https://github.com/Yeraze/meshmonitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yeraze/meshmonitor?style=flat-square&color=yellow)](https://github.com/Yeraze/meshmonitor/stargazers) [![Forks](https://img.shields.io/github/forks/Yeraze/meshmonitor?style=flat-square&color=blue)](https://github.com/Yeraze/meshmonitor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Web tool for monitoring a Meshtastic Node Deployment over TCP/HTTP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 470 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Yeraze/meshmonitor 是一款基于 TCP/HTTP 的 Web 可视化工具，用于实�
 | forks | 44/100 |
 | stars | 57/100 |
 | topics | 13/100 |
-| outlook | 74/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

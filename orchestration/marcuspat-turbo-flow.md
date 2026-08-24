@@ -1,6 +1,6 @@
 # marcuspat/turbo-flow
 
-[![Stars](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&color=yellow)](https://github.com/marcuspat/turbo-flow/stargazers) [![Forks](https://img.shields.io/github/forks/marcuspat/turbo-flow?style=flat-square&color=blue)](https://github.com/marcuspat/turbo-flow/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcuspat/turbo-flow?style=flat-square&color=yellow)](https://github.com/marcuspat/turbo-flow/stargazers) [![Forks](https://img.shields.io/github/forks/marcuspat/turbo-flow?style=flat-square&color=blue)](https://github.com/marcuspat/turbo-flow/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced Agentic Development Environment for DevPods, GitHub Codespaces, Rackspace Spot & more. Ruflo orchestration, 215+ MCP tools, 60+ AI agents, SPARC methodology & automatic context loading. Deploy multi-agent swarms, coordinate autonomous workflows.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ marcuspat/turbo-flow 的生产可用性为中等。它适合用于原型或内�
 | forks | 41/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

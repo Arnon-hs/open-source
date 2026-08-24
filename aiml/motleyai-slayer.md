@@ -1,6 +1,6 @@
 # MotleyAI/slayer
 
-[![Stars](https://img.shields.io/github/stars/MotleyAI/slayer?style=flat-square&color=yellow)](https://github.com/MotleyAI/slayer/stargazers) [![Forks](https://img.shields.io/github/forks/MotleyAI/slayer?style=flat-square&color=blue)](https://github.com/MotleyAI/slayer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MotleyAI/slayer?style=flat-square&color=yellow)](https://github.com/MotleyAI/slayer/stargazers) [![Forks](https://img.shields.io/github/forks/MotleyAI/slayer?style=flat-square&color=blue)](https://github.com/MotleyAI/slayer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > SLayer: a lightweight semantic layer for AI agents and humans
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MotleyAI/slayer：MotleyAI/slayer helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 46/100 |
-| production | 48/100 |
-| outlook | 44/100 |
+| production | 41/100 |
+| outlook | 37/100 |
 | adoption | 30/100 |
 | stars | 35/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ag-ui-protocol/ag-ui
 
-[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&color=yellow)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&color=blue)](https://github.com/ag-ui-protocol/ag-ui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ag-ui-protocol/ag-ui?style=flat-square&color=yellow)](https://github.com/ag-ui-protocol/ag-ui/stargazers) [![Forks](https://img.shields.io/github/forks/ag-ui-protocol/ag-ui?style=flat-square&color=blue)](https://github.com/ag-ui-protocol/ag-ui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.4k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ag-ui-protocol/ag-ui：ag-ui-protocol/ag-ui helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 85/100 |
-| stars | 88/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| stars | 88/100 |
 | topics | 63/100 |
+| outlook | 59/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

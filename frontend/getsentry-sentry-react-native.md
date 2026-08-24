@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.8k |
-| 🍴 **Forks** | 360 |
+| 🍴 **Forks** | 361 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-04-21 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,68 @@
 
 ## 🎯 Categories
 
-Frontend · Mobile · Product
+Frontend · Mobile
 
 ## 📝 Summary
 
 ### English
 
-getsentry/sentry-react-native: getsentry/sentry-react-native helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Here's a brief summary and an explanation of the project's value, adoption path, and production readiness:
+
+**Summary:** getsentry/sentry-react-native is an official Sentry SDK for React Native, enabling developers to build user-facing interfaces with less custom UI work. This SDK helps streamline product UI development, improve frontend delivery, and reuse interface components. With its high production readiness, it's suitable for serious pilots.
+
+**Value Proposition:** The getsentry/sentry-react-native SDK offers several benefits, including:
+
+- **Faster UI development**: By leveraging the SDK, developers can focus on building core product features rather than spending time on custom UI work.
+- **Reusable interface components**: The SDK allows developers to reuse interface components across their application, reducing development time and improving consistency.
+- **Improved frontend delivery**: With the SDK, developers can ship user-facing interfaces more efficiently, leading to faster time-to-market and improved customer satisfaction.
+
+**Adoption Path:** To adopt getsentry/sentry-react-native, follow these steps:
+
+1. **Evaluate the SDK**: Assess the SDK's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to ensure it meets your project's requirements.
+2. **Review the codebase**: Examine the SDK's codebase to ensure it's well
 
 ### Русский
 
-getsentry/sentry-react-native: open-source проект в категориях Frontend, Mobile, Product. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Резюме:
+
+Проект getsentry/sentry-react-native - официальная библиотека Sentry для React Native, предназначенная для ускорения разработки и внедрения интерфейсов в мобильных приложениях. Он позволяет разработчикам быстро создавать пользовательские интерфейсы, сокращая время на создание визуальной части приложения. Проект готов к сериозному пилотированию в production, учитывая его высокую готовность (High) и сильные сигналы в экосистеме.
 
 ### 中文
 
-getsentry/sentry-react-native：getsentry/sentry-react-native helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Sentry SDK for React Native 简介**
+
+getsentry/sentry-react-native 是一个开源项目，提供了 Sentry SDK 的 React Native 实现。它有助于开发者快速构建产品 UI，减少自定义 UI 的工作量。
+
+**价值**
+
+该项目的价值在于，它可以帮助开发者:
+
+* 快速构建产品 UI
+* 重用界面组件
+* 提高前端交付质量
+
+**接入方式**
+
+该项目提供了以下接入方式：
+
+* API/SDK
+* CLI
+* 语言元数据
+* 焦点主题
+
+**生产可用性**
+
+该项目的生产可用性评分为高（High），因为有以下几点支持：
+
+* 最近的活动和采用率
+* 强大的生态系统信号
+* GitHub 上有 1810 个星标和 361 个分支
+* 最近更新于 2026-07-23
+* 主要语言是 TypeScript
+* 10 个相关话题
+
+总之，getsentry/sentry-react-native 是一个值得信赖的开源项目，适合用于 React Native 的 Sentry SDK 实现。
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +96,13 @@ getsentry/sentry-react-native：getsentry/sentry-react-native helps ship user-fa
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 1791 GitHub stars
-- 360 forks
-- updated 2026-04-21
+- 1810 GitHub stars
+- 361 forks
+- updated 2026-07-23
 - primary language: TypeScript
 - 10 topics
 
@@ -65,18 +112,19 @@ getsentry/sentry-react-native：getsentry/sentry-react-native helps ship user-fa
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 63/100 |
-| adoption | 68/100 |
-| stars | 69/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 71/100 |
+| recency | 40/100 |
+| adoption | 68/100 |
+| production | 61/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-21 · [View on GitHub](https://github.com/getsentry/sentry-react-native) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-23 · [View on GitHub](https://github.com/getsentry/sentry-react-native) · [← Back to Frontend](./README.md)</sub>

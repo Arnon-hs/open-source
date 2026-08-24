@@ -1,6 +1,6 @@
 # Junliu1066/vibe-coding-kit
 
-[![Stars](https://img.shields.io/github/stars/Junliu1066/vibe-coding-kit?style=flat-square&color=yellow)](https://github.com/Junliu1066/vibe-coding-kit/stargazers) [![Forks](https://img.shields.io/github/forks/Junliu1066/vibe-coding-kit?style=flat-square&color=blue)](https://github.com/Junliu1066/vibe-coding-kit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Junliu1066/vibe-coding-kit?style=flat-square&color=yellow)](https://github.com/Junliu1066/vibe-coding-kit/stargazers) [![Forks](https://img.shields.io/github/forks/Junliu1066/vibe-coding-kit?style=flat-square&color=blue)](https://github.com/Junliu1066/vibe-coding-kit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 不教你写代码,教你把"用 AI 写代码"彻底想明白 — 给非技术产品人的 vibe coding 规划工具包
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 109 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Junliu1066/vibe-coding-kit 并不是教你写代码，而是帮助非技术产�
 | forks | 0/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

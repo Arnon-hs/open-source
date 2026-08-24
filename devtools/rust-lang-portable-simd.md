@@ -1,6 +1,6 @@
 # rust-lang/portable-simd
 
-[![Stars](https://img.shields.io/github/stars/rust-lang/portable-simd?style=flat-square&color=yellow)](https://github.com/rust-lang/portable-simd/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/portable-simd?style=flat-square&color=blue)](https://github.com/rust-lang/portable-simd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-lang/portable-simd?style=flat-square&color=yellow)](https://github.com/rust-lang/portable-simd/stargazers) [![Forks](https://img.shields.io/github/forks/rust-lang/portable-simd?style=flat-square&color=blue)](https://github.com/rust-lang/portable-simd/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > The testing ground for the future of portable SIMD in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ rust-lang/portable-simd：rust-lang/portable-simd helps engineers save time in d
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

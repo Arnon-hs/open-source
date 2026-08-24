@@ -1,6 +1,6 @@
 # mason-org/mason-lspconfig.nvim
 
-[![Stars](https://img.shields.io/github/stars/mason-org/mason-lspconfig.nvim?style=flat-square&color=yellow)](https://github.com/mason-org/mason-lspconfig.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/mason-org/mason-lspconfig.nvim?style=flat-square&color=blue)](https://github.com/mason-org/mason-lspconfig.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mason-org/mason-lspconfig.nvim?style=flat-square&color=yellow)](https://github.com/mason-org/mason-lspconfig.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/mason-org/mason-lspconfig.nvim?style=flat-square&color=blue)](https://github.com/mason-org/mason-lspconfig.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 223 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -129,14 +129,15 @@ lspconfig.pyright.setup {
 | forks | 59/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

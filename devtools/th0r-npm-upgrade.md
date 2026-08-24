@@ -1,6 +1,6 @@
 # th0r/npm-upgrade
 
-[![Stars](https://img.shields.io/github/stars/th0r/npm-upgrade?style=flat-square&color=yellow)](https://github.com/th0r/npm-upgrade/stargazers) [![Forks](https://img.shields.io/github/forks/th0r/npm-upgrade?style=flat-square&color=blue)](https://github.com/th0r/npm-upgrade/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/th0r/npm-upgrade?style=flat-square&color=yellow)](https://github.com/th0r/npm-upgrade/stargazers) [![Forks](https://img.shields.io/github/forks/th0r/npm-upgrade?style=flat-square&color=blue)](https://github.com/th0r/npm-upgrade/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive CLI utility to easily update outdated NPM dependencies
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ th0r/npm‑upgrade 是一款交互式命令行工具，能够快速检测并一�
 | forks | 37/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

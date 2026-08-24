@@ -1,6 +1,6 @@
 # lukasz-madon/awesome-remote-job
 
-[![Stars](https://img.shields.io/github/stars/lukasz-madon/awesome-remote-job?style=flat-square&color=yellow)](https://github.com/lukasz-madon/awesome-remote-job/stargazers) [![Forks](https://img.shields.io/github/forks/lukasz-madon/awesome-remote-job?style=flat-square&color=blue)](https://github.com/lukasz-madon/awesome-remote-job/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lukasz-madon/awesome-remote-job?style=flat-square&color=yellow)](https://github.com/lukasz-madon/awesome-remote-job/stargazers) [![Forks](https://img.shields.io/github/forks/lukasz-madon/awesome-remote-job?style=flat-square&color=blue)](https://github.com/lukasz-madon/awesome-remote-job/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 45.6k |
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ lukasz-madon/awesome-remote-job：lukasz-madon/awesome-remote-job may be useful 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 60/100 |
-| adoption | 97/100 |
-| stars | 99/100 |
 | forks | 92/100 |
-| recency | 40/100 |
+| stars | 99/100 |
 | topics | 38/100 |
+| outlook | 53/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

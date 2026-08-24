@@ -1,6 +1,6 @@
 # olimorris/codecompanion.nvim
 
-[![Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=flat-square&color=yellow)](https://github.com/olimorris/codecompanion.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/olimorris/codecompanion.nvim?style=flat-square&color=blue)](https://github.com/olimorris/codecompanion.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/olimorris/codecompanion.nvim?style=flat-square&color=yellow)](https://github.com/olimorris/codecompanion.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/olimorris/codecompanion.nvim?style=flat-square&color=blue)](https://github.com/olimorris/codecompanion.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ AI Coding, Vim Style
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 406 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ olimorris/codecompanion.nvim：olimorris/codecompanion.nvim helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 75/100 |
-| integration | 78/100 |
-| production | 65/100 |
-| outlook | 68/100 |
-| adoption | 77/100 |
-| stars | 81/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

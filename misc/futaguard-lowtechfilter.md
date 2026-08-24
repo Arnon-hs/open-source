@@ -1,6 +1,6 @@
 # FutaGuard/LowTechFilter
 
-[![Stars](https://img.shields.io/github/stars/FutaGuard/LowTechFilter?style=flat-square&color=yellow)](https://github.com/FutaGuard/LowTechFilter/stargazers) [![Forks](https://img.shields.io/github/forks/FutaGuard/LowTechFilter?style=flat-square&color=blue)](https://github.com/FutaGuard/LowTechFilter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FutaGuard/LowTechFilter?style=flat-square&color=yellow)](https://github.com/FutaGuard/LowTechFilter/stargazers) [![Forks](https://img.shields.io/github/forks/FutaGuard/LowTechFilter?style=flat-square&color=blue)](https://github.com/FutaGuard/LowTechFilter/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 專為臺灣人設計的廣告阻擋規則 🇹🇼
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 653 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ FutaGuard/LowTechFilter 是一套专为台湾用户打造的广告拦截规则�
 | forks | 39/100 |
 | stars | 60/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

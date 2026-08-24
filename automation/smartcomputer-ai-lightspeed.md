@@ -1,6 +1,6 @@
 # smartcomputer-ai/lightspeed
 
-[![Stars](https://img.shields.io/github/stars/smartcomputer-ai/lightspeed?style=flat-square&color=yellow)](https://github.com/smartcomputer-ai/lightspeed/stargazers) [![Forks](https://img.shields.io/github/forks/smartcomputer-ai/lightspeed?style=flat-square&color=blue)](https://github.com/smartcomputer-ai/lightspeed/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smartcomputer-ai/lightspeed?style=flat-square&color=yellow)](https://github.com/smartcomputer-ai/lightspeed/stargazers) [![Forks](https://img.shields.io/github/forks/smartcomputer-ai/lightspeed?style=flat-square&color=blue)](https://github.com/smartcomputer-ai/lightspeed/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Deterministic agent harness for Temporal (in Rust)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ smartcomputer‑ai/lightspeed 是一个基于 Rust 的 Deterministic Agent 框�
 | forks | 23/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 32/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

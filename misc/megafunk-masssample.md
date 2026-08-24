@@ -1,6 +1,6 @@
 # Megafunk/MassSample
 
-[![Stars](https://img.shields.io/github/stars/Megafunk/MassSample?style=flat-square&color=yellow)](https://github.com/Megafunk/MassSample/stargazers) [![Forks](https://img.shields.io/github/forks/Megafunk/MassSample?style=flat-square&color=blue)](https://github.com/Megafunk/MassSample/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Megafunk/MassSample?style=flat-square&color=yellow)](https://github.com/Megafunk/MassSample/stargazers) [![Forks](https://img.shields.io/github/forks/Megafunk/MassSample?style=flat-square&color=blue)](https://github.com/Megafunk/MassSample/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > My understanding of Unreal Engine 5's experimental ECS plugin with a small sample project.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 167 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ Megafunk/MassSample 是一个基于 Unreal Engine 5 实验性 ECS（Mass）插
 | forks | 56/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

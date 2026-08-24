@@ -1,6 +1,6 @@
 # pingcap/tidb
 
-[![Stars](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square&color=yellow)](https://github.com/pingcap/tidb/stargazers) [![Forks](https://img.shields.io/github/forks/pingcap/tidb?style=flat-square&color=blue)](https://github.com/pingcap/tidb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square&color=yellow)](https://github.com/pingcap/tidb/stargazers) [![Forks](https://img.shields.io/github/forks/pingcap/tidb?style=flat-square&color=blue)](https://github.com/pingcap/tidb/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40.1k |
 | 🍴 **Forks** | 6.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML · Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ pingcap/tidb: pingcap/tidb helps turn isolated prompts and tools into repeatable
 
 ### Русский
 
-pingcap/tidb: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+pingcap/tidb: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, Data, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ pingcap/tidb：pingcap/tidb helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 84/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 70/100 |
-| adoption | 97/100 |
-| stars | 98/100 |
 | forks | 95/100 |
-| recency | 40/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

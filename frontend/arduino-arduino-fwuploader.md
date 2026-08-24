@@ -1,6 +1,6 @@
 # arduino/arduino-fwuploader
 
-[![Stars](https://img.shields.io/github/stars/arduino/arduino-fwuploader?style=flat-square&color=yellow)](https://github.com/arduino/arduino-fwuploader/stargazers) [![Forks](https://img.shields.io/github/forks/arduino/arduino-fwuploader?style=flat-square&color=blue)](https://github.com/arduino/arduino-fwuploader/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arduino/arduino-fwuploader?style=flat-square&color=yellow)](https://github.com/arduino/arduino-fwuploader/stargazers) [![Forks](https://img.shields.io/github/forks/arduino/arduino-fwuploader?style=flat-square&color=blue)](https://github.com/arduino/arduino-fwuploader/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A Command Line Tool made to update the firmware and/or add SSL certificates for any Arduino board equipped with WINC or NINA Wi-Fi module.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **arduino-fwuploader** is a command‑line utility that streamlines firmware
 
 ### 中文
 
-arduino/arduino-fwuploader：arduino/arduino-fwuploader helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+arduino/arduino-fwuploader：arduino/arduino-fwuploader helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ arduino/arduino-fwuploader：arduino/arduino-fwuploader helps ship user-facing i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ arduino/arduino-fwuploader：arduino/arduino-fwuploader helps ship user-facing i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 37/100 |
 | stars | 39/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

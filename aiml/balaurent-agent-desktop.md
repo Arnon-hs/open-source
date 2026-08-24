@@ -1,6 +1,6 @@
 # BaLaurent/agent-desktop
 
-[![Stars](https://img.shields.io/github/stars/BaLaurent/agent-desktop?style=flat-square&color=yellow)](https://github.com/BaLaurent/agent-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/BaLaurent/agent-desktop?style=flat-square&color=blue)](https://github.com/BaLaurent/agent-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BaLaurent/agent-desktop?style=flat-square&color=yellow)](https://github.com/BaLaurent/agent-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/BaLaurent/agent-desktop?style=flat-square&color=blue)](https://github.com/BaLaurent/agent-desktop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An highly configurable desktop client for your favourite LLM
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ BaLaurent/agent-desktop 是一款基于 TypeScript 的高度可配置桌面客�
 | forks | 19/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

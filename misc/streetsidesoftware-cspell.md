@@ -1,6 +1,6 @@
 # streetsidesoftware/cspell
 
-[![Stars](https://img.shields.io/github/stars/streetsidesoftware/cspell?style=flat-square&color=yellow)](https://github.com/streetsidesoftware/cspell/stargazers) [![Forks](https://img.shields.io/github/forks/streetsidesoftware/cspell?style=flat-square&color=blue)](https://github.com/streetsidesoftware/cspell/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/streetsidesoftware/cspell?style=flat-square&color=yellow)](https://github.com/streetsidesoftware/cspell/stargazers) [![Forks](https://img.shields.io/github/forks/streetsidesoftware/cspell?style=flat-square&color=blue)](https://github.com/streetsidesoftware/cspell/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A Spell Checker for Code!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ streetsidesoftware/cspell：streetsidesoftware/cspell may be useful when its REA
 | forks | 52/100 |
 | stars | 68/100 |
 | topics | 25/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

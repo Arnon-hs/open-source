@@ -1,6 +1,6 @@
 # iimeta/fastapi-web
 
-[![Stars](https://img.shields.io/github/stars/iimeta/fastapi-web?style=flat-square&color=yellow)](https://github.com/iimeta/fastapi-web/stargazers) [![Forks](https://img.shields.io/github/forks/iimeta/fastapi-web?style=flat-square&color=blue)](https://github.com/iimeta/fastapi-web/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iimeta/fastapi-web?style=flat-square&color=yellow)](https://github.com/iimeta/fastapi-web/stargazers) [![Forks](https://img.shields.io/github/forks/iimeta/fastapi-web?style=flat-square&color=blue)](https://github.com/iimeta/fastapi-web/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 企业级 LLM API 快速集成系统，支持OpenAI、Azure、文心一言、讯飞星火、通义千问、智谱GLM、Gemini、DeepSeek、Anthropic Claude以及OpenAI格式的模型等，简洁的页面风格，轻量高效且稳定，支持Docker一键部署。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ iimeta/fastapi-web — это корпоративная платформа д
 
 ### 中文
 
-iimeta/fastapi-web：iimeta/fastapi-web helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+iimeta/fastapi-web：iimeta/fastapi-web helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ iimeta/fastapi-web：iimeta/fastapi-web helps add AI capability without starting
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ iimeta/fastapi-web：iimeta/fastapi-web helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 54/100 |
+| production | 48/100 |
+| outlook | 47/100 |
 | adoption | 32/100 |
 | stars | 33/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

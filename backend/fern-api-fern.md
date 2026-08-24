@@ -1,6 +1,6 @@
 # fern-api/fern
 
-[![Stars](https://img.shields.io/github/stars/fern-api/fern?style=flat-square&color=yellow)](https://github.com/fern-api/fern/stargazers) [![Forks](https://img.shields.io/github/forks/fern-api/fern?style=flat-square&color=blue)](https://github.com/fern-api/fern/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fern-api/fern?style=flat-square&color=yellow)](https://github.com/fern-api/fern/stargazers) [![Forks](https://img.shields.io/github/forks/fern-api/fern?style=flat-square&color=blue)](https://github.com/fern-api/fern/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Input OpenAPI. Output SDKs and Docs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 308 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ fern-api/fern：fern-api/fern helps teams reuse service infrastructure instead o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 78/100 |
-| production | 62/100 |
-| outlook | 63/100 |
-| adoption | 72/100 |
-| stars | 76/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 76/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

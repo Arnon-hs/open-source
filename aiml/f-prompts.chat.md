@@ -1,6 +1,6 @@
 # f/prompts.chat
 
-[![Stars](https://img.shields.io/github/stars/f/prompts.chat?style=flat-square&color=yellow)](https://github.com/f/prompts.chat/stargazers) [![Forks](https://img.shields.io/github/forks/f/prompts.chat?style=flat-square&color=blue)](https://github.com/f/prompts.chat/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/f/prompts.chat?style=flat-square&color=yellow)](https://github.com/f/prompts.chat/stargazers) [![Forks](https://img.shields.io/github/forks/f/prompts.chat?style=flat-square&color=blue)](https://github.com/f/prompts.chat/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 161.8k |
 | 🍴 **Forks** | 21.1k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ f/prompts.chat：f/prompts.chat helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 85/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 67/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

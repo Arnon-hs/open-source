@@ -1,6 +1,6 @@
 # dataelement/bisheng
 
-[![Stars](https://img.shields.io/github/stars/dataelement/bisheng?style=flat-square&color=yellow)](https://github.com/dataelement/bisheng/stargazers) [![Forks](https://img.shields.io/github/forks/dataelement/bisheng?style=flat-square&color=blue)](https://github.com/dataelement/bisheng/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dataelement/bisheng?style=flat-square&color=yellow)](https://github.com/dataelement/bisheng/stargazers) [![Forks](https://img.shields.io/github/forks/dataelement/bisheng?style=flat-square&color=blue)](https://github.com/dataelement/bisheng/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.3k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dataelement/bisheng: dataelement/bisheng helps turn isolated prompts and tools i
 
 ### Русский
 
-dataelement/bisheng: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dataelement/bisheng: open-source проект в категориях Orchestration, Knowledge/RAG, Automation, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dataelement/bisheng：dataelement/bisheng helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 78/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 73/100 |
-| adoption | 85/100 |
-| stars | 86/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 86/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

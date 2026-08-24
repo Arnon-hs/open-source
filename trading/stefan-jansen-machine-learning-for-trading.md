@@ -1,6 +1,6 @@
 # stefan-jansen/machine-learning-for-trading
 
-[![Stars](https://img.shields.io/github/stars/stefan-jansen/machine-learning-for-trading?style=flat-square&color=yellow)](https://github.com/stefan-jansen/machine-learning-for-trading/stargazers) [![Forks](https://img.shields.io/github/forks/stefan-jansen/machine-learning-for-trading?style=flat-square&color=blue)](https://github.com/stefan-jansen/machine-learning-for-trading/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stefan-jansen/machine-learning-for-trading?style=flat-square&color=yellow)](https://github.com/stefan-jansen/machine-learning-for-trading/stargazers) [![Forks](https://img.shields.io/github/forks/stefan-jansen/machine-learning-for-trading?style=flat-square&color=blue)](https://github.com/stefan-jansen/machine-learning-for-trading/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19.2k |
 | 🍴 **Forks** | 5.3k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Automation · AI/ML · DevTools · Data
+Trading · Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ The repository scores high on production readiness: it shows recent activity (la
 | forks | 93/100 |
 | stars | 91/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 92/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

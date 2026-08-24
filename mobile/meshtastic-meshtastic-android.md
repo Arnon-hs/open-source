@@ -1,6 +1,6 @@
 # meshtastic/Meshtastic-Android
 
-[![Stars](https://img.shields.io/github/stars/meshtastic/Meshtastic-Android?style=flat-square&color=yellow)](https://github.com/meshtastic/Meshtastic-Android/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/Meshtastic-Android?style=flat-square&color=blue)](https://github.com/meshtastic/Meshtastic-Android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meshtastic/Meshtastic-Android?style=flat-square&color=yellow)](https://github.com/meshtastic/Meshtastic-Android/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/Meshtastic-Android?style=flat-square&color=blue)](https://github.com/meshtastic/Meshtastic-Android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Android application for Meshtastic
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 456 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Meshtastic‑Android 是一款开源的 Android 客户端，能够直接与 Mesh
 | forks | 66/100 |
 | stars | 68/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 68/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

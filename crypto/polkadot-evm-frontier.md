@@ -1,6 +1,6 @@
 # polkadot-evm/frontier
 
-[![Stars](https://img.shields.io/github/stars/polkadot-evm/frontier?style=flat-square&color=yellow)](https://github.com/polkadot-evm/frontier/stargazers) [![Forks](https://img.shields.io/github/forks/polkadot-evm/frontier?style=flat-square&color=blue)](https://github.com/polkadot-evm/frontier/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/polkadot-evm/frontier?style=flat-square&color=yellow)](https://github.com/polkadot-evm/frontier/stargazers) [![Forks](https://img.shields.io/github/forks/polkadot-evm/frontier?style=flat-square&color=blue)](https://github.com/polkadot-evm/frontier/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Ethereum and EVM compatibility layer for Polkadot and Substrate.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 617 |
 | 🍴 **Forks** | 547 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ polkadot-evm/frontier — это открытый модуль, реализу
 
 ### 中文
 
-polkadot-evm/frontier：polkadot-evm/frontier helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+polkadot-evm/frontier：polkadot-evm/frontier helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ polkadot-evm/frontier：polkadot-evm/frontier helps prototype or inspect blockch
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ polkadot-evm/frontier：polkadot-evm/frontier helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 62/100 |
-| stars | 59/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

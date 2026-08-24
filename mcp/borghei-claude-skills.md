@@ -1,6 +1,6 @@
 # borghei/Claude-Skills
 
-[![Stars](https://img.shields.io/github/stars/borghei/Claude-Skills?style=flat-square&color=yellow)](https://github.com/borghei/Claude-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/borghei/Claude-Skills?style=flat-square&color=blue)](https://github.com/borghei/Claude-Skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/borghei/Claude-Skills?style=flat-square&color=yellow)](https://github.com/borghei/Claude-Skills/stargazers) [![Forks](https://img.shields.io/github/forks/borghei/Claude-Skills?style=flat-square&color=blue)](https://github.com/borghei/Claude-Skills/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > 339 AI skills across 17 domains. PM is the deepest (66 skills - discovery, execution, strategy frameworks, GTM, Jira/Linear/Notion). Plus engineering, marketing, C-level (CAIO/CDO/CCO/GC/VPE), compliance + audit-prep, research, vertical advisors, workflow meta-skills. 76 expert agents, 774 stdlib Python tools. Installs on 11 AI assistants.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 317 |
 | 🍴 **Forks** | 60 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ The practical adoption path for borghei/Claude-Skills involves several steps:
 | forks | 45/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

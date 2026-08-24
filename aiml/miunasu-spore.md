@@ -1,6 +1,6 @@
 # miunasu/Spore
 
-[![Stars](https://img.shields.io/github/stars/miunasu/Spore?style=flat-square&color=yellow)](https://github.com/miunasu/Spore/stargazers) [![Forks](https://img.shields.io/github/forks/miunasu/Spore?style=flat-square&color=blue)](https://github.com/miunasu/Spore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miunasu/Spore?style=flat-square&color=yellow)](https://github.com/miunasu/Spore/stargazers) [![Forks](https://img.shields.io/github/forks/miunasu/Spore?style=flat-square&color=blue)](https://github.com/miunasu/Spore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 具有现代GUI的透明可控的 AI Agent | 在主机上完成任何任务
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 43 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ Spore（miunasu/Spore）是一款拥有现代化图形界面的透明可控 AI A
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 37/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

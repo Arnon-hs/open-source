@@ -1,6 +1,6 @@
 # LinkSheet/LinkSheet
 
-[![Stars](https://img.shields.io/github/stars/LinkSheet/LinkSheet?style=flat-square&color=yellow)](https://github.com/LinkSheet/LinkSheet/stargazers) [![Forks](https://img.shields.io/github/forks/LinkSheet/LinkSheet?style=flat-square&color=blue)](https://github.com/LinkSheet/LinkSheet/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LinkSheet/LinkSheet?style=flat-square&color=yellow)](https://github.com/LinkSheet/LinkSheet/stargazers) [![Forks](https://img.shields.io/github/forks/LinkSheet/LinkSheet?style=flat-square&color=blue)](https://github.com/LinkSheet/LinkSheet/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Link handling for modern Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ LinkSheet 是一个基于 Kotlin 的 Android 库，用于统一、可定制地�
 | forks | 42/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # bergside/awesome-design-skills
 
-[![Stars](https://img.shields.io/github/stars/bergside/awesome-design-skills?style=flat-square&color=yellow)](https://github.com/bergside/awesome-design-skills/stargazers) [![Forks](https://img.shields.io/github/forks/bergside/awesome-design-skills?style=flat-square&color=blue)](https://github.com/bergside/awesome-design-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bergside/awesome-design-skills?style=flat-square&color=yellow)](https://github.com/bergside/awesome-design-skills/stargazers) [![Forks](https://img.shields.io/github/forks/bergside/awesome-design-skills?style=flat-square&color=blue)](https://github.com/bergside/awesome-design-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 127 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ bergside/awesome-design-skills 收录了 67 份针对 Claude Design、Google S
 | forks | 53/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

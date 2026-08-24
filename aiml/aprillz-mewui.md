@@ -1,6 +1,6 @@
 # aprillz/MewUI
 
-[![Stars](https://img.shields.io/github/stars/aprillz/MewUI?style=flat-square&color=yellow)](https://github.com/aprillz/MewUI/stargazers) [![Forks](https://img.shields.io/github/forks/aprillz/MewUI?style=flat-square&color=blue)](https://github.com/aprillz/MewUI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aprillz/MewUI?style=flat-square&color=yellow)](https://github.com/aprillz/MewUI/stargazers) [![Forks](https://img.shields.io/github/forks/aprillz/MewUI?style=flat-square&color=blue)](https://github.com/aprillz/MewUI/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform and lightweight, code-first .NET GUI framework aimed at NativeAOT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 380 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MewUI — кросс‑платформенный, лёгкий GUI‑фрей
 
 ### 中文
 
-aprillz/MewUI：aprillz/MewUI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+aprillz/MewUI：aprillz/MewUI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aprillz/MewUI：aprillz/MewUI helps add AI capability without starting from a bl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ aprillz/MewUI：aprillz/MewUI helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 58/100 |
+| production | 47/100 |
+| outlook | 51/100 |
 | adoption | 50/100 |
 | stars | 55/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

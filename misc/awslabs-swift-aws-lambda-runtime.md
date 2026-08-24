@@ -1,6 +1,6 @@
 # awslabs/swift-aws-lambda-runtime
 
-[![Stars](https://img.shields.io/github/stars/awslabs/swift-aws-lambda-runtime?style=flat-square&color=yellow)](https://github.com/awslabs/swift-aws-lambda-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/swift-aws-lambda-runtime?style=flat-square&color=blue)](https://github.com/awslabs/swift-aws-lambda-runtime/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/awslabs/swift-aws-lambda-runtime?style=flat-square&color=yellow)](https://github.com/awslabs/swift-aws-lambda-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/awslabs/swift-aws-lambda-runtime?style=flat-square&color=blue)](https://github.com/awslabs/swift-aws-lambda-runtime/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Swift implementation of AWS Lambda Runtime
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -124,14 +124,15 @@ awslabs/swift-aws-lambda-runtime 是 AWS 官方实验室提供的 Swift 语言�
 | forks | 52/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

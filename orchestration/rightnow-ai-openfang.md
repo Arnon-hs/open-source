@@ -1,6 +1,6 @@
 # RightNow-AI/openfang
 
-[![Stars](https://img.shields.io/github/stars/RightNow-AI/openfang?style=flat-square&color=yellow)](https://github.com/RightNow-AI/openfang/stargazers) [![Forks](https://img.shields.io/github/forks/RightNow-AI/openfang?style=flat-square&color=blue)](https://github.com/RightNow-AI/openfang/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RightNow-AI/openfang?style=flat-square&color=yellow)](https://github.com/RightNow-AI/openfang/stargazers) [![Forks](https://img.shields.io/github/forks/RightNow-AI/openfang?style=flat-square&color=blue)](https://github.com/RightNow-AI/openfang/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Agent Operating System
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.5k |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ RightNow‑AI/openfang 是一个基于 Rust 的开源 Agent Operating System，�
 | forks | 84/100 |
 | stars | 90/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 75/100 |
+| recency | 20/100 |
 | adoption | 88/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

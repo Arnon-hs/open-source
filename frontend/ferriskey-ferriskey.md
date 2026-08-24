@@ -1,6 +1,6 @@
 # ferriskey/ferriskey
 
-[![Stars](https://img.shields.io/github/stars/ferriskey/ferriskey?style=flat-square&color=yellow)](https://github.com/ferriskey/ferriskey/stargazers) [![Forks](https://img.shields.io/github/forks/ferriskey/ferriskey?style=flat-square&color=blue)](https://github.com/ferriskey/ferriskey/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ferriskey/ferriskey?style=flat-square&color=yellow)](https://github.com/ferriskey/ferriskey/stargazers) [![Forks](https://img.shields.io/github/forks/ferriskey/ferriskey?style=flat-square&color=blue)](https://github.com/ferriskey/ferriskey/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > FerrisKey is an open-source IAM solution designed for modern cloud-native environments, high-performance and written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 589 |
 | 🍴 **Forks** | 75 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Security · Design
+Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ferriskey/ferriskey：ferriskey/ferriskey helps ship user-facing interfaces with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 56/100 |
-| stars | 59/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

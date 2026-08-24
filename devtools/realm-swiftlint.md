@@ -1,6 +1,6 @@
 # realm/SwiftLint
 
-[![Stars](https://img.shields.io/github/stars/realm/SwiftLint?style=flat-square&color=yellow)](https://github.com/realm/SwiftLint/stargazers) [![Forks](https://img.shields.io/github/forks/realm/SwiftLint?style=flat-square&color=blue)](https://github.com/realm/SwiftLint/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/realm/SwiftLint?style=flat-square&color=yellow)](https://github.com/realm/SwiftLint/stargazers) [![Forks](https://img.shields.io/github/forks/realm/SwiftLint?style=flat-square&color=blue)](https://github.com/realm/SwiftLint/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A tool to enforce Swift style and conventions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19.6k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ realm/SwiftLint：realm/SwiftLint helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 65/100 |
+| production | 52/100 |
+| outlook | 58/100 |
 | adoption | 89/100 |
 | stars | 91/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

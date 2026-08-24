@@ -1,6 +1,6 @@
 # GyulyVGC/sniffnet
 
-[![Stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=flat-square&color=yellow)](https://github.com/GyulyVGC/sniffnet/stargazers) [![Forks](https://img.shields.io/github/forks/GyulyVGC/sniffnet?style=flat-square&color=blue)](https://github.com/GyulyVGC/sniffnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=flat-square&color=yellow)](https://github.com/GyulyVGC/sniffnet/stargazers) [![Forks](https://img.shields.io/github/forks/GyulyVGC/sniffnet?style=flat-square&color=blue)](https://github.com/GyulyVGC/sniffnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Comfortably monitor your Internet traffic 🕵️‍♂️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37.3k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ GyulyVGC/sniffnet：GyulyVGC/sniffnet helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 72/100 |
+| production | 54/100 |
+| outlook | 65/100 |
 | adoption | 92/100 |
 | stars | 97/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

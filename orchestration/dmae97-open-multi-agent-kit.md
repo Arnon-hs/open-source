@@ -1,6 +1,6 @@
 # dmae97/open-multi-agent-kit
 
-[![Stars](https://img.shields.io/github/stars/dmae97/open-multi-agent-kit?style=flat-square&color=yellow)](https://github.com/dmae97/open-multi-agent-kit/stargazers) [![Forks](https://img.shields.io/github/forks/dmae97/open-multi-agent-kit?style=flat-square&color=blue)](https://github.com/dmae97/open-multi-agent-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dmae97/open-multi-agent-kit?style=flat-square&color=yellow)](https://github.com/dmae97/open-multi-agent-kit/stargazers) [![Forks](https://img.shields.io/github/forks/dmae97/open-multi-agent-kit?style=flat-square&color=blue)](https://github.com/dmae97/open-multi-agent-kit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-gated runner for Codex, Claude Code, OpenCode, and local coding agents. Routes tasks into scoped DAG lanes with replayable artifacts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ dmae97/open-multi-agent-kit 是一个基于证据门控（evidence‑gated）的
 | forks | 28/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

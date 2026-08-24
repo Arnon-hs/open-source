@@ -1,6 +1,6 @@
 # AMythicDev/minus
 
-[![Stars](https://img.shields.io/github/stars/AMythicDev/minus?style=flat-square&color=yellow)](https://github.com/AMythicDev/minus/stargazers) [![Forks](https://img.shields.io/github/forks/AMythicDev/minus?style=flat-square&color=blue)](https://github.com/AMythicDev/minus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AMythicDev/minus?style=flat-square&color=yellow)](https://github.com/AMythicDev/minus/stargazers) [![Forks](https://img.shields.io/github/forks/AMythicDev/minus?style=flat-square&color=blue)](https://github.com/AMythicDev/minus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > An asynchronous, runtime data feedable terminal paging library for Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AMythicDev/minus — это асинхронная библиотека для
 
 ### 中文
 
-AMythicDev/minus：AMythicDev/minus helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AMythicDev/minus：AMythicDev/minus helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AMythicDev/minus：AMythicDev/minus helps ship user-facing interfaces with less 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ AMythicDev/minus：AMythicDev/minus helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 44/100 |
+| outlook | 43/100 |
 | adoption | 50/100 |
 | stars | 55/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

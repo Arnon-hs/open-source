@@ -1,6 +1,6 @@
 # udecode/plate
 
-[![Stars](https://img.shields.io/github/stars/udecode/plate?style=flat-square&color=yellow)](https://github.com/udecode/plate/stargazers) [![Forks](https://img.shields.io/github/forks/udecode/plate?style=flat-square&color=blue)](https://github.com/udecode/plate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/udecode/plate?style=flat-square&color=yellow)](https://github.com/udecode/plate/stargazers) [![Forks](https://img.shields.io/github/forks/udecode/plate?style=flat-square&color=blue)](https://github.com/udecode/plate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Rich-text editor with AI and shadcn/ui
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 16.4k |
 | 🍴 **Forks** | 986 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ The production readiness of udecode/plate is high
 | forks | 75/100 |
 | stars | 90/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 77/100 |
+| recency | 40/100 |
 | adoption | 86/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

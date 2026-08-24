@@ -1,6 +1,6 @@
 # Justsenger/ExHyperV
 
-[![Stars](https://img.shields.io/github/stars/Justsenger/ExHyperV?style=flat-square&color=yellow)](https://github.com/Justsenger/ExHyperV/stargazers) [![Forks](https://img.shields.io/github/forks/Justsenger/ExHyperV?style=flat-square&color=blue)](https://github.com/Justsenger/ExHyperV/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Justsenger/ExHyperV?style=flat-square&color=yellow)](https://github.com/Justsenger/ExHyperV/stargazers) [![Forks](https://img.shields.io/github/forks/Justsenger/ExHyperV?style=flat-square&color=blue)](https://github.com/Justsenger/ExHyperV/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The Excalibur of Hyper-V / Hyper-V 神器
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 187 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Justsenger/ExHyperV — это открытый проект, представ
 
 ### 中文
 
-Justsenger/ExHyperV：Justsenger/ExHyperV may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Justsenger/ExHyperV：Justsenger/ExHyperV may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Justsenger/ExHyperV：Justsenger/ExHyperV may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ Justsenger/ExHyperV：Justsenger/ExHyperV may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 71/100 |
-| stars | 76/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 76/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # fla-org/flash-linear-attention
 
-[![Stars](https://img.shields.io/github/stars/fla-org/flash-linear-attention?style=flat-square&color=yellow)](https://github.com/fla-org/flash-linear-attention/stargazers) [![Forks](https://img.shields.io/github/forks/fla-org/flash-linear-attention?style=flat-square&color=blue)](https://github.com/fla-org/flash-linear-attention/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fla-org/flash-linear-attention?style=flat-square&color=yellow)](https://github.com/fla-org/flash-linear-attention/stargazers) [![Forks](https://img.shields.io/github/forks/fla-org/flash-linear-attention?style=flat-square&color=blue)](https://github.com/fla-org/flash-linear-attention/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Efficient implementations for emerging model architectures
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 521 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ fla-org/flash-linear-attention：fla-org/flash-linear-attention may be useful wh
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 76/100 |
-| stars | 79/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| stars | 79/100 |
 | topics | 50/100 |
+| outlook | 49/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

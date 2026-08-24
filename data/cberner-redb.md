@@ -1,6 +1,6 @@
 # cberner/redb
 
-[![Stars](https://img.shields.io/github/stars/cberner/redb?style=flat-square&color=yellow)](https://github.com/cberner/redb/stargazers) [![Forks](https://img.shields.io/github/forks/cberner/redb?style=flat-square&color=blue)](https://github.com/cberner/redb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cberner/redb?style=flat-square&color=yellow)](https://github.com/cberner/redb/stargazers) [![Forks](https://img.shields.io/github/forks/cberner/redb?style=flat-square&color=blue)](https://github.com/cberner/redb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > An embedded key-value database in pure Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Redb is a lightweight, embedded key-value database written in Rust, making it an
 
 ### 中文
 
-cberner/redb：cberner/redb helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+cberner/redb：cberner/redb helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ cberner/redb：cberner/redb helps convert raw data into searchable, analyzable, 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ cberner/redb：cberner/redb helps convert raw data into searchable, analyzable, 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 72/100 |
 | stars | 78/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 13/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # 1596941391qq/ai-openclaw-skeletons
 
-[![Stars](https://img.shields.io/github/stars/1596941391qq/ai-openclaw-skeletons?style=flat-square&color=yellow)](https://github.com/1596941391qq/ai-openclaw-skeletons/stargazers) [![Forks](https://img.shields.io/github/forks/1596941391qq/ai-openclaw-skeletons?style=flat-square&color=blue)](https://github.com/1596941391qq/ai-openclaw-skeletons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1596941391qq/ai-openclaw-skeletons?style=flat-square&color=yellow)](https://github.com/1596941391qq/ai-openclaw-skeletons/stargazers) [![Forks](https://img.shields.io/github/forks/1596941391qq/ai-openclaw-skeletons?style=flat-square&color=blue)](https://github.com/1596941391qq/ai-openclaw-skeletons/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Pluggable digital employee skeleton system for AI agents. Not a toy, not a demo — production-grade 24/7 infrastructure with Packs, Bundles, Orchestrators, Contracts, and Hooks. | 面向 AI Agent 的可插拔数字员工骨架系统
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 70 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ The **ai-openclaw-skeletons** project provides a production‑grade, plug‑in f
 
 ### 中文
 
-1596941391qq/ai-openclaw-skeletons：1596941391qq/ai-openclaw-skeletons helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+1596941391qq/ai-openclaw-skeletons：1596941391qq/ai-openclaw-skeletons helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ The **ai-openclaw-skeletons** project provides a production‑grade, plug‑in f
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ The **ai-openclaw-skeletons** project provides a production‑grade, plug‑in f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 33/100 |
-| stars | 39/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| stars | 39/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 46/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

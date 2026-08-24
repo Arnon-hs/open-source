@@ -1,6 +1,6 @@
 # joyfullservice/msaccess-vcs-addin
 
-[![Stars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style=flat-square&color=yellow)](https://github.com/joyfullservice/msaccess-vcs-addin/stargazers) [![Forks](https://img.shields.io/github/forks/joyfullservice/msaccess-vcs-addin?style=flat-square&color=blue)](https://github.com/joyfullservice/msaccess-vcs-addin/network) [![Language](https://img.shields.io/badge/lang-VBA-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joyfullservice/msaccess-vcs-addin?style=flat-square&color=yellow)](https://github.com/joyfullservice/msaccess-vcs-addin/stargazers) [![Forks](https://img.shields.io/github/forks/joyfullservice/msaccess-vcs-addin?style=flat-square&color=blue)](https://github.com/joyfullservice/msaccess-vcs-addin/network) [![Language](https://img.shields.io/badge/lang-VBA-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Synchronize your Access Forms, Macros, Modules, Queries, Reports, and more with a version control system.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 337 |
 | 🍴 **Forks** | 69 |
 | 💻 **Language** | VBA |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Frontend · DevTools · Data · Database
+Automation · DevTools · Database
 
 ## 📝 Summary
 
@@ -94,14 +94,15 @@ joyfullservice/msaccess-vcs-addin 的生产可用性为中等。它适用于原�
 | forks | 46/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

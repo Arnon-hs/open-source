@@ -1,6 +1,6 @@
 # loulanyue/dream-xi-ai
 
-[![Stars](https://img.shields.io/github/stars/loulanyue/dream-xi-ai?style=flat-square&color=yellow)](https://github.com/loulanyue/dream-xi-ai/stargazers) [![Forks](https://img.shields.io/github/forks/loulanyue/dream-xi-ai?style=flat-square&color=blue)](https://github.com/loulanyue/dream-xi-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/loulanyue/dream-xi-ai?style=flat-square&color=yellow)](https://github.com/loulanyue/dream-xi-ai/stargazers) [![Forks](https://img.shields.io/github/forks/loulanyue/dream-xi-ai?style=flat-square&color=blue)](https://github.com/loulanyue/dream-xi-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Dream XI AI turns isolated AI agents into a World Cup-level dream team.Dream XI AI 是一个面向复杂任务执行的 Multi-Agent 协作平台，借鉴足球“梦之队”阵型理念，将不同能力的 AI Agent 抽象为队长、组织核心、前锋、后卫、门将等角色，实现任务规划、工具执行、结果评审、风险拦截和最终交付的协同闭环。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 77 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -119,14 +119,15 @@ Dream XI AI 将孤立的 AI Prompt 与工具封装成类似世界杯梦之�
 | forks | 28/100 |
 | stars | 40/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 42/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

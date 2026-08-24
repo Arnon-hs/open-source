@@ -1,6 +1,6 @@
 # cadence-workflow/cadence
 
-[![Stars](https://img.shields.io/github/stars/cadence-workflow/cadence?style=flat-square&color=yellow)](https://github.com/cadence-workflow/cadence/stargazers) [![Forks](https://img.shields.io/github/forks/cadence-workflow/cadence?style=flat-square&color=blue)](https://github.com/cadence-workflow/cadence/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cadence-workflow/cadence?style=flat-square&color=yellow)](https://github.com/cadence-workflow/cadence/stargazers) [![Forks](https://img.shields.io/github/forks/cadence-workflow/cadence?style=flat-square&color=blue)](https://github.com/cadence-workflow/cadence/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 896 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ cadence-workflow/cadence: cadence-workflow/cadence helps turn isolated prompts a
 
 ### Русский
 
-cadence-workflow/cadence: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+cadence-workflow/cadence: open-source проект в категориях Orchestration, Automation. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ cadence-workflow/cadence：cadence-workflow/cadence helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 77/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 69/100 |
-| adoption | 81/100 |
-| stars | 84/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

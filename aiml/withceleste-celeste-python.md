@@ -1,6 +1,6 @@
 # withceleste/celeste-python
 
-[![Stars](https://img.shields.io/github/stars/withceleste/celeste-python?style=flat-square&color=yellow)](https://github.com/withceleste/celeste-python/stargazers) [![Forks](https://img.shields.io/github/forks/withceleste/celeste-python?style=flat-square&color=blue)](https://github.com/withceleste/celeste-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/withceleste/celeste-python?style=flat-square&color=yellow)](https://github.com/withceleste/celeste-python/stargazers) [![Forks](https://img.shields.io/github/forks/withceleste/celeste-python?style=flat-square&color=blue)](https://github.com/withceleste/celeste-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, type-safe primitives for multi-modal AI. All modelities, all providers, one interface 🌟
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 217 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ withceleste/celeste-python 是一套开源、类型安全的多模态 AI 基元�
 | forks | 35/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

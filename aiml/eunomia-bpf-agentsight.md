@@ -1,6 +1,6 @@
 # eunomia-bpf/agentsight
 
-[![Stars](https://img.shields.io/github/stars/eunomia-bpf/agentsight?style=flat-square&color=yellow)](https://github.com/eunomia-bpf/agentsight/stargazers) [![Forks](https://img.shields.io/github/forks/eunomia-bpf/agentsight?style=flat-square&color=blue)](https://github.com/eunomia-bpf/agentsight/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eunomia-bpf/agentsight?style=flat-square&color=yellow)](https://github.com/eunomia-bpf/agentsight/stargazers) [![Forks](https://img.shields.io/github/forks/eunomia-bpf/agentsight?style=flat-square&color=blue)](https://github.com/eunomia-bpf/agentsight/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Zero instrucment system-level AI agent tracing in eBPF
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 466 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ agentsight 为想在现有系统上快速实验 AI 功能的团队提供了“�
 | forks | 46/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

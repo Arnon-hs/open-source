@@ -1,6 +1,6 @@
 # ros-navigation/navigation2
 
-[![Stars](https://img.shields.io/github/stars/ros-navigation/navigation2?style=flat-square&color=yellow)](https://github.com/ros-navigation/navigation2/stargazers) [![Forks](https://img.shields.io/github/forks/ros-navigation/navigation2?style=flat-square&color=blue)](https://github.com/ros-navigation/navigation2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ros-navigation/navigation2?style=flat-square&color=yellow)](https://github.com/ros-navigation/navigation2/stargazers) [![Forks](https://img.shields.io/github/forks/ros-navigation/navigation2?style=flat-square&color=blue)](https://github.com/ros-navigation/navigation2/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ROS 2 Navigation Framework and System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **ros-navigation/navigation2** repository provides the ROS 2 Navigation St
 
 ### 中文
 
-ros-navigation/navigation2：ros-navigation/navigation2 may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ros-navigation/navigation2：ros-navigation/navigation2 may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ros-navigation/navigation2：ros-navigation/navigation2 may be useful when its R
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ ros-navigation/navigation2：ros-navigation/navigation2 may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 78/100 |
-| stars | 77/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 77/100 |
 | topics | 38/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # PrivateBin/PrivateBin
 
-[![Stars](https://img.shields.io/github/stars/PrivateBin/PrivateBin?style=flat-square&color=yellow)](https://github.com/PrivateBin/PrivateBin/stargazers) [![Forks](https://img.shields.io/github/forks/PrivateBin/PrivateBin?style=flat-square&color=blue)](https://github.com/PrivateBin/PrivateBin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrivateBin/PrivateBin?style=flat-square&color=yellow)](https://github.com/PrivateBin/PrivateBin/stargazers) [![Forks](https://img.shields.io/github/forks/PrivateBin/PrivateBin?style=flat-square&color=blue)](https://github.com/PrivateBin/PrivateBin/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.3k |
 | 🍴 **Forks** | 983 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Backend · Data
+Crypto · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ PrivateBin/PrivateBin: PrivateBin/PrivateBin helps prototype or inspect blockcha
 
 ### Русский
 
-PrivateBin/PrivateBin: open-source проект в категориях Crypto, Backend, Data. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+PrivateBin/PrivateBin: open-source проект в категориях Crypto, Security. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ PrivateBin/PrivateBin：PrivateBin/PrivateBin helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 81/100 |
-| stars | 83/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

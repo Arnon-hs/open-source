@@ -1,6 +1,6 @@
 # officecli/officecli
 
-[![Stars](https://img.shields.io/github/stars/officecli/officecli?style=flat-square&color=yellow)](https://github.com/officecli/officecli/stargazers) [![Forks](https://img.shields.io/github/forks/officecli/officecli?style=flat-square&color=blue)](https://github.com/officecli/officecli/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/officecli/officecli?style=flat-square&color=yellow)](https://github.com/officecli/officecli/stargazers) [![Forks](https://img.shields.io/github/forks/officecli/officecli?style=flat-square&color=blue)](https://github.com/officecli/officecli/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skills for Claude Code and Codex to create PPTX, DOCX, XLSX, and report workflows with OfficeCLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ officecli 是一个基于 Claude Code 与 Codex 的 AI Agent 技能集合，�
 | forks | 12/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 47/100 |
+| recency | 20/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

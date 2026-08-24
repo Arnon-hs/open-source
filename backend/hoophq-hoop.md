@@ -1,6 +1,6 @@
 # hoophq/hoop
 
-[![Stars](https://img.shields.io/github/stars/hoophq/hoop?style=flat-square&color=yellow)](https://github.com/hoophq/hoop/stargazers) [![Forks](https://img.shields.io/github/forks/hoophq/hoop?style=flat-square&color=blue)](https://github.com/hoophq/hoop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoophq/hoop?style=flat-square&color=yellow)](https://github.com/hoophq/hoop/stargazers) [![Forks](https://img.shields.io/github/forks/hoophq/hoop?style=flat-square&color=blue)](https://github.com/hoophq/hoop/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Automated Access and Data Protection
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 685 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Hoop is an open‑source platform that automates secure access management and da
 
 ### 中文
 
-hoophq/hoop：hoophq/hoop helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hoophq/hoop：hoophq/hoop helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hoophq/hoop：hoophq/hoop helps teams reuse service infrastructure instead of re
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hoophq/hoop：hoophq/hoop helps teams reuse service infrastructure instead of re
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 55/100 |
 | stars | 60/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

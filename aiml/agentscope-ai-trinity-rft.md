@@ -1,6 +1,6 @@
 # agentscope-ai/Trinity-RFT
 
-[![Stars](https://img.shields.io/github/stars/agentscope-ai/Trinity-RFT?style=flat-square&color=yellow)](https://github.com/agentscope-ai/Trinity-RFT/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/Trinity-RFT?style=flat-square&color=blue)](https://github.com/agentscope-ai/Trinity-RFT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentscope-ai/Trinity-RFT?style=flat-square&color=yellow)](https://github.com/agentscope-ai/Trinity-RFT/stargazers) [![Forks](https://img.shields.io/github/forks/agentscope-ai/Trinity-RFT?style=flat-square&color=blue)](https://github.com/agentscope-ai/Trinity-RFT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Trinity-RFT is a general-purpose, flexible and scalable framework designed for reinforcement fine-tuning (RFT) of large language models (LLM).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 623 |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Trinity‑RFT is an open‑source, general‑purpose framework that streamlines 
 
 ### 中文
 
-agentscope-ai/Trinity-RFT：agentscope-ai/Trinity-RFT helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+agentscope-ai/Trinity-RFT：agentscope-ai/Trinity-RFT helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ agentscope-ai/Trinity-RFT：agentscope-ai/Trinity-RFT helps add AI capability wi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ agentscope-ai/Trinity-RFT：agentscope-ai/Trinity-RFT helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 56/100 |
-| adoption | 56/100 |
-| stars | 59/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 38/100 |
+| outlook | 49/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

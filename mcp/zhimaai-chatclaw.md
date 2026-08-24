@@ -1,6 +1,6 @@
 # zhimaAi/ChatClaw
 
-[![Stars](https://img.shields.io/github/stars/zhimaAi/ChatClaw?style=flat-square&color=yellow)](https://github.com/zhimaAi/ChatClaw/stargazers) [![Forks](https://img.shields.io/github/forks/zhimaAi/ChatClaw?style=flat-square&color=blue)](https://github.com/zhimaAi/ChatClaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhimaAi/ChatClaw?style=flat-square&color=yellow)](https://github.com/zhimaAi/ChatClaw/stargazers) [![Forks](https://img.shields.io/github/forks/zhimaAi/ChatClaw?style=flat-square&color=blue)](https://github.com/zhimaAi/ChatClaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > ChatClaw: Get OpenClaw-like knowledge base personal AI agent in 5 mins. Sandbox-secured, ultra-small 30MB installer for macOS & Windows (install in 1 min). Connects to WhatsApp, Telegram, Slack, Discord, Gmail, DingTalk, WeChat Work, QQ, Feishu. Built-in Skill Market, Knowledge Base, Memory, MCP, Scheduled Tasks. Developed in Go ,run
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 54 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Frontend
+MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ ChatClaw 是一款基于 OpenClaw 思想的个人知识库 AI 代理，只需 5 
 | forks | 44/100 |
 | stars | 52/100 |
 | topics | 63/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

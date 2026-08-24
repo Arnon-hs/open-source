@@ -1,6 +1,6 @@
 # fallow-rs/fallow
 
-[![Stars](https://img.shields.io/github/stars/fallow-rs/fallow?style=flat-square&color=yellow)](https://github.com/fallow-rs/fallow/stargazers) [![Forks](https://img.shields.io/github/forks/fallow-rs/fallow?style=flat-square&color=blue)](https://github.com/fallow-rs/fallow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fallow-rs/fallow?style=flat-square&color=yellow)](https://github.com/fallow-rs/fallow/stargazers) [![Forks](https://img.shields.io/github/forks/fallow-rs/fallow?style=flat-square&color=blue)](https://github.com/fallow-rs/fallow/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, 90 framework plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ fallow-rs/fallow：fallow-rs/fallow helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 63/100 |
 | stars | 71/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

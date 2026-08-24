@@ -1,6 +1,6 @@
 # SWI-Prolog/swipl-devel
 
-[![Stars](https://img.shields.io/github/stars/SWI-Prolog/swipl-devel?style=flat-square&color=yellow)](https://github.com/SWI-Prolog/swipl-devel/stargazers) [![Forks](https://img.shields.io/github/forks/SWI-Prolog/swipl-devel?style=flat-square&color=blue)](https://github.com/SWI-Prolog/swipl-devel/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SWI-Prolog/swipl-devel?style=flat-square&color=yellow)](https://github.com/SWI-Prolog/swipl-devel/stargazers) [![Forks](https://img.shields.io/github/forks/SWI-Prolog/swipl-devel?style=flat-square&color=blue)](https://github.com/SWI-Prolog/swipl-devel/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > SWI-Prolog Main development repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 208 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SWI‑Prolog — это мощный открытый интерпретато
 
 ### 中文
 
-SWI-Prolog/swipl-devel：SWI-Prolog/swipl-devel helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SWI-Prolog/swipl-devel：SWI-Prolog/swipl-devel helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SWI-Prolog/swipl-devel：SWI-Prolog/swipl-devel helps add AI capability without 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ SWI-Prolog/swipl-devel：SWI-Prolog/swipl-devel helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 46/100 |
+| outlook | 45/100 |
 | adoption | 64/100 |
 | stars | 66/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

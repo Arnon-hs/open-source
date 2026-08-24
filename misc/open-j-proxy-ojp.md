@@ -1,6 +1,6 @@
 # Open-J-Proxy/ojp
 
-[![Stars](https://img.shields.io/github/stars/Open-J-Proxy/ojp?style=flat-square&color=yellow)](https://github.com/Open-J-Proxy/ojp/stargazers) [![Forks](https://img.shields.io/github/forks/Open-J-Proxy/ojp?style=flat-square&color=blue)](https://github.com/Open-J-Proxy/ojp/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Open-J-Proxy/ojp?style=flat-square&color=yellow)](https://github.com/Open-J-Proxy/ojp/stargazers) [![Forks](https://img.shields.io/github/forks/Open-J-Proxy/ojp?style=flat-square&color=blue)](https://github.com/Open-J-Proxy/ojp/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 210 |
 | 🍴 **Forks** | 41 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -56,22 +56,22 @@ Open-J-Proxy/ojp：Open-J-Proxy/ojp may be useful when its README and activity m
 - updated 2026-05-09
 - primary language: Java
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 46/100 |
-| integration | 18/100 |
-| production | 46/100 |
-| outlook | 44/100 |
-| adoption | 47/100 |
-| stars | 49/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 39/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

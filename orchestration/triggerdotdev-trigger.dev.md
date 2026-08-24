@@ -1,6 +1,6 @@
 # triggerdotdev/trigger.dev
 
-[![Stars](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square&color=yellow)](https://github.com/triggerdotdev/trigger.dev/stargazers) [![Forks](https://img.shields.io/github/forks/triggerdotdev/trigger.dev?style=flat-square&color=blue)](https://github.com/triggerdotdev/trigger.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=flat-square&color=yellow)](https://github.com/triggerdotdev/trigger.dev/stargazers) [![Forks](https://img.shields.io/github/forks/triggerdotdev/trigger.dev?style=flat-square&color=blue)](https://github.com/triggerdotdev/trigger.dev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Trigger.dev – build and deploy fully‑managed AI agents and workflows
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.8k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ triggerdotdev/trigger.dev: triggerdotdev/trigger.dev helps turn isolated prompts
 
 ### Русский
 
-triggerdotdev/trigger.dev: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+triggerdotdev/trigger.dev: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ triggerdotdev/trigger.dev：triggerdotdev/trigger.dev helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 78/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 75/100 |
-| adoption | 85/100 |
-| stars | 89/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

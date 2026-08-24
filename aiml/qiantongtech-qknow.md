@@ -1,6 +1,6 @@
 # qiantongtech/qKnow
 
-[![Stars](https://img.shields.io/github/stars/qiantongtech/qKnow?style=flat-square&color=yellow)](https://github.com/qiantongtech/qKnow/stargazers) [![Forks](https://img.shields.io/github/forks/qiantongtech/qKnow?style=flat-square&color=blue)](https://github.com/qiantongtech/qKnow/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/qiantongtech/qKnow?style=flat-square&color=yellow)](https://github.com/qiantongtech/qKnow/stargazers) [![Forks](https://img.shields.io/github/forks/qiantongtech/qKnow?style=flat-square&color=blue)](https://github.com/qiantongtech/qKnow/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > qKnow is an open-source knowledge platform built around Knowledge Graphs, offering capabilities for knowledge extraction, knowledge fusion, graph construction, and visualization. It helps enterprises and organizations build structured, queryable, and inferable knowledge systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 218 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ qKnow — открытая платформа для построения и �
 
 ### 中文
 
-qiantongtech/qKnow：qiantongtech/qKnow helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+qiantongtech/qKnow：qiantongtech/qKnow helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ qiantongtech/qKnow：qiantongtech/qKnow helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ qiantongtech/qKnow：qiantongtech/qKnow helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
+| production | 45/100 |
+| outlook | 47/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

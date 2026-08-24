@@ -1,6 +1,6 @@
 # quantgirluk/aleatory
 
-[![Stars](https://img.shields.io/github/stars/quantgirluk/aleatory?style=flat-square&color=yellow)](https://github.com/quantgirluk/aleatory/stargazers) [![Forks](https://img.shields.io/github/forks/quantgirluk/aleatory?style=flat-square&color=blue)](https://github.com/quantgirluk/aleatory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quantgirluk/aleatory?style=flat-square&color=yellow)](https://github.com/quantgirluk/aleatory/stargazers) [![Forks](https://img.shields.io/github/forks/quantgirluk/aleatory?style=flat-square&color=blue)](https://github.com/quantgirluk/aleatory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 📦 Python library for Stochastic Processes Simulation and Visualisation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 365 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Trading · Data
 
 ### 中文
 
-quantgirluk/aleatory：quantgirluk/aleatory helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+quantgirluk/aleatory：quantgirluk/aleatory helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ quantgirluk/aleatory：quantgirluk/aleatory helps research and automate market w
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ quantgirluk/aleatory：quantgirluk/aleatory helps research and automate market w
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 49/100 |
+| outlook | 48/100 |
 | adoption | 50/100 |
 | stars | 55/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

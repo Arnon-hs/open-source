@@ -1,6 +1,6 @@
 # psinetron/echoes-vault-opencode
 
-[![Stars](https://img.shields.io/github/stars/psinetron/echoes-vault-opencode?style=flat-square&color=yellow)](https://github.com/psinetron/echoes-vault-opencode/stargazers) [![Forks](https://img.shields.io/github/forks/psinetron/echoes-vault-opencode?style=flat-square&color=blue)](https://github.com/psinetron/echoes-vault-opencode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/psinetron/echoes-vault-opencode?style=flat-square&color=yellow)](https://github.com/psinetron/echoes-vault-opencode/stargazers) [![Forks](https://img.shields.io/github/forks/psinetron/echoes-vault-opencode?style=flat-square&color=blue)](https://github.com/psinetron/echoes-vault-opencode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory plugin for OpenCode. Obsidian-style knowledge base that survives across sessions
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ psinetron/echoes-vault-opencode 是一款面向 OpenCode 的持久化记忆插�
 | forks | 12/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

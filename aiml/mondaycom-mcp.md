@@ -1,6 +1,6 @@
 # mondaycom/mcp
 
-[![Stars](https://img.shields.io/github/stars/mondaycom/mcp?style=flat-square&color=yellow)](https://github.com/mondaycom/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mondaycom/mcp?style=flat-square&color=blue)](https://github.com/mondaycom/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mondaycom/mcp?style=flat-square&color=yellow)](https://github.com/mondaycom/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/mondaycom/mcp?style=flat-square&color=blue)](https://github.com/mondaycom/mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Enable AI agents to work reliably - giving them secure access to structured data, tools to take action, and the context needed to make smart decisions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 401 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mondaycom / mcp is an open‑source framework that equips AI agents with sec
 
 ### 中文
 
-mondaycom/mcp：mondaycom/mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mondaycom/mcp：mondaycom/mcp helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mondaycom/mcp：mondaycom/mcp helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ mondaycom/mcp：mondaycom/mcp helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 61/100 |
+| production | 50/100 |
+| outlook | 54/100 |
 | adoption | 53/100 |
 | stars | 55/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

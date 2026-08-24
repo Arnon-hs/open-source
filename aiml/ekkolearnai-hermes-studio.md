@@ -1,6 +1,6 @@
 # EKKOLearnAI/hermes-studio
 
-[![Stars](https://img.shields.io/github/stars/EKKOLearnAI/hermes-studio?style=flat-square&color=yellow)](https://github.com/EKKOLearnAI/hermes-studio/stargazers) [![Forks](https://img.shields.io/github/forks/EKKOLearnAI/hermes-studio?style=flat-square&color=blue)](https://github.com/EKKOLearnAI/hermes-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EKKOLearnAI/hermes-studio?style=flat-square&color=yellow)](https://github.com/EKKOLearnAI/hermes-studio/stargazers) [![Forks](https://img.shields.io/github/forks/EKKOLearnAI/hermes-studio?style=flat-square&color=blue)](https://github.com/EKKOLearnAI/hermes-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.2k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Database · Education
+AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ EKKOLearnAI/hermes‑studio 是一个基于 Web 的仪表盘，用于管理 Herm
 | forks | 75/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

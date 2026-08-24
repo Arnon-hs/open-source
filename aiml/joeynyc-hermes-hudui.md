@@ -1,6 +1,6 @@
 # joeynyc/hermes-hudui
 
-[![Stars](https://img.shields.io/github/stars/joeynyc/hermes-hudui?style=flat-square&color=yellow)](https://github.com/joeynyc/hermes-hudui/stargazers) [![Forks](https://img.shields.io/github/forks/joeynyc/hermes-hudui?style=flat-square&color=blue)](https://github.com/joeynyc/hermes-hudui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joeynyc/hermes-hudui?style=flat-square&color=yellow)](https://github.com/joeynyc/hermes-hudui/stargazers) [![Forks](https://img.shields.io/github/forks/joeynyc/hermes-hudui?style=flat-square&color=blue)](https://github.com/joeynyc/hermes-hudui/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Web UI consciousness monitor for Hermes — the AI agent with persistent memory
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 168 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ joeynyc/hermes-hudui is an open‑source web interface that visualizes the inter
 
 ### 中文
 
-joeynyc/hermes-hudui：joeynyc/hermes-hudui helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+joeynyc/hermes-hudui：joeynyc/hermes-hudui helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ joeynyc/hermes-hudui：joeynyc/hermes-hudui helps add AI capability without star
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ joeynyc/hermes-hudui：joeynyc/hermes-hudui helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 55/100 |
-| adoption | 64/100 |
-| stars | 67/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| stars | 67/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # toon-format/toon-java
 
-[![Stars](https://img.shields.io/github/stars/toon-format/toon-java?style=flat-square&color=yellow)](https://github.com/toon-format/toon-java/stargazers) [![Forks](https://img.shields.io/github/forks/toon-format/toon-java?style=flat-square&color=blue)](https://github.com/toon-format/toon-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toon-format/toon-java?style=flat-square&color=yellow)](https://github.com/toon-format/toon-java/stargazers) [![Forks](https://img.shields.io/github/forks/toon-format/toon-java?style=flat-square&color=blue)](https://github.com/toon-format/toon-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ☕ Community-driven Java implementation of TOON
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Database
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ The project sits at a medium readiness level: it is actively maintained (last co
 | forks | 35/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

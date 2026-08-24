@@ -1,6 +1,6 @@
 # aoaostar/legado
 
-[![Stars](https://img.shields.io/github/stars/aoaostar/legado?style=flat-square&color=yellow)](https://github.com/aoaostar/legado/stargazers) [![Forks](https://img.shields.io/github/forks/aoaostar/legado?style=flat-square&color=blue)](https://github.com/aoaostar/legado/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aoaostar/legado?style=flat-square&color=yellow)](https://github.com/aoaostar/legado/stargazers) [![Forks](https://img.shields.io/github/forks/aoaostar/legado?style=flat-square&color=blue)](https://github.com/aoaostar/legado/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 阅读APP书源
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AI/ML
 
 ### 中文
 
-aoaostar/legado：aoaostar/legado helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+aoaostar/legado：aoaostar/legado helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aoaostar/legado：aoaostar/legado helps add AI capability without starting from 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ aoaostar/legado：aoaostar/legado helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
+| production | 47/100 |
+| outlook | 46/100 |
 | adoption | 73/100 |
 | stars | 79/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

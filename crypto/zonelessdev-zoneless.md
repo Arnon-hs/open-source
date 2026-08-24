@@ -1,6 +1,6 @@
 # zonelessdev/zoneless
 
-[![Stars](https://img.shields.io/github/stars/zonelessdev/zoneless?style=flat-square&color=yellow)](https://github.com/zonelessdev/zoneless/stargazers) [![Forks](https://img.shields.io/github/forks/zonelessdev/zoneless?style=flat-square&color=blue)](https://github.com/zonelessdev/zoneless/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zonelessdev/zoneless?style=flat-square&color=yellow)](https://github.com/zonelessdev/zoneless/stargazers) [![Forks](https://img.shields.io/github/forks/zonelessdev/zoneless?style=flat-square&color=blue)](https://github.com/zonelessdev/zoneless/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Stripe Connect alternative. ~$0.002 payout fees. Identical API to Stripe. Instant global USDC payouts. Self-hosted.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 290 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Backend
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ zonelessdev/zoneless 是一个开源的 Stripe Connect 替代方案，提供�
 | forks | 36/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

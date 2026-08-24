@@ -1,6 +1,6 @@
 # btcpayserver/btcpayserver
 
-[![Stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=flat-square&color=yellow)](https://github.com/btcpayserver/btcpayserver/stargazers) [![Forks](https://img.shields.io/github/forks/btcpayserver/btcpayserver?style=flat-square&color=blue)](https://github.com/btcpayserver/btcpayserver/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=flat-square&color=yellow)](https://github.com/btcpayserver/btcpayserver/stargazers) [![Forks](https://img.shields.io/github/forks/btcpayserver/btcpayserver?style=flat-square&color=blue)](https://github.com/btcpayserver/btcpayserver/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.5k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Backend
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ btcpayserver/btcpayserver: btcpayserver/btcpayserver helps prototype or inspect 
 
 ### Русский
 
-btcpayserver/btcpayserver: open-source проект в категориях Crypto, Payments, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+btcpayserver/btcpayserver: open-source проект в категориях Crypto, Payments. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ btcpayserver/btcpayserver：btcpayserver/btcpayserver helps prototype or inspect
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 82/100 |
-| stars | 83/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

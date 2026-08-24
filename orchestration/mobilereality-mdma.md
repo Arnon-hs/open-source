@@ -1,6 +1,6 @@
 # MobileReality/mdma
 
-[![Stars](https://img.shields.io/github/stars/MobileReality/mdma?style=flat-square&color=yellow)](https://github.com/MobileReality/mdma/stargazers) [![Forks](https://img.shields.io/github/forks/MobileReality/mdma?style=flat-square&color=blue)](https://github.com/MobileReality/mdma/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MobileReality/mdma?style=flat-square&color=yellow)](https://github.com/MobileReality/mdma/stargazers) [![Forks](https://img.shields.io/github/forks/MobileReality/mdma?style=flat-square&color=blue)](https://github.com/MobileReality/mdma/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Interactive documents from Markdown. Extends MD with forms, approvals, webhooks, and more — built for next gen apps
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ MobileReality/mdma 的生产可用性很高。它有最近的活动、广泛的�
 | forks | 12/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

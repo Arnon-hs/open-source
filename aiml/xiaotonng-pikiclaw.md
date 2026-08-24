@@ -1,6 +1,6 @@
 # xiaotonng/pikiclaw
 
-[![Stars](https://img.shields.io/github/stars/xiaotonng/pikiclaw?style=flat-square&color=yellow)](https://github.com/xiaotonng/pikiclaw/stargazers) [![Forks](https://img.shields.io/github/forks/xiaotonng/pikiclaw?style=flat-square&color=blue)](https://github.com/xiaotonng/pikiclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xiaotonng/pikiclaw?style=flat-square&color=yellow)](https://github.com/xiaotonng/pikiclaw/stargazers) [![Forks](https://img.shields.io/github/forks/xiaotonng/pikiclaw?style=flat-square&color=blue)](https://github.com/xiaotonng/pikiclaw/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Put the world's smartest AI agents & plugins in your pocket
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 208 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ xiaotonng/pikiclaw：xiaotonng/pikiclaw helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 60/100 |
-| adoption | 45/100 |
-| stars | 49/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

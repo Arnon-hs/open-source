@@ -1,6 +1,6 @@
 # miantiao-me/awesome-homelab
 
-[![Stars](https://img.shields.io/github/stars/miantiao-me/awesome-homelab?style=flat-square&color=yellow)](https://github.com/miantiao-me/awesome-homelab/stargazers) [![Forks](https://img.shields.io/github/forks/miantiao-me/awesome-homelab?style=flat-square&color=blue)](https://github.com/miantiao-me/awesome-homelab/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/miantiao-me/awesome-homelab?style=flat-square&color=yellow)](https://github.com/miantiao-me/awesome-homelab/stargazers) [![Forks](https://img.shields.io/github/forks/miantiao-me/awesome-homelab?style=flat-square&color=blue)](https://github.com/miantiao-me/awesome-homelab/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Curating Top Open Source Apps for Homelab Enthusiasts
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 88 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ The "awesome-homelab" project is a curated list of top open-source applications 
 
 ### 中文
 
-miantiao-me/awesome-homelab：miantiao-me/awesome-homelab helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+miantiao-me/awesome-homelab：miantiao-me/awesome-homelab helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -53,7 +53,7 @@ miantiao-me/awesome-homelab：miantiao-me/awesome-homelab helps teams reuse serv
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -70,14 +70,14 @@ miantiao-me/awesome-homelab：miantiao-me/awesome-homelab helps teams reuse serv
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 62/100 |
+| production | 49/100 |
+| outlook | 55/100 |
 | adoption | 64/100 |
 | stars | 70/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

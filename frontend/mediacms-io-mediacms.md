@@ -1,6 +1,6 @@
 # mediacms-io/mediacms
 
-[![Stars](https://img.shields.io/github/stars/mediacms-io/mediacms?style=flat-square&color=yellow)](https://github.com/mediacms-io/mediacms/stargazers) [![Forks](https://img.shields.io/github/forks/mediacms-io/mediacms?style=flat-square&color=blue)](https://github.com/mediacms-io/mediacms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mediacms-io/mediacms?style=flat-square&color=yellow)](https://github.com/mediacms-io/mediacms/stargazers) [![Forks](https://img.shields.io/github/forks/mediacms-io/mediacms?style=flat-square&color=blue)](https://github.com/mediacms-io/mediacms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 912 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 70/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ MediaCMS（mediacms-io/mediacms）是一套基于 Python/Django 与 React 的现
 | forks | 74/100 |
 | stars | 79/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 70/100 |
+| recency | 20/100 |
 | adoption | 77/100 |
-| production | 84/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

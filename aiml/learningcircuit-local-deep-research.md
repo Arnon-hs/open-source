@@ -1,6 +1,6 @@
 # LearningCircuit/local-deep-research
 
-[![Stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat-square&color=yellow)](https://github.com/LearningCircuit/local-deep-research/stargazers) [![Forks](https://img.shields.io/github/forks/LearningCircuit/local-deep-research?style=flat-square&color=blue)](https://github.com/LearningCircuit/local-deep-research/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat-square&color=yellow)](https://github.com/LearningCircuit/local-deep-research/stargazers) [![Forks](https://img.shields.io/github/forks/LearningCircuit/local-deep-research?style=flat-square&color=blue)](https://github.com/LearningCircuit/local-deep-research/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 540 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ LearningCircuit/local-deep-research：LearningCircuit/local-deep-research helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 56/100 |
+| outlook | 64/100 |
 | adoption | 77/100 |
 | stars | 81/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

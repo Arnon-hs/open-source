@@ -1,6 +1,6 @@
 # AzureAD/microsoft-authentication-library-for-js
 
-[![Stars](https://img.shields.io/github/stars/AzureAD/microsoft-authentication-library-for-js?style=flat-square&color=yellow)](https://github.com/AzureAD/microsoft-authentication-library-for-js/stargazers) [![Forks](https://img.shields.io/github/forks/AzureAD/microsoft-authentication-library-for-js?style=flat-square&color=blue)](https://github.com/AzureAD/microsoft-authentication-library-for-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AzureAD/microsoft-authentication-library-for-js?style=flat-square&color=yellow)](https://github.com/AzureAD/microsoft-authentication-library-for-js/stargazers) [![Forks](https://img.shields.io/github/forks/AzureAD/microsoft-authentication-library-for-js?style=flat-square&color=blue)](https://github.com/AzureAD/microsoft-authentication-library-for-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Microsoft Authentication Library (MSAL) for JS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.1k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AzureAD/microsoft-authentication-library-for-js — это открытая Ja
 
 ### 中文
 
-AzureAD/microsoft-authentication-library-for-js：AzureAD/microsoft-authentication-library-for-js helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AzureAD/microsoft-authentication-library-for-js：AzureAD/microsoft-authentication-library-for-js helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AzureAD/microsoft-authentication-library-for-js：AzureAD/microsoft-authenticati
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ AzureAD/microsoft-authentication-library-for-js：AzureAD/microsoft-authenticati
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 79/100 |
 | stars | 77/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

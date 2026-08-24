@@ -1,6 +1,6 @@
 # androidZzT/cc-statistics
 
-[![Stars](https://img.shields.io/github/stars/androidZzT/cc-statistics?style=flat-square&color=yellow)](https://github.com/androidZzT/cc-statistics/stargazers) [![Forks](https://img.shields.io/github/forks/androidZzT/cc-statistics?style=flat-square&color=blue)](https://github.com/androidZzT/cc-statistics/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/androidZzT/cc-statistics?style=flat-square&color=yellow)](https://github.com/androidZzT/cc-statistics/stargazers) [![Forks](https://img.shields.io/github/forks/androidZzT/cc-statistics?style=flat-square&color=blue)](https://github.com/androidZzT/cc-statistics/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > AI Coding stats dashboard — track costs, tokens, and efficiency across Claude Code / Gemini CLI / Codex / Cursor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 107 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools · Mobile
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -118,14 +118,15 @@ androidZzT/cc-statistics 具有较高的生产可用性，主要原因是：
 | forks | 29/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

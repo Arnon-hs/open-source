@@ -1,6 +1,6 @@
 # BradGroux/veritas-kanban
 
-[![Stars](https://img.shields.io/github/stars/BradGroux/veritas-kanban?style=flat-square&color=yellow)](https://github.com/BradGroux/veritas-kanban/stargazers) [![Forks](https://img.shields.io/github/forks/BradGroux/veritas-kanban?style=flat-square&color=blue)](https://github.com/BradGroux/veritas-kanban/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BradGroux/veritas-kanban?style=flat-square&color=yellow)](https://github.com/BradGroux/veritas-kanban/stargazers) [![Forks](https://img.shields.io/github/forks/BradGroux/veritas-kanban?style=flat-square&color=blue)](https://github.com/BradGroux/veritas-kanban/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > The unfiltered truth about where your project stands. Lightweight orchestration platform built for the agentic AI era.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 694 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ BradGroux/veritas-kanban：BradGroux/veritas-kanban helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 57/100 |
-| stars | 60/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

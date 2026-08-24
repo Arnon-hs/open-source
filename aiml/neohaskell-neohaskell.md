@@ -1,6 +1,6 @@
 # neohaskell/NeoHaskell
 
-[![Stars](https://img.shields.io/github/stars/neohaskell/NeoHaskell?style=flat-square&color=yellow)](https://github.com/neohaskell/NeoHaskell/stargazers) [![Forks](https://img.shields.io/github/forks/neohaskell/NeoHaskell?style=flat-square&color=blue)](https://github.com/neohaskell/NeoHaskell/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neohaskell/NeoHaskell?style=flat-square&color=yellow)](https://github.com/neohaskell/NeoHaskell/stargazers) [![Forks](https://img.shields.io/github/forks/neohaskell/NeoHaskell?style=flat-square&color=blue)](https://github.com/neohaskell/NeoHaskell/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > ⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 346 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ NeoHaskell — это открытая реализация диалекта H
 
 ### 中文
 
-neohaskell/NeoHaskell：neohaskell/NeoHaskell helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+neohaskell/NeoHaskell：neohaskell/NeoHaskell helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ neohaskell/NeoHaskell：neohaskell/NeoHaskell helps add AI capability without st
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ neohaskell/NeoHaskell：neohaskell/NeoHaskell helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 46/100 |
-| stars | 54/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

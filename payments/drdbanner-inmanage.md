@@ -1,6 +1,6 @@
 # DrDBanner/inmanage
 
-[![Stars](https://img.shields.io/github/stars/DrDBanner/inmanage?style=flat-square&color=yellow)](https://github.com/DrDBanner/inmanage/stargazers) [![Forks](https://img.shields.io/github/forks/DrDBanner/inmanage?style=flat-square&color=blue)](https://github.com/DrDBanner/inmanage/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DrDBanner/inmanage?style=flat-square&color=yellow)](https://github.com/DrDBanner/inmanage/stargazers) [![Forks](https://img.shields.io/github/forks/DrDBanner/inmanage?style=flat-square&color=blue)](https://github.com/DrDBanner/inmanage/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Invoice Ninja CLI: Install, configure, update, backup, monitor, and receive notifications for your self-hosted ...
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ DrDBanner/inmanage 是一款面向自托管 Invoice Ninja 实例的命令行工�
 | forks | 23/100 |
 | stars | 40/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

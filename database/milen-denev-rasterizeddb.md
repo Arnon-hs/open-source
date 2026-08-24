@@ -1,0 +1,82 @@
+# milen-denev/rasterizeddb
+
+[![Stars](https://img.shields.io/github/stars/milen-denev/rasterizeddb?style=flat-square&color=yellow)](https://github.com/milen-denev/rasterizeddb/stargazers) [![Forks](https://img.shields.io/github/forks/milen-denev/rasterizeddb?style=flat-square&color=blue)](https://github.com/milen-denev/rasterizeddb/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+
+> A new schemafull, Postgres compatible, high-performance database written from scratch in Rust. https://crates.io/crates/rasterizeddb_core
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 229 |
+| 🍴 **Forks** | 6 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`database` `sql`
+
+## 🎯 Categories
+
+Database
+
+## 📝 Summary
+
+### English
+
+Milen‑Denev’s **rasterizeddb** is a schema‑full, PostgreSQL‑compatible database engine built from the ground up in Rust, targeting high‑performance data storage and query execution. It implements core relational features while leveraging Rust’s safety and concurrency guarantees to deliver fast, reliable operations, and is distributed as the `rasterizeddb_core` crate on crates.io. The project is positioned as an open‑source alternative for workloads that need the robustness of PostgreSQL with the speed and modern tooling of Rust.
+
+### Русский
+
+**milen-denev/rasterizeddb** — это полностью написанная с нуля на Rust высокопроизводительная СУБД с поддержкой схем (schema‑full) и полной совместимостью с PostgreSQL. Проект ориентирован на работу с массивными данными, предоставляя быстрый доступ и надёжную консистентность, а также легко интегрируется в существующие экосистемы через crate `rasterizeddb_core`. Подходит для задач, требующих масштабируемого и безопасного хранилища данных.
+
+### 中文
+
+milen-denev/rasterizeddb：milen-denev/rasterizeddb helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** milen-denev/rasterizeddb helps teams persist, query, and move data with less custom plumbing.
+
+**Best use cases**
+
+- manage persistence
+- speed up data access
+- prototype database-backed apps
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 229 GitHub stars
+- 6 forks
+- updated 2026-05-09
+- primary language: Rust
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 21/100 |
+| stars | 50/100 |
+| topics | 25/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/milen-denev/rasterizeddb) · [← Back to Database](./README.md)</sub>

@@ -1,6 +1,6 @@
 # bikeindex/bike_index
 
-[![Stars](https://img.shields.io/github/stars/bikeindex/bike_index?style=flat-square&color=yellow)](https://github.com/bikeindex/bike_index/stargazers) [![Forks](https://img.shields.io/github/forks/bikeindex/bike_index?style=flat-square&color=blue)](https://github.com/bikeindex/bike_index/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bikeindex/bike_index?style=flat-square&color=yellow)](https://github.com/bikeindex/bike_index/stargazers) [![Forks](https://img.shields.io/github/forks/bikeindex/bike_index?style=flat-square&color=blue)](https://github.com/bikeindex/bike_index/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > All the code for Bike Index, because we love you
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 305 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ Bike Index 开源项目提供了完整的自行车登记与追踪系统代码，
 | forks | 47/100 |
 | stars | 53/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,0 +1,82 @@
+# teng-lin/notebooklm-py
+
+[![Stars](https://img.shields.io/github/stars/teng-lin/notebooklm-py?style=flat-square&color=yellow)](https://github.com/teng-lin/notebooklm-py/stargazers) [![Forks](https://img.shields.io/github/forks/teng-lin/notebooklm-py?style=flat-square&color=blue)](https://github.com/teng-lin/notebooklm-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+
+> Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 12.9k |
+| 🍴 **Forks** | 1.8k |
+| 💻 **Language** | Python |
+| 📈 **Score** | 83/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agentic-skill` `api` `claude` `claude-skills` `google-notebooklm` `notebooklm` `notebooklm-api` `notebooklm-skill` `openclaw-skills` `podcast-generator` `python` `python-api`
+
+## 🎯 Categories
+
+Backend
+
+## 📝 Summary
+
+### English
+
+teng‑lin/notebooklm-py provides an unofficial Python wrapper and CLI for Google Notebook LM, exposing the platform’s full functionality—including hidden features not available through the web UI—to developers and AI agents. The library enables programmatic creation, editing, and querying of notebooks, and can be integrated with agents such as Claude Code, Codex, or OpenClaw for automated workflows. It serves both frontend and backend use‑cases in AI/ML projects that require direct, scriptable access to Notebook LM.
+
+### Русский
+
+teng‑lin/notebooklm-py — это неофициальный Python‑API и набор агентных навыков для Google NotebookLM, предоставляющий полный программный доступ к функциям сервиса, включая возможности, недоступные в веб‑интерфейсе. Проект поддерживает работу через библиотеку Python, CLI и интеграцию с AI‑агентами (Claude Code, Codex, OpenClaw), что делает его полезным как для фронтенд‑, так и для бэкенд‑разработчиков в области AI/ML.
+
+### 中文
+
+teng-lin/notebooklm-py：teng-lin/notebooklm-py helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** teng-lin/notebooklm-py helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+
+**Best use cases**
+
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 12864 GitHub stars
+- 1784 forks
+- updated 2026-05-08
+- primary language: Python
+- 14 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 81/100 |
+| stars | 87/100 |
+| topics | 100/100 |
+| outlook | 68/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 62/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/teng-lin/notebooklm-py) · [← Back to Backend](./README.md)</sub>

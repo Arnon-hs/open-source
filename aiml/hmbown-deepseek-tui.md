@@ -1,6 +1,6 @@
 # Hmbown/DeepSeek-TUI
 
-[![Stars](https://img.shields.io/github/stars/Hmbown/DeepSeek-TUI?style=flat-square&color=yellow)](https://github.com/Hmbown/DeepSeek-TUI/stargazers) [![Forks](https://img.shields.io/github/forks/Hmbown/DeepSeek-TUI?style=flat-square&color=blue)](https://github.com/Hmbown/DeepSeek-TUI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hmbown/DeepSeek-TUI?style=flat-square&color=yellow)](https://github.com/Hmbown/DeepSeek-TUI/stargazers) [![Forks](https://img.shields.io/github/forks/Hmbown/DeepSeek-TUI?style=flat-square&color=blue)](https://github.com/Hmbown/DeepSeek-TUI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Coding agent for DeepSeek models that runs in your terminal
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.8k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Hmbown/DeepSeek-TUI: Hmbown/DeepSeek-TUI helps add AI capability without startin
 
 ### Русский
 
-Hmbown/DeepSeek-TUI: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Hmbown/DeepSeek-TUI: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Hmbown/DeepSeek-TUI：Hmbown/DeepSeek-TUI helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 75/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 68/100 |
-| adoption | 87/100 |
-| stars | 90/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| stars | 90/100 |
 | topics | 75/100 |
+| outlook | 61/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

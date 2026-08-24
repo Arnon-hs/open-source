@@ -1,6 +1,6 @@
 # symfony/ai-agent
 
-[![Stars](https://img.shields.io/github/stars/symfony/ai-agent?style=flat-square&color=yellow)](https://github.com/symfony/ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/symfony/ai-agent?style=flat-square&color=blue)](https://github.com/symfony/ai-agent/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/symfony/ai-agent?style=flat-square&color=yellow)](https://github.com/symfony/ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/symfony/ai-agent?style=flat-square&color=blue)](https://github.com/symfony/ai-agent/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > PHP library for building agentic applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -59,22 +59,22 @@ symfony/ai-agent：symfony/ai-agent helps add AI capability without starting fro
 - primary language: PHP
 - 5 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 27/100 |
-| stars | 32/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| stars | 32/100 |
 | topics | 63/100 |
+| outlook | 42/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

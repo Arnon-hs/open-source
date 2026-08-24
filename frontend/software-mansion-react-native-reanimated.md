@@ -1,6 +1,6 @@
 # software-mansion/react-native-reanimated
 
-[![Stars](https://img.shields.io/github/stars/software-mansion/react-native-reanimated?style=flat-square&color=yellow)](https://github.com/software-mansion/react-native-reanimated/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/react-native-reanimated?style=flat-square&color=blue)](https://github.com/software-mansion/react-native-reanimated/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/software-mansion/react-native-reanimated?style=flat-square&color=yellow)](https://github.com/software-mansion/react-native-reanimated/stargazers) [![Forks](https://img.shields.io/github/forks/software-mansion/react-native-reanimated?style=flat-square&color=blue)](https://github.com/software-mansion/react-native-reanimated/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > React Native's Animated library reimplemented
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ software‑mansion/react‑native‑reanimated 是对 React Native 官方 Anim
 | forks | 79/100 |
 | stars | 86/100 |
 | topics | 50/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 84/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

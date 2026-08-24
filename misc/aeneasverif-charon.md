@@ -1,6 +1,6 @@
 # AeneasVerif/charon
 
-[![Stars](https://img.shields.io/github/stars/AeneasVerif/charon?style=flat-square&color=yellow)](https://github.com/AeneasVerif/charon/stargazers) [![Forks](https://img.shields.io/github/forks/AeneasVerif/charon?style=flat-square&color=blue)](https://github.com/AeneasVerif/charon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AeneasVerif/charon?style=flat-square&color=yellow)](https://github.com/AeneasVerif/charon/stargazers) [![Forks](https://img.shields.io/github/forks/AeneasVerif/charon?style=flat-square&color=blue)](https://github.com/AeneasVerif/charon/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Analyze Rust crates without touching compiler internals
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 339 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AeneasVerif/charon is a Rust analysis framework that enables deep inspection of 
 
 ### 中文
 
-AeneasVerif/charon：AeneasVerif/charon may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AeneasVerif/charon：AeneasVerif/charon may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ AeneasVerif/charon：AeneasVerif/charon may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ AeneasVerif/charon：AeneasVerif/charon may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 50/100 |
-| stars | 54/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 88/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

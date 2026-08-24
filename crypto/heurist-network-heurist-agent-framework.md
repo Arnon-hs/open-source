@@ -1,6 +1,6 @@
 # heurist-network/heurist-agent-framework
 
-[![Stars](https://img.shields.io/github/stars/heurist-network/heurist-agent-framework?style=flat-square&color=yellow)](https://github.com/heurist-network/heurist-agent-framework/stargazers) [![Forks](https://img.shields.io/github/forks/heurist-network/heurist-agent-framework?style=flat-square&color=blue)](https://github.com/heurist-network/heurist-agent-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heurist-network/heurist-agent-framework?style=flat-square&color=yellow)](https://github.com/heurist-network/heurist-agent-framework/stargazers) [![Forks](https://img.shields.io/github/forks/heurist-network/heurist-agent-framework?style=flat-square&color=blue)](https://github.com/heurist-network/heurist-agent-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 809 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Heurist‑Agent‑Framework — это гибкая open‑source платф
 
 ### 中文
 
-heurist-network/heurist-agent-framework：heurist-network/heurist-agent-framework helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+heurist-network/heurist-agent-framework：heurist-network/heurist-agent-framework helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ heurist-network/heurist-agent-framework：heurist-network/heurist-agent-framewor
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ heurist-network/heurist-agent-framework：heurist-network/heurist-agent-framewor
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 58/100 |
 | stars | 62/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

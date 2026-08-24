@@ -1,6 +1,6 @@
 # AztecProtocol/aztec-packages
 
-[![Stars](https://img.shields.io/github/stars/AztecProtocol/aztec-packages?style=flat-square&color=yellow)](https://github.com/AztecProtocol/aztec-packages/stargazers) [![Forks](https://img.shields.io/github/forks/AztecProtocol/aztec-packages?style=flat-square&color=blue)](https://github.com/AztecProtocol/aztec-packages/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AztecProtocol/aztec-packages?style=flat-square&color=yellow)](https://github.com/AztecProtocol/aztec-packages/stargazers) [![Forks](https://img.shields.io/github/forks/AztecProtocol/aztec-packages?style=flat-square&color=blue)](https://github.com/AztecProtocol/aztec-packages/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 436 |
 | 🍴 **Forks** | 594 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ AztecProtocol/aztec-packages：AztecProtocol/aztec-packages may be useful when i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 18/100 |
-| production | 48/100 |
-| outlook | 47/100 |
-| adoption | 60/100 |
-| stars | 56/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

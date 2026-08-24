@@ -1,6 +1,6 @@
 # envoyproxy/ai-gateway
 
-[![Stars](https://img.shields.io/github/stars/envoyproxy/ai-gateway?style=flat-square&color=yellow)](https://github.com/envoyproxy/ai-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/envoyproxy/ai-gateway?style=flat-square&color=blue)](https://github.com/envoyproxy/ai-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/envoyproxy/ai-gateway?style=flat-square&color=yellow)](https://github.com/envoyproxy/ai-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/envoyproxy/ai-gateway?style=flat-square&color=blue)](https://github.com/envoyproxy/ai-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Manages Unified Access to Generative AI Services built on Envoy Gateway
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 241 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ envoyproxy/ai-gateway: envoyproxy/ai-gateway helps add AI capability without sta
 
 ### Русский
 
-envoyproxy/ai-gateway: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+envoyproxy/ai-gateway: open-source проект в категориях AI/ML, Backend, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ envoyproxy/ai-gateway：envoyproxy/ai-gateway helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 78/100 |
-| production | 62/100 |
-| outlook | 61/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 88/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # charannyk06/conductor-oss
 
-[![Stars](https://img.shields.io/github/stars/charannyk06/conductor-oss?style=flat-square&color=yellow)](https://github.com/charannyk06/conductor-oss/stargazers) [![Forks](https://img.shields.io/github/forks/charannyk06/conductor-oss?style=flat-square&color=blue)](https://github.com/charannyk06/conductor-oss/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/charannyk06/conductor-oss?style=flat-square&color=yellow)](https://github.com/charannyk06/conductor-oss/stargazers) [![Forks](https://img.shields.io/github/forks/charannyk06/conductor-oss?style=flat-square&color=blue)](https://github.com/charannyk06/conductor-oss/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first control surface for AI coding agents, workspaces, worktrees, terminals, diffs, previews, and paired-device access.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 35 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ Conductor‑OSS（charannyk06/conductor-oss）是一个本地优先的控制面�
 | forks | 21/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

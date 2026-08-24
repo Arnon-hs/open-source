@@ -1,6 +1,6 @@
 # signalwire/freeswitch
 
-[![Stars](https://img.shields.io/github/stars/signalwire/freeswitch?style=flat-square&color=yellow)](https://github.com/signalwire/freeswitch/stargazers) [![Forks](https://img.shields.io/github/forks/signalwire/freeswitch?style=flat-square&color=blue)](https://github.com/signalwire/freeswitch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/signalwire/freeswitch?style=flat-square&color=yellow)](https://github.com/signalwire/freeswitch/stargazers) [![Forks](https://img.shields.io/github/forks/signalwire/freeswitch?style=flat-square&color=blue)](https://github.com/signalwire/freeswitch/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ signalwire/freeswitch：signalwire/freeswitch helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 79/100 |
 | stars | 78/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

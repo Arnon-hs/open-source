@@ -1,6 +1,6 @@
 # dapr/dapr-agents
 
-[![Stars](https://img.shields.io/github/stars/dapr/dapr-agents?style=flat-square&color=yellow)](https://github.com/dapr/dapr-agents/stargazers) [![Forks](https://img.shields.io/github/forks/dapr/dapr-agents?style=flat-square&color=blue)](https://github.com/dapr/dapr-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dapr/dapr-agents?style=flat-square&color=yellow)](https://github.com/dapr/dapr-agents/stargazers) [![Forks](https://img.shields.io/github/forks/dapr/dapr-agents?style=flat-square&color=blue)](https://github.com/dapr/dapr-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Build autonomous, resilient and observable AI agents with built-in workflow orchestration, security, statefulness and telemetry.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 673 |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · Security
+Orchestration · Automation · Security
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ dapr/dapr‑agents 是一个基于 Dapr 的开源框架，帮助开发者快速�
 | forks | 52/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 58/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

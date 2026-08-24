@@ -1,6 +1,6 @@
 # Oolab-labs/patchwork-os
 
-[![Stars](https://img.shields.io/github/stars/Oolab-labs/patchwork-os?style=flat-square&color=yellow)](https://github.com/Oolab-labs/patchwork-os/stargazers) [![Forks](https://img.shields.io/github/forks/Oolab-labs/patchwork-os?style=flat-square&color=blue)](https://github.com/Oolab-labs/patchwork-os/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Oolab-labs/patchwork-os?style=flat-square&color=yellow)](https://github.com/Oolab-labs/patchwork-os/stargazers) [![Forks](https://img.shields.io/github/forks/Oolab-labs/patchwork-os?style=flat-square&color=blue)](https://github.com/Oolab-labs/patchwork-os/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > personal AI runtime, local-first. MCP bridge giving Claude Code 170+ tools (LSP, debugger, terminal, git) inside VS Code, Cursor, Windsurf, or JetBrains. Optional Patchwork layer adds YAML recipes, an approval queue, and an oversight dashboard. Your models, your machine, your policy. (Mac & Windows)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ Patchwork‑OS 是一个本地优先的个人 AI 运行时，提供 MCP（Model 
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

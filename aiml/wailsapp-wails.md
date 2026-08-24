@@ -1,6 +1,6 @@
 # wailsapp/wails
 
-[![Stars](https://img.shields.io/github/stars/wailsapp/wails?style=flat-square&color=yellow)](https://github.com/wailsapp/wails/stargazers) [![Forks](https://img.shields.io/github/forks/wailsapp/wails?style=flat-square&color=blue)](https://github.com/wailsapp/wails/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wailsapp/wails?style=flat-square&color=yellow)](https://github.com/wailsapp/wails/stargazers) [![Forks](https://img.shields.io/github/forks/wailsapp/wails?style=flat-square&color=blue)](https://github.com/wailsapp/wails/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Create beautiful applications using Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wailsapp/wails：wailsapp/wails helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 92/100 |
 | stars | 96/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

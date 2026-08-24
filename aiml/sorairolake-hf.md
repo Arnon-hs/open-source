@@ -1,6 +1,6 @@
 # sorairolake/hf
 
-[![Stars](https://img.shields.io/github/stars/sorairolake/hf?style=flat-square&color=yellow)](https://github.com/sorairolake/hf/stargazers) [![Forks](https://img.shields.io/github/forks/sorairolake/hf?style=flat-square&color=blue)](https://github.com/sorairolake/hf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sorairolake/hf?style=flat-square&color=yellow)](https://github.com/sorairolake/hf/stargazers) [![Forks](https://img.shields.io/github/forks/sorairolake/hf?style=flat-square&color=blue)](https://github.com/sorairolake/hf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-platform hidden file library and utility
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ A lightweight, cross‑platform library for creating, detecting, and managing hi
 
 ### 中文
 
-sorairolake/hf：sorairolake/hf helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sorairolake/hf：sorairolake/hf helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sorairolake/hf：sorairolake/hf helps add AI capability without starting from a 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sorairolake/hf：sorairolake/hf helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 56/100 |
+| production | 45/100 |
+| outlook | 49/100 |
 | adoption | 27/100 |
 | stars | 33/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

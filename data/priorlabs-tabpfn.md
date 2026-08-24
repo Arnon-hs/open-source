@@ -1,6 +1,6 @@
 # PriorLabs/TabPFN
 
-[![Stars](https://img.shields.io/github/stars/PriorLabs/TabPFN?style=flat-square&color=yellow)](https://github.com/PriorLabs/TabPFN/stargazers) [![Forks](https://img.shields.io/github/forks/PriorLabs/TabPFN?style=flat-square&color=blue)](https://github.com/PriorLabs/TabPFN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PriorLabs/TabPFN?style=flat-square&color=yellow)](https://github.com/PriorLabs/TabPFN/stargazers) [![Forks](https://img.shields.io/github/forks/PriorLabs/TabPFN?style=flat-square&color=blue)](https://github.com/PriorLabs/TabPFN/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 679 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ PriorLabs/TabPFN：PriorLabs/TabPFN helps convert raw data into searchable, anal
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 79/100 |
-| stars | 82/100 |
 | forks | 71/100 |
-| recency | 40/100 |
+| stars | 82/100 |
 | topics | 63/100 |
+| outlook | 51/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

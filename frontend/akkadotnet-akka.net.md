@@ -1,6 +1,6 @@
 # akkadotnet/akka.net
 
-[![Stars](https://img.shields.io/github/stars/akkadotnet/akka.net?style=flat-square&color=yellow)](https://github.com/akkadotnet/akka.net/stargazers) [![Forks](https://img.shields.io/github/forks/akkadotnet/akka.net?style=flat-square&color=blue)](https://github.com/akkadotnet/akka.net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akkadotnet/akka.net?style=flat-square&color=yellow)](https://github.com/akkadotnet/akka.net/stargazers) [![Forks](https://img.shields.io/github/forks/akkadotnet/akka.net?style=flat-square&color=blue)](https://github.com/akkadotnet/akka.net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Canonical actor model implementation for .NET with local + distributed actors in C# and F#.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ akkadotnet/akka.net：akkadotnet/akka.net helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 78/100 |
 | stars | 79/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

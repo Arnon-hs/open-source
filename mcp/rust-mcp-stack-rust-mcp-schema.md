@@ -1,6 +1,6 @@
 # rust-mcp-stack/rust-mcp-schema
 
-[![Stars](https://img.shields.io/github/stars/rust-mcp-stack/rust-mcp-schema?style=flat-square&color=yellow)](https://github.com/rust-mcp-stack/rust-mcp-schema/stargazers) [![Forks](https://img.shields.io/github/forks/rust-mcp-stack/rust-mcp-schema?style=flat-square&color=blue)](https://github.com/rust-mcp-stack/rust-mcp-schema/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-mcp-stack/rust-mcp-schema?style=flat-square&color=yellow)](https://github.com/rust-mcp-stack/rust-mcp-schema/stargazers) [![Forks](https://img.shields.io/github/forks/rust-mcp-stack/rust-mcp-schema?style=flat-square&color=blue)](https://github.com/rust-mcp-stack/rust-mcp-schema/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A type-safe implementation of the official Model Context Protocol (MCP) schema in Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools
+MCP · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ rust-mcp-stack/rust-mcp-schema 是用 Rust 实现的官方 Model Context Protoco
 | forks | 21/100 |
 | stars | 40/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

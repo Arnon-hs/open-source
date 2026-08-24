@@ -1,6 +1,6 @@
 # jonfairbanks/local-rag
 
-[![Stars](https://img.shields.io/github/stars/jonfairbanks/local-rag?style=flat-square&color=yellow)](https://github.com/jonfairbanks/local-rag/stargazers) [![Forks](https://img.shields.io/github/forks/jonfairbanks/local-rag?style=flat-square&color=blue)](https://github.com/jonfairbanks/local-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonfairbanks/local-rag?style=flat-square&color=yellow)](https://github.com/jonfairbanks/local-rag/stargazers) [![Forks](https://img.shields.io/github/forks/jonfairbanks/local-rag?style=flat-square&color=blue)](https://github.com/jonfairbanks/local-rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Ingest files for retrieval augmented generation (RAG) with open-source Large Language Models (LLMs), all without 3rd parties or sensitive data leaving your network.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 750 |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Data
+Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ Overall, *local‑rag* offers a compelling, privacy‑preserving way to make int
 | forks | 49/100 |
 | stars | 61/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

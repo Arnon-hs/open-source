@@ -1,6 +1,6 @@
 # jedzqer/manga-translator-android
 
-[![Stars](https://img.shields.io/github/stars/jedzqer/manga-translator-android?style=flat-square&color=yellow)](https://github.com/jedzqer/manga-translator-android/stargazers) [![Forks](https://img.shields.io/github/forks/jedzqer/manga-translator-android?style=flat-square&color=blue)](https://github.com/jedzqer/manga-translator-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jedzqer/manga-translator-android?style=flat-square&color=yellow)](https://github.com/jedzqer/manga-translator-android/stargazers) [![Forks](https://img.shields.io/github/forks/jedzqer/manga-translator-android?style=flat-square&color=blue)](https://github.com/jedzqer/manga-translator-android/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 安卓手机端的即时自动漫画翻译软件，由LLM驱动。Instant automatic manga translation app for mobile devices, powered by LLM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 297 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Manga‑Translator‑Android — это открытое приложение 
 
 ### 中文
 
-jedzqer/manga-translator-android：jedzqer/manga-translator-android helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jedzqer/manga-translator-android：jedzqer/manga-translator-android helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ jedzqer/manga-translator-android：jedzqer/manga-translator-android helps add AI
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ jedzqer/manga-translator-android：jedzqer/manga-translator-android helps add AI
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 46/100 |
-| stars | 53/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 88/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

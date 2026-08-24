@@ -1,6 +1,6 @@
 # mims-harvard/Medea
 
-[![Stars](https://img.shields.io/github/stars/mims-harvard/Medea?style=flat-square&color=yellow)](https://github.com/mims-harvard/Medea/stargazers) [![Forks](https://img.shields.io/github/forks/mims-harvard/Medea?style=flat-square&color=blue)](https://github.com/mims-harvard/Medea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mims-harvard/Medea?style=flat-square&color=yellow)](https://github.com/mims-harvard/Medea/stargazers) [![Forks](https://img.shields.io/github/forks/mims-harvard/Medea?style=flat-square&color=blue)](https://github.com/mims-harvard/Medea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Medea: An omics AI agent for therapeutic discovery
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Medea 的生产可用性为中级。它适合用于原型开发或内部工作�
 | forks | 33/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

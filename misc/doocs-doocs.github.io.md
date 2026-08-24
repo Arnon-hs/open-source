@@ -1,6 +1,6 @@
 # doocs/doocs.github.io
 
-[![Stars](https://img.shields.io/github/stars/doocs/doocs.github.io?style=flat-square&color=yellow)](https://github.com/doocs/doocs.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/doocs/doocs.github.io?style=flat-square&color=blue)](https://github.com/doocs/doocs.github.io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/doocs/doocs.github.io?style=flat-square&color=yellow)](https://github.com/doocs/doocs.github.io/stargazers) [![Forks](https://img.shields.io/github/forks/doocs/doocs.github.io?style=flat-square&color=blue)](https://github.com/doocs/doocs.github.io/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 428 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Doocs Open Source 社区的官方站点仓库（`doocs/doocs.github.io`）
 | forks | 47/100 |
 | stars | 56/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

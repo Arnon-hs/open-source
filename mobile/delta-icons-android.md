@@ -1,6 +1,6 @@
 # Delta-Icons/android
 
-[![Stars](https://img.shields.io/github/stars/Delta-Icons/android?style=flat-square&color=yellow)](https://github.com/Delta-Icons/android/stargazers) [![Forks](https://img.shields.io/github/forks/Delta-Icons/android?style=flat-square&color=blue)](https://github.com/Delta-Icons/android/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Delta-Icons/android?style=flat-square&color=yellow)](https://github.com/Delta-Icons/android/stargazers) [![Forks](https://img.shields.io/github/forks/Delta-Icons/android?style=flat-square&color=blue)](https://github.com/Delta-Icons/android/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Icon Pack for Android
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 840 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ Delta-Icons/android 是一套专为 Android 设备打造的开源图标包，提
 | forks | 54/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

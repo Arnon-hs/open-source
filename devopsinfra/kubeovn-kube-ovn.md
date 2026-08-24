@@ -1,6 +1,6 @@
 # kubeovn/kube-ovn
 
-[![Stars](https://img.shields.io/github/stars/kubeovn/kube-ovn?style=flat-square&color=yellow)](https://github.com/kubeovn/kube-ovn/stargazers) [![Forks](https://img.shields.io/github/forks/kubeovn/kube-ovn?style=flat-square&color=blue)](https://github.com/kubeovn/kube-ovn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeovn/kube-ovn?style=flat-square&color=yellow)](https://github.com/kubeovn/kube-ovn/stargazers) [![Forks](https://img.shields.io/github/forks/kubeovn/kube-ovn?style=flat-square&color=blue)](https://github.com/kubeovn/kube-ovn/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Bridge between SDN and Cloud Native (Project under CNCF)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 538 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ kubeovn/kube-ovn 是 CNCF 旗下的开源 SDN 方案，为云原生环境提供�
 | forks | 68/100 |
 | stars | 72/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 71/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

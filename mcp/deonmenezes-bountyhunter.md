@@ -1,6 +1,6 @@
 # deonmenezes/bountyhunter
 
-[![Stars](https://img.shields.io/github/stars/deonmenezes/bountyhunter?style=flat-square&color=yellow)](https://github.com/deonmenezes/bountyhunter/stargazers) [![Forks](https://img.shields.io/github/forks/deonmenezes/bountyhunter?style=flat-square&color=blue)](https://github.com/deonmenezes/bountyhunter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deonmenezes/bountyhunter?style=flat-square&color=yellow)](https://github.com/deonmenezes/bountyhunter/stargazers) [![Forks](https://img.shields.io/github/forks/deonmenezes/bountyhunter?style=flat-square&color=blue)](https://github.com/deonmenezes/bountyhunter/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Mantis — autonomous offensive-security platform for Claude Code. DISCOVER → REASON → TEST → LEARN over a 7-phase FSM with parallel specialist agents, 3-round Multi-Step Evidence verification, MCP control plane. Evidence, not alerts.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 79 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools · Database
+MCP · Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ deonmenezes/bountyhunter 是基于 Claude Code 的全自动化进攻式安全平
 | forks | 35/100 |
 | stars | 41/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 74/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

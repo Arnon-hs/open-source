@@ -1,6 +1,6 @@
 # benzsevern/goldenmatch
 
-[![Stars](https://img.shields.io/github/stars/benzsevern/goldenmatch?style=flat-square&color=yellow)](https://github.com/benzsevern/goldenmatch/stargazers) [![Forks](https://img.shields.io/github/forks/benzsevern/goldenmatch?style=flat-square&color=blue)](https://github.com/benzsevern/goldenmatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/benzsevern/goldenmatch?style=flat-square&color=yellow)](https://github.com/benzsevern/goldenmatch/stargazers) [![Forks](https://img.shields.io/github/forks/benzsevern/goldenmatch?style=flat-square&color=blue)](https://github.com/benzsevern/goldenmatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Polyglot data-quality + entity-resolution toolkit with introspective auto-config: zero-config beats hand-tuned on DBLP-ACM (0.96 F1), Febrl3 (0.94 F1), NCVR (0.97 F1). GoldenCheck profiles -> GoldenFlow standardizes -> GoldenMatch dedupes -> GoldenPipe orchestrates. MCP per package, multi-arch containers, Airflow DAGs, browser workbench.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ benzsevern/goldenmatch：benzsevern/goldenmatch helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 94/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 53/100 |
+| outlook | 52/100 |
 | adoption | 30/100 |
 | stars | 34/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

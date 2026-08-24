@@ -1,6 +1,6 @@
 # ggozad/oterm
 
-[![Stars](https://img.shields.io/github/stars/ggozad/oterm?style=flat-square&color=yellow)](https://github.com/ggozad/oterm/stargazers) [![Forks](https://img.shields.io/github/forks/ggozad/oterm?style=flat-square&color=blue)](https://github.com/ggozad/oterm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ggozad/oterm?style=flat-square&color=yellow)](https://github.com/ggozad/oterm/stargazers) [![Forks](https://img.shields.io/github/forks/ggozad/oterm?style=flat-square&color=blue)](https://github.com/ggozad/oterm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > the terminal client for LLMs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 135 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ggozad/oterm：ggozad/oterm helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 78/100 |
-| production | 62/100 |
-| outlook | 60/100 |
-| adoption | 67/100 |
-| stars | 72/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

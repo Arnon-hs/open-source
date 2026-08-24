@@ -1,6 +1,6 @@
 # TwilitRealm/dusk
 
-[![Stars](https://img.shields.io/github/stars/TwilitRealm/dusk?style=flat-square&color=yellow)](https://github.com/TwilitRealm/dusk/stargazers) [![Forks](https://img.shields.io/github/forks/TwilitRealm/dusk?style=flat-square&color=blue)](https://github.com/TwilitRealm/dusk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TwilitRealm/dusk?style=flat-square&color=yellow)](https://github.com/TwilitRealm/dusk/stargazers) [![Forks](https://img.shields.io/github/forks/TwilitRealm/dusk?style=flat-square&color=blue)](https://github.com/TwilitRealm/dusk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Dusk brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 391 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -56,22 +56,22 @@ TwilitRealm/dusk：TwilitRealm/dusk may be useful when its README and activity m
 - updated 2026-05-10
 - primary language: C++
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 49/100 |
-| stars | 55/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

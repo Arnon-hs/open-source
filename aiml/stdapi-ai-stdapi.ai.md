@@ -1,6 +1,6 @@
 # stdapi-ai/stdapi.ai
 
-[![Stars](https://img.shields.io/github/stars/stdapi-ai/stdapi.ai?style=flat-square&color=yellow)](https://github.com/stdapi-ai/stdapi.ai/stargazers) [![Forks](https://img.shields.io/github/forks/stdapi-ai/stdapi.ai?style=flat-square&color=blue)](https://github.com/stdapi-ai/stdapi.ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stdapi-ai/stdapi.ai?style=flat-square&color=yellow)](https://github.com/stdapi-ai/stdapi.ai/stargazers) [![Forks](https://img.shields.io/github/forks/stdapi-ai/stdapi.ai?style=flat-square&color=blue)](https://github.com/stdapi-ai/stdapi.ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAI & Anthropic Compatible API Gateway for AWS Bedrock and AI Services
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ stdapi-ai/stdapi.ai is an open‑source API gateway that provides a unified, Ope
 
 ### 中文
 
-stdapi-ai/stdapi.ai：stdapi-ai/stdapi.ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stdapi-ai/stdapi.ai：stdapi-ai/stdapi.ai helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ stdapi-ai/stdapi.ai：stdapi-ai/stdapi.ai helps add AI capability without starti
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,22 +58,22 @@ stdapi-ai/stdapi.ai：stdapi-ai/stdapi.ai helps add AI capability without starti
 - primary language: Python
 - 11 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 51/100 |
-| adoption | 21/100 |
-| stars | 29/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 29/100 |
 | topics | 100/100 |
+| outlook | 44/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 21/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

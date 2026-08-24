@@ -1,6 +1,6 @@
 # gruntwork-io/terragrunt
 
-[![Stars](https://img.shields.io/github/stars/gruntwork-io/terragrunt?style=flat-square&color=yellow)](https://github.com/gruntwork-io/terragrunt/stargazers) [![Forks](https://img.shields.io/github/forks/gruntwork-io/terragrunt?style=flat-square&color=blue)](https://github.com/gruntwork-io/terragrunt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gruntwork-io/terragrunt?style=flat-square&color=yellow)](https://github.com/gruntwork-io/terragrunt/stargazers) [![Forks](https://img.shields.io/github/forks/gruntwork-io/terragrunt?style=flat-square&color=blue)](https://github.com/gruntwork-io/terragrunt/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.6k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ gruntwork-io/terragrunt: gruntwork-io/terragrunt helps turn isolated prompts and
 
 ### Русский
 
-gruntwork-io/terragrunt: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+gruntwork-io/terragrunt: open-source проект в категориях Orchestration, DevTools, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ gruntwork-io/terragrunt：gruntwork-io/terragrunt helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 62/100 |
-| outlook | 70/100 |
-| adoption | 82/100 |
-| stars | 85/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| stars | 85/100 |
 | topics | 75/100 |
+| outlook | 63/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

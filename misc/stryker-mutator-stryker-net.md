@@ -1,0 +1,80 @@
+# stryker-mutator/stryker-net
+
+[![Stars](https://img.shields.io/github/stars/stryker-mutator/stryker-net?style=flat-square&color=yellow)](https://github.com/stryker-mutator/stryker-net/stargazers) [![Forks](https://img.shields.io/github/forks/stryker-mutator/stryker-net?style=flat-square&color=blue)](https://github.com/stryker-mutator/stryker-net/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> Mutation testing for .NET core and .NET framework!
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2k |
+| 🍴 **Forks** | 222 |
+| 💻 **Language** | C# |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`dotnet-core` `dotnet-framework` `dotnet-stryker` `hacktoberfest` `mutation-testing` `stryker`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Stryker‑Mutator (Stryker‑Net) is an open‑source mutation testing framework for .NET Core and the .NET Framework, automatically injecting small code changes (mutants) into your codebase and running your test suite to measure how well your tests detect faults. It integrates with popular .NET testing tools, provides detailed mutation scores and reports, and helps developers improve test quality and code robustness.
+
+### Русский
+
+Stryker‑Mutator / Stryker‑Net — это открытый инструмент для mutation‑testing, позволяющий автоматически генерировать и выполнять мутанты кода на платформах .NET Core и .NET Framework. Он интегрируется в процесс CI/CD, предоставляет детальные отчёты о покрытии и помогает выявлять слабые места тестового набора, повышая надёжность и качество программных продуктов.
+
+### 中文
+
+stryker-mutator/stryker-net：stryker-mutator/stryker-net may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** stryker-mutator/stryker-net may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1997 GitHub stars
+- 222 forks
+- updated 2026-05-08
+- primary language: C#
+- 6 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 59/100 |
+| stars | 70/100 |
+| topics | 75/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/stryker-mutator/stryker-net) · [← Back to Misc](./README.md)</sub>

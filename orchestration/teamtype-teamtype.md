@@ -1,6 +1,6 @@
 # teamtype/teamtype
 
-[![Stars](https://img.shields.io/github/stars/teamtype/teamtype?style=flat-square&color=yellow)](https://github.com/teamtype/teamtype/stargazers) [![Forks](https://img.shields.io/github/forks/teamtype/teamtype?style=flat-square&color=blue)](https://github.com/teamtype/teamtype/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teamtype/teamtype?style=flat-square&color=yellow)](https://github.com/teamtype/teamtype/stargazers) [![Forks](https://img.shields.io/github/forks/teamtype/teamtype?style=flat-square&color=blue)](https://github.com/teamtype/teamtype/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Peer-to-peer, editor-agnostic collaborative editing of local text files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ teamtype/teamtype：teamtype/teamtype helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 62/100 |
 | stars | 69/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

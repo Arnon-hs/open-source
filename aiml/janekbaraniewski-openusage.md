@@ -1,6 +1,6 @@
 # janekbaraniewski/openusage
 
-[![Stars](https://img.shields.io/github/stars/janekbaraniewski/openusage?style=flat-square&color=yellow)](https://github.com/janekbaraniewski/openusage/stargazers) [![Forks](https://img.shields.io/github/forks/janekbaraniewski/openusage?style=flat-square&color=blue)](https://github.com/janekbaraniewski/openusage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/janekbaraniewski/openusage?style=flat-square&color=yellow)](https://github.com/janekbaraniewski/openusage/stargazers) [![Forks](https://img.shields.io/github/forks/janekbaraniewski/openusage?style=flat-square&color=blue)](https://github.com/janekbaraniewski/openusage/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The one dashboard you’ve been looking for — track spend and usage across Claude, Cursor, OpenRouter, Copilot, Gemini, Codex, and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenUsage — это открытая панель мониторинга, п�
 
 ### 中文
 
-janekbaraniewski/openusage：janekbaraniewski/openusage helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+janekbaraniewski/openusage：janekbaraniewski/openusage helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ janekbaraniewski/openusage：janekbaraniewski/openusage helps add AI capability 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ janekbaraniewski/openusage：janekbaraniewski/openusage helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 61/100 |
-| adoption | 28/100 |
-| stars | 34/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| stars | 34/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 48/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

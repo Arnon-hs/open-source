@@ -1,6 +1,6 @@
 # microsoft/ai-dev-gallery
 
-[![Stars](https://img.shields.io/github/stars/microsoft/ai-dev-gallery?style=flat-square&color=yellow)](https://github.com/microsoft/ai-dev-gallery/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ai-dev-gallery?style=flat-square&color=blue)](https://github.com/microsoft/ai-dev-gallery/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/ai-dev-gallery?style=flat-square&color=yellow)](https://github.com/microsoft/ai-dev-gallery/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/ai-dev-gallery?style=flat-square&color=blue)](https://github.com/microsoft/ai-dev-gallery/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 215 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ microsoft/ai-dev-gallery：microsoft/ai-dev-gallery helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 68/100 |
-| adoption | 65/100 |
-| stars | 67/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

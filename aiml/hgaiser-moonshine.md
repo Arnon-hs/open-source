@@ -1,6 +1,6 @@
 # hgaiser/moonshine
 
-[![Stars](https://img.shields.io/github/stars/hgaiser/moonshine?style=flat-square&color=yellow)](https://github.com/hgaiser/moonshine/stargazers) [![Forks](https://img.shields.io/github/forks/hgaiser/moonshine?style=flat-square&color=blue)](https://github.com/hgaiser/moonshine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hgaiser/moonshine?style=flat-square&color=yellow)](https://github.com/hgaiser/moonshine/stargazers) [![Forks](https://img.shields.io/github/forks/hgaiser/moonshine?style=flat-square&color=blue)](https://github.com/hgaiser/moonshine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Headless streaming server for Moonlight clients, written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ hgaiser/moonshine：hgaiser/moonshine helps add AI capability without starting f
 - updated 2026-05-10
 - primary language: Rust
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 46/100 |
-| production | 50/100 |
-| outlook | 47/100 |
+| production | 43/100 |
+| outlook | 40/100 |
 | adoption | 45/100 |
 | stars | 48/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

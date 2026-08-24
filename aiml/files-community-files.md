@@ -1,6 +1,6 @@
 # files-community/Files
 
-[![Stars](https://img.shields.io/github/stars/files-community/Files?style=flat-square&color=yellow)](https://github.com/files-community/Files/stargazers) [![Forks](https://img.shields.io/github/forks/files-community/Files?style=flat-square&color=blue)](https://github.com/files-community/Files/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/files-community/Files?style=flat-square&color=yellow)](https://github.com/files-community/Files/stargazers) [![Forks](https://img.shields.io/github/forks/files-community/Files?style=flat-square&color=blue)](https://github.com/files-community/Files/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A modern file manager that helps users organize their files and folders.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 43.3k |
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ files-community/Files：files-community/Files helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 73/100 |
+| production | 59/100 |
+| outlook | 66/100 |
 | adoption | 95/100 |
 | stars | 99/100 |
 | forks | 86/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

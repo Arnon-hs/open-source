@@ -1,6 +1,6 @@
 # laravel-zero/awesome-laravel-zero
 
-[![Stars](https://img.shields.io/github/stars/laravel-zero/awesome-laravel-zero?style=flat-square&color=yellow)](https://github.com/laravel-zero/awesome-laravel-zero/stargazers) [![Forks](https://img.shields.io/github/forks/laravel-zero/awesome-laravel-zero?style=flat-square&color=blue)](https://github.com/laravel-zero/awesome-laravel-zero/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laravel-zero/awesome-laravel-zero?style=flat-square&color=yellow)](https://github.com/laravel-zero/awesome-laravel-zero/stargazers) [![Forks](https://img.shields.io/github/forks/laravel-zero/awesome-laravel-zero?style=flat-square&color=blue)](https://github.com/laravel-zero/awesome-laravel-zero/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 👋 START HERE! A curated list of Laravel Zero libraries, resources and projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 134 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ DevTools
 | forks | 28/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

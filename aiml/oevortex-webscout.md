@@ -1,6 +1,6 @@
 # OEvortex/Webscout
 
-[![Stars](https://img.shields.io/github/stars/OEvortex/Webscout?style=flat-square&color=yellow)](https://github.com/OEvortex/Webscout/stargazers) [![Forks](https://img.shields.io/github/forks/OEvortex/Webscout?style=flat-square&color=blue)](https://github.com/OEvortex/Webscout/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OEvortex/Webscout?style=flat-square&color=yellow)](https://github.com/OEvortex/Webscout/stargazers) [![Forks](https://img.shields.io/github/forks/OEvortex/Webscout?style=flat-square&color=blue)](https://github.com/OEvortex/Webscout/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access cutting-edge AI models; transcribe YouTube videos; generate temporary emails and phone numbers; perform text-to-speech conversions; and much more!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 343 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Database
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ OEvortex/Webscout 是一款“一站式”搜索与 AI 工具箱，集成了 Yep
 | forks | 45/100 |
 | stars | 54/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

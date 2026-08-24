@@ -1,6 +1,6 @@
 # mkeeter/fidget
 
-[![Stars](https://img.shields.io/github/stars/mkeeter/fidget?style=flat-square&color=yellow)](https://github.com/mkeeter/fidget/stargazers) [![Forks](https://img.shields.io/github/forks/mkeeter/fidget?style=flat-square&color=blue)](https://github.com/mkeeter/fidget/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mkeeter/fidget?style=flat-square&color=yellow)](https://github.com/mkeeter/fidget/stargazers) [![Forks](https://img.shields.io/github/forks/mkeeter/fidget?style=flat-square&color=blue)](https://github.com/mkeeter/fidget/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > blazing fast implicit surface evaluation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 446 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mkeeter/fidget is an open‑source library that provides ultra‑fast evaluation
 
 ### 中文
 
-mkeeter/fidget：mkeeter/fidget may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mkeeter/fidget：mkeeter/fidget may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ mkeeter/fidget：mkeeter/fidget may be useful when its README and activity match
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ mkeeter/fidget：mkeeter/fidget may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 52/100 |
-| stars | 56/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

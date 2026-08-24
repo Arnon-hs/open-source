@@ -1,6 +1,6 @@
 # flarum/framework
 
-[![Stars](https://img.shields.io/github/stars/flarum/framework?style=flat-square&color=yellow)](https://github.com/flarum/framework/stargazers) [![Forks](https://img.shields.io/github/forks/flarum/framework?style=flat-square&color=blue)](https://github.com/flarum/framework/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flarum/framework?style=flat-square&color=yellow)](https://github.com/flarum/framework/stargazers) [![Forks](https://img.shields.io/github/forks/flarum/framework?style=flat-square&color=blue)](https://github.com/flarum/framework/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Simple forum software for building great communities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 872 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ flarum/framework：flarum/framework helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 64/100 |
+| production | 51/100 |
+| outlook | 57/100 |
 | adoption | 79/100 |
 | stars | 81/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

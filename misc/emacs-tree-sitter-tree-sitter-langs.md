@@ -1,6 +1,6 @@
 # emacs-tree-sitter/tree-sitter-langs
 
-[![Stars](https://img.shields.io/github/stars/emacs-tree-sitter/tree-sitter-langs?style=flat-square&color=yellow)](https://github.com/emacs-tree-sitter/tree-sitter-langs/stargazers) [![Forks](https://img.shields.io/github/forks/emacs-tree-sitter/tree-sitter-langs?style=flat-square&color=blue)](https://github.com/emacs-tree-sitter/tree-sitter-langs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emacs-tree-sitter/tree-sitter-langs?style=flat-square&color=yellow)](https://github.com/emacs-tree-sitter/tree-sitter-langs/stargazers) [![Forks](https://img.shields.io/github/forks/emacs-tree-sitter/tree-sitter-langs?style=flat-square&color=blue)](https://github.com/emacs-tree-sitter/tree-sitter-langs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Language bundle for Emacs's tree-sitter package
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 353 |
 | 🍴 **Forks** | 144 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -88,14 +88,15 @@ emacs-tree-sitter/tree-sitter-langs 的生产可用性为中等。它可以用�
 | forks | 54/100 |
 | stars | 54/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

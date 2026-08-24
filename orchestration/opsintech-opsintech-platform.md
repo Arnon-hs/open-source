@@ -1,6 +1,6 @@
 # OpsinTech/opsintech-platform
 
-[![Stars](https://img.shields.io/github/stars/OpsinTech/opsintech-platform?style=flat-square&color=yellow)](https://github.com/OpsinTech/opsintech-platform/stargazers) [![Forks](https://img.shields.io/github/forks/OpsinTech/opsintech-platform?style=flat-square&color=blue)](https://github.com/OpsinTech/opsintech-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpsinTech/opsintech-platform?style=flat-square&color=yellow)](https://github.com/OpsinTech/opsintech-platform/stargazers) [![Forks](https://img.shields.io/github/forks/OpsinTech/opsintech-platform?style=flat-square&color=blue)](https://github.com/OpsinTech/opsintech-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > OpsinTech Platform — An enterprise-grade AI agent platform built on LangGraph, featuring multi-tenant architecture, role-based access control, sandboxed tool execution, and an admin UI for managing models, MCP servers, skills, and tools. Designed for production deployment with Docker, PostgreSQL support, and comprehensive governance capabilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 89 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · MCP · AI/ML · Frontend · Backend
+Orchestration · MCP · AI/ML · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ OpsinTech Platform 将零散的 Prompt 与工具封装成可重复、可治理�
 | forks | 31/100 |
 | stars | 42/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 57/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 42/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # YoulianBoshi/vpn
 
-[![Stars](https://img.shields.io/github/stars/YoulianBoshi/vpn?style=flat-square&color=yellow)](https://github.com/YoulianBoshi/vpn/stargazers) [![Forks](https://img.shields.io/github/forks/YoulianBoshi/vpn?style=flat-square&color=blue)](https://github.com/YoulianBoshi/vpn/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YoulianBoshi/vpn?style=flat-square&color=yellow)](https://github.com/YoulianBoshi/vpn/stargazers) [![Forks](https://img.shields.io/github/forks/YoulianBoshi/vpn?style=flat-square&color=blue)](https://github.com/YoulianBoshi/vpn/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 破解VPN，电脑VPN，白嫖VPN，加入油脸博士电报群.获取更多破解VPN
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.5k |
 | 🍴 **Forks** | 484 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ YoulianBoshi/vpn — open‑source инструмент для обхода 
 
 ### 中文
 
-YoulianBoshi/vpn：YoulianBoshi/vpn may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+YoulianBoshi/vpn：YoulianBoshi/vpn may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ YoulianBoshi/vpn：YoulianBoshi/vpn may be useful when its README and activity m
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ YoulianBoshi/vpn：YoulianBoshi/vpn may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 76/100 |
-| stars | 80/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| stars | 80/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

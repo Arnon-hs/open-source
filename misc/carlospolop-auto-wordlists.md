@@ -1,6 +1,6 @@
 # carlospolop/Auto_Wordlists
 
-[![Stars](https://img.shields.io/github/stars/carlospolop/Auto_Wordlists?style=flat-square&color=yellow)](https://github.com/carlospolop/Auto_Wordlists/stargazers) [![Forks](https://img.shields.io/github/forks/carlospolop/Auto_Wordlists?style=flat-square&color=blue)](https://github.com/carlospolop/Auto_Wordlists/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carlospolop/Auto_Wordlists?style=flat-square&color=yellow)](https://github.com/carlospolop/Auto_Wordlists/stargazers) [![Forks](https://img.shields.io/github/forks/carlospolop/Auto_Wordlists?style=flat-square&color=blue)](https://github.com/carlospolop/Auto_Wordlists/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Auto_Wordlists is an open‑source collection of curated wordlists designed for 
 
 ### 中文
 
-carlospolop/Auto_Wordlists：carlospolop/Auto_Wordlists may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+carlospolop/Auto_Wordlists：carlospolop/Auto_Wordlists may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ carlospolop/Auto_Wordlists：carlospolop/Auto_Wordlists may be useful when its R
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ carlospolop/Auto_Wordlists：carlospolop/Auto_Wordlists may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 34/100 |
-| production | 51/100 |
-| outlook | 49/100 |
-| adoption | 65/100 |
-| stars | 67/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 67/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 34/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # CuteLeaf/Firefly
 
-[![Stars](https://img.shields.io/github/stars/CuteLeaf/Firefly?style=flat-square&color=yellow)](https://github.com/CuteLeaf/Firefly/stargazers) [![Forks](https://img.shields.io/github/forks/CuteLeaf/Firefly?style=flat-square&color=blue)](https://github.com/CuteLeaf/Firefly/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CuteLeaf/Firefly?style=flat-square&color=yellow)](https://github.com/CuteLeaf/Firefly/stargazers) [![Forks](https://img.shields.io/github/forks/CuteLeaf/Firefly?style=flat-square&color=blue)](https://github.com/CuteLeaf/Firefly/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme template, Secondary development based on Fuwari.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 937 |
 | 🍴 **Forks** | 479 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,15 +63,15 @@ CuteLeaf/Firefly：CuteLeaf/Firefly may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
+| usefulness | 58/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 64/100 |
 | stars | 63/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

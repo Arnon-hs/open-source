@@ -1,6 +1,6 @@
 # prasenjeet-symon/ogcode
 
-[![Stars](https://img.shields.io/github/stars/prasenjeet-symon/ogcode?style=flat-square&color=yellow)](https://github.com/prasenjeet-symon/ogcode/stargazers) [![Forks](https://img.shields.io/github/forks/prasenjeet-symon/ogcode?style=flat-square&color=blue)](https://github.com/prasenjeet-symon/ogcode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prasenjeet-symon/ogcode?style=flat-square&color=yellow)](https://github.com/prasenjeet-symon/ogcode/stargazers) [![Forks](https://img.shields.io/github/forks/prasenjeet-symon/ogcode?style=flat-square&color=blue)](https://github.com/prasenjeet-symon/ogcode/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A web UI coding agent that handles the full development loop: understand your codebase, plan features collaboratively, spin up isolated branch agents, write the code, and ship PRs — all in parallel. Written in Go.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · DevTools
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ prasenjeet‑symon/ogcode 是一款基于 Go 实现的 Web UI 编码助手，能
 | forks | 21/100 |
 | stars | 43/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 90/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

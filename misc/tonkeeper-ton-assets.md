@@ -1,6 +1,6 @@
 # tonkeeper/ton-assets
 
-[![Stars](https://img.shields.io/github/stars/tonkeeper/ton-assets?style=flat-square&color=yellow)](https://github.com/tonkeeper/ton-assets/stargazers) [![Forks](https://img.shields.io/github/forks/tonkeeper/ton-assets?style=flat-square&color=blue)](https://github.com/tonkeeper/ton-assets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonkeeper/ton-assets?style=flat-square&color=yellow)](https://github.com/tonkeeper/ton-assets/stargazers) [![Forks](https://img.shields.io/github/forks/tonkeeper/ton-assets?style=flat-square&color=blue)](https://github.com/tonkeeper/ton-assets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 668 |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ tonkeeper/ton‑assets 是一个基于 Python 的开源库，提供对 TON（The
 | forks | 87/100 |
 | stars | 60/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 68/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

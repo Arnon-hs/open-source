@@ -1,6 +1,6 @@
 # linera-io/linera-protocol
 
-[![Stars](https://img.shields.io/github/stars/linera-io/linera-protocol?style=flat-square&color=yellow)](https://github.com/linera-io/linera-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/linera-io/linera-protocol?style=flat-square&color=blue)](https://github.com/linera-io/linera-protocol/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linera-io/linera-protocol?style=flat-square&color=yellow)](https://github.com/linera-io/linera-protocol/stargazers) [![Forks](https://img.shields.io/github/forks/linera-io/linera-protocol?style=flat-square&color=blue)](https://github.com/linera-io/linera-protocol/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Main repository for the Linera protocol
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32.1k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ linera-io/linera-protocol: linera-io/linera-protocol helps prototype or inspect 
 
 ### Русский
 
-linera-io/linera-protocol: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+linera-io/linera-protocol: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ linera-io/linera-protocol：linera-io/linera-protocol helps prototype or inspect
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 93/100 |
-| stars | 96/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| stars | 96/100 |
 | topics | 38/100 |
+| outlook | 52/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

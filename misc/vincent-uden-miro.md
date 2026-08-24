@@ -1,6 +1,6 @@
 # vincent-uden/miro
 
-[![Stars](https://img.shields.io/github/stars/vincent-uden/miro?style=flat-square&color=yellow)](https://github.com/vincent-uden/miro/stargazers) [![Forks](https://img.shields.io/github/forks/vincent-uden/miro?style=flat-square&color=blue)](https://github.com/vincent-uden/miro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vincent-uden/miro?style=flat-square&color=yellow)](https://github.com/vincent-uden/miro/stargazers) [![Forks](https://img.shields.io/github/forks/vincent-uden/miro?style=flat-square&color=blue)](https://github.com/vincent-uden/miro/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A native pdf viewer for Windows and Linux (Wayland/X11) with configurable keybindings.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 477 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Vincent‑Uden’s **miro** is a lightweight, native PDF viewer designed for Win
 
 ### 中文
 
-vincent-uden/miro：vincent-uden/miro may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vincent-uden/miro：vincent-uden/miro may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ vincent-uden/miro：vincent-uden/miro may be useful when its README and activity
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ vincent-uden/miro：vincent-uden/miro may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 51/100 |
-| stars | 57/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 50/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

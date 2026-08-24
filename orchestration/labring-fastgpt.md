@@ -1,6 +1,6 @@
 # labring/FastGPT
 
-[![Stars](https://img.shields.io/github/stars/labring/FastGPT?style=flat-square&color=yellow)](https://github.com/labring/FastGPT/stargazers) [![Forks](https://img.shields.io/github/forks/labring/FastGPT?style=flat-square&color=blue)](https://github.com/labring/FastGPT/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/labring/FastGPT?style=flat-square&color=yellow)](https://github.com/labring/FastGPT/stargazers) [![Forks](https://img.shields.io/github/forks/labring/FastGPT?style=flat-square&color=blue)](https://github.com/labring/FastGPT/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.9k |
 | 🍴 **Forks** | 7.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 80/100 |
+| 📈 **Score** | 77/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ labring/FastGPT: labring/FastGPT helps turn isolated prompts and tools into repe
 
 ### Русский
 
-labring/FastGPT: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+labring/FastGPT: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ labring/FastGPT：labring/FastGPT helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 83/100 |
-| integration | 62/100 |
-| production | 65/100 |
-| outlook | 78/100 |
-| adoption | 95/100 |
-| stars | 95/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # MFlowCode/MFC
 
-[![Stars](https://img.shields.io/github/stars/MFlowCode/MFC?style=flat-square&color=yellow)](https://github.com/MFlowCode/MFC/stargazers) [![Forks](https://img.shields.io/github/forks/MFlowCode/MFC?style=flat-square&color=blue)](https://github.com/MFlowCode/MFC/network) [![Language](https://img.shields.io/badge/lang-Fortran-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MFlowCode/MFC?style=flat-square&color=yellow)](https://github.com/MFlowCode/MFC/stargazers) [![Forks](https://img.shields.io/github/forks/MFlowCode/MFC?style=flat-square&color=blue)](https://github.com/MFlowCode/MFC/network) [![Language](https://img.shields.io/badge/lang-Fortran-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 357 |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Fortran |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MFlowCode (MFC) — открытый высокопроизводительн�
 
 ### 中文
 
-MFlowCode/MFC：MFlowCode/MFC helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MFlowCode/MFC：MFlowCode/MFC helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ MFlowCode/MFC：MFlowCode/MFC helps ship user-facing interfaces with less custom
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ MFlowCode/MFC：MFlowCode/MFC helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 56/100 |
+| production | 50/100 |
+| outlook | 49/100 |
 | adoption | 54/100 |
 | stars | 54/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

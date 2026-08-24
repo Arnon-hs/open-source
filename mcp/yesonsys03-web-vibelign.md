@@ -1,6 +1,6 @@
 # yesonsys03-web/VibeLign
 
-[![Stars](https://img.shields.io/github/stars/yesonsys03-web/VibeLign?style=flat-square&color=yellow)](https://github.com/yesonsys03-web/VibeLign/stargazers) [![Forks](https://img.shields.io/github/forks/yesonsys03-web/VibeLign?style=flat-square&color=blue)](https://github.com/yesonsys03-web/VibeLign/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yesonsys03-web/VibeLign?style=flat-square&color=yellow)](https://github.com/yesonsys03-web/VibeLign/stargazers) [![Forks](https://img.shields.io/github/forks/yesonsys03-web/VibeLign?style=flat-square&color=blue)](https://github.com/yesonsys03-web/VibeLign/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding safety CLI for vibe coding workflows. Checkpoints, undo, anchors, MCP, and secret protection for Claude Code, Cursor, Codex, and OpenCode.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · DevTools
+MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ VibeLign 是一个面向 Vibe 编码工作流的 AI 编码安全 CLI，提供检
 | forks | 8/100 |
 | stars | 28/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 45/100 |
+| recency | 20/100 |
 | adoption | 22/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

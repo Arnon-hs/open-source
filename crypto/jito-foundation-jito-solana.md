@@ -1,6 +1,6 @@
 # jito-foundation/jito-solana
 
-[![Stars](https://img.shields.io/github/stars/jito-foundation/jito-solana?style=flat-square&color=yellow)](https://github.com/jito-foundation/jito-solana/stargazers) [![Forks](https://img.shields.io/github/forks/jito-foundation/jito-solana?style=flat-square&color=blue)](https://github.com/jito-foundation/jito-solana/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jito-foundation/jito-solana?style=flat-square&color=yellow)](https://github.com/jito-foundation/jito-solana/stargazers) [![Forks](https://img.shields.io/github/forks/jito-foundation/jito-solana?style=flat-square&color=blue)](https://github.com/jito-foundation/jito-solana/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Jito Foundation MEV Solana Client
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 732 |
 | 🍴 **Forks** | 391 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -101,14 +101,15 @@ Jito Foundation MEV Solana Client 是一个开源项目，用于帮助开发者�
 | forks | 65/100 |
 | stars | 61/100 |
 | topics | 38/100 |
-| outlook | 76/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 62/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

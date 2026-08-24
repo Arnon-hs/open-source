@@ -1,6 +1,6 @@
 # videolabs/mirrorbits
 
-[![Stars](https://img.shields.io/github/stars/videolabs/mirrorbits?style=flat-square&color=yellow)](https://github.com/videolabs/mirrorbits/stargazers) [![Forks](https://img.shields.io/github/forks/videolabs/mirrorbits?style=flat-square&color=blue)](https://github.com/videolabs/mirrorbits/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/videolabs/mirrorbits?style=flat-square&color=yellow)](https://github.com/videolabs/mirrorbits/stargazers) [![Forks](https://img.shields.io/github/forks/videolabs/mirrorbits?style=flat-square&color=blue)](https://github.com/videolabs/mirrorbits/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 581 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · DevOps/Infra
+DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ videolabs/mirrorbits：videolabs/mirrorbits helps engineers save time in daily d
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 60/100 |
-| adoption | 56/100 |
-| stars | 59/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

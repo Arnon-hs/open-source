@@ -1,6 +1,6 @@
 # metalbear-co/mirrord
 
-[![Stars](https://img.shields.io/github/stars/metalbear-co/mirrord?style=flat-square&color=yellow)](https://github.com/metalbear-co/mirrord/stargazers) [![Forks](https://img.shields.io/github/forks/metalbear-co/mirrord?style=flat-square&color=blue)](https://github.com/metalbear-co/mirrord/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metalbear-co/mirrord?style=flat-square&color=yellow)](https://github.com/metalbear-co/mirrord/stargazers) [![Forks](https://img.shields.io/github/forks/metalbear-co/mirrord?style=flat-square&color=blue)](https://github.com/metalbear-co/mirrord/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Connect your local process and your cloud environment, and run local code in cloud conditions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 193 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ metalbear-co/mirrord：metalbear-co/mirrord helps teams reuse service infrastruc
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 73/100 |
-| integration | 78/100 |
-| production | 64/100 |
-| outlook | 70/100 |
-| adoption | 73/100 |
-| stars | 79/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

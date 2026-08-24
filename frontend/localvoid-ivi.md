@@ -1,6 +1,6 @@
 # localvoid/ivi
 
-[![Stars](https://img.shields.io/github/stars/localvoid/ivi?style=flat-square&color=yellow)](https://github.com/localvoid/ivi/stargazers) [![Forks](https://img.shields.io/github/forks/localvoid/ivi?style=flat-square&color=blue)](https://github.com/localvoid/ivi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/localvoid/ivi?style=flat-square&color=yellow)](https://github.com/localvoid/ivi/stargazers) [![Forks](https://img.shields.io/github/forks/localvoid/ivi?style=flat-square&color=blue)](https://github.com/localvoid/ivi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Lighweight Embeddable Web UI Library
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 794 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ localvoid/ivi 是一个轻量级、可嵌入的 Web UI 库，提供一套即插�
 | forks | 35/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

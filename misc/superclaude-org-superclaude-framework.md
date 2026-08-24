@@ -1,0 +1,80 @@
+# SuperClaude-Org/SuperClaude_Framework
+
+[![Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework?style=flat-square&color=yellow)](https://github.com/SuperClaude-Org/SuperClaude_Framework/stargazers) [![Forks](https://img.shields.io/github/forks/SuperClaude-Org/SuperClaude_Framework?style=flat-square&color=blue)](https://github.com/SuperClaude-Org/SuperClaude_Framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+
+> A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 23.8k |
+| 🍴 **Forks** | 2k |
+| 💻 **Language** | Python |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+SuperClaude-Org/SuperClaude_Framework: SuperClaude-Org/SuperClaude_Framework may be useful when its README and activity match a concrete workflow.. Use it for Misc. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+SuperClaude-Org/SuperClaude_Framework: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+SuperClaude-Org/SuperClaude_Framework：SuperClaude-Org/SuperClaude_Framework may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** SuperClaude-Org/SuperClaude_Framework may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 23838 GitHub stars
+- 2014 forks
+- updated 2026-08-21
+- primary language: Python
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 83/100 |
+| stars | 93/100 |
+| topics | 0/100 |
+| outlook | 72/100 |
+| quality | 76/100 |
+| recency | 80/100 |
+| adoption | 90/100 |
+| production | 70/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
+
+---
+
+<sub>🔭 Discovered 2026-08-21 · [View on GitHub](https://github.com/SuperClaude-Org/SuperClaude_Framework) · [← Back to Misc](./README.md)</sub>

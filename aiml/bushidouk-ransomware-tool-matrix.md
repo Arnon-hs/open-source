@@ -1,6 +1,6 @@
 # BushidoUK/Ransomware-Tool-Matrix
 
-[![Stars](https://img.shields.io/github/stars/BushidoUK/Ransomware-Tool-Matrix?style=flat-square&color=yellow)](https://github.com/BushidoUK/Ransomware-Tool-Matrix/stargazers) [![Forks](https://img.shields.io/github/forks/BushidoUK/Ransomware-Tool-Matrix?style=flat-square&color=blue)](https://github.com/BushidoUK/Ransomware-Tool-Matrix/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BushidoUK/Ransomware-Tool-Matrix?style=flat-square&color=yellow)](https://github.com/BushidoUK/Ransomware-Tool-Matrix/stargazers) [![Forks](https://img.shields.io/github/forks/BushidoUK/Ransomware-Tool-Matrix?style=flat-square&color=blue)](https://github.com/BushidoUK/Ransomware-Tool-Matrix/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A resource containing all the tools each ransomware gangs uses
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 149 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ BushidoUK/Ransomware-Tool-Matrix — это открытая база данн
 
 ### 中文
 
-BushidoUK/Ransomware-Tool-Matrix：BushidoUK/Ransomware-Tool-Matrix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BushidoUK/Ransomware-Tool-Matrix：BushidoUK/Ransomware-Tool-Matrix helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ BushidoUK/Ransomware-Tool-Matrix：BushidoUK/Ransomware-Tool-Matrix helps add AI
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ BushidoUK/Ransomware-Tool-Matrix：BushidoUK/Ransomware-Tool-Matrix helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 63/100 |
 | stars | 67/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

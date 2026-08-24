@@ -1,6 +1,6 @@
 # zilong7728/Collect-IPTV
 
-[![Stars](https://img.shields.io/github/stars/zilong7728/Collect-IPTV?style=flat-square&color=yellow)](https://github.com/zilong7728/Collect-IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/zilong7728/Collect-IPTV?style=flat-square&color=blue)](https://github.com/zilong7728/Collect-IPTV/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zilong7728/Collect-IPTV?style=flat-square&color=yellow)](https://github.com/zilong7728/Collect-IPTV/stargazers) [![Forks](https://img.shields.io/github/forks/zilong7728/Collect-IPTV?style=flat-square&color=blue)](https://github.com/zilong7728/Collect-IPTV/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 📡IPTV节目源收集，每4小时更新！！
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 219 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Collect-IPTV is an open‑source repository that aggregates IPTV channel playlis
 
 ### 中文
 
-zilong7728/Collect-IPTV：zilong7728/Collect-IPTV may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+zilong7728/Collect-IPTV：zilong7728/Collect-IPTV may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ zilong7728/Collect-IPTV：zilong7728/Collect-IPTV may be useful when its README 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,16 +61,16 @@ zilong7728/Collect-IPTV：zilong7728/Collect-IPTV may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 63/100 |
-| stars | 64/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

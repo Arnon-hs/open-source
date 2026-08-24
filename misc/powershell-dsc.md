@@ -1,6 +1,6 @@
 # PowerShell/DSC
 
-[![Stars](https://img.shields.io/github/stars/PowerShell/DSC?style=flat-square&color=yellow)](https://github.com/PowerShell/DSC/stargazers) [![Forks](https://img.shields.io/github/forks/PowerShell/DSC?style=flat-square&color=blue)](https://github.com/PowerShell/DSC/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PowerShell/DSC?style=flat-square&color=yellow)](https://github.com/PowerShell/DSC/stargazers) [![Forks](https://img.shields.io/github/forks/PowerShell/DSC?style=flat-square&color=blue)](https://github.com/PowerShell/DSC/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > This repo is for the DSC v3 project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 472 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -56,22 +56,22 @@ PowerShell/DSC：PowerShell/DSC may be useful when its README and activity match
 - updated 2026-05-10
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 46/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

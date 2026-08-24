@@ -1,6 +1,6 @@
 # sindresorhus/sindresorhus.github.com
 
-[![Stars](https://img.shields.io/github/stars/sindresorhus/sindresorhus.github.com?style=flat-square&color=yellow)](https://github.com/sindresorhus/sindresorhus.github.com/stargazers) [![Forks](https://img.shields.io/github/forks/sindresorhus/sindresorhus.github.com?style=flat-square&color=blue)](https://github.com/sindresorhus/sindresorhus.github.com/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sindresorhus/sindresorhus.github.com?style=flat-square&color=yellow)](https://github.com/sindresorhus/sindresorhus.github.com/stargazers) [![Forks](https://img.shields.io/github/forks/sindresorhus/sindresorhus.github.com?style=flat-square&color=blue)](https://github.com/sindresorhus/sindresorhus.github.com/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Personal website of Sindre Sorhus
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 319 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Overall, the project is well‑suited for prototypes, internal documentation por
 | forks | 46/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 44/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

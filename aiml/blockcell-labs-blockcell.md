@@ -1,6 +1,6 @@
 # blockcell-labs/blockcell
 
-[![Stars](https://img.shields.io/github/stars/blockcell-labs/blockcell?style=flat-square&color=yellow)](https://github.com/blockcell-labs/blockcell/stargazers) [![Forks](https://img.shields.io/github/forks/blockcell-labs/blockcell?style=flat-square&color=blue)](https://github.com/blockcell-labs/blockcell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blockcell-labs/blockcell?style=flat-square&color=yellow)](https://github.com/blockcell-labs/blockcell/stargazers) [![Forks](https://img.shields.io/github/forks/blockcell-labs/blockcell?style=flat-square&color=blue)](https://github.com/blockcell-labs/blockcell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Blockcell is a self‑evolving agent
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 234 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ blockcell-labs/blockcell：blockcell-labs/blockcell helps add AI capability with
 - updated 2026-05-10
 - primary language: Rust
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 48/100 |
-| outlook | 48/100 |
+| production | 41/100 |
+| outlook | 41/100 |
 | adoption | 48/100 |
 | stars | 50/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

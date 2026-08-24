@@ -1,6 +1,6 @@
 # hahwul/jwt-hack
 
-[![Stars](https://img.shields.io/github/stars/hahwul/jwt-hack?style=flat-square&color=yellow)](https://github.com/hahwul/jwt-hack/stargazers) [![Forks](https://img.shields.io/github/forks/hahwul/jwt-hack?style=flat-square&color=blue)](https://github.com/hahwul/jwt-hack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hahwul/jwt-hack?style=flat-square&color=yellow)](https://github.com/hahwul/jwt-hack/stargazers) [![Forks](https://img.shields.io/github/forks/hahwul/jwt-hack?style=flat-square&color=blue)](https://github.com/hahwul/jwt-hack/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > JSON Web Token Hack Toolkit
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 988 |
 | 🍴 **Forks** | 118 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **jwt-hack** toolkit provides a collection of command‑line utilities for a
 
 ### 中文
 
-hahwul/jwt-hack：hahwul/jwt-hack helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hahwul/jwt-hack：hahwul/jwt-hack helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hahwul/jwt-hack：hahwul/jwt-hack helps engineers save time in daily development
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ hahwul/jwt-hack：hahwul/jwt-hack helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 60/100 |
 | stars | 64/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

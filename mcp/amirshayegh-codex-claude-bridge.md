@@ -1,6 +1,6 @@
 # AmirShayegh/codex-claude-bridge
 
-[![Stars](https://img.shields.io/github/stars/AmirShayegh/codex-claude-bridge?style=flat-square&color=yellow)](https://github.com/AmirShayegh/codex-claude-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/AmirShayegh/codex-claude-bridge?style=flat-square&color=blue)](https://github.com/AmirShayegh/codex-claude-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmirShayegh/codex-claude-bridge?style=flat-square&color=yellow)](https://github.com/AmirShayegh/codex-claude-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/AmirShayegh/codex-claude-bridge?style=flat-square&color=blue)](https://github.com/AmirShayegh/codex-claude-bridge/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Automated code review powered by OpenAI Codex. CLI + Claude Code MCP integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ AmirShayegh/codex-claude-bridge 是一款基于 OpenAI Codex 的自动化代码�
 | forks | 8/100 |
 | stars | 28/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 22/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # firecrawl/firecrawl-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=flat-square&color=yellow)](https://github.com/firecrawl/firecrawl-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/firecrawl/firecrawl-mcp-server?style=flat-square&color=blue)](https://github.com/firecrawl/firecrawl-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=flat-square&color=yellow)](https://github.com/firecrawl/firecrawl-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/firecrawl/firecrawl-mcp-server?style=flat-square&color=blue)](https://github.com/firecrawl/firecrawl-mcp-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.7k |
 | 🍴 **Forks** | 774 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools · Data
+MCP · AI/ML · Backend · Data
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ firecrawl‑mcp‑server 为 AI 助手（如 Cursor、Claude 以及其他 LLM �
 | forks | 72/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

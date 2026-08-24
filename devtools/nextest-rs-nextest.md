@@ -1,6 +1,6 @@
 # nextest-rs/nextest
 
-[![Stars](https://img.shields.io/github/stars/nextest-rs/nextest?style=flat-square&color=yellow)](https://github.com/nextest-rs/nextest/stargazers) [![Forks](https://img.shields.io/github/forks/nextest-rs/nextest?style=flat-square&color=blue)](https://github.com/nextest-rs/nextest/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nextest-rs/nextest?style=flat-square&color=yellow)](https://github.com/nextest-rs/nextest/stargazers) [![Forks](https://img.shields.io/github/forks/nextest-rs/nextest?style=flat-square&color=blue)](https://github.com/nextest-rs/nextest/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A next-generation test runner for Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ nextest-rs/nextest：nextest-rs/nextest helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 58/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 69/100 |
 | stars | 74/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

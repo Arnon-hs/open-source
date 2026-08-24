@@ -1,6 +1,6 @@
 # nolabs-ai/AgentUp
 
-[![Stars](https://img.shields.io/github/stars/nolabs-ai/AgentUp?style=flat-square&color=yellow)](https://github.com/nolabs-ai/AgentUp/stargazers) [![Forks](https://img.shields.io/github/forks/nolabs-ai/AgentUp?style=flat-square&color=blue)](https://github.com/nolabs-ai/AgentUp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nolabs-ai/AgentUp?style=flat-square&color=yellow)](https://github.com/nolabs-ai/AgentUp/stargazers) [![Forks](https://img.shields.io/github/forks/nolabs-ai/AgentUp?style=flat-square&color=blue)](https://github.com/nolabs-ai/AgentUp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Portable , scalable , secure AI Agents
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 124 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ nolabs‑ai/AgentUp 是一个便携、可扩展且安全的 AI Agent 框架，�
 | forks | 35/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

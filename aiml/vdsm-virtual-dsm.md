@@ -1,6 +1,6 @@
 # vdsm/virtual-dsm
 
-[![Stars](https://img.shields.io/github/stars/vdsm/virtual-dsm?style=flat-square&color=yellow)](https://github.com/vdsm/virtual-dsm/stargazers) [![Forks](https://img.shields.io/github/forks/vdsm/virtual-dsm?style=flat-square&color=blue)](https://github.com/vdsm/virtual-dsm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vdsm/virtual-dsm?style=flat-square&color=yellow)](https://github.com/vdsm/virtual-dsm/stargazers) [![Forks](https://img.shields.io/github/forks/vdsm/virtual-dsm?style=flat-square&color=blue)](https://github.com/vdsm/virtual-dsm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Virtual DSM in a Docker container.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ vdsm/virtual-dsm：vdsm/virtual-dsm helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 53/100 |
+| outlook | 54/100 |
 | adoption | 74/100 |
 | stars | 76/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

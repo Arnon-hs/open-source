@@ -1,6 +1,6 @@
 # Seeed-Projects/reComputer-Jetson-for-Beginners
 
-[![Stars](https://img.shields.io/github/stars/Seeed-Projects/reComputer-Jetson-for-Beginners?style=flat-square&color=yellow)](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners/stargazers) [![Forks](https://img.shields.io/github/forks/Seeed-Projects/reComputer-Jetson-for-Beginners?style=flat-square&color=blue)](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Seeed-Projects/reComputer-Jetson-for-Beginners?style=flat-square&color=yellow)](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners/stargazers) [![Forks](https://img.shields.io/github/forks/Seeed-Projects/reComputer-Jetson-for-Beginners?style=flat-square&color=blue)](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Beginner's Guide to reComputer Jetson
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 138 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ The **reComputer‑Jetson‑for‑Beginners** repository provides a step‑by‑
 
 ### 中文
 
-Seeed-Projects/reComputer-Jetson-for-Beginners：Seeed-Projects/reComputer-Jetson-for-Beginners helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Seeed-Projects/reComputer-Jetson-for-Beginners：Seeed-Projects/reComputer-Jetson-for-Beginners helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Seeed-Projects/reComputer-Jetson-for-Beginners：Seeed-Projects/reComputer-Jetso
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Seeed-Projects/reComputer-Jetson-for-Beginners：Seeed-Projects/reComputer-Jetso
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 43/100 |
-| stars | 46/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

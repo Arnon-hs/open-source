@@ -1,6 +1,6 @@
 # OnChainMee/OnChainMee-Web3-Portfolio
 
-[![Stars](https://img.shields.io/github/stars/OnChainMee/OnChainMee-Web3-Portfolio?style=flat-square&color=yellow)](https://github.com/OnChainMee/OnChainMee-Web3-Portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/OnChainMee/OnChainMee-Web3-Portfolio?style=flat-square&color=blue)](https://github.com/OnChainMee/OnChainMee-Web3-Portfolio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OnChainMee/OnChainMee-Web3-Portfolio?style=flat-square&color=yellow)](https://github.com/OnChainMee/OnChainMee-Web3-Portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/OnChainMee/OnChainMee-Web3-Portfolio?style=flat-square&color=blue)](https://github.com/OnChainMee/OnChainMee-Web3-Portfolio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Solana EVM Developer: AI Agents & AI-powered on-chain systems Smart Contracts & DeFi Protocols Cross-Chain Bridges NFT Marketplaces & Dynamic NFT Platforms Token Launchpads & Bonding Curve DEXs P2E Games & GameFi Provably Fair Non-Custodial Casinos & Betting Non-Custodial Staking & Yield Systems  Institutional Lending Protocols & RWA infrastructure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 308 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OnChainMee‑Web3‑Portfolio — это открытый набор инст�
 
 ### 中文
 
-OnChainMee/OnChainMee-Web3-Portfolio：OnChainMee/OnChainMee-Web3-Portfolio helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+OnChainMee/OnChainMee-Web3-Portfolio：OnChainMee/OnChainMee-Web3-Portfolio helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ OnChainMee/OnChainMee-Web3-Portfolio：OnChainMee/OnChainMee-Web3-Portfolio help
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ OnChainMee/OnChainMee-Web3-Portfolio：OnChainMee/OnChainMee-Web3-Portfolio help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 53/100 |
-| stars | 53/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

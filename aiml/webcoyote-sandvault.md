@@ -1,6 +1,6 @@
 # webcoyote/sandvault
 
-[![Stars](https://img.shields.io/github/stars/webcoyote/sandvault?style=flat-square&color=yellow)](https://github.com/webcoyote/sandvault/stargazers) [![Forks](https://img.shields.io/github/forks/webcoyote/sandvault?style=flat-square&color=blue)](https://github.com/webcoyote/sandvault/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webcoyote/sandvault?style=flat-square&color=yellow)](https://github.com/webcoyote/sandvault/stargazers) [![Forks](https://img.shields.io/github/forks/webcoyote/sandvault?style=flat-square&color=blue)](https://github.com/webcoyote/sandvault/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Run AI agents isolated in a macOS user account and sandbox-exec. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 256 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ WebCoyote SandVault is an open‑source sandbox that isolates AI coding agents
 
 ### 中文
 
-webcoyote/sandvault：webcoyote/sandvault helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+webcoyote/sandvault：webcoyote/sandvault helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ webcoyote/sandvault：webcoyote/sandvault helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ webcoyote/sandvault：webcoyote/sandvault helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 45/100 |
-| stars | 51/100 |
 | forks | 28/100 |
-| recency | 40/100 |
+| stars | 51/100 |
 | topics | 50/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

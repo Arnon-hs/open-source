@@ -1,6 +1,6 @@
 # mongodb/mongo
 
-[![Stars](https://img.shields.io/github/stars/mongodb/mongo?style=flat-square&color=yellow)](https://github.com/mongodb/mongo/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/mongo?style=flat-square&color=blue)](https://github.com/mongodb/mongo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mongodb/mongo?style=flat-square&color=yellow)](https://github.com/mongodb/mongo/stargazers) [![Forks](https://img.shields.io/github/forks/mongodb/mongo?style=flat-square&color=blue)](https://github.com/mongodb/mongo/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > The MongoDB Database
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28.3k |
 | 🍴 **Forks** | 5.8k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ mongodb/mongo：mongodb/mongo helps convert raw data into searchable, analyzable
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 95/100 |
 | stars | 95/100 |
 | forks | 94/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

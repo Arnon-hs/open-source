@@ -1,6 +1,6 @@
 # dralkh/seerai
 
-[![Stars](https://img.shields.io/github/stars/dralkh/seerai?style=flat-square&color=yellow)](https://github.com/dralkh/seerai/stargazers) [![Forks](https://img.shields.io/github/forks/dralkh/seerai?style=flat-square&color=blue)](https://github.com/dralkh/seerai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dralkh/seerai?style=flat-square&color=yellow)](https://github.com/dralkh/seerai/stargazers) [![Forks](https://img.shields.io/github/forks/dralkh/seerai?style=flat-square&color=blue)](https://github.com/dralkh/seerai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Zotero AI plugin, research framework, assistant, with MCP, agent capabilities, OCR, table extraction, semantic scholar, and firecrawl/tavily web search
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Overall, SeerAI offers a robust, extensible platform for connecting AI agents to
 | forks | 15/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

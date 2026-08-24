@@ -1,6 +1,6 @@
 # ayaka-notes/overleaf-pro
 
-[![Stars](https://img.shields.io/github/stars/ayaka-notes/overleaf-pro?style=flat-square&color=yellow)](https://github.com/ayaka-notes/overleaf-pro/stargazers) [![Forks](https://img.shields.io/github/forks/ayaka-notes/overleaf-pro?style=flat-square&color=blue)](https://github.com/ayaka-notes/overleaf-pro/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ayaka-notes/overleaf-pro?style=flat-square&color=yellow)](https://github.com/ayaka-notes/overleaf-pro/stargazers) [![Forks](https://img.shields.io/github/forks/ayaka-notes/overleaf-pro?style=flat-square&color=blue)](https://github.com/ayaka-notes/overleaf-pro/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A web-based collaborative LaTeX editor, extended from Overleaf, by @Ayaka-notes Pro Edition. QQ Group: https://qm.qq.com/q/sHJevaAPFC
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 412 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ ayaka-notes/overleaf‑pro 是在 Overleaf 基础上深度扩展的 Web 协作 L
 | forks | 32/100 |
 | stars | 56/100 |
 | topics | 88/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

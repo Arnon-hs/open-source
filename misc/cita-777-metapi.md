@@ -1,0 +1,79 @@
+# cita-777/metapi
+
+[![Stars](https://img.shields.io/github/stars/cita-777/metapi?style=flat-square&color=yellow)](https://github.com/cita-777/metapi/stargazers) [![Forks](https://img.shields.io/github/forks/cita-777/metapi?style=flat-square&color=blue)](https://github.com/cita-777/metapi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+
+> 把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2.4k |
+| 🍴 **Forks** | 348 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+cita-777/metapi is an open‑source backend service that consolidates the numerous API endpoints you’ve registered across platforms such as New API, One API, OneHub, DoneHub, Veloera, AnyRouter, and Sub2API into a single unified API key and entry point. It automatically discovers available models, performs intelligent routing, and selects the most cost‑effective execution path, simplifying multi‑API management for developers.
+
+### Русский
+
+**cita-777/metapi** – это open‑source бекенд‑платформа, которая объединяет все ваши зарегистрированные API (New API, One API, OneHub, DoneHub, Veloera, AnyRouter, Sub2API и др.) в единую точку доступа с одним API‑ключом. Проект автоматически обнаруживает доступные модели, осуществляет интеллектуальный роутинг запросов и подбирает оптимальный по стоимости вариант выполнения.
+
+### 中文
+
+cita-777/metapi：cita-777/metapi may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** cita-777/metapi may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 2415 GitHub stars
+- 348 forks
+- updated 2026-05-08
+- primary language: TypeScript
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 64/100 |
+| stars | 72/100 |
+| topics | 0/100 |
+| outlook | 46/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/cita-777/metapi) · [← Back to Misc](./README.md)</sub>

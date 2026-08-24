@@ -1,6 +1,6 @@
 # bbatsov/projectile
 
-[![Stars](https://img.shields.io/github/stars/bbatsov/projectile?style=flat-square&color=yellow)](https://github.com/bbatsov/projectile/stargazers) [![Forks](https://img.shields.io/github/forks/bbatsov/projectile?style=flat-square&color=blue)](https://github.com/bbatsov/projectile/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bbatsov/projectile?style=flat-square&color=yellow)](https://github.com/bbatsov/projectile/stargazers) [![Forks](https://img.shields.io/github/forks/bbatsov/projectile?style=flat-square&color=blue)](https://github.com/bbatsov/projectile/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Project Interaction Library for Emacs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.2k |
 | 🍴 **Forks** | 587 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Projectile sits at a medium readiness level: it is stable, well‑documented, an
 | forks | 69/100 |
 | stars | 77/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

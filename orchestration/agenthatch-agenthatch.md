@@ -1,6 +1,6 @@
 # agenthatch/agenthatch
 
-[![Stars](https://img.shields.io/github/stars/agenthatch/agenthatch?style=flat-square&color=yellow)](https://github.com/agenthatch/agenthatch/stargazers) [![Forks](https://img.shields.io/github/forks/agenthatch/agenthatch?style=flat-square&color=blue)](https://github.com/agenthatch/agenthatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agenthatch/agenthatch?style=flat-square&color=yellow)](https://github.com/agenthatch/agenthatch/stargazers) [![Forks](https://img.shields.io/github/forks/agenthatch/agenthatch?style=flat-square&color=blue)](https://github.com/agenthatch/agenthatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any skill into a standalone, runnable AI Agent
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ agenthatch/agenthatch 能把单个 Prompt、工具或脚本快速包装成可独
 | forks | 12/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

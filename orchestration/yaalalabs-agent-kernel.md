@@ -1,6 +1,6 @@
 # yaalalabs/agent-kernel
 
-[![Stars](https://img.shields.io/github/stars/yaalalabs/agent-kernel?style=flat-square&color=yellow)](https://github.com/yaalalabs/agent-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/yaalalabs/agent-kernel?style=flat-square&color=blue)](https://github.com/yaalalabs/agent-kernel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yaalalabs/agent-kernel?style=flat-square&color=yellow)](https://github.com/yaalalabs/agent-kernel/stargazers) [![Forks](https://img.shields.io/github/forks/yaalalabs/agent-kernel?style=flat-square&color=blue)](https://github.com/yaalalabs/agent-kernel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > The Operating System for Scalable Enterprise AI Agents - Run, orchestrate, and deploy Compliant Enterprise AI Agents at scale across frameworks, without lock-in, rewrites or fragile glue code. Native support for MCP, A2A. Interface with all mainstream communication channels seamlessly out of the box, production ready from day one.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
+Orchestration · MCP · AI/ML · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ yaalalabs/agent‑kernel 是一款面向企业级的大规模 AI 代理操作系
 | forks | 29/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

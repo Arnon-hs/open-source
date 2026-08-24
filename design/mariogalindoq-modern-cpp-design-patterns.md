@@ -1,6 +1,6 @@
 # MarioGalindoQ/Modern-CPP-Design-Patterns
 
-[![Stars](https://img.shields.io/github/stars/MarioGalindoQ/Modern-CPP-Design-Patterns?style=flat-square&color=yellow)](https://github.com/MarioGalindoQ/Modern-CPP-Design-Patterns/stargazers) [![Forks](https://img.shields.io/github/forks/MarioGalindoQ/Modern-CPP-Design-Patterns?style=flat-square&color=blue)](https://github.com/MarioGalindoQ/Modern-CPP-Design-Patterns/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MarioGalindoQ/Modern-CPP-Design-Patterns?style=flat-square&color=yellow)](https://github.com/MarioGalindoQ/Modern-CPP-Design-Patterns/stargazers) [![Forks](https://img.shields.io/github/forks/MarioGalindoQ/Modern-CPP-Design-Patterns?style=flat-square&color=blue)](https://github.com/MarioGalindoQ/Modern-CPP-Design-Patterns/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 34 Design Patterns and C++ Idioms implemented in Modern C++
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Design
+Design · Education
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ The **Modern‑CPP‑Design‑Patterns** repository provides clean, self‑conta
 
 ### 中文
 
-MarioGalindoQ/Modern-CPP-Design-Patterns：MarioGalindoQ/Modern-CPP-Design-Patterns may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MarioGalindoQ/Modern-CPP-Design-Patterns：MarioGalindoQ/Modern-CPP-Design-Patterns may be useful when its README and activity match a concrete workflow.。适合用于learn an implementation pattern、build tutorials。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -43,11 +43,12 @@ MarioGalindoQ/Modern-CPP-Design-Patterns：MarioGalindoQ/Modern-CPP-Design-Patte
 
 **Best use cases**
 
-- Not enough metadata yet.
+- learn an implementation pattern
+- build tutorials
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +64,16 @@ MarioGalindoQ/Modern-CPP-Design-Patterns：MarioGalindoQ/Modern-CPP-Design-Patte
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 48/100 |
-| stars | 53/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

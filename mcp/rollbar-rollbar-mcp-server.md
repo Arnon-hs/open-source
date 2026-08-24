@@ -1,6 +1,6 @@
 # rollbar/rollbar-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/rollbar/rollbar-mcp-server?style=flat-square&color=yellow)](https://github.com/rollbar/rollbar-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/rollbar/rollbar-mcp-server?style=flat-square&color=blue)](https://github.com/rollbar/rollbar-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rollbar/rollbar-mcp-server?style=flat-square&color=yellow)](https://github.com/rollbar/rollbar-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/rollbar/rollbar-mcp-server?style=flat-square&color=blue)](https://github.com/rollbar/rollbar-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol server for Rollbar
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · DevTools
+MCP · Backend
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ rollbar‑mcp‑server 为 AI 助手提供了统一的 **Model Context Protocol�
 | forks | 26/100 |
 | stars | 31/100 |
 | topics | 63/100 |
-| outlook | 73/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

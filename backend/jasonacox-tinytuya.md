@@ -1,6 +1,6 @@
 # jasonacox/tinytuya
 
-[![Stars](https://img.shields.io/github/stars/jasonacox/tinytuya?style=flat-square&color=yellow)](https://github.com/jasonacox/tinytuya/stargazers) [![Forks](https://img.shields.io/github/forks/jasonacox/tinytuya?style=flat-square&color=blue)](https://github.com/jasonacox/tinytuya/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jasonacox/tinytuya?style=flat-square&color=yellow)](https://github.com/jasonacox/tinytuya/stargazers) [![Forks](https://img.shields.io/github/forks/jasonacox/tinytuya?style=flat-square&color=blue)](https://github.com/jasonacox/tinytuya/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 247 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ jasonacox/tinytuya：jasonacox/tinytuya helps teams reuse service infrastructure
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

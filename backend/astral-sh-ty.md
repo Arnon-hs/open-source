@@ -1,6 +1,6 @@
 # astral-sh/ty
 
-[![Stars](https://img.shields.io/github/stars/astral-sh/ty?style=flat-square&color=yellow)](https://github.com/astral-sh/ty/stargazers) [![Forks](https://img.shields.io/github/forks/astral-sh/ty?style=flat-square&color=blue)](https://github.com/astral-sh/ty/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/astral-sh/ty?style=flat-square&color=yellow)](https://github.com/astral-sh/ty/stargazers) [![Forks](https://img.shields.io/github/forks/astral-sh/ty?style=flat-square&color=blue)](https://github.com/astral-sh/ty/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > An extremely fast Python type checker and language server, written in Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.6k |
 | 🍴 **Forks** | 289 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Backend
 
 ### 中文
 
-astral-sh/ty：astral-sh/ty helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+astral-sh/ty：astral-sh/ty helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ astral-sh/ty：astral-sh/ty helps teams reuse service infrastructure instead of 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ astral-sh/ty：astral-sh/ty helps teams reuse service infrastructure instead of 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 53/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 83/100 |
 | stars | 91/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

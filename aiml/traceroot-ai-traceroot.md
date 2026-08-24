@@ -1,6 +1,6 @@
 # traceroot-ai/traceroot
 
-[![Stars](https://img.shields.io/github/stars/traceroot-ai/traceroot?style=flat-square&color=yellow)](https://github.com/traceroot-ai/traceroot/stargazers) [![Forks](https://img.shields.io/github/forks/traceroot-ai/traceroot?style=flat-square&color=blue)](https://github.com/traceroot-ai/traceroot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/traceroot-ai/traceroot?style=flat-square&color=yellow)](https://github.com/traceroot-ai/traceroot/stargazers) [![Forks](https://img.shields.io/github/forks/traceroot-ai/traceroot?style=flat-square&color=blue)](https://github.com/traceroot-ai/traceroot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > TraceRoot - open-source observability and self-healing layer for AI agents. YC S25
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 545 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data
+AI/ML · DevTools · Data · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ traceroot-ai/traceroot: traceroot-ai/traceroot helps add AI capability without s
 
 ### Русский
 
-traceroot-ai/traceroot: open-source проект в категориях AI/ML, DevTools, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+traceroot-ai/traceroot: open-source проект в категориях AI/ML, DevTools, Data, Observability. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ traceroot-ai/traceroot：traceroot-ai/traceroot helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 56/100 |
-| stars | 58/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

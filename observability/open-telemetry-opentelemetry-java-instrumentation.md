@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-java-instrumentation
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-java-instrumentation?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-java-instrumentation/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-java-instrumentation?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-java-instrumentation/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-java-instrumentation?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-java-instrumentation/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-java-instrumentation?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-java-instrumentation/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTelemetry auto-instrumentation and instrumentation libraries for Java
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -116,14 +116,15 @@ OpenTelemetry Java Instrumentation（`open-telemetry/opentelemetry-java-inst
 | forks | 76/100 |
 | stars | 72/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 53/100 |
+| recency | 20/100 |
 | adoption | 73/100 |
-| production | 72/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

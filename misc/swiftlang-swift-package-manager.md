@@ -1,6 +1,6 @@
 # swiftlang/swift-package-manager
 
-[![Stars](https://img.shields.io/github/stars/swiftlang/swift-package-manager?style=flat-square&color=yellow)](https://github.com/swiftlang/swift-package-manager/stargazers) [![Forks](https://img.shields.io/github/forks/swiftlang/swift-package-manager?style=flat-square&color=blue)](https://github.com/swiftlang/swift-package-manager/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swiftlang/swift-package-manager?style=flat-square&color=yellow)](https://github.com/swiftlang/swift-package-manager/stargazers) [![Forks](https://img.shields.io/github/forks/swiftlang/swift-package-manager?style=flat-square&color=blue)](https://github.com/swiftlang/swift-package-manager/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The Package Manager for the Swift Programming Language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 10.1k |
 | 🍴 **Forks** | 1.5k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Swift Package Manager（swiftlang/swift-package-manager）是 Swift 语言官方
 | forks | 79/100 |
 | stars | 85/100 |
 | topics | 0/100 |
-| outlook | 74/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 84/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

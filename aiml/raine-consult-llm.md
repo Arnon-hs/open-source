@@ -1,6 +1,6 @@
 # raine/consult-llm
 
-[![Stars](https://img.shields.io/github/stars/raine/consult-llm?style=flat-square&color=yellow)](https://github.com/raine/consult-llm/stargazers) [![Forks](https://img.shields.io/github/forks/raine/consult-llm?style=flat-square&color=blue)](https://github.com/raine/consult-llm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/raine/consult-llm?style=flat-square&color=yellow)](https://github.com/raine/consult-llm/stargazers) [![Forks](https://img.shields.io/github/forks/raine/consult-llm?style=flat-square&color=blue)](https://github.com/raine/consult-llm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Get a second opinion from another AI model
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 111 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ Raine / consult‑llm is a Rust library that lets you query a second LLM for
 | forks | 31/100 |
 | stars | 44/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 66/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

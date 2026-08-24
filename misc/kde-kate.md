@@ -1,6 +1,6 @@
 # KDE/kate
 
-[![Stars](https://img.shields.io/github/stars/KDE/kate?style=flat-square&color=yellow)](https://github.com/KDE/kate/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/kate?style=flat-square&color=blue)](https://github.com/KDE/kate/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KDE/kate?style=flat-square&color=yellow)](https://github.com/KDE/kate/stargazers) [![Forks](https://img.shields.io/github/forks/KDE/kate?style=flat-square&color=blue)](https://github.com/KDE/kate/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Advanced text editor
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ KDE /kate 是 KDE 桌面环境下的高级文本编辑器，采用 C++ 开发�
 | forks | 51/100 |
 | stars | 64/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

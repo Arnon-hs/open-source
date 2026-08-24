@@ -1,6 +1,6 @@
 # MervinPraison/PraisonAI
 
-[![Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=flat-square&color=yellow)](https://github.com/MervinPraison/PraisonAI/stargazers) [![Forks](https://img.shields.io/github/forks/MervinPraison/PraisonAI?style=flat-square&color=blue)](https://github.com/MervinPraison/PraisonAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=flat-square&color=yellow)](https://github.com/MervinPraison/PraisonAI/stargazers) [![Forks](https://img.shields.io/github/forks/MervinPraison/PraisonAI?style=flat-square&color=blue)](https://github.com/MervinPraison/PraisonAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.1k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ MervinPraison/PraisonAI：MervinPraison/PraisonAI helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 74/100 |
+| production | 56/100 |
+| outlook | 67/100 |
 | adoption | 80/100 |
 | stars | 82/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

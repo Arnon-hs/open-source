@@ -1,6 +1,6 @@
 # danog/MadelineProto
 
-[![Stars](https://img.shields.io/github/stars/danog/MadelineProto?style=flat-square&color=yellow)](https://github.com/danog/MadelineProto/stargazers) [![Forks](https://img.shields.io/github/forks/danog/MadelineProto?style=flat-square&color=blue)](https://github.com/danog/MadelineProto/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danog/MadelineProto?style=flat-square&color=yellow)](https://github.com/danog/MadelineProto/stargazers) [![Forks](https://img.shields.io/github/forks/danog/MadelineProto?style=flat-square&color=blue)](https://github.com/danog/MadelineProto/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Async PHP client API for the telegram MTProto protocol
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 850 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Backend · DevTools
+Automation · Backend
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ MadelineProto（danog/MadelineProto）是一个基于 PHP 的异步客户端库�
 | forks | 73/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 69/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

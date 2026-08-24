@@ -1,6 +1,6 @@
 # HyperionGameTech/HyperionEngine
 
-[![Stars](https://img.shields.io/github/stars/HyperionGameTech/HyperionEngine?style=flat-square&color=yellow)](https://github.com/HyperionGameTech/HyperionEngine/stargazers) [![Forks](https://img.shields.io/github/forks/HyperionGameTech/HyperionEngine?style=flat-square&color=blue)](https://github.com/HyperionGameTech/HyperionEngine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HyperionGameTech/HyperionEngine?style=flat-square&color=yellow)](https://github.com/HyperionGameTech/HyperionEngine/stargazers) [![Forks](https://img.shields.io/github/forks/HyperionGameTech/HyperionEngine?style=flat-square&color=blue)](https://github.com/HyperionGameTech/HyperionEngine/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A modern C++ game engine. Realtime ray tracing, clustered shading, visual editor, C# scripting and more
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 538 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ HyperionEngine的生产可用性为中等，适合用于原型或内部工作流
 | forks | 37/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 52/100 |
-| production | 74/100 |
-| usefulness | 42/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

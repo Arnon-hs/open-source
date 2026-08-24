@@ -1,6 +1,6 @@
 # DeterminateSystems/fh
 
-[![Stars](https://img.shields.io/github/stars/DeterminateSystems/fh?style=flat-square&color=yellow)](https://github.com/DeterminateSystems/fh/stargazers) [![Forks](https://img.shields.io/github/forks/DeterminateSystems/fh?style=flat-square&color=blue)](https://github.com/DeterminateSystems/fh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DeterminateSystems/fh?style=flat-square&color=yellow)](https://github.com/DeterminateSystems/fh/stargazers) [![Forks](https://img.shields.io/github/forks/DeterminateSystems/fh?style=flat-square&color=blue)](https://github.com/DeterminateSystems/fh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > The official CLI for FlakeHub: search for flakes, and add new inputs to your Nix flake.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ DeterminateSystems / fh 是 FlakeHub 官方命令行工具，提供“搜索
 | forks | 25/100 |
 | stars | 47/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
 | adoption | 41/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

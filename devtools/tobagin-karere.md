@@ -1,6 +1,6 @@
 # tobagin/karere
 
-[![Stars](https://img.shields.io/github/stars/tobagin/karere?style=flat-square&color=yellow)](https://github.com/tobagin/karere/stargazers) [![Forks](https://img.shields.io/github/forks/tobagin/karere?style=flat-square&color=blue)](https://github.com/tobagin/karere/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tobagin/karere?style=flat-square&color=yellow)](https://github.com/tobagin/karere/stargazers) [![Forks](https://img.shields.io/github/forks/tobagin/karere?style=flat-square&color=blue)](https://github.com/tobagin/karere/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Gtk4 Whatsapp client
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 145 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ tobagin/karere：tobagin/karere helps engineers save time in daily development a
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 46/100 |
-| production | 49/100 |
-| outlook | 46/100 |
+| production | 42/100 |
+| outlook | 39/100 |
 | adoption | 42/100 |
 | stars | 46/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # ric03uec/clawrium
 
-[![Stars](https://img.shields.io/github/stars/ric03uec/clawrium?style=flat-square&color=yellow)](https://github.com/ric03uec/clawrium/stargazers) [![Forks](https://img.shields.io/github/forks/ric03uec/clawrium?style=flat-square&color=blue)](https://github.com/ric03uec/clawrium/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ric03uec/clawrium?style=flat-square&color=yellow)](https://github.com/ric03uec/clawrium/stargazers) [![Forks](https://img.shields.io/github/forks/ric03uec/clawrium?style=flat-square&color=blue)](https://github.com/ric03uec/clawrium/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > CLI fleet management for AI agents on local networks - deploy, upgrade, and monitor OpenClaw/ZeroClaw/IronClaw across hosts via Ansible
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -113,14 +113,15 @@ With these checks in place, Clawrium is suitable for internal prototypes and can
 | forks | 17/100 |
 | stars | 35/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 30/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

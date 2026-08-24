@@ -1,6 +1,6 @@
 # Fosowl/agenticSeek
 
-[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&color=yellow)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&color=blue)](https://github.com/Fosowl/agenticSeek/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fosowl/agenticSeek?style=flat-square&color=yellow)](https://github.com/Fosowl/agenticSeek/stargazers) [![Forks](https://img.shields.io/github/forks/Fosowl/agenticSeek?style=flat-square&color=blue)](https://github.com/Fosowl/agenticSeek/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 26.6k |
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ Fosowl/agenticSeek 是一款全本地化的 Manus AI，完全不依赖外部 API
 | forks | 87/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 72/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 92/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

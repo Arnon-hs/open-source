@@ -1,6 +1,6 @@
 # the-luap/picpeak
 
-[![Stars](https://img.shields.io/github/stars/the-luap/picpeak?style=flat-square&color=yellow)](https://github.com/the-luap/picpeak/stargazers) [![Forks](https://img.shields.io/github/forks/the-luap/picpeak?style=flat-square&color=blue)](https://github.com/the-luap/picpeak/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/the-luap/picpeak?style=flat-square&color=yellow)](https://github.com/the-luap/picpeak/stargazers) [![Forks](https://img.shields.io/github/forks/the-luap/picpeak?style=flat-square&color=blue)](https://github.com/the-luap/picpeak/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Self-hosted photo sharing platform for photographers & events. Open-source alternative to PicDrop/Scrapbook with time-limited galleries, password protection, custom branding & no monthly fees. Built with React + Node.js 📸
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 213 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ the-luap/picpeak：the-luap/picpeak helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 46/100 |
 | stars | 50/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

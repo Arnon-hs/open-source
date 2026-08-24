@@ -1,6 +1,6 @@
 # mpc-qt/mpc-qt
 
-[![Stars](https://img.shields.io/github/stars/mpc-qt/mpc-qt?style=flat-square&color=yellow)](https://github.com/mpc-qt/mpc-qt/stargazers) [![Forks](https://img.shields.io/github/forks/mpc-qt/mpc-qt?style=flat-square&color=blue)](https://github.com/mpc-qt/mpc-qt/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mpc-qt/mpc-qt?style=flat-square&color=yellow)](https://github.com/mpc-qt/mpc-qt/stargazers) [![Forks](https://img.shields.io/github/forks/mpc-qt/mpc-qt?style=flat-square&color=blue)](https://github.com/mpc-qt/mpc-qt/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Media Player Classic Qute Theater
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 945 |
 | 🍴 **Forks** | 53 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Media Player Classic Qute Theater (mpc‑qt) is an open‑source, lightweight me
 
 ### 中文
 
-mpc-qt/mpc-qt：mpc-qt/mpc-qt may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mpc-qt/mpc-qt：mpc-qt/mpc-qt may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ mpc-qt/mpc-qt：mpc-qt/mpc-qt may be useful when its README and activity match a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ mpc-qt/mpc-qt：mpc-qt/mpc-qt may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 58/100 |
-| stars | 63/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

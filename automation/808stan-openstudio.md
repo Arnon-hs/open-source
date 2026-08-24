@@ -1,6 +1,6 @@
 # 808StaN/OpenStudio
 
-[![Stars](https://img.shields.io/github/stars/808StaN/OpenStudio?style=flat-square&color=yellow)](https://github.com/808StaN/OpenStudio/stargazers) [![Forks](https://img.shields.io/github/forks/808StaN/OpenStudio?style=flat-square&color=blue)](https://github.com/808StaN/OpenStudio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/808StaN/OpenStudio?style=flat-square&color=yellow)](https://github.com/808StaN/OpenStudio/stargazers) [![Forks](https://img.shields.io/github/forks/808StaN/OpenStudio?style=flat-square&color=blue)](https://github.com/808StaN/OpenStudio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > OpenStudio is a browser and desktop DAW built with React, Web Audio API, and Electron. It brings the core beatmaking workflow into one app: browse sounds, build patterns, arrange clips, mix tracks, and export the final track to WAV or MP3. The built-in AI Agent helps shape melodies, drums, instruments, mixer settings, and FX.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 44 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend · DevTools
+Automation · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ OpenStudio 是一款基于 React、Web Audio API 与 Electron 的跨平台 DAW�
 | forks | 8/100 |
 | stars | 35/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

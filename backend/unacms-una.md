@@ -1,6 +1,6 @@
 # unacms/UNA
 
-[![Stars](https://img.shields.io/github/stars/unacms/UNA?style=flat-square&color=yellow)](https://github.com/unacms/UNA/stargazers) [![Forks](https://img.shields.io/github/forks/unacms/UNA?style=flat-square&color=blue)](https://github.com/unacms/UNA/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/unacms/UNA?style=flat-square&color=yellow)](https://github.com/unacms/UNA/stargazers) [![Forks](https://img.shields.io/github/forks/unacms/UNA?style=flat-square&color=blue)](https://github.com/unacms/UNA/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > UNA Community Management System
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 311 |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ UNA — это полностью открытая система управл
 
 ### 中文
 
-unacms/UNA：unacms/UNA helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+unacms/UNA：unacms/UNA helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ unacms/UNA：unacms/UNA helps teams reuse service infrastructure instead of rebu
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ unacms/UNA：unacms/UNA helps teams reuse service infrastructure instead of rebu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 54/100 |
-| stars | 53/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # Suwayomi/Suwayomi-Server
 
-[![Stars](https://img.shields.io/github/stars/Suwayomi/Suwayomi-Server?style=flat-square&color=yellow)](https://github.com/Suwayomi/Suwayomi-Server/stargazers) [![Forks](https://img.shields.io/github/forks/Suwayomi/Suwayomi-Server?style=flat-square&color=blue)](https://github.com/Suwayomi/Suwayomi-Server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Suwayomi/Suwayomi-Server?style=flat-square&color=yellow)](https://github.com/Suwayomi/Suwayomi-Server/stargazers) [![Forks](https://img.shields.io/github/forks/Suwayomi/Suwayomi-Server?style=flat-square&color=blue)](https://github.com/Suwayomi/Suwayomi-Server/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A rewrite of Tachiyomi for the Desktop
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 374 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ Suwayomi/Suwayomi-Server：Suwayomi/Suwayomi-Server helps teams reuse service in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 77/100 |
-| stars | 82/100 |
 | forks | 64/100 |
-| recency | 40/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

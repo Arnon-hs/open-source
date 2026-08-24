@@ -1,6 +1,6 @@
 # wavelens/gradient
 
-[![Stars](https://img.shields.io/github/stars/wavelens/gradient?style=flat-square&color=yellow)](https://github.com/wavelens/gradient/stargazers) [![Forks](https://img.shields.io/github/forks/wavelens/gradient?style=flat-square&color=blue)](https://github.com/wavelens/gradient/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wavelens/gradient?style=flat-square&color=yellow)](https://github.com/wavelens/gradient/stargazers) [![Forks](https://img.shields.io/github/forks/wavelens/gradient?style=flat-square&color=blue)](https://github.com/wavelens/gradient/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > nix-based continuous integration system
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 114 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ wavelens/gradient：wavelens/gradient may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 41/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 36/100 |
-| stars | 44/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 44/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 36/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 39/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

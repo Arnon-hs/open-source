@@ -1,6 +1,6 @@
 # DingTalk-Real-AI/dingtalk-workspace-cli
 
-[![Stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=yellow)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/stargazers) [![Forks](https://img.shields.io/github/forks/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=blue)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=yellow)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/stargazers) [![Forks](https://img.shields.io/github/forks/DingTalk-Real-AI/dingtalk-workspace-cli?style=flat-square&color=blue)](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 105 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ DingTalk‑Workspace‑CLI — это кросс‑платформенный 
 
 ### 中文
 
-DingTalk-Real-AI/dingtalk-workspace-cli：DingTalk-Real-AI/dingtalk-workspace-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+DingTalk-Real-AI/dingtalk-workspace-cli：DingTalk-Real-AI/dingtalk-workspace-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DingTalk-Real-AI/dingtalk-workspace-cli：DingTalk-Real-AI/dingtalk-workspace-cl
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ DingTalk-Real-AI/dingtalk-workspace-cli：DingTalk-Real-AI/dingtalk-workspace-cl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 58/100 |
-| adoption | 64/100 |
-| stars | 69/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 0/100 |
+| outlook | 51/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

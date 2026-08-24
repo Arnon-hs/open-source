@@ -1,6 +1,6 @@
 # Dart-Code/Dart-Code
 
-[![Stars](https://img.shields.io/github/stars/Dart-Code/Dart-Code?style=flat-square&color=yellow)](https://github.com/Dart-Code/Dart-Code/stargazers) [![Forks](https://img.shields.io/github/forks/Dart-Code/Dart-Code?style=flat-square&color=blue)](https://github.com/Dart-Code/Dart-Code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dart-Code/Dart-Code?style=flat-square&color=yellow)](https://github.com/Dart-Code/Dart-Code/stargazers) [![Forks](https://img.shields.io/github/forks/Dart-Code/Dart-Code?style=flat-square&color=blue)](https://github.com/Dart-Code/Dart-Code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Dart and Flutter support for VS Code
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 342 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ Dart‑Code 是官方维护的 VS Code 扩展，为 Dart 与 Flutter 开发提
 | forks | 63/100 |
 | stars | 68/100 |
 | topics | 63/100 |
-| outlook | 76/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

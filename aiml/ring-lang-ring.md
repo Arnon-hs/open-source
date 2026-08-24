@@ -1,6 +1,6 @@
 # ring-lang/ring
 
-[![Stars](https://img.shields.io/github/stars/ring-lang/ring?style=flat-square&color=yellow)](https://github.com/ring-lang/ring/stargazers) [![Forks](https://img.shields.io/github/forks/ring-lang/ring?style=flat-square&color=blue)](https://github.com/ring-lang/ring/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ring-lang/ring?style=flat-square&color=yellow)](https://github.com/ring-lang/ring/stargazers) [![Forks](https://img.shields.io/github/forks/ring-lang/ring?style=flat-square&color=blue)](https://github.com/ring-lang/ring/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A simple, lightweight, flexible, embeddable, portable and multi-paradigm dynamic programming language for developing applications, tools, and domain-specific languages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 434 |
 | 💻 **Language** | C |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Ring — это простой, лёгкий и гибкий мультипа�
 
 ### 中文
 
-ring-lang/ring：ring-lang/ring helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ring-lang/ring：ring-lang/ring helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ring-lang/ring：ring-lang/ring helps add AI capability without starting from a 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ring-lang/ring：ring-lang/ring helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 62/100 |
+| production | 50/100 |
+| outlook | 55/100 |
 | adoption | 67/100 |
 | stars | 67/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # samber/ro
 
-[![Stars](https://img.shields.io/github/stars/samber/ro?style=flat-square&color=yellow)](https://github.com/samber/ro/stargazers) [![Forks](https://img.shields.io/github/forks/samber/ro?style=flat-square&color=blue)](https://github.com/samber/ro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samber/ro?style=flat-square&color=yellow)](https://github.com/samber/ro/stargazers) [![Forks](https://img.shields.io/github/forks/samber/ro?style=flat-square&color=blue)](https://github.com/samber/ro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🏎️ Streams & Reactive Programming paradigm for Go: declarative and composable API for event-driven applications
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 645 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · Backend
+Payments
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ samber/ro is a Go library that brings a streams‑and‑reactive programming mod
 | forks | 33/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 52/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tphakala/birdnet-go
 
-[![Stars](https://img.shields.io/github/stars/tphakala/birdnet-go?style=flat-square&color=yellow)](https://github.com/tphakala/birdnet-go/stargazers) [![Forks](https://img.shields.io/github/forks/tphakala/birdnet-go?style=flat-square&color=blue)](https://github.com/tphakala/birdnet-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tphakala/birdnet-go?style=flat-square&color=yellow)](https://github.com/tphakala/birdnet-go/stargazers) [![Forks](https://img.shields.io/github/forks/tphakala/birdnet-go?style=flat-square&color=blue)](https://github.com/tphakala/birdnet-go/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Realtime BirdNET soundscape analyzer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 101 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ tphakala/birdnet-go：tphakala/birdnet-go helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 58/100 |
+| production | 51/100 |
+| outlook | 51/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # oraios/serena
 
-[![Stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square&color=yellow)](https://github.com/oraios/serena/stargazers) [![Forks](https://img.shields.io/github/forks/oraios/serena?style=flat-square&color=blue)](https://github.com/oraios/serena/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square&color=yellow)](https://github.com/oraios/serena/stargazers) [![Forks](https://img.shields.io/github/forks/oraios/serena?style=flat-square&color=blue)](https://github.com/oraios/serena/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26k |
-| 🍴 **Forks** | 1.7k |
+| ⭐ **Stars** | 23.9k |
+| 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Mobile
+MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
 ### English
 
-oraios/serena: oraios/serena helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+oraios/serena is an open‑source MCP (Model‑Centric Programming) toolkit that equips developers with advanced semantic retrieval and code‑editing features, essentially turning the IDE into a fully programmable AI agent. It streamlines backend and mobile development by letting agents understand, search, and modify codebases contextually, boosting productivity across AI/ML‑driven projects.
 
 ### Русский
 
-oraios/serena: open-source проект в категориях MCP, Knowledge/RAG, AI/ML, Backend, Mobile. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+**oraios/serena** – это мощный open‑source набор инструментов MCP, превращающий обычный IDE в «умную» среду разработки для агентов: он обеспечивает семантический поиск кода, контекстно‑aware редактирование и интеграцию с AI/ML‑моделями. Благодаря гибкой backend‑архитектуре и поддержке мобильных платформ, Serena упрощает создание, отладку и развёртывание интеллектуальных приложений.
 
 ### 中文
 
-oraios/serena：oraios/serena helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+oraios/serena：oraios/serena helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ oraios/serena：oraios/serena helps connect AI assistants to real tools and data
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 26046 GitHub stars
-- 1731 forks
-- updated 2026-07-03
+- 23950 GitHub stars
+- 1604 forks
+- updated 2026-05-08
 - primary language: Python
 - 12 topics
 
@@ -65,18 +65,18 @@ oraios/serena：oraios/serena helps connect AI assistants to real tools and data
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 96/100 |
-| integration | 62/100 |
-| production | 84/100 |
-| outlook | 96/100 |
-| adoption | 90/100 |
-| stars | 94/100 |
-| forks | 81/100 |
-| recency | 100/100 |
+| forks | 80/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/oraios/serena) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/oraios/serena) · [← Back to Mcp](./README.md)</sub>

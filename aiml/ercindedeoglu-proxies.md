@@ -1,6 +1,6 @@
 # ErcinDedeoglu/proxies
 
-[![Stars](https://img.shields.io/github/stars/ErcinDedeoglu/proxies?style=flat-square&color=yellow)](https://github.com/ErcinDedeoglu/proxies/stargazers) [![Forks](https://img.shields.io/github/forks/ErcinDedeoglu/proxies?style=flat-square&color=blue)](https://github.com/ErcinDedeoglu/proxies/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ErcinDedeoglu/proxies?style=flat-square&color=yellow)](https://github.com/ErcinDedeoglu/proxies/stargazers) [![Forks](https://img.shields.io/github/forks/ErcinDedeoglu/proxies?style=flat-square&color=blue)](https://github.com/ErcinDedeoglu/proxies/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 🔍💻🔒🌀🔄🌟🚀📂📈 Need a daily updated proxy list? Look no further! Our PROXY list offers the freshest and most reliable proxy servers available. Say goodbye to outdated and unreliable lists and hello to a seamless, secure browsing experience. Get started with our PROXY list today!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 370 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ErcinDedeoglu/proxies — это открытый бекенд‑проект,
 
 ### 中文
 
-ErcinDedeoglu/proxies：ErcinDedeoglu/proxies helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ErcinDedeoglu/proxies：ErcinDedeoglu/proxies helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ErcinDedeoglu/proxies：ErcinDedeoglu/proxies helps add AI capability without st
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ ErcinDedeoglu/proxies：ErcinDedeoglu/proxies helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 49/100 |
 | stars | 55/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # kubernetes-sigs/kubespray
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/kubespray?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/kubespray/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/kubespray?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/kubespray/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/kubespray?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/kubespray/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/kubespray?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/kubespray/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Deploy a Production Ready Kubernetes Cluster
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 18.5k |
 | 🍴 **Forks** | 6.9k |
 | 💻 **Language** | Jinja |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kubernetes-sigs/kubespray：kubernetes-sigs/kubespray helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 65/100 |
+| production | 56/100 |
+| outlook | 58/100 |
 | adoption | 92/100 |
 | stars | 91/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

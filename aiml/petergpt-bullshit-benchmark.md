@@ -1,6 +1,6 @@
 # petergpt/bullshit-benchmark
 
-[![Stars](https://img.shields.io/github/stars/petergpt/bullshit-benchmark?style=flat-square&color=yellow)](https://github.com/petergpt/bullshit-benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/petergpt/bullshit-benchmark?style=flat-square&color=blue)](https://github.com/petergpt/bullshit-benchmark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petergpt/bullshit-benchmark?style=flat-square&color=yellow)](https://github.com/petergpt/bullshit-benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/petergpt/bullshit-benchmark?style=flat-square&color=blue)](https://github.com/petergpt/bullshit-benchmark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ BullshitBench is an open‑source benchmark designed to evaluate whether AI mode
 
 ### 中文
 
-petergpt/bullshit-benchmark：petergpt/bullshit-benchmark helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+petergpt/bullshit-benchmark：petergpt/bullshit-benchmark helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ petergpt/bullshit-benchmark：petergpt/bullshit-benchmark helps add AI capabilit
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ petergpt/bullshit-benchmark：petergpt/bullshit-benchmark helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 48/100 |
+| production | 48/100 |
+| outlook | 41/100 |
 | adoption | 62/100 |
 | stars | 68/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

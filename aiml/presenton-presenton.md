@@ -1,6 +1,6 @@
 # presenton/presenton
 
-[![Stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&color=yellow)](https://github.com/presenton/presenton/stargazers) [![Forks](https://img.shields.io/github/forks/presenton/presenton?style=flat-square&color=blue)](https://github.com/presenton/presenton/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&color=yellow)](https://github.com/presenton/presenton/stargazers) [![Forks](https://img.shields.io/github/forks/presenton/presenton?style=flat-square&color=blue)](https://github.com/presenton/presenton/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 964 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ presenton/presenton：presenton/presenton helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 71/100 |
+| production | 54/100 |
+| outlook | 64/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

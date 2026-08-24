@@ -1,6 +1,6 @@
 # zhu1090093659/deepseek-pp
 
-[![Stars](https://img.shields.io/github/stars/zhu1090093659/deepseek-pp?style=flat-square&color=yellow)](https://github.com/zhu1090093659/deepseek-pp/stargazers) [![Forks](https://img.shields.io/github/forks/zhu1090093659/deepseek-pp?style=flat-square&color=blue)](https://github.com/zhu1090093659/deepseek-pp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhu1090093659/deepseek-pp?style=flat-square&color=yellow)](https://github.com/zhu1090093659/deepseek-pp/stargazers) [![Forks](https://img.shields.io/github/forks/zhu1090093659/deepseek-pp?style=flat-square&color=blue)](https://github.com/zhu1090093659/deepseek-pp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Web browser extension: AI agent workspace with MCP tools, memory, Skills, automation, web search, and conversation export.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 922 |
 | 🍴 **Forks** | 121 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · DevTools
+MCP · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ zhu1090093659/deepseek-pp 是一款基于 DeepSeek 的浏览器插件，提供 A
 | forks | 52/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 82/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

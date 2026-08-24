@@ -1,6 +1,6 @@
 # sadanandpai/frontend-learning-kit
 
-[![Stars](https://img.shields.io/github/stars/sadanandpai/frontend-learning-kit?style=flat-square&color=yellow)](https://github.com/sadanandpai/frontend-learning-kit/stargazers) [![Forks](https://img.shields.io/github/forks/sadanandpai/frontend-learning-kit?style=flat-square&color=blue)](https://github.com/sadanandpai/frontend-learning-kit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sadanandpai/frontend-learning-kit?style=flat-square&color=yellow)](https://github.com/sadanandpai/frontend-learning-kit/stargazers) [![Forks](https://img.shields.io/github/forks/sadanandpai/frontend-learning-kit?style=flat-square&color=blue)](https://github.com/sadanandpai/frontend-learning-kit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Frontend tech guide and curated collection of frontend materials
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 894 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ sadanandpai/frontend-learning-kit：sadanandpai/frontend-learning-kit helps add 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 77/100 |
 | stars | 78/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

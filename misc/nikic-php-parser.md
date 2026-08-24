@@ -1,6 +1,6 @@
 # nikic/PHP-Parser
 
-[![Stars](https://img.shields.io/github/stars/nikic/PHP-Parser?style=flat-square&color=yellow)](https://github.com/nikic/PHP-Parser/stargazers) [![Forks](https://img.shields.io/github/forks/nikic/PHP-Parser?style=flat-square&color=blue)](https://github.com/nikic/PHP-Parser/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nikic/PHP-Parser?style=flat-square&color=yellow)](https://github.com/nikic/PHP-Parser/stargazers) [![Forks](https://img.shields.io/github/forks/nikic/PHP-Parser?style=flat-square&color=blue)](https://github.com/nikic/PHP-Parser/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A PHP parser written in PHP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 17.4k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ nikic/PHP-Parser 的生产可用性较高，主要原因包括：
 | forks | 76/100 |
 | stars | 90/100 |
 | topics | 50/100 |
-| outlook | 80/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 86/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

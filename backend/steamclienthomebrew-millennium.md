@@ -1,6 +1,6 @@
 # SteamClientHomebrew/Millennium
 
-[![Stars](https://img.shields.io/github/stars/SteamClientHomebrew/Millennium?style=flat-square&color=yellow)](https://github.com/SteamClientHomebrew/Millennium/stargazers) [![Forks](https://img.shields.io/github/forks/SteamClientHomebrew/Millennium?style=flat-square&color=blue)](https://github.com/SteamClientHomebrew/Millennium/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SteamClientHomebrew/Millennium?style=flat-square&color=yellow)](https://github.com/SteamClientHomebrew/Millennium/stargazers) [![Forks](https://img.shields.io/github/forks/SteamClientHomebrew/Millennium?style=flat-square&color=blue)](https://github.com/SteamClientHomebrew/Millennium/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 136 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ SteamClientHomebrew/Millennium 是一套开源的低代码 modding 框架，专�
 | forks | 53/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 70/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

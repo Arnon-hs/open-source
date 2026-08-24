@@ -1,6 +1,6 @@
 # datafusion-contrib/datafusion-distributed
 
-[![Stars](https://img.shields.io/github/stars/datafusion-contrib/datafusion-distributed?style=flat-square&color=yellow)](https://github.com/datafusion-contrib/datafusion-distributed/stargazers) [![Forks](https://img.shields.io/github/forks/datafusion-contrib/datafusion-distributed?style=flat-square&color=blue)](https://github.com/datafusion-contrib/datafusion-distributed/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datafusion-contrib/datafusion-distributed?style=flat-square&color=yellow)](https://github.com/datafusion-contrib/datafusion-distributed/stargazers) [![Forks](https://img.shields.io/github/forks/datafusion-contrib/datafusion-distributed?style=flat-square&color=blue)](https://github.com/datafusion-contrib/datafusion-distributed/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Library for bringing distributed capabilities to Apache DataFusion
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **datafusion-contrib/datafusion-distributed** project extends Apache DataFus
 
 ### 中文
 
-datafusion-contrib/datafusion-distributed：datafusion-contrib/datafusion-distributed helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+datafusion-contrib/datafusion-distributed：datafusion-contrib/datafusion-distributed helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ datafusion-contrib/datafusion-distributed：datafusion-contrib/datafusion-distri
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ datafusion-contrib/datafusion-distributed：datafusion-contrib/datafusion-distri
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 42/100 |
 | stars | 43/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Sushegaad/MCP-Server-for-ISO27001
 
-[![Stars](https://img.shields.io/github/stars/Sushegaad/MCP-Server-for-ISO27001?style=flat-square&color=yellow)](https://github.com/Sushegaad/MCP-Server-for-ISO27001/stargazers) [![Forks](https://img.shields.io/github/forks/Sushegaad/MCP-Server-for-ISO27001?style=flat-square&color=blue)](https://github.com/Sushegaad/MCP-Server-for-ISO27001/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sushegaad/MCP-Server-for-ISO27001?style=flat-square&color=yellow)](https://github.com/Sushegaad/MCP-Server-for-ISO27001/stargazers) [![Forks](https://img.shields.io/github/forks/Sushegaad/MCP-Server-for-ISO27001?style=flat-square&color=blue)](https://github.com/Sushegaad/MCP-Server-for-ISO27001/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) server for ISO27001: A stateful Model Context Protocol (MCP) server that gives Claude a complete ISO 27001:2022 Information Security Management System (ISMS). Ask Claude to run gap assessments, manage risks, generate policies, track evidence, and run audits — all backed by an encrypted SQLite database on your machine.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Backend · Data · Database · Security
+MCP · Backend · Database · Security
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Sushegaad/MCP-Server-for-ISO27001 是一个基于 Model Context Protocol（MCP�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 63/100 |
-| outlook | 69/100 |
-| quality | 61/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 46/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

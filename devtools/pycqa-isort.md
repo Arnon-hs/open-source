@@ -1,6 +1,6 @@
 # PyCQA/isort
 
-[![Stars](https://img.shields.io/github/stars/PyCQA/isort?style=flat-square&color=yellow)](https://github.com/PyCQA/isort/stargazers) [![Forks](https://img.shields.io/github/forks/PyCQA/isort?style=flat-square&color=blue)](https://github.com/PyCQA/isort/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PyCQA/isort?style=flat-square&color=yellow)](https://github.com/PyCQA/isort/stargazers) [![Forks](https://img.shields.io/github/forks/PyCQA/isort?style=flat-square&color=blue)](https://github.com/PyCQA/isort/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A Python utility / library to sort imports.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 636 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ PyCQA/isort：PyCQA/isort helps engineers save time in daily development and rev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 65/100 |
-| adoption | 78/100 |
-| stars | 82/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

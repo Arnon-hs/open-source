@@ -1,6 +1,6 @@
 # study8677/OpenCMO
 
-[![Stars](https://img.shields.io/github/stars/study8677/OpenCMO?style=flat-square&color=yellow)](https://github.com/study8677/OpenCMO/stargazers) [![Forks](https://img.shields.io/github/forks/study8677/OpenCMO?style=flat-square&color=blue)](https://github.com/study8677/OpenCMO/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/study8677/OpenCMO?style=flat-square&color=yellow)](https://github.com/study8677/OpenCMO/stargazers) [![Forks](https://img.shields.io/github/forks/study8677/OpenCMO?style=flat-square&color=blue)](https://github.com/study8677/OpenCMO/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > OpenCMO: An open-source, multi-agent AI Chief Marketing Officer built with OpenAI Agents SDK & Crawl4AI. Your BYOK alternative to $99/mo AI marketing agencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 74 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Marketing
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ OpenCMO — это открытая платформа, реализующая
 
 ### 中文
 
-study8677/OpenCMO：study8677/OpenCMO helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+study8677/OpenCMO：study8677/OpenCMO helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ study8677/OpenCMO：study8677/OpenCMO helps turn isolated prompts and tools into
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -59,22 +59,22 @@ study8677/OpenCMO：study8677/OpenCMO helps turn isolated prompts and tools into
 - primary language: Python
 - 4 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 37/100 |
-| stars | 40/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| stars | 40/100 |
 | topics | 50/100 |
+| outlook | 46/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

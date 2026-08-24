@@ -1,6 +1,6 @@
 # wes-lin/Cloud189Checkin
 
-[![Stars](https://img.shields.io/github/stars/wes-lin/Cloud189Checkin?style=flat-square&color=yellow)](https://github.com/wes-lin/Cloud189Checkin/stargazers) [![Forks](https://img.shields.io/github/forks/wes-lin/Cloud189Checkin?style=flat-square&color=blue)](https://github.com/wes-lin/Cloud189Checkin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wes-lin/Cloud189Checkin?style=flat-square&color=yellow)](https://github.com/wes-lin/Cloud189Checkin/stargazers) [![Forks](https://img.shields.io/github/forks/wes-lin/Cloud189Checkin?style=flat-square&color=blue)](https://github.com/wes-lin/Cloud189Checkin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > 天翼网盘自动签到
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 700 |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -86,14 +86,15 @@ wes-lin/Cloud189Checkin 是一个开源项目，提供了自动签到天翼网�
 | forks | 81/100 |
 | stars | 61/100 |
 | topics | 13/100 |
-| outlook | 71/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 66/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

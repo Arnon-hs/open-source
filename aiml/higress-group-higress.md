@@ -1,6 +1,6 @@
 # higress-group/higress
 
-[![Stars](https://img.shields.io/github/stars/higress-group/higress?style=flat-square&color=yellow)](https://github.com/higress-group/higress/stargazers) [![Forks](https://img.shields.io/github/forks/higress-group/higress?style=flat-square&color=blue)](https://github.com/higress-group/higress/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/higress-group/higress?style=flat-square&color=yellow)](https://github.com/higress-group/higress/stargazers) [![Forks](https://img.shields.io/github/forks/higress-group/higress?style=flat-square&color=blue)](https://github.com/higress-group/higress/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 AI Gateway | AI Native API Gateway
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.3k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ higress-group/higress：higress-group/higress helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 62/100 |
-| adoption | 81/100 |
-| stars | 83/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| stars | 83/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

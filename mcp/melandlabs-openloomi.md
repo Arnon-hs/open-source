@@ -1,6 +1,6 @@
 # melandlabs/openloomi
 
-[![Stars](https://img.shields.io/github/stars/melandlabs/openloomi?style=flat-square&color=yellow)](https://github.com/melandlabs/openloomi/stargazers) [![Forks](https://img.shields.io/github/forks/melandlabs/openloomi?style=flat-square&color=blue)](https://github.com/melandlabs/openloomi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/melandlabs/openloomi?style=flat-square&color=yellow)](https://github.com/melandlabs/openloomi/stargazers) [![Forks](https://img.shields.io/github/forks/melandlabs/openloomi?style=flat-square&color=blue)](https://github.com/melandlabs/openloomi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Openloomi is your open-source proactive AI Mates that remembers all work details.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 459 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 68/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Openloomi 是一款开源的主动式 AI 助手框架，能够记忆并管理所
 | forks | 37/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

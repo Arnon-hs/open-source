@@ -1,6 +1,6 @@
 # PixiEditor/PixiEditor
 
-[![Stars](https://img.shields.io/github/stars/PixiEditor/PixiEditor?style=flat-square&color=yellow)](https://github.com/PixiEditor/PixiEditor/stargazers) [![Forks](https://img.shields.io/github/forks/PixiEditor/PixiEditor?style=flat-square&color=blue)](https://github.com/PixiEditor/PixiEditor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PixiEditor/PixiEditor?style=flat-square&color=yellow)](https://github.com/PixiEditor/PixiEditor/stargazers) [![Forks](https://img.shields.io/github/forks/PixiEditor/PixiEditor?style=flat-square&color=blue)](https://github.com/PixiEditor/PixiEditor/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > PixiEditor is a Universal Editor for all your 2D needs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.3k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ PixiEditor/PixiEditor：PixiEditor/PixiEditor helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 77/100 |
 | stars | 82/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

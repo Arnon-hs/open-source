@@ -1,6 +1,6 @@
 # tsouth89/toolport
 
-[![Stars](https://img.shields.io/github/stars/tsouth89/toolport?style=flat-square&color=yellow)](https://github.com/tsouth89/toolport/stargazers) [![Forks](https://img.shields.io/github/forks/tsouth89/toolport?style=flat-square&color=blue)](https://github.com/tsouth89/toolport/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tsouth89/toolport?style=flat-square&color=yellow)](https://github.com/tsouth89/toolport/stargazers) [![Forks](https://img.shields.io/github/forks/tsouth89/toolport?style=flat-square&color=blue)](https://github.com/tsouth89/toolport/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 50 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ tsouth89/toolport 是一个 **Local‑first MCP（Model Context Protocol）网�
 | forks | 27/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

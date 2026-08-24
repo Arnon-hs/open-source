@@ -1,6 +1,6 @@
 # wevm/viem
 
-[![Stars](https://img.shields.io/github/stars/wevm/viem?style=flat-square&color=yellow)](https://github.com/wevm/viem/stargazers) [![Forks](https://img.shields.io/github/forks/wevm/viem?style=flat-square&color=blue)](https://github.com/wevm/viem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wevm/viem?style=flat-square&color=yellow)](https://github.com/wevm/viem/stargazers) [![Forks](https://img.shields.io/github/forks/wevm/viem?style=flat-square&color=blue)](https://github.com/wevm/viem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > TypeScript Interface for Ethereum
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ wevm/viem: wevm/viem helps prototype or inspect blockchain workflows with open i
 
 ### Русский
 
-wevm/viem: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+wevm/viem: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ wevm/viem：wevm/viem helps prototype or inspect blockchain workflows with open 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 60/100 |
-| outlook | 61/100 |
-| adoption | 76/100 |
-| stars | 75/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

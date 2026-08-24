@@ -1,6 +1,6 @@
 # YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
 
-[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill：YouMind-OpenLab/nano-b
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 64/100 |
 | stars | 68/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

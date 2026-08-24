@@ -1,6 +1,6 @@
 # dheijl/swyh-rs
 
-[![Stars](https://img.shields.io/github/stars/dheijl/swyh-rs?style=flat-square&color=yellow)](https://github.com/dheijl/swyh-rs/stargazers) [![Forks](https://img.shields.io/github/forks/dheijl/swyh-rs?style=flat-square&color=blue)](https://github.com/dheijl/swyh-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dheijl/swyh-rs?style=flat-square&color=yellow)](https://github.com/dheijl/swyh-rs/stargazers) [![Forks](https://img.shields.io/github/forks/dheijl/swyh-rs?style=flat-square&color=blue)](https://github.com/dheijl/swyh-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Stream What You Hear written in rust, inspired by SWYH.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 566 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ dheijl/swyh-rs is a Rust implementation of “Stream What You Hear,” a tool th
 
 ### 中文
 
-dheijl/swyh-rs：dheijl/swyh-rs helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dheijl/swyh-rs：dheijl/swyh-rs helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dheijl/swyh-rs：dheijl/swyh-rs helps teams reuse service infrastructure instead
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ dheijl/swyh-rs：dheijl/swyh-rs helps teams reuse service infrastructure instead
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 52/100 |
-| stars | 59/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # ASCIT31/Dark-Moon
 
-[![Stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=flat-square&color=yellow)](https://github.com/ASCIT31/Dark-Moon/stargazers) [![Forks](https://img.shields.io/github/forks/ASCIT31/Dark-Moon?style=flat-square&color=blue)](https://github.com/ASCIT31/Dark-Moon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=flat-square&color=yellow)](https://github.com/ASCIT31/Dark-Moon/stargazers) [![Forks](https://img.shields.io/github/forks/ASCIT31/Dark-Moon?style=flat-square&color=blue)](https://github.com/ASCIT31/Dark-Moon/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-based vulnerabilities.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 99 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ ASCIT31/Dark‑Moon — это автономный AI‑движок для
 
 ### 中文
 
-ASCIT31/Dark-Moon：ASCIT31/Dark-Moon helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ASCIT31/Dark-Moon：ASCIT31/Dark-Moon helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ASCIT31/Dark-Moon：ASCIT31/Dark-Moon helps turn isolated prompts and tools into
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ ASCIT31/Dark-Moon：ASCIT31/Dark-Moon helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 39/100 |
-| stars | 43/100 |
 | forks | 31/100 |
-| recency | 40/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # avajs/ava
 
-[![Stars](https://img.shields.io/github/stars/avajs/ava?style=flat-square&color=yellow)](https://github.com/avajs/ava/stargazers) [![Forks](https://img.shields.io/github/forks/avajs/ava?style=flat-square&color=blue)](https://github.com/avajs/ava/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avajs/ava?style=flat-square&color=yellow)](https://github.com/avajs/ava/stargazers) [![Forks](https://img.shields.io/github/forks/avajs/ava?style=flat-square&color=blue)](https://github.com/avajs/ava/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Node.js test runner that lets you develop with confidence 🚀
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 20.8k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Database
+DevTools
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ avajs/ava 是一款基于 Node.js 的现代化测试运行器，主打零配置�
 | forks | 79/100 |
 | stars | 92/100 |
 | topics | 100/100 |
-| outlook | 92/100 |
-| quality | 95/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 75/100 |
+| recency | 20/100 |
 | adoption | 88/100 |
-| production | 82/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,0 +1,80 @@
+# cloudflare/workers-rs
+
+[![Stars](https://img.shields.io/github/stars/cloudflare/workers-rs?style=flat-square&color=yellow)](https://github.com/cloudflare/workers-rs/stargazers) [![Forks](https://img.shields.io/github/forks/cloudflare/workers-rs?style=flat-square&color=blue)](https://github.com/cloudflare/workers-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+
+> Write Cloudflare Workers in 100% Rust via WebAssembly
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3.5k |
+| 🍴 **Forks** | 403 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cloudflare` `ffi` `rust` `serverless` `webassembly` `workers` `workers-rs`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+cloudflare/workers-rs lets developers write Cloudflare Workers entirely in Rust, compiling the code to WebAssembly for seamless deployment on the Cloudflare edge network. The project provides a native Rust SDK, tooling, and bindings that abstract the Workers runtime, enabling high‑performance, type‑safe backend logic without needing JavaScript. It’s open‑source, actively maintained, and integrates with Cloudflare’s platform for scalable serverless applications.
+
+### Русский
+
+cloudflare/workers‑rs — это открытая библиотека, позволяющая писать Cloudflare Workers полностью на Rust, компилируя код в WebAssembly. Проект предоставляет удобные типы и API для работы с запросами, ответами и другими возможностями платформы, обеспечивая высокую производительность и безопасность благодаря статической типизации Rust. Подходит для разработки backend‑функций, которые запускаются непосредственно в инфраструктуре Cloudflare.
+
+### 中文
+
+cloudflare/workers-rs：cloudflare/workers-rs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** cloudflare/workers-rs may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 3460 GitHub stars
+- 403 forks
+- updated 2026-05-08
+- primary language: Rust
+- 7 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 65/100 |
+| stars | 75/100 |
+| topics | 88/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/cloudflare/workers-rs) · [← Back to Misc](./README.md)</sub>

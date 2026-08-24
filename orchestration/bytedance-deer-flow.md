@@ -1,6 +1,6 @@
 # bytedance/deer-flow
 
-[![Stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&color=yellow)](https://github.com/bytedance/deer-flow/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/deer-flow?style=flat-square&color=blue)](https://github.com/bytedance/deer-flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&color=yellow)](https://github.com/bytedance/deer-flow/stargazers) [![Forks](https://img.shields.io/github/forks/bytedance/deer-flow?style=flat-square&color=blue)](https://github.com/bytedance/deer-flow/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 65.8k |
 | 🍴 **Forks** | 8.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ bytedance/deer-flow: bytedance/deer-flow helps turn isolated prompts and tools i
 
 ### Русский
 
-bytedance/deer-flow: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+bytedance/deer-flow: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ bytedance/deer-flow：bytedance/deer-flow helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 85/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 79/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 98/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 72/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

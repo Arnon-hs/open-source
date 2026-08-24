@@ -1,6 +1,6 @@
 # Bermfs/blockonomics-edd-wallet-gateway
 
-[![Stars](https://img.shields.io/github/stars/Bermfs/blockonomics-edd-wallet-gateway?style=flat-square&color=yellow)](https://github.com/Bermfs/blockonomics-edd-wallet-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Bermfs/blockonomics-edd-wallet-gateway?style=flat-square&color=blue)](https://github.com/Bermfs/blockonomics-edd-wallet-gateway/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bermfs/blockonomics-edd-wallet-gateway?style=flat-square&color=yellow)](https://github.com/Bermfs/blockonomics-edd-wallet-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Bermfs/blockonomics-edd-wallet-gateway?style=flat-square&color=blue)](https://github.com/Bermfs/blockonomics-edd-wallet-gateway/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Bitcoin Payment Plugin for Easy Digital Downloads 2026 BTC Gateway Extension
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML · Marketing
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Bermfs/blockonomics-edd-wallet-gateway 是一款面向 Easy Digital Downloads（
 | forks | 0/100 |
 | stars | 39/100 |
 | topics | 63/100 |
-| outlook | 67/100 |
-| quality | 62/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 47/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

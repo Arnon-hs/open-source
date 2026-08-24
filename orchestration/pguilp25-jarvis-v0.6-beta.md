@@ -1,6 +1,6 @@
 # pguilp25/jarvis-v0.6-beta
 
-[![Stars](https://img.shields.io/github/stars/pguilp25/jarvis-v0.6-beta?style=flat-square&color=yellow)](https://github.com/pguilp25/jarvis-v0.6-beta/stargazers) [![Forks](https://img.shields.io/github/forks/pguilp25/jarvis-v0.6-beta?style=flat-square&color=blue)](https://github.com/pguilp25/jarvis-v0.6-beta/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pguilp25/jarvis-v0.6-beta?style=flat-square&color=yellow)](https://github.com/pguilp25/jarvis-v0.6-beta/stargazers) [![Forks](https://img.shields.io/github/forks/pguilp25/jarvis-v0.6-beta?style=flat-square&color=blue)](https://github.com/pguilp25/jarvis-v0.6-beta/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > the best free ai
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Frontend · Backend
+Orchestration · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ pguilp25/jarvis‑v0.6‑beta 是一个基于 Python 的开源 AI 框架，旨�
 | forks | 17/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 28/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

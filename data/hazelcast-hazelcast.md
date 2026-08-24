@@ -1,6 +1,6 @@
 # hazelcast/hazelcast
 
-[![Stars](https://img.shields.io/github/stars/hazelcast/hazelcast?style=flat-square&color=yellow)](https://github.com/hazelcast/hazelcast/stargazers) [![Forks](https://img.shields.io/github/forks/hazelcast/hazelcast?style=flat-square&color=blue)](https://github.com/hazelcast/hazelcast/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hazelcast/hazelcast?style=flat-square&color=yellow)](https://github.com/hazelcast/hazelcast/stargazers) [![Forks](https://img.shields.io/github/forks/hazelcast/hazelcast?style=flat-square&color=blue)](https://github.com/hazelcast/hazelcast/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ hazelcast/hazelcast：hazelcast/hazelcast helps convert raw data into searchable
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 81/100 |
-| stars | 81/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

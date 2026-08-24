@@ -1,6 +1,6 @@
 # aaronjmars/web3-research-mcp
 
-[![Stars](https://img.shields.io/github/stars/aaronjmars/web3-research-mcp?style=flat-square&color=yellow)](https://github.com/aaronjmars/web3-research-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aaronjmars/web3-research-mcp?style=flat-square&color=blue)](https://github.com/aaronjmars/web3-research-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaronjmars/web3-research-mcp?style=flat-square&color=yellow)](https://github.com/aaronjmars/web3-research-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/aaronjmars/web3-research-mcp?style=flat-square&color=blue)](https://github.com/aaronjmars/web3-research-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Deep Research for crypto - free & fully local
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Backend
+Crypto · MCP · Backend
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Aaronjmars/web3-research-mcp — это полностью открытый и
 
 ### 中文
 
-aaronjmars/web3-research-mcp：aaronjmars/web3-research-mcp helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+aaronjmars/web3-research-mcp：aaronjmars/web3-research-mcp helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ aaronjmars/web3-research-mcp：aaronjmars/web3-research-mcp helps prototype or i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ aaronjmars/web3-research-mcp：aaronjmars/web3-research-mcp helps prototype or i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 51/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 51/100 |
-| adoption | 46/100 |
-| stars | 47/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| stars | 47/100 |
 | topics | 38/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

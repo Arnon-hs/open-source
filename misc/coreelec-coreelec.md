@@ -1,6 +1,6 @@
 # CoreELEC/CoreELEC
 
-[![Stars](https://img.shields.io/github/stars/CoreELEC/CoreELEC?style=flat-square&color=yellow)](https://github.com/CoreELEC/CoreELEC/stargazers) [![Forks](https://img.shields.io/github/forks/CoreELEC/CoreELEC?style=flat-square&color=blue)](https://github.com/CoreELEC/CoreELEC/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CoreELEC/CoreELEC?style=flat-square&color=yellow)](https://github.com/CoreELEC/CoreELEC/stargazers) [![Forks](https://img.shields.io/github/forks/CoreELEC/CoreELEC?style=flat-square&color=blue)](https://github.com/CoreELEC/CoreELEC/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight OS for KODI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 955 |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CoreELEC — это легковесная операционная систем
 
 ### 中文
 
-CoreELEC/CoreELEC：CoreELEC/CoreELEC may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CoreELEC/CoreELEC：CoreELEC/CoreELEC may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ CoreELEC/CoreELEC：CoreELEC/CoreELEC may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,16 +62,16 @@ CoreELEC/CoreELEC：CoreELEC/CoreELEC may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 71/100 |
-| stars | 69/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

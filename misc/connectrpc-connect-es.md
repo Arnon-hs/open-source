@@ -1,6 +1,6 @@
 # connectrpc/connect-es
 
-[![Stars](https://img.shields.io/github/stars/connectrpc/connect-es?style=flat-square&color=yellow)](https://github.com/connectrpc/connect-es/stargazers) [![Forks](https://img.shields.io/github/forks/connectrpc/connect-es?style=flat-square&color=blue)](https://github.com/connectrpc/connect-es/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/connectrpc/connect-es?style=flat-square&color=yellow)](https://github.com/connectrpc/connect-es/stargazers) [![Forks](https://img.shields.io/github/forks/connectrpc/connect-es?style=flat-square&color=blue)](https://github.com/connectrpc/connect-es/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The TypeScript implementation of Connect: Protobuf RPC that works.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 116 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ The project shows strong production signals: recent activity (last commit on 202
 | forks | 52/100 |
 | stars | 69/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
 | adoption | 64/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

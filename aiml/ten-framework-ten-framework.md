@@ -1,6 +1,6 @@
 # TEN-framework/ten-framework
 
-[![Stars](https://img.shields.io/github/stars/TEN-framework/ten-framework?style=flat-square&color=yellow)](https://github.com/TEN-framework/ten-framework/stargazers) [![Forks](https://img.shields.io/github/forks/TEN-framework/ten-framework?style=flat-square&color=blue)](https://github.com/TEN-framework/ten-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TEN-framework/ten-framework?style=flat-square&color=yellow)](https://github.com/TEN-framework/ten-framework/stargazers) [![Forks](https://img.shields.io/github/forks/TEN-framework/ten-framework?style=flat-square&color=blue)](https://github.com/TEN-framework/ten-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source framework for conversational voice AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.5k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ TEN-framework/ten-framework：TEN-framework/ten-framework helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 83/100 |
-| stars | 86/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| stars | 86/100 |
 | topics | 63/100 |
+| outlook | 59/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

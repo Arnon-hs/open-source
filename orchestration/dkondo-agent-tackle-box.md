@@ -1,6 +1,6 @@
 # dkondo/agent-tackle-box
 
-[![Stars](https://img.shields.io/github/stars/dkondo/agent-tackle-box?style=flat-square&color=yellow)](https://github.com/dkondo/agent-tackle-box/stargazers) [![Forks](https://img.shields.io/github/forks/dkondo/agent-tackle-box?style=flat-square&color=blue)](https://github.com/dkondo/agent-tackle-box/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dkondo/agent-tackle-box?style=flat-square&color=yellow)](https://github.com/dkondo/agent-tackle-box/stargazers) [![Forks](https://img.shields.io/github/forks/dkondo/agent-tackle-box?style=flat-square&color=blue)](https://github.com/dkondo/agent-tackle-box/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A toolkit for developing AI agents, including agent-debugger: Terminal debugger for LangGraph & LangChain agents. Debug LLM agents with state inspection, tool calls, semantic breakpoints, and Python program stepping in one Textual UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ dkondo/agent-tackle-box — это набор инструментов для 
 
 ### 中文
 
-dkondo/agent-tackle-box：dkondo/agent-tackle-box helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dkondo/agent-tackle-box：dkondo/agent-tackle-box helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dkondo/agent-tackle-box：dkondo/agent-tackle-box helps turn isolated prompts an
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ dkondo/agent-tackle-box：dkondo/agent-tackle-box helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 31/100 |
-| stars | 36/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 36/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

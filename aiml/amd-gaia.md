@@ -1,6 +1,6 @@
 # amd/gaia
 
-[![Stars](https://img.shields.io/github/stars/amd/gaia?style=flat-square&color=yellow)](https://github.com/amd/gaia/stargazers) [![Forks](https://img.shields.io/github/forks/amd/gaia?style=flat-square&color=blue)](https://github.com/amd/gaia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amd/gaia?style=flat-square&color=yellow)](https://github.com/amd/gaia/stargazers) [![Forks](https://img.shields.io/github/forks/amd/gaia?style=flat-square&color=blue)](https://github.com/amd/gaia/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Build AI agents for your PC
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ amd/gaia：amd/gaia helps add AI capability without starting from a blank model 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 61/100 |
-| stars | 66/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

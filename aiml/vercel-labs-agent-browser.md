@@ -1,6 +1,6 @@
 # vercel-labs/agent-browser
 
-[![Stars](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=flat-square&color=yellow)](https://github.com/vercel-labs/agent-browser/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/agent-browser?style=flat-square&color=blue)](https://github.com/vercel-labs/agent-browser/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=flat-square&color=yellow)](https://github.com/vercel-labs/agent-browser/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/agent-browser?style=flat-square&color=blue)](https://github.com/vercel-labs/agent-browser/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Browser automation CLI for AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ vercel-labs/agent-browser：vercel-labs/agent-browser helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 92/100 |
 | stars | 96/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

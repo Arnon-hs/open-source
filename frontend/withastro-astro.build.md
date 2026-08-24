@@ -1,6 +1,6 @@
 # withastro/astro.build
 
-[![Stars](https://img.shields.io/github/stars/withastro/astro.build?style=flat-square&color=yellow)](https://github.com/withastro/astro.build/stargazers) [![Forks](https://img.shields.io/github/forks/withastro/astro.build?style=flat-square&color=blue)](https://github.com/withastro/astro.build/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/withastro/astro.build?style=flat-square&color=yellow)](https://github.com/withastro/astro.build/stargazers) [![Forks](https://img.shields.io/github/forks/withastro/astro.build?style=flat-square&color=blue)](https://github.com/withastro/astro.build/network) [![Language](https://img.shields.io/badge/lang-MDX-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 494 |
 | 🍴 **Forks** | 194 |
 | 💻 **Language** | MDX |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ withastro/astro.build：withastro/astro.build helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 18/100 |
-| production | 48/100 |
-| outlook | 47/100 |
+| production | 41/100 |
+| outlook | 40/100 |
 | adoption | 57/100 |
 | stars | 57/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

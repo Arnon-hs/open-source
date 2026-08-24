@@ -1,6 +1,6 @@
 # stripe/stripe-node
 
-[![Stars](https://img.shields.io/github/stars/stripe/stripe-node?style=flat-square&color=yellow)](https://github.com/stripe/stripe-node/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-node?style=flat-square&color=blue)](https://github.com/stripe/stripe-node/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/stripe-node?style=flat-square&color=yellow)](https://github.com/stripe/stripe-node/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-node?style=flat-square&color=blue)](https://github.com/stripe/stripe-node/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Node.js library for the Stripe API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 896 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-06 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ stripe/stripe-node: stripe/stripe-node helps integrate monetization, billing, or
 
 ### Русский
 
-stripe/stripe-node: open-source проект в категориях Payments, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+stripe/stripe-node: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ stripe/stripe-node：stripe/stripe-node helps integrate monetization, billing, o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 60/100 |
-| adoption | 77/100 |
-| stars | 78/100 |
 | forks | 74/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 25/100 |
+| outlook | 53/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

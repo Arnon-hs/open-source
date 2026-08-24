@@ -1,6 +1,6 @@
 # antoniolupetti/algebrica
 
-[![Stars](https://img.shields.io/github/stars/antoniolupetti/algebrica?style=flat-square&color=yellow)](https://github.com/antoniolupetti/algebrica/stargazers) [![Forks](https://img.shields.io/github/forks/antoniolupetti/algebrica?style=flat-square&color=blue)](https://github.com/antoniolupetti/algebrica/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antoniolupetti/algebrica?style=flat-square&color=yellow)](https://github.com/antoniolupetti/algebrica/stargazers) [![Forks](https://img.shields.io/github/forks/antoniolupetti/algebrica?style=flat-square&color=blue)](https://github.com/antoniolupetti/algebrica/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and conceptual coherence.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 836 |
 | 🍴 **Forks** | 50 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Algebrica（antoniolupetti/algebrica）是一个免费、开源的数学知识�
 | forks | 43/100 |
 | stars | 62/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # airbytehq/airbyte-agent-sdk
 
-[![Stars](https://img.shields.io/github/stars/airbytehq/airbyte-agent-sdk?style=flat-square&color=yellow)](https://github.com/airbytehq/airbyte-agent-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/airbytehq/airbyte-agent-sdk?style=flat-square&color=blue)](https://github.com/airbytehq/airbyte-agent-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/airbytehq/airbyte-agent-sdk?style=flat-square&color=yellow)](https://github.com/airbytehq/airbyte-agent-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/airbytehq/airbyte-agent-sdk?style=flat-square&color=blue)](https://github.com/airbytehq/airbyte-agent-sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · MCP · Knowledge/RAG · AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ airbytehq/airbyte-agent-sdk: airbytehq/airbyte-agent-sdk helps turn isolated pro
 
 ### Русский
 
-airbytehq/airbyte-agent-sdk: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+airbytehq/airbyte-agent-sdk: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ airbytehq/airbyte-agent-sdk：airbytehq/airbyte-agent-sdk helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 39/100 |
-| stars | 44/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

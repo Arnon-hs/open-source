@@ -1,6 +1,6 @@
 # dbt-labs/dbt-mcp
 
-[![Stars](https://img.shields.io/github/stars/dbt-labs/dbt-mcp?style=flat-square&color=yellow)](https://github.com/dbt-labs/dbt-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dbt-labs/dbt-mcp?style=flat-square&color=blue)](https://github.com/dbt-labs/dbt-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbt-labs/dbt-mcp?style=flat-square&color=yellow)](https://github.com/dbt-labs/dbt-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/dbt-labs/dbt-mcp?style=flat-square&color=blue)](https://github.com/dbt-labs/dbt-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A MCP (Model Context Protocol) server for interacting with dbt.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 557 |
 | 🍴 **Forks** | 114 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ dbt-labs/dbt-mcp：dbt-labs/dbt-mcp helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
+| production | 52/100 |
+| outlook | 51/100 |
 | adoption | 57/100 |
 | stars | 58/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

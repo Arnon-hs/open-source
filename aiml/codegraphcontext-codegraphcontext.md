@@ -1,6 +1,6 @@
 # CodeGraphContext/CodeGraphContext
 
-[![Stars](https://img.shields.io/github/stars/CodeGraphContext/CodeGraphContext?style=flat-square&color=yellow)](https://github.com/CodeGraphContext/CodeGraphContext/stargazers) [![Forks](https://img.shields.io/github/forks/CodeGraphContext/CodeGraphContext?style=flat-square&color=blue)](https://github.com/CodeGraphContext/CodeGraphContext/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodeGraphContext/CodeGraphContext?style=flat-square&color=yellow)](https://github.com/CodeGraphContext/CodeGraphContext/stargazers) [![Forks](https://img.shields.io/github/forks/CodeGraphContext/CodeGraphContext?style=flat-square&color=blue)](https://github.com/CodeGraphContext/CodeGraphContext/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 566 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ CodeGraphContext/CodeGraphContext：CodeGraphContext/CodeGraphContext helps add 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 63/100 |
+| production | 53/100 |
+| outlook | 56/100 |
 | adoption | 73/100 |
 | stars | 75/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

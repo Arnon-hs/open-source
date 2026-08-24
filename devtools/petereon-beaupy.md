@@ -1,6 +1,6 @@
 # petereon/beaupy
 
-[![Stars](https://img.shields.io/github/stars/petereon/beaupy?style=flat-square&color=yellow)](https://github.com/petereon/beaupy/stargazers) [![Forks](https://img.shields.io/github/forks/petereon/beaupy?style=flat-square&color=blue)](https://github.com/petereon/beaupy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petereon/beaupy?style=flat-square&color=yellow)](https://github.com/petereon/beaupy/stargazers) [![Forks](https://img.shields.io/github/forks/petereon/beaupy?style=flat-square&color=blue)](https://github.com/petereon/beaupy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A Python library of interactive CLI elements you have been looking for
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 238 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ beaupy 的生产可用性为中等（Medium），适合用于原型或内部工�
 | forks | 30/100 |
 | stars | 51/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

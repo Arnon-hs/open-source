@@ -1,6 +1,6 @@
 # omega-memory/omega-memory
 
-[![Stars](https://img.shields.io/github/stars/omega-memory/omega-memory?style=flat-square&color=yellow)](https://github.com/omega-memory/omega-memory/stargazers) [![Forks](https://img.shields.io/github/forks/omega-memory/omega-memory?style=flat-square&color=blue)](https://github.com/omega-memory/omega-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omega-memory/omega-memory?style=flat-square&color=yellow)](https://github.com/omega-memory/omega-memory/stargazers) [![Forks](https://img.shields.io/github/forks/omega-memory/omega-memory?style=flat-square&color=blue)](https://github.com/omega-memory/omega-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent memory for AI coding agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 131 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ omega-memory/omega-memory：omega-memory/omega-memory helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 42/100 |
 | stars | 45/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

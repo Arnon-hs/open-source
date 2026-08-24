@@ -1,6 +1,6 @@
 # Mirascope/mirascope
 
-[![Stars](https://img.shields.io/github/stars/Mirascope/mirascope?style=flat-square&color=yellow)](https://github.com/Mirascope/mirascope/stargazers) [![Forks](https://img.shields.io/github/forks/Mirascope/mirascope?style=flat-square&color=blue)](https://github.com/Mirascope/mirascope/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mirascope/mirascope?style=flat-square&color=yellow)](https://github.com/Mirascope/mirascope/stargazers) [![Forks](https://img.shields.io/github/forks/Mirascope/mirascope?style=flat-square&color=blue)](https://github.com/Mirascope/mirascope/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > The LLM Anti-Framework
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ Mirascope（Mirascope/mirascope）是一个“LLM 反框架”，旨在让开发
 | forks | 52/100 |
 | stars | 67/100 |
 | topics | 88/100 |
-| outlook | 88/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 62/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

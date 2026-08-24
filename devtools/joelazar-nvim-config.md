@@ -1,6 +1,6 @@
 # joelazar/nvim-config
 
-[![Stars](https://img.shields.io/github/stars/joelazar/nvim-config?style=flat-square&color=yellow)](https://github.com/joelazar/nvim-config/stargazers) [![Forks](https://img.shields.io/github/forks/joelazar/nvim-config?style=flat-square&color=blue)](https://github.com/joelazar/nvim-config/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/joelazar/nvim-config?style=flat-square&color=yellow)](https://github.com/joelazar/nvim-config/stargazers) [![Forks](https://img.shields.io/github/forks/joelazar/nvim-config?style=flat-square&color=blue)](https://github.com/joelazar/nvim-config/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > My neovim config
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 130 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ joelazar/nvim-config：joelazar/nvim-config helps engineers save time in daily d
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 94/100 |
-| production | 61/100 |
-| outlook | 55/100 |
-| adoption | 38/100 |
-| stars | 45/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

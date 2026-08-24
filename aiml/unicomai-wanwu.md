@@ -1,6 +1,6 @@
 # UnicomAI/wanwu
 
-[![Stars](https://img.shields.io/github/stars/UnicomAI/wanwu?style=flat-square&color=yellow)](https://github.com/UnicomAI/wanwu/stargazers) [![Forks](https://img.shields.io/github/forks/UnicomAI/wanwu?style=flat-square&color=blue)](https://github.com/UnicomAI/wanwu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UnicomAI/wanwu?style=flat-square&color=yellow)](https://github.com/UnicomAI/wanwu/stargazers) [![Forks](https://img.shields.io/github/forks/UnicomAI/wanwu?style=flat-square&color=blue)](https://github.com/UnicomAI/wanwu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > China Unicom's Yuanjing Wanwu Agent Platform is an enterprise-grade, multi-tenant AI agent development platform. It helps users build applications such as intelligent agents, workflows, and rag, and also supports model management. The platform features a developer-friendly license, and we welcome all developers to build upon the platform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ UnicomAI/wanwu：UnicomAI/wanwu helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 71/100 |
+| production | 54/100 |
+| outlook | 64/100 |
 | adoption | 66/100 |
 | stars | 72/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

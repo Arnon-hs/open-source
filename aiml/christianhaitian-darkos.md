@@ -1,6 +1,6 @@
 # christianhaitian/dArkOS
 
-[![Stars](https://img.shields.io/github/stars/christianhaitian/dArkOS?style=flat-square&color=yellow)](https://github.com/christianhaitian/dArkOS/stargazers) [![Forks](https://img.shields.io/github/forks/christianhaitian/dArkOS?style=flat-square&color=blue)](https://github.com/christianhaitian/dArkOS/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/christianhaitian/dArkOS?style=flat-square&color=yellow)](https://github.com/christianhaitian/dArkOS/stargazers) [![Forks](https://img.shields.io/github/forks/christianhaitian/dArkOS?style=flat-square&color=blue)](https://github.com/christianhaitian/dArkOS/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Debian based ArkOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 512 |
 | 🍴 **Forks** | 51 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -58,21 +58,21 @@ christianhaitian/dArkOS：christianhaitian/dArkOS helps add AI capability withou
 - updated 2026-05-10
 - primary language: Shell
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 46/100 |
+| production | 42/100 |
+| outlook | 39/100 |
 | adoption | 54/100 |
 | stars | 58/100 |
 | forks | 43/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

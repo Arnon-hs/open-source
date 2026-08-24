@@ -1,6 +1,6 @@
 # tigicion/dao-code
 
-[![Stars](https://img.shields.io/github/stars/tigicion/dao-code?style=flat-square&color=yellow)](https://github.com/tigicion/dao-code/stargazers) [![Forks](https://img.shields.io/github/forks/tigicion/dao-code?style=flat-square&color=blue)](https://github.com/tigicion/dao-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tigicion/dao-code?style=flat-square&color=yellow)](https://github.com/tigicion/dao-code/stargazers) [![Forks](https://img.shields.io/github/forks/tigicion/dao-code?style=flat-square&color=blue)](https://github.com/tigicion/dao-code/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Terminal coding agent for DeepSeek V4 — cost-efficient, self-verifying memory, robust long tasks.  MIT
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 102 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ tigicion/dao-code 是一款基于 DeepSeek V4 的终端编码代理，具备低�
 | forks | 15/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 35/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

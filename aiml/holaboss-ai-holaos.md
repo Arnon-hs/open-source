@@ -1,6 +1,6 @@
 # holaboss-ai/holaOS
 
-[![Stars](https://img.shields.io/github/stars/holaboss-ai/holaOS?style=flat-square&color=yellow)](https://github.com/holaboss-ai/holaOS/stargazers) [![Forks](https://img.shields.io/github/forks/holaboss-ai/holaOS?style=flat-square&color=blue)](https://github.com/holaboss-ai/holaOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holaboss-ai/holaOS?style=flat-square&color=yellow)](https://github.com/holaboss-ai/holaOS/stargazers) [![Forks](https://img.shields.io/github/forks/holaboss-ai/holaOS?style=flat-square&color=blue)](https://github.com/holaboss-ai/holaOS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An Open Agent Computer for ANY digital work.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 302 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ holaboss-ai/holaOS：holaboss-ai/holaOS helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 67/100 |
+| production | 55/100 |
+| outlook | 60/100 |
 | adoption | 74/100 |
 | stars | 79/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

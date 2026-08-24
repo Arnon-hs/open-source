@@ -1,6 +1,6 @@
 # langgraph4j/langgraph4j
 
-[![Stars](https://img.shields.io/github/stars/langgraph4j/langgraph4j?style=flat-square&color=yellow)](https://github.com/langgraph4j/langgraph4j/stargazers) [![Forks](https://img.shields.io/github/forks/langgraph4j/langgraph4j?style=flat-square&color=blue)](https://github.com/langgraph4j/langgraph4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langgraph4j/langgraph4j?style=flat-square&color=yellow)](https://github.com/langgraph4j/langgraph4j/stargazers) [![Forks](https://img.shields.io/github/forks/langgraph4j/langgraph4j?style=flat-square&color=blue)](https://github.com/langgraph4j/langgraph4j/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 LangGraph for Java. A library for develop AI Agentic Architectures in the Java ecosystem. Designed to work seamlessly with both Langchain4j and Spring AI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Design
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ LangGraph4j — это open‑source библиотека для создан�
 
 ### 中文
 
-langgraph4j/langgraph4j：langgraph4j/langgraph4j helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+langgraph4j/langgraph4j：langgraph4j/langgraph4j helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ langgraph4j/langgraph4j：langgraph4j/langgraph4j helps turn isolated prompts an
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ langgraph4j/langgraph4j：langgraph4j/langgraph4j helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 63/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 75/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,0 +1,79 @@
+# bazelbuild/bazel-central-registry
+
+[![Stars](https://img.shields.io/github/stars/bazelbuild/bazel-central-registry?style=flat-square&color=yellow)](https://github.com/bazelbuild/bazel-central-registry/stargazers) [![Forks](https://img.shields.io/github/forks/bazelbuild/bazel-central-registry?style=flat-square&color=blue)](https://github.com/bazelbuild/bazel-central-registry/network) [![Language](https://img.shields.io/badge/lang-Starlark-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+
+> The central registry of Bazel modules for the Bzlmod external dependency system.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 365 |
+| 🍴 **Forks** | 757 |
+| 💻 **Language** | Starlark |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+The **bazelbuild/bazel-central-registry** project hosts the official, community‑maintained registry of Bazel modules used by Bzlmod, Bazel’s external dependency system. It provides a searchable, version‑controlled index of module metadata and source links, enabling developers to discover, fetch, and integrate third‑party packages into Bazel builds with minimal configuration.
+
+### Русский
+
+**bazelbuild/bazel-central-registry** — это открытый репозиторий, служащий центральным реестром модулей Bazel для системы внешних зависимостей Bzlmod. Он собирает, публикует и поддерживает метаданные о доступных модулях, упрощая их поиск, версионирование и интеграцию в проекты Bazel. Проект ориентирован на фронтенд‑разработчиков, которым нужен быстрый и надёжный способ управления зависимостями в сборочных процессах.
+
+### 中文
+
+bazelbuild/bazel-central-registry：bazelbuild/bazel-central-registry may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** bazelbuild/bazel-central-registry may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 365 GitHub stars
+- 757 forks
+- updated 2026-05-10
+- primary language: Starlark
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 72/100 |
+| stars | 55/100 |
+| topics | 0/100 |
+| outlook | 40/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/bazelbuild/bazel-central-registry) · [← Back to Misc](./README.md)</sub>

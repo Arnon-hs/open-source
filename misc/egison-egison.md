@@ -1,6 +1,6 @@
 # egison/egison
 
-[![Stars](https://img.shields.io/github/stars/egison/egison?style=flat-square&color=yellow)](https://github.com/egison/egison/stargazers) [![Forks](https://img.shields.io/github/forks/egison/egison?style=flat-square&color=blue)](https://github.com/egison/egison/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/egison/egison?style=flat-square&color=yellow)](https://github.com/egison/egison/stargazers) [![Forks](https://img.shields.io/github/forks/egison/egison?style=flat-square&color=blue)](https://github.com/egison/egison/network) [![Language](https://img.shields.io/badge/lang-Haskell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > The Egison Programming Language
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 926 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Haskell |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ Egison的生产可用性为中等（Medium），因为它适合用于prototype�
 | forks | 38/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 56/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

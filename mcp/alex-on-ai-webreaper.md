@@ -1,6 +1,6 @@
 # alex-on-ai/WebReaper
 
-[![Stars](https://img.shields.io/github/stars/alex-on-ai/WebReaper?style=flat-square&color=yellow)](https://github.com/alex-on-ai/WebReaper/stargazers) [![Forks](https://img.shields.io/github/forks/alex-on-ai/WebReaper?style=flat-square&color=blue)](https://github.com/alex-on-ai/WebReaper/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alex-on-ai/WebReaper?style=flat-square&color=yellow)](https://github.com/alex-on-ai/WebReaper/stargazers) [![Forks](https://img.shields.io/github/forks/alex-on-ai/WebReaper?style=flat-square&color=blue)](https://github.com/alex-on-ai/WebReaper/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > AI-native web scraper. Single binary with a bundled Claude Code skill. MIT-licensed alternative to Firecrawl.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ alex-on-ai/WebReaper具有高生产可用性，主要原因包括：
 | forks | 38/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

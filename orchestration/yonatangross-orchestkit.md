@@ -1,6 +1,6 @@
 # yonatangross/orchestkit
 
-[![Stars](https://img.shields.io/github/stars/yonatangross/orchestkit?style=flat-square&color=yellow)](https://github.com/yonatangross/orchestkit/stargazers) [![Forks](https://img.shields.io/github/forks/yonatangross/orchestkit?style=flat-square&color=blue)](https://github.com/yonatangross/orchestkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yonatangross/orchestkit?style=flat-square&color=yellow)](https://github.com/yonatangross/orchestkit/stargazers) [![Forks](https://img.shields.io/github/forks/yonatangross/orchestkit?style=flat-square&color=blue)](https://github.com/yonatangross/orchestkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 168 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ yonatangross/orchestkit: yonatangross/orchestkit helps turn isolated prompts and
 
 ### Русский
 
-yonatangross/orchestkit: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+yonatangross/orchestkit: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ yonatangross/orchestkit：yonatangross/orchestkit helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 59/100 |
-| integration | 94/100 |
-| production | 61/100 |
-| outlook | 65/100 |
-| adoption | 43/100 |
-| stars | 47/100 |
 | forks | 30/100 |
-| recency | 40/100 |
+| stars | 47/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

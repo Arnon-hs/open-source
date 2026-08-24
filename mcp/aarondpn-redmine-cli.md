@@ -1,6 +1,6 @@
 # aarondpn/redmine-cli
 
-[![Stars](https://img.shields.io/github/stars/aarondpn/redmine-cli?style=flat-square&color=yellow)](https://github.com/aarondpn/redmine-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aarondpn/redmine-cli?style=flat-square&color=blue)](https://github.com/aarondpn/redmine-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aarondpn/redmine-cli?style=flat-square&color=yellow)](https://github.com/aarondpn/redmine-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aarondpn/redmine-cli?style=flat-square&color=blue)](https://github.com/aarondpn/redmine-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A powerful command-line interface for Redmine, enhanced with first-class AI agent capabilities via Skills and MCP integration.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 80/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ aarondpn/redmine-cli 是一款基于 Go 实现的强大 Redmine 命令行工具�
 | forks | 19/100 |
 | stars | 29/100 |
 | topics | 88/100 |
-| outlook | 80/100 |
-| quality | 65/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 50/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 100/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

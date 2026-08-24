@@ -1,6 +1,6 @@
 # openshift/origin
 
-[![Stars](https://img.shields.io/github/stars/openshift/origin?style=flat-square&color=yellow)](https://github.com/openshift/origin/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/origin?style=flat-square&color=blue)](https://github.com/openshift/origin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openshift/origin?style=flat-square&color=yellow)](https://github.com/openshift/origin/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/origin?style=flat-square&color=blue)](https://github.com/openshift/origin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Conformance test suite for OpenShift
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.6k |
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openshift/origin：openshift/origin helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 86/100 |
 | stars | 84/100 |
 | forks | 92/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # DariuszNewecki/CORE
 
-[![Stars](https://img.shields.io/github/stars/DariuszNewecki/CORE?style=flat-square&color=yellow)](https://github.com/DariuszNewecki/CORE/stargazers) [![Forks](https://img.shields.io/github/forks/DariuszNewecki/CORE?style=flat-square&color=blue)](https://github.com/DariuszNewecki/CORE/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DariuszNewecki/CORE?style=flat-square&color=yellow)](https://github.com/DariuszNewecki/CORE/stargazers) [![Forks](https://img.shields.io/github/forks/DariuszNewecki/CORE?style=flat-square&color=blue)](https://github.com/DariuszNewecki/CORE/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A thing that uses AI to write perfect applications. For those who want to know how: a governance runtime enforcing immutable constitutional rules on AI coding agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ DariuszNewecki/CORE — это open‑source платформа, исполь�
 
 ### 中文
 
-DariuszNewecki/CORE：DariuszNewecki/CORE helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+DariuszNewecki/CORE：DariuszNewecki/CORE helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ DariuszNewecki/CORE：DariuszNewecki/CORE helps add AI capability without starti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ DariuszNewecki/CORE：DariuszNewecki/CORE helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 48/100 |
+| outlook | 46/100 |
 | adoption | 29/100 |
 | stars | 32/100 |
 | forks | 21/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

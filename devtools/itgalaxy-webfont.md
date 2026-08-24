@@ -1,6 +1,6 @@
 # itgalaxy/webfont
 
-[![Stars](https://img.shields.io/github/stars/itgalaxy/webfont?style=flat-square&color=yellow)](https://github.com/itgalaxy/webfont/stargazers) [![Forks](https://img.shields.io/github/forks/itgalaxy/webfont?style=flat-square&color=blue)](https://github.com/itgalaxy/webfont/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itgalaxy/webfont?style=flat-square&color=yellow)](https://github.com/itgalaxy/webfont/stargazers) [![Forks](https://img.shields.io/github/forks/itgalaxy/webfont?style=flat-square&color=blue)](https://github.com/itgalaxy/webfont/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome generator of webfont
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 292 |
 | 🍴 **Forks** | 72 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Design
+DevTools
 
 ## 📝 Summary
 
@@ -97,14 +97,15 @@ itgalaxy/webfont 是一个开源项目，旨在为开发者提供一个快速、
 | forks | 47/100 |
 | stars | 52/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

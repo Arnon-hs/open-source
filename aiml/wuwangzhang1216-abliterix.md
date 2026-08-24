@@ -1,6 +1,6 @@
 # wuwangzhang1216/abliterix
 
-[![Stars](https://img.shields.io/github/stars/wuwangzhang1216/abliterix?style=flat-square&color=yellow)](https://github.com/wuwangzhang1216/abliterix/stargazers) [![Forks](https://img.shields.io/github/forks/wuwangzhang1216/abliterix?style=flat-square&color=blue)](https://github.com/wuwangzhang1216/abliterix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wuwangzhang1216/abliterix?style=flat-square&color=yellow)](https://github.com/wuwangzhang1216/abliterix/stargazers) [![Forks](https://img.shields.io/github/forks/wuwangzhang1216/abliterix?style=flat-square&color=blue)](https://github.com/wuwangzhang1216/abliterix/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Automated alignment adjustment for LLMs — direct steering, LoRA, and MoE expert-granular abliteration, optimized via multi-objective Optuna TPE.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ Abliterix gives teams a fast, low‑cost way to align existing LLMs to new behav
 | forks | 38/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

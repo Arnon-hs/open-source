@@ -1,6 +1,6 @@
 # protontypes/open-sustainable-technology
 
-[![Stars](https://img.shields.io/github/stars/protontypes/open-sustainable-technology?style=flat-square&color=yellow)](https://github.com/protontypes/open-sustainable-technology/stargazers) [![Forks](https://img.shields.io/github/forks/protontypes/open-sustainable-technology?style=flat-square&color=blue)](https://github.com/protontypes/open-sustainable-technology/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/protontypes/open-sustainable-technology?style=flat-square&color=yellow)](https://github.com/protontypes/open-sustainable-technology/stargazers) [![Forks](https://img.shields.io/github/forks/protontypes/open-sustainable-technology?style=flat-square&color=blue)](https://github.com/protontypes/open-sustainable-technology/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/gSscJkc5Rb1R/OpenSustaintech
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 312 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ protontypes/open-sustainable-technology：protontypes/open-sustainable-technolog
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| production | 55/100 |
+| outlook | 56/100 |
 | adoption | 70/100 |
 | stars | 72/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

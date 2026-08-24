@@ -1,6 +1,6 @@
 # Arthi-chaud/Meelo
 
-[![Stars](https://img.shields.io/github/stars/Arthi-chaud/Meelo?style=flat-square&color=yellow)](https://github.com/Arthi-chaud/Meelo/stargazers) [![Forks](https://img.shields.io/github/forks/Arthi-chaud/Meelo?style=flat-square&color=blue)](https://github.com/Arthi-chaud/Meelo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arthi-chaud/Meelo?style=flat-square&color=yellow)](https://github.com/Arthi-chaud/Meelo/stargazers) [![Forks](https://img.shields.io/github/forks/Arthi-chaud/Meelo?style=flat-square&color=blue)](https://github.com/Arthi-chaud/Meelo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted Music Server. Focused on metadata integration & UI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Arthi-chaud/Meelo：Arthi-chaud/Meelo helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 58/100 |
 | stars | 65/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

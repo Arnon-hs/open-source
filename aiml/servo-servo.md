@@ -1,6 +1,6 @@
 # servo/servo
 
-[![Stars](https://img.shields.io/github/stars/servo/servo?style=flat-square&color=yellow)](https://github.com/servo/servo/stargazers) [![Forks](https://img.shields.io/github/forks/servo/servo?style=flat-square&color=blue)](https://github.com/servo/servo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/servo/servo?style=flat-square&color=yellow)](https://github.com/servo/servo/stargazers) [![Forks](https://img.shields.io/github/forks/servo/servo?style=flat-square&color=blue)](https://github.com/servo/servo/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 36.7k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ servo/servo：servo/servo helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 53/100 |
+| outlook | 58/100 |
 | adoption | 95/100 |
 | stars | 97/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

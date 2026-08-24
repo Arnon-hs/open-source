@@ -1,6 +1,6 @@
 # LunaMultiplayer/LunaMultiplayer
 
-[![Stars](https://img.shields.io/github/stars/LunaMultiplayer/LunaMultiplayer?style=flat-square&color=yellow)](https://github.com/LunaMultiplayer/LunaMultiplayer/stargazers) [![Forks](https://img.shields.io/github/forks/LunaMultiplayer/LunaMultiplayer?style=flat-square&color=blue)](https://github.com/LunaMultiplayer/LunaMultiplayer/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LunaMultiplayer/LunaMultiplayer?style=flat-square&color=yellow)](https://github.com/LunaMultiplayer/LunaMultiplayer/stargazers) [![Forks](https://img.shields.io/github/forks/LunaMultiplayer/LunaMultiplayer?style=flat-square&color=blue)](https://github.com/LunaMultiplayer/LunaMultiplayer/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Multiplayer mod for Kerbal Space Program (KSP)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 515 |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LunaMultiplayer — это открытый мод, добавляющий по�
 
 ### 中文
 
-LunaMultiplayer/LunaMultiplayer：LunaMultiplayer/LunaMultiplayer may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+LunaMultiplayer/LunaMultiplayer：LunaMultiplayer/LunaMultiplayer may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ LunaMultiplayer/LunaMultiplayer：LunaMultiplayer/LunaMultiplayer may be useful 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ LunaMultiplayer/LunaMultiplayer：LunaMultiplayer/LunaMultiplayer may be useful 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 57/100 |
-| stars | 58/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

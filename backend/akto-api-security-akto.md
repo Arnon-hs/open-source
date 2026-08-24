@@ -1,6 +1,6 @@
 # akto-api-security/akto
 
-[![Stars](https://img.shields.io/github/stars/akto-api-security/akto?style=flat-square&color=yellow)](https://github.com/akto-api-security/akto/stargazers) [![Forks](https://img.shields.io/github/forks/akto-api-security/akto?style=flat-square&color=blue)](https://github.com/akto-api-security/akto/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akto-api-security/akto?style=flat-square&color=yellow)](https://github.com/akto-api-security/akto/stargazers) [![Forks](https://img.shields.io/github/forks/akto-api-security/akto?style=flat-square&color=blue)](https://github.com/akto-api-security/akto/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 282 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Data
+Backend · Data · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ akto-api-security/akto: akto-api-security/akto helps teams reuse service infrast
 
 ### Русский
 
-akto-api-security/akto: open-source проект в категориях Backend, DevTools, Data. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+akto-api-security/akto: open-source проект в категориях Backend, Data, Security. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ akto-api-security/akto：akto-api-security/akto helps teams reuse service infras
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 66/100 |
-| stars | 67/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

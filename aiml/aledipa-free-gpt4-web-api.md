@@ -1,6 +1,6 @@
 # aledipa/Free-GPT4-WEB-API
 
-[![Stars](https://img.shields.io/github/stars/aledipa/Free-GPT4-WEB-API?style=flat-square&color=yellow)](https://github.com/aledipa/Free-GPT4-WEB-API/stargazers) [![Forks](https://img.shields.io/github/forks/aledipa/Free-GPT4-WEB-API?style=flat-square&color=blue)](https://github.com/aledipa/Free-GPT4-WEB-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aledipa/Free-GPT4-WEB-API?style=flat-square&color=yellow)](https://github.com/aledipa/Free-GPT4-WEB-API/stargazers) [![Forks](https://img.shields.io/github/forks/aledipa/Free-GPT4-WEB-API?style=flat-square&color=blue)](https://github.com/aledipa/Free-GPT4-WEB-API/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Not just GPT4! Easy to use, Self-Hosted, Unlimited and Free WEB API of the latest A.I. like Gemini, DeepSeek, Claude and GPT
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 698 |
 | 🍴 **Forks** | 141 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ aledipa/Free-GPT4-WEB-API：aledipa/Free-GPT4-WEB-API helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 78/100 |
-| production | 62/100 |
-| outlook | 63/100 |
-| adoption | 59/100 |
-| stars | 61/100 |
 | forks | 54/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

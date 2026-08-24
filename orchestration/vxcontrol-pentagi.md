@@ -1,6 +1,6 @@
 # vxcontrol/pentagi
 
-[![Stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=flat-square&color=yellow)](https://github.com/vxcontrol/pentagi/stargazers) [![Forks](https://img.shields.io/github/forks/vxcontrol/pentagi?style=flat-square&color=blue)](https://github.com/vxcontrol/pentagi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=flat-square&color=yellow)](https://github.com/vxcontrol/pentagi/stargazers) [![Forks](https://img.shields.io/github/forks/vxcontrol/pentagi?style=flat-square&color=blue)](https://github.com/vxcontrol/pentagi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16.6k |
 | 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Frontend · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ vxcontrol/pentagi：vxcontrol/pentagi helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 76/100 |
-| adoption | 88/100 |
-| stars | 90/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

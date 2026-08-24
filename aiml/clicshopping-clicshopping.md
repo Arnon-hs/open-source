@@ -1,6 +1,6 @@
 # ClicShopping/ClicShopping
 
-[![Stars](https://img.shields.io/github/stars/ClicShopping/ClicShopping?style=flat-square&color=yellow)](https://github.com/ClicShopping/ClicShopping/stargazers) [![Forks](https://img.shields.io/github/forks/ClicShopping/ClicShopping?style=flat-square&color=blue)](https://github.com/ClicShopping/ClicShopping/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ClicShopping/ClicShopping?style=flat-square&color=yellow)](https://github.com/ClicShopping/ClicShopping/stargazers) [![Forks](https://img.shields.io/github/forks/ClicShopping/ClicShopping?style=flat-square&color=blue)](https://github.com/ClicShopping/ClicShopping/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > ClicShopping AI(tm) is OpenSource and powerfull Solution AI  e-commerce B2B / B2C / B2B-B2C  agentic. The solution is based on a modern, responsive design that will allow you to have a great website on all mobile device, desktop and easy to install.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 63 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Database · Design
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ ClicShopping/ClicShopping 是一套开源的 AI 驱动电商平台，支持 B2B�
 | forks | 38/100 |
 | stars | 38/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 38/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

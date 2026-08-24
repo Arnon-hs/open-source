@@ -1,6 +1,6 @@
 # atilaahmettaner/tradingview-mcp
 
-[![Stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat-square&color=yellow)](https://github.com/atilaahmettaner/tradingview-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/atilaahmettaner/tradingview-mcp?style=flat-square&color=blue)](https://github.com/atilaahmettaner/tradingview-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat-square&color=yellow)](https://github.com/atilaahmettaner/tradingview-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/atilaahmettaner/tradingview-mcp?style=flat-square&color=blue)](https://github.com/atilaahmettaner/tradingview-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatGPT, Cursor & any MCP client. Stocks, crypto, forex & futures across global exchanges. Hosted or self-host.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 705 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · MCP · Backend · DevTools
+Crypto · Trading · MCP · Backend · Data
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Overall, TradingView MCP is a high‑readiness OSS component that can be evalu
 | forks | 71/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 91/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 70/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

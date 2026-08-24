@@ -1,6 +1,6 @@
 # AnalyseDeCircuit/oxideterm
 
-[![Stars](https://img.shields.io/github/stars/AnalyseDeCircuit/oxideterm?style=flat-square&color=yellow)](https://github.com/AnalyseDeCircuit/oxideterm/stargazers) [![Forks](https://img.shields.io/github/forks/AnalyseDeCircuit/oxideterm?style=flat-square&color=blue)](https://github.com/AnalyseDeCircuit/oxideterm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnalyseDeCircuit/oxideterm?style=flat-square&color=yellow)](https://github.com/AnalyseDeCircuit/oxideterm/stargazers) [![Forks](https://img.shields.io/github/forks/AnalyseDeCircuit/oxideterm?style=flat-square&color=blue)](https://github.com/AnalyseDeCircuit/oxideterm/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first SSH workspace for local shells and remote machines — SSH, SFTP, trzsz, port forwarding, lightweight remote editing, file management, and BYOK AI in one native binary. Built with Tauri 2 and pure Rust SSH. Zero Electron, zero OpenSSL, zero telemetry, and no app subscription for core SSH workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 648 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend
+Payments · MCP · Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ AnalyseDeCircuit/oxideterm: AnalyseDeCircuit/oxideterm helps integrate monetizat
 
 ### Русский
 
-AnalyseDeCircuit/oxideterm: open-source проект в категориях Payments, AI/ML, Frontend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+AnalyseDeCircuit/oxideterm: open-source проект в категориях Payments, MCP, Knowledge/RAG, AI/ML, Frontend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ AnalyseDeCircuit/oxideterm：AnalyseDeCircuit/oxideterm helps integrate monetiza
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 64/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 67/100 |
-| adoption | 54/100 |
-| stars | 60/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

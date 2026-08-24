@@ -1,6 +1,6 @@
 # multica-ai/multica
 
-[![Stars](https://img.shields.io/github/stars/multica-ai/multica?style=flat-square&color=yellow)](https://github.com/multica-ai/multica/stargazers) [![Forks](https://img.shields.io/github/forks/multica-ai/multica?style=flat-square&color=blue)](https://github.com/multica-ai/multica/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/multica-ai/multica?style=flat-square&color=yellow)](https://github.com/multica-ai/multica/stargazers) [![Forks](https://img.shields.io/github/forks/multica-ai/multica?style=flat-square&color=blue)](https://github.com/multica-ai/multica/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.6k |
 | 🍴 **Forks** | 3.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ multica-ai/multica：multica-ai/multica helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 52/100 |
 | adoption | 92/100 |
 | stars | 94/100 |
 | forks | 87/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

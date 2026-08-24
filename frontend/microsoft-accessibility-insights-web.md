@@ -1,6 +1,6 @@
 # microsoft/accessibility-insights-web
 
-[![Stars](https://img.shields.io/github/stars/microsoft/accessibility-insights-web?style=flat-square&color=yellow)](https://github.com/microsoft/accessibility-insights-web/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/accessibility-insights-web?style=flat-square&color=blue)](https://github.com/microsoft/accessibility-insights-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/accessibility-insights-web?style=flat-square&color=yellow)](https://github.com/microsoft/accessibility-insights-web/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/accessibility-insights-web?style=flat-square&color=blue)](https://github.com/microsoft/accessibility-insights-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Accessibility Insights for Web
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 901 |
 | 🍴 **Forks** | 169 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Accessibility Insights for Web is an open‑source browser extension and web too
 
 ### 中文
 
-microsoft/accessibility-insights-web：microsoft/accessibility-insights-web helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+microsoft/accessibility-insights-web：microsoft/accessibility-insights-web helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ microsoft/accessibility-insights-web：microsoft/accessibility-insights-web help
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ microsoft/accessibility-insights-web：microsoft/accessibility-insights-web help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 61/100 |
 | stars | 63/100 |
 | forks | 56/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

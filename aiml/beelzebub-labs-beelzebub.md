@@ -1,6 +1,6 @@
 # beelzebub-labs/beelzebub
 
-[![Stars](https://img.shields.io/github/stars/beelzebub-labs/beelzebub?style=flat-square&color=yellow)](https://github.com/beelzebub-labs/beelzebub/stargazers) [![Forks](https://img.shields.io/github/forks/beelzebub-labs/beelzebub?style=flat-square&color=blue)](https://github.com/beelzebub-labs/beelzebub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/beelzebub-labs/beelzebub?style=flat-square&color=yellow)](https://github.com/beelzebub-labs/beelzebub/stargazers) [![Forks](https://img.shields.io/github/forks/beelzebub-labs/beelzebub?style=flat-square&color=blue)](https://github.com/beelzebub-labs/beelzebub/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > A secure low code deception runtime framework, leveraging AI for System Virtualization.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 190 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ beelzebub-labs/beelzebub：beelzebub-labs/beelzebub helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 71/100 |
+| production | 54/100 |
+| outlook | 64/100 |
 | adoption | 67/100 |
 | stars | 70/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

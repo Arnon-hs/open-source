@@ -1,6 +1,6 @@
 # composer/composer
 
-[![Stars](https://img.shields.io/github/stars/composer/composer?style=flat-square&color=yellow)](https://github.com/composer/composer/stargazers) [![Forks](https://img.shields.io/github/forks/composer/composer?style=flat-square&color=blue)](https://github.com/composer/composer/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/composer/composer?style=flat-square&color=yellow)](https://github.com/composer/composer/stargazers) [![Forks](https://img.shields.io/github/forks/composer/composer?style=flat-square&color=blue)](https://github.com/composer/composer/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Dependency Manager for PHP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29.4k |
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -99,14 +99,15 @@ Composer 是 PHP 生态的官方依赖管理工具，帮助开发者声明、安
 | forks | 92/100 |
 | stars | 95/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 92/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 72/100 |
+| recency | 20/100 |
 | adoption | 94/100 |
-| production | 78/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

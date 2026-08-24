@@ -1,6 +1,6 @@
 # stripe/stripe-dotnet
 
-[![Stars](https://img.shields.io/github/stars/stripe/stripe-dotnet?style=flat-square&color=yellow)](https://github.com/stripe/stripe-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-dotnet?style=flat-square&color=blue)](https://github.com/stripe/stripe-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/stripe-dotnet?style=flat-square&color=yellow)](https://github.com/stripe/stripe-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-dotnet?style=flat-square&color=blue)](https://github.com/stripe/stripe-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Stripe.net is a sync/async .NET 4.6.1+ client, and a portable class library for stripe.com.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 593 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-05 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · DevTools
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ stripe/stripe-dotnet: stripe/stripe-dotnet helps integrate monetization, billing
 
 ### Русский
 
-stripe/stripe-dotnet: open-source проект в категориях Payments, DevTools. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+stripe/stripe-dotnet: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ stripe/stripe-dotnet：stripe/stripe-dotnet helps integrate monetization, billin
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 58/100 |
-| adoption | 68/100 |
-| stars | 68/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 25/100 |
+| outlook | 51/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

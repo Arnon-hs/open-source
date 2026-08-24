@@ -1,6 +1,6 @@
 # kellnr/kellnr
 
-[![Stars](https://img.shields.io/github/stars/kellnr/kellnr?style=flat-square&color=yellow)](https://github.com/kellnr/kellnr/stargazers) [![Forks](https://img.shields.io/github/forks/kellnr/kellnr?style=flat-square&color=blue)](https://github.com/kellnr/kellnr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kellnr/kellnr?style=flat-square&color=yellow)](https://github.com/kellnr/kellnr/stargazers) [![Forks](https://img.shields.io/github/forks/kellnr/kellnr?style=flat-square&color=blue)](https://github.com/kellnr/kellnr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > The registry for Rust crates
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 981 |
 | 🍴 **Forks** | 80 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ kellnr is an open‑source registry for Rust crates, offering a lightweight, com
 
 ### 中文
 
-kellnr/kellnr：kellnr/kellnr may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kellnr/kellnr：kellnr/kellnr may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ kellnr/kellnr：kellnr/kellnr may be useful when its README and activity match a
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ kellnr/kellnr：kellnr/kellnr may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 59/100 |
-| stars | 64/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 63/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

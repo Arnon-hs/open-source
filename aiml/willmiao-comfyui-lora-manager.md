@@ -1,6 +1,6 @@
 # willmiao/ComfyUI-Lora-Manager
 
-[![Stars](https://img.shields.io/github/stars/willmiao/ComfyUI-Lora-Manager?style=flat-square&color=yellow)](https://github.com/willmiao/ComfyUI-Lora-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/willmiao/ComfyUI-Lora-Manager?style=flat-square&color=blue)](https://github.com/willmiao/ComfyUI-Lora-Manager/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/willmiao/ComfyUI-Lora-Manager?style=flat-square&color=yellow)](https://github.com/willmiao/ComfyUI-Lora-Manager/stargazers) [![Forks](https://img.shields.io/github/forks/willmiao/ComfyUI-Lora-Manager?style=flat-square&color=blue)](https://github.com/willmiao/ComfyUI-Lora-Manager/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > LoRA Manager for ComfyUI - A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 112 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ LoRA Manager — это расширение для ComfyUI, позволя�
 
 ### 中文
 
-willmiao/ComfyUI-Lora-Manager：willmiao/ComfyUI-Lora-Manager helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+willmiao/ComfyUI-Lora-Manager：willmiao/ComfyUI-Lora-Manager helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ willmiao/ComfyUI-Lora-Manager：willmiao/ComfyUI-Lora-Manager helps add AI capab
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ willmiao/ComfyUI-Lora-Manager：willmiao/ComfyUI-Lora-Manager helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 51/100 |
+| production | 46/100 |
+| outlook | 44/100 |
 | adoption | 61/100 |
 | stars | 65/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

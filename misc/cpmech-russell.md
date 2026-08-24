@@ -1,6 +1,6 @@
 # cpmech/russell
 
-[![Stars](https://img.shields.io/github/stars/cpmech/russell?style=flat-square&color=yellow)](https://github.com/cpmech/russell/stargazers) [![Forks](https://img.shields.io/github/forks/cpmech/russell?style=flat-square&color=blue)](https://github.com/cpmech/russell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cpmech/russell?style=flat-square&color=yellow)](https://github.com/cpmech/russell/stargazers) [![Forks](https://img.shields.io/github/forks/cpmech/russell?style=flat-square&color=blue)](https://github.com/cpmech/russell/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Rust Scientific Library. ODE, DAE (Runge-Kutta), and PDE solvers. Special functions (Bessel, Elliptic, Beta, Gamma, Erf). Linear algebra. Sparse solvers (MUMPS, UMFPACK). Probability distributions. Tensor calculus. Numerical continuation.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 187 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -112,14 +112,15 @@ Russell is a Rust‑based scientific computing library that bundles ODE/DAE (Run
 | forks | 30/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

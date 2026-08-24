@@ -1,6 +1,6 @@
 # linux-credentials/libwebauthn
 
-[![Stars](https://img.shields.io/github/stars/linux-credentials/libwebauthn?style=flat-square&color=yellow)](https://github.com/linux-credentials/libwebauthn/stargazers) [![Forks](https://img.shields.io/github/forks/linux-credentials/libwebauthn?style=flat-square&color=blue)](https://github.com/linux-credentials/libwebauthn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/linux-credentials/libwebauthn?style=flat-square&color=yellow)](https://github.com/linux-credentials/libwebauthn/stargazers) [![Forks](https://img.shields.io/github/forks/linux-credentials/libwebauthn?style=flat-square&color=blue)](https://github.com/linux-credentials/libwebauthn/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > FIDO2 (WebAuthn) and FIDO U2F platform library for Linux written in Rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ linux-credentials/libwebauthn — это открытая библиотека
 
 ### 中文
 
-linux-credentials/libwebauthn：linux-credentials/libwebauthn helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+linux-credentials/libwebauthn：linux-credentials/libwebauthn helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ linux-credentials/libwebauthn：linux-credentials/libwebauthn helps catch securi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ linux-credentials/libwebauthn：linux-credentials/libwebauthn helps catch securi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 45/100 |
+| outlook | 45/100 |
 | adoption | 51/100 |
 | stars | 58/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

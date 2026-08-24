@@ -1,6 +1,6 @@
 # UI5/openui5
 
-[![Stars](https://img.shields.io/github/stars/UI5/openui5?style=flat-square&color=yellow)](https://github.com/UI5/openui5/stargazers) [![Forks](https://img.shields.io/github/forks/UI5/openui5?style=flat-square&color=blue)](https://github.com/UI5/openui5/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UI5/openui5?style=flat-square&color=yellow)](https://github.com/UI5/openui5/stargazers) [![Forks](https://img.shields.io/github/forks/UI5/openui5?style=flat-square&color=blue)](https://github.com/UI5/openui5/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenUI5 — это полностью открытая библиотека UI
 
 ### 中文
 
-UI5/openui5：UI5/openui5 helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+UI5/openui5：UI5/openui5 helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ UI5/openui5：UI5/openui5 helps add AI capability without starting from a blank 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ UI5/openui5：UI5/openui5 helps add AI capability without starting from a blank 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 59/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 76/100 |
 | stars | 75/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

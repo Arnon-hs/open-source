@@ -1,6 +1,6 @@
 # Mininglamp-OSS/octo-server
 
-[![Stars](https://img.shields.io/github/stars/Mininglamp-OSS/octo-server?style=flat-square&color=yellow)](https://github.com/Mininglamp-OSS/octo-server/stargazers) [![Forks](https://img.shields.io/github/forks/Mininglamp-OSS/octo-server?style=flat-square&color=blue)](https://github.com/Mininglamp-OSS/octo-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mininglamp-OSS/octo-server?style=flat-square&color=yellow)](https://github.com/Mininglamp-OSS/octo-server/stargazers) [![Forks](https://img.shields.io/github/forks/Mininglamp-OSS/octo-server?style=flat-square&color=blue)](https://github.com/Mininglamp-OSS/octo-server/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend · Backend
+Orchestration · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Mininglamp-OSS/octo‑server 是用 Go 编写的后端服务，为 OCTO（面向
 | forks | 30/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

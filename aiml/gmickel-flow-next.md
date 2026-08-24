@@ -1,6 +1,6 @@
 # gmickel/flow-next
 
-[![Stars](https://img.shields.io/github/stars/gmickel/flow-next?style=flat-square&color=yellow)](https://github.com/gmickel/flow-next/stargazers) [![Forks](https://img.shields.io/github/forks/gmickel/flow-next?style=flat-square&color=blue)](https://github.com/gmickel/flow-next/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gmickel/flow-next?style=flat-square&color=yellow)](https://github.com/gmickel/flow-next/stargazers) [![Forks](https://img.shields.io/github/forks/gmickel/flow-next?style=flat-square&color=blue)](https://github.com/gmickel/flow-next/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Plan-first AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 582 |
 | 🍴 **Forks** | 45 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ gmickel/flow-next：gmickel/flow-next helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 54/100 |
 | stars | 59/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

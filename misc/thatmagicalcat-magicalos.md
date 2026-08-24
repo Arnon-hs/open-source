@@ -1,6 +1,6 @@
 # thatmagicalcat/magicalos
 
-[![Stars](https://img.shields.io/github/stars/thatmagicalcat/magicalos?style=flat-square&color=yellow)](https://github.com/thatmagicalcat/magicalos/stargazers) [![Forks](https://img.shields.io/github/forks/thatmagicalcat/magicalos?style=flat-square&color=blue)](https://github.com/thatmagicalcat/magicalos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thatmagicalcat/magicalos?style=flat-square&color=yellow)](https://github.com/thatmagicalcat/magicalos/stargazers) [![Forks](https://img.shields.io/github/forks/thatmagicalcat/magicalos?style=flat-square&color=blue)](https://github.com/thatmagicalcat/magicalos/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > An operating system written in rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 201 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -62,16 +62,16 @@ thatmagicalcat/magicalos：thatmagicalcat/magicalos may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 42/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 42/100 |
-| adoption | 39/100 |
-| stars | 49/100 |
 | forks | 12/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 0/100 |
+| outlook | 35/100 |
+| quality | 37/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

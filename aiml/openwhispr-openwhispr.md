@@ -1,6 +1,6 @@
 # OpenWhispr/openwhispr
 
-[![Stars](https://img.shields.io/github/stars/OpenWhispr/openwhispr?style=flat-square&color=yellow)](https://github.com/OpenWhispr/openwhispr/stargazers) [![Forks](https://img.shields.io/github/forks/OpenWhispr/openwhispr?style=flat-square&color=blue)](https://github.com/OpenWhispr/openwhispr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenWhispr/openwhispr?style=flat-square&color=yellow)](https://github.com/OpenWhispr/openwhispr/stargazers) [![Forks](https://img.shields.io/github/forks/OpenWhispr/openwhispr?style=flat-square&color=blue)](https://github.com/OpenWhispr/openwhispr/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4k |
 | 🍴 **Forks** | 550 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database
+AI/ML
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ OpenWhispr 是一款支持本地（Nvidia Parakeet / Whisper）和云端（自
 | forks | 69/100 |
 | stars | 77/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 73/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

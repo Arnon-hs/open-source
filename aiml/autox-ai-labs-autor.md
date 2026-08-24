@@ -1,6 +1,6 @@
 # AutoX-AI-Labs/AutoR
 
-[![Stars](https://img.shields.io/github/stars/AutoX-AI-Labs/AutoR?style=flat-square&color=yellow)](https://github.com/AutoX-AI-Labs/AutoR/stargazers) [![Forks](https://img.shields.io/github/forks/AutoX-AI-Labs/AutoR?style=flat-square&color=blue)](https://github.com/AutoX-AI-Labs/AutoR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AutoX-AI-Labs/AutoR?style=flat-square&color=yellow)](https://github.com/AutoX-AI-Labs/AutoR/stargazers) [![Forks](https://img.shields.io/github/forks/AutoX-AI-Labs/AutoR?style=flat-square&color=blue)](https://github.com/AutoX-AI-Labs/AutoR/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > AI handles execution, humans own the direction, and every run becomes an inspectable research artifact on disk.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ AutoX-AI-Labs/AutoR：AutoX-AI-Labs/AutoR helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 56/100 |
-| stars | 64/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # gaur-avvv/XGPT-WormGPT
 
-[![Stars](https://img.shields.io/github/stars/gaur-avvv/XGPT-WormGPT?style=flat-square&color=yellow)](https://github.com/gaur-avvv/XGPT-WormGPT/stargazers) [![Forks](https://img.shields.io/github/forks/gaur-avvv/XGPT-WormGPT?style=flat-square&color=blue)](https://github.com/gaur-avvv/XGPT-WormGPT/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gaur-avvv/XGPT-WormGPT?style=flat-square&color=yellow)](https://github.com/gaur-avvv/XGPT-WormGPT/stargazers) [![Forks](https://img.shields.io/github/forks/gaur-avvv/XGPT-WormGPT?style=flat-square&color=blue)](https://github.com/gaur-avvv/XGPT-WormGPT/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > [New Update](Added Agentic-Mode, Dark-GODMode)The Real BlackHat GPT - ai can do your illegal stuffs without saying anything. Use At Your Own Risk!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 172 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Database · Security
+AI/ML
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ XGPT‑WormGPT 是一个面向黑客与安全研究的 “黑帽” 大语言模
 | forks | 42/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

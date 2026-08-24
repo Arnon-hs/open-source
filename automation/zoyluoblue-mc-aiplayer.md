@@ -1,6 +1,6 @@
 # zoyluoblue/mc_aiplayer
 
-[![Stars](https://img.shields.io/github/stars/zoyluoblue/mc_aiplayer?style=flat-square&color=yellow)](https://github.com/zoyluoblue/mc_aiplayer/stargazers) [![Forks](https://img.shields.io/github/forks/zoyluoblue/mc_aiplayer?style=flat-square&color=blue)](https://github.com/zoyluoblue/mc_aiplayer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zoyluoblue/mc_aiplayer?style=flat-square&color=yellow)](https://github.com/zoyluoblue/mc_aiplayer/stargazers) [![Forks](https://img.shields.io/github/forks/zoyluoblue/mc_aiplayer?style=flat-square&color=blue)](https://github.com/zoyluoblue/mc_aiplayer/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous AI agent that plays Minecraft on its own — a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-compatible LLM drives a real player to mine, build, farm, fight and survive from natural-language commands. The LLM plans; deterministic tasks execute.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 211 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Frontend · Backend
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -111,14 +111,15 @@ zoyluoblue/mc_aiplayer 是一个基于 Fabric 的服务器端 Mod（适配 Minec
 | forks | 12/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

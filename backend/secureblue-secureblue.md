@@ -1,6 +1,6 @@
 # secureblue/secureblue
 
-[![Stars](https://img.shields.io/github/stars/secureblue/secureblue?style=flat-square&color=yellow)](https://github.com/secureblue/secureblue/stargazers) [![Forks](https://img.shields.io/github/forks/secureblue/secureblue?style=flat-square&color=blue)](https://github.com/secureblue/secureblue/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/secureblue/secureblue?style=flat-square&color=yellow)](https://github.com/secureblue/secureblue/stargazers) [![Forks](https://img.shields.io/github/forks/secureblue/secureblue?style=flat-square&color=blue)](https://github.com/secureblue/secureblue/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A security-focused desktop and server linux operating system.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 943 |
 | 🍴 **Forks** | 94 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ Secureblue - это бесплатный и открытый операцион�
 
 ### 中文
 
-secureblue/secureblue：secureblue/secureblue helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+secureblue/secureblue：secureblue/secureblue helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ secureblue/secureblue：secureblue/secureblue helps teams reuse service infrastr
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ secureblue/secureblue：secureblue/secureblue helps teams reuse service infrastr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 47/100 |
+| production | 45/100 |
+| outlook | 40/100 |
 | adoption | 59/100 |
 | stars | 63/100 |
 | forks | 49/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

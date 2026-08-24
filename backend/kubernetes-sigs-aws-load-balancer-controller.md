@@ -1,6 +1,6 @@
 # kubernetes-sigs/aws-load-balancer-controller
 
-[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/aws-load-balancer-controller?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/aws-load-balancer-controller/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/aws-load-balancer-controller?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/aws-load-balancer-controller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubernetes-sigs/aws-load-balancer-controller?style=flat-square&color=yellow)](https://github.com/kubernetes-sigs/aws-load-balancer-controller/stargazers) [![Forks](https://img.shields.io/github/forks/kubernetes-sigs/aws-load-balancer-controller?style=flat-square&color=blue)](https://github.com/kubernetes-sigs/aws-load-balancer-controller/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A Kubernetes controller for Elastic Load Balancers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ kubernetes-sigs/aws-load-balancer-controller 是一个用 Go 编写的 Kubernete
 | forks | 80/100 |
 | stars | 77/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 78/100 |
-| production | 84/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

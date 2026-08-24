@@ -1,6 +1,6 @@
 # sourcey/sourcey
 
-[![Stars](https://img.shields.io/github/stars/sourcey/sourcey?style=flat-square&color=yellow)](https://github.com/sourcey/sourcey/stargazers) [![Forks](https://img.shields.io/github/forks/sourcey/sourcey?style=flat-square&color=blue)](https://github.com/sourcey/sourcey/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sourcey/sourcey?style=flat-square&color=yellow)](https://github.com/sourcey/sourcey/stargazers) [![Forks](https://img.shields.io/github/forks/sourcey/sourcey?style=flat-square&color=blue)](https://github.com/sourcey/sourcey/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
 
@@ -9,33 +9,33 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 329 |
+| 🍴 **Forks** | 325 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`api-documentation` `developer-tools` `docs` `documentation` `documentation-generator` `doxygen` `godoc` `llms-txt` `mcp-server` `openapi` `openapi-documentation` `openapi3`
+`api-documentation` `developer-tools` `docs` `documentation` `doxygen` `openapi` `openapi3` `openapi31` `static-site-generator` `swagger` `typescript`
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-sourcey/sourcey: sourcey/sourcey helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Sourcey is an open‑source tool that generates precise, searchable documentation from a variety of sources—including OpenAPI specifications, MCP files, Doxygen comments, and Markdown guides—into static HTML sites you can host yourself. It bridges front‑end and back‑end development workflows, offering AI‑assisted content handling while keeping the output fully owned and customizable.
 
 ### Русский
 
-sourcey/sourcey: open-source проект в категориях MCP, AI/ML, Frontend, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Sourcey — это open‑source платформа, генерирующая точную документацию из OpenAPI‑спецификаций, MCP, Doxygen и Markdown‑руководств, а затем собирающая её в полностью статический HTML‑сайт, которым вы полностью владеете. Проект объединяет возможности AI/ML для интеллектуального анализа и автоматизации, а также предоставляет гибкие Frontend‑ и Backend‑инструменты для кастомизации и интеграции в любой workflow.
 
 ### 中文
 
-sourcey/sourcey：sourcey/sourcey helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+sourcey/sourcey：sourcey/sourcey helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,15 +49,15 @@ sourcey/sourcey：sourcey/sourcey helps connect AI assistants to real tools and 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 1306 GitHub stars
-- 329 forks
-- updated 2026-06-29
+- 1293 GitHub stars
+- 325 forks
+- updated 2026-05-10
 - primary language: TypeScript
-- 16 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,18 +65,18 @@ sourcey/sourcey：sourcey/sourcey helps connect AI assistants to real tools and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 84/100 |
-| integration | 94/100 |
-| production | 85/100 |
-| outlook | 89/100 |
-| adoption | 65/100 |
-| stars | 66/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/sourcey/sourcey) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/sourcey/sourcey) · [← Back to Mcp](./README.md)</sub>

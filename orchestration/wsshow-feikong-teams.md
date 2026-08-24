@@ -1,6 +1,6 @@
 # wsshow/feikong-teams
 
-[![Stars](https://img.shields.io/github/stars/wsshow/feikong-teams?style=flat-square&color=yellow)](https://github.com/wsshow/feikong-teams/stargazers) [![Forks](https://img.shields.io/github/forks/wsshow/feikong-teams?style=flat-square&color=blue)](https://github.com/wsshow/feikong-teams/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wsshow/feikong-teams?style=flat-square&color=yellow)](https://github.com/wsshow/feikong-teams/stargazers) [![Forks](https://img.shields.io/github/forks/wsshow/feikong-teams?style=flat-square&color=blue)](https://github.com/wsshow/feikong-teams/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > 一个基于多智能体协作的 AI 助手，支持命令行和Web界面，提供团队模式、自定义会议模式和多智能体讨论模式（圆桌会议模式）三种工作方式，通过多个专业智能体协同工作来完成复杂的编程和系统任务。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · MCP · Automation · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ wsshow/feikong‑teams 是一个基于多智能体协作的 AI 助手，提供�
 | forks | 37/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

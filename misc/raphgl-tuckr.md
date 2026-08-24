@@ -1,6 +1,6 @@
 # RaphGL/Tuckr
 
-[![Stars](https://img.shields.io/github/stars/RaphGL/Tuckr?style=flat-square&color=yellow)](https://github.com/RaphGL/Tuckr/stargazers) [![Forks](https://img.shields.io/github/forks/RaphGL/Tuckr?style=flat-square&color=blue)](https://github.com/RaphGL/Tuckr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RaphGL/Tuckr?style=flat-square&color=yellow)](https://github.com/RaphGL/Tuckr/stargazers) [![Forks](https://img.shields.io/github/forks/RaphGL/Tuckr?style=flat-square&color=blue)](https://github.com/RaphGL/Tuckr/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Super powered replacement for GNU Stow
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ RaphGL/Tuckr 是用 Rust 编写的 GNU Stow 替代品，提供更强大的符号
 | forks | 38/100 |
 | stars | 57/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

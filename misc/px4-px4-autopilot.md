@@ -1,6 +1,6 @@
 # PX4/PX4-Autopilot
 
-[![Stars](https://img.shields.io/github/stars/PX4/PX4-Autopilot?style=flat-square&color=yellow)](https://github.com/PX4/PX4-Autopilot/stargazers) [![Forks](https://img.shields.io/github/forks/PX4/PX4-Autopilot?style=flat-square&color=blue)](https://github.com/PX4/PX4-Autopilot/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PX4/PX4-Autopilot?style=flat-square&color=yellow)](https://github.com/PX4/PX4-Autopilot/stargazers) [![Forks](https://img.shields.io/github/forks/PX4/PX4-Autopilot?style=flat-square&color=blue)](https://github.com/PX4/PX4-Autopilot/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > PX4 Autopilot Software
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.7k |
 | 🍴 **Forks** | 15.4k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ PX4/PX4-Autopilot：PX4/PX4-Autopilot may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 65/100 |
+| production | 53/100 |
+| outlook | 58/100 |
 | adoption | 90/100 |
 | stars | 87/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

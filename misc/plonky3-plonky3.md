@@ -1,6 +1,6 @@
 # Plonky3/Plonky3
 
-[![Stars](https://img.shields.io/github/stars/Plonky3/Plonky3?style=flat-square&color=yellow)](https://github.com/Plonky3/Plonky3/stargazers) [![Forks](https://img.shields.io/github/forks/Plonky3/Plonky3?style=flat-square&color=blue)](https://github.com/Plonky3/Plonky3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Plonky3/Plonky3?style=flat-square&color=yellow)](https://github.com/Plonky3/Plonky3/stargazers) [![Forks](https://img.shields.io/github/forks/Plonky3/Plonky3?style=flat-square&color=blue)](https://github.com/Plonky3/Plonky3/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A toolkit for polynomial IOPs (PIOPs)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 800 |
 | 🍴 **Forks** | 429 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Plonky3 是基于 Rust 实现的多项式交互式证明（Polynomial IOP）工�
 | forks | 66/100 |
 | stars | 62/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 63/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

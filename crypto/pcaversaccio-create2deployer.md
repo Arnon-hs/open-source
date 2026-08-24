@@ -1,6 +1,6 @@
 # pcaversaccio/create2deployer
 
-[![Stars](https://img.shields.io/github/stars/pcaversaccio/create2deployer?style=flat-square&color=yellow)](https://github.com/pcaversaccio/create2deployer/stargazers) [![Forks](https://img.shields.io/github/forks/pcaversaccio/create2deployer?style=flat-square&color=blue)](https://github.com/pcaversaccio/create2deployer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pcaversaccio/create2deployer?style=flat-square&color=yellow)](https://github.com/pcaversaccio/create2deployer/stargazers) [![Forks](https://img.shields.io/github/forks/pcaversaccio/create2deployer?style=flat-square&color=blue)](https://github.com/pcaversaccio/create2deployer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ The library removes the boilerplate and error‑prone calculations normally requ
 | forks | 41/100 |
 | stars | 53/100 |
 | topics | 63/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

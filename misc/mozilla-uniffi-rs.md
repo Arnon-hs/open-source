@@ -1,6 +1,6 @@
 # mozilla/uniffi-rs
 
-[![Stars](https://img.shields.io/github/stars/mozilla/uniffi-rs?style=flat-square&color=yellow)](https://github.com/mozilla/uniffi-rs/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/uniffi-rs?style=flat-square&color=blue)](https://github.com/mozilla/uniffi-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozilla/uniffi-rs?style=flat-square&color=yellow)](https://github.com/mozilla/uniffi-rs/stargazers) [![Forks](https://img.shields.io/github/forks/mozilla/uniffi-rs?style=flat-square&color=blue)](https://github.com/mozilla/uniffi-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > a multi-language bindings generator for rust
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.6k |
 | 🍴 **Forks** | 309 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ mozilla/uniffi‑rs is an open‑source tool that automatically generates langua
 
 ### 中文
 
-mozilla/uniffi-rs：mozilla/uniffi-rs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mozilla/uniffi-rs：mozilla/uniffi-rs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ mozilla/uniffi-rs：mozilla/uniffi-rs may be useful when its README and activity
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ mozilla/uniffi-rs：mozilla/uniffi-rs may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 74/100 |
-| stars | 78/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 25/100 |
+| outlook | 46/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

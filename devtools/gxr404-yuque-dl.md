@@ -1,6 +1,6 @@
 # gxr404/yuque-dl
 
-[![Stars](https://img.shields.io/github/stars/gxr404/yuque-dl?style=flat-square&color=yellow)](https://github.com/gxr404/yuque-dl/stargazers) [![Forks](https://img.shields.io/github/forks/gxr404/yuque-dl?style=flat-square&color=blue)](https://github.com/gxr404/yuque-dl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gxr404/yuque-dl?style=flat-square&color=yellow)](https://github.com/gxr404/yuque-dl/stargazers) [![Forks](https://img.shields.io/github/forks/gxr404/yuque-dl?style=flat-square&color=blue)](https://github.com/gxr404/yuque-dl/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > yuque 语雀知识库下载
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 333 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -87,14 +87,15 @@ gxr404/yuque-dl 是一款基于 TypeScript 的开源工具，能够一键下载�
 | forks | 63/100 |
 | stars | 71/100 |
 | topics | 75/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

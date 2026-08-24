@@ -1,6 +1,6 @@
 # educlopez/ui-craft
 
-[![Stars](https://img.shields.io/github/stars/educlopez/ui-craft?style=flat-square&color=yellow)](https://github.com/educlopez/ui-craft/stargazers) [![Forks](https://img.shields.io/github/forks/educlopez/ui-craft?style=flat-square&color=blue)](https://github.com/educlopez/ui-craft/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/educlopez/ui-craft?style=flat-square&color=yellow)](https://github.com/educlopez/ui-craft/stargazers) [![Forks](https://img.shields.io/github/forks/educlopez/ui-craft?style=flat-square&color=blue)](https://github.com/educlopez/ui-craft/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Design engineering skill for AI Agents — build interfaces with craft-level quality
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Orchestration · AI/ML · Frontend · Design
 | forks | 12/100 |
 | stars | 36/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

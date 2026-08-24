@@ -1,6 +1,6 @@
 # warpdotdev/warp
 
-[![Stars](https://img.shields.io/github/stars/warpdotdev/warp?style=flat-square&color=yellow)](https://github.com/warpdotdev/warp/stargazers) [![Forks](https://img.shields.io/github/forks/warpdotdev/warp?style=flat-square&color=blue)](https://github.com/warpdotdev/warp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/warpdotdev/warp?style=flat-square&color=yellow)](https://github.com/warpdotdev/warp/stargazers) [![Forks](https://img.shields.io/github/forks/warpdotdev/warp?style=flat-square&color=blue)](https://github.com/warpdotdev/warp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Warp is an agentic development environment, born out of the terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56.1k |
 | 🍴 **Forks** | 4.1k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ warpdotdev/warp：warpdotdev/warp helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 70/100 |
+| production | 55/100 |
+| outlook | 63/100 |
 | adoption | 97/100 |
 | stars | 100/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

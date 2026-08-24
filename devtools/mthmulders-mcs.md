@@ -1,6 +1,6 @@
 # mthmulders/mcs
 
-[![Stars](https://img.shields.io/github/stars/mthmulders/mcs?style=flat-square&color=yellow)](https://github.com/mthmulders/mcs/stargazers) [![Forks](https://img.shields.io/github/forks/mthmulders/mcs?style=flat-square&color=blue)](https://github.com/mthmulders/mcs/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mthmulders/mcs?style=flat-square&color=yellow)](https://github.com/mthmulders/mcs/stargazers) [![Forks](https://img.shields.io/github/forks/mthmulders/mcs?style=flat-square&color=blue)](https://github.com/mthmulders/mcs/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Search the Maven Central Repository from your command line!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ mthmulders/mcs 的生产可用性为中等（Medium）。它适合用于原型�
 | forks | 37/100 |
 | stars | 49/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 46/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

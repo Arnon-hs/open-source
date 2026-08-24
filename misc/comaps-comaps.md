@@ -1,6 +1,6 @@
 # comaps/comaps
 
-[![Stars](https://img.shields.io/github/stars/comaps/comaps?style=flat-square&color=yellow)](https://github.com/comaps/comaps/stargazers) [![Forks](https://img.shields.io/github/forks/comaps/comaps?style=flat-square&color=blue)](https://github.com/comaps/comaps/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/comaps/comaps?style=flat-square&color=yellow)](https://github.com/comaps/comaps/stargazers) [![Forks](https://img.shields.io/github/forks/comaps/comaps?style=flat-square&color=blue)](https://github.com/comaps/comaps/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A mirror of https://codeberg.org/comaps/comaps. CoMaps is a community fork of Organic Maps. Based on principles of openness & transparency, not-for-profit & in the public interest, community-driven & accountable, fully free and open source software!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 434 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ CoMaps（`comaps/comaps`）是 Organic Maps 的社区分支，遵循开放、透
 | forks | 38/100 |
 | stars | 56/100 |
 | topics | 0/100 |
-| outlook | 66/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 51/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

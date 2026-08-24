@@ -1,6 +1,6 @@
 # iflytek/skillhub
 
-[![Stars](https://img.shields.io/github/stars/iflytek/skillhub?style=flat-square&color=yellow)](https://github.com/iflytek/skillhub/stargazers) [![Forks](https://img.shields.io/github/forks/iflytek/skillhub?style=flat-square&color=blue)](https://github.com/iflytek/skillhub/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iflytek/skillhub?style=flat-square&color=yellow)](https://github.com/iflytek/skillhub/stargazers) [![Forks](https://img.shields.io/github/forks/iflytek/skillhub?style=flat-square&color=blue)](https://github.com/iflytek/skillhub/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 381 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ iflytek/skillhub：iflytek/skillhub helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 66/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 72/100 |
 | stars | 75/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

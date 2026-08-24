@@ -1,6 +1,6 @@
 # LycheeMem/LycheeMem
 
-[![Stars](https://img.shields.io/github/stars/LycheeMem/LycheeMem?style=flat-square&color=yellow)](https://github.com/LycheeMem/LycheeMem/stargazers) [![Forks](https://img.shields.io/github/forks/LycheeMem/LycheeMem?style=flat-square&color=blue)](https://github.com/LycheeMem/LycheeMem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LycheeMem/LycheeMem?style=flat-square&color=yellow)](https://github.com/LycheeMem/LycheeMem/stargazers) [![Forks](https://img.shields.io/github/forks/LycheeMem/LycheeMem?style=flat-square&color=blue)](https://github.com/LycheeMem/LycheeMem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Long-Term Memory for LLM Agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 239 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ LycheeMem/LycheeMem：LycheeMem/LycheeMem helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 60/100 |
-| adoption | 43/100 |
-| stars | 51/100 |
 | forks | 24/100 |
-| recency | 40/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

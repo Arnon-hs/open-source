@@ -1,6 +1,6 @@
 # bagisto/bagisto
 
-[![Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=flat-square&color=yellow)](https://github.com/bagisto/bagisto/stargazers) [![Forks](https://img.shields.io/github/forks/bagisto/bagisto?style=flat-square&color=blue)](https://github.com/bagisto/bagisto/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=flat-square&color=yellow)](https://github.com/bagisto/bagisto/stargazers) [![Forks](https://img.shields.io/github/forks/bagisto/bagisto?style=flat-square&color=blue)](https://github.com/bagisto/bagisto/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Free and open source laravel eCommerce platform
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27.4k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Database
+Crypto
 
 ## 📝 Summary
 
@@ -99,14 +99,15 @@ Bagisto 是基于 Laravel 的免费开源电商平台，提供完整的商品、
 | forks | 88/100 |
 | stars | 94/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 97/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 82/100 |
+| recency | 40/100 |
 | adoption | 93/100 |
-| production | 82/100 |
+| production | 63/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

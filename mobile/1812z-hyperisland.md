@@ -1,6 +1,6 @@
 # 1812z/HyperIsland
 
-[![Stars](https://img.shields.io/github/stars/1812z/HyperIsland?style=flat-square&color=yellow)](https://github.com/1812z/HyperIsland/stargazers) [![Forks](https://img.shields.io/github/forks/1812z/HyperIsland?style=flat-square&color=blue)](https://github.com/1812z/HyperIsland/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1812z/HyperIsland?style=flat-square&color=yellow)](https://github.com/1812z/HyperIsland/stargazers) [![Forks](https://img.shields.io/github/forks/1812z/HyperIsland?style=flat-square&color=blue)](https://github.com/1812z/HyperIsland/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > HyperOS 3 Dynamic  Island Enhancer
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 318 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ HyperIsland（1812z/HyperIsland）是面向 HyperOS 3 的 Dynamic Island 增�
 | forks | 35/100 |
 | stars | 53/100 |
 | topics | 38/100 |
-| outlook | 69/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 48/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

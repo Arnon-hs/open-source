@@ -1,0 +1,81 @@
+# DataTalksClub/llm-zoomcamp
+
+[![Stars](https://img.shields.io/github/stars/DataTalksClub/llm-zoomcamp?style=flat-square&color=yellow)](https://github.com/DataTalksClub/llm-zoomcamp/stargazers) [![Forks](https://img.shields.io/github/forks/DataTalksClub/llm-zoomcamp?style=flat-square&color=blue)](https://github.com/DataTalksClub/llm-zoomcamp/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+
+> LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5k |
+| 🍴 **Forks** | 913 |
+| 💻 **Language** | Jupyter Notebook |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Knowledge/RAG · AI/ML · Education
+
+## 📝 Summary
+
+### English
+
+DataTalksClub’s **LLM Zoomcamp** is a free, 10‑week online course that teaches participants how to develop real‑world applications of large language models. Through hands‑on projects, learners build an end‑to‑end AI system that can answer questions directly from a custom knowledge base, covering both the backend (LLM prompting, retrieval, and indexing) and the frontend interface. The curriculum blends AI/ML concepts with practical data engineering and UI development, making it ideal for anyone looking to create production‑ready LLM‑powered solutions.
+
+### Русский
+
+DataTalksClub/llm-zoomcamp — это бесплатный онлайн‑курс, посвящённый практическим применениям больших языковых моделей (LLM). За 10 недель участники изучают, как спроектировать и реализовать AI‑систему, способную отвечать на вопросы, используя собственную базу знаний, и получают навыки в области AI/ML, фронтенда и работы с данными. Проект открывает доступ к учебным материалам, ноутбукам и инструкциям, позволяя быстро приступить к созданию реальных LLM‑приложений.
+
+### 中文
+
+DataTalksClub/llm-zoomcamp：DataTalksClub/llm-zoomcamp helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** DataTalksClub/llm-zoomcamp helps make internal knowledge searchable and usable by assistants.
+
+**Best use cases**
+
+- index knowledge bases
+- improve search over documents
+- ground assistant answers
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 5015 GitHub stars
+- 913 forks
+- updated 2026-05-09
+- primary language: Jupyter Notebook
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 74/100 |
+| stars | 79/100 |
+| topics | 0/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/DataTalksClub/llm-zoomcamp) · [← Back to Knowledgerag](./README.md)</sub>

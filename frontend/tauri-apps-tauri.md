@@ -1,6 +1,6 @@
 # tauri-apps/tauri
 
-[![Stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square&color=yellow)](https://github.com/tauri-apps/tauri/stargazers) [![Forks](https://img.shields.io/github/forks/tauri-apps/tauri?style=flat-square&color=blue)](https://github.com/tauri-apps/tauri/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square&color=yellow)](https://github.com/tauri-apps/tauri/stargazers) [![Forks](https://img.shields.io/github/forks/tauri-apps/tauri?style=flat-square&color=blue)](https://github.com/tauri-apps/tauri/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106.3k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ tauri-apps/tauri：tauri-apps/tauri helps ship user-facing interfaces with less 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 82/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 65/100 |
-| adoption | 97/100 |
-| stars | 100/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 88/100 |
+| outlook | 58/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

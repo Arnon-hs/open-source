@@ -1,6 +1,6 @@
 # legeling/PromptHub
 
-[![Stars](https://img.shields.io/github/stars/legeling/PromptHub?style=flat-square&color=yellow)](https://github.com/legeling/PromptHub/stargazers) [![Forks](https://img.shields.io/github/forks/legeling/PromptHub?style=flat-square&color=blue)](https://github.com/legeling/PromptHub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/legeling/PromptHub?style=flat-square&color=yellow)](https://github.com/legeling/PromptHub/stargazers) [![Forks](https://img.shields.io/github/forks/legeling/PromptHub?style=flat-square&color=blue)](https://github.com/legeling/PromptHub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 一款包含了 Prompt管理，Skill管理，Agent管理的一站式AI工具箱，助你高效管理提示词，一键分发skills ，一站式管理Agent资产，并实现云同步，备份，版本管理 | An all-in-one AI toolbox for prompt, skill, and agent management. Reuse prompts, distribute skills with one click, manage agent assets, and support cloud sync, backup, and version control
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ legeling/PromptHub：legeling/PromptHub helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

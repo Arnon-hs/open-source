@@ -1,6 +1,6 @@
 # murtaza-nasir/speakr
 
-[![Stars](https://img.shields.io/github/stars/murtaza-nasir/speakr?style=flat-square&color=yellow)](https://github.com/murtaza-nasir/speakr/stargazers) [![Forks](https://img.shields.io/github/forks/murtaza-nasir/speakr?style=flat-square&color=blue)](https://github.com/murtaza-nasir/speakr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/murtaza-nasir/speakr?style=flat-square&color=yellow)](https://github.com/murtaza-nasir/speakr/stargazers) [![Forks](https://img.shields.io/github/forks/murtaza-nasir/speakr?style=flat-square&color=blue)](https://github.com/murtaza-nasir/speakr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 243 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Speakr — это личное, полностью самохостируем�
 
 ### 中文
 
-murtaza-nasir/speakr：murtaza-nasir/speakr may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+murtaza-nasir/speakr：murtaza-nasir/speakr may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ murtaza-nasir/speakr：murtaza-nasir/speakr may be useful when its README and ac
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,14 +63,14 @@ murtaza-nasir/speakr：murtaza-nasir/speakr may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 53/100 |
+| production | 47/100 |
+| outlook | 46/100 |
 | adoption | 70/100 |
 | stars | 74/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

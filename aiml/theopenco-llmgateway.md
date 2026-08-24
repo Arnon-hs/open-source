@@ -1,6 +1,6 @@
 # theopenco/llmgateway
 
-[![Stars](https://img.shields.io/github/stars/theopenco/llmgateway?style=flat-square&color=yellow)](https://github.com/theopenco/llmgateway/stargazers) [![Forks](https://img.shields.io/github/forks/theopenco/llmgateway?style=flat-square&color=blue)](https://github.com/theopenco/llmgateway/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theopenco/llmgateway?style=flat-square&color=yellow)](https://github.com/theopenco/llmgateway/stargazers) [![Forks](https://img.shields.io/github/forks/theopenco/llmgateway?style=flat-square&color=blue)](https://github.com/theopenco/llmgateway/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data
+AI/ML · Backend · Data · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ theopenco/llmgateway: theopenco/llmgateway helps add AI capability without start
 
 ### Русский
 
-theopenco/llmgateway: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+theopenco/llmgateway: open-source проект в категориях AI/ML, Backend, Data, Observability. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ theopenco/llmgateway：theopenco/llmgateway helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 61/100 |
-| adoption | 62/100 |
-| stars | 65/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # vllm-project/tpu-inference
 
-[![Stars](https://img.shields.io/github/stars/vllm-project/tpu-inference?style=flat-square&color=yellow)](https://github.com/vllm-project/tpu-inference/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/tpu-inference?style=flat-square&color=blue)](https://github.com/vllm-project/tpu-inference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vllm-project/tpu-inference?style=flat-square&color=yellow)](https://github.com/vllm-project/tpu-inference/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/tpu-inference?style=flat-square&color=blue)](https://github.com/vllm-project/tpu-inference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > TPU inference for vLLM, with unified JAX and PyTorch support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 322 |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ vLLM‑TPU is an open‑source extension that enables high‑throughput inferenc
 
 ### 中文
 
-vllm-project/tpu-inference：vllm-project/tpu-inference helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vllm-project/tpu-inference：vllm-project/tpu-inference helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ vllm-project/tpu-inference：vllm-project/tpu-inference helps add AI capability 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -58,21 +58,21 @@ vllm-project/tpu-inference：vllm-project/tpu-inference helps add AI capability 
 - updated 2026-05-09
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 46/100 |
+| production | 44/100 |
+| outlook | 39/100 |
 | adoption | 54/100 |
 | stars | 53/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # Azure/data-api-builder
 
-[![Stars](https://img.shields.io/github/stars/Azure/data-api-builder?style=flat-square&color=yellow)](https://github.com/Azure/data-api-builder/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/data-api-builder?style=flat-square&color=blue)](https://github.com/Azure/data-api-builder/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/data-api-builder?style=flat-square&color=yellow)](https://github.com/Azure/data-api-builder/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/data-api-builder?style=flat-square&color=blue)](https://github.com/Azure/data-api-builder/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 333 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Azure/data-api-builder：Azure/data-api-builder helps ship user-facing interface
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 68/100 |
+| production | 54/100 |
+| outlook | 61/100 |
 | adoption | 66/100 |
 | stars | 67/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

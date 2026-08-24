@@ -1,6 +1,6 @@
 # posva/mande
 
-[![Stars](https://img.shields.io/github/stars/posva/mande?style=flat-square&color=yellow)](https://github.com/posva/mande/stargazers) [![Forks](https://img.shields.io/github/forks/posva/mande?style=flat-square&color=blue)](https://github.com/posva/mande/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/posva/mande?style=flat-square&color=yellow)](https://github.com/posva/mande/stargazers) [![Forks](https://img.shields.io/github/forks/posva/mande?style=flat-square&color=blue)](https://github.com/posva/mande/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 800 bytes modern wrapper around fetch with smart defaults
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -116,14 +116,15 @@ api.get({ id: 123 })          // GET /api/users?id=123
 | forks | 41/100 |
 | stars | 67/100 |
 | topics | 75/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

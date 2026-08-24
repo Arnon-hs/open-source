@@ -1,6 +1,6 @@
 # graphql-java/graphql-java
 
-[![Stars](https://img.shields.io/github/stars/graphql-java/graphql-java?style=flat-square&color=yellow)](https://github.com/graphql-java/graphql-java/stargazers) [![Forks](https://img.shields.io/github/forks/graphql-java/graphql-java?style=flat-square&color=blue)](https://github.com/graphql-java/graphql-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/graphql-java/graphql-java?style=flat-square&color=yellow)](https://github.com/graphql-java/graphql-java/stargazers) [![Forks](https://img.shields.io/github/forks/graphql-java/graphql-java?style=flat-square&color=blue)](https://github.com/graphql-java/graphql-java/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > GraphQL Java implementation
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ graphql-java 的生产可用性为中等（Medium）。它适合用于原型开�
 | forks | 76/100 |
 | stars | 81/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 80/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

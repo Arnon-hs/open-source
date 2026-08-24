@@ -1,6 +1,6 @@
 # HolmesGPT/holmesgpt
 
-[![Stars](https://img.shields.io/github/stars/HolmesGPT/holmesgpt?style=flat-square&color=yellow)](https://github.com/HolmesGPT/holmesgpt/stargazers) [![Forks](https://img.shields.io/github/forks/HolmesGPT/holmesgpt?style=flat-square&color=blue)](https://github.com/HolmesGPT/holmesgpt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HolmesGPT/holmesgpt?style=flat-square&color=yellow)](https://github.com/HolmesGPT/holmesgpt/stargazers) [![Forks](https://img.shields.io/github/forks/HolmesGPT/holmesgpt?style=flat-square&color=blue)](https://github.com/HolmesGPT/holmesgpt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > SRE Agent - CNCF Sandbox Project
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 332 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ HolmesGPT/holmesgpt: HolmesGPT/holmesgpt helps add AI capability without startin
 
 ### Русский
 
-HolmesGPT/holmesgpt: open-source проект в категориях AI/ML, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+HolmesGPT/holmesgpt: open-source проект в категориях AI/ML, Observability, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ HolmesGPT/holmesgpt：HolmesGPT/holmesgpt helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 71/100 |
-| adoption | 69/100 |
-| stars | 72/100 |
 | forks | 63/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # optave/ops-codegraph-tool
 
-[![Stars](https://img.shields.io/github/stars/optave/ops-codegraph-tool?style=flat-square&color=yellow)](https://github.com/optave/ops-codegraph-tool/stargazers) [![Forks](https://img.shields.io/github/forks/optave/ops-codegraph-tool?style=flat-square&color=blue)](https://github.com/optave/ops-codegraph-tool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/optave/ops-codegraph-tool?style=flat-square&color=yellow)](https://github.com/optave/ops-codegraph-tool/stargazers) [![Forks](https://img.shields.io/github/forks/optave/ops-codegraph-tool?style=flat-square&color=blue)](https://github.com/optave/ops-codegraph-tool/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Code intelligence CLI — function-level dependency graph across 11 languages, 30-tool MCP server for AI agents, complexity metrics, architecture boundary enforcement, CI quality gates, git diff impact with co-change analysis, hybrid semantic search. Fully local, zero API keys required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 48 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ optave/ops-codegraph-tool：optave/ops-codegraph-tool helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 94/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 53/100 |
+| outlook | 55/100 |
 | adoption | 33/100 |
 | stars | 36/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

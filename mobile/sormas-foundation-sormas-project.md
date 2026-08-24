@@ -1,6 +1,6 @@
 # SORMAS-Foundation/SORMAS-Project
 
-[![Stars](https://img.shields.io/github/stars/SORMAS-Foundation/SORMAS-Project?style=flat-square&color=yellow)](https://github.com/SORMAS-Foundation/SORMAS-Project/stargazers) [![Forks](https://img.shields.io/github/forks/SORMAS-Foundation/SORMAS-Project?style=flat-square&color=blue)](https://github.com/SORMAS-Foundation/SORMAS-Project/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SORMAS-Foundation/SORMAS-Project?style=flat-square&color=yellow)](https://github.com/SORMAS-Foundation/SORMAS-Project/stargazers) [![Forks](https://img.shields.io/github/forks/SORMAS-Foundation/SORMAS-Project?style=flat-square&color=blue)](https://github.com/SORMAS-Foundation/SORMAS-Project/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > SORMAS (Surveillance, Outbreak Response Management and Analysis System) is an early warning and management system to fight the spread of infectious diseases.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 321 |
 | 🍴 **Forks** | 163 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ SORMAS — это открытая система раннего предуп�
 
 ### 中文
 
-SORMAS-Foundation/SORMAS-Project：SORMAS-Foundation/SORMAS-Project may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SORMAS-Foundation/SORMAS-Project：SORMAS-Foundation/SORMAS-Project may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ SORMAS-Foundation/SORMAS-Project：SORMAS-Foundation/SORMAS-Project may be usefu
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ SORMAS-Foundation/SORMAS-Project：SORMAS-Foundation/SORMAS-Project may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 54/100 |
 | stars | 53/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

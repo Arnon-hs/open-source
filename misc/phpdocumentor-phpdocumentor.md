@@ -1,6 +1,6 @@
 # phpDocumentor/phpDocumentor
 
-[![Stars](https://img.shields.io/github/stars/phpDocumentor/phpDocumentor?style=flat-square&color=yellow)](https://github.com/phpDocumentor/phpDocumentor/stargazers) [![Forks](https://img.shields.io/github/forks/phpDocumentor/phpDocumentor?style=flat-square&color=blue)](https://github.com/phpDocumentor/phpDocumentor/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phpDocumentor/phpDocumentor?style=flat-square&color=yellow)](https://github.com/phpDocumentor/phpDocumentor/stargazers) [![Forks](https://img.shields.io/github/forks/phpDocumentor/phpDocumentor?style=flat-square&color=blue)](https://github.com/phpDocumentor/phpDocumentor/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Documentation Generator for PHP
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 644 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ phpDocumentor 是一款成熟的 PHP 文档生成工具，能够根据代码中�
 | forks | 70/100 |
 | stars | 77/100 |
 | topics | 75/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
 | adoption | 75/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # expectedparrot/edsl
 
-[![Stars](https://img.shields.io/github/stars/expectedparrot/edsl?style=flat-square&color=yellow)](https://github.com/expectedparrot/edsl/stargazers) [![Forks](https://img.shields.io/github/forks/expectedparrot/edsl?style=flat-square&color=blue)](https://github.com/expectedparrot/edsl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/expectedparrot/edsl?style=flat-square&color=yellow)](https://github.com/expectedparrot/edsl/stargazers) [![Forks](https://img.shields.io/github/forks/expectedparrot/edsl?style=flat-square&color=blue)](https://github.com/expectedparrot/edsl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 458 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · DevOps/Infra · Design
+AI/ML · Data · Design
 
 ## 📝 Summary
 
@@ -134,14 +134,15 @@ expectedparrot/edsl 是一个用于设计、执行和分析 AI 驱动问卷与�
 | forks | 47/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

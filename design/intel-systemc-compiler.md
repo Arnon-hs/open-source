@@ -1,6 +1,6 @@
 # intel/systemc-compiler
 
-[![Stars](https://img.shields.io/github/stars/intel/systemc-compiler?style=flat-square&color=yellow)](https://github.com/intel/systemc-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/intel/systemc-compiler?style=flat-square&color=blue)](https://github.com/intel/systemc-compiler/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/intel/systemc-compiler?style=flat-square&color=yellow)](https://github.com/intel/systemc-compiler/stargazers) [![Forks](https://img.shields.io/github/forks/intel/systemc-compiler?style=flat-square&color=blue)](https://github.com/intel/systemc-compiler/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > This tool translates synthesizable SystemC code to synthesizable SystemVerilog.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 302 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Intel/systemc-compiler — это открытый инструмент, ко�
 
 ### 中文
 
-intel/systemc-compiler：intel/systemc-compiler may be useful when its README and activity match a concrete workflow.。适合用于Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+intel/systemc-compiler：intel/systemc-compiler may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ intel/systemc-compiler：intel/systemc-compiler may be useful when its README an
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,14 +64,14 @@ intel/systemc-compiler：intel/systemc-compiler may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
+| production | 45/100 |
+| outlook | 47/100 |
 | adoption | 50/100 |
 | stars | 53/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

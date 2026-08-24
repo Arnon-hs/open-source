@@ -1,6 +1,6 @@
 # domdomegg/airtable-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/domdomegg/airtable-mcp-server?style=flat-square&color=yellow)](https://github.com/domdomegg/airtable-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/domdomegg/airtable-mcp-server?style=flat-square&color=blue)](https://github.com/domdomegg/airtable-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/domdomegg/airtable-mcp-server?style=flat-square&color=yellow)](https://github.com/domdomegg/airtable-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/domdomegg/airtable-mcp-server?style=flat-square&color=blue)](https://github.com/domdomegg/airtable-mcp-server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🗂️🤖 Airtable Model Context Protocol Server, for allowing AI systems to interact with your Airtable bases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 444 |
 | 🍴 **Forks** | 130 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **Airtable Model Context Protocol (MCP) Server** is an open‑source backend
 
 ### 中文
 
-domdomegg/airtable-mcp-server：domdomegg/airtable-mcp-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+domdomegg/airtable-mcp-server：domdomegg/airtable-mcp-server helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ domdomegg/airtable-mcp-server：domdomegg/airtable-mcp-server helps add AI capab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ domdomegg/airtable-mcp-server：domdomegg/airtable-mcp-server helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 49/100 |
+| outlook | 46/100 |
 | adoption | 55/100 |
 | stars | 56/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

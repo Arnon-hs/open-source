@@ -1,6 +1,6 @@
 # stac-utils/rustac
 
-[![Stars](https://img.shields.io/github/stars/stac-utils/rustac?style=flat-square&color=yellow)](https://github.com/stac-utils/rustac/stargazers) [![Forks](https://img.shields.io/github/forks/stac-utils/rustac?style=flat-square&color=blue)](https://github.com/stac-utils/rustac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stac-utils/rustac?style=flat-square&color=yellow)](https://github.com/stac-utils/rustac/stargazers) [![Forks](https://img.shields.io/github/forks/stac-utils/rustac?style=flat-square&color=blue)](https://github.com/stac-utils/rustac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The power of Rust for the STAC ecosystem
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 139 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ stac-utils/rustac brings the speed, safety, and concurrency of Rust to the STAC 
 
 ### 中文
 
-stac-utils/rustac：stac-utils/rustac helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stac-utils/rustac：stac-utils/rustac helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ stac-utils/rustac：stac-utils/rustac helps teams reuse service infrastructure i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ stac-utils/rustac：stac-utils/rustac helps teams reuse service infrastructure i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 43/100 |
-| stars | 46/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

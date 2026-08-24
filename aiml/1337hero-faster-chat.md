@@ -1,6 +1,6 @@
 # 1337hero/faster-chat
 
-[![Stars](https://img.shields.io/github/stars/1337hero/faster-chat?style=flat-square&color=yellow)](https://github.com/1337hero/faster-chat/stargazers) [![Forks](https://img.shields.io/github/forks/1337hero/faster-chat?style=flat-square&color=blue)](https://github.com/1337hero/faster-chat/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1337hero/faster-chat?style=flat-square&color=yellow)](https://github.com/1337hero/faster-chat/stargazers) [![Forks](https://img.shields.io/github/forks/1337hero/faster-chat?style=flat-square&color=blue)](https://github.com/1337hero/faster-chat/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A blazingly fast, privacy first & OPEN AI Chat Interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Overall, faster‑chat offers a fast, privacy‑conscious foundation for adding 
 | forks | 29/100 |
 | stars | 46/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

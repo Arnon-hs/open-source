@@ -1,6 +1,6 @@
 # probablykasper/cpc
 
-[![Stars](https://img.shields.io/github/stars/probablykasper/cpc?style=flat-square&color=yellow)](https://github.com/probablykasper/cpc/stargazers) [![Forks](https://img.shields.io/github/forks/probablykasper/cpc?style=flat-square&color=blue)](https://github.com/probablykasper/cpc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/probablykasper/cpc?style=flat-square&color=yellow)](https://github.com/probablykasper/cpc/stargazers) [![Forks](https://img.shields.io/github/forks/probablykasper/cpc?style=flat-square&color=blue)](https://github.com/probablykasper/cpc/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Text calculator with support for units and conversion
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 161 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ probablykasper/cpc 是一款基于 Rust 实现的文本计算器，能够解析�
 | forks | 29/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

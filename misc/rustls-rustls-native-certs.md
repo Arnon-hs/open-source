@@ -1,6 +1,6 @@
 # rustls/rustls-native-certs
 
-[![Stars](https://img.shields.io/github/stars/rustls/rustls-native-certs?style=flat-square&color=yellow)](https://github.com/rustls/rustls-native-certs/stargazers) [![Forks](https://img.shields.io/github/forks/rustls/rustls-native-certs?style=flat-square&color=blue)](https://github.com/rustls/rustls-native-certs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rustls/rustls-native-certs?style=flat-square&color=yellow)](https://github.com/rustls/rustls-native-certs/stargazers) [![Forks](https://img.shields.io/github/forks/rustls/rustls-native-certs?style=flat-square&color=blue)](https://github.com/rustls/rustls-native-certs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Integration with OS certificate stores for rustls
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 240 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -147,14 +147,15 @@ fn make_client_config() -> Result<ClientConfig, Box<dyn std::error::Error>> {
 | forks | 46/100 |
 | stars | 51/100 |
 | topics | 25/100 |
-| outlook | 71/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

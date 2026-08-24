@@ -1,6 +1,6 @@
 # ricccrd/dd
 
-[![Stars](https://img.shields.io/github/stars/ricccrd/dd?style=flat-square&color=yellow)](https://github.com/ricccrd/dd/stargazers) [![Forks](https://img.shields.io/github/forks/ricccrd/dd?style=flat-square&color=blue)](https://github.com/ricccrd/dd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ricccrd/dd?style=flat-square&color=yellow)](https://github.com/ricccrd/dd/stargazers) [![Forks](https://img.shields.io/github/forks/ricccrd/dd?style=flat-square&color=blue)](https://github.com/ricccrd/dd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 376 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Misc
 | forks | 0/100 |
 | stars | 55/100 |
 | topics | 0/100 |
-| outlook | 63/100 |
-| quality | 58/100 |
-| recency | 100/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 65/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 18/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

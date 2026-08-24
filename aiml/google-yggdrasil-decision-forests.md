@@ -1,6 +1,6 @@
 # google/yggdrasil-decision-forests
 
-[![Stars](https://img.shields.io/github/stars/google/yggdrasil-decision-forests?style=flat-square&color=yellow)](https://github.com/google/yggdrasil-decision-forests/stargazers) [![Forks](https://img.shields.io/github/forks/google/yggdrasil-decision-forests?style=flat-square&color=blue)](https://github.com/google/yggdrasil-decision-forests/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/yggdrasil-decision-forests?style=flat-square&color=yellow)](https://github.com/google/yggdrasil-decision-forests/stargazers) [![Forks](https://img.shields.io/github/forks/google/yggdrasil-decision-forests?style=flat-square&color=blue)](https://github.com/google/yggdrasil-decision-forests/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A library to train, evaluate, interpret, and productionize decision forest models such as Random Forest and Gradient Boosted Decision Trees.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 655 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ google/yggdrasil-decision-forests: google/yggdrasil-decision-forests helps add A
 
 ### Русский
 
-google/yggdrasil-decision-forests: open-source проект в категориях AI/ML, DevTools, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+google/yggdrasil-decision-forests: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ google/yggdrasil-decision-forests：google/yggdrasil-decision-forests helps add 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 60/100 |
-| adoption | 56/100 |
-| stars | 60/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # datopian/portaljs
 
-[![Stars](https://img.shields.io/github/stars/datopian/portaljs?style=flat-square&color=yellow)](https://github.com/datopian/portaljs/stargazers) [![Forks](https://img.shields.io/github/forks/datopian/portaljs?style=flat-square&color=blue)](https://github.com/datopian/portaljs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datopian/portaljs?style=flat-square&color=yellow)](https://github.com/datopian/portaljs/stargazers) [![Forks](https://img.shields.io/github/forks/datopian/portaljs?style=flat-square&color=blue)](https://github.com/datopian/portaljs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🌀 AI-native framework for building data portals. Scaffold a full portal from a brief and load datasets in minutes with agentic skills — any backend (CKAN, GitHub, Frictionless).
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 331 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend · Data · Database
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ datopian/portaljs 是一个 AI 原生的框架，能够在几分钟内通过简�
 | forks | 63/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 66/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

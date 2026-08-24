@@ -1,6 +1,6 @@
 # zeelsheladiya/Awesome-IDEs
 
-[![Stars](https://img.shields.io/github/stars/zeelsheladiya/Awesome-IDEs?style=flat-square&color=yellow)](https://github.com/zeelsheladiya/Awesome-IDEs/stargazers) [![Forks](https://img.shields.io/github/forks/zeelsheladiya/Awesome-IDEs?style=flat-square&color=blue)](https://github.com/zeelsheladiya/Awesome-IDEs/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeelsheladiya/Awesome-IDEs?style=flat-square&color=yellow)](https://github.com/zeelsheladiya/Awesome-IDEs/stargazers) [![Forks](https://img.shields.io/github/forks/zeelsheladiya/Awesome-IDEs?style=flat-square&color=blue)](https://github.com/zeelsheladiya/Awesome-IDEs/network) [![Language](https://img.shields.io/badge/lang-Markdown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of Integrated Development Environments (IDEs) and related tools that can enhance your coding experience and boost your productivity.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 206 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Markdown |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Awesome-IDEs 的接入路径不明显，建议在接入前验证设置成本。
 | forks | 35/100 |
 | stars | 49/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

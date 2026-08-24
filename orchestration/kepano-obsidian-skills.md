@@ -1,6 +1,6 @@
 # kepano/obsidian-skills
 
-[![Stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=flat-square&color=yellow)](https://github.com/kepano/obsidian-skills/stargazers) [![Forks](https://img.shields.io/github/forks/kepano/obsidian-skills?style=flat-square&color=blue)](https://github.com/kepano/obsidian-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=flat-square&color=yellow)](https://github.com/kepano/obsidian-skills/stargazers) [![Forks](https://img.shields.io/github/forks/kepano/obsidian-skills?style=flat-square&color=blue)](https://github.com/kepano/obsidian-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29.5k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ kepano/obsidian-skills: kepano/obsidian-skills helps turn isolated prompts and t
 
 ### Русский
 
-kepano/obsidian-skills: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kepano/obsidian-skills: open-source проект в категориях Orchestration, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,16 +64,16 @@ kepano/obsidian-skills：kepano/obsidian-skills helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 81/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 72/100 |
-| adoption | 92/100 |
-| stars | 95/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

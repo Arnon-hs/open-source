@@ -1,6 +1,6 @@
 # massCodeIO/massCode
 
-[![Stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=flat-square&color=yellow)](https://github.com/massCodeIO/massCode/stargazers) [![Forks](https://img.shields.io/github/forks/massCodeIO/massCode?style=flat-square&color=blue)](https://github.com/massCodeIO/massCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/massCodeIO/massCode?style=flat-square&color=yellow)](https://github.com/massCodeIO/massCode/stargazers) [![Forks](https://img.shields.io/github/forks/massCodeIO/massCode?style=flat-square&color=blue)](https://github.com/massCodeIO/massCode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.9k |
-| 🍴 **Forks** | 257 |
+| ⭐ **Stars** | 6.7k |
+| 🍴 **Forks** | 254 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · Frontend · Backend · DevTools · Product
+Knowledge/RAG · Frontend · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-massCodeIO/massCode: massCodeIO/massCode helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+massCode is a free, open‑source, local‑first developer workspace that brings together code snippets, personal notes, HTTP request testing, calculations, and a suite of handy dev tools in a single, unified interface. Designed for both frontend and backend workflows, it runs entirely on the user’s machine, ensuring privacy while streamlining daily development tasks. The project’s modular architecture makes it easy to extend and customize for any developer’s needs.
 
 ### Русский
 
-massCodeIO/massCode: open-source проект в категориях Knowledge/RAG, Frontend, Backend, DevTools, Product. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+MassCode — это бесплатное open‑source приложение‑рабочее пространство для разработчиков, объединяющее управление фрагментами кода, заметками, HTTP‑запросами, калькулятором и набором полезных dev‑инструментов в одном локальном клиенте. Приложение работает в режиме “local‑first”, не требуя постоянного подключения к облаку, и подходит как для фронтенд, так и для бэкенд‑разработки. Благодаря открытой архитектуре и кроссплатформенной реализации, MassCode легко расширяется и интегрируется в любой рабочий процесс.
 
 ### 中文
 
-massCodeIO/massCode：massCodeIO/massCode helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+massCodeIO/massCode：massCodeIO/massCode helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ massCodeIO/massCode：massCodeIO/massCode helps make internal knowledge searchab
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 6881 GitHub stars
-- 257 forks
-- updated 2026-07-05
+- 6719 GitHub stars
+- 254 forks
+- updated 2026-05-08
 - primary language: TypeScript
 - 17 topics
 
@@ -65,18 +65,18 @@ massCodeIO/massCode：massCodeIO/massCode helps make internal knowledge searchab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 89/100 |
-| integration | 78/100 |
-| production | 84/100 |
-| outlook | 92/100 |
-| adoption | 76/100 |
-| stars | 82/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/massCodeIO/massCode) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/massCodeIO/massCode) · [← Back to Knowledgerag](./README.md)</sub>

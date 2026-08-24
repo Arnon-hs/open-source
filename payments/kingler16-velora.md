@@ -1,6 +1,6 @@
 # Kingler16/Velora
 
-[![Stars](https://img.shields.io/github/stars/Kingler16/Velora?style=flat-square&color=yellow)](https://github.com/Kingler16/Velora/stargazers) [![Forks](https://img.shields.io/github/forks/Kingler16/Velora?style=flat-square&color=blue)](https://github.com/Kingler16/Velora/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kingler16/Velora?style=flat-square&color=yellow)](https://github.com/Kingler16/Velora/stargazers) [![Forks](https://img.shields.io/github/forks/Kingler16/Velora?style=flat-square&color=blue)](https://github.com/Kingler16/Velora/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI-powered personal wealth advisor. Automated portfolio monitoring, market analysis, and investment briefings delivered via Telegram. Runs on Claude Code with your existing Max/Pro subscription — no API costs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Kingler16/Velora — AI‑консультант по личным фина�
 
 ### 中文
 
-Kingler16/Velora：Kingler16/Velora helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Kingler16/Velora：Kingler16/Velora helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Kingler16/Velora：Kingler16/Velora helps integrate monetization, billing, or PS
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Kingler16/Velora：Kingler16/Velora helps integrate monetization, billing, or PS
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 30/100 |
-| stars | 32/100 |
 | forks | 25/100 |
-| recency | 40/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

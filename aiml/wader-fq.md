@@ -1,6 +1,6 @@
 # wader/fq
 
-[![Stars](https://img.shields.io/github/stars/wader/fq?style=flat-square&color=yellow)](https://github.com/wader/fq/stargazers) [![Forks](https://img.shields.io/github/forks/wader/fq?style=flat-square&color=blue)](https://github.com/wader/fq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wader/fq?style=flat-square&color=yellow)](https://github.com/wader/fq/stargazers) [![Forks](https://img.shields.io/github/forks/wader/fq?style=flat-square&color=blue)](https://github.com/wader/fq/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > jq for binary formats - tool, language and decoders for working with binary and text formats
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.5k |
 | 🍴 **Forks** | 246 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wader/fq：wader/fq helps add AI capability without starting from a blank model 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 68/100 |
+| production | 56/100 |
+| outlook | 61/100 |
 | adoption | 78/100 |
 | stars | 86/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

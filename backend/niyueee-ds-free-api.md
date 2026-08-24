@@ -1,0 +1,82 @@
+# NIyueeE/ds-free-api
+
+[![Stars](https://img.shields.io/github/stars/NIyueeE/ds-free-api?style=flat-square&color=yellow)](https://github.com/NIyueeE/ds-free-api/stargazers) [![Forks](https://img.shields.io/github/forks/NIyueeE/ds-free-api?style=flat-square&color=blue)](https://github.com/NIyueeE/ds-free-api/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> DeepSeek网页端API代理，支持OpenAI与Anthropic兼容接口 | OpenAI & Anthropic compatible API proxy for DeepSeek web
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 232 |
+| 🍴 **Forks** | 65 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`anthropic-api` `anthropic-compatible` `api-proxy` `claude` `deepseek` `deepseek-v4` `openai-api` `openai-compatible` `rust`
+
+## 🎯 Categories
+
+Backend
+
+## 📝 Summary
+
+### English
+
+NIyueeE/ds-free-api is an open‑source proxy that enables you to access DeepSeek’s web‑based language models through APIs compatible with both OpenAI and Anthropic endpoints. It provides a lightweight backend layer that translates standard OpenAI/Anthropic request formats into DeepSeek calls, making it easy to integrate DeepSeek models into existing tools and workflows.
+
+### Русский
+
+NIyueeE/ds‑free‑api — это открытый прокси‑сервер, позволяющий использовать веб‑интерфейс DeepSeek как совместимый с OpenAI и Anthropic API. Проект реализован на бекенде, обеспечивает простую интеграцию и быстрый доступ к мощным языковым моделям DeepSeek без необходимости официальных токенов. Он подходит для разработки AI/ML‑приложений, требующих стандартных OpenAI‑совместимых запросов.
+
+### 中文
+
+NIyueeE/ds-free-api：NIyueeE/ds-free-api helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** NIyueeE/ds-free-api helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+
+**Best use cases**
+
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 232 GitHub stars
+- 65 forks
+- updated 2026-05-08
+- primary language: Rust
+- 9 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 45/100 |
+| stars | 50/100 |
+| topics | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NIyueeE/ds-free-api) · [← Back to Backend](./README.md)</sub>

@@ -1,6 +1,6 @@
 # akaunting/akaunting
 
-[![Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=flat-square&color=yellow)](https://github.com/akaunting/akaunting/stargazers) [![Forks](https://img.shields.io/github/forks/akaunting/akaunting?style=flat-square&color=blue)](https://github.com/akaunting/akaunting/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=flat-square&color=yellow)](https://github.com/akaunting/akaunting/stargazers) [![Forks](https://img.shields.io/github/forks/akaunting/akaunting?style=flat-square&color=blue)](https://github.com/akaunting/akaunting/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Online Accounting Software
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 9.8k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ akaunting/akaunting 是一款基于 PHP 的开源在线会计系统，提供完�
 | forks | 87/100 |
 | stars | 85/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 73/100 |
+| recency | 20/100 |
 | adoption | 85/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

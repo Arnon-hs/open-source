@@ -1,6 +1,6 @@
 # earwig/git-repo-updater
 
-[![Stars](https://img.shields.io/github/stars/earwig/git-repo-updater?style=flat-square&color=yellow)](https://github.com/earwig/git-repo-updater/stargazers) [![Forks](https://img.shields.io/github/forks/earwig/git-repo-updater?style=flat-square&color=blue)](https://github.com/earwig/git-repo-updater/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/earwig/git-repo-updater?style=flat-square&color=yellow)](https://github.com/earwig/git-repo-updater/stargazers) [![Forks](https://img.shields.io/github/forks/earwig/git-repo-updater?style=flat-square&color=blue)](https://github.com/earwig/git-repo-updater/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A console script that allows you to easily update multiple git repositories at once
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 832 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ Overall, the tool is mature enough for a pilot in production environments, espec
 | forks | 49/100 |
 | stars | 62/100 |
 | topics | 75/100 |
-| outlook | 79/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
 | adoption | 59/100 |
-| production | 78/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

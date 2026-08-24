@@ -1,6 +1,6 @@
 # sseemayer/keepass-rs
 
-[![Stars](https://img.shields.io/github/stars/sseemayer/keepass-rs?style=flat-square&color=yellow)](https://github.com/sseemayer/keepass-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sseemayer/keepass-rs?style=flat-square&color=blue)](https://github.com/sseemayer/keepass-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sseemayer/keepass-rs?style=flat-square&color=yellow)](https://github.com/sseemayer/keepass-rs/stargazers) [![Forks](https://img.shields.io/github/forks/sseemayer/keepass-rs?style=flat-square&color=blue)](https://github.com/sseemayer/keepass-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Rust KeePass database file parser for KDB, KDBX3 and KDBX4, with experimental support for KDBX4 writing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 159 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ sseemayer/keepass‑rs — это библиотека на Rust для раб
 
 ### 中文
 
-sseemayer/keepass-rs：sseemayer/keepass-rs helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sseemayer/keepass-rs：sseemayer/keepass-rs helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ sseemayer/keepass-rs：sseemayer/keepass-rs helps convert raw data into searchab
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ sseemayer/keepass-rs：sseemayer/keepass-rs helps convert raw data into searchab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 46/100 |
 | stars | 47/100 |
 | forks | 44/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

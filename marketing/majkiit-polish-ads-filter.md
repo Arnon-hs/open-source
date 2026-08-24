@@ -1,6 +1,6 @@
 # MajkiIT/polish-ads-filter
 
-[![Stars](https://img.shields.io/github/stars/MajkiIT/polish-ads-filter?style=flat-square&color=yellow)](https://github.com/MajkiIT/polish-ads-filter/stargazers) [![Forks](https://img.shields.io/github/forks/MajkiIT/polish-ads-filter?style=flat-square&color=blue)](https://github.com/MajkiIT/polish-ads-filter/network) [![Language](https://img.shields.io/badge/lang-Adblock%20Filter%20List-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MajkiIT/polish-ads-filter?style=flat-square&color=yellow)](https://github.com/MajkiIT/polish-ads-filter/stargazers) [![Forks](https://img.shields.io/github/forks/MajkiIT/polish-ads-filter?style=flat-square&color=blue)](https://github.com/MajkiIT/polish-ads-filter/network) [![Language](https://img.shields.io/badge/lang-Adblock%20Filter%20List-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 726 |
 | 🍴 **Forks** | 97 |
 | 💻 **Language** | Adblock Filter List |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ MajkiIT/polish-ads-filter — это открытый набор официа�
 
 ### 中文
 
-MajkiIT/polish-ads-filter：MajkiIT/polish-ads-filter may be useful when its README and activity match a concrete workflow.。适合用于Marketing。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MajkiIT/polish-ads-filter：MajkiIT/polish-ads-filter may be useful when its README and activity match a concrete workflow.。适合用于Marketing。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ MajkiIT/polish-ads-filter：MajkiIT/polish-ads-filter may be useful when its REA
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ MajkiIT/polish-ads-filter：MajkiIT/polish-ads-filter may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 58/100 |
-| stars | 61/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # 1amageek/Toolbar
 
-[![Stars](https://img.shields.io/github/stars/1amageek/Toolbar?style=flat-square&color=yellow)](https://github.com/1amageek/Toolbar/stargazers) [![Forks](https://img.shields.io/github/forks/1amageek/Toolbar?style=flat-square&color=blue)](https://github.com/1amageek/Toolbar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/1amageek/Toolbar?style=flat-square&color=yellow)](https://github.com/1amageek/Toolbar/stargazers) [![Forks](https://img.shields.io/github/forks/1amageek/Toolbar?style=flat-square&color=blue)](https://github.com/1amageek/Toolbar/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome autolayout Toolbar. Toolbar is a library for iOS. You can easily create chat InputBar.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 456 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **1amageek/Toolbar** library provides a lightweight, auto‑layout‑based s
 
 ### 中文
 
-1amageek/Toolbar：1amageek/Toolbar may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+1amageek/Toolbar：1amageek/Toolbar may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ The **1amageek/Toolbar** library provides a lightweight, auto‑layout‑based s
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ The **1amageek/Toolbar** library provides a lightweight, auto‑layout‑based s
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 51/100 |
-| stars | 57/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

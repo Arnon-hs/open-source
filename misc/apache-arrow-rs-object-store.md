@@ -1,6 +1,6 @@
 # apache/arrow-rs-object-store
 
-[![Stars](https://img.shields.io/github/stars/apache/arrow-rs-object-store?style=flat-square&color=yellow)](https://github.com/apache/arrow-rs-object-store/stargazers) [![Forks](https://img.shields.io/github/forks/apache/arrow-rs-object-store?style=flat-square&color=blue)](https://github.com/apache/arrow-rs-object-store/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/arrow-rs-object-store?style=flat-square&color=yellow)](https://github.com/apache/arrow-rs-object-store/stargazers) [![Forks](https://img.shields.io/github/forks/apache/arrow-rs-object-store?style=flat-square&color=blue)](https://github.com/apache/arrow-rs-object-store/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Rust object_store crate
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 291 |
 | 🍴 **Forks** | 182 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ Apache Arrow-RS Object Store 可用于以下场景：
 | forks | 57/100 |
 | stars | 52/100 |
 | topics | 13/100 |
-| outlook | 68/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 69/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

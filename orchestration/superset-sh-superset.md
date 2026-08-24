@@ -1,6 +1,6 @@
 # superset-sh/superset
 
-[![Stars](https://img.shields.io/github/stars/superset-sh/superset?style=flat-square&color=yellow)](https://github.com/superset-sh/superset/stargazers) [![Forks](https://img.shields.io/github/forks/superset-sh/superset?style=flat-square&color=blue)](https://github.com/superset-sh/superset/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superset-sh/superset?style=flat-square&color=yellow)](https://github.com/superset-sh/superset/stargazers) [![Forks](https://img.shields.io/github/forks/superset-sh/superset?style=flat-square&color=blue)](https://github.com/superset-sh/superset/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.4k |
 | 🍴 **Forks** | 863 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ superset-sh/superset: superset-sh/superset helps turn isolated prompts and tools
 
 ### Русский
 
-superset-sh/superset: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+superset-sh/superset: open-source проект в категориях Orchestration, MCP, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ superset-sh/superset：superset-sh/superset helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 77/100 |
-| integration | 78/100 |
-| production | 65/100 |
-| outlook | 75/100 |
-| adoption | 82/100 |
-| stars | 86/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 86/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

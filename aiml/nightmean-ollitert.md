@@ -1,6 +1,6 @@
 # NightMean/OlliteRT
 
-[![Stars](https://img.shields.io/github/stars/NightMean/OlliteRT?style=flat-square&color=yellow)](https://github.com/NightMean/OlliteRT/stargazers) [![Forks](https://img.shields.io/github/forks/NightMean/OlliteRT?style=flat-square&color=blue)](https://github.com/NightMean/OlliteRT/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NightMean/OlliteRT?style=flat-square&color=yellow)](https://github.com/NightMean/OlliteRT/stargazers) [![Forks](https://img.shields.io/github/forks/NightMean/OlliteRT?style=flat-square&color=blue)](https://github.com/NightMean/OlliteRT/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your Android phone into an OpenAI-compatible LLM inference server — Fully local, private and Open Source
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 127 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ NightMean/OlliteRT 将 Android 手机转变为兼容 OpenAI 接口的本地大�
 | forks | 27/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

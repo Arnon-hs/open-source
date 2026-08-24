@@ -1,6 +1,6 @@
 # Colin-XKL/FeedCraft
 
-[![Stars](https://img.shields.io/github/stars/Colin-XKL/FeedCraft?style=flat-square&color=yellow)](https://github.com/Colin-XKL/FeedCraft/stargazers) [![Forks](https://img.shields.io/github/forks/Colin-XKL/FeedCraft?style=flat-square&color=blue)](https://github.com/Colin-XKL/FeedCraft/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Colin-XKL/FeedCraft?style=flat-square&color=yellow)](https://github.com/Colin-XKL/FeedCraft/stargazers) [![Forks](https://img.shields.io/github/forks/Colin-XKL/FeedCraft?style=flat-square&color=blue)](https://github.com/Colin-XKL/FeedCraft/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 289 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ Colin-XKL/FeedCraft：Colin-XKL/FeedCraft helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 57/100 |
-| adoption | 45/100 |
-| stars | 52/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

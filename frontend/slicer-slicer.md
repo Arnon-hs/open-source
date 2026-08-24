@@ -1,6 +1,6 @@
 # Slicer/Slicer
 
-[![Stars](https://img.shields.io/github/stars/Slicer/Slicer?style=flat-square&color=yellow)](https://github.com/Slicer/Slicer/stargazers) [![Forks](https://img.shields.io/github/forks/Slicer/Slicer?style=flat-square&color=blue)](https://github.com/Slicer/Slicer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Slicer/Slicer?style=flat-square&color=yellow)](https://github.com/Slicer/Slicer/stargazers) [![Forks](https://img.shields.io/github/forks/Slicer/Slicer?style=flat-square&color=blue)](https://github.com/Slicer/Slicer/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-platform, free open source software for visualization and image computing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 724 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Slicer/Slicer：Slicer/Slicer helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 72/100 |
 | stars | 72/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

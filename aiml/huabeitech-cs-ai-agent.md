@@ -1,6 +1,6 @@
 # huabeitech/cs-ai-agent
 
-[![Stars](https://img.shields.io/github/stars/huabeitech/cs-ai-agent?style=flat-square&color=yellow)](https://github.com/huabeitech/cs-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/huabeitech/cs-ai-agent?style=flat-square&color=blue)](https://github.com/huabeitech/cs-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/huabeitech/cs-ai-agent?style=flat-square&color=yellow)](https://github.com/huabeitech/cs-ai-agent/stargazers) [![Forks](https://img.shields.io/github/forks/huabeitech/cs-ai-agent?style=flat-square&color=blue)](https://github.com/huabeitech/cs-ai-agent/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 以 AI Agent 为核心的智能客服系统。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ Open‑source проект **huabeitech/cs-ai-agent** — это интелле�
 
 ### 中文
 
-huabeitech/cs-ai-agent：huabeitech/cs-ai-agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+huabeitech/cs-ai-agent：huabeitech/cs-ai-agent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ huabeitech/cs-ai-agent：huabeitech/cs-ai-agent helps add AI capability without 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ huabeitech/cs-ai-agent：huabeitech/cs-ai-agent helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
+| production | 46/100 |
+| outlook | 50/100 |
 | adoption | 33/100 |
 | stars | 36/100 |
 | forks | 26/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

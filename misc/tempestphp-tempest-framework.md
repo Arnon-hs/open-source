@@ -1,6 +1,6 @@
 # tempestphp/tempest-framework
 
-[![Stars](https://img.shields.io/github/stars/tempestphp/tempest-framework?style=flat-square&color=yellow)](https://github.com/tempestphp/tempest-framework/stargazers) [![Forks](https://img.shields.io/github/forks/tempestphp/tempest-framework?style=flat-square&color=blue)](https://github.com/tempestphp/tempest-framework/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tempestphp/tempest-framework?style=flat-square&color=yellow)](https://github.com/tempestphp/tempest-framework/stargazers) [![Forks](https://img.shields.io/github/forks/tempestphp/tempest-framework?style=flat-square&color=blue)](https://github.com/tempestphp/tempest-framework/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The PHP framework that gets out of your way
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 171 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -122,14 +122,15 @@ Tempest Framework（tempestphp/tempest-framework）是一款“让你专注业�
 | forks | 56/100 |
 | stars | 71/100 |
 | topics | 38/100 |
-| outlook | 77/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

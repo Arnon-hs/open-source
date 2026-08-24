@@ -1,6 +1,6 @@
 # rust-skia/rust-skia
 
-[![Stars](https://img.shields.io/github/stars/rust-skia/rust-skia?style=flat-square&color=yellow)](https://github.com/rust-skia/rust-skia/stargazers) [![Forks](https://img.shields.io/github/forks/rust-skia/rust-skia?style=flat-square&color=blue)](https://github.com/rust-skia/rust-skia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rust-skia/rust-skia?style=flat-square&color=yellow)](https://github.com/rust-skia/rust-skia/stargazers) [![Forks](https://img.shields.io/github/forks/rust-skia/rust-skia?style=flat-square&color=blue)](https://github.com/rust-skia/rust-skia/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Rust Bindings for the Skia Graphics Library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.8k |
 | 🍴 **Forks** | 184 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Rust‑bindings для библиотеки Skia — мощного 2D‑р�
 
 ### 中文
 
-rust-skia/rust-skia：rust-skia/rust-skia may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rust-skia/rust-skia：rust-skia/rust-skia may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ rust-skia/rust-skia：rust-skia/rust-skia may be useful when its README and acti
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ rust-skia/rust-skia：rust-skia/rust-skia may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 30/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 66/100 |
-| stars | 69/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

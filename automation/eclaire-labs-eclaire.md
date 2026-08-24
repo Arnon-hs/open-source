@@ -1,6 +1,6 @@
 # eclaire-labs/eclaire
 
-[![Stars](https://img.shields.io/github/stars/eclaire-labs/eclaire?style=flat-square&color=yellow)](https://github.com/eclaire-labs/eclaire/stargazers) [![Forks](https://img.shields.io/github/forks/eclaire-labs/eclaire?style=flat-square&color=blue)](https://github.com/eclaire-labs/eclaire/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eclaire-labs/eclaire?style=flat-square&color=yellow)](https://github.com/eclaire-labs/eclaire/stargazers) [![Forks](https://img.shields.io/github/forks/eclaire-labs/eclaire?style=flat-square&color=blue)](https://github.com/eclaire-labs/eclaire/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 860 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ eclaire 是一款 **本地优先、开源的 AI 助手**，通过统一任务、
 | forks | 49/100 |
 | stars | 62/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 20/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

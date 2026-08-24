@@ -1,6 +1,6 @@
 # hello-world-1989/cn-news
 
-[![Stars](https://img.shields.io/github/stars/hello-world-1989/cn-news?style=flat-square&color=yellow)](https://github.com/hello-world-1989/cn-news/stargazers) [![Forks](https://img.shields.io/github/forks/hello-world-1989/cn-news?style=flat-square&color=blue)](https://github.com/hello-world-1989/cn-news/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hello-world-1989/cn-news?style=flat-square&color=yellow)](https://github.com/hello-world-1989/cn-news/stargazers) [![Forks](https://img.shields.io/github/forks/hello-world-1989/cn-news?style=flat-square&color=blue)](https://github.com/hello-world-1989/cn-news/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > V2Ray Clash订阅链接, Outline, 大翻墙运动, 拆除防火墙,拆墙运动,李老师不是你老师 推文 每小时更新 , 完全免费vpn, 免费科学上网, 翻墙,科学上网,免费翻墙, 免费VPN,开源vpn, free vpn,好用VPN
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -39,7 +39,7 @@ The hello-world-1989/cn-news project is an open-source initiative that provides 
 
 ### 中文
 
-hello-world-1989/cn-news：hello-world-1989/cn-news may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hello-world-1989/cn-news：hello-world-1989/cn-news may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ hello-world-1989/cn-news：hello-world-1989/cn-news may be useful when its READM
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,16 +66,16 @@ hello-world-1989/cn-news：hello-world-1989/cn-news may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 55/100 |
-| adoption | 49/100 |
-| stars | 55/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

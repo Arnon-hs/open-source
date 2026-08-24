@@ -1,6 +1,6 @@
 # Vortiago/mcp-outline
 
-[![Stars](https://img.shields.io/github/stars/Vortiago/mcp-outline?style=flat-square&color=yellow)](https://github.com/Vortiago/mcp-outline/stargazers) [![Forks](https://img.shields.io/github/forks/Vortiago/mcp-outline?style=flat-square&color=blue)](https://github.com/Vortiago/mcp-outline/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Vortiago/mcp-outline?style=flat-square&color=yellow)](https://github.com/Vortiago/mcp-outline/stargazers) [![Forks](https://img.shields.io/github/forks/Vortiago/mcp-outline?style=flat-square&color=blue)](https://github.com/Vortiago/mcp-outline/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server enabling AI assistants to interact with Outline documentation services.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Vortiago/mcp-outline 是一个基于 Model Context Protocol（MCP）的服务器
 | forks | 42/100 |
 | stars | 47/100 |
 | topics | 63/100 |
-| outlook | 74/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 45/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

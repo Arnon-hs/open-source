@@ -1,6 +1,6 @@
 # PrismorSec/immunity-agent
 
-[![Stars](https://img.shields.io/github/stars/PrismorSec/immunity-agent?style=flat-square&color=yellow)](https://github.com/PrismorSec/immunity-agent/stargazers) [![Forks](https://img.shields.io/github/forks/PrismorSec/immunity-agent?style=flat-square&color=blue)](https://github.com/PrismorSec/immunity-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PrismorSec/immunity-agent?style=flat-square&color=yellow)](https://github.com/PrismorSec/immunity-agent/stargazers) [![Forks](https://img.shields.io/github/forks/PrismorSec/immunity-agent?style=flat-square&color=blue)](https://github.com/PrismorSec/immunity-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Security for AI agents : Block dangerous commands,  prevent secret leaks, and enforce runtime policies across Claude, OpenClaw, Hermes, Antigravity, Codex,  Cursor and Windsurf
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 113 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -114,14 +114,15 @@ PrismorSec /immunity‑agent 为各种大语言模型（Claude、OpenClaw、He
 | forks | 25/100 |
 | stars | 44/100 |
 | topics | 75/100 |
-| outlook | 74/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 39/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

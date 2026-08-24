@@ -1,6 +1,6 @@
 # dsd2077/CyberVerse
 
-[![Stars](https://img.shields.io/github/stars/dsd2077/CyberVerse?style=flat-square&color=yellow)](https://github.com/dsd2077/CyberVerse/stargazers) [![Forks](https://img.shields.io/github/forks/dsd2077/CyberVerse?style=flat-square&color=blue)](https://github.com/dsd2077/CyberVerse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dsd2077/CyberVerse?style=flat-square&color=yellow)](https://github.com/dsd2077/CyberVerse/stargazers) [![Forks](https://img.shields.io/github/forks/dsd2077/CyberVerse?style=flat-square&color=blue)](https://github.com/dsd2077/CyberVerse/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > CyberVerse is an open-source digital human agent platform with real-time video calling. Create an AI agent you can see and talk to, face to face, just like a video call.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 452 |
 | 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ CyberVerse — это открытая платформа для созда�
 
 ### 中文
 
-dsd2077/CyberVerse：dsd2077/CyberVerse helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dsd2077/CyberVerse：dsd2077/CyberVerse helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ dsd2077/CyberVerse：dsd2077/CyberVerse helps add AI capability without starting
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ dsd2077/CyberVerse：dsd2077/CyberVerse helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 53/100 |
-| stars | 57/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

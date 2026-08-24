@@ -1,6 +1,6 @@
 # pipecat-ai/pipecat-flows
 
-[![Stars](https://img.shields.io/github/stars/pipecat-ai/pipecat-flows?style=flat-square&color=yellow)](https://github.com/pipecat-ai/pipecat-flows/stargazers) [![Forks](https://img.shields.io/github/forks/pipecat-ai/pipecat-flows?style=flat-square&color=blue)](https://github.com/pipecat-ai/pipecat-flows/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pipecat-ai/pipecat-flows?style=flat-square&color=yellow)](https://github.com/pipecat-ai/pipecat-flows/stargazers) [![Forks](https://img.shields.io/github/forks/pipecat-ai/pipecat-flows?style=flat-square&color=blue)](https://github.com/pipecat-ai/pipecat-flows/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open source conversation framework for structured Pipecat dialogues
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 583 |
 | 🍴 **Forks** | 107 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-pipecat-ai/pipecat-flows: pipecat-ai/pipecat-flows helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pipecat-ai/pipecat-flows: pipecat-ai/pipecat-flows helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-pipecat-ai/pipecat-flows: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+pipecat-ai/pipecat-flows: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-pipecat-ai/pipecat-flows：pipecat-ai/pipecat-flows helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+pipecat-ai/pipecat-flows：pipecat-ai/pipecat-flows helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ pipecat-ai/pipecat-flows：pipecat-ai/pipecat-flows helps add AI capability with
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ pipecat-ai/pipecat-flows：pipecat-ai/pipecat-flows helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 57/100 |
-| stars | 59/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 38/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

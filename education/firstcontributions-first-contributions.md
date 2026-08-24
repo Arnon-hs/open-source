@@ -1,6 +1,6 @@
 # firstcontributions/first-contributions
 
-[![Stars](https://img.shields.io/github/stars/firstcontributions/first-contributions?style=flat-square&color=yellow)](https://github.com/firstcontributions/first-contributions/stargazers) [![Forks](https://img.shields.io/github/forks/firstcontributions/first-contributions?style=flat-square&color=blue)](https://github.com/firstcontributions/first-contributions/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/firstcontributions/first-contributions?style=flat-square&color=yellow)](https://github.com/firstcontributions/first-contributions/stargazers) [![Forks](https://img.shields.io/github/forks/firstcontributions/first-contributions?style=flat-square&color=blue)](https://github.com/firstcontributions/first-contributions/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀✨ Help beginners to contribute to open source projects
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 54.6k |
 | 🍴 **Forks** | 104.8k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ firstcontributions/first-contributions 是一个面向新手的开源指南，�
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

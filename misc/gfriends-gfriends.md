@@ -1,6 +1,6 @@
 # gfriends/gfriends
 
-[![Stars](https://img.shields.io/github/stars/gfriends/gfriends?style=flat-square&color=yellow)](https://github.com/gfriends/gfriends/stargazers) [![Forks](https://img.shields.io/github/forks/gfriends/gfriends?style=flat-square&color=blue)](https://github.com/gfriends/gfriends/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gfriends/gfriends?style=flat-square&color=yellow)](https://github.com/gfriends/gfriends/stargazers) [![Forks](https://img.shields.io/github/forks/gfriends/gfriends?style=flat-square&color=blue)](https://github.com/gfriends/gfriends/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 媒体服务器演员头像仓库
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 904 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ gfriends/gfriends 是一个专注于收集和管理媒体服务器（如 Plex、
 | forks | 74/100 |
 | stars | 73/100 |
 | topics | 88/100 |
-| outlook | 81/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 71/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 76/100 |
+| production | 57/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

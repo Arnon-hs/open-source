@@ -1,6 +1,6 @@
 # mealie-recipes/mealie
 
-[![Stars](https://img.shields.io/github/stars/mealie-recipes/mealie?style=flat-square&color=yellow)](https://github.com/mealie-recipes/mealie/stargazers) [![Forks](https://img.shields.io/github/forks/mealie-recipes/mealie?style=flat-square&color=blue)](https://github.com/mealie-recipes/mealie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mealie-recipes/mealie?style=flat-square&color=yellow)](https://github.com/mealie-recipes/mealie/stargazers) [![Forks](https://img.shields.io/github/forks/mealie-recipes/mealie?style=flat-square&color=blue)](https://github.com/mealie-recipes/mealie/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.2k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Data
+Frontend · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ mealie-recipes/mealie：mealie-recipes/mealie helps ship user-facing interfaces 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 84/100 |
-| stars | 87/100 |
 | forks | 77/100 |
-| recency | 40/100 |
+| stars | 87/100 |
 | topics | 38/100 |
+| outlook | 57/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # wso2/product-is
 
-[![Stars](https://img.shields.io/github/stars/wso2/product-is?style=flat-square&color=yellow)](https://github.com/wso2/product-is/stargazers) [![Forks](https://img.shields.io/github/forks/wso2/product-is?style=flat-square&color=blue)](https://github.com/wso2/product-is/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wso2/product-is?style=flat-square&color=yellow)](https://github.com/wso2/product-is/stargazers) [![Forks](https://img.shields.io/github/forks/wso2/product-is?style=flat-square&color=blue)](https://github.com/wso2/product-is/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 853 |
 | 🍴 **Forks** | 975 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ wso2/product-is：wso2/product-is helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 66/100 |
 | stars | 62/100 |
 | forks | 75/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

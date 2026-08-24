@@ -1,6 +1,6 @@
 # iorate/ublacklist
 
-[![Stars](https://img.shields.io/github/stars/iorate/ublacklist?style=flat-square&color=yellow)](https://github.com/iorate/ublacklist/stargazers) [![Forks](https://img.shields.io/github/forks/iorate/ublacklist?style=flat-square&color=blue)](https://github.com/iorate/ublacklist/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iorate/ublacklist?style=flat-square&color=yellow)](https://github.com/iorate/ublacklist/stargazers) [![Forks](https://img.shields.io/github/forks/iorate/ublacklist?style=flat-square&color=blue)](https://github.com/iorate/ublacklist/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Blocks specific sites from appearing in Google search results
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.6k |
 | 🍴 **Forks** | 351 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ iorate/ublacklist 的生产可用性很高，因为它有以下优势：
 | forks | 64/100 |
 | stars | 81/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 76/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

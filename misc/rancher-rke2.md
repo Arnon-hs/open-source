@@ -1,6 +1,6 @@
 # rancher/rke2
 
-[![Stars](https://img.shields.io/github/stars/rancher/rke2?style=flat-square&color=yellow)](https://github.com/rancher/rke2/stargazers) [![Forks](https://img.shields.io/github/forks/rancher/rke2?style=flat-square&color=blue)](https://github.com/rancher/rke2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rancher/rke2?style=flat-square&color=yellow)](https://github.com/rancher/rke2/stargazers) [![Forks](https://img.shields.io/github/forks/rancher/rke2?style=flat-square&color=blue)](https://github.com/rancher/rke2/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 344 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ RKE2（Rancher Kubernetes Engine 2）是 Rancher 官方推出的轻量级、符�
 | forks | 63/100 |
 | stars | 71/100 |
 | topics | 0/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 69/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 34/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

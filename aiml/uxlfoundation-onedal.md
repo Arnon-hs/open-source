@@ -1,6 +1,6 @@
 # uxlfoundation/oneDAL
 
-[![Stars](https://img.shields.io/github/stars/uxlfoundation/oneDAL?style=flat-square&color=yellow)](https://github.com/uxlfoundation/oneDAL/stargazers) [![Forks](https://img.shields.io/github/forks/uxlfoundation/oneDAL?style=flat-square&color=blue)](https://github.com/uxlfoundation/oneDAL/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/uxlfoundation/oneDAL?style=flat-square&color=yellow)](https://github.com/uxlfoundation/oneDAL/stargazers) [![Forks](https://img.shields.io/github/forks/uxlfoundation/oneDAL?style=flat-square&color=blue)](https://github.com/uxlfoundation/oneDAL/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > oneAPI Data Analytics Library (oneDAL)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 650 |
 | 🍴 **Forks** | 224 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data · Education
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -95,14 +95,15 @@ oneDAL 的生产可用性非常高，理由如下：
 | forks | 59/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 60/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

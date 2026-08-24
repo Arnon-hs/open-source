@@ -1,6 +1,6 @@
 # OHNLP/omop_mcp
 
-[![Stars](https://img.shields.io/github/stars/OHNLP/omop_mcp?style=flat-square&color=yellow)](https://github.com/OHNLP/omop_mcp/stargazers) [![Forks](https://img.shields.io/github/forks/OHNLP/omop_mcp?style=flat-square&color=blue)](https://github.com/OHNLP/omop_mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OHNLP/omop_mcp?style=flat-square&color=yellow)](https://github.com/OHNLP/omop_mcp/stargazers) [![Forks](https://img.shields.io/github/forks/OHNLP/omop_mcp?style=flat-square&color=blue)](https://github.com/OHNLP/omop_mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Model Context Protocol (MCP) server for mapping clinical terminology to Observational Medical Outcomes Partnership (OMOP) concepts using Large Language Models
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ OHNLP/omop_mcp 为大型语言模型（LLM）提供了一个统一的 Model Cont
 | forks | 21/100 |
 | stars | 33/100 |
 | topics | 63/100 |
-| outlook | 77/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

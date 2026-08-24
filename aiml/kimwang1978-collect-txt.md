@@ -1,6 +1,6 @@
 # kimwang1978/collect-txt
 
-[![Stars](https://img.shields.io/github/stars/kimwang1978/collect-txt?style=flat-square&color=yellow)](https://github.com/kimwang1978/collect-txt/stargazers) [![Forks](https://img.shields.io/github/forks/kimwang1978/collect-txt?style=flat-square&color=blue)](https://github.com/kimwang1978/collect-txt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kimwang1978/collect-txt?style=flat-square&color=yellow)](https://github.com/kimwang1978/collect-txt/stargazers) [![Forks](https://img.shields.io/github/forks/kimwang1978/collect-txt?style=flat-square&color=blue)](https://github.com/kimwang1978/collect-txt/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 源 (自动整理)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 426 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ kimwang1978/collect-txt：kimwang1978/collect-txt helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 69/100 |
 | stars | 70/100 |
 | forks | 66/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

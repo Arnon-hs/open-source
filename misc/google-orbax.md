@@ -1,6 +1,6 @@
 # google/orbax
 
-[![Stars](https://img.shields.io/github/stars/google/orbax?style=flat-square&color=yellow)](https://github.com/google/orbax/stargazers) [![Forks](https://img.shields.io/github/forks/google/orbax?style=flat-square&color=blue)](https://github.com/google/orbax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/orbax?style=flat-square&color=yellow)](https://github.com/google/orbax/stargazers) [![Forks](https://img.shields.io/github/forks/google/orbax?style=flat-square&color=blue)](https://github.com/google/orbax/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Orbax provides common checkpointing and persistence utilities for JAX users
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 506 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -127,14 +127,15 @@ Orbax（google/orbax）是 Google 开源的一个 Python 库，为 JAX 使用者
 | forks | 49/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

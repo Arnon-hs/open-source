@@ -1,6 +1,6 @@
 # gaotiexinqu/OneResearchClaw
 
-[![Stars](https://img.shields.io/github/stars/gaotiexinqu/OneResearchClaw?style=flat-square&color=yellow)](https://github.com/gaotiexinqu/OneResearchClaw/stargazers) [![Forks](https://img.shields.io/github/forks/gaotiexinqu/OneResearchClaw?style=flat-square&color=blue)](https://github.com/gaotiexinqu/OneResearchClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gaotiexinqu/OneResearchClaw?style=flat-square&color=yellow)](https://github.com/gaotiexinqu/OneResearchClaw/stargazers) [![Forks](https://img.shields.io/github/forks/gaotiexinqu/OneResearchClaw?style=flat-square&color=blue)](https://github.com/gaotiexinqu/OneResearchClaw/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Any research. One Claw. 🦞 From any materials to research with fully autonomous & skill-driven researcher.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 332 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ OneResearchClaw is an open‑source, AI‑driven orchestration platform that aut
 
 ### 中文
 
-gaotiexinqu/OneResearchClaw：gaotiexinqu/OneResearchClaw helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gaotiexinqu/OneResearchClaw：gaotiexinqu/OneResearchClaw helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ gaotiexinqu/OneResearchClaw：gaotiexinqu/OneResearchClaw helps turn isolated pr
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ gaotiexinqu/OneResearchClaw：gaotiexinqu/OneResearchClaw helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 61/100 |
-| adoption | 50/100 |
-| stars | 54/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

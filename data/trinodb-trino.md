@@ -1,6 +1,6 @@
 # trinodb/trino
 
-[![Stars](https://img.shields.io/github/stars/trinodb/trino?style=flat-square&color=yellow)](https://github.com/trinodb/trino/stargazers) [![Forks](https://img.shields.io/github/forks/trinodb/trino?style=flat-square&color=blue)](https://github.com/trinodb/trino/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trinodb/trino?style=flat-square&color=yellow)](https://github.com/trinodb/trino/stargazers) [![Forks](https://img.shields.io/github/forks/trinodb/trino?style=flat-square&color=blue)](https://github.com/trinodb/trino/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.8k |
 | 🍴 **Forks** | 3.6k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data
+Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ trinodb/trino: trinodb/trino helps convert raw data into searchable, analyzable,
 
 ### Русский
 
-trinodb/trino: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+trinodb/trino: open-source проект в категориях Data, Database. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ trinodb/trino：trinodb/trino helps convert raw data into searchable, analyzable
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 80/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 88/100 |
-| stars | 87/100 |
 | forks | 89/100 |
-| recency | 40/100 |
+| stars | 87/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

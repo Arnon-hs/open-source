@@ -1,6 +1,6 @@
 # hermit-os/uhyve
 
-[![Stars](https://img.shields.io/github/stars/hermit-os/uhyve?style=flat-square&color=yellow)](https://github.com/hermit-os/uhyve/stargazers) [![Forks](https://img.shields.io/github/forks/hermit-os/uhyve?style=flat-square&color=blue)](https://github.com/hermit-os/uhyve/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hermit-os/uhyve?style=flat-square&color=yellow)](https://github.com/hermit-os/uhyve/stargazers) [![Forks](https://img.shields.io/github/forks/hermit-os/uhyve?style=flat-square&color=blue)](https://github.com/hermit-os/uhyve/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A specialized hypervisor for Hermit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 293 |
 | 🍴 **Forks** | 33 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 54/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -120,14 +120,15 @@ hermit‑os/uhyve 为 Hermit 应用提供了轻量、近裸机的虚拟化层，
 | forks | 38/100 |
 | stars | 53/100 |
 | topics | 50/100 |
-| outlook | 71/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 70/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # elbruno/graphify-dotnet
 
-[![Stars](https://img.shields.io/github/stars/elbruno/graphify-dotnet?style=flat-square&color=yellow)](https://github.com/elbruno/graphify-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/elbruno/graphify-dotnet?style=flat-square&color=blue)](https://github.com/elbruno/graphify-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/elbruno/graphify-dotnet?style=flat-square&color=yellow)](https://github.com/elbruno/graphify-dotnet/stargazers) [![Forks](https://img.shields.io/github/forks/elbruno/graphify-dotnet?style=flat-square&color=blue)](https://github.com/elbruno/graphify-dotnet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A .NET 10 port of graphify - AI knowledge graph builder for codebases using GitHub Copilot SDK and Microsoft.Extensions.AI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ AI/ML · Frontend
 
 ### 中文
 
-elbruno/graphify-dotnet：elbruno/graphify-dotnet helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+elbruno/graphify-dotnet：elbruno/graphify-dotnet helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ elbruno/graphify-dotnet：elbruno/graphify-dotnet helps add AI capability withou
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -67,14 +67,14 @@ elbruno/graphify-dotnet：elbruno/graphify-dotnet helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 61/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 36/100 |
 | stars | 39/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # danielmiessler/Personal_AI_Infrastructure
 
-[![Stars](https://img.shields.io/github/stars/danielmiessler/Personal_AI_Infrastructure?style=flat-square&color=yellow)](https://github.com/danielmiessler/Personal_AI_Infrastructure/stargazers) [![Forks](https://img.shields.io/github/forks/danielmiessler/Personal_AI_Infrastructure?style=flat-square&color=blue)](https://github.com/danielmiessler/Personal_AI_Infrastructure/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danielmiessler/Personal_AI_Infrastructure?style=flat-square&color=yellow)](https://github.com/danielmiessler/Personal_AI_Infrastructure/stargazers) [![Forks](https://img.shields.io/github/forks/danielmiessler/Personal_AI_Infrastructure?style=flat-square&color=blue)](https://github.com/danielmiessler/Personal_AI_Infrastructure/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic AI Infrastructure for magnifying HUMAN capabilities.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 12.7k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -98,14 +98,15 @@ danielmiessler/Personal_AI_Infrastructure 是一套面向个人和小团队的 A
 | forks | 81/100 |
 | stars | 87/100 |
 | topics | 50/100 |
-| outlook | 83/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 86/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

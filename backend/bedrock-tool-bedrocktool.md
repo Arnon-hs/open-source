@@ -1,6 +1,6 @@
 # bedrock-tool/bedrocktool
 
-[![Stars](https://img.shields.io/github/stars/bedrock-tool/bedrocktool?style=flat-square&color=yellow)](https://github.com/bedrock-tool/bedrocktool/stargazers) [![Forks](https://img.shields.io/github/forks/bedrock-tool/bedrocktool?style=flat-square&color=blue)](https://github.com/bedrock-tool/bedrocktool/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bedrock-tool/bedrocktool?style=flat-square&color=yellow)](https://github.com/bedrock-tool/bedrocktool/stargazers) [![Forks](https://img.shields.io/github/forks/bedrock-tool/bedrocktool?style=flat-square&color=blue)](https://github.com/bedrock-tool/bedrocktool/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > a mostly working minecraft bedrock tool for downloading server worlds, skins and others
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 344 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -117,14 +117,15 @@ bedrock‑tool/bedrocktool 为 Minecraft Bedrock 服务器提供了一个成熟�
 | forks | 39/100 |
 | stars | 54/100 |
 | topics | 63/100 |
-| outlook | 75/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 73/100 |
+| production | 54/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

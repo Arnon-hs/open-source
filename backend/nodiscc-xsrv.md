@@ -1,6 +1,6 @@
 # nodiscc/xsrv
 
-[![Stars](https://img.shields.io/github/stars/nodiscc/xsrv?style=flat-square&color=yellow)](https://github.com/nodiscc/xsrv/stargazers) [![Forks](https://img.shields.io/github/forks/nodiscc/xsrv?style=flat-square&color=blue)](https://github.com/nodiscc/xsrv/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nodiscc/xsrv?style=flat-square&color=yellow)](https://github.com/nodiscc/xsrv/stargazers) [![Forks](https://img.shields.io/github/forks/nodiscc/xsrv?style=flat-square&color=blue)](https://github.com/nodiscc/xsrv/network) [![Language](https://img.shields.io/badge/lang-Jinja-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > [mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 400 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Jinja |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Nodiscc/xsrv is an open‑source Ansible collection and accompanying utilities t
 
 ### 中文
 
-nodiscc/xsrv：nodiscc/xsrv helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nodiscc/xsrv：nodiscc/xsrv helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ nodiscc/xsrv：nodiscc/xsrv helps teams reuse service infrastructure instead of 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ nodiscc/xsrv：nodiscc/xsrv helps teams reuse service infrastructure instead of 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 51/100 |
-| stars | 55/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

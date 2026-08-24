@@ -1,6 +1,6 @@
 # xpaysh/awesome-x402
 
-[![Stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=flat-square&color=yellow)](https://github.com/xpaysh/awesome-x402/stargazers) [![Forks](https://img.shields.io/github/forks/xpaysh/awesome-x402?style=flat-square&color=blue)](https://github.com/xpaysh/awesome-x402/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xpaysh/awesome-x402?style=flat-square&color=yellow)](https://github.com/xpaysh/awesome-x402/stargazers) [![Forks](https://img.shields.io/github/forks/xpaysh/awesome-x402?style=flat-square&color=blue)](https://github.com/xpaysh/awesome-x402/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypto micropayments, AI agents, API monetization. Includes SDKs (TypeScript, Python, Rust), examples, facilitators (Coinbase, Cloudflare), MCP integration, tutorials. Accept USDC payments with one line of code. Perfect for AI agent economy.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 196 |
 | 🍴 **Forks** | 274 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML
+Crypto · Payments · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ xpaysh/awesome-x402：xpaysh/awesome-x402 helps prototype or inspect blockchain 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 64/100 |
-| integration | 100/100 |
-| production | 64/100 |
-| outlook | 67/100 |
-| adoption | 52/100 |
-| stars | 49/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---

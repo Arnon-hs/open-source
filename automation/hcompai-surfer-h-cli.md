@@ -1,6 +1,6 @@
 # hcompai/surfer-h-cli
 
-[![Stars](https://img.shields.io/github/stars/hcompai/surfer-h-cli?style=flat-square&color=yellow)](https://github.com/hcompai/surfer-h-cli/stargazers) [![Forks](https://img.shields.io/github/forks/hcompai/surfer-h-cli?style=flat-square&color=blue)](https://github.com/hcompai/surfer-h-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hcompai/surfer-h-cli?style=flat-square&color=yellow)](https://github.com/hcompai/surfer-h-cli/stargazers) [![Forks](https://img.shields.io/github/forks/hcompai/surfer-h-cli?style=flat-square&color=blue)](https://github.com/hcompai/surfer-h-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Run Surfer-H agents powered by Holo1 using the Surfer-H-CLI. Includes example tasks, scripts, and configurations.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 17 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Education
+Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Overall, *surfer‑h‑cli* is a high‑readiness OSS candidate for teams lookin
 | forks | 31/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 84/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 43/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

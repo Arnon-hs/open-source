@@ -1,6 +1,6 @@
 # shakacode/react_on_rails
 
-[![Stars](https://img.shields.io/github/stars/shakacode/react_on_rails?style=flat-square&color=yellow)](https://github.com/shakacode/react_on_rails/stargazers) [![Forks](https://img.shields.io/github/forks/shakacode/react_on_rails?style=flat-square&color=blue)](https://github.com/shakacode/react_on_rails/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shakacode/react_on_rails?style=flat-square&color=yellow)](https://github.com/shakacode/react_on_rails/stargazers) [![Forks](https://img.shields.io/github/forks/shakacode/react_on_rails?style=flat-square&color=blue)](https://github.com/shakacode/react_on_rails/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Integration of React + Webpack + Rails including server-side rendering of React, enabling a better developer experience and faster client performance.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.2k |
 | 🍴 **Forks** | 634 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ shakacode/react_on_rails：shakacode/react_on_rails helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 74/100 |
+| usefulness | 100/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 71/100 |
+| production | 56/100 |
+| outlook | 66/100 |
 | adoption | 77/100 |
 | stars | 79/100 |
 | forks | 70/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

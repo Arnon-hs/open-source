@@ -1,6 +1,6 @@
 # IAAR-Shanghai/Awesome-AI-Memory
 
-[![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square&color=yellow)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/stargazers) [![Forks](https://img.shields.io/github/forks/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square&color=blue)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square&color=yellow)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/stargazers) [![Forks](https://img.shields.io/github/forks/IAAR-Shanghai/Awesome-AI-Memory?style=flat-square&color=blue)](https://github.com/IAAR-Shanghai/Awesome-AI-Memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design.  Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 838 |
 | 🍴 **Forks** | 76 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Design
+Orchestration · Knowledge/RAG · AI/ML · Design
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ IAAR-Shanghai/Awesome-AI-Memory：IAAR-Shanghai/Awesome-AI-Memory helps turn iso
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 58/100 |
-| stars | 62/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

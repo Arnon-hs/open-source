@@ -1,0 +1,82 @@
+# anthropics/claude-plugins-official
+
+[![Stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square&color=yellow)](https://github.com/anthropics/claude-plugins-official/stargazers) [![Forks](https://img.shields.io/github/forks/anthropics/claude-plugins-official?style=flat-square&color=blue)](https://github.com/anthropics/claude-plugins-official/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+
+> Official, Anthropic-managed directory of high quality Claude Code Plugins.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 18.8k |
+| 🍴 **Forks** | 2.3k |
+| 💻 **Language** | Python |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-05-07 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`claude-code` `mcp` `skills`
+
+## 🎯 Categories
+
+MCP
+
+## 📝 Summary
+
+### English
+
+anthropics/claude-plugins-official: anthropics/claude-plugins-official helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+anthropics/claude-plugins-official: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+anthropics/claude-plugins-official：anthropics/claude-plugins-official helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** anthropics/claude-plugins-official helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 18780 GitHub stars
+- 2293 forks
+- updated 2026-05-07
+- primary language: Python
+- 3 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 84/100 |
+| stars | 91/100 |
+| topics | 38/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/anthropics/claude-plugins-official) · [← Back to Mcp](./README.md)</sub>

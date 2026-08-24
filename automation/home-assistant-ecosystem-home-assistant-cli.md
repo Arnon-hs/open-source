@@ -1,6 +1,6 @@
 # home-assistant-ecosystem/home-assistant-cli
 
-[![Stars](https://img.shields.io/github/stars/home-assistant-ecosystem/home-assistant-cli?style=flat-square&color=yellow)](https://github.com/home-assistant-ecosystem/home-assistant-cli/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant-ecosystem/home-assistant-cli?style=flat-square&color=blue)](https://github.com/home-assistant-ecosystem/home-assistant-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/home-assistant-ecosystem/home-assistant-cli?style=flat-square&color=yellow)](https://github.com/home-assistant-ecosystem/home-assistant-cli/stargazers) [![Forks](https://img.shields.io/github/forks/home-assistant-ecosystem/home-assistant-cli?style=flat-square&color=blue)](https://github.com/home-assistant-ecosystem/home-assistant-cli/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > :computer: Command-line tool for Home Assistant
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 558 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -115,14 +115,15 @@ home‑assistant‑ecosystem/home‑assistant‑cli 是一款基于 Python 的�
 | forks | 48/100 |
 | stars | 58/100 |
 | topics | 63/100 |
-| outlook | 83/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 56/100 |
-| production | 77/100 |
+| production | 50/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

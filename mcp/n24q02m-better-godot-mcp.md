@@ -1,6 +1,6 @@
 # n24q02m/better-godot-mcp
 
-[![Stars](https://img.shields.io/github/stars/n24q02m/better-godot-mcp?style=flat-square&color=yellow)](https://github.com/n24q02m/better-godot-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/n24q02m/better-godot-mcp?style=flat-square&color=blue)](https://github.com/n24q02m/better-godot-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/n24q02m/better-godot-mcp?style=flat-square&color=yellow)](https://github.com/n24q02m/better-godot-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/n24q02m/better-godot-mcp?style=flat-square&color=blue)](https://github.com/n24q02m/better-godot-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Composite MCP server for Godot Engine -- 17 composite tools for AI-assisted game development.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -107,14 +107,15 @@ Overall, *better‑godot‑mcp* is production‑ready enough for a controlled pi
 | forks | 24/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 90/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

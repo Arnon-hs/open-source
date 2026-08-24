@@ -1,6 +1,6 @@
 # shanraisshan/claude-code-best-practice
 
-[![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&color=yellow)](https://github.com/shanraisshan/claude-code-best-practice/stargazers) [![Forks](https://img.shields.io/github/forks/shanraisshan/claude-code-best-practice?style=flat-square&color=blue)](https://github.com/shanraisshan/claude-code-best-practice/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&color=yellow)](https://github.com/shanraisshan/claude-code-best-practice/stargazers) [![Forks](https://img.shields.io/github/forks/shanraisshan/claude-code-best-practice?style=flat-square&color=blue)](https://github.com/shanraisshan/claude-code-best-practice/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > from vibe coding to agentic engineering - practice makes claude perfect
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51.6k |
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ shanraisshan/claude-code-best-practice: shanraisshan/claude-code-best-practice h
 
 ### Русский
 
-shanraisshan/claude-code-best-practice: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+shanraisshan/claude-code-best-practice: open-source проект в категориях Orchestration, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ shanraisshan/claude-code-best-practice：shanraisshan/claude-code-best-practice 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 84/100 |
-| integration | 30/100 |
-| production | 61/100 |
-| outlook | 73/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 93/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # sipyourdrink-ltd/bernstein
 
-[![Stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=flat-square&color=yellow)](https://github.com/sipyourdrink-ltd/bernstein/stargazers) [![Forks](https://img.shields.io/github/forks/sipyourdrink-ltd/bernstein?style=flat-square&color=blue)](https://github.com/sipyourdrink-ltd/bernstein/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=flat-square&color=yellow)](https://github.com/sipyourdrink-ltd/bernstein/stargazers) [![Forks](https://img.shields.io/github/forks/sipyourdrink-ltd/bernstein?style=flat-square&color=blue)](https://github.com/sipyourdrink-ltd/bernstein/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Deterministic orchestrator for 40+ CLI AI agents. Git worktree isolation, HMAC audit trail, MCP server mode. https://bernstein.run
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 287 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ sipyourdrink-ltd/bernstein: sipyourdrink-ltd/bernstein helps turn isolated promp
 
 ### Русский
 
-sipyourdrink-ltd/bernstein: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+sipyourdrink-ltd/bernstein: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ sipyourdrink-ltd/bernstein：sipyourdrink-ltd/bernstein helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 62/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 66/100 |
-| adoption | 48/100 |
-| stars | 52/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

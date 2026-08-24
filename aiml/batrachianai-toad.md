@@ -1,6 +1,6 @@
 # batrachianai/toad
 
-[![Stars](https://img.shields.io/github/stars/batrachianai/toad?style=flat-square&color=yellow)](https://github.com/batrachianai/toad/stargazers) [![Forks](https://img.shields.io/github/forks/batrachianai/toad?style=flat-square&color=blue)](https://github.com/batrachianai/toad/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/batrachianai/toad?style=flat-square&color=yellow)](https://github.com/batrachianai/toad/stargazers) [![Forks](https://img.shields.io/github/forks/batrachianai/toad?style=flat-square&color=blue)](https://github.com/batrachianai/toad/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A unified interface for AI in your terminal.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.1k |
 | 🍴 **Forks** | 146 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ Overall, batrachianai/toad is a high‑readiness, low‑friction option for team
 | forks | 54/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

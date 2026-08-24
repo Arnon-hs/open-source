@@ -1,6 +1,6 @@
 # prowler-cloud/prowler
 
-[![Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=flat-square&color=yellow)](https://github.com/prowler-cloud/prowler/stargazers) [![Forks](https://img.shields.io/github/forks/prowler-cloud/prowler?style=flat-square&color=blue)](https://github.com/prowler-cloud/prowler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=flat-square&color=yellow)](https://github.com/prowler-cloud/prowler/stargazers) [![Forks](https://img.shields.io/github/forks/prowler-cloud/prowler?style=flat-square&color=blue)](https://github.com/prowler-cloud/prowler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13.8k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ prowler-cloud/prowler：prowler-cloud/prowler helps catch security and privacy i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 67/100 |
-| adoption | 87/100 |
-| stars | 88/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

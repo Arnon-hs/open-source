@@ -1,6 +1,6 @@
 # metrics-rs/metrics
 
-[![Stars](https://img.shields.io/github/stars/metrics-rs/metrics?style=flat-square&color=yellow)](https://github.com/metrics-rs/metrics/stargazers) [![Forks](https://img.shields.io/github/forks/metrics-rs/metrics?style=flat-square&color=blue)](https://github.com/metrics-rs/metrics/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/metrics-rs/metrics?style=flat-square&color=yellow)](https://github.com/metrics-rs/metrics/stargazers) [![Forks](https://img.shields.io/github/forks/metrics-rs/metrics?style=flat-square&color=blue)](https://github.com/metrics-rs/metrics/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > A metrics ecosystem for Rust.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 211 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -132,14 +132,15 @@ Observability
 | forks | 58/100 |
 | stars | 67/100 |
 | topics | 38/100 |
-| outlook | 73/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 65/100 |
-| production | 72/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

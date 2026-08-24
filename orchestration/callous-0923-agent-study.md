@@ -1,6 +1,6 @@
 # Callous-0923/agent-study
 
-[![Stars](https://img.shields.io/github/stars/Callous-0923/agent-study?style=flat-square&color=yellow)](https://github.com/Callous-0923/agent-study/stargazers) [![Forks](https://img.shields.io/github/forks/Callous-0923/agent-study?style=flat-square&color=blue)](https://github.com/Callous-0923/agent-study/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Callous-0923/agent-study?style=flat-square&color=yellow)](https://github.com/Callous-0923/agent-study/stargazers) [![Forks](https://img.shields.io/github/forks/Callous-0923/agent-study?style=flat-square&color=blue)](https://github.com/Callous-0923/agent-study/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 28章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、RAG、DSPy、生产可观测性——全部为可运行Python文件，面试导向。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -122,14 +122,15 @@ Callous-0923/agent-study 为 AI Agent 的全链路提供了教学级、可直接
 | forks | 8/100 |
 | stars | 33/100 |
 | topics | 0/100 |
-| outlook | 69/100 |
-| quality | 52/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 32/100 |
+| recency | 20/100 |
 | adoption | 26/100 |
-| production | 68/100 |
+| production | 42/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

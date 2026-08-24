@@ -1,6 +1,6 @@
 # lichess-org/mobile
 
-[![Stars](https://img.shields.io/github/stars/lichess-org/mobile?style=flat-square&color=yellow)](https://github.com/lichess-org/mobile/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/mobile?style=flat-square&color=blue)](https://github.com/lichess-org/mobile/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lichess-org/mobile?style=flat-square&color=yellow)](https://github.com/lichess-org/mobile/stargazers) [![Forks](https://img.shields.io/github/forks/lichess-org/mobile?style=flat-square&color=blue)](https://github.com/lichess-org/mobile/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Lichess mobile app
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.3k |
 | 🍴 **Forks** | 407 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Lichess‑mobile — это официальное open‑source прилож�
 
 ### 中文
 
-lichess-org/mobile：lichess-org/mobile may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+lichess-org/mobile：lichess-org/mobile may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ lichess-org/mobile：lichess-org/mobile may be useful when its README and activi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ lichess-org/mobile：lichess-org/mobile may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 30/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 70/100 |
-| stars | 71/100 |
 | forks | 65/100 |
-| recency | 40/100 |
+| stars | 71/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

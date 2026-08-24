@@ -1,6 +1,6 @@
 # p4ymak/egui_code_editor
 
-[![Stars](https://img.shields.io/github/stars/p4ymak/egui_code_editor?style=flat-square&color=yellow)](https://github.com/p4ymak/egui_code_editor/stargazers) [![Forks](https://img.shields.io/github/forks/p4ymak/egui_code_editor?style=flat-square&color=blue)](https://github.com/p4ymak/egui_code_editor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/p4ymak/egui_code_editor?style=flat-square&color=yellow)](https://github.com/p4ymak/egui_code_editor/stargazers) [![Forks](https://img.shields.io/github/forks/p4ymak/egui_code_editor?style=flat-square&color=blue)](https://github.com/p4ymak/egui_code_editor/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > egui Code Editor widget with numbered lines and syntax highlighting..
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -65,14 +65,14 @@ p4ymak/egui_code_editor：p4ymak/egui_code_editor helps ship user-facing interfa
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 30/100 |
-| production | 47/100 |
-| outlook | 43/100 |
+| production | 40/100 |
+| outlook | 36/100 |
 | adoption | 43/100 |
 | stars | 45/100 |
 | forks | 40/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

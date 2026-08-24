@@ -1,6 +1,6 @@
 # shang-zhu/violin
 
-[![Stars](https://img.shields.io/github/stars/shang-zhu/violin?style=flat-square&color=yellow)](https://github.com/shang-zhu/violin/stargazers) [![Forks](https://img.shields.io/github/forks/shang-zhu/violin?style=flat-square&color=blue)](https://github.com/shang-zhu/violin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shang-zhu/violin?style=flat-square&color=yellow)](https://github.com/shang-zhu/violin/stargazers) [![Forks](https://img.shields.io/github/forks/shang-zhu/violin?style=flat-square&color=blue)](https://github.com/shang-zhu/violin/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Discovered from Hacker News (github-mentions)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 37/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | hackernews |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Violin 是一个开源的视频翻译工具，同时提供一套可复用的「a
 | forks | 0/100 |
 | stars | 0/100 |
 | topics | 25/100 |
-| outlook | 60/100 |
-| quality | 41/100 |
-| recency | 100/100 |
+| outlook | 32/100 |
+| quality | 21/100 |
+| recency | 20/100 |
 | adoption | 0/100 |
-| production | 58/100 |
+| production | 32/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 80/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

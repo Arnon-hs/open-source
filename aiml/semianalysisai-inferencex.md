@@ -1,6 +1,6 @@
 # SemiAnalysisAI/InferenceX
 
-[![Stars](https://img.shields.io/github/stars/SemiAnalysisAI/InferenceX?style=flat-square&color=yellow)](https://github.com/SemiAnalysisAI/InferenceX/stargazers) [![Forks](https://img.shields.io/github/forks/SemiAnalysisAI/InferenceX?style=flat-square&color=blue)](https://github.com/SemiAnalysisAI/InferenceX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SemiAnalysisAI/InferenceX?style=flat-square&color=yellow)](https://github.com/SemiAnalysisAI/InferenceX/stargazers) [![Forks](https://img.shields.io/github/forks/SemiAnalysisAI/InferenceX?style=flat-square&color=blue)](https://github.com/SemiAnalysisAI/InferenceX/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 941 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ SemiAnalysisAI/InferenceX：SemiAnalysisAI/InferenceX helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 61/100 |
-| stars | 63/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

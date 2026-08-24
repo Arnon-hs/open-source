@@ -1,6 +1,6 @@
 # zhitongblog/solomd
 
-[![Stars](https://img.shields.io/github/stars/zhitongblog/solomd?style=flat-square&color=yellow)](https://github.com/zhitongblog/solomd/stargazers) [![Forks](https://img.shields.io/github/forks/zhitongblog/solomd?style=flat-square&color=blue)](https://github.com/zhitongblog/solomd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhitongblog/solomd?style=flat-square&color=yellow)](https://github.com/zhitongblog/solomd/stargazers) [![Forks](https://img.shields.io/github/forks/zhitongblog/solomd?style=flat-square&color=blue)](https://github.com/zhitongblog/solomd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > A markdown editor — and the bridge to your LLM. Local-first, MIT, ~15 MB. Bundled MCP server lets Claude Code / Codex / Cursor drive your vault directly. 14 AI providers BYOK.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 411 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ zhitongblog/solomd 是一款本地优先的 Markdown 编辑器（约 15 MB，M
 | forks | 35/100 |
 | stars | 56/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

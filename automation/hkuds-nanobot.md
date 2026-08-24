@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45k |
-| 🍴 **Forks** | 7.9k |
+| ⭐ **Stars** | 45.3k |
+| 🍴 **Forks** | 8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 🗓️ **Last push** | 2026-07-13 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ HKUDS/nanobot：HKUDS/nanobot helps remove repetitive manual operations from a w
 
 **Quality signals**
 
-- 45000 GitHub stars
-- 7939 forks
-- updated 2026-07-04
+- 45345 GitHub stars
+- 8001 forks
+- updated 2026-07-13
 - primary language: Python
 - 13 topics
 
@@ -72,11 +72,11 @@ HKUDS/nanobot：HKUDS/nanobot helps remove repetitive manual operations from a w
 | outlook | 100/100 |
 | adoption | 99/100 |
 | stars | 99/100 |
-| forks | 97/100 |
+| forks | 98/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/HKUDS/nanobot) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/HKUDS/nanobot) · [← Back to Automation](./README.md)</sub>

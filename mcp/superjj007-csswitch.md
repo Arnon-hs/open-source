@@ -1,6 +1,6 @@
 # SuperJJ007/CSswitch
 
-[![Stars](https://img.shields.io/github/stars/SuperJJ007/CSswitch?style=flat-square&color=yellow)](https://github.com/SuperJJ007/CSswitch/stargazers) [![Forks](https://img.shields.io/github/forks/SuperJJ007/CSswitch?style=flat-square&color=blue)](https://github.com/SuperJJ007/CSswitch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SuperJJ007/CSswitch?style=flat-square&color=yellow)](https://github.com/SuperJJ007/CSswitch/stargazers) [![Forks](https://img.shields.io/github/forks/SuperJJ007/CSswitch?style=flat-square&color=blue)](https://github.com/SuperJJ007/CSswitch/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > 让 Claude Science 的推理走自选的第三方 API（DeepSeek / 通义千问 / 任意 OpenAI 兼容端点），保留工具调用·Skill·MCP·代码执行，含本地虚拟登录跳过。macOS 菜单栏 app。仅供个人学习研究，使用者自负风险。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 39 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -89,14 +89,15 @@ SuperJJ007/CSswitch 通过把 Claude Science 的推理请求转发至任意 Open
 | forks | 15/100 |
 | stars | 34/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # VectifyAI/PageIndex
 
-[![Stars](https://img.shields.io/github/stars/VectifyAI/PageIndex?style=flat-square&color=yellow)](https://github.com/VectifyAI/PageIndex/stargazers) [![Forks](https://img.shields.io/github/forks/VectifyAI/PageIndex?style=flat-square&color=blue)](https://github.com/VectifyAI/PageIndex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VectifyAI/PageIndex?style=flat-square&color=yellow)](https://github.com/VectifyAI/PageIndex/stargazers) [![Forks](https://img.shields.io/github/forks/VectifyAI/PageIndex?style=flat-square&color=blue)](https://github.com/VectifyAI/PageIndex/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29.2k |
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ VectifyAI/PageIndex：VectifyAI/PageIndex helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 92/100 |
 | stars | 95/100 |
 | forks | 85/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

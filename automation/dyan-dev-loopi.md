@@ -1,6 +1,6 @@
 # Dyan-Dev/loopi
 
-[![Stars](https://img.shields.io/github/stars/Dyan-Dev/loopi?style=flat-square&color=yellow)](https://github.com/Dyan-Dev/loopi/stargazers) [![Forks](https://img.shields.io/github/forks/Dyan-Dev/loopi?style=flat-square&color=blue)](https://github.com/Dyan-Dev/loopi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dyan-Dev/loopi?style=flat-square&color=yellow)](https://github.com/Dyan-Dev/loopi/stargazers) [![Forks](https://img.shields.io/github/forks/Dyan-Dev/loopi?style=flat-square&color=blue)](https://github.com/Dyan-Dev/loopi/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop automation platform — control browsers, system cursor/keyboard, run shell commands, and orchestrate workflows with AI agents and 80+ integrations. Runs locally.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 165 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools · Database
+Automation · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Dyan‑Dev/loopi 是一款本地运行的桌面自动化平台，能够通过 AI
 | forks | 34/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 20/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 53/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # valeriansaliou/bloom
 
-[![Stars](https://img.shields.io/github/stars/valeriansaliou/bloom?style=flat-square&color=yellow)](https://github.com/valeriansaliou/bloom/stargazers) [![Forks](https://img.shields.io/github/forks/valeriansaliou/bloom?style=flat-square&color=blue)](https://github.com/valeriansaliou/bloom/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/valeriansaliou/bloom?style=flat-square&color=yellow)](https://github.com/valeriansaliou/bloom/stargazers) [![Forks](https://img.shields.io/github/forks/valeriansaliou/bloom?style=flat-square&color=blue)](https://github.com/valeriansaliou/bloom/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > :cherry_blossom: HTTP REST API caching middleware, to be used between load balancers and REST API workers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 725 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ valeriansaliou/bloom：valeriansaliou/bloom helps teams reuse service infrastruc
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 56/100 |
 | stars | 61/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

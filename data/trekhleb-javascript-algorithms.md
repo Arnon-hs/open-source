@@ -1,6 +1,6 @@
 # trekhleb/javascript-algorithms
 
-[![Stars](https://img.shields.io/github/stars/trekhleb/javascript-algorithms?style=flat-square&color=yellow)](https://github.com/trekhleb/javascript-algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/trekhleb/javascript-algorithms?style=flat-square&color=blue)](https://github.com/trekhleb/javascript-algorithms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trekhleb/javascript-algorithms?style=flat-square&color=yellow)](https://github.com/trekhleb/javascript-algorithms/stargazers) [![Forks](https://img.shields.io/github/forks/trekhleb/javascript-algorithms?style=flat-square&color=blue)](https://github.com/trekhleb/javascript-algorithms/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 196.1k |
 | 🍴 **Forks** | 31.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ import { BinarySearchTree } from 'javascript-algorithms/src/data-structures/tree
 | forks | 100/100 |
 | stars | 100/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 100/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 85/100 |
+| recency | 40/100 |
 | adoption | 100/100 |
-| production | 84/100 |
+| production | 64/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

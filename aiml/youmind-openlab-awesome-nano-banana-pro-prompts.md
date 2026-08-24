@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
-[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=flat-square&color=yellow)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/YouMind-OpenLab/awesome-nano-banana-pro-prompts?style=flat-square&color=blue)](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ YouMind-OpenLab/awesome-nano-banana-pro-prompts：YouMind-OpenLab/awesome-nano-b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 78/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 63/100 |
-| adoption | 84/100 |
-| stars | 87/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| stars | 87/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

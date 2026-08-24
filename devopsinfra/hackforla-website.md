@@ -1,6 +1,6 @@
 # hackforla/website
 
-[![Stars](https://img.shields.io/github/stars/hackforla/website?style=flat-square&color=yellow)](https://github.com/hackforla/website/stargazers) [![Forks](https://img.shields.io/github/forks/hackforla/website?style=flat-square&color=blue)](https://github.com/hackforla/website/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hackforla/website?style=flat-square&color=yellow)](https://github.com/hackforla/website/stargazers) [![Forks](https://img.shields.io/github/forks/hackforla/website?style=flat-square&color=blue)](https://github.com/hackforla/website/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Hack for LA's website
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 364 |
 | 🍴 **Forks** | 863 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ hackforla/website：hackforla/website helps make deployment and operations more 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 55/100 |
-| adoption | 60/100 |
-| stars | 55/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 55/100 |
 | topics | 75/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

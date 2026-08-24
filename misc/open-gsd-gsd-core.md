@@ -1,6 +1,6 @@
 # open-gsd/gsd-core
 
-[![Stars](https://img.shields.io/github/stars/open-gsd/gsd-core?style=flat-square&color=yellow)](https://github.com/open-gsd/gsd-core/stargazers) [![Forks](https://img.shields.io/github/forks/open-gsd/gsd-core?style=flat-square&color=blue)](https://github.com/open-gsd/gsd-core/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-gsd/gsd-core?style=flat-square&color=yellow)](https://github.com/open-gsd/gsd-core/stargazers) [![Forks](https://img.shields.io/github/forks/open-gsd/gsd-core?style=flat-square&color=blue)](https://github.com/open-gsd/gsd-core/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Git. Ship. Done - Core
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.1k |
 | 🍴 **Forks** | 313 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ open‑gsd/gsd‑core 是一个基于 JavaScript 的 “Git → Ship →�
 | forks | 62/100 |
 | stars | 79/100 |
 | topics | 50/100 |
-| outlook | 77/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 74/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

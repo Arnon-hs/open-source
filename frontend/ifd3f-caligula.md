@@ -1,6 +1,6 @@
 # ifd3f/caligula
 
-[![Stars](https://img.shields.io/github/stars/ifd3f/caligula?style=flat-square&color=yellow)](https://github.com/ifd3f/caligula/stargazers) [![Forks](https://img.shields.io/github/forks/ifd3f/caligula?style=flat-square&color=blue)](https://github.com/ifd3f/caligula/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ifd3f/caligula?style=flat-square&color=yellow)](https://github.com/ifd3f/caligula/stargazers) [![Forks](https://img.shields.io/github/forks/ifd3f/caligula?style=flat-square&color=blue)](https://github.com/ifd3f/caligula/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A user-friendly, lightweight TUI for disk imaging
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ifd3f/caligula — это лёгкое и удобное TUI‑приложе�
 
 ### 中文
 
-ifd3f/caligula：ifd3f/caligula helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ifd3f/caligula：ifd3f/caligula helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ifd3f/caligula：ifd3f/caligula helps ship user-facing interfaces with less cust
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ifd3f/caligula：ifd3f/caligula helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 51/100 |
+| production | 45/100 |
+| outlook | 44/100 |
 | adoption | 61/100 |
 | stars | 70/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 38/100 |
 | sourceTrust | 100/100 |
 

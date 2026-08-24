@@ -1,6 +1,6 @@
 # ethibox/ethibox
 
-[![Stars](https://img.shields.io/github/stars/ethibox/ethibox?style=flat-square&color=yellow)](https://github.com/ethibox/ethibox/stargazers) [![Forks](https://img.shields.io/github/forks/ethibox/ethibox?style=flat-square&color=blue)](https://github.com/ethibox/ethibox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ethibox/ethibox?style=flat-square&color=yellow)](https://github.com/ethibox/ethibox/stargazers) [![Forks](https://img.shields.io/github/forks/ethibox/ethibox?style=flat-square&color=blue)](https://github.com/ethibox/ethibox/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source web app hoster
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 258 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Automation · AI/ML · Frontend · DevOps/Infra
+Payments · Automation · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ ethibox（GitHub ethibox/ethibox）是一款开源的 Web 应用托管平台�
 | forks | 40/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

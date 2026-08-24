@@ -1,6 +1,6 @@
 # teunlao/swift-ai-sdk
 
-[![Stars](https://img.shields.io/github/stars/teunlao/swift-ai-sdk?style=flat-square&color=yellow)](https://github.com/teunlao/swift-ai-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/teunlao/swift-ai-sdk?style=flat-square&color=blue)](https://github.com/teunlao/swift-ai-sdk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/teunlao/swift-ai-sdk?style=flat-square&color=yellow)](https://github.com/teunlao/swift-ai-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/teunlao/swift-ai-sdk?style=flat-square&color=blue)](https://github.com/teunlao/swift-ai-sdk/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Unified AI SDK for Swift, bringing the power of Vercel AI SDK to Apple platforms
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 137 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Database
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ teunlao/swift‑ai‑sdk 是面向 Apple 平台的统一 AI SDK，将 Vercel AI 
 | forks | 27/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

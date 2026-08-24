@@ -1,6 +1,6 @@
 # yilewang/llm-for-zotero
 
-[![Stars](https://img.shields.io/github/stars/yilewang/llm-for-zotero?style=flat-square&color=yellow)](https://github.com/yilewang/llm-for-zotero/stargazers) [![Forks](https://img.shields.io/github/forks/yilewang/llm-for-zotero?style=flat-square&color=blue)](https://github.com/yilewang/llm-for-zotero/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yilewang/llm-for-zotero?style=flat-square&color=yellow)](https://github.com/yilewang/llm-for-zotero/stargazers) [![Forks](https://img.shields.io/github/forks/yilewang/llm-for-zotero?style=flat-square&color=blue)](https://github.com/yilewang/llm-for-zotero/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > A research agent system deeply rooted in your own Zotero library.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 66 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ yilewang/llm-for-zotero：yilewang/llm-for-zotero helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 69/100 |
+| production | 55/100 |
+| outlook | 62/100 |
 | adoption | 60/100 |
 | stars | 65/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

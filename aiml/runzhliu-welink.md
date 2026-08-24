@@ -1,6 +1,6 @@
 # runzhliu/welink
 
-[![Stars](https://img.shields.io/github/stars/runzhliu/welink?style=flat-square&color=yellow)](https://github.com/runzhliu/welink/stargazers) [![Forks](https://img.shields.io/github/forks/runzhliu/welink?style=flat-square&color=blue)](https://github.com/runzhliu/welink/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runzhliu/welink?style=flat-square&color=yellow)](https://github.com/runzhliu/welink/stargazers) [![Forks](https://img.shields.io/github/forks/runzhliu/welink?style=flat-square&color=blue)](https://github.com/runzhliu/welink/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 🔍微信聊天数据分析的本地化AI-agent(Docker/Windows/MacOS) · AI分身 / 大模型分析 / 好友排行 / 词云 / 情感趋势 / 群聊画像
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ runzhliu/welink：runzhliu/welink helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 43/100 |
 | stars | 45/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

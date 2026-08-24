@@ -1,6 +1,6 @@
 # rocky-linux/documentation
 
-[![Stars](https://img.shields.io/github/stars/rocky-linux/documentation?style=flat-square&color=yellow)](https://github.com/rocky-linux/documentation/stargazers) [![Forks](https://img.shields.io/github/forks/rocky-linux/documentation?style=flat-square&color=blue)](https://github.com/rocky-linux/documentation/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rocky-linux/documentation?style=flat-square&color=yellow)](https://github.com/rocky-linux/documentation/stargazers) [![Forks](https://img.shields.io/github/forks/rocky-linux/documentation?style=flat-square&color=blue)](https://github.com/rocky-linux/documentation/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Official Rocky Linux documentation repository.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 464 |
 | 🍴 **Forks** | 389 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ rocky-linux/documentation：rocky-linux/documentation may be useful when its REA
 | forks | 65/100 |
 | stars | 57/100 |
 | topics | 50/100 |
-| outlook | 73/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

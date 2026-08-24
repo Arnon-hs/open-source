@@ -1,6 +1,6 @@
 # jkaninda/goma-gateway
 
-[![Stars](https://img.shields.io/github/stars/jkaninda/goma-gateway?style=flat-square&color=yellow)](https://github.com/jkaninda/goma-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/jkaninda/goma-gateway?style=flat-square&color=blue)](https://github.com/jkaninda/goma-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jkaninda/goma-gateway?style=flat-square&color=yellow)](https://github.com/jkaninda/goma-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/jkaninda/goma-gateway?style=flat-square&color=blue)](https://github.com/jkaninda/goma-gateway/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Goma Gateway – Lightweight, High-Performance API Gateway and Reverse Proxy with declarative config, robust middleware, and support for REST, GraphQL, TCP, UDP, and gRPC.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 180 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database · DevOps/Infra
+Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Goma Gateway（jkaninda/goma-gateway）是一款基于 Go 的轻量级高性能 
 | forks | 32/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

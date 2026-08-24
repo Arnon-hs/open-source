@@ -1,6 +1,6 @@
 # aarora4/Awesome-Prediction-Market-Tools
 
-[![Stars](https://img.shields.io/github/stars/aarora4/Awesome-Prediction-Market-Tools?style=flat-square&color=yellow)](https://github.com/aarora4/Awesome-Prediction-Market-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/aarora4/Awesome-Prediction-Market-Tools?style=flat-square&color=blue)](https://github.com/aarora4/Awesome-Prediction-Market-Tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aarora4/Awesome-Prediction-Market-Tools?style=flat-square&color=yellow)](https://github.com/aarora4/Awesome-Prediction-Market-Tools/stargazers) [![Forks](https://img.shields.io/github/forks/aarora4/Awesome-Prediction-Market-Tools?style=flat-square&color=blue)](https://github.com/aarora4/Awesome-Prediction-Market-Tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > A curated list of Prediction Market Tools - AI Agents, Analytics, APIs, Dashboards, Copy Trading, Alerting, Tracking and More!!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 380 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-10 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · Backend · Data
+Trading · AI/ML
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ aarora4/Awesome-Prediction-Market-Tools 是一个精选的预测市场工具集�
 | forks | 51/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 87/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 100/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

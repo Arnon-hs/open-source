@@ -1,0 +1,78 @@
+# aquasecurity/vuln-list
+
+[![Stars](https://img.shields.io/github/stars/aquasecurity/vuln-list?style=flat-square&color=yellow)](https://github.com/aquasecurity/vuln-list/stargazers) [![Forks](https://img.shields.io/github/forks/aquasecurity/vuln-list?style=flat-square&color=blue)](https://github.com/aquasecurity/vuln-list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+
+> NVD, Ubuntu, Alpine
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 456 |
+| 🍴 **Forks** | 40 |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+The **aquasecurity/vuln-list** repository aggregates vulnerability data from multiple authoritative sources—including the National Vulnerability Database (NVD), Ubuntu Security Notices, and Alpine Linux security advisories—into a single, regularly updated list. It provides a lightweight, machine‑readable feed that security tools and developers can consume to quickly identify and prioritize known CVEs across these major platforms.
+
+### Русский
+
+`aquasecurity/vuln-list` — это открытая база данных уязвимостей, агрегирующая сведения из NVD, репозиториев Ubuntu и Alpine. Проект предоставляет машинно‑читаемые списки CVE, упрощая интеграцию актуальной информации о безопасности в CI/CD‑конвейеры и инструменты сканирования. Он ориентирован на разработчиков и специалистов по информационной безопасности, которым нужен быстрый и надёжный доступ к публичным источникам уязвимостей.
+
+### 中文
+
+aquasecurity/vuln-list：aquasecurity/vuln-list may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** aquasecurity/vuln-list may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 456 GitHub stars
+- 40 forks
+- updated 2026-05-10
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 40/100 |
+| stars | 57/100 |
+| topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/aquasecurity/vuln-list) · [← Back to Misc](./README.md)</sub>

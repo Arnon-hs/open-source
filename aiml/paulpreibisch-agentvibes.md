@@ -1,6 +1,6 @@
 # paulpreibisch/AgentVibes
 
-[![Stars](https://img.shields.io/github/stars/paulpreibisch/AgentVibes?style=flat-square&color=yellow)](https://github.com/paulpreibisch/AgentVibes/stargazers) [![Forks](https://img.shields.io/github/forks/paulpreibisch/AgentVibes?style=flat-square&color=blue)](https://github.com/paulpreibisch/AgentVibes/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paulpreibisch/AgentVibes?style=flat-square&color=yellow)](https://github.com/paulpreibisch/AgentVibes/stargazers) [![Forks](https://img.shields.io/github/forks/paulpreibisch/AgentVibes?style=flat-square&color=blue)](https://github.com/paulpreibisch/AgentVibes/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > 🎭 TTS for Claude Code
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AgentVibes is an open‑source toolkit that adds text‑to‑speech (TTS) capabi
 
 ### 中文
 
-paulpreibisch/AgentVibes：paulpreibisch/AgentVibes helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+paulpreibisch/AgentVibes：paulpreibisch/AgentVibes helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ paulpreibisch/AgentVibes：paulpreibisch/AgentVibes helps add AI capability with
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ paulpreibisch/AgentVibes：paulpreibisch/AgentVibes helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 42/100 |
-| stars | 46/100 |
 | forks | 32/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 75/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

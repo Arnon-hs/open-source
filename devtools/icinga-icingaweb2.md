@@ -1,6 +1,6 @@
 # Icinga/icingaweb2
 
-[![Stars](https://img.shields.io/github/stars/Icinga/icingaweb2?style=flat-square&color=yellow)](https://github.com/Icinga/icingaweb2/stargazers) [![Forks](https://img.shields.io/github/forks/Icinga/icingaweb2?style=flat-square&color=blue)](https://github.com/Icinga/icingaweb2/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Icinga/icingaweb2?style=flat-square&color=yellow)](https://github.com/Icinga/icingaweb2/stargazers) [![Forks](https://img.shields.io/github/forks/Icinga/icingaweb2?style=flat-square&color=blue)](https://github.com/Icinga/icingaweb2/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight and extensible web interface to keep an eye on your environment. Analyse problems and act on them.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 839 |
 | 🍴 **Forks** | 282 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ Icinga/icingaweb2 是一款轻量、可扩展的 Web UI，用于实时监控业�
 | forks | 61/100 |
 | stars | 62/100 |
 | topics | 38/100 |
-| outlook | 79/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 54/100 |
+| recency | 20/100 |
 | adoption | 62/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

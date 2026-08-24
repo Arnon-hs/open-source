@@ -1,6 +1,6 @@
 # CircleCI-Public/mcp-server-circleci
 
-[![Stars](https://img.shields.io/github/stars/CircleCI-Public/mcp-server-circleci?style=flat-square&color=yellow)](https://github.com/CircleCI-Public/mcp-server-circleci/stargazers) [![Forks](https://img.shields.io/github/forks/CircleCI-Public/mcp-server-circleci?style=flat-square&color=blue)](https://github.com/CircleCI-Public/mcp-server-circleci/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CircleCI-Public/mcp-server-circleci?style=flat-square&color=yellow)](https://github.com/CircleCI-Public/mcp-server-circleci/stargazers) [![Forks](https://img.shields.io/github/forks/CircleCI-Public/mcp-server-circleci?style=flat-square&color=blue)](https://github.com/CircleCI-Public/mcp-server-circleci/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A specialized server implementation for the Model Context Protocol (MCP) designed to integrate with CircleCI's development workflow. This project serves as a bridge between CircleCI's infrastructure and the Model Context Protocol, enabling enhanced AI-powered development experiences.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 86 |
 | 🍴 **Forks** | 61 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevOps/Infra
+MCP · Automation · Backend
 
 ## 📝 Summary
 
@@ -117,14 +117,15 @@ CircleCI‑Public/mcp‑server‑circleci 为 Model Context Protocol（MCP）提
 | forks | 45/100 |
 | stars | 41/100 |
 | topics | 25/100 |
-| outlook | 73/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

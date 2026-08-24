@@ -1,6 +1,6 @@
 # stride3d/stride
 
-[![Stars](https://img.shields.io/github/stars/stride3d/stride?style=flat-square&color=yellow)](https://github.com/stride3d/stride/stargazers) [![Forks](https://img.shields.io/github/forks/stride3d/stride?style=flat-square&color=blue)](https://github.com/stride3d/stride/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stride3d/stride?style=flat-square&color=yellow)](https://github.com/stride3d/stride/stargazers) [![Forks](https://img.shields.io/github/forks/stride3d/stride?style=flat-square&color=blue)](https://github.com/stride3d/stride/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | C# |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ stride3d/stride：stride3d/stride may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 63/100 |
-| adoption | 81/100 |
-| stars | 83/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

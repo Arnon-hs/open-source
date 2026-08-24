@@ -1,6 +1,6 @@
 # meshtastic/Meshtastic-Apple
 
-[![Stars](https://img.shields.io/github/stars/meshtastic/Meshtastic-Apple?style=flat-square&color=yellow)](https://github.com/meshtastic/Meshtastic-Apple/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/Meshtastic-Apple?style=flat-square&color=blue)](https://github.com/meshtastic/Meshtastic-Apple/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meshtastic/Meshtastic-Apple?style=flat-square&color=yellow)](https://github.com/meshtastic/Meshtastic-Apple/stargazers) [![Forks](https://img.shields.io/github/forks/meshtastic/Meshtastic-Apple?style=flat-square&color=blue)](https://github.com/meshtastic/Meshtastic-Apple/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Apple iOS, iPadOS & macOS Clients For Meshtastic
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 776 |
 | 🍴 **Forks** | 238 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Meshtastic‑Apple — это открытый клиент для экосис�
 
 ### 中文
 
-meshtastic/Meshtastic-Apple：meshtastic/Meshtastic-Apple helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+meshtastic/Meshtastic-Apple：meshtastic/Meshtastic-Apple helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ meshtastic/Meshtastic-Apple：meshtastic/Meshtastic-Apple helps engineers save t
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ meshtastic/Meshtastic-Apple：meshtastic/Meshtastic-Apple helps engineers save t
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 51/100 |
+| production | 46/100 |
+| outlook | 44/100 |
 | adoption | 61/100 |
 | stars | 62/100 |
 | forks | 59/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

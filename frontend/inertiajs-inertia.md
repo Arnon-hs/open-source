@@ -1,6 +1,6 @@
 # inertiajs/inertia
 
-[![Stars](https://img.shields.io/github/stars/inertiajs/inertia?style=flat-square&color=yellow)](https://github.com/inertiajs/inertia/stargazers) [![Forks](https://img.shields.io/github/forks/inertiajs/inertia?style=flat-square&color=blue)](https://github.com/inertiajs/inertia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inertiajs/inertia?style=flat-square&color=yellow)](https://github.com/inertiajs/inertia/stargazers) [![Forks](https://img.shields.io/github/forks/inertiajs/inertia?style=flat-square&color=blue)](https://github.com/inertiajs/inertia/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 547 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ Inertia.js 通过在传统的服务器端路由和控制器之上，快速构建
 | forks | 68/100 |
 | stars | 83/100 |
 | topics | 0/100 |
-| outlook | 73/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 45/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 79/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

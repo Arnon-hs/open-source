@@ -1,6 +1,6 @@
 # Azure/awesome-azd
 
-[![Stars](https://img.shields.io/github/stars/Azure/awesome-azd?style=flat-square&color=yellow)](https://github.com/Azure/awesome-azd/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/awesome-azd?style=flat-square&color=blue)](https://github.com/Azure/awesome-azd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Azure/awesome-azd?style=flat-square&color=yellow)](https://github.com/Azure/awesome-azd/stargazers) [![Forks](https://img.shields.io/github/forks/Azure/awesome-azd?style=flat-square&color=blue)](https://github.com/Azure/awesome-azd/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > An awesome list that curates content (articles, videos, tutorials and docs) and templates (ready to use) for the Azure Developer CLI (`azd`). Plus a hosted azd-templates Gallery to simplify search & discovery
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 160 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ Azure/awesome-azd：Azure/awesome-azd helps engineers save time in daily develop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
+| usefulness | 90/100 |
+| quality | 59/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 58/100 |
 | adoption | 52/100 |
 | stars | 51/100 |
 | forks | 55/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

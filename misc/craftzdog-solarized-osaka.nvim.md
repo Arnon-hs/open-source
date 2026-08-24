@@ -1,6 +1,6 @@
 # craftzdog/solarized-osaka.nvim
 
-[![Stars](https://img.shields.io/github/stars/craftzdog/solarized-osaka.nvim?style=flat-square&color=yellow)](https://github.com/craftzdog/solarized-osaka.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/craftzdog/solarized-osaka.nvim?style=flat-square&color=blue)](https://github.com/craftzdog/solarized-osaka.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/craftzdog/solarized-osaka.nvim?style=flat-square&color=yellow)](https://github.com/craftzdog/solarized-osaka.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/craftzdog/solarized-osaka.nvim?style=flat-square&color=blue)](https://github.com/craftzdog/solarized-osaka.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > 🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 967 |
 | 🍴 **Forks** | 64 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Craftzdog/solarized-osaka.nvim is a clean, dark Neovim colorscheme written entir
 
 ### 中文
 
-craftzdog/solarized-osaka.nvim：craftzdog/solarized-osaka.nvim may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+craftzdog/solarized-osaka.nvim：craftzdog/solarized-osaka.nvim may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ craftzdog/solarized-osaka.nvim：craftzdog/solarized-osaka.nvim may be useful wh
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ craftzdog/solarized-osaka.nvim：craftzdog/solarized-osaka.nvim may be useful wh
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 58/100 |
-| stars | 64/100 |
 | forks | 45/100 |
-| recency | 40/100 |
+| stars | 64/100 |
 | topics | 63/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

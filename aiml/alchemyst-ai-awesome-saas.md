@@ -1,6 +1,6 @@
 # Alchemyst-ai/awesome-saas
 
-[![Stars](https://img.shields.io/github/stars/Alchemyst-ai/awesome-saas?style=flat-square&color=yellow)](https://github.com/Alchemyst-ai/awesome-saas/stargazers) [![Forks](https://img.shields.io/github/forks/Alchemyst-ai/awesome-saas?style=flat-square&color=blue)](https://github.com/Alchemyst-ai/awesome-saas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Alchemyst-ai/awesome-saas?style=flat-square&color=yellow)](https://github.com/Alchemyst-ai/awesome-saas/stargazers) [![Forks](https://img.shields.io/github/forks/Alchemyst-ai/awesome-saas?style=flat-square&color=blue)](https://github.com/Alchemyst-ai/awesome-saas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Collection of templates using the Alchemyst AI Platform for your next big AI app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 415 |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ Alchemyst-ai/awesome-saas：Alchemyst-ai/awesome-saas helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
+| usefulness | 74/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 53/100 |
 | stars | 56/100 |
 | forks | 47/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

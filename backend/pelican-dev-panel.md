@@ -1,6 +1,6 @@
 # pelican-dev/panel
 
-[![Stars](https://img.shields.io/github/stars/pelican-dev/panel?style=flat-square&color=yellow)](https://github.com/pelican-dev/panel/stargazers) [![Forks](https://img.shields.io/github/forks/pelican-dev/panel?style=flat-square&color=blue)](https://github.com/pelican-dev/panel/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pelican-dev/panel?style=flat-square&color=yellow)](https://github.com/pelican-dev/panel/stargazers) [![Forks](https://img.shields.io/github/forks/pelican-dev/panel?style=flat-square&color=blue)](https://github.com/pelican-dev/panel/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 280 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ pelican-dev/panel：pelican-dev/panel helps teams reuse service infrastructure i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 34/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 68/100 |
-| stars | 70/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 34/100 |
 | sourceTrust | 100/100 |
 
 ---

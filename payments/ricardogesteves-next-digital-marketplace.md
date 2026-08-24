@@ -1,6 +1,6 @@
 # RicardoGEsteves/next-digital-marketplace
 
-[![Stars](https://img.shields.io/github/stars/RicardoGEsteves/next-digital-marketplace?style=flat-square&color=yellow)](https://github.com/RicardoGEsteves/next-digital-marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/RicardoGEsteves/next-digital-marketplace?style=flat-square&color=blue)](https://github.com/RicardoGEsteves/next-digital-marketplace/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RicardoGEsteves/next-digital-marketplace?style=flat-square&color=yellow)](https://github.com/RicardoGEsteves/next-digital-marketplace/stargazers) [![Forks](https://img.shields.io/github/forks/RicardoGEsteves/next-digital-marketplace?style=flat-square&color=blue)](https://github.com/RicardoGEsteves/next-digital-marketplace/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Digital marketplace it's a next.js full stack application (e-commerce platform). Digital Marketplace is a sophisticated full-stack e-commerce platform designed to deliver a seamless shopping experience for users. It incorporates cutting-edge technologies and frameworks to ensure robustness, efficiency, and scalability.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend · Database · Design
+Payments · Frontend · Database
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ RicardoGEsteves/next-digital-marketplace 是基于 Next.js 的全栈电商平台
 | forks | 35/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 40/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

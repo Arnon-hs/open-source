@@ -1,6 +1,6 @@
 # bd4sur/Nano
 
-[![Stars](https://img.shields.io/github/stars/bd4sur/Nano?style=flat-square&color=yellow)](https://github.com/bd4sur/Nano/stargazers) [![Forks](https://img.shields.io/github/forks/bd4sur/Nano?style=flat-square&color=blue)](https://github.com/bd4sur/Nano/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bd4sur/Nano?style=flat-square&color=yellow)](https://github.com/bd4sur/Nano/stargazers) [![Forks](https://img.shields.io/github/forks/bd4sur/Nano?style=flat-square&color=blue)](https://github.com/bd4sur/Nano/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 电子鹦鹉 / Toy Language Model
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 284 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Nano is an open‑source “toy” language model project (电子鹦鹉) that de
 
 ### 中文
 
-bd4sur/Nano：bd4sur/Nano helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bd4sur/Nano：bd4sur/Nano helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ bd4sur/Nano：bd4sur/Nano helps add AI capability without starting from a blank 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ bd4sur/Nano：bd4sur/Nano helps add AI capability without starting from a blank 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 46/100 |
-| stars | 52/100 |
 | forks | 29/100 |
-| recency | 40/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

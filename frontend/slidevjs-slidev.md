@@ -1,6 +1,6 @@
 # slidevjs/slidev
 
-[![Stars](https://img.shields.io/github/stars/slidevjs/slidev?style=flat-square&color=yellow)](https://github.com/slidevjs/slidev/stargazers) [![Forks](https://img.shields.io/github/forks/slidevjs/slidev?style=flat-square&color=blue)](https://github.com/slidevjs/slidev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/slidevjs/slidev?style=flat-square&color=yellow)](https://github.com/slidevjs/slidev/stargazers) [![Forks](https://img.shields.io/github/forks/slidevjs/slidev?style=flat-square&color=blue)](https://github.com/slidevjs/slidev/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Presentation Slides for Developers
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 47.4k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -93,14 +93,15 @@ slidevjs/slidev 是面向开发者的交互式演示文稿框架，使用 Markdo
 | forks | 83/100 |
 | stars | 100/100 |
 | topics | 75/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 95/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

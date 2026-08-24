@@ -1,6 +1,6 @@
 # safishamsi/graphify
 
-[![Stars](https://img.shields.io/github/stars/safishamsi/graphify?style=flat-square&color=yellow)](https://github.com/safishamsi/graphify/stargazers) [![Forks](https://img.shields.io/github/forks/safishamsi/graphify?style=flat-square&color=blue)](https://github.com/safishamsi/graphify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/safishamsi/graphify?style=flat-square&color=yellow)](https://github.com/safishamsi/graphify/stargazers) [![Forks](https://img.shields.io/github/forks/safishamsi/graphify?style=flat-square&color=blue)](https://github.com/safishamsi/graphify/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 44.1k |
 | 🍴 **Forks** | 4.8k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ safishamsi/graphify：safishamsi/graphify helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 73/100 |
+| production | 59/100 |
+| outlook | 66/100 |
 | adoption | 97/100 |
 | stars | 99/100 |
 | forks | 92/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

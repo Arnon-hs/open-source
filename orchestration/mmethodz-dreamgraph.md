@@ -1,6 +1,6 @@
 # mmethodz/dreamgraph
 
-[![Stars](https://img.shields.io/github/stars/mmethodz/dreamgraph?style=flat-square&color=yellow)](https://github.com/mmethodz/dreamgraph/stargazers) [![Forks](https://img.shields.io/github/forks/mmethodz/dreamgraph?style=flat-square&color=blue)](https://github.com/mmethodz/dreamgraph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mmethodz/dreamgraph?style=flat-square&color=yellow)](https://github.com/mmethodz/dreamgraph/stargazers) [![Forks](https://img.shields.io/github/forks/mmethodz/dreamgraph?style=flat-square&color=blue)](https://github.com/mmethodz/dreamgraph/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 81 |
 | 🍴 **Forks** | 23 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ mmethodz/dreamgraph：mmethodz/dreamgraph helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 39/100 |
-| stars | 41/100 |
 | forks | 35/100 |
-| recency | 40/100 |
+| stars | 41/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

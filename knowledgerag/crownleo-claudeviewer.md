@@ -1,6 +1,6 @@
 # crownleo/ClaudeViewer
 
-[![Stars](https://img.shields.io/github/stars/crownleo/ClaudeViewer?style=flat-square&color=yellow)](https://github.com/crownleo/ClaudeViewer/stargazers) [![Forks](https://img.shields.io/github/forks/crownleo/ClaudeViewer?style=flat-square&color=blue)](https://github.com/crownleo/ClaudeViewer/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crownleo/ClaudeViewer?style=flat-square&color=yellow)](https://github.com/crownleo/ClaudeViewer/stargazers) [![Forks](https://img.shields.io/github/forks/crownleo/ClaudeViewer?style=flat-square&color=blue)](https://github.com/crownleo/ClaudeViewer/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Offline Claude export viewer. Search, analyze, and export your Claude.ai data locally.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 93 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ ClaudeViewer 是一款离线的 Claude.ai 导出文件查看器，支持本地�
 | forks | 12/100 |
 | stars | 42/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

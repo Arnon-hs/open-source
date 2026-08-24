@@ -1,6 +1,6 @@
 # hookzof/socks5_list
 
-[![Stars](https://img.shields.io/github/stars/hookzof/socks5_list?style=flat-square&color=yellow)](https://github.com/hookzof/socks5_list/stargazers) [![Forks](https://img.shields.io/github/forks/hookzof/socks5_list?style=flat-square&color=blue)](https://github.com/hookzof/socks5_list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hookzof/socks5_list?style=flat-square&color=yellow)](https://github.com/hookzof/socks5_list/stargazers) [![Forks](https://img.shields.io/github/forks/hookzof/socks5_list?style=flat-square&color=blue)](https://github.com/hookzof/socks5_list/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Auto-updated SOCKS5 proxy list + proxies for Telegram (прокси для телеграмм/телеграм/тг) https://mtpro.xyz/mtproto
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 963 |
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ hookzof/socks5_list 是一个自动更新的 SOCKS5 代理列表仓库，专门�
 | forks | 56/100 |
 | stars | 64/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
 | adoption | 61/100 |
-| production | 75/100 |
+| production | 49/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

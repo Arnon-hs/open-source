@@ -1,6 +1,6 @@
 # jmfederico/pi-web
 
-[![Stars](https://img.shields.io/github/stars/jmfederico/pi-web?style=flat-square&color=yellow)](https://github.com/jmfederico/pi-web/stargazers) [![Forks](https://img.shields.io/github/forks/jmfederico/pi-web?style=flat-square&color=blue)](https://github.com/jmfederico/pi-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jmfederico/pi-web?style=flat-square&color=yellow)](https://github.com/jmfederico/pi-web/stargazers) [![Forks](https://img.shields.io/github/forks/jmfederico/pi-web?style=flat-square&color=blue)](https://github.com/jmfederico/pi-web/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Web UI for Pi Coding Agent that keeps sessions alive in real workspaces.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 121 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ jmfederico/pi‑web 是一套基于 TypeScript 的 Web UI，专为 Pi Coding Age
 | forks | 37/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

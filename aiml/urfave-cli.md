@@ -1,6 +1,6 @@
 # urfave/cli
 
-[![Stars](https://img.shields.io/github/stars/urfave/cli?style=flat-square&color=yellow)](https://github.com/urfave/cli/stargazers) [![Forks](https://img.shields.io/github/forks/urfave/cli?style=flat-square&color=blue)](https://github.com/urfave/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/urfave/cli?style=flat-square&color=yellow)](https://github.com/urfave/cli/stargazers) [![Forks](https://img.shields.io/github/forks/urfave/cli?style=flat-square&color=blue)](https://github.com/urfave/cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > A declarative, simple, fast, and fun package for building command line tools in Go
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ urfave/cli：urfave/cli helps add AI capability without starting from a blank mo
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 90/100 |
 | stars | 93/100 |
 | forks | 81/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 88/100 |
 | sourceTrust | 100/100 |
 

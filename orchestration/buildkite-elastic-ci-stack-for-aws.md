@@ -1,6 +1,6 @@
 # buildkite/elastic-ci-stack-for-aws
 
-[![Stars](https://img.shields.io/github/stars/buildkite/elastic-ci-stack-for-aws?style=flat-square&color=yellow)](https://github.com/buildkite/elastic-ci-stack-for-aws/stargazers) [![Forks](https://img.shields.io/github/forks/buildkite/elastic-ci-stack-for-aws?style=flat-square&color=blue)](https://github.com/buildkite/elastic-ci-stack-for-aws/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/buildkite/elastic-ci-stack-for-aws?style=flat-square&color=yellow)](https://github.com/buildkite/elastic-ci-stack-for-aws/stargazers) [![Forks](https://img.shields.io/github/forks/buildkite/elastic-ci-stack-for-aws?style=flat-square&color=blue)](https://github.com/buildkite/elastic-ci-stack-for-aws/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An auto-scaling cluster of build agents running in your own AWS VPC
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 438 |
 | 🍴 **Forks** | 294 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Open‑source проект **buildkite/elastic-ci-stack-for-aws** предост
 
 ### 中文
 
-buildkite/elastic-ci-stack-for-aws：buildkite/elastic-ci-stack-for-aws helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+buildkite/elastic-ci-stack-for-aws：buildkite/elastic-ci-stack-for-aws helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ buildkite/elastic-ci-stack-for-aws：buildkite/elastic-ci-stack-for-aws helps tu
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ buildkite/elastic-ci-stack-for-aws：buildkite/elastic-ci-stack-for-aws helps tu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 58/100 |
-| stars | 56/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| stars | 56/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # Agent-Field/agentfield
 
-[![Stars](https://img.shields.io/github/stars/Agent-Field/agentfield?style=flat-square&color=yellow)](https://github.com/Agent-Field/agentfield/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-Field/agentfield?style=flat-square&color=blue)](https://github.com/Agent-Field/agentfield/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agent-Field/agentfield?style=flat-square&color=yellow)](https://github.com/Agent-Field/agentfield/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-Field/agentfield?style=flat-square&color=blue)](https://github.com/Agent-Field/agentfield/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 266 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Agent-Field/agentfield: Agent-Field/agentfield helps turn isolated prompts and t
 
 ### Русский
 
-Agent-Field/agentfield: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Agent-Field/agentfield: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, Backend, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Agent-Field/agentfield：Agent-Field/agentfield helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 70/100 |
-| integration | 100/100 |
-| production | 66/100 |
-| outlook | 69/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
 | forks | 61/100 |
-| recency | 40/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 59/100 |
+| usefulness | 90/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---

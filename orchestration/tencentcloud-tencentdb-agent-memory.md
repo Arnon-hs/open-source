@@ -1,6 +1,6 @@
 # TencentCloud/TencentDB-Agent-Memory
 
-[![Stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=flat-square&color=yellow)](https://github.com/TencentCloud/TencentDB-Agent-Memory/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloud/TencentDB-Agent-Memory?style=flat-square&color=blue)](https://github.com/TencentCloud/TencentDB-Agent-Memory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TencentCloud/TencentDB-Agent-Memory?style=flat-square&color=yellow)](https://github.com/TencentCloud/TencentDB-Agent-Memory/stargazers) [![Forks](https://img.shields.io/github/forks/TencentCloud/TencentDB-Agent-Memory?style=flat-square&color=blue)](https://github.com/TencentCloud/TencentDB-Agent-Memory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 6.1k |
 | 🍴 **Forks** | 528 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · AI/ML · Backend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ TencentDB Agent Memory 为 AI Agent 提供全本地化的长期记忆能力�
 | forks | 68/100 |
 | stars | 81/100 |
 | topics | 100/100 |
-| outlook | 89/100 |
-| quality | 90/100 |
-| recency | 100/100 |
+| outlook | 68/100 |
+| quality | 75/100 |
+| recency | 40/100 |
 | adoption | 77/100 |
-| production | 84/100 |
+| production | 65/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

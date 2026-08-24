@@ -1,6 +1,6 @@
 # Woyten/tune
 
-[![Stars](https://img.shields.io/github/stars/Woyten/tune?style=flat-square&color=yellow)](https://github.com/Woyten/tune/stargazers) [![Forks](https://img.shields.io/github/forks/Woyten/tune?style=flat-square&color=blue)](https://github.com/Woyten/tune/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Woyten/tune?style=flat-square&color=yellow)](https://github.com/Woyten/tune/stargazers) [![Forks](https://img.shields.io/github/forks/Woyten/tune?style=flat-square&color=blue)](https://github.com/Woyten/tune/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Make xenharmonic music and create synthesizer tuning files for microtonal scales.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 153 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -95,14 +95,15 @@ Woyten/tune 是一个用 Rust 编写的开源工具，用于生成 xenharmonic�
 | forks | 26/100 |
 | stars | 47/100 |
 | topics | 100/100 |
-| outlook | 74/100 |
-| quality | 73/100 |
-| recency | 100/100 |
+| outlook | 53/100 |
+| quality | 58/100 |
+| recency | 40/100 |
 | adoption | 41/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

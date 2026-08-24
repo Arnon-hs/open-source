@@ -1,6 +1,6 @@
 # ModelEngine-Group/nexent
 
-[![Stars](https://img.shields.io/github/stars/ModelEngine-Group/nexent?style=flat-square&color=yellow)](https://github.com/ModelEngine-Group/nexent/stargazers) [![Forks](https://img.shields.io/github/forks/ModelEngine-Group/nexent?style=flat-square&color=blue)](https://github.com/ModelEngine-Group/nexent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ModelEngine-Group/nexent?style=flat-square&color=yellow)](https://github.com/ModelEngine-Group/nexent/stargazers) [![Forks](https://img.shields.io/github/forks/ModelEngine-Group/nexent?style=flat-square&color=blue)](https://github.com/ModelEngine-Group/nexent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 583 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ModelEngine-Group/nexent: ModelEngine-Group/nexent helps turn isolated prompts a
 
 ### Русский
 
-ModelEngine-Group/nexent: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ModelEngine-Group/nexent: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ModelEngine-Group/nexent：ModelEngine-Group/nexent helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 74/100 |
-| integration | 62/100 |
-| production | 62/100 |
-| outlook | 73/100 |
-| adoption | 75/100 |
-| stars | 78/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

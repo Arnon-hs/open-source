@@ -1,6 +1,6 @@
 # hashicorp/terraform-provider-google
 
-[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-provider-google?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-provider-google/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-provider-google?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-provider-google/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hashicorp/terraform-provider-google?style=flat-square&color=yellow)](https://github.com/hashicorp/terraform-provider-google/stargazers) [![Forks](https://img.shields.io/github/forks/hashicorp/terraform-provider-google?style=flat-square&color=blue)](https://github.com/hashicorp/terraform-provider-google/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Terraform Provider for Google Cloud Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ DevOps/Infra
 
 ### English
 
-hashicorp/terraform-provider-google: hashicorp/terraform-provider-google helps make deployment and operations more repeatable.. Use it for standardize deployment; automate operations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hashicorp/terraform-provider-google: hashicorp/terraform-provider-google helps make deployment and operations more repeatable.. Use it for standardize deployment; automate operations. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-hashicorp/terraform-provider-google: open-source проект в категориях DevOps/Infra. Практическое применение: standardize deployment; automate operations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+hashicorp/terraform-provider-google: open-source проект в категориях DevOps/Infra. Практическое применение: standardize deployment; automate operations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-hashicorp/terraform-provider-google：hashicorp/terraform-provider-google helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hashicorp/terraform-provider-google：hashicorp/terraform-provider-google helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hashicorp/terraform-provider-google：hashicorp/terraform-provider-google helps 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ hashicorp/terraform-provider-google：hashicorp/terraform-provider-google helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
-| adoption | 75/100 |
-| stars | 73/100 |
 | forks | 82/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

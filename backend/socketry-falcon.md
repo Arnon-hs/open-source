@@ -1,6 +1,6 @@
 # socketry/falcon
 
-[![Stars](https://img.shields.io/github/stars/socketry/falcon?style=flat-square&color=yellow)](https://github.com/socketry/falcon/stargazers) [![Forks](https://img.shields.io/github/forks/socketry/falcon?style=flat-square&color=blue)](https://github.com/socketry/falcon/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/socketry/falcon?style=flat-square&color=yellow)](https://github.com/socketry/falcon/stargazers) [![Forks](https://img.shields.io/github/forks/socketry/falcon?style=flat-square&color=blue)](https://github.com/socketry/falcon/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3k |
 | 🍴 **Forks** | 102 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Database
+Backend
 
 ## 📝 Summary
 
@@ -80,14 +80,15 @@ socketry/falcon 是一款高性能的 Ruby Web 服务器，支持 HTTP/1、HTTP/
 | forks | 50/100 |
 | stars | 74/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # njbinbin-pisci/openpisci
 
-[![Stars](https://img.shields.io/github/stars/njbinbin-pisci/openpisci?style=flat-square&color=yellow)](https://github.com/njbinbin-pisci/openpisci/stargazers) [![Forks](https://img.shields.io/github/forks/njbinbin-pisci/openpisci?style=flat-square&color=blue)](https://github.com/njbinbin-pisci/openpisci/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/njbinbin-pisci/openpisci?style=flat-square&color=yellow)](https://github.com/njbinbin-pisci/openpisci/stargazers) [![Forks](https://img.shields.io/github/forks/njbinbin-pisci/openpisci?style=flat-square&color=blue)](https://github.com/njbinbin-pisci/openpisci/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > AI Agent like OpenClaw but works on native GUI desktop. Supports multi-agent and skills. Connect to feishu/weixin and more...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ OpenPisci — открытый AI‑агент, работающий непо�
 
 ### 中文
 
-njbinbin-pisci/openpisci：njbinbin-pisci/openpisci helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+njbinbin-pisci/openpisci：njbinbin-pisci/openpisci helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ njbinbin-pisci/openpisci：njbinbin-pisci/openpisci helps turn isolated prompts 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ njbinbin-pisci/openpisci：njbinbin-pisci/openpisci helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 30/100 |
-| stars | 34/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| stars | 34/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

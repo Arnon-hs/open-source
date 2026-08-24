@@ -1,6 +1,6 @@
 # nestjs/nest-cli
 
-[![Stars](https://img.shields.io/github/stars/nestjs/nest-cli?style=flat-square&color=yellow)](https://github.com/nestjs/nest-cli/stargazers) [![Forks](https://img.shields.io/github/forks/nestjs/nest-cli?style=flat-square&color=blue)](https://github.com/nestjs/nest-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nestjs/nest-cli?style=flat-square&color=yellow)](https://github.com/nestjs/nest-cli/stargazers) [![Forks](https://img.shields.io/github/forks/nestjs/nest-cli?style=flat-square&color=blue)](https://github.com/nestjs/nest-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > CLI tool for Nest applications 🍹
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 444 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ Nest‑CLI（`nestjs/nest-cli`）是 NestJS 官方提供的命令行工具，旨
 | forks | 66/100 |
 | stars | 71/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 70/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # vincelwt/gloomberb
 
-[![Stars](https://img.shields.io/github/stars/vincelwt/gloomberb?style=flat-square&color=yellow)](https://github.com/vincelwt/gloomberb/stargazers) [![Forks](https://img.shields.io/github/forks/vincelwt/gloomberb?style=flat-square&color=blue)](https://github.com/vincelwt/gloomberb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vincelwt/gloomberb?style=flat-square&color=yellow)](https://github.com/vincelwt/gloomberb/stargazers) [![Forks](https://img.shields.io/github/forks/vincelwt/gloomberb?style=flat-square&color=blue)](https://github.com/vincelwt/gloomberb/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Finance terminal, in your terminal.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 462 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Misc
 
 ### 中文
 
-vincelwt/gloomberb：vincelwt/gloomberb may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vincelwt/gloomberb：vincelwt/gloomberb may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ vincelwt/gloomberb：vincelwt/gloomberb may be useful when its README and activi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -56,22 +56,22 @@ vincelwt/gloomberb：vincelwt/gloomberb may be useful when its README and activi
 - updated 2026-05-09
 - primary language: TypeScript
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 45/100 |
-| adoption | 51/100 |
-| stars | 57/100 |
 | forks | 38/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

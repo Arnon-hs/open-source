@@ -1,6 +1,6 @@
 # bgauryy/octocode
 
-[![Stars](https://img.shields.io/github/stars/bgauryy/octocode?style=flat-square&color=yellow)](https://github.com/bgauryy/octocode/stargazers) [![Forks](https://img.shields.io/github/forks/bgauryy/octocode?style=flat-square&color=blue)](https://github.com/bgauryy/octocode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bgauryy/octocode?style=flat-square&color=yellow)](https://github.com/bgauryy/octocode/stargazers) [![Forks](https://img.shields.io/github/forks/bgauryy/octocode?style=flat-square&color=blue)](https://github.com/bgauryy/octocode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 868 |
 | 🍴 **Forks** | 74 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Database
+MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ bgauryy/octocode 是一个基于 MCP（Model Context Protocol）的服务器，�
 | forks | 47/100 |
 | stars | 63/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

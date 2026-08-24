@@ -1,6 +1,6 @@
 # nickclyde/duckduckgo-mcp-server
 
-[![Stars](https://img.shields.io/github/stars/nickclyde/duckduckgo-mcp-server?style=flat-square&color=yellow)](https://github.com/nickclyde/duckduckgo-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nickclyde/duckduckgo-mcp-server?style=flat-square&color=blue)](https://github.com/nickclyde/duckduckgo-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nickclyde/duckduckgo-mcp-server?style=flat-square&color=yellow)](https://github.com/nickclyde/duckduckgo-mcp-server/stargazers) [![Forks](https://img.shields.io/github/forks/nickclyde/duckduckgo-mcp-server?style=flat-square&color=blue)](https://github.com/nickclyde/duckduckgo-mcp-server/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Backend
+MCP
 
 ## 📝 Summary
 
@@ -109,14 +109,15 @@ nickclyde/duckduckgo-mcp-server 是一个 Model Context Protocol (MCP) 服务器
 | forks | 56/100 |
 | stars | 66/100 |
 | topics | 0/100 |
-| outlook | 72/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 54/100 |
+| recency | 40/100 |
 | adoption | 63/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

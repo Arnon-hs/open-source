@@ -1,6 +1,6 @@
 # openupm/openupm
 
-[![Stars](https://img.shields.io/github/stars/openupm/openupm?style=flat-square&color=yellow)](https://github.com/openupm/openupm/stargazers) [![Forks](https://img.shields.io/github/forks/openupm/openupm?style=flat-square&color=blue)](https://github.com/openupm/openupm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openupm/openupm?style=flat-square&color=yellow)](https://github.com/openupm/openupm/stargazers) [![Forks](https://img.shields.io/github/forks/openupm/openupm?style=flat-square&color=blue)](https://github.com/openupm/openupm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > OpenUPM - Open Source Unity Package Registry (UPM)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ OpenUPM 的生产可用性为中等水平。它适合用于原型开发或内部
 | forks | 76/100 |
 | stars | 70/100 |
 | topics | 63/100 |
-| outlook | 78/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 72/100 |
-| production | 75/100 |
+| production | 55/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

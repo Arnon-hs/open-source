@@ -1,6 +1,6 @@
 # SikamikanikoBG/homelab-monitor
 
-[![Stars](https://img.shields.io/github/stars/SikamikanikoBG/homelab-monitor?style=flat-square&color=yellow)](https://github.com/SikamikanikoBG/homelab-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/SikamikanikoBG/homelab-monitor?style=flat-square&color=blue)](https://github.com/SikamikanikoBG/homelab-monitor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SikamikanikoBG/homelab-monitor?style=flat-square&color=yellow)](https://github.com/SikamikanikoBG/homelab-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/SikamikanikoBG/homelab-monitor?style=flat-square&color=blue)](https://github.com/SikamikanikoBG/homelab-monitor/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 132 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Observability
+MCP · AI/ML · Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ SikamikanikoBG/homelab‑monitor 是一个即插即用的 homelab 仪表盘，�
 | forks | 34/100 |
 | stars | 45/100 |
 | topics | 100/100 |
-| outlook | 86/100 |
-| quality | 74/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 59/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

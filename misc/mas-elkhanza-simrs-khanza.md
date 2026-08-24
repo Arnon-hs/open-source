@@ -1,6 +1,6 @@
 # mas-elkhanza/SIMRS-Khanza
 
-[![Stars](https://img.shields.io/github/stars/mas-elkhanza/SIMRS-Khanza?style=flat-square&color=yellow)](https://github.com/mas-elkhanza/SIMRS-Khanza/stargazers) [![Forks](https://img.shields.io/github/forks/mas-elkhanza/SIMRS-Khanza?style=flat-square&color=blue)](https://github.com/mas-elkhanza/SIMRS-Khanza/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mas-elkhanza/SIMRS-Khanza?style=flat-square&color=yellow)](https://github.com/mas-elkhanza/SIMRS-Khanza/stargazers) [![Forks](https://img.shields.io/github/forks/mas-elkhanza/SIMRS-Khanza?style=flat-square&color=blue)](https://github.com/mas-elkhanza/SIMRS-Khanza/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Software untuk rumah sakit, klinik, puskesmas, dokter pribadi yang sudah digunakan di lebih dari 1000 rumah sakit di sluruh indonesia
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 705 |
 | 🍴 **Forks** | 927 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 59/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -66,14 +66,15 @@ mas‑elkhanza/SIMRS‑Khanza 是一套面向医院、诊所、卫生中心及�
 | forks | 74/100 |
 | stars | 61/100 |
 | topics | 75/100 |
-| outlook | 77/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 40/100 |
 | adoption | 64/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ExplosiveCoderflome/AI-Novel-Writing-Assistant
 
-[![Stars](https://img.shields.io/github/stars/ExplosiveCoderflome/AI-Novel-Writing-Assistant?style=flat-square&color=yellow)](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant/stargazers) [![Forks](https://img.shields.io/github/forks/ExplosiveCoderflome/AI-Novel-Writing-Assistant?style=flat-square&color=blue)](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ExplosiveCoderflome/AI-Novel-Writing-Assistant?style=flat-square&color=yellow)](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant/stargazers) [![Forks](https://img.shields.io/github/forks/ExplosiveCoderflome/AI-Novel-Writing-Assistant?style=flat-square&color=blue)](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和整本生产工作流，帮助新手从一句灵感走到完整小说。AI-native engine for end-to-end novel creation — from idea to full chapters, with structured planning, worldbuilding, and agent-driven workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 249 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ExplosiveCoderflome/AI-Novel-Writing-Assistant：ExplosiveCoderflome/AI-Novel-Wr
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 68/100 |
+| production | 51/100 |
+| outlook | 61/100 |
 | adoption | 64/100 |
 | stars | 65/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

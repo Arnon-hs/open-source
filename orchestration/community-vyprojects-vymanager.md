@@ -1,6 +1,6 @@
 # Community-VyProjects/VyManager
 
-[![Stars](https://img.shields.io/github/stars/Community-VyProjects/VyManager?style=flat-square&color=yellow)](https://github.com/Community-VyProjects/VyManager/stargazers) [![Forks](https://img.shields.io/github/forks/Community-VyProjects/VyManager?style=flat-square&color=blue)](https://github.com/Community-VyProjects/VyManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Community-VyProjects/VyManager?style=flat-square&color=yellow)](https://github.com/Community-VyProjects/VyManager/stargazers) [![Forks](https://img.shields.io/github/forks/Community-VyProjects/VyManager?style=flat-square&color=blue)](https://github.com/Community-VyProjects/VyManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Centralized SDN controller to configure, deploy and monitor multi-site VyOS routers via a modern web interface
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · Frontend · Observability
+Orchestration · Automation · Observability
 
 ## 📝 Summary
 
@@ -102,14 +102,15 @@ Community‑VyProjects/VyManager 提供统一的 SDN 控制平面，能够通过
 | forks | 39/100 |
 | stars | 53/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 62/100 |
+| recency | 40/100 |
 | adoption | 49/100 |
-| production | 75/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

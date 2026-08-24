@@ -1,6 +1,6 @@
 # Community-Access/accessibility-agents
 
-[![Stars](https://img.shields.io/github/stars/Community-Access/accessibility-agents?style=flat-square&color=yellow)](https://github.com/Community-Access/accessibility-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Community-Access/accessibility-agents?style=flat-square&color=blue)](https://github.com/Community-Access/accessibility-agents/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Community-Access/accessibility-agents?style=flat-square&color=yellow)](https://github.com/Community-Access/accessibility-agents/stargazers) [![Forks](https://img.shields.io/github/forks/Community-Access/accessibility-agents?style=flat-square&color=blue)](https://github.com/Community-Access/accessibility-agents/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 266 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Community‑Access / accessibility‑agents provides a suite of AI‑driven 
 
 ### 中文
 
-Community-Access/accessibility-agents：Community-Access/accessibility-agents helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Community-Access/accessibility-agents：Community-Access/accessibility-agents helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Community-Access/accessibility-agents：Community-Access/accessibility-agents he
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Community-Access/accessibility-agents：Community-Access/accessibility-agents he
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 61/100 |
-| adoption | 47/100 |
-| stars | 52/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

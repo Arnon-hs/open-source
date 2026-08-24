@@ -1,6 +1,6 @@
 # shinnytech/tqsdk-python
 
-[![Stars](https://img.shields.io/github/stars/shinnytech/tqsdk-python?style=flat-square&color=yellow)](https://github.com/shinnytech/tqsdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/shinnytech/tqsdk-python?style=flat-square&color=blue)](https://github.com/shinnytech/tqsdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shinnytech/tqsdk-python?style=flat-square&color=yellow)](https://github.com/shinnytech/tqsdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/shinnytech/tqsdk-python?style=flat-square&color=blue)](https://github.com/shinnytech/tqsdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.7k |
 | 🍴 **Forks** | 755 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ shinnytech/tqsdk-python：shinnytech/tqsdk-python helps research and automate ma
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 62/100 |
-| adoption | 76/100 |
-| stars | 78/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| stars | 78/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

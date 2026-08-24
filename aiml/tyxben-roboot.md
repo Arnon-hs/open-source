@@ -1,6 +1,6 @@
 # tyxben/roboot
 
-[![Stars](https://img.shields.io/github/stars/tyxben/roboot?style=flat-square&color=yellow)](https://github.com/tyxben/roboot/stargazers) [![Forks](https://img.shields.io/github/forks/tyxben/roboot?style=flat-square&color=blue)](https://github.com/tyxben/roboot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tyxben/roboot?style=flat-square&color=yellow)](https://github.com/tyxben/roboot/stargazers) [![Forks](https://img.shields.io/github/forks/tyxben/roboot?style=flat-square&color=blue)](https://github.com/tyxben/roboot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Personal AI agent hub on macOS — iTerm2 sessions, voice, web console, Telegram, Cloudflare Worker relay with E2EE
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 71 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ tyxben/roboot：tyxben/roboot helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 38/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 43/100 |
-| adoption | 28/100 |
-| stars | 40/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 40/100 |
 | topics | 0/100 |
+| outlook | 36/100 |
+| quality | 33/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 40/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

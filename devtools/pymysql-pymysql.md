@@ -1,6 +1,6 @@
 # PyMySQL/PyMySQL
 
-[![Stars](https://img.shields.io/github/stars/PyMySQL/PyMySQL?style=flat-square&color=yellow)](https://github.com/PyMySQL/PyMySQL/stargazers) [![Forks](https://img.shields.io/github/forks/PyMySQL/PyMySQL?style=flat-square&color=blue)](https://github.com/PyMySQL/PyMySQL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PyMySQL/PyMySQL?style=flat-square&color=yellow)](https://github.com/PyMySQL/PyMySQL/stargazers) [![Forks](https://img.shields.io/github/forks/PyMySQL/PyMySQL?style=flat-square&color=blue)](https://github.com/PyMySQL/PyMySQL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > MySQL client library for Python
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ PyMySQL/PyMySQL：PyMySQL/PyMySQL helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 82/100 |
 | stars | 83/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 25/100 |
 | sourceTrust | 100/100 |
 

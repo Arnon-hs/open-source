@@ -1,6 +1,6 @@
 # gchq/CyberChef
 
-[![Stars](https://img.shields.io/github/stars/gchq/CyberChef?style=flat-square&color=yellow)](https://github.com/gchq/CyberChef/stargazers) [![Forks](https://img.shields.io/github/forks/gchq/CyberChef?style=flat-square&color=blue)](https://github.com/gchq/CyberChef/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gchq/CyberChef?style=flat-square&color=yellow)](https://github.com/gchq/CyberChef/stargazers) [![Forks](https://img.shields.io/github/forks/gchq/CyberChef?style=flat-square&color=blue)](https://github.com/gchq/CyberChef/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34.8k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ gchq/CyberChef：gchq/CyberChef helps convert raw data into searchable, analyzab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 81/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 65/100 |
-| adoption | 95/100 |
-| stars | 97/100 |
 | forks | 90/100 |
-| recency | 40/100 |
+| stars | 97/100 |
 | topics | 88/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

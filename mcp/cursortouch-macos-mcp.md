@@ -1,6 +1,6 @@
 # CursorTouch/MacOS-MCP
 
-[![Stars](https://img.shields.io/github/stars/CursorTouch/MacOS-MCP?style=flat-square&color=yellow)](https://github.com/CursorTouch/MacOS-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/CursorTouch/MacOS-MCP?style=flat-square&color=blue)](https://github.com/CursorTouch/MacOS-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CursorTouch/MacOS-MCP?style=flat-square&color=yellow)](https://github.com/CursorTouch/MacOS-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/CursorTouch/MacOS-MCP?style=flat-square&color=blue)](https://github.com/CursorTouch/MacOS-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight MCP server for computer use in MacOS
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ CursorTouch/MacOS‑MCP 是一款轻量级的 MCP（Model Context Protocol�
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 38/100 |
-| outlook | 68/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 40/100 |
+| quality | 39/100 |
+| recency | 20/100 |
 | adoption | 30/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

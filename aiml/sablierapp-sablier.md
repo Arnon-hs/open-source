@@ -1,6 +1,6 @@
 # sablierapp/sablier
 
-[![Stars](https://img.shields.io/github/stars/sablierapp/sablier?style=flat-square&color=yellow)](https://github.com/sablierapp/sablier/stargazers) [![Forks](https://img.shields.io/github/forks/sablierapp/sablier?style=flat-square&color=blue)](https://github.com/sablierapp/sablier/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sablierapp/sablier?style=flat-square&color=yellow)](https://github.com/sablierapp/sablier/stargazers) [![Forks](https://img.shields.io/github/forks/sablierapp/sablier?style=flat-square&color=blue)](https://github.com/sablierapp/sablier/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ sablierapp/sablier：sablierapp/sablier helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 94/100 |
-| production | 65/100 |
-| outlook | 59/100 |
+| production | 58/100 |
+| outlook | 52/100 |
 | adoption | 66/100 |
 | stars | 73/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

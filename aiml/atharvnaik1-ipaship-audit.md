@@ -1,6 +1,6 @@
 # atharvnaik1/ipaship-audit
 
-[![Stars](https://img.shields.io/github/stars/atharvnaik1/ipaship-audit?style=flat-square&color=yellow)](https://github.com/atharvnaik1/ipaship-audit/stargazers) [![Forks](https://img.shields.io/github/forks/atharvnaik1/ipaship-audit?style=flat-square&color=blue)](https://github.com/atharvnaik1/ipaship-audit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atharvnaik1/ipaship-audit?style=flat-square&color=yellow)](https://github.com/atharvnaik1/ipaship-audit/stargazers) [![Forks](https://img.shields.io/github/forks/atharvnaik1/ipaship-audit?style=flat-square&color=blue)](https://github.com/atharvnaik1/ipaship-audit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Let your Ai Agent review your mobile apps for appstore policy, security bugs, code quality with ipaShip. Product Hunt link:: https://www.producthunt.com/products/gracias-ai-opensource
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Mobile · Security · Product
+AI/ML · DevTools · Mobile · Security
 
 ## 📝 Summary
 
@@ -115,14 +115,15 @@ atharvnaik1/ipaship‑audit 是一个开源工具，利用 AI Agent 为 iOS 应�
 | forks | 49/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 37/100 |
-| production | 76/100 |
+| production | 49/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

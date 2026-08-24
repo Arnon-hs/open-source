@@ -1,6 +1,6 @@
 # iina/iina
 
-[![Stars](https://img.shields.io/github/stars/iina/iina?style=flat-square&color=yellow)](https://github.com/iina/iina/stargazers) [![Forks](https://img.shields.io/github/forks/iina/iina?style=flat-square&color=blue)](https://github.com/iina/iina/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iina/iina?style=flat-square&color=yellow)](https://github.com/iina/iina/stargazers) [![Forks](https://img.shields.io/github/forks/iina/iina?style=flat-square&color=blue)](https://github.com/iina/iina/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > The modern video player for macOS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 45.4k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -91,14 +91,15 @@ iina（iina/iina）是一款基于 Swift 开发的现代 macOS 视频播放器�
 | forks | 86/100 |
 | stars | 99/100 |
 | topics | 75/100 |
-| outlook | 85/100 |
-| quality | 94/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 79/100 |
+| recency | 40/100 |
 | adoption | 96/100 |
-| production | 79/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

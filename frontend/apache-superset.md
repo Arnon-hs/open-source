@@ -1,6 +1,6 @@
 # apache/superset
 
-[![Stars](https://img.shields.io/github/stars/apache/superset?style=flat-square&color=yellow)](https://github.com/apache/superset/stargazers) [![Forks](https://img.shields.io/github/forks/apache/superset?style=flat-square&color=blue)](https://github.com/apache/superset/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/superset?style=flat-square&color=yellow)](https://github.com/apache/superset/stargazers) [![Forks](https://img.shields.io/github/forks/apache/superset?style=flat-square&color=blue)](https://github.com/apache/superset/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Superset is a Data Visualization and Data Exploration Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 72.7k |
 | 🍴 **Forks** | 17.2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -65,16 +65,16 @@ apache/superset：apache/superset helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 85/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 67/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 59/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

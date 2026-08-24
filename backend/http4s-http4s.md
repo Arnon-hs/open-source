@@ -1,6 +1,6 @@
 # http4s/http4s
 
-[![Stars](https://img.shields.io/github/stars/http4s/http4s?style=flat-square&color=yellow)](https://github.com/http4s/http4s/stargazers) [![Forks](https://img.shields.io/github/forks/http4s/http4s?style=flat-square&color=blue)](https://github.com/http4s/http4s/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/http4s/http4s?style=flat-square&color=yellow)](https://github.com/http4s/http4s/stargazers) [![Forks](https://img.shields.io/github/forks/http4s/http4s?style=flat-square&color=blue)](https://github.com/http4s/http4s/network) [![Language](https://img.shields.io/badge/lang-Scala-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A minimal, idiomatic Scala interface for HTTP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 809 |
 | 💻 **Language** | Scala |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ http4s/http4s：http4s/http4s helps teams reuse service infrastructure instead o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 73/100 |
-| stars | 73/100 |
 | forks | 73/100 |
-| recency | 40/100 |
+| stars | 73/100 |
 | topics | 88/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

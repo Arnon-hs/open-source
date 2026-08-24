@@ -1,6 +1,6 @@
 # docusealco/docuseal
 
-[![Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=flat-square&color=yellow)](https://github.com/docusealco/docuseal/stargazers) [![Forks](https://img.shields.io/github/forks/docusealco/docuseal?style=flat-square&color=blue)](https://github.com/docusealco/docuseal/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=flat-square&color=yellow)](https://github.com/docusealco/docuseal/stargazers) [![Forks](https://img.shields.io/github/forks/docusealco/docuseal?style=flat-square&color=blue)](https://github.com/docusealco/docuseal/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.8k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ docusealco/docuseal：docusealco/docuseal helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 67/100 |
+| production | 53/100 |
+| outlook | 60/100 |
 | adoption | 86/100 |
 | stars | 89/100 |
 | forks | 79/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

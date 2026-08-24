@@ -1,6 +1,6 @@
 # StrikerX3/Ymir
 
-[![Stars](https://img.shields.io/github/stars/StrikerX3/Ymir?style=flat-square&color=yellow)](https://github.com/StrikerX3/Ymir/stargazers) [![Forks](https://img.shields.io/github/forks/StrikerX3/Ymir?style=flat-square&color=blue)](https://github.com/StrikerX3/Ymir/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/StrikerX3/Ymir?style=flat-square&color=yellow)](https://github.com/StrikerX3/Ymir/stargazers) [![Forks](https://img.shields.io/github/forks/StrikerX3/Ymir?style=flat-square&color=blue)](https://github.com/StrikerX3/Ymir/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Sega Saturn emulator
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 897 |
 | 🍴 **Forks** | 42 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ StrikerX3/Ymir — это открытый эмулятор консоли Seg
 
 ### 中文
 
-StrikerX3/Ymir：StrikerX3/Ymir helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+StrikerX3/Ymir：StrikerX3/Ymir helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ StrikerX3/Ymir：StrikerX3/Ymir helps ship user-facing interfaces with less cust
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ StrikerX3/Ymir：StrikerX3/Ymir helps ship user-facing interfaces with less cust
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 48/100 |
+| outlook | 50/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

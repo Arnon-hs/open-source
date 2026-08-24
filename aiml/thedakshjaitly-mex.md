@@ -1,6 +1,6 @@
 # theDakshJaitly/mex
 
-[![Stars](https://img.shields.io/github/stars/theDakshJaitly/mex?style=flat-square&color=yellow)](https://github.com/theDakshJaitly/mex/stargazers) [![Forks](https://img.shields.io/github/forks/theDakshJaitly/mex?style=flat-square&color=blue)](https://github.com/theDakshJaitly/mex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/theDakshJaitly/mex?style=flat-square&color=yellow)](https://github.com/theDakshJaitly/mex/stargazers) [![Forks](https://img.shields.io/github/forks/theDakshJaitly/mex?style=flat-square&color=blue)](https://github.com/theDakshJaitly/mex/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 712 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ theDakshJaitly/mex 为 AI 编码代理提供持久化的项目记忆，采用结
 | forks | 41/100 |
 | stars | 61/100 |
 | topics | 100/100 |
-| outlook | 87/100 |
-| quality | 80/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 60/100 |
+| recency | 20/100 |
 | adoption | 55/100 |
-| production | 79/100 |
+| production | 52/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

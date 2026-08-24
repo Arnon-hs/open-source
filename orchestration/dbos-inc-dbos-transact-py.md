@@ -1,6 +1,6 @@
 # dbos-inc/dbos-transact-py
 
-[![Stars](https://img.shields.io/github/stars/dbos-inc/dbos-transact-py?style=flat-square&color=yellow)](https://github.com/dbos-inc/dbos-transact-py/stargazers) [![Forks](https://img.shields.io/github/forks/dbos-inc/dbos-transact-py?style=flat-square&color=blue)](https://github.com/dbos-inc/dbos-transact-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbos-inc/dbos-transact-py?style=flat-square&color=yellow)](https://github.com/dbos-inc/dbos-transact-py/stargazers) [![Forks](https://img.shields.io/github/forks/dbos-inc/dbos-transact-py?style=flat-square&color=blue)](https://github.com/dbos-inc/dbos-transact-py/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Database-Backed Durable Python Workflows
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 73 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · Backend · Data
+Orchestration · Automation · Backend · Database
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Overall, dbos‑inc/dbos‑transact‑py offers a high‑value, production‑rea
 | forks | 47/100 |
 | stars | 67/100 |
 | topics | 100/100 |
-| outlook | 85/100 |
-| quality | 83/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 40/100 |
 | adoption | 61/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

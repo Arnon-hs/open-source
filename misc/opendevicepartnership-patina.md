@@ -1,6 +1,6 @@
 # OpenDevicePartnership/patina
 
-[![Stars](https://img.shields.io/github/stars/OpenDevicePartnership/patina?style=flat-square&color=yellow)](https://github.com/OpenDevicePartnership/patina/stargazers) [![Forks](https://img.shields.io/github/forks/OpenDevicePartnership/patina?style=flat-square&color=blue)](https://github.com/OpenDevicePartnership/patina/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenDevicePartnership/patina?style=flat-square&color=yellow)](https://github.com/OpenDevicePartnership/patina/stargazers) [![Forks](https://img.shields.io/github/forks/OpenDevicePartnership/patina?style=flat-square&color=blue)](https://github.com/OpenDevicePartnership/patina/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Patina Firmware
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 526 |
 | 🍴 **Forks** | 48 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ OpenDevicePartnership/patina 是一套基于 Rust 实现的 Patina 固件代码�
 | forks | 42/100 |
 | stars | 58/100 |
 | topics | 50/100 |
-| outlook | 72/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 54/100 |
-| production | 71/100 |
+| production | 45/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

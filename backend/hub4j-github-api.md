@@ -1,6 +1,6 @@
 # hub4j/github-api
 
-[![Stars](https://img.shields.io/github/stars/hub4j/github-api?style=flat-square&color=yellow)](https://github.com/hub4j/github-api/stargazers) [![Forks](https://img.shields.io/github/forks/hub4j/github-api?style=flat-square&color=blue)](https://github.com/hub4j/github-api/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hub4j/github-api?style=flat-square&color=yellow)](https://github.com/hub4j/github-api/stargazers) [![Forks](https://img.shields.io/github/forks/hub4j/github-api?style=flat-square&color=blue)](https://github.com/hub4j/github-api/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Java API for GitHub
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 775 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ hub4j/github-api 在生产环境中具有较高的可用性，主要原因包括
 | forks | 72/100 |
 | stars | 66/100 |
 | topics | 88/100 |
-| outlook | 85/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 64/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 68/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

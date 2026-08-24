@@ -1,6 +1,6 @@
 # martymcenroe/AssemblyZero
 
-[![Stars](https://img.shields.io/github/stars/martymcenroe/AssemblyZero?style=flat-square&color=yellow)](https://github.com/martymcenroe/AssemblyZero/stargazers) [![Forks](https://img.shields.io/github/forks/martymcenroe/AssemblyZero?style=flat-square&color=blue)](https://github.com/martymcenroe/AssemblyZero/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/martymcenroe/AssemblyZero?style=flat-square&color=yellow)](https://github.com/martymcenroe/AssemblyZero/stargazers) [![Forks](https://img.shields.io/github/forks/martymcenroe/AssemblyZero?style=flat-square&color=blue)](https://github.com/martymcenroe/AssemblyZero/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Parameterized multi-agent orchestration framework for Claude Code and Gemini
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 103 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ AssemblyZero 是一个面向 Claude Code 与 Gemini 的参数化多代理编排�
 | forks | 8/100 |
 | stars | 43/100 |
 | topics | 88/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 33/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

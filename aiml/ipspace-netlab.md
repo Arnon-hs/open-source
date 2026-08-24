@@ -1,6 +1,6 @@
 # ipspace/netlab
 
-[![Stars](https://img.shields.io/github/stars/ipspace/netlab?style=flat-square&color=yellow)](https://github.com/ipspace/netlab/stargazers) [![Forks](https://img.shields.io/github/forks/ipspace/netlab?style=flat-square&color=blue)](https://github.com/ipspace/netlab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ipspace/netlab?style=flat-square&color=yellow)](https://github.com/ipspace/netlab/stargazers) [![Forks](https://img.shields.io/github/forks/ipspace/netlab?style=flat-square&color=blue)](https://github.com/ipspace/netlab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Making virtual networking labs suck less
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 683 |
 | 🍴 **Forks** | 103 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ipspace/netlab is an open‑source framework that streamlines the creation and m
 
 ### 中文
 
-ipspace/netlab：ipspace/netlab helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ipspace/netlab：ipspace/netlab helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ ipspace/netlab：ipspace/netlab helps add AI capability without starting from a 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ ipspace/netlab：ipspace/netlab helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 48/100 |
+| outlook | 46/100 |
 | adoption | 58/100 |
 | stars | 60/100 |
 | forks | 50/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

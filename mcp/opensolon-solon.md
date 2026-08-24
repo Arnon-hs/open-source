@@ -1,6 +1,6 @@
 # opensolon/solon
 
-[![Stars](https://img.shields.io/github/stars/opensolon/solon?style=flat-square&color=yellow)](https://github.com/opensolon/solon/stargazers) [![Forks](https://img.shields.io/github/forks/opensolon/solon?style=flat-square&color=blue)](https://github.com/opensolon/solon/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensolon/solon?style=flat-square&color=yellow)](https://github.com/opensolon/solon/stargazers) [![Forks](https://img.shields.io/github/forks/opensolon/solon?style=flat-square&color=blue)](https://github.com/opensolon/solon/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java25; Supports LTS. (Replaceable spring)
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 256 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ opensolon/solon 是一款面向全场景的 Java 企业级应用开发框架，�
 | forks | 60/100 |
 | stars | 73/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 86/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
 | adoption | 70/100 |
-| production | 83/100 |
+| production | 57/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

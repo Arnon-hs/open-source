@@ -1,6 +1,6 @@
 # oven-sh/bun
 
-[![Stars](https://img.shields.io/github/stars/oven-sh/bun?style=flat-square&color=yellow)](https://github.com/oven-sh/bun/stargazers) [![Forks](https://img.shields.io/github/forks/oven-sh/bun?style=flat-square&color=blue)](https://github.com/oven-sh/bun/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oven-sh/bun?style=flat-square&color=yellow)](https://github.com/oven-sh/bun/stargazers) [![Forks](https://img.shields.io/github/forks/oven-sh/bun?style=flat-square&color=blue)](https://github.com/oven-sh/bun/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 89.7k |
 | 🍴 **Forks** | 4.4k |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ oven-sh/bun: oven-sh/bun helps ship user-facing interfaces with less custom UI w
 
 ### Русский
 
-oven-sh/bun: open-source проект в категориях Frontend, DevTools. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+oven-sh/bun: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ oven-sh/bun：oven-sh/bun helps ship user-facing interfaces with less custom UI 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 84/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 67/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 91/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

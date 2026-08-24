@@ -1,6 +1,6 @@
 # datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR
 
-[![Stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=yellow)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/stargazers) [![Forks](https://img.shields.io/github/forks/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=blue)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=yellow)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/stargazers) [![Forks](https://img.shields.io/github/forks/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR?style=flat-square&color=blue)](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic search via Qdrant vector DB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 144 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Knowledge/RAG · Automation · AI/ML · Database
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ OpenConstructionEstimate‑DDC‑CWICR — это открытая мног�
 
 ### 中文
 
-datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR：datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR：datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR：datadrivenconstructi
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR：datadrivenconstructi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 44/100 |
-| stars | 46/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

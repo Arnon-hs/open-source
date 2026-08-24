@@ -1,6 +1,6 @@
 # PacificStudio/openase
 
-[![Stars](https://img.shields.io/github/stars/PacificStudio/openase?style=flat-square&color=yellow)](https://github.com/PacificStudio/openase/stargazers) [![Forks](https://img.shields.io/github/forks/PacificStudio/openase?style=flat-square&color=blue)](https://github.com/PacificStudio/openase/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PacificStudio/openase?style=flat-square&color=yellow)](https://github.com/PacificStudio/openase/stargazers) [![Forks](https://img.shields.io/github/forks/PacificStudio/openase?style=flat-square&color=blue)](https://github.com/PacificStudio/openase/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Ticket-Driven Automated Software Engineering. OpenASE is an all-in-one platform that turns tickets into working code — AI agents automatically pick up tickets, execute workflows on your machines, and deliver results with full traceability.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 233 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ OpenASE — это полностью открытая платформа дл
 
 ### 中文
 
-PacificStudio/openase：PacificStudio/openase helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+PacificStudio/openase：PacificStudio/openase helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ PacificStudio/openase：PacificStudio/openase helps add AI capability without st
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ PacificStudio/openase：PacificStudio/openase helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 54/100 |
-| adoption | 46/100 |
-| stars | 50/100 |
 | forks | 34/100 |
-| recency | 40/100 |
+| stars | 50/100 |
 | topics | 38/100 |
+| outlook | 47/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 45/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

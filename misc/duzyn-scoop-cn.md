@@ -1,6 +1,6 @@
 # duzyn/scoop-cn
 
-[![Stars](https://img.shields.io/github/stars/duzyn/scoop-cn?style=flat-square&color=yellow)](https://github.com/duzyn/scoop-cn/stargazers) [![Forks](https://img.shields.io/github/forks/duzyn/scoop-cn?style=flat-square&color=blue)](https://github.com/duzyn/scoop-cn/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/duzyn/scoop-cn?style=flat-square&color=yellow)](https://github.com/duzyn/scoop-cn/stargazers) [![Forks](https://img.shields.io/github/forks/duzyn/scoop-cn?style=flat-square&color=blue)](https://github.com/duzyn/scoop-cn/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 中国用户能用的 Scoop 应用库，每日同步 Scoop 的官方库，加速应用的下载速度
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 546 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ The **duzyn/scoop-cn** project provides a Chinese‑localized Scoop bucket that 
 
 ### 中文
 
-duzyn/scoop-cn：duzyn/scoop-cn may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+duzyn/scoop-cn：duzyn/scoop-cn may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ duzyn/scoop-cn：duzyn/scoop-cn may be useful when its README and activity match
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,16 +63,16 @@ duzyn/scoop-cn：duzyn/scoop-cn may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 52/100 |
-| stars | 58/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 38/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

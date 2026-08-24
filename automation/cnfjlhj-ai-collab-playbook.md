@@ -1,6 +1,6 @@
 # cnfjlhj/ai-collab-playbook
 
-[![Stars](https://img.shields.io/github/stars/cnfjlhj/ai-collab-playbook?style=flat-square&color=yellow)](https://github.com/cnfjlhj/ai-collab-playbook/stargazers) [![Forks](https://img.shields.io/github/forks/cnfjlhj/ai-collab-playbook?style=flat-square&color=blue)](https://github.com/cnfjlhj/ai-collab-playbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cnfjlhj/ai-collab-playbook?style=flat-square&color=yellow)](https://github.com/cnfjlhj/ai-collab-playbook/stargazers) [![Forks](https://img.shields.io/github/forks/cnfjlhj/ai-collab-playbook?style=flat-square&color=blue)](https://github.com/cnfjlhj/ai-collab-playbook/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Practical AI collaboration playbook for research, writing, reading, and coding: article, prompts, agent rules, and reusable skills.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Product
+Automation · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ cnfjlhj/ai-collab-playbook 是一套面向科研、写作、阅读和编码的�
 | forks | 38/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 78/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 40/100 |
 | adoption | 50/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hitobito/hitobito
 
-[![Stars](https://img.shields.io/github/stars/hitobito/hitobito?style=flat-square&color=yellow)](https://github.com/hitobito/hitobito/stargazers) [![Forks](https://img.shields.io/github/forks/hitobito/hitobito?style=flat-square&color=blue)](https://github.com/hitobito/hitobito/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hitobito/hitobito?style=flat-square&color=yellow)](https://github.com/hitobito/hitobito/stargazers) [![Forks](https://img.shields.io/github/forks/hitobito/hitobito?style=flat-square&color=blue)](https://github.com/hitobito/hitobito/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A web application to manage complex group hierarchies with members, events and a lot more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 467 |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ hitobito/hitobito：hitobito/hitobito may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 56/100 |
-| stars | 57/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

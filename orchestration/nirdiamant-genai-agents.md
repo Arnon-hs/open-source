@@ -1,6 +1,6 @@
 # NirDiamant/GenAI_Agents
 
-[![Stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=flat-square&color=yellow)](https://github.com/NirDiamant/GenAI_Agents/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/GenAI_Agents?style=flat-square&color=blue)](https://github.com/NirDiamant/GenAI_Agents/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NirDiamant/GenAI_Agents?style=flat-square&color=yellow)](https://github.com/NirDiamant/GenAI_Agents/stargazers) [![Forks](https://img.shields.io/github/forks/NirDiamant/GenAI_Agents?style=flat-square&color=blue)](https://github.com/NirDiamant/GenAI_Agents/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 23k |
 | 🍴 **Forks** | 3.9k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-03 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -96,14 +96,15 @@ NirDiamant/GenAI_Agents 是一个开源项目，提供了50+个教程和实现�
 | forks | 90/100 |
 | stars | 93/100 |
 | topics | 100/100 |
-| outlook | 96/100 |
-| quality | 96/100 |
-| recency | 100/100 |
+| outlook | 75/100 |
+| quality | 81/100 |
+| recency | 40/100 |
 | adoption | 92/100 |
-| production | 85/100 |
+| production | 65/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

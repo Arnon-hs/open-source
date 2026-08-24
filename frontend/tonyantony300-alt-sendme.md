@@ -1,6 +1,6 @@
 # tonyantony300/alt-sendme
 
-[![Stars](https://img.shields.io/github/stars/tonyantony300/alt-sendme?style=flat-square&color=yellow)](https://github.com/tonyantony300/alt-sendme/stargazers) [![Forks](https://img.shields.io/github/forks/tonyantony300/alt-sendme?style=flat-square&color=blue)](https://github.com/tonyantony300/alt-sendme/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonyantony300/alt-sendme?style=flat-square&color=yellow)](https://github.com/tonyantony300/alt-sendme/stargazers) [![Forks](https://img.shields.io/github/forks/tonyantony300/alt-sendme?style=flat-square&color=blue)](https://github.com/tonyantony300/alt-sendme/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.3k |
 | 🍴 **Forks** | 521 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Security
+Frontend · Security
 
 ## 📝 Summary
 
@@ -103,14 +103,15 @@ tonyantony300/alt‑sendme 是一款基于 TypeScript 的前端工具库，能�
 | forks | 68/100 |
 | stars | 83/100 |
 | topics | 100/100 |
-| outlook | 83/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

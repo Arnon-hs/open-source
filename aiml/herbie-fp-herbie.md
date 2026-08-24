@@ -1,6 +1,6 @@
 # herbie-fp/herbie
 
-[![Stars](https://img.shields.io/github/stars/herbie-fp/herbie?style=flat-square&color=yellow)](https://github.com/herbie-fp/herbie/stargazers) [![Forks](https://img.shields.io/github/forks/herbie-fp/herbie?style=flat-square&color=blue)](https://github.com/herbie-fp/herbie/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/herbie-fp/herbie?style=flat-square&color=yellow)](https://github.com/herbie-fp/herbie/stargazers) [![Forks](https://img.shields.io/github/forks/herbie-fp/herbie?style=flat-square&color=blue)](https://github.com/herbie-fp/herbie/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Optimize floating-point expressions for accuracy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 873 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Herbie is an open‑source tool that automatically improves the numerical accura
 
 ### 中文
 
-herbie-fp/herbie：herbie-fp/herbie helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+herbie-fp/herbie：herbie-fp/herbie helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ herbie-fp/herbie：herbie-fp/herbie helps add AI capability without starting fro
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ herbie-fp/herbie：herbie-fp/herbie helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 53/100 |
-| outlook | 57/100 |
+| production | 47/100 |
+| outlook | 50/100 |
 | adoption | 57/100 |
 | stars | 63/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

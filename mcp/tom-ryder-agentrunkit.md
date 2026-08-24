@@ -1,6 +1,6 @@
 # Tom-Ryder/AgentRunKit
 
-[![Stars](https://img.shields.io/github/stars/Tom-Ryder/AgentRunKit?style=flat-square&color=yellow)](https://github.com/Tom-Ryder/AgentRunKit/stargazers) [![Forks](https://img.shields.io/github/forks/Tom-Ryder/AgentRunKit?style=flat-square&color=blue)](https://github.com/Tom-Ryder/AgentRunKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tom-Ryder/AgentRunKit?style=flat-square&color=yellow)](https://github.com/Tom-Ryder/AgentRunKit/stargazers) [![Forks](https://img.shields.io/github/forks/Tom-Ryder/AgentRunKit?style=flat-square&color=blue)](https://github.com/Tom-Ryder/AgentRunKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Swift 6 agent SDK: type-safe tools, streaming, cloud + on-device inference via MLX on Apple Silicon
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Mobile · Design
+MCP · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -106,14 +106,15 @@ Tom‑Ryder/AgentRunKit 是一套面向 Swift 6 的 Agent SDK，提供类型�
 | forks | 17/100 |
 | stars | 30/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 27/100 |
-| production | 74/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

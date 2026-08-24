@@ -1,6 +1,6 @@
 # obsidianmd/obsidian-releases
 
-[![Stars](https://img.shields.io/github/stars/obsidianmd/obsidian-releases?style=flat-square&color=yellow)](https://github.com/obsidianmd/obsidian-releases/stargazers) [![Forks](https://img.shields.io/github/forks/obsidianmd/obsidian-releases?style=flat-square&color=blue)](https://github.com/obsidianmd/obsidian-releases/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/obsidianmd/obsidian-releases?style=flat-square&color=yellow)](https://github.com/obsidianmd/obsidian-releases/stargazers) [![Forks](https://img.shields.io/github/forks/obsidianmd/obsidian-releases?style=flat-square&color=blue)](https://github.com/obsidianmd/obsidian-releases/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Community plugins list, theme list, and releases of Obsidian.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 19k |
 | 🍴 **Forks** | 7.2k |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ obsidianmd/obsidian-releases 是 Obsidian 社区插件、主题以及官方版�
 | forks | 96/100 |
 | stars | 91/100 |
 | topics | 75/100 |
-| outlook | 84/100 |
-| quality | 93/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 40/100 |
 | adoption | 93/100 |
-| production | 81/100 |
+| production | 61/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

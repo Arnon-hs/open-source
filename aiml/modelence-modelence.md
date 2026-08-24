@@ -1,6 +1,6 @@
 # modelence/modelence
 
-[![Stars](https://img.shields.io/github/stars/modelence/modelence?style=flat-square&color=yellow)](https://github.com/modelence/modelence/stargazers) [![Forks](https://img.shields.io/github/forks/modelence/modelence?style=flat-square&color=blue)](https://github.com/modelence/modelence/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelence/modelence?style=flat-square&color=yellow)](https://github.com/modelence/modelence/stargazers) [![Forks](https://img.shields.io/github/forks/modelence/modelence?style=flat-square&color=blue)](https://github.com/modelence/modelence/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Modelence is a full-stack framework for building production web apps with a built-in database, authentication and monitoring. Modelence is opinionated and AI agent-first, which means it's optimized for AI code generation with built-in guardrails.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 401 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data · Database · Observability
+AI/ML · Frontend · Database · Observability
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ Modelence 是一个全栈框架，提供内置数据库、身份认证和监控�
 | forks | 39/100 |
 | stars | 55/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 90/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

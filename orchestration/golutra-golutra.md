@@ -1,6 +1,6 @@
 # golutra/golutra
 
-[![Stars](https://img.shields.io/github/stars/golutra/golutra?style=flat-square&color=yellow)](https://github.com/golutra/golutra/stargazers) [![Forks](https://img.shields.io/github/forks/golutra/golutra?style=flat-square&color=blue)](https://github.com/golutra/golutra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/golutra/golutra?style=flat-square&color=yellow)](https://github.com/golutra/golutra/stargazers) [![Forks](https://img.shields.io/github/forks/golutra/golutra?style=flat-square&color=blue)](https://github.com/golutra/golutra/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.4k |
 | 🍴 **Forks** | 392 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Automation · AI/ML · DevTools · Database
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -104,14 +104,15 @@ Golutra 是一个基于 Rust 的多代理 AI 编排平台，能够把 Codex、Cl
 | forks | 65/100 |
 | stars | 75/100 |
 | topics | 100/100 |
-| outlook | 93/100 |
-| quality | 88/100 |
-| recency | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 20/100 |
 | adoption | 72/100 |
-| production | 81/100 |
+| production | 55/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

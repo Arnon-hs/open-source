@@ -1,6 +1,6 @@
 # lahfir/agent-desktop
 
-[![Stars](https://img.shields.io/github/stars/lahfir/agent-desktop?style=flat-square&color=yellow)](https://github.com/lahfir/agent-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/lahfir/agent-desktop?style=flat-square&color=blue)](https://github.com/lahfir/agent-desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lahfir/agent-desktop?style=flat-square&color=yellow)](https://github.com/lahfir/agent-desktop/stargazers) [![Forks](https://img.shields.io/github/forks/lahfir/agent-desktop?style=flat-square&color=blue)](https://github.com/lahfir/agent-desktop/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 641 |
 | 🍴 **Forks** | 27 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 71/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -97,14 +97,15 @@ lahfir/agent-desktop 是一款基于 Rust 实现的原生桌面自动化 CLI，�
 | forks | 36/100 |
 | stars | 60/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 81/100 |
+| production | 54/100 |
 | usefulness | 100/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

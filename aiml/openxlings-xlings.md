@@ -1,6 +1,6 @@
 # openxlings/xlings
 
-[![Stars](https://img.shields.io/github/stars/openxlings/xlings?style=flat-square&color=yellow)](https://github.com/openxlings/xlings/stargazers) [![Forks](https://img.shields.io/github/forks/openxlings/xlings?style=flat-square&color=blue)](https://github.com/openxlings/xlings/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openxlings/xlings?style=flat-square&color=yellow)](https://github.com/openxlings/xlings/stargazers) [![Forks](https://img.shields.io/github/forks/openxlings/xlings?style=flat-square&color=blue)](https://github.com/openxlings/xlings/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Highly abstract [ package manager ] - "Multi-version management + Everything can be a package"
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 573 |
 | 🍴 **Forks** | 44 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ openxlings/xlings is a highly abstract package manager that enables seamless mul
 
 ### 中文
 
-openxlings/xlings：openxlings/xlings helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+openxlings/xlings：openxlings/xlings helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ openxlings/xlings：openxlings/xlings helps add AI capability without starting f
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ openxlings/xlings：openxlings/xlings helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 54/100 |
-| stars | 59/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

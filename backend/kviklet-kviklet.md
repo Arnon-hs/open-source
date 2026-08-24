@@ -1,6 +1,6 @@
 # kviklet/kviklet
 
-[![Stars](https://img.shields.io/github/stars/kviklet/kviklet?style=flat-square&color=yellow)](https://github.com/kviklet/kviklet/stargazers) [![Forks](https://img.shields.io/github/forks/kviklet/kviklet?style=flat-square&color=blue)](https://github.com/kviklet/kviklet/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kviklet/kviklet?style=flat-square&color=yellow)](https://github.com/kviklet/kviklet/stargazers) [![Forks](https://img.shields.io/github/forks/kviklet/kviklet?style=flat-square&color=blue)](https://github.com/kviklet/kviklet/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Pull Request-like Review/Approval flow for database queries. For compliant but smooth Engineering access to production.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 607 |
 | 🍴 **Forks** | 39 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data · Database · DevOps/Infra · Security
+Backend · Database · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ kviklet/kviklet 为数据库查询提供类似 Pull Request 的审查/批准流�
 | forks | 40/100 |
 | stars | 59/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 79/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 64/100 |
+| recency | 40/100 |
 | adoption | 54/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

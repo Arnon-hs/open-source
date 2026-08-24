@@ -1,6 +1,6 @@
 # tech-leads-club/agent-skills
 
-[![Stars](https://img.shields.io/github/stars/tech-leads-club/agent-skills?style=flat-square&color=yellow)](https://github.com/tech-leads-club/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tech-leads-club/agent-skills?style=flat-square&color=blue)](https://github.com/tech-leads-club/agent-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tech-leads-club/agent-skills?style=flat-square&color=yellow)](https://github.com/tech-leads-club/agent-skills/stargazers) [![Forks](https://img.shields.io/github/forks/tech-leads-club/agent-skills?style=flat-square&color=blue)](https://github.com/tech-leads-club/agent-skills/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 425 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Marketing
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ tech-leads-club/agent-skills 是一个安全、经过验证的 AI 编码代理�
 | forks | 66/100 |
 | stars | 78/100 |
 | topics | 88/100 |
-| outlook | 84/100 |
-| quality | 87/100 |
-| recency | 100/100 |
+| outlook | 63/100 |
+| quality | 72/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

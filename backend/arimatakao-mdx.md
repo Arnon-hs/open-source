@@ -1,6 +1,6 @@
 # arimatakao/mdx
 
-[![Stars](https://img.shields.io/github/stars/arimatakao/mdx?style=flat-square&color=yellow)](https://github.com/arimatakao/mdx/stargazers) [![Forks](https://img.shields.io/github/forks/arimatakao/mdx?style=flat-square&color=blue)](https://github.com/arimatakao/mdx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arimatakao/mdx?style=flat-square&color=yellow)](https://github.com/arimatakao/mdx/stargazers) [![Forks](https://img.shields.io/github/forks/arimatakao/mdx?style=flat-square&color=blue)](https://github.com/arimatakao/mdx/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > mdx is a command-line interface program for downloading manga from the MangaDex website. The program uses MangaDex API to fetch manga content.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 110 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ Backend · DevTools
 | forks | 21/100 |
 | stars | 44/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Mobile-Artificial-Intelligence/llama_sdk
 
-[![Stars](https://img.shields.io/github/stars/Mobile-Artificial-Intelligence/llama_sdk?style=flat-square&color=yellow)](https://github.com/Mobile-Artificial-Intelligence/llama_sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Mobile-Artificial-Intelligence/llama_sdk?style=flat-square&color=blue)](https://github.com/Mobile-Artificial-Intelligence/llama_sdk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mobile-Artificial-Intelligence/llama_sdk?style=flat-square&color=yellow)](https://github.com/Mobile-Artificial-Intelligence/llama_sdk/stargazers) [![Forks](https://img.shields.io/github/forks/Mobile-Artificial-Intelligence/llama_sdk?style=flat-square&color=blue)](https://github.com/Mobile-Artificial-Intelligence/llama_sdk/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > lcpp is a dart implementation of llama.cpp used by the mobile artificial intelligence distribution (maid)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 118 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Mobile‑Artificial‑Intelligence/llama_sdk — это open‑source библ�
 
 ### 中文
 
-Mobile-Artificial-Intelligence/llama_sdk：Mobile-Artificial-Intelligence/llama_sdk helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Mobile-Artificial-Intelligence/llama_sdk：Mobile-Artificial-Intelligence/llama_sdk helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ Mobile-Artificial-Intelligence/llama_sdk：Mobile-Artificial-Intelligence/llama_
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ Mobile-Artificial-Intelligence/llama_sdk：Mobile-Artificial-Intelligence/llama_
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 42/100 |
-| stars | 44/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

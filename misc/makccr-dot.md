@@ -1,6 +1,6 @@
 # makccr/dot
 
-[![Stars](https://img.shields.io/github/stars/makccr/dot?style=flat-square&color=yellow)](https://github.com/makccr/dot/stargazers) [![Forks](https://img.shields.io/github/forks/makccr/dot?style=flat-square&color=blue)](https://github.com/makccr/dot/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/makccr/dot?style=flat-square&color=yellow)](https://github.com/makccr/dot/stargazers) [![Forks](https://img.shields.io/github/forks/makccr/dot?style=flat-square&color=blue)](https://github.com/makccr/dot/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Dotfiles & repo for any and all application configs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 634 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ The **makccr/dot** repository is a curated collection of personal dotfiles and c
 
 ### 中文
 
-makccr/dot：makccr/dot may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+makccr/dot：makccr/dot may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ makccr/dot：makccr/dot may be useful when its README and activity match a concr
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,16 +64,16 @@ makccr/dot：makccr/dot may be useful when its README and activity match a concr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 56/100 |
-| stars | 60/100 |
 | forks | 46/100 |
-| recency | 40/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

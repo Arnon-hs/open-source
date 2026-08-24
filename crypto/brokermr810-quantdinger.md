@@ -1,6 +1,6 @@
 # brokermr810/QuantDinger
 
-[![Stars](https://img.shields.io/github/stars/brokermr810/QuantDinger?style=flat-square&color=yellow)](https://github.com/brokermr810/QuantDinger/stargazers) [![Forks](https://img.shields.io/github/forks/brokermr810/QuantDinger?style=flat-square&color=blue)](https://github.com/brokermr810/QuantDinger/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brokermr810/QuantDinger?style=flat-square&color=yellow)](https://github.com/brokermr810/QuantDinger/stargazers) [![Forks](https://img.shields.io/github/forks/brokermr810/QuantDinger?style=flat-square&color=blue)](https://github.com/brokermr810/QuantDinger/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading ,trading-agents,ai-trader,ai-trading
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 793 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ brokermr810/QuantDinger：brokermr810/QuantDinger helps prototype or inspect blo
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 73/100 |
+| production | 55/100 |
+| outlook | 66/100 |
 | adoption | 75/100 |
 | stars | 76/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

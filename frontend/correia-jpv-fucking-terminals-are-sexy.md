@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-terminals-are-sexy
 
-[![Stars](https://img.shields.io/github/stars/Correia-jpv/fucking-terminals-are-sexy?style=flat-square&color=yellow)](https://github.com/Correia-jpv/fucking-terminals-are-sexy/stargazers) [![Forks](https://img.shields.io/github/forks/Correia-jpv/fucking-terminals-are-sexy?style=flat-square&color=blue)](https://github.com/Correia-jpv/fucking-terminals-are-sexy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Correia-jpv/fucking-terminals-are-sexy?style=flat-square&color=yellow)](https://github.com/Correia-jpv/fucking-terminals-are-sexy/stargazers) [![Forks](https://img.shields.io/github/forks/Correia-jpv/fucking-terminals-are-sexy?style=flat-square&color=blue)](https://github.com/Correia-jpv/fucking-terminals-are-sexy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. With repository stars⭐ and forks🍴
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ This repository is a curated collection of terminal‑focused frameworks, plugin
 
 ### 中文
 
-Correia-jpv/fucking-terminals-are-sexy：Correia-jpv/fucking-terminals-are-sexy helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Correia-jpv/fucking-terminals-are-sexy：Correia-jpv/fucking-terminals-are-sexy helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ Correia-jpv/fucking-terminals-are-sexy：Correia-jpv/fucking-terminals-are-sexy 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,16 +66,16 @@ Correia-jpv/fucking-terminals-are-sexy：Correia-jpv/fucking-terminals-are-sexy 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 31/100 |
-| stars | 38/100 |
 | forks | 15/100 |
-| recency | 40/100 |
+| stars | 38/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

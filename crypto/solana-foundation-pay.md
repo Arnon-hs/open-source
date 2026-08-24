@@ -1,6 +1,6 @@
 # solana-foundation/pay
 
-[![Stars](https://img.shields.io/github/stars/solana-foundation/pay?style=flat-square&color=yellow)](https://github.com/solana-foundation/pay/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/pay?style=flat-square&color=blue)](https://github.com/solana-foundation/pay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solana-foundation/pay?style=flat-square&color=yellow)](https://github.com/solana-foundation/pay/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/pay?style=flat-square&color=blue)](https://github.com/solana-foundation/pay/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Let your agents pay for any API
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 556 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto
 
 ## 📝 Summary
 
@@ -113,14 +113,15 @@ In summary, solana‑foundation/pay offers a practical, open foundation for buil
 | forks | 69/100 |
 | stars | 69/100 |
 | topics | 0/100 |
-| outlook | 77/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 51/100 |
+| recency | 20/100 |
 | adoption | 69/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

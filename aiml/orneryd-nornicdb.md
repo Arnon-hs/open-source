@@ -1,6 +1,6 @@
 # orneryd/NornicDB
 
-[![Stars](https://img.shields.io/github/stars/orneryd/NornicDB?style=flat-square&color=yellow)](https://github.com/orneryd/NornicDB/stargazers) [![Forks](https://img.shields.io/github/forks/orneryd/NornicDB?style=flat-square&color=blue)](https://github.com/orneryd/NornicDB/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orneryd/NornicDB?style=flat-square&color=yellow)](https://github.com/orneryd/NornicDB/stargazers) [![Forks](https://img.shields.io/github/forks/orneryd/NornicDB?style=flat-square&color=blue)](https://github.com/orneryd/NornicDB/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no changes. Then, adding intelligent features like schemas, managed embeddings, LLM reranking+inferrence, GPU accel, Auto-TLP, Memory Decay, and MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 721 |
 | 🍴 **Forks** | 36 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ orneryd/NornicDB：orneryd/NornicDB helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 66/100 |
+| production | 54/100 |
+| outlook | 59/100 |
 | adoption | 55/100 |
 | stars | 61/100 |
 | forks | 39/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

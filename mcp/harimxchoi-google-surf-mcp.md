@@ -1,6 +1,6 @@
 # HarimxChoi/google-surf-mcp
 
-[![Stars](https://img.shields.io/github/stars/HarimxChoi/google-surf-mcp?style=flat-square&color=yellow)](https://github.com/HarimxChoi/google-surf-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/HarimxChoi/google-surf-mcp?style=flat-square&color=blue)](https://github.com/HarimxChoi/google-surf-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HarimxChoi/google-surf-mcp?style=flat-square&color=yellow)](https://github.com/HarimxChoi/google-surf-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/HarimxChoi/google-surf-mcp?style=flat-square&color=blue)](https://github.com/HarimxChoi/google-surf-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > ✨Anti-Bot Search MCP: No API Key✨
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 152 |
 | 🍴 **Forks** | 22 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | 2026-05-14 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -104,14 +104,15 @@ HarimxChoi/google‑surf‑mcp 是一款「零 API Key」的 Anti‑Bot Search M
 | forks | 34/100 |
 | stars | 46/100 |
 | topics | 88/100 |
-| outlook | 79/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
 | adoption | 43/100 |
-| production | 80/100 |
+| production | 54/100 |
 | usefulness | 74/100 |
 | integration | 94/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

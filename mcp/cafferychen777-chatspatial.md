@@ -1,6 +1,6 @@
 # cafferychen777/ChatSpatial
 
-[![Stars](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=flat-square&color=yellow)](https://github.com/cafferychen777/ChatSpatial/stargazers) [![Forks](https://img.shields.io/github/forks/cafferychen777/ChatSpatial?style=flat-square&color=blue)](https://github.com/cafferychen777/ChatSpatial/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=flat-square&color=yellow)](https://github.com/cafferychen777/ChatSpatial/stargazers) [![Forks](https://img.shields.io/github/forks/cafferychen777/ChatSpatial?style=flat-square&color=blue)](https://github.com/cafferychen777/ChatSpatial/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for spatial transcriptomics analysis through natural language interfaces.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · Database
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ cafferychen777/ChatSpatial 是一个基于 Model Context Protocol（MCP）的服
 | forks | 24/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 69/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 49/100 |
+| recency | 20/100 |
 | adoption | 31/100 |
-| production | 75/100 |
+| production | 48/100 |
 | usefulness | 74/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

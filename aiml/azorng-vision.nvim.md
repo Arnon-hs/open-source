@@ -1,6 +1,6 @@
 # azorng/vision.nvim
 
-[![Stars](https://img.shields.io/github/stars/azorng/vision.nvim?style=flat-square&color=yellow)](https://github.com/azorng/vision.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/azorng/vision.nvim?style=flat-square&color=blue)](https://github.com/azorng/vision.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/azorng/vision.nvim?style=flat-square&color=yellow)](https://github.com/azorng/vision.nvim/stargazers) [![Forks](https://img.shields.io/github/forks/azorng/vision.nvim?style=flat-square&color=blue)](https://github.com/azorng/vision.nvim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > share your neovim context with agents through visual mode
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-05-11 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -108,14 +108,15 @@ azorng/vision.nvim 是一个 Neovim 插件，能够在可视化模式下将编�
 | forks | 0/100 |
 | stars | 31/100 |
 | topics | 88/100 |
-| outlook | 71/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 43/100 |
+| quality | 43/100 |
+| recency | 20/100 |
 | adoption | 23/100 |
-| production | 70/100 |
+| production | 44/100 |
 | usefulness | 58/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

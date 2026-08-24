@@ -1,6 +1,6 @@
 # saksham2001/PulseLoopiOS
 
-[![Stars](https://img.shields.io/github/stars/saksham2001/PulseLoopiOS?style=flat-square&color=yellow)](https://github.com/saksham2001/PulseLoopiOS/stargazers) [![Forks](https://img.shields.io/github/forks/saksham2001/PulseLoopiOS?style=flat-square&color=blue)](https://github.com/saksham2001/PulseLoopiOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saksham2001/PulseLoopiOS?style=flat-square&color=yellow)](https://github.com/saksham2001/PulseLoopiOS/stargazers) [![Forks](https://img.shields.io/github/forks/saksham2001/PulseLoopiOS?style=flat-square&color=blue)](https://github.com/saksham2001/PulseLoopiOS/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A privacy-first, subscription-free health tracker for affordable wearables.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 242 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ Overall, PulseLoopiOS offers a quick, cost‑effective way to embed privacy‑pr
 | forks | 38/100 |
 | stars | 51/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 61/100 |
+| recency | 40/100 |
 | adoption | 47/100 |
-| production | 73/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

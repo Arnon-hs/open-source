@@ -1,6 +1,6 @@
 # htop-dev/htop
 
-[![Stars](https://img.shields.io/github/stars/htop-dev/htop?style=flat-square&color=yellow)](https://github.com/htop-dev/htop/stargazers) [![Forks](https://img.shields.io/github/forks/htop-dev/htop?style=flat-square&color=blue)](https://github.com/htop-dev/htop/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/htop-dev/htop?style=flat-square&color=yellow)](https://github.com/htop-dev/htop/stargazers) [![Forks](https://img.shields.io/github/forks/htop-dev/htop?style=flat-square&color=blue)](https://github.com/htop-dev/htop/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > htop - an interactive process viewer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8k |
 | 🍴 **Forks** | 588 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ htop-dev/htop：htop-dev/htop may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 79/100 |
-| stars | 83/100 |
 | forks | 69/100 |
-| recency | 40/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

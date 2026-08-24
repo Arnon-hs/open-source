@@ -1,6 +1,6 @@
 # OpenBB-finance/OpenBB
 
-[![Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square&color=yellow)](https://github.com/OpenBB-finance/OpenBB/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBB-finance/OpenBB?style=flat-square&color=blue)](https://github.com/OpenBB-finance/OpenBB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat-square&color=yellow)](https://github.com/OpenBB-finance/OpenBB/stargazers) [![Forks](https://img.shields.io/github/forks/OpenBB-finance/OpenBB?style=flat-square&color=blue)](https://github.com/OpenBB-finance/OpenBB/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Financial data platform for analysts, quants and AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 67.1k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML
+Crypto · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ OpenBB-finance/OpenBB: OpenBB-finance/OpenBB helps prototype or inspect blockcha
 
 ### Русский
 
-OpenBB-finance/OpenBB: open-source проект в категориях Crypto, Trading, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+OpenBB-finance/OpenBB: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ OpenBB-finance/OpenBB：OpenBB-finance/OpenBB helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 84/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 70/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 96/100 |
-| recency | 40/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

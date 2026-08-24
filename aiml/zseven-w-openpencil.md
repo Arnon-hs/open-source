@@ -1,6 +1,6 @@
 # ZSeven-W/openpencil
 
-[![Stars](https://img.shields.io/github/stars/ZSeven-W/openpencil?style=flat-square&color=yellow)](https://github.com/ZSeven-W/openpencil/stargazers) [![Forks](https://img.shields.io/github/forks/ZSeven-W/openpencil?style=flat-square&color=blue)](https://github.com/ZSeven-W/openpencil/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZSeven-W/openpencil?style=flat-square&color=yellow)](https://github.com/ZSeven-W/openpencil/stargazers) [![Forks](https://img.shields.io/github/forks/ZSeven-W/openpencil?style=flat-square&color=blue)](https://github.com/ZSeven-W/openpencil/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 249 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ ZSeven-W/openpencil：ZSeven-W/openpencil helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 69/100 |
+| production | 54/100 |
+| outlook | 62/100 |
 | adoption | 69/100 |
 | stars | 72/100 |
 | forks | 60/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

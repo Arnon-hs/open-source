@@ -1,6 +1,6 @@
 # apache/camel-examples
 
-[![Stars](https://img.shields.io/github/stars/apache/camel-examples?style=flat-square&color=yellow)](https://github.com/apache/camel-examples/stargazers) [![Forks](https://img.shields.io/github/forks/apache/camel-examples?style=flat-square&color=blue)](https://github.com/apache/camel-examples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apache/camel-examples?style=flat-square&color=yellow)](https://github.com/apache/camel-examples/stargazers) [![Forks](https://img.shields.io/github/forks/apache/camel-examples?style=flat-square&color=blue)](https://github.com/apache/camel-examples/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Apache Camel Examples
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 478 |
 | 🍴 **Forks** | 381 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend · Data · Database
+MCP · Backend · Data · Education
 
 ## 📝 Summary
 
@@ -107,14 +107,15 @@ Apache Camel Examples（`apache/camel-examples`）是 Apache Camel 官方�
 | forks | 65/100 |
 | stars | 57/100 |
 | topics | 100/100 |
-| outlook | 90/100 |
-| quality | 82/100 |
-| recency | 100/100 |
+| outlook | 69/100 |
+| quality | 67/100 |
+| recency | 40/100 |
 | adoption | 59/100 |
-| production | 79/100 |
+| production | 59/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

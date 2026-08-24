@@ -1,6 +1,6 @@
 # marcpope/borgbackupserver
 
-[![Stars](https://img.shields.io/github/stars/marcpope/borgbackupserver?style=flat-square&color=yellow)](https://github.com/marcpope/borgbackupserver/stargazers) [![Forks](https://img.shields.io/github/forks/marcpope/borgbackupserver?style=flat-square&color=blue)](https://github.com/marcpope/borgbackupserver/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcpope/borgbackupserver?style=flat-square&color=yellow)](https://github.com/marcpope/borgbackupserver/stargazers) [![Forks](https://img.shields.io/github/forks/marcpope/borgbackupserver?style=flat-square&color=blue)](https://github.com/marcpope/borgbackupserver/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A GUI Manager for Multiple Borg Endpoints. Manage backup schedules, restores and much more.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 219 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 60/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend
 
 ## 📝 Summary
 
@@ -110,14 +110,15 @@ marcpope/borgbackupserver 是一款基于 Web 的 GUI 管理工具，能够统�
 | forks | 29/100 |
 | stars | 50/100 |
 | topics | 100/100 |
-| outlook | 78/100 |
-| quality | 75/100 |
-| recency | 100/100 |
+| outlook | 57/100 |
+| quality | 60/100 |
+| recency | 40/100 |
 | adoption | 44/100 |
-| production | 72/100 |
+| production | 53/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

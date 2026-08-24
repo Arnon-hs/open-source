@@ -1,6 +1,6 @@
 # xmake-io/xmake-repo
 
-[![Stars](https://img.shields.io/github/stars/xmake-io/xmake-repo?style=flat-square&color=yellow)](https://github.com/xmake-io/xmake-repo/stargazers) [![Forks](https://img.shields.io/github/forks/xmake-io/xmake-repo?style=flat-square&color=blue)](https://github.com/xmake-io/xmake-repo/network) [![Language](https://img.shields.io/badge/lang-Xmake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xmake-io/xmake-repo?style=flat-square&color=yellow)](https://github.com/xmake-io/xmake-repo/stargazers) [![Forks](https://img.shields.io/github/forks/xmake-io/xmake-repo?style=flat-square&color=blue)](https://github.com/xmake-io/xmake-repo/network) [![Language](https://img.shields.io/badge/lang-Xmake-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 📦 An official xmake package repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 907 |
 | 🍴 **Forks** | 517 |
 | 💻 **Language** | Xmake |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ xmake‑repo is the official package repository for the xmake build system, prov
 
 ### 中文
 
-xmake-io/xmake-repo：xmake-io/xmake-repo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+xmake-io/xmake-repo：xmake-io/xmake-repo helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ xmake-io/xmake-repo：xmake-io/xmake-repo helps ship user-facing interfaces with
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ xmake-io/xmake-repo：xmake-io/xmake-repo helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 64/100 |
 | stars | 63/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

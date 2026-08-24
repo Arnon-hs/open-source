@@ -1,6 +1,6 @@
 # liebaojun/MakoCode
 
-[![Stars](https://img.shields.io/github/stars/liebaojun/MakoCode?style=flat-square&color=yellow)](https://github.com/liebaojun/MakoCode/stargazers) [![Forks](https://img.shields.io/github/forks/liebaojun/MakoCode?style=flat-square&color=blue)](https://github.com/liebaojun/MakoCode/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/liebaojun/MakoCode?style=flat-square&color=yellow)](https://github.com/liebaojun/MakoCode/stargazers) [![Forks](https://img.shields.io/github/forks/liebaojun/MakoCode?style=flat-square&color=blue)](https://github.com/liebaojun/MakoCode/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > MakoCode — 茉子版 Agent | Galgame 风格桌面 AI Agent，零门槛体验 Agent 的乐趣
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 68 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -143,14 +143,15 @@ MakoCode（liebaojun/MakoCode）是一款基于 Galgame 风格的桌面 AI Agent
 | forks | 19/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 54/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

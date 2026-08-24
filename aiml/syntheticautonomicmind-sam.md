@@ -1,6 +1,6 @@
 # SyntheticAutonomicMind/SAM
 
-[![Stars](https://img.shields.io/github/stars/SyntheticAutonomicMind/SAM?style=flat-square&color=yellow)](https://github.com/SyntheticAutonomicMind/SAM/stargazers) [![Forks](https://img.shields.io/github/forks/SyntheticAutonomicMind/SAM?style=flat-square&color=blue)](https://github.com/SyntheticAutonomicMind/SAM/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SyntheticAutonomicMind/SAM?style=flat-square&color=yellow)](https://github.com/SyntheticAutonomicMind/SAM/stargazers) [![Forks](https://img.shields.io/github/forks/SyntheticAutonomicMind/SAM?style=flat-square&color=blue)](https://github.com/SyntheticAutonomicMind/SAM/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Synthetic Autonomic Mind - An AI assistant for everyone.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 123 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ SyntheticAutonomicMind (SAM) — open‑source AI‑ассистент, пр
 
 ### 中文
 
-SyntheticAutonomicMind/SAM：SyntheticAutonomicMind/SAM helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SyntheticAutonomicMind/SAM：SyntheticAutonomicMind/SAM helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ SyntheticAutonomicMind/SAM：SyntheticAutonomicMind/SAM helps add AI capability 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ SyntheticAutonomicMind/SAM：SyntheticAutonomicMind/SAM helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 55/100 |
-| adoption | 37/100 |
-| stars | 45/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

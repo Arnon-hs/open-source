@@ -1,6 +1,6 @@
 # 4xmen/xshop
 
-[![Stars](https://img.shields.io/github/stars/4xmen/xshop?style=flat-square&color=yellow)](https://github.com/4xmen/xshop/stargazers) [![Forks](https://img.shields.io/github/forks/4xmen/xshop?style=flat-square&color=blue)](https://github.com/4xmen/xshop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/4xmen/xshop?style=flat-square&color=yellow)](https://github.com/4xmen/xshop/stargazers) [![Forks](https://img.shields.io/github/forks/4xmen/xshop?style=flat-square&color=blue)](https://github.com/4xmen/xshop/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Very customizable and easy to use shopping system, open source project based on laravel
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 63/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -94,14 +94,15 @@ AI/ML · Frontend
 | forks | 56/100 |
 | stars | 58/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 74/100 |
+| production | 55/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

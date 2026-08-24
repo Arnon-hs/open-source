@@ -1,6 +1,6 @@
 # exelban/stats
 
-[![Stars](https://img.shields.io/github/stars/exelban/stats?style=flat-square&color=yellow)](https://github.com/exelban/stats/stargazers) [![Forks](https://img.shields.io/github/forks/exelban/stats?style=flat-square&color=blue)](https://github.com/exelban/stats/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/exelban/stats?style=flat-square&color=yellow)](https://github.com/exelban/stats/stargazers) [![Forks](https://img.shields.io/github/forks/exelban/stats?style=flat-square&color=blue)](https://github.com/exelban/stats/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > macOS system monitor in your menu bar
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 38.6k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -63,16 +63,16 @@ exelban/stats：exelban/stats may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 81/100 |
-| integration | 30/100 |
-| production | 60/100 |
-| outlook | 69/100 |
-| adoption | 92/100 |
-| stars | 98/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

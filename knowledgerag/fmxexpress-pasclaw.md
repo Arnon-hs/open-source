@@ -1,6 +1,6 @@
 # FMXExpress/PasClaw
 
-[![Stars](https://img.shields.io/github/stars/FMXExpress/PasClaw?style=flat-square&color=yellow)](https://github.com/FMXExpress/PasClaw/stargazers) [![Forks](https://img.shields.io/github/forks/FMXExpress/PasClaw?style=flat-square&color=blue)](https://github.com/FMXExpress/PasClaw/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FMXExpress/PasClaw?style=flat-square&color=yellow)](https://github.com/FMXExpress/PasClaw/stargazers) [![Forks](https://img.shields.io/github/forks/FMXExpress/PasClaw?style=flat-square&color=blue)](https://github.com/FMXExpress/PasClaw/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent in Delphi Object Pascal
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -109,14 +109,15 @@ FMXExpress/PasClaw 是一款基于 Delphi Object Pascal 的 AI Agent 框架，�
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 70/100 |
+| production | 50/100 |
 | usefulness | 74/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

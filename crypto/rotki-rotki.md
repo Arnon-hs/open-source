@@ -1,6 +1,6 @@
 # rotki/rotki
 
-[![Stars](https://img.shields.io/github/stars/rotki/rotki?style=flat-square&color=yellow)](https://github.com/rotki/rotki/stargazers) [![Forks](https://img.shields.io/github/forks/rotki/rotki?style=flat-square&color=blue)](https://github.com/rotki/rotki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rotki/rotki?style=flat-square&color=yellow)](https://github.com/rotki/rotki/stargazers) [![Forks](https://img.shields.io/github/forks/rotki/rotki?style=flat-square&color=blue)](https://github.com/rotki/rotki/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A portfolio tracking, analytics, accounting and management application that protects your privacy
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 739 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML · Data
+Crypto · Data
 
 ## 📝 Summary
 
@@ -112,14 +112,15 @@ rotki/rotki 的生产可用性是较高的，主要原因是：
 | forks | 72/100 |
 | stars | 76/100 |
 | topics | 100/100 |
-| outlook | 82/100 |
-| quality | 89/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 74/100 |
+| recency | 40/100 |
 | adoption | 75/100 |
-| production | 80/100 |
+| production | 60/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

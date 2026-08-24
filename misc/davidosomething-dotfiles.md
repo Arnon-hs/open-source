@@ -1,6 +1,6 @@
 # davidosomething/dotfiles
 
-[![Stars](https://img.shields.io/github/stars/davidosomething/dotfiles?style=flat-square&color=yellow)](https://github.com/davidosomething/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/davidosomething/dotfiles?style=flat-square&color=blue)](https://github.com/davidosomething/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davidosomething/dotfiles?style=flat-square&color=yellow)](https://github.com/davidosomething/dotfiles/stargazers) [![Forks](https://img.shields.io/github/forks/davidosomething/dotfiles?style=flat-square&color=blue)](https://github.com/davidosomething/dotfiles/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > mac OS, Arch Linux, and Debian/Ubuntu + Neovim
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 363 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -110,14 +110,15 @@ Proceed with a small pilot (e.g., a single developer’s workstation) to evaluat
 | forks | 33/100 |
 | stars | 55/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 48/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 73/100 |
+| production | 47/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

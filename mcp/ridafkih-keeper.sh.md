@@ -1,6 +1,6 @@
 # ridafkih/keeper.sh
 
-[![Stars](https://img.shields.io/github/stars/ridafkih/keeper.sh?style=flat-square&color=yellow)](https://github.com/ridafkih/keeper.sh/stargazers) [![Forks](https://img.shields.io/github/forks/ridafkih/keeper.sh?style=flat-square&color=blue)](https://github.com/ridafkih/keeper.sh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ridafkih/keeper.sh?style=flat-square&color=yellow)](https://github.com/ridafkih/keeper.sh/stargazers) [![Forks](https://img.shields.io/github/forks/ridafkih/keeper.sh?style=flat-square&color=blue)](https://github.com/ridafkih/keeper.sh/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365, iCloud, CalDAV or ICS.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -101,14 +101,15 @@ The project shows strong OSS maturity: 1,173 GitHub stars, recent activity (last
 | forks | 40/100 |
 | stars | 65/100 |
 | topics | 100/100 |
-| outlook | 88/100 |
-| quality | 81/100 |
-| recency | 100/100 |
+| outlook | 67/100 |
+| quality | 66/100 |
+| recency | 40/100 |
 | adoption | 58/100 |
-| production | 81/100 |
+| production | 62/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

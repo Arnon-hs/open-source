@@ -1,99 +1,143 @@
-# 🌟 Open Scout Catalog
+# AtlasRepo Open Source Catalog
 
-> Auto-curated catalog of promising open-source projects.
-> Scouted from GitHub · HackerNews · Reddit · ProductHunt. Updated every 30 minutes by [RepoScout](https://github.com/kirbudilov01/reposearchengine).
+**Evidence-backed open-source search for coding agents.**
 
----
+[Documentation](https://atlasrepo.com/docs) · [Hosted MCP](https://mcp.atlasrepo.com/mcp) · [npm](https://www.npmjs.com/package/atlasrepo-mcp) · [Skills](https://github.com/Arnon-hs/atlasrepo-skills)
 
-## 📊 At a glance
+> A living, auto-curated catalog of open-source projects, enriched with practical summaries, categories, quality signals and transparent scoring.
+
+## Purpose
+
+This repository turns a fast-moving open-source ecosystem into a browsable and machine-readable decision layer. Use it to discover candidates, compare practical fit and give coding agents grounded starting points before deeper technical, security and license review.
+
+## At a glance
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **16024** |
-| 📁 **Categories** | **22** |
-| 🔄 **Auto-sync** | every 30 min via GitHub Actions |
-| 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
+| **Projects** | **33019** |
+| **Categories** | **28** |
+| **Refresh** | Continuously maintained by AtlasRepo Scout |
+| **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
-## 🗂️ Categories
+## Browse the catalog
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4878 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2931 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1469 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1308 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 873 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 811 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 681 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 586 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 527 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 362 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 333 | [Browse →](./data/) |
-| 🏷️ **Database** | 271 | [Browse →](./database/) |
-| 💳 **Payments** | 209 | [Browse →](./payments/) |
-| 📱 **Mobile** | 192 | [Browse →](./mobile/) |
-| 📈 **Trading** | 186 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 115 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 101 | [Browse →](./security/) |
-| ✨ **Design** | 48 | [Browse →](./design/) |
-| 🏷️ **Education** | 47 | [Browse →](./education/) |
-| 🏷️ **Observability** | 46 | [Browse →](./observability/) |
-| 🎯 **Product** | 27 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 23 | [Browse →](./marketing/) |
+| 📦 **Misc** | 14804 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3247 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2520 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2173 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 1334 | [Browse →](./devtools/) |
+| 🏷️ **Automation** | 1215 | [Browse →](./automation/) |
+| 🎨 **Frontend** | 961 | [Browse →](./frontend/) |
+| ⚙️ **Backend** | 889 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 748 | [Browse →](./crypto/) |
+| 📱 **Mobile** | 701 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 603 | [Browse →](./devopsinfra/) |
+| 🏷️ **Database** | 568 | [Browse →](./database/) |
+| 🏷️ **Knowledgerag** | 551 | [Browse →](./knowledgerag/) |
+| 🏷️ **Templates** | 407 | [Browse →](./templates/) |
+| 📊 **Data** | 388 | [Browse →](./data/) |
+| 🔐 **Security** | 383 | [Browse →](./security/) |
+| 🏷️ **Observability** | 334 | [Browse →](./observability/) |
+| 💳 **Payments** | 296 | [Browse →](./payments/) |
+| 🏷️ **Video-editing** | 267 | [Browse →](./video-editing/) |
+| 📈 **Trading** | 181 | [Browse →](./trading/) |
+| ✨ **Design** | 160 | [Browse →](./design/) |
+| 🏷️ **Content-creation** | 122 | [Browse →](./content-creation/) |
+| 🏷️ **Vertical-video** | 68 | [Browse →](./vertical-video/) |
+| 🏷️ **Education** | 45 | [Browse →](./education/) |
+| 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
+| 🎯 **Product** | 8 | [Browse →](./product/) |
+| 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Ai** | 1 | [Browse →](./ai/) |
 
-## 🔥 Top 10 by score
+## Top projects by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [cheshire-cat-ai/core](./mcp/cheshire-cat-ai-core.md) | ⭐ 3.1k | Mcp |
-| 10 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 1 | [jipraks/yt-short-clipper](./vertical-video/jipraks-yt-short-clipper.md) | ⭐ 964 | Vertical-video |
+| 2 | [IgorShadurin/app.yumcut.com](./vertical-video/igorshadurin-app.yumcut.com.md) | ⭐ 855 | Vertical-video |
+| 3 | [chengzuopeng/stock-sdk](./trading/chengzuopeng-stock-sdk.md) | ⭐ 1.9k | Trading |
+| 4 | [wassim249/fastapi-langgraph-agent-production-ready-template](./templates/wassim249-fastapi-langgraph-agent-production-ready-template.md) | ⭐ 2.6k | Templates |
+| 5 | [fastapi/full-stack-fastapi-template](./templates/fastapi-full-stack-fastapi-template.md) | ⭐ 44.7k | Templates |
+| 6 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.6k | Orchestration |
+| 7 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 8 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 9 | [coze-dev/coze-studio](./knowledgerag/coze-dev-coze-studio.md) | ⭐ 21.3k | Knowledgerag |
+| 10 | [wasp-lang/open-saas](./templates/wasp-lang-open-saas.md) | ⭐ 14.9k | Templates |
 
-## 🚀 How it works
+## What each entry includes
+
+| Signal | Why it matters |
+|---|---|
+| Repository activity | Stars, forks, language and last update provide a quick health snapshot |
+| Practical summary | Concise English, Russian and Chinese context for faster evaluation |
+| Fit and readiness | Use cases, integration notes, quality signals and production-readiness notes |
+| Transparent score | A directional breakdown across usefulness, quality, integration, readiness, outlook and adoption |
+
+## How it works
 
 ```mermaid
 graph LR
-  A[GitHub · HN · Reddit · PH] --> B[RepoScout]
+  A[Approved discovery sources] --> B[AtlasRepo Scout]
   B --> C[Score · Dedupe · Categorize]
-  C --> D[LLM Summarize]
-  D --> E[PostgreSQL DB]
-  D --> F[This Catalog]
+  C --> D[Summarize · Enrich]
+  D --> E[AtlasRepo platform]
+  D --> F[Open catalog]
 ```
 
-1. **Discover** — 4 sources pulled in parallel
-2. **Score** — weighted: usefulness, quality, integration, production readiness, outlook, adoption
-3. **Categorize** — rule-based tagging across product domains, integrations, MCP, RAG, automation and infrastructure
-4. **Summarize** — concise RU/EN/ZH summaries via LLM with deterministic fallback
-5. **Sync** — markdown committed here, metadata upserted to PostgreSQL
+1. **Discover** — collect candidates from approved public sources.
+2. **Normalize** — deduplicate repositories and standardize metadata.
+3. **Evaluate** — score practical value, quality, integration fit, readiness, outlook and adoption.
+4. **Enrich** — add categories, summaries, use cases, quality signals and risk notes.
+5. **Publish** — update the AtlasRepo platform and this open catalog.
 
-## 🛠️ Self-host
+## Install
+
+### ChatGPT — hosted MCP plugin
+
+1. Open **Settings → Security and login** and enable **Developer mode**.
+2. Open [ChatGPT Plugins](https://chatgpt.com/#settings/Plugins), select **+**, and create a connection named `AtlasRepo`.
+3. Set the MCP endpoint to `https://mcp.atlasrepo.com/mcp`, create the connection, and review the discovered read-only tools.
+
+Developer mode availability depends on your account and workspace policy. See the [official OpenAI connection guide](https://developers.openai.com/plugins/deploy/connect-chatgpt).
+
+### Claude Code
+
+Plugin:
+
+```text
+/plugin marketplace add Arnon-hs/atlasrepo-skills
+/plugin install atlasrepo@atlasrepo-skills
+/reload-plugins
+```
+
+Hosted MCP only:
 
 ```bash
-git clone https://github.com/kirbudilov01/reposearchengine
-cp .env.example .env
-# Set LLM_PROVIDER, CATALOG_REPO_PATH, DATABASE_URL, ...
-npm install && npm start
+claude mcp add --transport http atlasrepo https://mcp.atlasrepo.com/mcp
 ```
 
-Supports cloud LLM providers (OpenAI · Anthropic · OpenRouter · Gemini · Groq · Z.AI).
+Local npm MCP instead:
 
-## 📦 Data format
+```bash
+claude mcp add --transport stdio atlasrepo -- npx -y atlasrepo-mcp
+```
 
-- [`index.json`](./index.json) — full catalog sorted by score
-- `<category>/README.md` — category index with ranked table
-- `<category>/<owner>-<name>.md` — per-repo card with stats, topics, summary
+Browse the [AtlasRepo Skills repository](https://github.com/Arnon-hs/atlasrepo-skills) or inspect the [`scout-rest-api` skill source](https://github.com/Arnon-hs/atlasrepo-skills/tree/main/plugins/atlasrepo/skills/scout-rest-api). Claude plugin commands follow the [official marketplace flow](https://code.claude.com/docs/en/discover-plugins); MCP-only commands follow the [official Claude MCP syntax](https://code.claude.com/docs/en/mcp).
 
-## 📜 License
+## Data contract
 
-MIT (metadata). Each linked repository retains its own license.
+- [`index.json`](./index.json) — machine-readable entry point, either a complete sorted index or a shard manifest for large snapshots.
+- `data/repos-*.json` — machine-readable catalog shards when sharding is enabled.
+- `<category>/README.md` — ranked category index.
+- `<category>/<owner>-<name>.md` — human-readable project card with evidence and evaluation metadata.
 
----
+## Trust boundary
 
-<sub>🤖 Maintained automatically by RepoScout · Built with Claude Code</sub>
+Catalog records, scores, summaries and external installation commands are discovery aids, not endorsements or security guarantees. Verify repository ownership, current maintenance, dependencies, license compatibility and installation steps before adoption.
+
+## License
+
+MIT for this repository's catalog metadata. See [LICENSE](./LICENSE). Linked repositories remain governed by their respective licenses.

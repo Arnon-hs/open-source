@@ -1,6 +1,6 @@
 # openshift/release
 
-[![Stars](https://img.shields.io/github/stars/openshift/release?style=flat-square&color=yellow)](https://github.com/openshift/release/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/release?style=flat-square&color=blue)](https://github.com/openshift/release/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openshift/release?style=flat-square&color=yellow)](https://github.com/openshift/release/stargazers) [![Forks](https://img.shields.io/github/forks/openshift/release?style=flat-square&color=blue)](https://github.com/openshift/release/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Release tooling for OpenShift
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 313 |
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -67,14 +67,14 @@ openshift/release：openshift/release helps engineers save time in daily develop
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 51/100 |
+| production | 43/100 |
+| outlook | 44/100 |
 | adoption | 62/100 |
 | stars | 53/100 |
 | forks | 84/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

@@ -1,6 +1,6 @@
 # stripe/stripe-python
 
-[![Stars](https://img.shields.io/github/stars/stripe/stripe-python?style=flat-square&color=yellow)](https://github.com/stripe/stripe-python/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-python?style=flat-square&color=blue)](https://github.com/stripe/stripe-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stripe/stripe-python?style=flat-square&color=yellow)](https://github.com/stripe/stripe-python/stargazers) [![Forks](https://img.shields.io/github/forks/stripe/stripe-python?style=flat-square&color=blue)](https://github.com/stripe/stripe-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Python library for the Stripe API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 515 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ stripe/stripe-python: stripe/stripe-python helps integrate monetization, billing
 
 ### Русский
 
-stripe/stripe-python: open-source проект в категориях Payments, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+stripe/stripe-python: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ stripe/stripe-python：stripe/stripe-python helps integrate monetization, billin
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 59/100 |
-| adoption | 70/100 |
-| stars | 70/100 |
 | forks | 68/100 |
-| recency | 40/100 |
+| stars | 70/100 |
 | topics | 25/100 |
+| outlook | 52/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

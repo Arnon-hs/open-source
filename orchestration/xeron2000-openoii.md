@@ -1,6 +1,6 @@
 # Xeron2000/openOii
 
-[![Stars](https://img.shields.io/github/stars/Xeron2000/openOii?style=flat-square&color=yellow)](https://github.com/Xeron2000/openOii/stargazers) [![Forks](https://img.shields.io/github/forks/Xeron2000/openOii?style=flat-square&color=blue)](https://github.com/Xeron2000/openOii/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Xeron2000/openOii?style=flat-square&color=yellow)](https://github.com/Xeron2000/openOii/stargazers) [![Forks](https://img.shields.io/github/forks/Xeron2000/openOii?style=flat-square&color=blue)](https://github.com/Xeron2000/openOii/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 基于多智能体协作的 AI 漫剧生成平台 | AI Agent-based Comic Drama Generation Platform
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 299 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ Xeron2000/openOii：Xeron2000/openOii helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 51/100 |
 | stars | 53/100 |
 | forks | 48/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

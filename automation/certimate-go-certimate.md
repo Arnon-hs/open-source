@@ -1,6 +1,6 @@
 # certimate-go/certimate
 
-[![Stars](https://img.shields.io/github/stars/certimate-go/certimate?style=flat-square&color=yellow)](https://github.com/certimate-go/certimate/stargazers) [![Forks](https://img.shields.io/github/forks/certimate-go/certimate?style=flat-square&color=blue)](https://github.com/certimate-go/certimate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/certimate-go/certimate?style=flat-square&color=yellow)](https://github.com/certimate-go/certimate/stargazers) [![Forks](https://img.shields.io/github/forks/certimate-go/certimate?style=flat-square&color=blue)](https://github.com/certimate-go/certimate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 8.8k |
 | 🍴 **Forks** | 846 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · DevTools · Observability
+Automation · Observability
 
 ## 📝 Summary
 
@@ -100,14 +100,15 @@ certimate‑go/certimate 通过统一的可视化界面和完整的 API/CLI，�
 | forks | 73/100 |
 | stars | 84/100 |
 | topics | 100/100 |
-| outlook | 95/100 |
-| quality | 91/100 |
-| recency | 100/100 |
+| outlook | 74/100 |
+| quality | 76/100 |
+| recency | 40/100 |
 | adoption | 81/100 |
-| production | 83/100 |
+| production | 63/100 |
 | usefulness | 100/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

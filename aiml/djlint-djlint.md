@@ -1,6 +1,6 @@
 # djlint/djLint
 
-[![Stars](https://img.shields.io/github/stars/djlint/djLint?style=flat-square&color=yellow)](https://github.com/djlint/djLint/stargazers) [![Forks](https://img.shields.io/github/forks/djlint/djLint?style=flat-square&color=blue)](https://github.com/djlint/djLint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/djlint/djLint?style=flat-square&color=yellow)](https://github.com/djlint/djLint/stargazers) [![Forks](https://img.shields.io/github/forks/djlint/djLint?style=flat-square&color=blue)](https://github.com/djlint/djLint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > ✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 919 |
 | 🍴 **Forks** | 113 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -65,15 +65,15 @@ djlint/djLint：djlint/djLint helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
+| usefulness | 58/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 57/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 60/100 |
 | stars | 63/100 |
 | forks | 51/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

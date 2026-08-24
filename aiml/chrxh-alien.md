@@ -1,6 +1,6 @@
 # chrxh/alien
 
-[![Stars](https://img.shields.io/github/stars/chrxh/alien?style=flat-square&color=yellow)](https://github.com/chrxh/alien/stargazers) [![Forks](https://img.shields.io/github/forks/chrxh/alien?style=flat-square&color=blue)](https://github.com/chrxh/alien/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chrxh/alien?style=flat-square&color=yellow)](https://github.com/chrxh/alien/stargazers) [![Forks](https://img.shields.io/github/forks/chrxh/alien?style=flat-square&color=blue)](https://github.com/chrxh/alien/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > ALIEN is a CUDA-powered artificial life simulation program.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ ALIEN is an open‑source artificial‑life simulator that leverages NVIDIA's CU
 
 ### 中文
 
-chrxh/alien：chrxh/alien helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+chrxh/alien：chrxh/alien helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ chrxh/alien：chrxh/alien helps add AI capability without starting from a blank 
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ chrxh/alien：chrxh/alien helps add AI capability without starting from a blank 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 73/100 |
-| stars | 79/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 79/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

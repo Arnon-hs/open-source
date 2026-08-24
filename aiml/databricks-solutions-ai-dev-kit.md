@@ -1,6 +1,6 @@
 # databricks-solutions/ai-dev-kit
 
-[![Stars](https://img.shields.io/github/stars/databricks-solutions/ai-dev-kit?style=flat-square&color=yellow)](https://github.com/databricks-solutions/ai-dev-kit/stargazers) [![Forks](https://img.shields.io/github/forks/databricks-solutions/ai-dev-kit?style=flat-square&color=blue)](https://github.com/databricks-solutions/ai-dev-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/databricks-solutions/ai-dev-kit?style=flat-square&color=yellow)](https://github.com/databricks-solutions/ai-dev-kit/stargazers) [![Forks](https://img.shields.io/github/forks/databricks-solutions/ai-dev-kit?style=flat-square&color=blue)](https://github.com/databricks-solutions/ai-dev-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Databricks Toolkit for Coding Agents provided by Field Engineering
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 301 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ AI/ML · Data
 
 ### English
 
-databricks-solutions/ai-dev-kit: databricks-solutions/ai-dev-kit helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+databricks-solutions/ai-dev-kit: databricks-solutions/ai-dev-kit helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-databricks-solutions/ai-dev-kit: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+databricks-solutions/ai-dev-kit: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-databricks-solutions/ai-dev-kit：databricks-solutions/ai-dev-kit helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+databricks-solutions/ai-dev-kit：databricks-solutions/ai-dev-kit helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ databricks-solutions/ai-dev-kit：databricks-solutions/ai-dev-kit helps add AI c
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ databricks-solutions/ai-dev-kit：databricks-solutions/ai-dev-kit helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 61/100 |
+| production | 50/100 |
+| outlook | 54/100 |
 | adoption | 66/100 |
 | stars | 67/100 |
 | forks | 62/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 100/100 |
 

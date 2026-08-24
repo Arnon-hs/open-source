@@ -1,6 +1,6 @@
 # wsbs20/claude-code-aso-skill
 
-[![Stars](https://img.shields.io/github/stars/wsbs20/claude-code-aso-skill?style=flat-square&color=yellow)](https://github.com/wsbs20/claude-code-aso-skill/stargazers) [![Forks](https://img.shields.io/github/forks/wsbs20/claude-code-aso-skill?style=flat-square&color=blue)](https://github.com/wsbs20/claude-code-aso-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wsbs20/claude-code-aso-skill?style=flat-square&color=yellow)](https://github.com/wsbs20/claude-code-aso-skill/stargazers) [![Forks](https://img.shields.io/github/forks/wsbs20/claude-code-aso-skill?style=flat-square&color=blue)](https://github.com/wsbs20/claude-code-aso-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Optimize App Store visibility with AI agents in the Claude Code framework for enhanced performance and growth.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -36,7 +36,7 @@ The **wsbs20/claude-code-aso-skill** project provides a set of Claude Code AI ag
 
 ### 中文
 
-wsbs20/claude-code-aso-skill：wsbs20/claude-code-aso-skill helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wsbs20/claude-code-aso-skill：wsbs20/claude-code-aso-skill helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -50,7 +50,7 @@ wsbs20/claude-code-aso-skill：wsbs20/claude-code-aso-skill helps add AI capabil
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,16 +66,16 @@ wsbs20/claude-code-aso-skill：wsbs20/claude-code-aso-skill helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 30/100 |
-| stars | 34/100 |
 | forks | 19/100 |
-| recency | 40/100 |
+| stars | 34/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

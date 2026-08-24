@@ -1,6 +1,6 @@
 # gregorydickson/pickle-rick-claude
 
-[![Stars](https://img.shields.io/github/stars/gregorydickson/pickle-rick-claude?style=flat-square&color=yellow)](https://github.com/gregorydickson/pickle-rick-claude/stargazers) [![Forks](https://img.shields.io/github/forks/gregorydickson/pickle-rick-claude?style=flat-square&color=blue)](https://github.com/gregorydickson/pickle-rick-claude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gregorydickson/pickle-rick-claude?style=flat-square&color=yellow)](https://github.com/gregorydickson/pickle-rick-claude/stargazers) [![Forks](https://img.shields.io/github/forks/gregorydickson/pickle-rick-claude?style=flat-square&color=blue)](https://github.com/gregorydickson/pickle-rick-claude/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🥒 Pickle Rick for Claude Code — autonomous PRD-driven coding loops + relentless code review. Ralph Loop toolkit.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 27 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -135,14 +135,15 @@ Automation · AI/ML
 | forks | 19/100 |
 | stars | 31/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 67/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 40/100 |
 | adoption | 28/100 |
-| production | 72/100 |
+| production | 52/100 |
 | usefulness | 74/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

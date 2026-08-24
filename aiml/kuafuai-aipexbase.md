@@ -1,6 +1,6 @@
 # kuafuai/aipexbase
 
-[![Stars](https://img.shields.io/github/stars/kuafuai/aipexbase?style=flat-square&color=yellow)](https://github.com/kuafuai/aipexbase/stargazers) [![Forks](https://img.shields.io/github/forks/kuafuai/aipexbase?style=flat-square&color=blue)](https://github.com/kuafuai/aipexbase/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kuafuai/aipexbase?style=flat-square&color=yellow)](https://github.com/kuafuai/aipexbase/stargazers) [![Forks](https://img.shields.io/github/forks/kuafuai/aipexbase?style=flat-square&color=blue)](https://github.com/kuafuai/aipexbase/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > AipexBase is an AI-native BaaS platform. You only need to develop the frontend with vibe coding tools, and leave the backend to AipexBase!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 212 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ AipexBase — open‑source платформа BaaS, построенная 
 
 ### 中文
 
-kuafuai/aipexbase：kuafuai/aipexbase helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kuafuai/aipexbase：kuafuai/aipexbase helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ kuafuai/aipexbase：kuafuai/aipexbase helps add AI capability without starting f
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,14 +65,14 @@ kuafuai/aipexbase：kuafuai/aipexbase helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 50/100 |
-| outlook | 52/100 |
+| production | 44/100 |
+| outlook | 45/100 |
 | adoption | 64/100 |
 | stars | 66/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 0/100 |
 | sourceTrust | 100/100 |
 

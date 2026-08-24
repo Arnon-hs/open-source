@@ -1,6 +1,6 @@
 # mse-org/mseide-msegui
 
-[![Stars](https://img.shields.io/github/stars/mse-org/mseide-msegui?style=flat-square&color=yellow)](https://github.com/mse-org/mseide-msegui/stargazers) [![Forks](https://img.shields.io/github/forks/mse-org/mseide-msegui?style=flat-square&color=blue)](https://github.com/mse-org/mseide-msegui/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mse-org/mseide-msegui?style=flat-square&color=yellow)](https://github.com/mse-org/mseide-msegui/stargazers) [![Forks](https://img.shields.io/github/forks/mse-org/mseide-msegui?style=flat-square&color=blue)](https://github.com/mse-org/mseide-msegui/network) [![Language](https://img.shields.io/badge/lang-Pascal-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > MSEide is a Rapid Application Development IDE for platform independent rich GUI applications in the Pascal language. It comes with its own GUI toolkit called MSEgui. Binaries: https://github.com/mse-org/mseide-msegui/releases
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 19 |
 | 💻 **Language** | Pascal |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -37,7 +37,7 @@ MSEide is an open-source Rapid Application Development (RAD) Integrated Developm
 
 ### 中文
 
-mse-org/mseide-msegui：mse-org/mseide-msegui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mse-org/mseide-msegui：mse-org/mseide-msegui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -51,7 +51,7 @@ mse-org/mseide-msegui：mse-org/mseide-msegui helps ship user-facing interfaces 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -68,14 +68,14 @@ mse-org/mseide-msegui：mse-org/mseide-msegui helps ship user-facing interfaces 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 59/100 |
+| production | 48/100 |
+| outlook | 52/100 |
 | adoption | 43/100 |
 | stars | 47/100 |
 | forks | 33/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

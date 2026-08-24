@@ -1,6 +1,6 @@
 # oktopeak/clio-mcp
 
-[![Stars](https://img.shields.io/github/stars/oktopeak/clio-mcp?style=flat-square&color=yellow)](https://github.com/oktopeak/clio-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/oktopeak/clio-mcp?style=flat-square&color=blue)](https://github.com/oktopeak/clio-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oktopeak/clio-mcp?style=flat-square&color=yellow)](https://github.com/oktopeak/clio-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/oktopeak/clio-mcp?style=flat-square&color=blue)](https://github.com/oktopeak/clio-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source MCP server connecting Claude to Clio practice management. Built by Oktopeak.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Frontend · Backend
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -108,14 +108,15 @@ oktopeak/clio-mcp 的生产可用性较高，主要原因是：
 | forks | 17/100 |
 | stars | 29/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 66/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 51/100 |
+| recency | 40/100 |
 | adoption | 25/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

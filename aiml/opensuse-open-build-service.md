@@ -1,6 +1,6 @@
 # openSUSE/open-build-service
 
-[![Stars](https://img.shields.io/github/stars/openSUSE/open-build-service?style=flat-square&color=yellow)](https://github.com/openSUSE/open-build-service/stargazers) [![Forks](https://img.shields.io/github/forks/openSUSE/open-build-service?style=flat-square&color=blue)](https://github.com/openSUSE/open-build-service/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openSUSE/open-build-service?style=flat-square&color=yellow)](https://github.com/openSUSE/open-build-service/stargazers) [![Forks](https://img.shields.io/github/forks/openSUSE/open-build-service?style=flat-square&color=blue)](https://github.com/openSUSE/open-build-service/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1k |
 | 🍴 **Forks** | 473 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ openSUSE/open-build-service：openSUSE/open-build-service helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 65/100 |
 | stars | 64/100 |
 | forks | 67/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

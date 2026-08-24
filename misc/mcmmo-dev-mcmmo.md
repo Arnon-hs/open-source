@@ -1,6 +1,6 @@
 # mcMMO-Dev/mcMMO
 
-[![Stars](https://img.shields.io/github/stars/mcMMO-Dev/mcMMO?style=flat-square&color=yellow)](https://github.com/mcMMO-Dev/mcMMO/stargazers) [![Forks](https://img.shields.io/github/forks/mcMMO-Dev/mcMMO?style=flat-square&color=blue)](https://github.com/mcMMO-Dev/mcMMO/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcMMO-Dev/mcMMO?style=flat-square&color=yellow)](https://github.com/mcMMO-Dev/mcMMO/stargazers) [![Forks](https://img.shields.io/github/forks/mcMMO-Dev/mcMMO?style=flat-square&color=blue)](https://github.com/mcMMO-Dev/mcMMO/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > The RPG Lover's Mod!
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 940 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -83,14 +83,15 @@ mcMMO 是一个 RPG 爱好者的插件，旨在为 Minecraft 增加 RPG 特性�
 | forks | 74/100 |
 | stars | 65/100 |
 | topics | 0/100 |
-| outlook | 70/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 67/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # solana-foundation/pay-kit
 
-[![Stars](https://img.shields.io/github/stars/solana-foundation/pay-kit?style=flat-square&color=yellow)](https://github.com/solana-foundation/pay-kit/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/pay-kit?style=flat-square&color=blue)](https://github.com/solana-foundation/pay-kit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/solana-foundation/pay-kit?style=flat-square&color=yellow)](https://github.com/solana-foundation/pay-kit/stargazers) [![Forks](https://img.shields.io/github/forks/solana-foundation/pay-kit?style=flat-square&color=blue)](https://github.com/solana-foundation/pay-kit/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic commerce building blocks (x402, MPP, AP2) for TypeScript, Rust, Go, Python, Ruby, PHP, Lua, Kotlin and Swift.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 64 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML · Frontend
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -105,14 +105,15 @@ solana-foundation/pay‑kit 是一套面向多语言（TypeScript、Rust、Go、
 | forks | 32/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 76/100 |
-| quality | 72/100 |
-| recency | 100/100 |
+| outlook | 55/100 |
+| quality | 57/100 |
+| recency | 40/100 |
 | adoption | 37/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 58/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

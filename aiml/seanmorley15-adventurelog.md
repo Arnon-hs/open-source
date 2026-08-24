@@ -1,6 +1,6 @@
 # seanmorley15/AdventureLog
 
-[![Stars](https://img.shields.io/github/stars/seanmorley15/AdventureLog?style=flat-square&color=yellow)](https://github.com/seanmorley15/AdventureLog/stargazers) [![Forks](https://img.shields.io/github/forks/seanmorley15/AdventureLog?style=flat-square&color=blue)](https://github.com/seanmorley15/AdventureLog/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/seanmorley15/AdventureLog?style=flat-square&color=yellow)](https://github.com/seanmorley15/AdventureLog/stargazers) [![Forks](https://img.shields.io/github/forks/seanmorley15/AdventureLog?style=flat-square&color=blue)](https://github.com/seanmorley15/AdventureLog/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hostable travel tracker and trip planner.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 216 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ seanmorley15/AdventureLog：seanmorley15/AdventureLog helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 70/100 |
+| production | 57/100 |
+| outlook | 63/100 |
 | adoption | 70/100 |
 | stars | 75/100 |
 | forks | 58/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

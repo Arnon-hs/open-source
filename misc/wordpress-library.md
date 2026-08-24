@@ -1,6 +1,6 @@
 # WordPress/library
 
-[![Stars](https://img.shields.io/github/stars/WordPress/library?style=flat-square&color=yellow)](https://github.com/WordPress/library/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/library?style=flat-square&color=blue)](https://github.com/WordPress/library/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WordPress/library?style=flat-square&color=yellow)](https://github.com/WordPress/library/stargazers) [![Forks](https://img.shields.io/github/forks/WordPress/library?style=flat-square&color=blue)](https://github.com/WordPress/library/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Our book about WordPress. Volume 1, first ten years
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 542 |
 | 🍴 **Forks** | 128 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ WordPress/library 是一本关于 WordPress 的电子书，聚焦于 WordPress �
 | forks | 53/100 |
 | stars | 58/100 |
 | topics | 38/100 |
-| outlook | 71/100 |
-| quality | 71/100 |
-| recency | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 40/100 |
 | adoption | 57/100 |
-| production | 71/100 |
+| production | 51/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

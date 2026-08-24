@@ -1,6 +1,6 @@
 # Agent-Field/SWE-AF
 
-[![Stars](https://img.shields.io/github/stars/Agent-Field/SWE-AF?style=flat-square&color=yellow)](https://github.com/Agent-Field/SWE-AF/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-Field/SWE-AF?style=flat-square&color=blue)](https://github.com/Agent-Field/SWE-AF/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agent-Field/SWE-AF?style=flat-square&color=yellow)](https://github.com/Agent-Field/SWE-AF/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-Field/SWE-AF?style=flat-square&color=blue)](https://github.com/Agent-Field/SWE-AF/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous software engineering fleet of AI agents for production-grade PRs on AgentField: plan, code, test, and ship.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 745 |
 | 🍴 **Forks** | 125 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Agent-Field/SWE-AF: Agent-Field/SWE-AF helps turn isolated prompts and tools int
 
 ### Русский
 
-Agent-Field/SWE-AF: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Agent-Field/SWE-AF: open-source проект в категориях Orchestration, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Agent-Field/SWE-AF：Agent-Field/SWE-AF helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 59/100 |
-| stars | 61/100 |
 | forks | 53/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

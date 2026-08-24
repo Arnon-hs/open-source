@@ -1,6 +1,6 @@
 # laravel/cashier-stripe
 
-[![Stars](https://img.shields.io/github/stars/laravel/cashier-stripe?style=flat-square&color=yellow)](https://github.com/laravel/cashier-stripe/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/cashier-stripe?style=flat-square&color=blue)](https://github.com/laravel/cashier-stripe/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/laravel/cashier-stripe?style=flat-square&color=yellow)](https://github.com/laravel/cashier-stripe/stargazers) [![Forks](https://img.shields.io/github/forks/laravel/cashier-stripe?style=flat-square&color=blue)](https://github.com/laravel/cashier-stripe/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 734 |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-05-05 |
 | 🔍 **Source** | github |
 
@@ -27,15 +27,15 @@ Payments
 
 ### English
 
-laravel/cashier-stripe: laravel/cashier-stripe helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+laravel/cashier-stripe: laravel/cashier-stripe helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-laravel/cashier-stripe: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+laravel/cashier-stripe: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-laravel/cashier-stripe：laravel/cashier-stripe helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+laravel/cashier-stripe：laravel/cashier-stripe helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ laravel/cashier-stripe：laravel/cashier-stripe helps integrate monetization, bi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ laravel/cashier-stripe：laravel/cashier-stripe helps integrate monetization, bi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 54/100 |
-| adoption | 72/100 |
-| stars | 72/100 |
 | forks | 72/100 |
-| recency | 40/100 |
+| stars | 72/100 |
 | topics | 38/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

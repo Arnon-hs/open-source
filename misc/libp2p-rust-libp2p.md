@@ -1,6 +1,6 @@
 # libp2p/rust-libp2p
 
-[![Stars](https://img.shields.io/github/stars/libp2p/rust-libp2p?style=flat-square&color=yellow)](https://github.com/libp2p/rust-libp2p/stargazers) [![Forks](https://img.shields.io/github/forks/libp2p/rust-libp2p?style=flat-square&color=blue)](https://github.com/libp2p/rust-libp2p/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libp2p/rust-libp2p?style=flat-square&color=yellow)](https://github.com/libp2p/rust-libp2p/stargazers) [![Forks](https://img.shields.io/github/forks/libp2p/rust-libp2p?style=flat-square&color=blue)](https://github.com/libp2p/rust-libp2p/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > The Rust Implementation of the libp2p networking stack.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 5.6k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 62/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -106,14 +106,15 @@ libp2p/rust‑libp2p 是 libp2p 网络协议栈的官方 Rust 实现，提供模
 | forks | 77/100 |
 | stars | 80/100 |
 | topics | 63/100 |
-| outlook | 79/100 |
-| quality | 85/100 |
-| recency | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 40/100 |
 | adoption | 79/100 |
-| production | 76/100 |
+| production | 56/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

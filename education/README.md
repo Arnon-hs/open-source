@@ -2,59 +2,57 @@
 
 > 
 
-**47 projects** in this category.
+**45 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [unixorn/awesome-zsh-plugins](./unixorn-awesome-zsh-plugins.md) | ⭐ 17.8k | Shell | 73/100 |
-| 2 | [InvadingOctopus/comedot](./invadingoctopus-comedot.md) | ⭐ 491 | GDScript | 72/100 |
-| 3 | [firstcontributions/first-contributions](./firstcontributions-first-contributions.md) | ⭐ 54.6k | — | 72/100 |
-| 4 | [pytorch/pytorch](./pytorch-pytorch.md) | ⭐ 101k | Python | 72/100 |
-| 5 | [mne-tools/mne-python](./mne-tools-mne-python.md) | ⭐ 3.4k | Python | 71/100 |
-| 6 | [SilentVoid13/Templater](./silentvoid13-templater.md) | ⭐ 5.1k | TypeScript | 69/100 |
-| 7 | [Keats/tera](./keats-tera.md) | ⭐ 4.2k | Rust | 67/100 |
-| 8 | [riganti/dotvvm](./riganti-dotvvm.md) | ⭐ 805 | C# | 67/100 |
-| 9 | [nltk/nltk](./nltk-nltk.md) | ⭐ 14.7k | Python | 67/100 |
-| 10 | [taocpp/PEGTL](./taocpp-pegtl.md) | ⭐ 2.1k | C++ | 65/100 |
-| 11 | [hwgilbert16/scholarsome](./hwgilbert16-scholarsome.md) | ⭐ 770 | TypeScript | 65/100 |
-| 12 | [shimat/opencvsharp](./shimat-opencvsharp.md) | ⭐ 6k | C# | 64/100 |
-| 13 | [google/mug](./google-mug.md) | ⭐ 518 | Java | 64/100 |
-| 14 | [gocodebox/lifterlms](./gocodebox-lifterlms.md) | ⭐ 206 | PHP | 64/100 |
-| 15 | [gofiber/recipes](./gofiber-recipes.md) | ⭐ 3.4k | Go | 64/100 |
-| 16 | [lincolnloop/django-layout](./lincolnloop-django-layout.md) | ⭐ 329 | Python | 63/100 |
-| 17 | [mindskip/xzs](./mindskip-xzs.md) | ⭐ 3.9k | JavaScript | 63/100 |
-| 18 | [EFForg/privacybadger](./efforg-privacybadger.md) | ⭐ 3.8k | JavaScript | 63/100 |
-| 19 | [Ajatt-Tools/kitsunekko-mirror](./ajatt-tools-kitsunekko-mirror.md) | ⭐ 321 | SRecode Template | 63/100 |
-| 20 | [meta-pytorch/attention-gym](./meta-pytorch-attention-gym.md) | ⭐ 1.2k | Python | 62/100 |
-| 21 | [shedskin/shedskin](./shedskin-shedskin.md) | ⭐ 986 | Python | 61/100 |
-| 22 | [cardmagic/classifier](./cardmagic-classifier.md) | ⭐ 717 | Ruby | 61/100 |
-| 23 | [twpayne/dotfiles](./twpayne-dotfiles.md) | ⭐ 453 | Go Template | 60/100 |
-| 24 | [xcomptek/awesome-saas-boilerplates](./xcomptek-awesome-saas-boilerplates.md) | ⭐ 3.1k | — | 60/100 |
-| 25 | [patrickloeber/python-github-action-template](./patrickloeber-python-github-action-template.md) | ⭐ 339 | Python | 60/100 |
-| 26 | [google-deepmind/kfac-jax](./google-deepmind-kfac-jax.md) | ⭐ 327 | Python | 60/100 |
-| 27 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 348 | Rust | 60/100 |
-| 28 | [kovrichard/catalyst](./kovrichard-catalyst.md) | ⭐ 470 | TypeScript | 59/100 |
-| 29 | [learning-rust/learning-rust.github.io](./learning-rust-learning-rust.github.io.md) | ⭐ 1.6k | Rust | 59/100 |
-| 30 | [jshn9515/deep-learning-notes](./jshn9515-deep-learning-notes.md) | ⭐ 496 | Python | 59/100 |
-| 31 | [deanwampler/programming-scala-book-code-examples](./deanwampler-programming-scala-book-code-examples.md) | ⭐ 648 | Scala | 59/100 |
-| 32 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 58/100 |
-| 33 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
-| 34 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
-| 35 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
-| 36 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
-| 37 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
-| 38 | [robertknight/rten](./robertknight-rten.md) | ⭐ 321 | Rust | 54/100 |
-| 39 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
-| 40 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
-| 41 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 42 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 44/100 |
-| 43 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
-| 44 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
-| 45 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
-| 46 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
-| 47 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
+| 1 | [awsdocs/aws-doc-sdk-examples](./awsdocs-aws-doc-sdk-examples.md) | ⭐ 10.4k | Java | 74/100 |
+| 2 | [ysig/GraKeL](./ysig-grakel.md) | ⭐ 646 | Python | 65/100 |
+| 3 | [DigitalPlatDev/FreeDomain](./digitalplatdev-freedomain.md) | ⭐ 192.4k | Markdown | 65/100 |
+| 4 | [frappe/lms](./frappe-lms.md) | ⭐ 3.1k | Vue | 63/100 |
+| 5 | [codelitdev/courselit](./codelitdev-courselit.md) | ⭐ 1.2k | TypeScript | 63/100 |
+| 6 | [firstcontributions/first-contributions](./firstcontributions-first-contributions.md) | ⭐ 54.6k | — | 63/100 |
+| 7 | [classroomio/classroomio](./classroomio-classroomio.md) | ⭐ 1.6k | TypeScript | 63/100 |
+| 8 | [mytechnotalent/Hacking-Windows](./mytechnotalent-hacking-windows.md) | ⭐ 1.6k | C | 59/100 |
+| 9 | [ashvardanian/less_slow.cpp](./ashvardanian-less-slow.cpp.md) | ⭐ 1.9k | C++ | 58/100 |
+| 10 | [aws-samples/aws-cdk-examples](./aws-samples-aws-cdk-examples.md) | ⭐ 5.6k | Python | 58/100 |
+| 11 | [huangsam/ultimate-python](./huangsam-ultimate-python.md) | ⭐ 5.9k | Python | 58/100 |
+| 12 | [github/opensource.guide](./github-opensource.guide.md) | ⭐ 15.6k | HTML | 56/100 |
+| 13 | [dask/dask](./dask-dask.md) | ⭐ 13.8k | Python | 56/100 |
+| 14 | [rodrigo-arenas/Sklearn-genetic-opt](./rodrigo-arenas-sklearn-genetic-opt.md) | ⭐ 362 | Python | 55/100 |
+| 15 | [TheSpydog/SDL_gpu_examples](./thespydog-sdl-gpu-examples.md) | ⭐ 522 | C++ | 54/100 |
+| 16 | [actix/examples](./actix-examples.md) | ⭐ 4k | Rust | 54/100 |
+| 17 | [zyronon/TypeWords](./zyronon-typewords.md) | ⭐ 8.6k | CSS | 54/100 |
+| 18 | [raysan5/raylib-games](./raysan5-raylib-games.md) | ⭐ 827 | C | 53/100 |
+| 19 | [zhaoweih/Shadowsocks-Tutorial](./zhaoweih-shadowsocks-tutorial.md) | ⭐ 2.6k | Shell | 53/100 |
+| 20 | [eunomia-bpf/bpf-developer-tutorial](./eunomia-bpf-bpf-developer-tutorial.md) | ⭐ 4.2k | C | 53/100 |
+| 21 | [TRaSH-Guides/Guides](./trash-guides-guides.md) | ⭐ 3k | Markdown | 53/100 |
+| 22 | [UniTime/unitime](./unitime-unitime.md) | ⭐ 346 | Java | 52/100 |
+| 23 | [dwyl/learn-aws-lambda](./dwyl-learn-aws-lambda.md) | ⭐ 1k | JavaScript | 52/100 |
+| 24 | [theislab/single-cell-best-practices](./theislab-single-cell-best-practices.md) | ⭐ 1.2k | Jupyter Notebook | 52/100 |
+| 25 | [INGInious/INGInious](./inginious-inginious.md) | ⭐ 237 | Python | 52/100 |
+| 26 | [pion/example-webrtc-applications](./pion-example-webrtc-applications.md) | ⭐ 1.3k | Go | 52/100 |
+| 27 | [cypress-io/cypress-example-kitchensink](./cypress-io-cypress-example-kitchensink.md) | ⭐ 1.2k | HTML | 52/100 |
+| 28 | [gofiber/recipes](./gofiber-recipes.md) | ⭐ 3.4k | Go | 52/100 |
+| 29 | [junit-team/junit-examples](./junit-team-junit-examples.md) | ⭐ 1.6k | Java | 51/100 |
+| 30 | [aio-libs/aiohttp-demos](./aio-libs-aiohttp-demos.md) | ⭐ 753 | Makefile | 51/100 |
+| 31 | [zigcc/zig-course](./zigcc-zig-course.md) | ⭐ 375 | Zig | 50/100 |
+| 32 | [learning-rust/learning-rust.github.io](./learning-rust-learning-rust.github.io.md) | ⭐ 1.6k | Rust | 50/100 |
+| 33 | [jshn9515/deep-learning-notes](./jshn9515-deep-learning-notes.md) | ⭐ 496 | Python | 50/100 |
+| 34 | [ElYusubov/AWESOME-Azure-Bicep](./elyusubov-awesome-azure-bicep.md) | ⭐ 424 | — | 50/100 |
+| 35 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.1k | Vim Script | 50/100 |
+| 36 | [AsaEdgerunner/linux-terminal-mastery](./asaedgerunner-linux-terminal-mastery.md) | ⭐ 32 | JavaScript | 49/100 |
+| 37 | [luxonis/oak-examples](./luxonis-oak-examples.md) | ⭐ 965 | Python | 49/100 |
+| 38 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 49/100 |
+| 39 | [copilotKit/channels-sdk](./copilotkit-channels-sdk.md) | ⭐ — | — | 48/100 |
+| 40 | [galaxyproject/training-material](./galaxyproject-training-material.md) | ⭐ 364 | HTML | 47/100 |
+| 41 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 233 | Rust | 46/100 |
+| 42 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 366 | Rust | 45/100 |
+| 43 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 321 | Mojo | 44/100 |
+| 44 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 156 | Rust | 44/100 |
+| 45 | [novalagung/dasarpemrogramanrust](./novalagung-dasarpemrogramanrust.md) | ⭐ 367 | Rust | 44/100 |
 
 ---
 

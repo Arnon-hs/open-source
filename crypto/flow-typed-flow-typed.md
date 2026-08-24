@@ -1,6 +1,6 @@
 # flow-typed/flow-typed
 
-[![Stars](https://img.shields.io/github/stars/flow-typed/flow-typed?style=flat-square&color=yellow)](https://github.com/flow-typed/flow-typed/stargazers) [![Forks](https://img.shields.io/github/forks/flow-typed/flow-typed?style=flat-square&color=blue)](https://github.com/flow-typed/flow-typed/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flow-typed/flow-typed?style=flat-square&color=yellow)](https://github.com/flow-typed/flow-typed/stargazers) [![Forks](https://img.shields.io/github/forks/flow-typed/flow-typed?style=flat-square&color=blue)](https://github.com/flow-typed/flow-typed/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A central repository for Flow library definitions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.8k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ flow-typed/flow-typed：flow-typed/flow-typed helps prototype or inspect blockch
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 62/100 |
+| production | 52/100 |
+| outlook | 55/100 |
 | adoption | 77/100 |
 | stars | 76/100 |
 | forks | 78/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

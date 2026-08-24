@@ -1,6 +1,6 @@
 # p2panda/p2panda
 
-[![Stars](https://img.shields.io/github/stars/p2panda/p2panda?style=flat-square&color=yellow)](https://github.com/p2panda/p2panda/stargazers) [![Forks](https://img.shields.io/github/forks/p2panda/p2panda?style=flat-square&color=blue)](https://github.com/p2panda/p2panda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/p2panda/p2panda?style=flat-square&color=yellow)](https://github.com/p2panda/p2panda/stargazers) [![Forks](https://img.shields.io/github/forks/p2panda/p2panda?style=flat-square&color=blue)](https://github.com/p2panda/p2panda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > All the things a panda needs
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 463 |
 | 🍴 **Forks** | 32 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -103,14 +103,15 @@ p2panda 是用 Rust 编写的安全‑隐私框架，能够在代码提交或 
 | forks | 38/100 |
 | stars | 57/100 |
 | topics | 88/100 |
-| outlook | 75/100 |
-| quality | 76/100 |
-| recency | 100/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
 | adoption | 51/100 |
-| production | 73/100 |
+| production | 46/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

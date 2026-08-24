@@ -1,6 +1,6 @@
 # pipeweaver/pipeweaver
 
-[![Stars](https://img.shields.io/github/stars/pipeweaver/pipeweaver?style=flat-square&color=yellow)](https://github.com/pipeweaver/pipeweaver/stargazers) [![Forks](https://img.shields.io/github/forks/pipeweaver/pipeweaver?style=flat-square&color=blue)](https://github.com/pipeweaver/pipeweaver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pipeweaver/pipeweaver?style=flat-square&color=yellow)](https://github.com/pipeweaver/pipeweaver/stargazers) [![Forks](https://img.shields.io/github/forks/pipeweaver/pipeweaver?style=flat-square&color=blue)](https://github.com/pipeweaver/pipeweaver/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > PipeWeaver is a tool to communicate with pipewire to manage streaming audio
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 224 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 55/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -65,14 +65,15 @@ pipeweaver/pipeweaver：pipeweaver/pipeweaver may be useful when its README and 
 | forks | 23/100 |
 | stars | 50/100 |
 | topics | 0/100 |
-| outlook | 67/100 |
-| quality | 59/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 44/100 |
+| recency | 40/100 |
 | adoption | 42/100 |
-| production | 67/100 |
+| production | 47/100 |
 | usefulness | 58/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

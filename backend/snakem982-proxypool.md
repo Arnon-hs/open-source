@@ -1,6 +1,6 @@
 # snakem982/proxypool
 
-[![Stars](https://img.shields.io/github/stars/snakem982/proxypool?style=flat-square&color=yellow)](https://github.com/snakem982/proxypool/stargazers) [![Forks](https://img.shields.io/github/forks/snakem982/proxypool?style=flat-square&color=blue)](https://github.com/snakem982/proxypool/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/snakem982/proxypool?style=flat-square&color=yellow)](https://github.com/snakem982/proxypool/stargazers) [![Forks](https://img.shields.io/github/forks/snakem982/proxypool?style=flat-square&color=blue)](https://github.com/snakem982/proxypool/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Free Proxies，Free Nodes，免费节点，白嫖节点，免费vpn，免费v2ray，免费订阅，免费clash，Free VPN，Free v2ray，Free Sub，Free Clash
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -102,14 +102,15 @@ snakem982/proxypool 是一款基于 Go 实现的免费代理池工具，聚合�
 | forks | 53/100 |
 | stars | 70/100 |
 | topics | 100/100 |
-| outlook | 80/100 |
-| quality | 84/100 |
-| recency | 100/100 |
+| outlook | 59/100 |
+| quality | 69/100 |
+| recency | 40/100 |
 | adoption | 65/100 |
-| production | 78/100 |
+| production | 58/100 |
 | usefulness | 42/100 |
 | integration | 46/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

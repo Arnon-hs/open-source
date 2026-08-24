@@ -1,6 +1,6 @@
 # tryandromeda/andromeda
 
-[![Stars](https://img.shields.io/github/stars/tryandromeda/andromeda?style=flat-square&color=yellow)](https://github.com/tryandromeda/andromeda/stargazers) [![Forks](https://img.shields.io/github/forks/tryandromeda/andromeda?style=flat-square&color=blue)](https://github.com/tryandromeda/andromeda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tryandromeda/andromeda?style=flat-square&color=yellow)](https://github.com/tryandromeda/andromeda/stargazers) [![Forks](https://img.shields.io/github/forks/tryandromeda/andromeda?style=flat-square&color=blue)](https://github.com/tryandromeda/andromeda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > JS runtime lolz
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 817 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Data · Design
 
 ### 中文
 
-tryandromeda/andromeda：tryandromeda/andromeda helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tryandromeda/andromeda：tryandromeda/andromeda helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ tryandromeda/andromeda：tryandromeda/andromeda helps convert raw data into sear
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ tryandromeda/andromeda：tryandromeda/andromeda helps convert raw data into sear
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 56/100 |
-| adoption | 55/100 |
-| stars | 62/100 |
 | forks | 36/100 |
-| recency | 40/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

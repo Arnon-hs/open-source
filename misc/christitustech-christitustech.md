@@ -1,6 +1,6 @@
 # ChrisTitusTech/ChrisTitusTech
 
-[![Stars](https://img.shields.io/github/stars/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=yellow)](https://github.com/ChrisTitusTech/ChrisTitusTech/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=blue)](https://github.com/ChrisTitusTech/ChrisTitusTech/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=yellow)](https://github.com/ChrisTitusTech/ChrisTitusTech/stargazers) [![Forks](https://img.shields.io/github/forks/ChrisTitusTech/ChrisTitusTech?style=flat-square&color=blue)](https://github.com/ChrisTitusTech/ChrisTitusTech/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 540 |
 | 🍴 **Forks** | 49 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -55,22 +55,22 @@ ChrisTitusTech/ChrisTitusTech：ChrisTitusTech/ChrisTitusTech may be useful when
 - 49 forks
 - updated 2026-05-10
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 18/100 |
-| production | 47/100 |
-| outlook | 46/100 |
-| adoption | 54/100 |
-| stars | 58/100 |
 | forks | 42/100 |
-| recency | 40/100 |
+| stars | 58/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

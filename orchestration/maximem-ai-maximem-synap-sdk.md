@@ -1,6 +1,6 @@
 # maximem-ai/maximem_synap_sdk
 
-[![Stars](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk?style=flat-square&color=yellow)](https://github.com/maximem-ai/maximem_synap_sdk/stargazers) [![Forks](https://img.shields.io/github/forks/maximem-ai/maximem_synap_sdk?style=flat-square&color=blue)](https://github.com/maximem-ai/maximem_synap_sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maximem-ai/maximem_synap_sdk?style=flat-square&color=yellow)](https://github.com/maximem-ai/maximem_synap_sdk/stargazers) [![Forks](https://img.shields.io/github/forks/maximem-ai/maximem_synap_sdk?style=flat-square&color=blue)](https://github.com/maximem-ai/maximem_synap_sdk/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Maximem Synap is the memory layer that makes AI agents remember. 92% LongMemEval, 93.2% on LOCOMO. Works natively with LangChain, LlamaIndex, CrewAI, Google ADK, AutoGen, OpenAI Agents, Semantic Kernel, Haystack, and Pydantic AI.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -93,14 +93,15 @@ Maximem Synap 是面向 AI 代理的记忆层，能够让不同的工具与提
 | forks | 21/100 |
 | stars | 32/100 |
 | topics | 100/100 |
-| outlook | 77/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 56/100 |
+| quality | 53/100 |
+| recency | 40/100 |
 | adoption | 29/100 |
-| production | 77/100 |
+| production | 57/100 |
 | usefulness | 74/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

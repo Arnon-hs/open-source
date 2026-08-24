@@ -1,6 +1,6 @@
 # spring-projects/spring-integration
 
-[![Stars](https://img.shields.io/github/stars/spring-projects/spring-integration?style=flat-square&color=yellow)](https://github.com/spring-projects/spring-integration/stargazers) [![Forks](https://img.shields.io/github/forks/spring-projects/spring-integration?style=flat-square&color=blue)](https://github.com/spring-projects/spring-integration/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spring-projects/spring-integration?style=flat-square&color=yellow)](https://github.com/spring-projects/spring-integration/stargazers) [![Forks](https://img.shields.io/github/forks/spring-projects/spring-integration?style=flat-square&color=blue)](https://github.com/spring-projects/spring-integration/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Spring Integration — это модуль Spring Framework, реализую�
 
 ### 中文
 
-spring-projects/spring-integration：spring-projects/spring-integration helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+spring-projects/spring-integration：spring-projects/spring-integration helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ spring-projects/spring-integration：spring-projects/spring-integration helps te
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -66,14 +66,14 @@ spring-projects/spring-integration：spring-projects/spring-integration helps te
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 58/100 |
+| production | 48/100 |
+| outlook | 51/100 |
 | adoption | 71/100 |
 | stars | 68/100 |
 | forks | 76/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 50/100 |
 | sourceTrust | 100/100 |
 

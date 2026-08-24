@@ -1,0 +1,77 @@
+# vercel-labs/zero-native
+
+[![Stars](https://img.shields.io/github/stars/vercel-labs/zero-native?style=flat-square&color=yellow)](https://github.com/vercel-labs/zero-native/stargazers) [![Forks](https://img.shields.io/github/forks/vercel-labs/zero-native?style=flat-square&color=blue)](https://github.com/vercel-labs/zero-native/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
+
+> Discovered from Hacker News (github-mentions)
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 28/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | hackernews |
+
+## 🏷️ Topics
+
+`hn` `github-mentions`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Build native desktop and mobile applications using familiar web technologies for the UI while leveraging Zig for the core logic and platform integration. The framework compiles a single codebase into platform‑specific binaries, providing seamless access to native APIs without requiring separate toolchains for each OS. It targets developers who want the performance and safety of Zig alongside the rapid UI development of HTML/CSS/JavaScript.
+
+### Русский
+
+Проект — это фреймворк, позволяющий создавать нативные десктопные и мобильные приложения, используя веб‑интерфейс и язык программирования Zig. Он компилирует UI‑слой в WebView, а бизнес‑логику — в полностью статически скомпилированный Zig‑бинарник, что даёт небольшие размеры, быстрый старт и доступ к нативным API устройств. Идеально подходит для разработчиков, желающих писать кроссплатформенные приложения на едином стеке без тяжёлых зависимостей.
+
+### 中文
+
+Build native desktop and mobile apps with web UI and Zig：Build native desktop and mobile apps with web UI and Zig may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** Build native desktop and mobile apps with web UI and Zig may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- updated 2026-05-09
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 25/100 |
+| outlook | 26/100 |
+| quality | 21/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 32/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 80/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/vercel-labs/zero-native) · [← Back to Misc](./README.md)</sub>

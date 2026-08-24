@@ -1,6 +1,6 @@
 # alperhankendi/Ctxo
 
-[![Stars](https://img.shields.io/github/stars/alperhankendi/Ctxo?style=flat-square&color=yellow)](https://github.com/alperhankendi/Ctxo/stargazers) [![Forks](https://img.shields.io/github/forks/alperhankendi/Ctxo?style=flat-square&color=blue)](https://github.com/alperhankendi/Ctxo/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alperhankendi/Ctxo?style=flat-square&color=yellow)](https://github.com/alperhankendi/Ctxo/stargazers) [![Forks](https://img.shields.io/github/forks/alperhankendi/Ctxo?style=flat-square&color=blue)](https://github.com/alperhankendi/Ctxo/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for AI coding agents. Instead of reading files one by one, your agent gets dependency graphs, git intent, blast radius, and change health in a single call. Works with any language deep analysis for TypeScript,Java, Go, and C#.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 65 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -100,14 +100,15 @@ alperhankendi/Ctxo 在生产环境中具有高可用性，其最近的活动、�
 | forks | 21/100 |
 | stars | 39/100 |
 | topics | 100/100 |
-| outlook | 81/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 60/100 |
+| quality | 55/100 |
+| recency | 40/100 |
 | adoption | 34/100 |
-| production | 77/100 |
+| production | 58/100 |
 | usefulness | 90/100 |
 | integration | 78/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

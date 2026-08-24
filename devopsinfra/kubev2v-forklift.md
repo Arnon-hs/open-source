@@ -1,6 +1,6 @@
 # kubev2v/forklift
 
-[![Stars](https://img.shields.io/github/stars/kubev2v/forklift?style=flat-square&color=yellow)](https://github.com/kubev2v/forklift/stargazers) [![Forks](https://img.shields.io/github/forks/kubev2v/forklift?style=flat-square&color=blue)](https://github.com/kubev2v/forklift/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubev2v/forklift?style=flat-square&color=yellow)](https://github.com/kubev2v/forklift/stargazers) [![Forks](https://img.shields.io/github/forks/kubev2v/forklift?style=flat-square&color=blue)](https://github.com/kubev2v/forklift/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Toolkit for migrating VMs from VMware, OVA, oVirt and OpenStack to KubeVirt
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 177 |
 | 🍴 **Forks** | 87 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 68/100 |
-| 🗓️ **Last push** | 2026-05-13 |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -98,14 +98,15 @@ kubev2v/forklift 是一套基于 Go 的迁移工具箱，能够把 VMware、OVA�
 | forks | 49/100 |
 | stars | 48/100 |
 | topics | 100/100 |
-| outlook | 79/100 |
-| quality | 77/100 |
-| recency | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
 | adoption | 48/100 |
-| production | 77/100 |
+| production | 51/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

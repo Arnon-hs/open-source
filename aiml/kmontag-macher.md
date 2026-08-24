@@ -1,6 +1,6 @@
 # kmontag/macher
 
-[![Stars](https://img.shields.io/github/stars/kmontag/macher?style=flat-square&color=yellow)](https://github.com/kmontag/macher/stargazers) [![Forks](https://img.shields.io/github/forks/kmontag/macher?style=flat-square&color=blue)](https://github.com/kmontag/macher/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kmontag/macher?style=flat-square&color=yellow)](https://github.com/kmontag/macher/stargazers) [![Forks](https://img.shields.io/github/forks/kmontag/macher?style=flat-square&color=blue)](https://github.com/kmontag/macher/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Project-aware multi-file LLM editing for Emacs, based on gptel.
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 141 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Emacs Lisp |
-| 📈 **Score** | 52/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -111,14 +111,15 @@ kmontag/macher 的生产可用性为中等。虽然它可以用于内部工作�
 | forks | 23/100 |
 | stars | 46/100 |
 | topics | 38/100 |
-| outlook | 67/100 |
-| quality | 63/100 |
-| recency | 100/100 |
+| outlook | 46/100 |
+| quality | 48/100 |
+| recency | 40/100 |
 | adoption | 39/100 |
-| production | 68/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 30/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

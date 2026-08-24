@@ -1,6 +1,6 @@
 # inercia/mitto
 
-[![Stars](https://img.shields.io/github/stars/inercia/mitto?style=flat-square&color=yellow)](https://github.com/inercia/mitto/stargazers) [![Forks](https://img.shields.io/github/forks/inercia/mitto?style=flat-square&color=blue)](https://github.com/inercia/mitto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inercia/mitto?style=flat-square&color=yellow)](https://github.com/inercia/mitto/stargazers) [![Forks](https://img.shields.io/github/forks/inercia/mitto?style=flat-square&color=blue)](https://github.com/inercia/mitto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Control you AI coding agents on the go (from Mac, Web, Mobile Phone, etc)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 29 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ inercia/mitto — это кроссплатформенный набор ин�
 
 ### 中文
 
-inercia/mitto：inercia/mitto helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+inercia/mitto：inercia/mitto helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ inercia/mitto：inercia/mitto helps add AI capability without starting from a bl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,16 +65,16 @@ inercia/mitto：inercia/mitto helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 28/100 |
-| stars | 31/100 |
 | forks | 17/100 |
-| recency | 40/100 |
+| stars | 31/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

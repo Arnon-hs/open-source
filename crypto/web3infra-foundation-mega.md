@@ -1,6 +1,6 @@
 # web3infra-foundation/mega
 
-[![Stars](https://img.shields.io/github/stars/web3infra-foundation/mega?style=flat-square&color=yellow)](https://github.com/web3infra-foundation/mega/stargazers) [![Forks](https://img.shields.io/github/forks/web3infra-foundation/mega?style=flat-square&color=blue)](https://github.com/web3infra-foundation/mega/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/web3infra-foundation/mega?style=flat-square&color=yellow)](https://github.com/web3infra-foundation/mega/stargazers) [![Forks](https://img.shields.io/github/forks/web3infra-foundation/mega?style=flat-square&color=blue)](https://github.com/web3infra-foundation/mega/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Mega is an open-source implementation of Google Piper — a Git-compatible monorepo engine built for the AI Agent era.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 474 |
 | 🍴 **Forks** | 123 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -66,14 +66,14 @@ web3infra-foundation/mega：web3infra-foundation/mega helps prototype or inspect
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 56/100 |
 | stars | 57/100 |
 | forks | 52/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 

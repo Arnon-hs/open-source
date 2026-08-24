@@ -1,6 +1,6 @@
 # timburgan/timburgan
 
-[![Stars](https://img.shields.io/github/stars/timburgan/timburgan?style=flat-square&color=yellow)](https://github.com/timburgan/timburgan/stargazers) [![Forks](https://img.shields.io/github/forks/timburgan/timburgan?style=flat-square&color=blue)](https://github.com/timburgan/timburgan/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/timburgan/timburgan?style=flat-square&color=yellow)](https://github.com/timburgan/timburgan/stargazers) [![Forks](https://img.shields.io/github/forks/timburgan/timburgan?style=flat-square&color=blue)](https://github.com/timburgan/timburgan/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Play chess via GitHub
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 191 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -35,7 +35,7 @@ Misc
 
 ### 中文
 
-timburgan/timburgan：timburgan/timburgan may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+timburgan/timburgan：timburgan/timburgan may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ timburgan/timburgan：timburgan/timburgan may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,16 +61,16 @@ timburgan/timburgan：timburgan/timburgan may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 63/100 |
-| stars | 65/100 |
 | forks | 57/100 |
-| recency | 40/100 |
+| stars | 65/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

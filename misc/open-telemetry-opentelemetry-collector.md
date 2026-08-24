@@ -1,6 +1,6 @@
 # open-telemetry/opentelemetry-collector
 
-[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-collector/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-collector?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-collector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=flat-square&color=yellow)](https://github.com/open-telemetry/opentelemetry-collector/stargazers) [![Forks](https://img.shields.io/github/forks/open-telemetry/opentelemetry-collector?style=flat-square&color=blue)](https://github.com/open-telemetry/opentelemetry-collector/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > OpenTelemetry Collector
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
@@ -64,14 +64,14 @@ open-telemetry/opentelemetry-collector：open-telemetry/opentelemetry-collector 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 64/100 |
+| production | 53/100 |
+| outlook | 57/100 |
 | adoption | 82/100 |
 | stars | 82/100 |
 | forks | 83/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 

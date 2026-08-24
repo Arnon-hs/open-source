@@ -1,6 +1,6 @@
 # ardatan/feTS
 
-[![Stars](https://img.shields.io/github/stars/ardatan/feTS?style=flat-square&color=yellow)](https://github.com/ardatan/feTS/stargazers) [![Forks](https://img.shields.io/github/forks/ardatan/feTS?style=flat-square&color=blue)](https://github.com/ardatan/feTS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ardatan/feTS?style=flat-square&color=yellow)](https://github.com/ardatan/feTS/stargazers) [![Forks](https://img.shields.io/github/forks/ardatan/feTS?style=flat-square&color=blue)](https://github.com/ardatan/feTS/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 🗹 TypeScript HTTP Framework focusing on e2e type-safety, easy setup, performance & great developer experience
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 714 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Data
+Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ardatan/feTS：ardatan/feTS helps teams reuse service infrastructure instead of 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 54/100 |
-| stars | 61/100 |
 | forks | 37/100 |
-| recency | 40/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

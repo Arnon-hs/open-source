@@ -1,6 +1,6 @@
 # tgrosinger/recent-files-obsidian
 
-[![Stars](https://img.shields.io/github/stars/tgrosinger/recent-files-obsidian?style=flat-square&color=yellow)](https://github.com/tgrosinger/recent-files-obsidian/stargazers) [![Forks](https://img.shields.io/github/forks/tgrosinger/recent-files-obsidian?style=flat-square&color=blue)](https://github.com/tgrosinger/recent-files-obsidian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tgrosinger/recent-files-obsidian?style=flat-square&color=yellow)](https://github.com/tgrosinger/recent-files-obsidian/stargazers) [![Forks](https://img.shields.io/github/forks/tgrosinger/recent-files-obsidian?style=flat-square&color=blue)](https://github.com/tgrosinger/recent-files-obsidian/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Display a list of most recently opened files
 
@@ -11,8 +11,8 @@
 | ⭐ **Stars** | 503 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
-| 🗓️ **Last push** | 2026-05-12 |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-08-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -105,14 +105,15 @@ In short, *recent‑files‑obsidian* offers a quick win for teams needing faste
 | forks | 42/100 |
 | stars | 58/100 |
 | topics | 25/100 |
-| outlook | 69/100 |
-| quality | 68/100 |
-| recency | 100/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
 | adoption | 53/100 |
-| production | 74/100 |
+| production | 48/100 |
 | usefulness | 42/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

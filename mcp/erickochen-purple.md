@@ -1,0 +1,82 @@
+# erickochen/purple
+
+[![Stars](https://img.shields.io/github/stars/erickochen/purple?style=flat-square&color=yellow)](https://github.com/erickochen/purple/stargazers) [![Forks](https://img.shields.io/github/forks/erickochen/purple?style=flat-square&color=blue)](https://github.com/erickochen/purple/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+
+> Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, live tunnel monitoring, scp, Docker over SSH, Vault SSH certs and an MCP server for AI agents. Rust TUI, MIT.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 256 |
+| 🍴 **Forks** | 10 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cli` `cloud-sync` `devops` `docker` `hashicorp-vault` `homelab` `mcp` `podman` `ratatui` `rust` `ssh` `ssh-bookmarks`
+
+## 🎯 Categories
+
+MCP · DevTools · Observability · DevOps/Infra
+
+## 📝 Summary
+
+### English
+
+Purple is an open‑source terminal SSH manager written in Rust that automatically syncs your ~/.ssh/config with resources across 16 cloud providers, adding or dimming hosts as VMs are created or destroyed. It offers fuzzy host search, live tunnel monitoring, scp, Docker‑over‑SSH, Vault SSH certificates, and an MCP server for AI agents, all via a sleek TUI. The project is MIT‑licensed and spans both frontend and backend components.
+
+### Русский
+
+**purple** — это кросс‑платформенный менеджер SSH в терминальном интерфейсе, написанный на Rust, который автоматически синхронизирует `~/.ssh/config` с вашей облачной инфраструктурой в 16 провайдерах: новые виртуальные машины появляются в списке хостов, а удалённые — исчезают. Встроенный fuzzy‑поиск, мониторинг туннелей в реальном времени, поддержка scp, Docker‑over‑SSH, сертификатов Vault и MCP‑сервера для AI‑агентов делают работу с SSH быстрым и безопасным. Проект открытый, лицензирован под MIT и подходит как для фронтенда (TUI), так и для бекенда.
+
+### 中文
+
+erickochen/purple：erickochen/purple helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** erickochen/purple helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 256 GitHub stars
+- 10 forks
+- updated 2026-05-08
+- primary language: Rust
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 26/100 |
+| stars | 51/100 |
+| topics | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/erickochen/purple) · [← Back to Mcp](./README.md)</sub>
