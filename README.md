@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **32903** |
+| 🗂️ **Total projects** | **32904** |
 | 📁 **Categories** | **44** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -33,7 +33,7 @@
 | 📱 **Mobile** | 409 | [Browse →](./mobile/) |
 | 💳 **Payments** | 351 | [Browse →](./payments/) |
 | 📈 **Trading** | 327 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 295 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 296 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 236 | [Browse →](./security/) |
 | 🏷️ **Observability** | 193 | [Browse →](./observability/) |
 | 🏷️ **Education** | 151 | [Browse →](./education/) |

@@ -197,8 +197,8 @@
 | 187 | [recp/cglm](./recp-cglm.md) | ⭐ 3k | C | 62/100 |
 | 188 | [Alexey-T/CudaText](./alexey-t-cudatext.md) | ⭐ 3.1k | Python | 62/100 |
 | 189 | [spinnaker/spinnaker](./spinnaker-spinnaker.md) | ⭐ 9.8k | Java | 62/100 |
-| 190 | [fcitx/fcitx5](./fcitx-fcitx5.md) | ⭐ 2.4k | C++ | 62/100 |
-| 191 | [marcelotduarte/cx_Freeze](./marcelotduarte-cx-freeze.md) | ⭐ 1.6k | Python | 62/100 |
+| 190 | [marcelotduarte/cx_Freeze](./marcelotduarte-cx-freeze.md) | ⭐ 1.6k | Python | 62/100 |
+| 191 | [fcitx/fcitx5](./fcitx-fcitx5.md) | ⭐ 2.4k | C++ | 62/100 |
 | 192 | [zacharee/Bifrost](./zacharee-bifrost.md) | ⭐ 1.5k | Kotlin | 62/100 |
 | 193 | [HaxeFlixel/flixel](./haxeflixel-flixel.md) | ⭐ 2.2k | Haxe | 62/100 |
 | 194 | [optimatika/ojAlgo](./optimatika-ojalgo.md) | ⭐ 500 | Java | 62/100 |
@@ -357,8 +357,8 @@
 | 347 | [PastVu/pastvu](./pastvu-pastvu.md) | ⭐ 161 | JavaScript | 59/100 |
 | 348 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 2k | C++ | 59/100 |
 | 349 | [ExpressionEngine/ExpressionEngine](./expressionengine-expressionengine.md) | ⭐ 501 | PHP | 59/100 |
-| 350 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
-| 351 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
+| 350 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
+| 351 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
 | 352 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
 | 353 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
 | 354 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
@@ -482,8 +482,8 @@
 | 472 | [tsz-org/tsz](./tsz-org-tsz.md) | ⭐ 512 | Rust | 56/100 |
 | 473 | [discourse/discourse](./discourse-discourse.md) | ⭐ 47k | Ruby | 56/100 |
 | 474 | [apecloud/kubeblocks](./apecloud-kubeblocks.md) | ⭐ 3k | Go | 56/100 |
-| 475 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.3k | C | 56/100 |
-| 476 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 56/100 |
+| 475 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 56/100 |
+| 476 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.3k | C | 56/100 |
 | 477 | [drk1rd/wharf](./drk1rd-wharf.md) | ⭐ — | — | 55/100 |
 | 478 | [nuxt/hints](./nuxt-hints.md) | ⭐ 344 | TypeScript | 55/100 |
 | 479 | [vollgerlab/rustybam](./vollgerlab-rustybam.md) | ⭐ 107 | Rust | 55/100 |
@@ -641,8 +641,8 @@
 | 631 | [scpwiki/wikijump](./scpwiki-wikijump.md) | ⭐ 163 | Rust | 46/100 |
 | 632 | [redis-rs/redis-rs](./redis-rs-redis-rs.md) | ⭐ 4.2k | Rust | 46/100 |
 | 633 | [cberner/redb](./cberner-redb.md) | ⭐ 4.5k | Rust | 46/100 |
-| 634 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 45/100 |
-| 635 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 45/100 |
+| 634 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 45/100 |
+| 635 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 45/100 |
 | 636 | [pigontech/inkvoice](./pigontech-inkvoice.md) | ⭐ — | — | 45/100 |
 | 637 | [asg017/sqlite-jiff](./asg017-sqlite-jiff.md) | ⭐ 107 | Rust | 45/100 |
 | 638 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 45/100 |
@@ -676,9 +676,9 @@
 | 666 | [supabase/postgres](./supabase-postgres.md) | ⭐ 1.7k | Nix | 44/100 |
 | 667 | [FoundationDB/fdb-record-layer](./foundationdb-fdb-record-layer.md) | ⭐ 661 | Java | 43/100 |
 | 668 | [tokio-rs/toasty](./tokio-rs-toasty.md) | ⭐ 2.3k | Rust | 43/100 |
-| 669 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 670 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 671 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 669 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 670 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 671 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
 | 672 | [sseemayer/keepass-rs](./sseemayer-keepass-rs.md) | ⭐ 159 | Rust | 42/100 |
 | 673 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 335 | R | 42/100 |
 | 674 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 162 | Rust | 42/100 |
@@ -730,8 +730,8 @@
 | 720 | [telemetry-sh/retry-storm-lab](./telemetry-sh-retry-storm-lab.md) | ⭐ — | — | 41/100 |
 | 721 | [helicalinsight/helicalinsight](./helicalinsight-helicalinsight.md) | ⭐ — | — | 41/100 |
 | 722 | [cursor/minisqlite](./cursor-minisqlite.md) | ⭐ — | — | 41/100 |
-| 723 | [Cysharp/MemoryPack](./cysharp-memorypack.md) | ⭐ — | — | 41/100 |
-| 724 | [ionic-team/capacitor](./ionic-team-capacitor.md) | ⭐ — | — | 41/100 |
+| 723 | [ionic-team/capacitor](./ionic-team-capacitor.md) | ⭐ — | — | 41/100 |
+| 724 | [Cysharp/MemoryPack](./cysharp-memorypack.md) | ⭐ — | — | 41/100 |
 | 725 | [nethical6/conversation-steganography](./nethical6-conversation-steganography.md) | ⭐ — | — | 41/100 |
 | 726 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 41/100 |
 | 727 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 41/100 |

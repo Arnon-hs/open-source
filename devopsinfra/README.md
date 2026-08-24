@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**295 projects** in this category.
+**296 projects** in this category.
 
 ## Projects
 
@@ -303,6 +303,7 @@
 | 293 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 39/100 |
 | 294 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 133 | Rust | 39/100 |
 | 295 | [ArmorerLabs/Armorer](./armorerlabs-armorer.md) | ⭐ — | — | 36/100 |
+| 296 | [jaequery/dockerhoster](./jaequery-dockerhoster.md) | ⭐ — | Shell | 30/100 |
 
 ---
 
