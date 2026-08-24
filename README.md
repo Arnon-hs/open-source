@@ -1,25 +1,20 @@
-# AtlasRepo Open Source Catalog
+# 🌟 Open Scout Catalog
 
-**Evidence-backed open-source search for coding agents.**
+> Auto-curated catalog of promising open-source projects.
+> Scouted from GitHub · HackerNews · Reddit · ProductHunt. Updated every 30 minutes by [RepoScout](https://github.com/kirbudilov01/reposearchengine).
 
-[Documentation](https://atlasrepo.com/docs) · [Hosted MCP](https://mcp.atlasrepo.com/mcp) · [npm](https://www.npmjs.com/package/atlasrepo-mcp) · [Skills](https://github.com/Arnon-hs/atlasrepo-skills)
+---
 
-> A living, auto-curated catalog of open-source projects, enriched with practical summaries, categories, quality signals and transparent scoring.
-
-## Purpose
-
-This repository turns a fast-moving open-source ecosystem into a browsable and machine-readable decision layer. Use it to discover candidates, compare practical fit and give coding agents grounded starting points before deeper technical, security and license review.
-
-## At a glance
+## 📊 At a glance
 
 | | |
 |---|---|
-| **Projects** | **32,904** |
-| **Categories** | **44** |
-| **Refresh** | Continuously maintained by AtlasRepo Scout |
-| **Metadata** | Repository signals, multilingual summaries and practical evaluations |
+| 🗂️ **Total projects** | **32904** |
+| 📁 **Categories** | **44** |
+| 🔄 **Auto-sync** | every 30 min via GitHub Actions |
+| 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
-## Browse the catalog
+## 🗂️ Categories
 
 | Category | Projects | |
 |---|---|---|
@@ -68,7 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-coding-agent** | 1 | [Browse →](./ai-coding-agent/) |
 | 🏷️ **Open-source** | 1 | [Browse →](./open-source/) |
 
-## Top projects by score
+## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
@@ -83,77 +78,45 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 9 | [wasp-lang/open-saas](./payments/wasp-lang-open-saas.md) | ⭐ 14.9k | Payments |
 | 10 | [firerpa/lamda](./mcp/firerpa-lamda.md) | ⭐ 7.9k | Mcp |
 
-## What each entry includes
-
-| Signal | Why it matters |
-|---|---|
-| Repository activity | Stars, forks, language and last update provide a quick health snapshot |
-| Practical summary | Concise English, Russian and Chinese context for faster evaluation |
-| Fit and readiness | Use cases, integration notes, quality signals and production-readiness notes |
-| Transparent score | A directional breakdown across usefulness, quality, integration, readiness, outlook and adoption |
-
-## How it works
+## 🚀 How it works
 
 ```mermaid
 graph LR
-  A[Approved discovery sources] --> B[AtlasRepo Scout]
+  A[GitHub · HN · Reddit · PH] --> B[RepoScout]
   B --> C[Score · Dedupe · Categorize]
-  C --> D[Summarize · Enrich]
-  D --> E[AtlasRepo platform]
-  D --> F[Open catalog]
+  C --> D[LLM Summarize]
+  D --> E[PostgreSQL DB]
+  D --> F[This Catalog]
 ```
 
-1. **Discover** — collect candidates from approved public sources.
-2. **Normalize** — deduplicate repositories and standardize metadata.
-3. **Evaluate** — score practical value, quality, integration fit, readiness, outlook and adoption.
-4. **Enrich** — add categories, summaries, use cases, quality signals and risk notes.
-5. **Publish** — update the AtlasRepo platform and this open catalog.
+1. **Discover** — 4 sources pulled in parallel
+2. **Score** — weighted: usefulness, quality, integration, production readiness, outlook, adoption
+3. **Categorize** — rule-based tagging across product domains, integrations, MCP, RAG, automation and infrastructure
+4. **Summarize** — concise RU/EN/ZH summaries via LLM with deterministic fallback
+5. **Sync** — markdown committed here, metadata upserted to PostgreSQL
 
-## Install
-
-### ChatGPT — hosted MCP plugin
-
-1. Open **Settings → Security and login** and enable **Developer mode**.
-2. Open [ChatGPT Plugins](https://chatgpt.com/#settings/Plugins), select **+**, and create a connection named `AtlasRepo`.
-3. Set the MCP endpoint to `https://mcp.atlasrepo.com/mcp`, create the connection, and review the discovered read-only tools.
-
-Developer mode availability depends on your account and workspace policy. See the [official OpenAI connection guide](https://developers.openai.com/plugins/deploy/connect-chatgpt).
-
-### Claude Code
-
-Plugin:
-
-```text
-/plugin marketplace add Arnon-hs/atlasrepo-skills
-/plugin install atlasrepo@atlasrepo-skills
-/reload-plugins
-```
-
-Hosted MCP only:
+## 🛠️ Self-host
 
 ```bash
-claude mcp add --transport http atlasrepo https://mcp.atlasrepo.com/mcp
+git clone https://github.com/kirbudilov01/reposearchengine
+cp .env.example .env
+# Set LLM_PROVIDER, CATALOG_REPO_PATH, DATABASE_URL, ...
+npm install && npm start
 ```
 
-Local npm MCP instead:
+Supports cloud LLM providers (OpenAI · Anthropic · OpenRouter · Gemini · Groq · Z.AI).
 
-```bash
-claude mcp add --transport stdio atlasrepo -- npx -y atlasrepo-mcp
-```
+## 📦 Data format
 
-Browse the [AtlasRepo Skills repository](https://github.com/Arnon-hs/atlasrepo-skills) or inspect the [`scout-rest-api` skill source](https://github.com/Arnon-hs/atlasrepo-skills/tree/main/plugins/atlasrepo/skills/scout-rest-api). Claude plugin commands follow the [official marketplace flow](https://code.claude.com/docs/en/discover-plugins); MCP-only commands follow the [official Claude MCP syntax](https://code.claude.com/docs/en/mcp).
+- [`index.json`](./index.json) — compact manifest for the sharded machine-readable catalog
+- `data/repos-*.json` — catalog shards sorted by score (up to 1000 projects each)
+- `<category>/README.md` — category index with ranked table
+- `<category>/<owner>-<name>.md` — per-repo card with stats, topics, summary
 
-## Data contract
+## 📜 License
 
-- [`index.json`](./index.json) — machine-readable entry point, currently a compact manifest for the sharded catalog.
-- `data/repos-*.json` — catalog shards sorted by score, with up to 1,000 projects per shard.
-- `<category>/README.md` — ranked category index.
-- `<category>/<owner>-<name>.md` — human-readable project card with evidence and evaluation metadata.
+MIT (metadata). Each linked repository retains its own license.
 
-## Trust boundary
+---
 
-Catalog records, scores, summaries and external installation commands are discovery aids, not endorsements or security guarantees. Verify repository ownership, current maintenance, dependencies, license compatibility and installation steps before adoption.
-
-## License
-
-MIT for this repository's catalog metadata. See [LICENSE](./LICENSE). Linked repositories remain governed by their respective licenses.
+<sub>🤖 Maintained automatically by RepoScout · Built with Claude Code</sub>

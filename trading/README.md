@@ -270,8 +270,8 @@
 | 260 | [quantiota/AI-Agent-Host](./quantiota-ai-agent-host.md) | ⭐ 32 | Python | 52/100 |
 | 261 | [FLOX-Foundation/flox](./flox-foundation-flox.md) | ⭐ — | — | 52/100 |
 | 262 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 52/100 |
-| 263 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 5k | Jupyter Notebook | 52/100 |
-| 264 | [waditu/czsc](./waditu-czsc.md) | ⭐ 5k | Python | 52/100 |
+| 263 | [waditu/czsc](./waditu-czsc.md) | ⭐ 5k | Python | 52/100 |
+| 264 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 5k | Jupyter Notebook | 52/100 |
 | 265 | [Xbs950812/okx_fvg_agent](./xbs950812-okx-fvg-agent.md) | ⭐ 1 | Python | 52/100 |
 | 266 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 624 | Python | 51/100 |
 | 267 | [tradingeconomics/tradingeconomics](./tradingeconomics-tradingeconomics.md) | ⭐ 951 | JavaScript | 51/100 |

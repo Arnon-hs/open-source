@@ -830,8 +830,8 @@
 | 820 | [springfall2008/batpred](./springfall2008-batpred.md) | ⭐ 301 | Python | 66/100 |
 | 821 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 66/100 |
 | 822 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 66/100 |
-| 823 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
-| 824 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
+| 823 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
+| 824 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
 | 825 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 66/100 |
 | 826 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 66/100 |
 | 827 | [BulloRosso/etienne](./bullorosso-etienne.md) | ⭐ 32 | TypeScript | 66/100 |
@@ -1119,8 +1119,8 @@
 | 1109 | [ThingsPanel/thingspanel-backend-community](./thingspanel-thingspanel-backend-community.md) | ⭐ 548 | Go | 62/100 |
 | 1110 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 1111 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 1112 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
-| 1113 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 1112 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 1113 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
 | 1114 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 1115 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 1116 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -1634,8 +1634,8 @@
 | 1624 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 41/100 |
 | 1625 | [mitmedialab/Junkyard-Jumbotron](./mitmedialab-junkyard-jumbotron.md) | ⭐ — | — | 41/100 |
 | 1626 | [liesliy/tlabel](./liesliy-tlabel.md) | ⭐ — | — | 41/100 |
-| 1627 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 41/100 |
-| 1628 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 41/100 |
+| 1627 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 41/100 |
+| 1628 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 41/100 |
 | 1629 | [IERoboticsAILab/RODEO](./ieroboticsailab-rodeo.md) | ⭐ — | — | 41/100 |
 | 1630 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 41/100 |
 | 1631 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 41/100 |
@@ -1654,8 +1654,8 @@
 | 1644 | [forrestblade/lr5-liberation](./forrestblade-lr5-liberation.md) | ⭐ — | — | 41/100 |
 | 1645 | [GorrihmAI/fbai-nonconscious-ai](./gorrihmai-fbai-nonconscious-ai.md) | ⭐ — | — | 41/100 |
 | 1646 | [mogwi1983/policybot](./mogwi1983-policybot.md) | ⭐ — | — | 41/100 |
-| 1647 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 41/100 |
-| 1648 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 41/100 |
+| 1647 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 41/100 |
+| 1648 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 41/100 |
 | 1649 | [robbyant/lingbot-video](./robbyant-lingbot-video.md) | ⭐ — | — | 41/100 |
 | 1650 | [smithandrewjohn/kindalive](./smithandrewjohn-kindalive.md) | ⭐ — | — | 41/100 |
 | 1651 | [Robbyant/lingbot-world-v2l-2026-07-10](./robbyant-lingbot-world-v2l-2026-07-10.md) | ⭐ — | — | 41/100 |
