@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33019** |
-| **Categories** | **28** |
+| **Projects** | **33030** |
+| **Categories** | **29** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14804 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 3247 | [Browse →](./aiml/) |
+| 📦 **Misc** | 14813 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 3248 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2520 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2173 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1334 | [Browse →](./devtools/) |
@@ -50,6 +50,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
 | 🏷️ **Local-first** | 2 | [Browse →](./local-first/) |
+| 🏷️ **Sandbox** | 1 | [Browse →](./sandbox/) |
 | 🏷️ **Ai** | 1 | [Browse →](./ai/) |
 
 ## Top projects by score
