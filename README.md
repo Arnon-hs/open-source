@@ -1,10 +1,10 @@
 # AtlasRepo Open Source Catalog
 
-Find the best open-source way to solve any task — for you or your AI agent.
+**Evidence-backed open-source search for coding agents.**
 
-[Explore AtlasRepo](https://atlasrepo.com) · [Documentation](https://atlasrepo.com/docs) · [Agent integrations](https://github.com/Arnon-hs/atlasrepo-skills) · [Machine-readable index](./index.json)
+[Documentation](https://atlasrepo.com/docs) · [Hosted MCP](https://mcp.atlasrepo.com/mcp) · [npm](https://www.npmjs.com/package/atlasrepo-mcp) · [Skills](https://github.com/Arnon-hs/atlasrepo-skills)
 
-> A living, auto-curated catalog of open-source projects, enriched with practical summaries, categories, quality signals and transparent scoring. Built by [AtlasRepo Scout](https://github.com/Arnon-hs/reposearchengine).
+> A living, auto-curated catalog of open-source projects, enriched with practical summaries, categories, quality signals and transparent scoring.
 
 ## Purpose
 
@@ -109,9 +109,39 @@ graph LR
 4. **Enrich** — add categories, summaries, use cases, quality signals and risk notes.
 5. **Publish** — update the AtlasRepo platform and this open catalog.
 
-## Use with AI agents
+## Install
 
-The catalog supports direct browsing and grounded agent workflows. [AtlasRepo Skills](https://github.com/Arnon-hs/atlasrepo-skills) adds read-only search and recommendation flows for compatible coding agents; the hosted [AtlasRepo MCP server](https://mcp.atlasrepo.com/mcp) exposes bounded catalog tools to compatible clients.
+### ChatGPT — hosted MCP plugin
+
+1. Open **Settings → Security and login** and enable **Developer mode**.
+2. Open [ChatGPT Plugins](https://chatgpt.com/#settings/Plugins), select **+**, and create a connection named `AtlasRepo`.
+3. Set the MCP endpoint to `https://mcp.atlasrepo.com/mcp`, create the connection, and review the discovered read-only tools.
+
+Developer mode availability depends on your account and workspace policy. See the [official OpenAI connection guide](https://developers.openai.com/plugins/deploy/connect-chatgpt).
+
+### Claude Code
+
+Plugin:
+
+```text
+/plugin marketplace add Arnon-hs/atlasrepo-skills
+/plugin install atlasrepo@atlasrepo-skills
+/reload-plugins
+```
+
+Hosted MCP only:
+
+```bash
+claude mcp add --transport http atlasrepo https://mcp.atlasrepo.com/mcp
+```
+
+Local npm MCP instead:
+
+```bash
+claude mcp add --transport stdio atlasrepo -- npx -y atlasrepo-mcp
+```
+
+Browse the [AtlasRepo Skills repository](https://github.com/Arnon-hs/atlasrepo-skills) or inspect the [`scout-rest-api` skill source](https://github.com/Arnon-hs/atlasrepo-skills/tree/main/plugins/atlasrepo/skills/scout-rest-api). Claude plugin commands follow the [official marketplace flow](https://code.claude.com/docs/en/discover-plugins); MCP-only commands follow the [official Claude MCP syntax](https://code.claude.com/docs/en/mcp).
 
 ## Data contract
 
