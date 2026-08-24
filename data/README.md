@@ -616,8 +616,8 @@
 | 606 | [minio/minlz](./minio-minlz.md) | ⭐ — | — | 41/100 |
 | 607 | [romeo19361/SonaCMS](./romeo19361-sonacms.md) | ⭐ — | — | 41/100 |
 | 608 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 41/100 |
-| 609 | [kzekiue/tinyreplay](./kzekiue-tinyreplay.md) | ⭐ — | — | 41/100 |
-| 610 | [ch-bas/cctv-camera-database](./ch-bas-cctv-camera-database.md) | ⭐ — | — | 41/100 |
+| 609 | [ch-bas/cctv-camera-database](./ch-bas-cctv-camera-database.md) | ⭐ — | — | 41/100 |
+| 610 | [kzekiue/tinyreplay](./kzekiue-tinyreplay.md) | ⭐ — | — | 41/100 |
 | 611 | [satmihir/grudge](./satmihir-grudge.md) | ⭐ — | — | 41/100 |
 | 612 | [columnar-tech/duckdb-adbc-client](./columnar-tech-duckdb-adbc-client.md) | ⭐ — | — | 41/100 |
 | 613 | [dekart-xyz/geosql](./dekart-xyz-geosql.md) | ⭐ — | — | 41/100 |

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **32913** |
-| **Categories** | **45** |
+| **Projects** | **32940** |
+| **Categories** | **47** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,27 +23,27 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 7678 | [Browse →](./misc/) |
+| 📦 **Misc** | 7689 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 7657 | [Browse →](./aiml/) |
 | 🎨 **Frontend** | 2540 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 2527 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2306 | [Browse →](./orchestration/) |
-| 🏷️ **Automation** | 1678 | [Browse →](./automation/) |
-| 🔧 **DevTools** | 1547 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 1176 | [Browse →](./backend/) |
+| 🏷️ **Mcp** | 2530 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2307 | [Browse →](./orchestration/) |
+| 🏷️ **Automation** | 1680 | [Browse →](./automation/) |
+| 🔧 **DevTools** | 1548 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 1178 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 990 | [Browse →](./crypto/) |
 | 🏷️ **Knowledgerag** | 920 | [Browse →](./knowledgerag/) |
-| 🏷️ **Database** | 793 | [Browse →](./database/) |
+| 🏷️ **Database** | 795 | [Browse →](./database/) |
 | 📊 **Data** | 641 | [Browse →](./data/) |
 | 📱 **Mobile** | 409 | [Browse →](./mobile/) |
 | 💳 **Payments** | 351 | [Browse →](./payments/) |
 | 📈 **Trading** | 327 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 296 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 298 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 236 | [Browse →](./security/) |
 | 🏷️ **Observability** | 193 | [Browse →](./observability/) |
 | 🏷️ **Education** | 151 | [Browse →](./education/) |
 | ✨ **Design** | 121 | [Browse →](./design/) |
-| 🏷️ **Templates** | 81 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 82 | [Browse →](./templates/) |
 | 🏷️ **Video-editing** | 80 | [Browse →](./video-editing/) |
 | 🏷️ **Marketing** | 53 | [Browse →](./marketing/) |
 | 🏷️ **Vertical-video** | 52 | [Browse →](./vertical-video/) |
@@ -54,6 +54,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Image-processing** | 2 | [Browse →](./image-processing/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Ai** | 2 | [Browse →](./ai/) |
+| 🏷️ **Playwright** | 1 | [Browse →](./playwright/) |
+| 🏷️ **Debugging** | 1 | [Browse →](./debugging/) |
 | 🏷️ **Github-actions** | 1 | [Browse →](./github-actions/) |
 | 🏷️ **Ai-video** | 1 | [Browse →](./ai-video/) |
 | 🏷️ **Lead-generation** | 1 | [Browse →](./lead-generation/) |
