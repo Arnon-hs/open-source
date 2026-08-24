@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **33012** |
+| **Projects** | **33019** |
 | **Categories** | **28** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,13 +23,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 14801 | [Browse →](./misc/) |
+| 📦 **Misc** | 14804 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 3247 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2520 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2173 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1333 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1334 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1215 | [Browse →](./automation/) |
-| 🎨 **Frontend** | 960 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 961 | [Browse →](./frontend/) |
 | ⚙️ **Backend** | 889 | [Browse →](./backend/) |
 | ⛓️ **Crypto** | 748 | [Browse →](./crypto/) |
 | 📱 **Mobile** | 701 | [Browse →](./mobile/) |
@@ -38,14 +38,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 551 | [Browse →](./knowledgerag/) |
 | 🏷️ **Templates** | 407 | [Browse →](./templates/) |
 | 📊 **Data** | 388 | [Browse →](./data/) |
-| 🔐 **Security** | 382 | [Browse →](./security/) |
+| 🔐 **Security** | 383 | [Browse →](./security/) |
 | 🏷️ **Observability** | 334 | [Browse →](./observability/) |
 | 💳 **Payments** | 296 | [Browse →](./payments/) |
 | 🏷️ **Video-editing** | 267 | [Browse →](./video-editing/) |
 | 📈 **Trading** | 181 | [Browse →](./trading/) |
 | ✨ **Design** | 160 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 122 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 67 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 68 | [Browse →](./vertical-video/) |
 | 🏷️ **Education** | 45 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 43 | [Browse →](./marketing/) |
 | 🎯 **Product** | 8 | [Browse →](./product/) |
