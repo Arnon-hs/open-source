@@ -343,8 +343,8 @@
 | 333 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 39 | JavaScript | 55/100 |
 | 334 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 949 | Rust | 55/100 |
 | 335 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 219 | Python | 55/100 |
-| 336 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 55/100 |
-| 337 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 55/100 |
+| 336 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 55/100 |
+| 337 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 55/100 |
 | 338 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 349 | TypeScript | 55/100 |
 | 339 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 284 | TypeScript | 55/100 |
 | 340 | [lux-db/lux](./lux-db-lux.md) | ⭐ 270 | Rust | 55/100 |
@@ -509,9 +509,9 @@
 | 499 | [rimironenko/rag-staleness-check](./rimironenko-rag-staleness-check.md) | ⭐ — | — | 39/100 |
 | 500 | [DemigodDSK/hubmesh](./demigoddsk-hubmesh.md) | ⭐ — | — | 39/100 |
 | 501 | [antonyrag/ragleap-core](./antonyrag-ragleap-core.md) | ⭐ — | — | 39/100 |
-| 502 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 39/100 |
+| 502 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
 | 503 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
-| 504 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
+| 504 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 39/100 |
 | 505 | [Ajay6601/embedcache](./ajay6601-embedcache.md) | ⭐ — | — | 39/100 |
 | 506 | [impel-intelligence/Minna](./impel-intelligence-minna.md) | ⭐ — | — | 38/100 |
 | 507 | [pollockchris083-arch/counterentry](./pollockchris083-arch-counterentry.md) | ⭐ — | — | 38/100 |
