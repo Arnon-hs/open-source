@@ -622,8 +622,8 @@
 | 612 | [Armur-Ai/Pentest-Swarm-AI](./armur-ai-pentest-swarm-ai.md) | ⭐ 1k | Go | 69/100 |
 | 613 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 3k | TypeScript | 69/100 |
 | 614 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.1k | AutoHotkey | 68/100 |
-| 615 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 68/100 |
-| 616 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 68/100 |
+| 615 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 68/100 |
+| 616 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 68/100 |
 | 617 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 68/100 |
 | 618 | [1technophile/OpenMQTTGateway](./1technophile-openmqttgateway.md) | ⭐ 4.1k | C++ | 68/100 |
 | 619 | [inclusionAI/Awex](./inclusionai-awex.md) | ⭐ 169 | Python | 68/100 |
@@ -718,8 +718,8 @@
 | 708 | [asc-community/AngouriMath](./asc-community-angourimath.md) | ⭐ 824 | C# | 67/100 |
 | 709 | [mworldorg/markdown-memory](./mworldorg-markdown-memory.md) | ⭐ 23 | Python | 67/100 |
 | 710 | [M507/RamiGPT](./m507-ramigpt.md) | ⭐ 860 | Python | 67/100 |
-| 711 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 67/100 |
-| 712 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 67/100 |
+| 711 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 67/100 |
+| 712 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 67/100 |
 | 713 | [nestjs/bull](./nestjs-bull.md) | ⭐ 699 | TypeScript | 67/100 |
 | 714 | [terrakube-io/terrakube](./terrakube-io-terrakube.md) | ⭐ 927 | Java | 67/100 |
 | 715 | [robot-descriptions/robot_descriptions.py](./robot-descriptions-robot-descriptions.py.md) | ⭐ 796 | Python | 67/100 |
@@ -830,8 +830,8 @@
 | 820 | [springfall2008/batpred](./springfall2008-batpred.md) | ⭐ 301 | Python | 66/100 |
 | 821 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 66/100 |
 | 822 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 66/100 |
-| 823 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
-| 824 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
+| 823 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
+| 824 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
 | 825 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 66/100 |
 | 826 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 66/100 |
 | 827 | [BulloRosso/etienne](./bullorosso-etienne.md) | ⭐ 32 | TypeScript | 66/100 |
@@ -1528,8 +1528,8 @@
 | 1518 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 747 | Python | 49/100 |
 | 1519 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 329 | — | 49/100 |
 | 1520 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 218 | Rust | 49/100 |
-| 1521 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
-| 1522 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
+| 1521 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 505 | Go | 49/100 |
+| 1522 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
 | 1523 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 3.6k | Shell | 49/100 |
 | 1524 | [HarjjotSinghh/locum](./harjjotsinghh-locum.md) | ⭐ — | — | 48/100 |
 | 1525 | [regent-protocol/regent-httpsig](./regent-protocol-regent-httpsig.md) | ⭐ — | — | 48/100 |
@@ -1654,8 +1654,8 @@
 | 1644 | [forrestblade/lr5-liberation](./forrestblade-lr5-liberation.md) | ⭐ — | — | 41/100 |
 | 1645 | [GorrihmAI/fbai-nonconscious-ai](./gorrihmai-fbai-nonconscious-ai.md) | ⭐ — | — | 41/100 |
 | 1646 | [mogwi1983/policybot](./mogwi1983-policybot.md) | ⭐ — | — | 41/100 |
-| 1647 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 41/100 |
-| 1648 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 41/100 |
+| 1647 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 41/100 |
+| 1648 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 41/100 |
 | 1649 | [robbyant/lingbot-video](./robbyant-lingbot-video.md) | ⭐ — | — | 41/100 |
 | 1650 | [smithandrewjohn/kindalive](./smithandrewjohn-kindalive.md) | ⭐ — | — | 41/100 |
 | 1651 | [Robbyant/lingbot-world-v2l-2026-07-10](./robbyant-lingbot-world-v2l-2026-07-10.md) | ⭐ — | — | 41/100 |
@@ -1682,8 +1682,8 @@
 | 1672 | [XENOCOREGIGER31/local-model](./xenocoregiger31-local-model.md) | ⭐ — | — | 33/100 |
 | 1673 | [AutoPackAI/beebot](./autopackai-beebot.md) | ⭐ — | — | 32/100 |
 | 1674 | [stepanogil/autonomous-hr-chatbot](./stepanogil-autonomous-hr-chatbot.md) | ⭐ — | — | 32/100 |
-| 1675 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1676 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1675 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1676 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
 
 ---
 

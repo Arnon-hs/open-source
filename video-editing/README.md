@@ -2,7 +2,7 @@
 
 > 
 
-**79 projects** in this category.
+**80 projects** in this category.
 
 ## Projects
 
@@ -21,8 +21,8 @@
 | 11 | [ybouane/VideoFlow](./ybouane-videoflow.md) | ⭐ 140 | TypeScript | 74/100 |
 | 12 | [linzzzzzz/openclip](./linzzzzzz-openclip.md) | ⭐ 549 | Python | 73/100 |
 | 13 | [haidrrrry/claude-remotion-skill](./haidrrrry-claude-remotion-skill.md) | ⭐ 72 | TypeScript | 73/100 |
-| 14 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 73/100 |
-| 15 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 73/100 |
+| 14 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 73/100 |
+| 15 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 73/100 |
 | 16 | [SysAdminDoc/OpenCut](./sysadmindoc-opencut.md) | ⭐ 40 | Python | 73/100 |
 | 17 | [SamurAIGPT/Text-To-Video-AI](./samuraigpt-text-to-video-ai.md) | ⭐ 814 | Jupyter Notebook | 72/100 |
 | 18 | [mishkatik/infra-billing](./mishkatik-infra-billing.md) | ⭐ 65 | TypeScript | 72/100 |
@@ -72,21 +72,22 @@
 | 62 | [remotion-dev/remotion](./remotion-dev-remotion.md) | ⭐ 46.2k | TypeScript | 59/100 |
 | 63 | [chrisbenincasa/tunarr](./chrisbenincasa-tunarr.md) | ⭐ 2.3k | TypeScript | 59/100 |
 | 64 | [vanloctech/youwee](./vanloctech-youwee.md) | ⭐ 855 | TypeScript | 58/100 |
-| 65 | [remotion-dev/recorder](./remotion-dev-recorder.md) | ⭐ 48 | TypeScript | 57/100 |
-| 66 | [izwi-ai/izwi](./izwi-ai-izwi.md) | ⭐ 317 | Rust | 57/100 |
-| 67 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 56/100 |
-| 68 | [ytrofr/claude-remotion-editor](./ytrofr-claude-remotion-editor.md) | ⭐ 26 | TypeScript | 55/100 |
-| 69 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 717 | Kotlin | 55/100 |
-| 70 | [CheshireMew/visual-multimedia](./cheshiremew-visual-multimedia.md) | ⭐ 22 | JavaScript | 53/100 |
-| 71 | [SteliyanH/kadr](./steliyanh-kadr.md) | ⭐ 48 | Swift | 53/100 |
-| 72 | [asbplayer/asbplayer](./asbplayer-asbplayer.md) | ⭐ 1.2k | TypeScript | 52/100 |
-| 73 | [SubtitleEdit/subtitleedit](./subtitleedit-subtitleedit.md) | ⭐ 12.8k | C# | 52/100 |
-| 74 | [homebridge/homebridge-raspbian-image](./homebridge-homebridge-raspbian-image.md) | ⭐ 1.1k | Shell | 51/100 |
-| 75 | [McCloudS/subgen](./mcclouds-subgen.md) | ⭐ 1.3k | Python | 50/100 |
-| 76 | [haasn/libplacebo](./haasn-libplacebo.md) | ⭐ 735 | C | 50/100 |
-| 77 | [ffplayout/ffplayout](./ffplayout-ffplayout.md) | ⭐ 560 | Rust | 50/100 |
-| 78 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 588 | JavaScript | 49/100 |
-| 79 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 47/100 |
+| 65 | [DozaVisuals/doza-assist](./dozavisuals-doza-assist.md) | ⭐ 51 | Python | 57/100 |
+| 66 | [remotion-dev/recorder](./remotion-dev-recorder.md) | ⭐ 48 | TypeScript | 57/100 |
+| 67 | [izwi-ai/izwi](./izwi-ai-izwi.md) | ⭐ 317 | Rust | 57/100 |
+| 68 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 56/100 |
+| 69 | [ytrofr/claude-remotion-editor](./ytrofr-claude-remotion-editor.md) | ⭐ 26 | TypeScript | 55/100 |
+| 70 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 717 | Kotlin | 55/100 |
+| 71 | [CheshireMew/visual-multimedia](./cheshiremew-visual-multimedia.md) | ⭐ 22 | JavaScript | 53/100 |
+| 72 | [SteliyanH/kadr](./steliyanh-kadr.md) | ⭐ 48 | Swift | 53/100 |
+| 73 | [asbplayer/asbplayer](./asbplayer-asbplayer.md) | ⭐ 1.2k | TypeScript | 52/100 |
+| 74 | [SubtitleEdit/subtitleedit](./subtitleedit-subtitleedit.md) | ⭐ 12.8k | C# | 52/100 |
+| 75 | [homebridge/homebridge-raspbian-image](./homebridge-homebridge-raspbian-image.md) | ⭐ 1.1k | Shell | 51/100 |
+| 76 | [McCloudS/subgen](./mcclouds-subgen.md) | ⭐ 1.3k | Python | 50/100 |
+| 77 | [haasn/libplacebo](./haasn-libplacebo.md) | ⭐ 735 | C | 50/100 |
+| 78 | [ffplayout/ffplayout](./ffplayout-ffplayout.md) | ⭐ 560 | Rust | 50/100 |
+| 79 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 588 | JavaScript | 49/100 |
+| 80 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 47/100 |
 
 ---
 

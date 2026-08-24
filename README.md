@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **32901** |
+| 🗂️ **Total projects** | **32903** |
 | 📁 **Categories** | **44** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -35,11 +35,11 @@
 | 📈 **Trading** | 327 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 295 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 236 | [Browse →](./security/) |
-| 🏷️ **Observability** | 192 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 193 | [Browse →](./observability/) |
 | 🏷️ **Education** | 151 | [Browse →](./education/) |
 | ✨ **Design** | 121 | [Browse →](./design/) |
 | 🏷️ **Templates** | 81 | [Browse →](./templates/) |
-| 🏷️ **Video-editing** | 79 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 80 | [Browse →](./video-editing/) |
 | 🏷️ **Marketing** | 53 | [Browse →](./marketing/) |
 | 🏷️ **Vertical-video** | 52 | [Browse →](./vertical-video/) |
 | 🎯 **Product** | 47 | [Browse →](./product/) |

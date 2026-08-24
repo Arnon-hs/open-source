@@ -155,8 +155,8 @@
 | 145 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 793 | Kotlin | 59/100 |
 | 146 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.1k | Kotlin | 59/100 |
 | 147 | [gsantner/markor](./gsantner-markor.md) | ⭐ 5.5k | Java | 59/100 |
-| 148 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 58/100 |
-| 149 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 58/100 |
+| 148 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 58/100 |
+| 149 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 58/100 |
 | 150 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 527 | Python | 58/100 |
 | 151 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 465 | Kotlin | 58/100 |
 | 152 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 2.1k | Kotlin | 58/100 |
