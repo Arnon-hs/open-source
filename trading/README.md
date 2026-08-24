@@ -109,8 +109,8 @@
 | 99 | [cypht-org/cypht](./cypht-org-cypht.md) | ⭐ 1.6k | PHP | 68/100 |
 | 100 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 34.4k | Python | 68/100 |
 | 101 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 459 | Python | 68/100 |
-| 102 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 67/100 |
-| 103 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 67/100 |
+| 102 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 67/100 |
+| 103 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 67/100 |
 | 104 | [eddmpython/dartlab](./eddmpython-dartlab.md) | ⭐ 205 | Python | 67/100 |
 | 105 | [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](./harrieronchain-prediction-markets-trading-bot-toolkits.md) | ⭐ 354 | Rust | 67/100 |
 | 106 | [Travisun/Opptrix](./travisun-opptrix.md) | ⭐ 32 | TypeScript | 67/100 |
@@ -124,8 +124,8 @@
 | 114 | [217heidai/adblockfilters](./217heidai-adblockfilters.md) | ⭐ 7.2k | Python | 67/100 |
 | 115 | [intel/auto-round](./intel-auto-round.md) | ⭐ 1.4k | Python | 67/100 |
 | 116 | [pmxt-dev/pmxt](./pmxt-dev-pmxt.md) | ⭐ 1.7k | TypeScript | 67/100 |
-| 117 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
-| 118 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
+| 117 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 66/100 |
+| 118 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 66/100 |
 | 119 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 66/100 |
 | 120 | [8680/GOODBYEADS](./8680-goodbyeads.md) | ⭐ 1.8k | Python | 66/100 |
 | 121 | [discopy/discopy](./discopy-discopy.md) | ⭐ 430 | Python | 66/100 |

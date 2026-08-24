@@ -125,8 +125,8 @@
 | 115 | [getfider/fider](./getfider-fider.md) | ⭐ 4.4k | Go | 65/100 |
 | 116 | [TabooLib/taboolib](./taboolib-taboolib.md) | ⭐ 383 | Kotlin | 65/100 |
 | 117 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 118 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
-| 119 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 118 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 119 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
 | 120 | [dolphin-emu/dolphin](./dolphin-emu-dolphin.md) | ⭐ 15.4k | C++ | 64/100 |
 | 121 | [rusqlite/rusqlite](./rusqlite-rusqlite.md) | ⭐ 4.3k | Rust | 64/100 |
 | 122 | [hathach/tinyusb](./hathach-tinyusb.md) | ⭐ 7k | C | 64/100 |
@@ -407,8 +407,8 @@
 | 397 | [linq2db/linq2db](./linq2db-linq2db.md) | ⭐ 3.3k | C# | 58/100 |
 | 398 | [exceptionless/Exceptionless](./exceptionless-exceptionless.md) | ⭐ 2.5k | C# | 58/100 |
 | 399 | [walinejs/waline](./walinejs-waline.md) | ⭐ 3k | JavaScript | 58/100 |
-| 400 | [tess1o/geopulse](./tess1o-geopulse.md) | ⭐ 841 | Java | 58/100 |
-| 401 | [David-Crty/databasement](./david-crty-databasement.md) | ⭐ 768 | PHP | 58/100 |
+| 400 | [David-Crty/databasement](./david-crty-databasement.md) | ⭐ 768 | PHP | 58/100 |
+| 401 | [tess1o/geopulse](./tess1o-geopulse.md) | ⭐ 841 | Java | 58/100 |
 | 402 | [signal18/replication-manager](./signal18-replication-manager.md) | ⭐ 729 | Go | 58/100 |
 | 403 | [brianmario/mysql2](./brianmario-mysql2.md) | ⭐ 2.3k | Ruby | 57/100 |
 | 404 | [bootlin/snagboot](./bootlin-snagboot.md) | ⭐ 311 | Python | 57/100 |
@@ -482,8 +482,8 @@
 | 472 | [tsz-org/tsz](./tsz-org-tsz.md) | ⭐ 512 | Rust | 56/100 |
 | 473 | [discourse/discourse](./discourse-discourse.md) | ⭐ 47k | Ruby | 56/100 |
 | 474 | [apecloud/kubeblocks](./apecloud-kubeblocks.md) | ⭐ 3k | Go | 56/100 |
-| 475 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 56/100 |
-| 476 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.3k | C | 56/100 |
+| 475 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.3k | C | 56/100 |
+| 476 | [mongodb/mongo](./mongodb-mongo.md) | ⭐ 28.3k | C++ | 56/100 |
 | 477 | [drk1rd/wharf](./drk1rd-wharf.md) | ⭐ — | — | 55/100 |
 | 478 | [nuxt/hints](./nuxt-hints.md) | ⭐ 344 | TypeScript | 55/100 |
 | 479 | [vollgerlab/rustybam](./vollgerlab-rustybam.md) | ⭐ 107 | Rust | 55/100 |
@@ -676,9 +676,9 @@
 | 666 | [supabase/postgres](./supabase-postgres.md) | ⭐ 1.7k | Nix | 44/100 |
 | 667 | [FoundationDB/fdb-record-layer](./foundationdb-fdb-record-layer.md) | ⭐ 661 | Java | 43/100 |
 | 668 | [tokio-rs/toasty](./tokio-rs-toasty.md) | ⭐ 2.3k | Rust | 43/100 |
-| 669 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 670 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 671 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 669 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 670 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 671 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 672 | [sseemayer/keepass-rs](./sseemayer-keepass-rs.md) | ⭐ 159 | Rust | 42/100 |
 | 673 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 335 | R | 42/100 |
 | 674 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 162 | Rust | 42/100 |
@@ -700,8 +700,8 @@
 | 690 | [adanil-code/LRUHashTable](./adanil-code-lruhashtable.md) | ⭐ — | — | 41/100 |
 | 691 | [burrito-elixir/burrito](./burrito-elixir-burrito.md) | ⭐ — | — | 41/100 |
 | 692 | [spectrum-sec/delta-tradecraft](./spectrum-sec-delta-tradecraft.md) | ⭐ — | — | 41/100 |
-| 693 | [FED-OS/Fed-Poster](./fed-os-fed-poster.md) | ⭐ — | — | 41/100 |
-| 694 | [APERTURESyndicate/synx-format](./aperturesyndicate-synx-format.md) | ⭐ — | — | 41/100 |
+| 693 | [APERTURESyndicate/synx-format](./aperturesyndicate-synx-format.md) | ⭐ — | — | 41/100 |
+| 694 | [FED-OS/Fed-Poster](./fed-os-fed-poster.md) | ⭐ — | — | 41/100 |
 | 695 | [ahmadpiran/restoredrill](./ahmadpiran-restoredrill.md) | ⭐ — | — | 41/100 |
 | 696 | [techpivot/terraform-module-releaser](./techpivot-terraform-module-releaser.md) | ⭐ — | — | 41/100 |
 | 697 | [schroedinger-Hat/certo](./schroedinger-hat-certo.md) | ⭐ — | — | 41/100 |
@@ -730,8 +730,8 @@
 | 720 | [telemetry-sh/retry-storm-lab](./telemetry-sh-retry-storm-lab.md) | ⭐ — | — | 41/100 |
 | 721 | [helicalinsight/helicalinsight](./helicalinsight-helicalinsight.md) | ⭐ — | — | 41/100 |
 | 722 | [cursor/minisqlite](./cursor-minisqlite.md) | ⭐ — | — | 41/100 |
-| 723 | [ionic-team/capacitor](./ionic-team-capacitor.md) | ⭐ — | — | 41/100 |
-| 724 | [Cysharp/MemoryPack](./cysharp-memorypack.md) | ⭐ — | — | 41/100 |
+| 723 | [Cysharp/MemoryPack](./cysharp-memorypack.md) | ⭐ — | — | 41/100 |
+| 724 | [ionic-team/capacitor](./ionic-team-capacitor.md) | ⭐ — | — | 41/100 |
 | 725 | [nethical6/conversation-steganography](./nethical6-conversation-steganography.md) | ⭐ — | — | 41/100 |
 | 726 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 41/100 |
 | 727 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 41/100 |

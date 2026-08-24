@@ -21,8 +21,8 @@
 | 11 | [ybouane/VideoFlow](./ybouane-videoflow.md) | ⭐ 140 | TypeScript | 74/100 |
 | 12 | [linzzzzzz/openclip](./linzzzzzz-openclip.md) | ⭐ 549 | Python | 73/100 |
 | 13 | [haidrrrry/claude-remotion-skill](./haidrrrry-claude-remotion-skill.md) | ⭐ 72 | TypeScript | 73/100 |
-| 14 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 73/100 |
-| 15 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 73/100 |
+| 14 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 73/100 |
+| 15 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 73/100 |
 | 16 | [SysAdminDoc/OpenCut](./sysadmindoc-opencut.md) | ⭐ 40 | Python | 73/100 |
 | 17 | [SamurAIGPT/Text-To-Video-AI](./samuraigpt-text-to-video-ai.md) | ⭐ 814 | Jupyter Notebook | 72/100 |
 | 18 | [mishkatik/infra-billing](./mishkatik-infra-billing.md) | ⭐ 65 | TypeScript | 72/100 |

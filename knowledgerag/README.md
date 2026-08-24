@@ -763,8 +763,8 @@
 | 753 | [iqlusioninc/yubikey.rs](./iqlusioninc-yubikey.rs.md) | ⭐ 261 | Rust | 56/100 |
 | 754 | [sysid/bkmr](./sysid-bkmr.md) | ⭐ 251 | Rust | 56/100 |
 | 755 | [jeffreylanters/react-unity-webgl](./jeffreylanters-react-unity-webgl.md) | ⭐ 1.9k | TypeScript | 56/100 |
-| 756 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
-| 757 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
+| 756 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
+| 757 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
 | 758 | [aws-samples/generative-ai-use-cases](./aws-samples-generative-ai-use-cases.md) | ⭐ 1.3k | TypeScript | 56/100 |
 | 759 | [tetherto/qvac](./tetherto-qvac.md) | ⭐ 163 | JavaScript | 56/100 |
 | 760 | [neo4j/neo4j-graphrag-python](./neo4j-neo4j-graphrag-python.md) | ⭐ 1.2k | Python | 56/100 |
@@ -843,8 +843,8 @@
 | 833 | [trvon/yams](./trvon-yams.md) | ⭐ 373 | C++ | 47/100 |
 | 834 | [NodeDB-Lab/nodedb](./nodedb-lab-nodedb.md) | ⭐ 119 | Rust | 47/100 |
 | 835 | [GiulioDER/RE-call](./giulioder-re-call.md) | ⭐ — | — | 46/100 |
-| 836 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
-| 837 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 836 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 837 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
 | 838 | [Build5Nines/SharpVector](./build5nines-sharpvector.md) | ⭐ 133 | C# | 46/100 |
 | 839 | [DataTalksClub/llm-zoomcamp](./datatalksclub-llm-zoomcamp.md) | ⭐ 5k | Jupyter Notebook | 46/100 |
 | 840 | [io-s2c/s2c](./io-s2c-s2c.md) | ⭐ — | — | 45/100 |
@@ -880,8 +880,8 @@
 | 870 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ — | — | 45/100 |
 | 871 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 45/100 |
 | 872 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
-| 873 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
-| 874 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 873 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 874 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
 | 875 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
 | 876 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
 | 877 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |
@@ -918,13 +918,13 @@
 | 908 | [mat-mgm/kb-prolog](./mat-mgm-kb-prolog.md) | ⭐ — | — | 41/100 |
 | 909 | [l-zhi/pith-wiki](./l-zhi-pith-wiki.md) | ⭐ — | — | 41/100 |
 | 910 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 41/100 |
-| 911 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 39/100 |
-| 912 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
-| 913 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
-| 914 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 38/100 |
-| 915 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 38/100 |
-| 916 | [sentence-transformers/all-MiniLM-L12-v2](./sentence-transformers-all-minilm-l12-v2.md) | ⭐ 324 | sentence-transformers | 37/100 |
-| 917 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 37/100 |
+| 911 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
+| 912 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 39/100 |
+| 913 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 39/100 |
+| 914 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 38/100 |
+| 915 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 38/100 |
+| 916 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 37/100 |
+| 917 | [sentence-transformers/all-MiniLM-L12-v2](./sentence-transformers-all-minilm-l12-v2.md) | ⭐ 324 | sentence-transformers | 37/100 |
 | 918 | [intfloat/multilingual-e5-small](./intfloat-multilingual-e5-small.md) | ⭐ 374 | sentence-transformers | 37/100 |
 | 919 | [datasocietyco/bge-base-en-v1.5-course-recommender-v5](./datasocietyco-bge-base-en-v1.5-course-recommender-v5.md) | ⭐ 1 | sentence-transformers | 29/100 |
 | 920 | [dbyter/sphere-embed](./dbyter-sphere-embed.md) | ⭐ — | — | 28/100 |
