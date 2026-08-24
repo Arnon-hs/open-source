@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Michaelliv/runline：Michaelliv/runline helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 52/100 |
-| integration | 94/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 37/100 |
-| stars | 44/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

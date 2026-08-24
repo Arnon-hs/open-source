@@ -63,16 +63,16 @@ craftzdog/solarized-osaka.nvim：craftzdog/solarized-osaka.nvim may be useful wh
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 58/100 |
-| stars | 64/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 63/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

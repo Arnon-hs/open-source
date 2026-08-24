@@ -62,16 +62,16 @@ thatmagicalcat/magicalos：thatmagicalcat/magicalos may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 37/100 |
-| integration | 30/100 |
-| production | 40/100 |
-| outlook | 35/100 |
-| adoption | 39/100 |
-| stars | 49/100 |
 | forks | 12/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 0/100 |
+| outlook | 35/100 |
+| quality | 37/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

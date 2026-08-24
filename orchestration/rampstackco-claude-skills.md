@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Design · Marketing
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ rampstackco/claude-skills：rampstackco/claude-skills helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 42/100 |
-| stars | 46/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

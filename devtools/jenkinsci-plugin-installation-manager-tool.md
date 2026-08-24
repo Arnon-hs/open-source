@@ -65,16 +65,16 @@ jenkinsci/plugin-installation-manager-tool：jenkinsci/plugin-installation-manag
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 51/100 |
-| adoption | 57/100 |
-| stars | 57/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 50/100 |
+| outlook | 51/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

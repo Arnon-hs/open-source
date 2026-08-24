@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ stripe/stripe-node: stripe/stripe-node helps integrate monetization, billing, or
 
 ### Русский
 
-stripe/stripe-node: open-source проект в категориях Payments, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+stripe/stripe-node: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ stripe/stripe-node：stripe/stripe-node helps integrate monetization, billing, o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 53/100 |
-| adoption | 77/100 |
-| stars | 78/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 25/100 |
+| outlook | 53/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ itlackey/akm：itlackey/akm helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 78/100 |
-| production | 50/100 |
-| outlook | 54/100 |
-| adoption | 29/100 |
-| stars | 35/100 |
 | forks | 12/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

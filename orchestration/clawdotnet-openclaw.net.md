@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ clawdotnet/openclaw.net: clawdotnet/openclaw.net helps turn isolated prompts and
 
 ### Русский
 
-clawdotnet/openclaw.net: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+clawdotnet/openclaw.net: open-source проект в категориях Orchestration, MCP, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ clawdotnet/openclaw.net：clawdotnet/openclaw.net helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 60/100 |
-| adoption | 50/100 |
-| stars | 53/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 49/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ Show HN: Akmon, a Rust AI coding agent for regulated engineering：Show HN: Akmo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 21/100 |
-| integration | 30/100 |
-| production | 32/100 |
-| outlook | 29/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 25/100 |
+| outlook | 29/100 |
+| quality | 21/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 32/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 80/100 |
 
 ---

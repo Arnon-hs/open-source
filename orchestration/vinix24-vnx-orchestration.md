@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Vinix24/vnx-orchestration：Vinix24/vnx-orchestration helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 47/100 |
-| integration | 78/100 |
-| production | 50/100 |
-| outlook | 54/100 |
-| adoption | 27/100 |
-| stars | 31/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 31/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ tempoxyz/mpp-rs：tempoxyz/mpp-rs helps integrate monetization, billing, or PSP 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 37/100 |
-| stars | 40/100 |
 | forks | 30/100 |
-| recency | 20/100 |
+| stars | 40/100 |
 | topics | 63/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

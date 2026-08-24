@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ aledipa/Free-GPT4-WEB-API：aledipa/Free-GPT4-WEB-API helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 59/100 |
-| stars | 61/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

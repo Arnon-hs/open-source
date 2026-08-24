@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ vm0-ai/vm0: vm0-ai/vm0 helps turn isolated prompts and tools into repeatable age
 
 ### Русский
 
-vm0-ai/vm0: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+vm0-ai/vm0: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ vm0-ai/vm0：vm0-ai/vm0 helps turn isolated prompts and tools into repeatable ag
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 59/100 |
-| adoption | 59/100 |
-| stars | 65/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

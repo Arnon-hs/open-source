@@ -65,16 +65,16 @@ StarCitizenTools/mediawiki-skins-Citizen：StarCitizenTools/mediawiki-skins-Citi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 43/100 |
-| adoption | 52/100 |
-| stars | 54/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 13/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

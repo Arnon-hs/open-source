@@ -65,16 +65,16 @@ he-yufeng/CoreCoder：he-yufeng/CoreCoder helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 59/100 |
-| stars | 60/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ rust-embedded/awesome-embedded-rust：rust-embedded/awesome-embedded-rust may be
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 78/100 |
-| stars | 83/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

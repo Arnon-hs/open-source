@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Security
+AI/ML · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ kite-org/kite：kite-org/kite helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 66/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 69/100 |
-| stars | 73/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

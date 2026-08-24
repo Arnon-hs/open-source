@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Frontend
+Crypto · Trading
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ nautechsystems/nautilus_trader: nautechsystems/nautilus_trader helps prototype o
 
 ### Русский
 
-nautechsystems/nautilus_trader: open-source проект в категориях Crypto, Trading, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+nautechsystems/nautilus_trader: open-source проект в категориях Crypto, Trading. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ nautechsystems/nautilus_trader：nautechsystems/nautilus_trader helps prototype 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 91/100 |
-| stars | 93/100 |
 | forks | 86/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

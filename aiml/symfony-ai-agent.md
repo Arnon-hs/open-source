@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ symfony/ai-agent：symfony/ai-agent helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 42/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 42/100 |
-| adoption | 27/100 |
-| stars | 32/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 32/100 |
 | topics | 63/100 |
+| outlook | 42/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

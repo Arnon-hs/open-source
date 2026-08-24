@@ -69,6 +69,7 @@ hyuga611/reflint：hyuga611/reflint helps add AI capability without starting fro
 | production | 54/100 |
 | outlook | 60/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |

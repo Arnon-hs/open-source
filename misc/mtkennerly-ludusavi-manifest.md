@@ -62,16 +62,16 @@ mtkennerly/ludusavi-manifest：mtkennerly/ludusavi-manifest may be useful when i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 39/100 |
-| integration | 30/100 |
-| production | 40/100 |
-| outlook | 36/100 |
-| adoption | 43/100 |
-| stars | 46/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 0/100 |
+| outlook | 36/100 |
+| quality | 39/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

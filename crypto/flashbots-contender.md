@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Frontend · DevTools
+Crypto · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ flashbots/contender：flashbots/contender helps prototype or inspect blockchain 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 47/100 |
-| adoption | 45/100 |
-| stars | 45/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

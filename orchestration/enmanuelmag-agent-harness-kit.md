@@ -69,16 +69,16 @@ enmanuelmag/agent-harness-kit：enmanuelmag/agent-harness-kit helps turn isolate
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 41/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 44/100 |
-| adoption | 33/100 |
-| stars | 43/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 38/100 |
+| outlook | 44/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

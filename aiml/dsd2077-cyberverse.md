@@ -65,16 +65,16 @@ dsd2077/CyberVerse：dsd2077/CyberVerse helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 53/100 |
-| stars | 57/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

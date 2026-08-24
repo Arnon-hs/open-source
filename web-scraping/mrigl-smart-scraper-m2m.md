@@ -67,6 +67,7 @@ MRIGL/smart-scraper-m2m：MRIGL/smart-scraper-m2m may be useful when its README 
 | production | 61/100 |
 | outlook | 70/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |

@@ -65,16 +65,16 @@ Icarus603/claude-code：Icarus603/claude-code helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 23/100 |
-| stars | 29/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 29/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 23/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

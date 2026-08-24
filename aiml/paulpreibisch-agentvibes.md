@@ -65,16 +65,16 @@ paulpreibisch/AgentVibes：paulpreibisch/AgentVibes helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 47/100 |
-| adoption | 42/100 |
-| stars | 46/100 |
 | forks | 32/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 75/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

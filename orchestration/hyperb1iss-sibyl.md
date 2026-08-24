@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ hyperb1iss/sibyl：hyperb1iss/sibyl helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 47/100 |
-| integration | 78/100 |
-| production | 50/100 |
-| outlook | 54/100 |
-| adoption | 27/100 |
-| stars | 30/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 30/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

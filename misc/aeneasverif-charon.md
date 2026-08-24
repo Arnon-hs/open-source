@@ -63,16 +63,16 @@ AeneasVerif/charon：AeneasVerif/charon may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 47/100 |
-| adoption | 50/100 |
-| stars | 54/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 88/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

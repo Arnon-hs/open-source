@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Prompthon-IO/agent-systems-handbook: Prompthon-IO/agent-systems-handbook helps t
 
 ### Русский
 
-Prompthon-IO/agent-systems-handbook: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Prompthon-IO/agent-systems-handbook: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Prompthon-IO/agent-systems-handbook：Prompthon-IO/agent-systems-handbook helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 58/100 |
-| adoption | 44/100 |
-| stars | 47/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 48/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

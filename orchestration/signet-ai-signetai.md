@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Signet-AI/signetai: Signet-AI/signetai helps turn isolated prompts and tools int
 
 ### Русский
 
-Signet-AI/signetai: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Signet-AI/signetai: open-source проект в категориях Orchestration, MCP, AI/ML, DevTools, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Signet-AI/signetai：Signet-AI/signetai helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 58/100 |
-| adoption | 43/100 |
-| stars | 46/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

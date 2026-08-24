@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ chorus-codes/chorus：chorus-codes/chorus helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 47/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 44/100 |
-| adoption | 48/100 |
-| stars | 53/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 38/100 |
+| outlook | 44/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

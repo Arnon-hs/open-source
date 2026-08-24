@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Frontend · DevTools · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ awizemann/harness：awizemann/harness helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 52/100 |
-| adoption | 39/100 |
-| stars | 46/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

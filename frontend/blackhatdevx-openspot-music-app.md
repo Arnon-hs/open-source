@@ -1,0 +1,82 @@
+# BlackHatDevX/openspot-music-app
+
+[![Stars](https://img.shields.io/github/stars/BlackHatDevX/openspot-music-app?style=flat-square&color=yellow)](https://github.com/BlackHatDevX/openspot-music-app/stargazers) [![Forks](https://img.shields.io/github/forks/BlackHatDevX/openspot-music-app?style=flat-square&color=blue)](https://github.com/BlackHatDevX/openspot-music-app/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+
+> OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android, iOS, macOS, Windows, and Linux — so you can enjoy your favorite music anywhere, online or offline.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2.1k |
+| 🍴 **Forks** | 143 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`android` `android-studio` `api` `eas` `electron-app` `electronjs` `expo` `flac` `free-music` `ios` `linux` `macos`
+
+## 🎯 Categories
+
+Frontend · Backend · Mobile
+
+## 📝 Summary
+
+### English
+
+OpenSpot is a free, open‑source music application that streams and downloads high‑quality tracks across Android, iOS, macOS, Windows, and Linux. Its sleek, intuitive UI delivers a seamless experience for both online and offline listening, while the project’s AI/ML‑enhanced backend powers personalized recommendations and efficient media handling.
+
+### Русский
+
+OpenSpot — бесплатное кроссплатформенное приложение для прослушивания и загрузки музыки в высоком качестве, доступное на Android, iOS, macOS, Windows и Linux. Благодаря современному и интуитивному интерфейсу, а также интеграции AI/ML‑модулей для рекомендаций и оптимизации потока, приложение обеспечивает плавный опыт как онлайн, так и офлайн. Проект открыт и поддерживается сообществом, включающим как фронтенд‑, так и бекенд‑разработку.
+
+### 中文
+
+BlackHatDevX/openspot-music-app：BlackHatDevX/openspot-music-app helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** BlackHatDevX/openspot-music-app helps ship user-facing interfaces with less custom UI work.
+
+**Best use cases**
+
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 2138 GitHub stars
+- 143 forks
+- updated 2026-05-08
+- primary language: TypeScript
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 54/100 |
+| stars | 71/100 |
+| topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/BlackHatDevX/openspot-music-app) · [← Back to Frontend](./README.md)</sub>

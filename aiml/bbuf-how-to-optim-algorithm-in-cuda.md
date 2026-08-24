@@ -65,16 +65,16 @@ BBuf/how-to-optim-algorithm-in-cuda：BBuf/how-to-optim-algorithm-in-cuda helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 70/100 |
-| stars | 74/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 25/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

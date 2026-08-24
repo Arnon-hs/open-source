@@ -1,0 +1,79 @@
+# vllm-project/tpu-inference
+
+[![Stars](https://img.shields.io/github/stars/vllm-project/tpu-inference?style=flat-square&color=yellow)](https://github.com/vllm-project/tpu-inference/stargazers) [![Forks](https://img.shields.io/github/forks/vllm-project/tpu-inference?style=flat-square&color=blue)](https://github.com/vllm-project/tpu-inference/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+
+> TPU inference for vLLM, with unified JAX and PyTorch support.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 322 |
+| 🍴 **Forks** | 182 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+vLLM‑TPU is an open‑source extension that enables high‑throughput inference of large language models on Google TPU hardware. It provides a unified interface that works with both JAX and PyTorch, allowing developers to seamlessly run vLLM workloads on TPUs without rewriting model code. The project focuses on scalability, low latency, and easy integration into existing AI/ML pipelines.
+
+### Русский
+
+**vllm-project/tpu-inference** — открытый инструмент, позволяющий выполнять инференс моделей vLLM на ускорителях TPU. Проект объединяет поддержки JAX и PyTorch, обеспечивая единый и удобный API для разработки и развертывания высокопроизводительных языковых моделей. Он предназначен для исследователей и инженеров в области AI/ML, желающих использовать мощности TPU без привязки к конкретному фреймворку.
+
+### 中文
+
+vllm-project/tpu-inference：vllm-project/tpu-inference may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** vllm-project/tpu-inference may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 322 GitHub stars
+- 182 forks
+- updated 2026-05-09
+- primary language: Python
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 57/100 |
+| stars | 53/100 |
+| topics | 0/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/vllm-project/tpu-inference) · [← Back to Misc](./README.md)</sub>

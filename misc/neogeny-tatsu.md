@@ -63,16 +63,16 @@ neogeny/TatSu：neogeny/TatSu may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 53/100 |
-| stars | 56/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ npm/node-semver：npm/node-semver helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 49/100 |
-| adoption | 77/100 |
-| stars | 79/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 13/100 |
+| outlook | 49/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

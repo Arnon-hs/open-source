@@ -63,16 +63,16 @@ pear-devs/pear-desktop：pear-devs/pear-desktop may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 92/100 |
-| stars | 96/100 |
 | forks | 81/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

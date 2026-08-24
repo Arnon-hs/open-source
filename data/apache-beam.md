@@ -65,16 +65,16 @@ apache/beam：apache/beam helps convert raw data into searchable, analyzable, or
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 57/100 |
-| adoption | 86/100 |
-| stars | 84/100 |
 | forks | 91/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

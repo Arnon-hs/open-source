@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile
+Frontend · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ laurent22/joplin：laurent22/joplin helps ship user-facing interfaces with less 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 79/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 95/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

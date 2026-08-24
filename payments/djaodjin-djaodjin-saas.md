@@ -65,16 +65,16 @@ djaodjin/djaodjin-saas：djaodjin/djaodjin-saas helps integrate monetization, bi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 47/100 |
-| adoption | 57/100 |
-| stars | 59/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 75/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

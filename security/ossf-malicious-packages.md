@@ -64,16 +64,16 @@ ossf/malicious-packages：ossf/malicious-packages helps catch security and priva
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 39/100 |
-| adoption | 55/100 |
-| stars | 58/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

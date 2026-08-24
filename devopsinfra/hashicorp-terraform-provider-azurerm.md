@@ -65,16 +65,16 @@ hashicorp/terraform-provider-azurerm：hashicorp/terraform-provider-azurerm help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 82/100 |
-| stars | 79/100 |
 | forks | 92/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 50/100 |
+| outlook | 51/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

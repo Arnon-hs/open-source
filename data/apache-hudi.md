@@ -65,16 +65,16 @@ apache/hudi：apache/hudi helps convert raw data into searchable, analyzable, or
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 82/100 |
-| stars | 81/100 |
 | forks | 85/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

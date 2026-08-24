@@ -62,16 +62,16 @@ hq450/fancyss_history_package：hq450/fancyss_history_package may be useful when
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 87/100 |
-| stars | 86/100 |
 | forks | 89/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 0/100 |
+| outlook | 47/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

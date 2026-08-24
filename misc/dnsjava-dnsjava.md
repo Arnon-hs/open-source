@@ -63,16 +63,16 @@ dnsjava/dnsjava：dnsjava/dnsjava may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 50/100 |
-| adoption | 63/100 |
-| stars | 64/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 88/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

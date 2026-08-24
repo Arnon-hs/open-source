@@ -69,6 +69,7 @@ harishsg993010/damn-vulnerable-MCP-server：harishsg993010/damn-vulnerable-MCP-s
 | production | 70/100 |
 | outlook | 70/100 |
 | adoption | 64/100 |
+| categoryMatchCount | 700/100 |
 | stars | 67/100 |
 | forks | 56/100 |
 | recency | 100/100 |

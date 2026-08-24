@@ -65,16 +65,16 @@ facebook/pyrefly：facebook/pyrefly helps teams reuse service infrastructure ins
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 54/100 |
-| adoption | 75/100 |
-| stars | 80/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

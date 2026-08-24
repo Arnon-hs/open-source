@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ paritytech/polkadot-sdk: paritytech/polkadot-sdk helps prototype or inspect bloc
 
 ### Русский
 
-paritytech/polkadot-sdk: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+paritytech/polkadot-sdk: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ paritytech/polkadot-sdk：paritytech/polkadot-sdk helps prototype or inspect blo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 74/100 |
-| stars | 73/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

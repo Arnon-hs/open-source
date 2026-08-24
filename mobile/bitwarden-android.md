@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Mobile · Security
+Mobile
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Bitwarden — это открытый менеджер паролей и ау�
 
 ### 中文
 
-bitwarden/android：bitwarden/android may be useful when its README and activity match a concrete workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+bitwarden/android：bitwarden/android may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -43,8 +43,7 @@ bitwarden/android：bitwarden/android may be useful when its README and activity
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,16 +63,16 @@ bitwarden/android：bitwarden/android may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 81/100 |
-| stars | 84/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 63/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

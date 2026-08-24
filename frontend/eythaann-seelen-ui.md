@@ -65,16 +65,16 @@ eythaann/Seelen-UI：eythaann/Seelen-UI helps ship user-facing interfaces with l
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 60/100 |
-| adoption | 84/100 |
-| stars | 90/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

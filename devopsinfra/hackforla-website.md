@@ -65,16 +65,16 @@ hackforla/website：hackforla/website helps make deployment and operations more 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 48/100 |
-| adoption | 60/100 |
-| stars | 55/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 75/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

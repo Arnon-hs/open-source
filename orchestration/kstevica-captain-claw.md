@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ kstevica/captain-claw：kstevica/captain-claw helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 47/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 53/100 |
-| adoption | 26/100 |
-| stars | 33/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 26/100 |
+| production | 47/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

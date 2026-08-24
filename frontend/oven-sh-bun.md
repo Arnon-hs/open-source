@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ oven-sh/bun: oven-sh/bun helps ship user-facing interfaces with less custom UI w
 
 ### Русский
 
-oven-sh/bun: open-source проект в категориях Frontend, DevTools. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+oven-sh/bun: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ oven-sh/bun：oven-sh/bun helps ship user-facing interfaces with less custom UI 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 91/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

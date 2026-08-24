@@ -61,16 +61,16 @@ zilong7728/Collect-IPTV：zilong7728/Collect-IPTV may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 41/100 |
-| adoption | 63/100 |
-| stars | 64/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

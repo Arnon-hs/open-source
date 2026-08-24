@@ -63,16 +63,16 @@ bencherdev/bencher：bencherdev/bencher may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 56/100 |
-| stars | 62/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

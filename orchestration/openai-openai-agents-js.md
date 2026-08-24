@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ openai/openai-agents-js: openai/openai-agents-js helps turn isolated prompts and
 
 ### Русский
 
-openai/openai-agents-js: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+openai/openai-agents-js: open-source проект в категориях Orchestration, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ openai/openai-agents-js：openai/openai-agents-js helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 62/100 |
-| adoption | 73/100 |
-| stars | 74/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 63/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

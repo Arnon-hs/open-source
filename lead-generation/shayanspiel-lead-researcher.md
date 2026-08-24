@@ -66,6 +66,7 @@ ShayanSpiel/Lead-Researcher：ShayanSpiel/Lead-Researcher may be useful when its
 | production | 57/100 |
 | outlook | 50/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ topoteretes/cognee: topoteretes/cognee helps turn isolated prompts and tools int
 
 ### Русский
 
-topoteretes/cognee: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+topoteretes/cognee: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ topoteretes/cognee：topoteretes/cognee helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 74/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 88/100 |
-| stars | 90/100 |
 | forks | 81/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

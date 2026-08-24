@@ -69,6 +69,7 @@ zaengit/beaver：zaengit/beaver helps teams persist, query, and move data with l
 | production | 59/100 |
 | outlook | 57/100 |
 | adoption | 12/100 |
+| categoryMatchCount | 200/100 |
 | stars | 17/100 |
 | forks | 0/100 |
 | recency | 100/100 |

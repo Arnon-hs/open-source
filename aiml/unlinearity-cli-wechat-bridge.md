@@ -65,16 +65,16 @@ UNLINEARITY/CLI-WeChat-Bridge：UNLINEARITY/CLI-WeChat-Bridge helps add AI capab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 45/100 |
-| stars | 48/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 88/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

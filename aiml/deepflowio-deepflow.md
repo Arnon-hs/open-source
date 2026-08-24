@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra
+AI/ML · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ deepflowio/deepflow: deepflowio/deepflow helps add AI capability without startin
 
 ### Русский
 
-deepflowio/deepflow: open-source проект в категориях AI/ML, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+deepflowio/deepflow: open-source проект в категориях AI/ML, Observability, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ deepflowio/deepflow：deepflowio/deepflow helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 74/100 |
-| stars | 77/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 88/100 |
+| outlook | 53/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

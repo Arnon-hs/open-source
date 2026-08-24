@@ -65,16 +65,16 @@ CapSoftware/Cap：CapSoftware/Cap helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 91/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ osrg/gobgp：osrg/gobgp may be useful when its README and activity match a concr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 44/100 |
-| adoption | 76/100 |
-| stars | 77/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

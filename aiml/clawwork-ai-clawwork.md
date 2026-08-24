@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Frontend · DevTools · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ clawwork-ai/ClawWork：clawwork-ai/ClawWork helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 58/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

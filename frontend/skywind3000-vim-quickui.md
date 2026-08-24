@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Product
+Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ skywind3000/vim-quickui：skywind3000/vim-quickui helps ship user-facing interfa
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 50/100 |
-| adoption | 58/100 |
-| stars | 65/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

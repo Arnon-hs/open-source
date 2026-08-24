@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ volcano-sh/volcano：volcano-sh/volcano helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 55/100 |
-| adoption | 79/100 |
-| stars | 80/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

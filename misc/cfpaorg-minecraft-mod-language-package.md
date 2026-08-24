@@ -63,16 +63,16 @@ CFPAOrg/Minecraft-Mod-Language-Package：CFPAOrg/Minecraft-Mod-Language-Package 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 68/100 |
-| stars | 65/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 63/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

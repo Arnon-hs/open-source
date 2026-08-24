@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ darkrenaissance/darkfi：darkrenaissance/darkfi helps prototype or inspect block
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 63/100 |
-| stars | 66/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ golemcloud/golem: golemcloud/golem helps add AI capability without starting from
 
 ### Русский
 
-golemcloud/golem: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+golemcloud/golem: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ golemcloud/golem：golemcloud/golem helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 62/100 |
-| stars | 64/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

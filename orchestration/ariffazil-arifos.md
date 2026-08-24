@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ariffazil/arifos：ariffazil/arifos helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 49/100 |
-| integration | 94/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 32/100 |
-| stars | 35/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

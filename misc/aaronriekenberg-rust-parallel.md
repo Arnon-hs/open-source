@@ -63,16 +63,16 @@ aaronriekenberg/rust-parallel：aaronriekenberg/rust-parallel may be useful when
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 42/100 |
-| adoption | 46/100 |
-| stars | 53/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 50/100 |
+| outlook | 42/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

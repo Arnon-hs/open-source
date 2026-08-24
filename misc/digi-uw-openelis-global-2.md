@@ -62,16 +62,16 @@ DIGI-UW/OpenELIS-Global-2：DIGI-UW/OpenELIS-Global-2 may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 39/100 |
-| adoption | 55/100 |
-| stars | 50/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

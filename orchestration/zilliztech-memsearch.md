@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ zilliztech/memsearch：zilliztech/memsearch helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 64/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 61/100 |
-| adoption | 65/100 |
-| stars | 68/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

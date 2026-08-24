@@ -65,16 +65,16 @@ TheAlgorithms/Rust：TheAlgorithms/Rust helps convert raw data into searchable, 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 91/100 |
-| stars | 94/100 |
 | forks | 85/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Design
+Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ openbabel/openbabel：openbabel/openbabel helps convert raw data into searchable
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 51/100 |
-| adoption | 67/100 |
-| stars | 66/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 63/100 |
+| outlook | 51/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

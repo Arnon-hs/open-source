@@ -65,16 +65,16 @@ AAswordman/Operit：AAswordman/Operit helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 74/100 |
-| stars | 78/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

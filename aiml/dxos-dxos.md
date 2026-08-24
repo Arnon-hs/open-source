@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dxos/dxos：dxos/dxos helps add AI capability without starting from a blank mode
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 53/100 |
-| stars | 58/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

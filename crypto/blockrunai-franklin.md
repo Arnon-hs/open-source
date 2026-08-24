@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Trading
+Crypto · Trading · Automation · AI/ML · Marketing
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ BlockRunAI/Franklin: BlockRunAI/Franklin helps prototype or inspect blockchain w
 
 ### Русский
 
-BlockRunAI/Franklin: open-source проект в категориях Crypto, Payments, Trading. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+BlockRunAI/Franklin: open-source проект в категориях Crypto, Trading, Automation, AI/ML, Marketing. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ BlockRunAI/Franklin：BlockRunAI/Franklin helps prototype or inspect blockchain 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 53/100 |
-| stars | 59/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

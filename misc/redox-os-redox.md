@@ -63,16 +63,16 @@ redox-os/redox：redox-os/redox may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 86/100 |
-| stars | 90/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

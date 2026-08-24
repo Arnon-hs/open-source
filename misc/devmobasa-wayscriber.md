@@ -63,16 +63,16 @@ devmobasa/wayscriber：devmobasa/wayscriber may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 50/100 |
-| stars | 58/100 |
 | forks | 30/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

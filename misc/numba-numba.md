@@ -63,16 +63,16 @@ numba/numba：numba/numba may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 84/100 |
-| stars | 86/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

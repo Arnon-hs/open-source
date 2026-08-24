@@ -65,16 +65,16 @@ httptoolkit/httptoolkit-server：httptoolkit/httptoolkit-server helps teams reus
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 57/100 |
-| stars | 58/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 63/100 |
+| outlook | 52/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

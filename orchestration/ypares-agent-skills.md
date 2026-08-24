@@ -65,16 +65,16 @@ YPares/agent-skills：YPares/agent-skills helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 41/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 41/100 |
-| adoption | 26/100 |
-| stars | 30/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 30/100 |
 | topics | 63/100 |
+| outlook | 41/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 26/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

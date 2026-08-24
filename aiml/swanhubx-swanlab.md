@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · DevOps/Infra
+AI/ML · Data · DevOps/Infra · Design
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ SwanHubX/SwanLab：SwanHubX/SwanLab helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 71/100 |
-| stars | 76/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

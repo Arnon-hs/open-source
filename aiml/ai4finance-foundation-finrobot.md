@@ -65,16 +65,16 @@ AI4Finance-Foundation/FinRobot：AI4Finance-Foundation/FinRobot helps add AI cap
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 80/100 |
-| stars | 82/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

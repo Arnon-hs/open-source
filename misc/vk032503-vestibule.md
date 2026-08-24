@@ -66,6 +66,7 @@ vk032503/vestibule：vk032503/vestibule may be useful when its README and activi
 | production | 49/100 |
 | outlook | 43/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |

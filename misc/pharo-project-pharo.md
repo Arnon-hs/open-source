@@ -63,16 +63,16 @@ pharo-project/pharo：pharo-project/pharo may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 67/100 |
-| stars | 67/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

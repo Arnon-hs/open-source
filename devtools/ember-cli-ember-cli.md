@@ -65,16 +65,16 @@ ember-cli/ember-cli：ember-cli/ember-cli helps engineers save time in daily dev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 52/100 |
-| adoption | 75/100 |
-| stars | 75/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

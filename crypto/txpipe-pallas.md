@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ txpipe/pallas：txpipe/pallas helps prototype or inspect blockchain workflows wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 43/100 |
-| adoption | 49/100 |
-| stars | 49/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 50/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

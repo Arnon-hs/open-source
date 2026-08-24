@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ MayDay-wpf/snow-cli：MayDay-wpf/snow-cli helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 50/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 49/100 |
-| adoption | 55/100 |
-| stars | 59/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 38/100 |
+| outlook | 49/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

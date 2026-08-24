@@ -65,16 +65,16 @@ msrv-tech/AI_agent：msrv-tech/AI_agent helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 38/100 |
-| integration | 30/100 |
-| production | 40/100 |
-| outlook | 39/100 |
-| adoption | 33/100 |
-| stars | 36/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 36/100 |
 | topics | 25/100 |
+| outlook | 39/100 |
+| quality | 38/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 40/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

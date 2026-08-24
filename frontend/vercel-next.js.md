@@ -65,16 +65,16 @@ vercel/next.js：vercel/next.js helps ship user-facing interfaces with less cust
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 80/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 67/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

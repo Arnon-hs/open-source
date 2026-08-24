@@ -64,16 +64,16 @@ kovidgoyal/kitty：kovidgoyal/kitty may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 58/100 |
-| adoption | 91/100 |
-| stars | 96/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

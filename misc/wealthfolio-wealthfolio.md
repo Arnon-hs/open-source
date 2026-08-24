@@ -63,16 +63,16 @@ wealthfolio/wealthfolio：wealthfolio/wealthfolio may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 53/100 |
-| adoption | 78/100 |
-| stars | 82/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 50/100 |
+| outlook | 53/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

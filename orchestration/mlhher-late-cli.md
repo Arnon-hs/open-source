@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ mlhher/late-cli：mlhher/late-cli helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 56/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 59/100 |
-| adoption | 47/100 |
-| stars | 52/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

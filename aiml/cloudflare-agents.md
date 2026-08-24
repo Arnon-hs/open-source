@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ cloudflare/agents：cloudflare/agents helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 76/100 |
-| stars | 79/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 63/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

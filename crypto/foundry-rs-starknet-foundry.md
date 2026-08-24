@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ foundry-rs/starknet-foundry：foundry-rs/starknet-foundry helps prototype or ins
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 56/100 |
-| adoption | 57/100 |
-| stars | 55/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

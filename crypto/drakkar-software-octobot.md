@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML
+Crypto · Trading · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Drakkar-Software/OctoBot: Drakkar-Software/OctoBot helps prototype or inspect bl
 
 ### Русский
 
-Drakkar-Software/OctoBot: open-source проект в категориях Crypto, Trading, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Drakkar-Software/OctoBot: open-source проект в категориях Crypto, Trading, Automation, AI/ML, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Drakkar-Software/OctoBot：Drakkar-Software/OctoBot helps prototype or inspect b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 79/100 |
-| stars | 80/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

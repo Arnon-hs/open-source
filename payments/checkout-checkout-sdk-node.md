@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend · DevTools
+Payments · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ checkout/checkout-sdk-node：checkout/checkout-sdk-node helps integrate monetiza
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 52/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 54/100 |
-| adoption | 37/100 |
-| stars | 39/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ Azure/azure-service-operator：Azure/azure-service-operator helps make deploymen
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 47/100 |
-| adoption | 62/100 |
-| stars | 63/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 63/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

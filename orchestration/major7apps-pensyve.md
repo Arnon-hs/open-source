@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ major7apps/pensyve：major7apps/pensyve helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 47/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 28/100 |
-| stars | 30/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 30/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

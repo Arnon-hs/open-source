@@ -65,16 +65,16 @@ healthchainai/HealthChain：healthchainai/HealthChain helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 56/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 46/100 |
-| stars | 49/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

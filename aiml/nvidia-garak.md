@@ -65,16 +65,16 @@ NVIDIA/garak：NVIDIA/garak helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 80/100 |
-| stars | 83/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 63/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

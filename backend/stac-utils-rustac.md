@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ stac-utils/rustac：stac-utils/rustac helps teams reuse service infrastructure i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 43/100 |
-| stars | 46/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ LMCache/LMCache: LMCache/LMCache helps add AI capability without starting from a
 
 ### Русский
 
-LMCache/LMCache: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+LMCache/LMCache: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ LMCache/LMCache：LMCache/LMCache helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 81/100 |
-| stars | 83/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ sublimehq/package_control_channel：sublimehq/package_control_channel may be use
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 73/100 |
-| stars | 66/100 |
 | forks | 89/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

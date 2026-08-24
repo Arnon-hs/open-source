@@ -65,16 +65,16 @@ Micrurus-Ai/Corvid-lang：Micrurus-Ai/Corvid-lang helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 41/100 |
-| adoption | 47/100 |
-| stars | 51/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 38/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

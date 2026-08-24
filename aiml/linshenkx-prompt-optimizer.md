@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ linshenkx/prompt-optimizer：linshenkx/prompt-optimizer helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 93/100 |
-| stars | 95/100 |
 | forks | 88/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

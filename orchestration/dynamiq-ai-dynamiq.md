@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dynamiq-ai/dynamiq: dynamiq-ai/dynamiq helps turn isolated prompts and tools int
 
 ### Русский
 
-dynamiq-ai/dynamiq: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dynamiq-ai/dynamiq: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dynamiq-ai/dynamiq：dynamiq-ai/dynamiq helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 59/100 |
-| adoption | 61/100 |
-| stars | 64/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

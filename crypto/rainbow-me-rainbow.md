@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · Frontend · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ rainbow-me/rainbow: rainbow-me/rainbow helps prototype or inspect blockchain wor
 
 ### Русский
 
-rainbow-me/rainbow: open-source проект в категориях Crypto, AI/ML, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rainbow-me/rainbow: open-source проект в категориях Crypto, Frontend, Mobile. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ rainbow-me/rainbow：rainbow-me/rainbow helps prototype or inspect blockchain wo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 51/100 |
-| adoption | 76/100 |
-| stars | 77/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 63/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

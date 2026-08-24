@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ microwind/algorithms：microwind/algorithms helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 42/100 |
-| stars | 46/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

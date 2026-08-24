@@ -65,16 +65,16 @@ common-voice/common-voice：common-voice/common-voice helps convert raw data int
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 75/100 |
-| stars | 75/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 50/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

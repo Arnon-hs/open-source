@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Data
+Frontend · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ mealie-recipes/mealie：mealie-recipes/mealie helps ship user-facing interfaces 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 57/100 |
-| adoption | 84/100 |
-| stars | 87/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 87/100 |
 | topics | 38/100 |
+| outlook | 57/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

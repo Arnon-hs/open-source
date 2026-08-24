@@ -65,16 +65,16 @@ trynova/nova：trynova/nova helps convert raw data into searchable, analyzable, 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 64/100 |
-| stars | 70/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Frontend · DevOps/Infra
+Orchestration · Frontend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ kubernetes-sigs/headlamp: kubernetes-sigs/headlamp helps turn isolated prompts a
 
 ### Русский
 
-kubernetes-sigs/headlamp: open-source проект в категориях Orchestration, Frontend, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kubernetes-sigs/headlamp: open-source проект в категориях Orchestration, Frontend, Observability, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ kubernetes-sigs/headlamp：kubernetes-sigs/headlamp helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 78/100 |
-| stars | 81/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

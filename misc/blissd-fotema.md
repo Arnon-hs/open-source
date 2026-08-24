@@ -63,16 +63,16 @@ blissd/fotema：blissd/fotema may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 43/100 |
-| adoption | 43/100 |
-| stars | 48/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 63/100 |
+| outlook | 43/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · DevOps/Infra
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ chroma-core/chroma: chroma-core/chroma helps add AI capability without starting 
 
 ### Русский
 
-chroma-core/chroma: open-source проект в категориях AI/ML, Data, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+chroma-core/chroma: open-source проект в категориях AI/ML, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ chroma-core/chroma：chroma-core/chroma helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 92/100 |
-| stars | 95/100 |
 | forks | 84/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 75/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

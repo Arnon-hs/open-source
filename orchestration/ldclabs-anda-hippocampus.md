@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ldclabs/anda-hippocampus：ldclabs/anda-hippocampus helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 44/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 43/100 |
-| adoption | 32/100 |
-| stars | 36/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 36/100 |
 | topics | 63/100 |
+| outlook | 43/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

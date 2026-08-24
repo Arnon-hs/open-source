@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ moorcheh-ai/memanto：moorcheh-ai/memanto helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 51/100 |
-| adoption | 35/100 |
-| stars | 35/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ astronomer/agents: astronomer/agents helps turn isolated prompts and tools into 
 
 ### Русский
 
-astronomer/agents: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+astronomer/agents: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ astronomer/agents：astronomer/agents helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 60/100 |
-| adoption | 51/100 |
-| stars | 54/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

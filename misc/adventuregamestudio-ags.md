@@ -62,16 +62,16 @@ adventuregamestudio/ags：adventuregamestudio/ags may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 40/100 |
-| adoption | 60/100 |
-| stars | 62/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ open-edge-platform/anomalib：open-edge-platform/anomalib may be useful when its
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 54/100 |
-| adoption | 78/100 |
-| stars | 80/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 88/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ Dicklesworthstone/flywheel_connectors：Dicklesworthstone/flywheel_connectors he
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 47/100 |
-| adoption | 35/100 |
-| stars | 40/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 40/100 |
 | topics | 63/100 |
+| outlook | 47/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 42/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

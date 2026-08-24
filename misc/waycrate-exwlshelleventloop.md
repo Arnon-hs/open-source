@@ -63,16 +63,16 @@ waycrate/exwlshelleventloop：waycrate/exwlshelleventloop may be useful when its
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 42/100 |
-| adoption | 44/100 |
-| stars | 45/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 50/100 |
+| outlook | 42/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

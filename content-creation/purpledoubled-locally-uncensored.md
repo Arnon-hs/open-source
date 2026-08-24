@@ -71,6 +71,7 @@ PurpleDoubleD/locally-uncensored：PurpleDoubleD/locally-uncensored helps creato
 | production | 75/100 |
 | outlook | 82/100 |
 | adoption | 63/100 |
+| categoryMatchCount | 300/100 |
 | stars | 65/100 |
 | forks | 57/100 |
 | recency | 100/100 |

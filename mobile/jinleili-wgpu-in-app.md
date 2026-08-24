@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Mobile
+Mobile · Education
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ jinleili/wgpu-in-app is an open‑source library that demonstrates how to embed 
 
 ### 中文
 
-jinleili/wgpu-in-app：jinleili/wgpu-in-app may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jinleili/wgpu-in-app：jinleili/wgpu-in-app may be useful when its README and activity match a concrete workflow.。适合用于learn an implementation pattern、build tutorials。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -43,7 +43,8 @@ jinleili/wgpu-in-app：jinleili/wgpu-in-app may be useful when its README and ac
 
 **Best use cases**
 
-- Not enough metadata yet.
+- learn an implementation pattern
+- build tutorials
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,16 +64,16 @@ jinleili/wgpu-in-app：jinleili/wgpu-in-app may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 48/100 |
-| adoption | 51/100 |
-| stars | 55/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

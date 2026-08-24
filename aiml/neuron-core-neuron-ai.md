@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ neuron-core/neuron-ai：neuron-core/neuron-ai helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 58/100 |
-| adoption | 67/100 |
-| stars | 70/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

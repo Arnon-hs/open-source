@@ -65,16 +65,16 @@ monk1337/clicodelog：monk1337/clicodelog helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 50/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 33/100 |
-| stars | 35/100 |
 | forks | 27/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

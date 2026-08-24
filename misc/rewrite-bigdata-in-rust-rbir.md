@@ -1,0 +1,79 @@
+# rewrite-bigdata-in-rust/RBIR
+
+[![Stars](https://img.shields.io/github/stars/rewrite-bigdata-in-rust/RBIR?style=flat-square&color=yellow)](https://github.com/rewrite-bigdata-in-rust/RBIR/stargazers) [![Forks](https://img.shields.io/github/forks/rewrite-bigdata-in-rust/RBIR?style=flat-square&color=blue)](https://github.com/rewrite-bigdata-in-rust/RBIR/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+
+> A collection of RBIR projects and posts for anyone interested in joining this journey.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 322 |
+| 🍴 **Forks** | 13 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 39/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+The **rewrite‑bigdata‑in‑rust/RBIR** repository gathers a series of Rust‑based big‑data projects and related blog posts, offering a practical roadmap for developers who want to explore high‑performance data processing with Rust. It serves as a collaborative hub where contributors can share code, experiments, and insights, making it easier to transition traditional big‑data workloads to a safe, fast, and modern language ecosystem.
+
+### Русский
+
+**rewrite-bigdata-in-rust (RBIR)** – открытый набор проектов и статей, посвящённых переносу и реализации решений для больших данных на языке Rust. Репозиторий содержит примеры, инструменты и практические руководства, помогающие разработчикам быстро освоить эффективные и безопасные Rust‑решения в области обработки и анализа массивных данных. Подходит как для новичков, так и для опытных специалистов, желающих интегрировать Rust в свои data‑pipeline.
+
+### 中文
+
+rewrite-bigdata-in-rust/RBIR：rewrite-bigdata-in-rust/RBIR may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** rewrite-bigdata-in-rust/RBIR may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 322 GitHub stars
+- 13 forks
+- updated 2026-05-10
+- primary language: Rust
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 29/100 |
+| stars | 53/100 |
+| topics | 0/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/rewrite-bigdata-in-rust/RBIR) · [← Back to Misc](./README.md)</sub>

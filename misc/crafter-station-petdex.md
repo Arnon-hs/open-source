@@ -62,16 +62,16 @@ crafter-station/petdex：crafter-station/petdex may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 40/100 |
-| adoption | 60/100 |
-| stars | 66/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

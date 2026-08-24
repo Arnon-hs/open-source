@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ langchain-ai/deepagents：langchain-ai/deepagents helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 62/100 |
-| adoption | 91/100 |
-| stars | 93/100 |
 | forks | 87/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 75/100 |
+| outlook | 62/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

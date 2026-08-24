@@ -63,16 +63,16 @@ open-spaced-repetition/fsrs4anki-helper：open-spaced-repetition/fsrs4anki-helpe
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 45/100 |
-| adoption | 49/100 |
-| stars | 53/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 75/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

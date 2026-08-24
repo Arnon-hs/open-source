@@ -63,16 +63,16 @@ electron-vite/vite-plugin-electron：electron-vite/vite-plugin-electron may be u
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 44/100 |
-| adoption | 58/100 |
-| stars | 63/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 38/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

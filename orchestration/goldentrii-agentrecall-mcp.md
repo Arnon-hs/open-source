@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Goldentrii/AgentRecall-MCP：Goldentrii/AgentRecall-MCP helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 46/100 |
-| stars | 51/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

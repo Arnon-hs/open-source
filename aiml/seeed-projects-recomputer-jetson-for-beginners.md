@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Seeed-Projects/reComputer-Jetson-for-Beginners：Seeed-Projects/reComputer-Jetso
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 43/100 |
-| stars | 46/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Data
+Frontend · Backend · Data · Database · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ directus/directus: directus/directus helps ship user-facing interfaces with less
 
 ### Русский
 
-directus/directus: open-source проект в категориях Frontend, Backend, Data. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+directus/directus: open-source проект в категориях Frontend, Backend, Data, Database, Security. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ directus/directus：directus/directus helps ship user-facing interfaces with les
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 78/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 95/100 |
-| stars | 97/100 |
 | forks | 92/100 |
-| recency | 20/100 |
+| stars | 97/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

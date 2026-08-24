@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevOps/Infra
+Crypto · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ worldcoin/world-chain：worldcoin/world-chain helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 39/100 |
-| adoption | 44/100 |
-| stars | 43/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 25/100 |
+| outlook | 39/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

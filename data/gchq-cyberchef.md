@@ -65,16 +65,16 @@ gchq/CyberChef：gchq/CyberChef helps convert raw data into searchable, analyzab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 58/100 |
-| adoption | 95/100 |
-| stars | 97/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 97/100 |
 | topics | 88/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

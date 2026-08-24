@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data
+Frontend · Database · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ influxdata/influxdb：influxdata/influxdb helps ship user-facing interfaces with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 94/100 |
-| stars | 96/100 |
 | forks | 89/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

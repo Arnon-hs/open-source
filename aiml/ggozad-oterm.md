@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ggozad/oterm：ggozad/oterm helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 67/100 |
-| stars | 72/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

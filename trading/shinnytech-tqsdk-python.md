@@ -65,16 +65,16 @@ shinnytech/tqsdk-python：shinnytech/tqsdk-python helps research and automate ma
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 76/100 |
-| stars | 78/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto · Education
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ beihaili/Get-Started-with-Web3：beihaili/Get-Started-with-Web3 helps prototype 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 55/100 |
-| stars | 59/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 88/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

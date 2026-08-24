@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ spiceai/spiceai: spiceai/spiceai helps add AI capability without starting from a
 
 ### Русский
 
-spiceai/spiceai: open-source проект в категориях AI/ML, DevTools, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+spiceai/spiceai: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ spiceai/spiceai：spiceai/spiceai helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 56/100 |
-| adoption | 69/100 |
-| stars | 74/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

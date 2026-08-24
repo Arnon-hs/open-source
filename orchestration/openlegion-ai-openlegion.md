@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ openlegion-ai/openlegion：openlegion-ai/openlegion helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 39/100 |
-| stars | 42/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 42/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

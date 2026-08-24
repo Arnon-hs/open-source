@@ -63,16 +63,16 @@ PixelGuys/Cubyz：PixelGuys/Cubyz may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 56/100 |
-| adoption | 71/100 |
-| stars | 75/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

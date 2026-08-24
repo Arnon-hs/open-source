@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Design
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ max-sixty/worktrunk: max-sixty/worktrunk helps add AI capability without startin
 
 ### Русский
 
-max-sixty/worktrunk: open-source проект в категориях AI/ML, DevTools, Design. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+max-sixty/worktrunk: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ max-sixty/worktrunk：max-sixty/worktrunk helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 63/100 |
-| adoption | 72/100 |
-| stars | 79/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 75/100 |
+| outlook | 63/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

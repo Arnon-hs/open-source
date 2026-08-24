@@ -64,16 +64,16 @@ krustowski/rou2exOS：krustowski/rou2exOS may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 46/100 |
-| adoption | 43/100 |
-| stars | 49/100 |
 | forks | 27/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data
+DevTools · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ValkDB/postgresparser: ValkDB/postgresparser helps engineers save time in daily 
 
 ### Русский
 
-ValkDB/postgresparser: open-source проект в категориях DevTools, Data. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+ValkDB/postgresparser: open-source проект в категориях DevTools, Database. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ValkDB/postgresparser：ValkDB/postgresparser helps engineers save time in daily
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 44/100 |
-| stars | 50/100 |
 | forks | 27/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 88/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

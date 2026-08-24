@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ avibebuilder/claude-prime：avibebuilder/claude-prime helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 35/100 |
-| stars | 38/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 38/100 |
 | topics | 63/100 |
+| outlook | 44/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

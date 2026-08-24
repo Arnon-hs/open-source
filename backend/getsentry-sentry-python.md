@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Product
+Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ getsentry/sentry-python: getsentry/sentry-python helps teams reuse service infra
 
 ### Русский
 
-getsentry/sentry-python: open-source проект в категориях Backend, Product. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+getsentry/sentry-python: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ getsentry/sentry-python：getsentry/sentry-python helps teams reuse service infr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 71/100 |
-| stars | 71/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ ngxson/wllama：ngxson/wllama helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 47/100 |
-| adoption | 60/100 |
-| stars | 64/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 63/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

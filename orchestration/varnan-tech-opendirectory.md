@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Marketing
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Varnan-Tech/opendirectory：Varnan-Tech/opendirectory helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 50/100 |
-| adoption | 45/100 |
-| stars | 49/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 75/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

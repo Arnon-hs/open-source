@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Knowledge/RAG · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ trustgraph-ai/trustgraph：trustgraph-ai/trustgraph helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 67/100 |
-| stars | 71/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Managing 150+ AI Agent Skills at Scale — What Broke, What I Built: Managing 15
 
 ### Русский
 
-Managing 150+ AI Agent Skills at Scale — What Broke, What I Built: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Managing 150+ AI Agent Skills at Scale — What Broke, What I Built: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -62,16 +62,16 @@ Managing 150+ AI Agent Skills at Scale — What Broke, What I Built：Managing 1
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 25/100 |
-| integration | 46/100 |
-| production | 34/100 |
-| outlook | 32/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 32/100 |
+| quality | 25/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 34/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
 
 ---

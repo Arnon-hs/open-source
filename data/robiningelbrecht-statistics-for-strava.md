@@ -65,16 +65,16 @@ robiningelbrecht/statistics-for-strava：robiningelbrecht/statistics-for-strava 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 53/100 |
-| adoption | 64/100 |
-| stars | 69/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 50/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

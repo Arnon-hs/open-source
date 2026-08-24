@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Backend · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Budibase/budibase: Budibase/budibase helps turn isolated prompts and tools into 
 
 ### Русский
 
-Budibase/budibase: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Budibase/budibase: open-source проект в категориях Orchestration, Automation, AI/ML, Backend, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Budibase/budibase：Budibase/budibase helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 70/100 |
-| adoption | 91/100 |
-| stars | 95/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

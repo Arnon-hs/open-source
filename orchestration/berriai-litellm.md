@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ BerriAI/litellm: BerriAI/litellm helps turn isolated prompts and tools into repe
 
 ### Русский
 
-BerriAI/litellm: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+BerriAI/litellm: open-source проект в категориях Orchestration, MCP, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ BerriAI/litellm：BerriAI/litellm helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 79/100 |
-| integration | 94/100 |
-| production | 64/100 |
-| outlook | 70/100 |
-| adoption | 99/100 |
-| stars | 99/100 |
 | forks | 97/100 |
-| recency | 20/100 |
+| stars | 99/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 64/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

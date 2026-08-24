@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools
+DevTools · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ GoogleChrome/lighthouse: GoogleChrome/lighthouse helps engineers save time in da
 
 ### Русский
 
-GoogleChrome/lighthouse: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+GoogleChrome/lighthouse: open-source проект в категориях DevTools, Observability. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ GoogleChrome/lighthouse：GoogleChrome/lighthouse helps engineers save time in d
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 78/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 97/100 |
-| stars | 95/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

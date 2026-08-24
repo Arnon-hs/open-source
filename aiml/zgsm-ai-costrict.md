@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ zgsm-ai/costrict：zgsm-ai/costrict helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 70/100 |
-| stars | 77/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

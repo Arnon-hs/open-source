@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Mobile
+Frontend · Observability · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ measure-sh/measure: measure-sh/measure helps ship user-facing interfaces with le
 
 ### Русский
 
-measure-sh/measure: open-source проект в категориях Frontend, Mobile. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+measure-sh/measure: open-source проект в категориях Frontend, Observability, Mobile. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ measure-sh/measure：measure-sh/measure helps ship user-facing interfaces with l
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 60/100 |
-| stars | 66/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

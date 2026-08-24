@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ bytedance/deer-flow: bytedance/deer-flow helps turn isolated prompts and tools i
 
 ### Русский
 
-bytedance/deer-flow: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+bytedance/deer-flow: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ bytedance/deer-flow：bytedance/deer-flow helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 80/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 72/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 98/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 72/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

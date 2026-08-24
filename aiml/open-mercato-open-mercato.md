@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ open-mercato/open-mercato: open-mercato/open-mercato helps add AI capability wit
 
 ### Русский
 
-open-mercato/open-mercato: open-source проект в категориях AI/ML, Frontend, Design. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+open-mercato/open-mercato: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ open-mercato/open-mercato：open-mercato/open-mercato helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 64/100 |
-| stars | 66/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

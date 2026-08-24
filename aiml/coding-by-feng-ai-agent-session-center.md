@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ coding-by-feng/ai-agent-session-center：coding-by-feng/ai-agent-session-center 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 51/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 56/100 |
-| adoption | 35/100 |
-| stars | 39/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 49/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

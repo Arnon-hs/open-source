@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Frontend · Design
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ OpenCoworkAI/open-codesign：OpenCoworkAI/open-codesign helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 76/100 |
-| stars | 79/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

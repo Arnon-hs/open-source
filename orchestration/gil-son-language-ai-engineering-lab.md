@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -67,16 +67,16 @@ gil-son/language-ai-engineering-lab：gil-son/language-ai-engineering-lab helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 49/100 |
-| adoption | 40/100 |
-| stars | 43/100 |
 | forks | 33/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

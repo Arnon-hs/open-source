@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML · Education
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ didilili/ai-agents-from-zero：didilili/ai-agents-from-zero helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 62/100 |
-| adoption | 59/100 |
-| stars | 62/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

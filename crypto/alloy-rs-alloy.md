@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ alloy-rs/alloy: alloy-rs/alloy helps prototype or inspect blockchain workflows w
 
 ### Русский
 
-alloy-rs/alloy: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+alloy-rs/alloy: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ alloy-rs/alloy：alloy-rs/alloy helps prototype or inspect blockchain workflows 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 67/100 |
-| stars | 66/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 25/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

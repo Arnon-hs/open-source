@@ -62,16 +62,16 @@ hj01857655/kiro-account-manager：hj01857655/kiro-account-manager may be useful 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 42/100 |
-| adoption | 65/100 |
-| stars | 67/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

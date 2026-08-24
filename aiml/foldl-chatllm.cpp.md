@@ -65,16 +65,16 @@ foldl/chatllm.cpp：foldl/chatllm.cpp helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 42/100 |
-| adoption | 58/100 |
-| stars | 63/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 25/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

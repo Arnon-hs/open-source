@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ stripe/stripe-ruby: stripe/stripe-ruby helps integrate monetization, billing, or
 
 ### Русский
 
-stripe/stripe-ruby: open-source проект в категориях Payments, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+stripe/stripe-ruby: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ stripe/stripe-ruby：stripe/stripe-ruby helps integrate monetization, billing, o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 52/100 |
-| adoption | 71/100 |
-| stars | 71/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 25/100 |
+| outlook | 52/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

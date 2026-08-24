@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Marketing
+DevTools · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Dicklesworthstone/beads_rust: Dicklesworthstone/beads_rust helps engineers save 
 
 ### Русский
 
-Dicklesworthstone/beads_rust: open-source проект в категориях DevTools, Marketing. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Dicklesworthstone/beads_rust: open-source проект в категориях DevTools, Database. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Dicklesworthstone/beads_rust：Dicklesworthstone/beads_rust helps engineers save
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 50/100 |
-| adoption | 59/100 |
-| stars | 63/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 63/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

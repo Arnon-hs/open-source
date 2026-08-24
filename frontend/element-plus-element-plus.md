@@ -65,16 +65,16 @@ element-plus/element-plus：element-plus/element-plus helps ship user-facing int
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 96/100 |
-| stars | 94/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 75/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

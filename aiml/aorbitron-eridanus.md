@@ -65,16 +65,16 @@ AOrbitron/Eridanus：AOrbitron/Eridanus helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 46/100 |
-| stars | 48/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

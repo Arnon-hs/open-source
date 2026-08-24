@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Product
+Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ getsentry/sentry-rust: getsentry/sentry-rust helps teams reuse service infrastru
 
 ### Русский
 
-getsentry/sentry-rust: open-source проект в категориях Backend, Product. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+getsentry/sentry-rust: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ getsentry/sentry-rust：getsentry/sentry-rust helps teams reuse service infrastr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 60/100 |
-| stars | 61/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 75/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ krausest/js-framework-benchmark：krausest/js-framework-benchmark may be useful 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 49/100 |
-| adoption | 80/100 |
-| stars | 82/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 0/100 |
+| outlook | 49/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ pkalogiros/AudioMass：pkalogiros/AudioMass may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 46/100 |
-| adoption | 69/100 |
-| stars | 72/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 0/100 |
+| outlook | 46/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

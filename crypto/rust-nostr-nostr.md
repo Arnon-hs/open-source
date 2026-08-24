@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ rust-nostr/nostr：rust-nostr/nostr helps prototype or inspect blockchain workfl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 94/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 58/100 |
-| stars | 60/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ ChromeDevTools/devtools-frontend：ChromeDevTools/devtools-frontend helps ship u
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 75/100 |
-| stars | 76/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 63/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

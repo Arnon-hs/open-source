@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ pactus-project/pactus：pactus-project/pactus helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 43/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 38/100 |
-| adoption | 52/100 |
-| stars | 51/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

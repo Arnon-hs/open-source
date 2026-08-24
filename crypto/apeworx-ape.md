@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ApeWorX/ape: ApeWorX/ape helps prototype or inspect blockchain workflows with op
 
 ### Русский
 
-ApeWorX/ape: open-source проект в категориях Crypto, AI/ML, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ApeWorX/ape: open-source проект в категориях Crypto, DevTools. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ApeWorX/ape：ApeWorX/ape helps prototype or inspect blockchain workflows with o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 62/100 |
-| stars | 64/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ golang/tools：golang/tools may be useful when its README and activity match a c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 49/100 |
-| adoption | 83/100 |
-| stars | 83/100 |
 | forks | 84/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 0/100 |
+| outlook | 49/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

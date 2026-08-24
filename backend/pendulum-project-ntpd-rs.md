@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ pendulum-project/ntpd-rs: pendulum-project/ntpd-rs helps teams reuse service inf
 
 ### Русский
 
-pendulum-project/ntpd-rs: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+pendulum-project/ntpd-rs: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ pendulum-project/ntpd-rs：pendulum-project/ntpd-rs helps teams reuse service in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 60/100 |
-| stars | 65/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

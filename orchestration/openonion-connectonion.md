@@ -65,16 +65,16 @@ openonion/connectonion：openonion/connectonion helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 61/100 |
-| stars | 64/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

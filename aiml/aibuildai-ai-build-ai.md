@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ aibuildai/AI-Build-AI：aibuildai/AI-Build-AI helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 42/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 41/100 |
-| adoption | 48/100 |
-| stars | 52/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

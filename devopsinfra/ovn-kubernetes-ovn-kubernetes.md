@@ -65,16 +65,16 @@ ovn-kubernetes/ovn-kubernetes：ovn-kubernetes/ovn-kubernetes helps make deploym
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 52/100 |
-| adoption | 65/100 |
-| stars | 64/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ homeport/termshot：homeport/termshot helps engineers save time in daily develop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 55/100 |
-| stars | 62/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 63/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

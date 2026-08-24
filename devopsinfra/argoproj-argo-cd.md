@@ -65,16 +65,16 @@ argoproj/argo-cd：argoproj/argo-cd helps make deployment and operations more re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 59/100 |
-| adoption | 94/100 |
-| stars | 93/100 |
 | forks | 96/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 61/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

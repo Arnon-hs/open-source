@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ foundry-rs/foundry: foundry-rs/foundry helps prototype or inspect blockchain wor
 
 ### Русский
 
-foundry-rs/foundry: open-source проект в категориях Crypto, AI/ML, DevTools. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+foundry-rs/foundry: open-source проект в категориях Crypto, DevTools. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ foundry-rs/foundry：foundry-rs/foundry helps prototype or inspect blockchain wo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 63/100 |
-| adoption | 85/100 |
-| stars | 85/100 |
 | forks | 85/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

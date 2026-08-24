@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · DevOps/Infra
+Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ArroyoSystems/arroyo: ArroyoSystems/arroyo helps convert raw data into searchabl
 
 ### Русский
 
-ArroyoSystems/arroyo: open-source проект в категориях Data, DevOps/Infra. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ArroyoSystems/arroyo: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ArroyoSystems/arroyo：ArroyoSystems/arroyo helps convert raw data into searchab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 74/100 |
-| stars | 79/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

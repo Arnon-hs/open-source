@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ sagents-ai/sagents: sagents-ai/sagents helps turn isolated prompts and tools int
 
 ### Русский
 
-sagents-ai/sagents: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+sagents-ai/sagents: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ sagents-ai/sagents：sagents-ai/sagents helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 53/100 |
-| adoption | 46/100 |
-| stars | 50/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

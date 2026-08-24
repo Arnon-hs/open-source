@@ -62,16 +62,16 @@ aws/aws-lambda-rust-runtime：aws/aws-lambda-rust-runtime may be useful when its
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 73/100 |
-| stars | 76/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

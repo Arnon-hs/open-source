@@ -70,6 +70,7 @@ Bon-Appetit/porn-domains：Bon-Appetit/porn-domains helps add AI capability with
 | production | 47/100 |
 | outlook | 49/100 |
 | adoption | 53/100 |
+| categoryMatchCount | 100/100 |
 | stars | 56/100 |
 | forks | 46/100 |
 | recency | 20/100 |

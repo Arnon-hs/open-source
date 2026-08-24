@@ -63,16 +63,16 @@ scp-fs2open/fs2open.github.com：scp-fs2open/fs2open.github.com may be useful wh
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 41/100 |
-| adoption | 57/100 |
-| stars | 57/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 13/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

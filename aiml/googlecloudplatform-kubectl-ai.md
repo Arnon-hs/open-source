@@ -65,16 +65,16 @@ GoogleCloudPlatform/kubectl-ai：GoogleCloudPlatform/kubectl-ai helps add AI cap
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 53/100 |
-| adoption | 79/100 |
-| stars | 82/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 50/100 |
+| outlook | 53/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

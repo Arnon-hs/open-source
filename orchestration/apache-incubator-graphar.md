@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Knowledge/RAG · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ apache/incubator-graphar: apache/incubator-graphar helps turn isolated prompts a
 
 ### Русский
 
-apache/incubator-graphar: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+apache/incubator-graphar: open-source проект в категориях Orchestration, Knowledge/RAG, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ apache/incubator-graphar：apache/incubator-graphar helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 52/100 |
-| adoption | 53/100 |
-| stars | 54/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Security · Marketing
+Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ cloud-hypervisor/cloud-hypervisor: cloud-hypervisor/cloud-hypervisor helps catch
 
 ### Русский
 
-cloud-hypervisor/cloud-hypervisor: open-source проект в категориях Security, Marketing. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+cloud-hypervisor/cloud-hypervisor: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ cloud-hypervisor/cloud-hypervisor：cloud-hypervisor/cloud-hypervisor helps catc
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 53/100 |
-| adoption | 77/100 |
-| stars | 80/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 50/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,0 +1,79 @@
+# google/ksp
+
+[![Stars](https://img.shields.io/github/stars/google/ksp?style=flat-square&color=yellow)](https://github.com/google/ksp/stargazers) [![Forks](https://img.shields.io/github/forks/google/ksp?style=flat-square&color=blue)](https://github.com/google/ksp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+
+> Kotlin Symbol Processing API
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3.4k |
+| 🍴 **Forks** | 393 |
+| 💻 **Language** | Kotlin |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+The **google/ksp** project provides the Kotlin Symbol Processing (KSP) API, a lightweight compiler plugin that enables fast, incremental annotation processing for Kotlin code. By offering a high‑performance alternative to kapt, KSP lets developers write custom processors that generate source files, perform validation, or transform code during compilation, making it ideal for building backend tools, libraries, and frameworks.
+
+### Русский
+
+**google/ksp** – это открытый проект, предоставляющий Kotlin Symbol Processing (KSP) API, позволяющий писать быстрые и безопасные процессоры аннотаций, генерировать код и выполнять статический анализ без необходимости компиляции целого проекта. KSP интегрируется с Gradle и поддерживает как JVM, так и мультиплатформенные модули, обеспечивая лёгкую замену kapt и улучшая производительность сборки. Проект ориентирован на разработчиков бекенд‑приложений, которым нужен гибкий инструмент для метапрограммирования на Kotlin.
+
+### 中文
+
+google/ksp：google/ksp may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** google/ksp may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 3416 GitHub stars
+- 393 forks
+- updated 2026-05-08
+- primary language: Kotlin
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 65/100 |
+| stars | 75/100 |
+| topics | 0/100 |
+| outlook | 47/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/google/ksp) · [← Back to Misc](./README.md)</sub>

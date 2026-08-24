@@ -71,6 +71,7 @@ anthropics/skills：anthropics/skills helps turn isolated prompts and tools into
 | production | 74/100 |
 | outlook | 80/100 |
 | adoption | 100/100 |
+| categoryMatchCount | 200/100 |
 | stars | 100/100 |
 | forks | 100/100 |
 | recency | 100/100 |

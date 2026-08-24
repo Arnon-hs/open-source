@@ -62,16 +62,16 @@ AztecProtocol/aztec-packages：AztecProtocol/aztec-packages may be useful when i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 18/100 |
-| production | 41/100 |
-| outlook | 40/100 |
-| adoption | 60/100 |
-| stars | 56/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

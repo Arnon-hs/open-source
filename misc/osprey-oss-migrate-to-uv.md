@@ -63,16 +63,16 @@ osprey-oss/migrate-to-uv：osprey-oss/migrate-to-uv may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 55/100 |
-| stars | 65/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 88/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

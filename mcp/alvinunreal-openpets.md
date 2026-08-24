@@ -1,41 +1,41 @@
 # alvinunreal/openpets
 
-[![Stars](https://img.shields.io/github/stars/alvinunreal/openpets?style=flat-square&color=yellow)](https://github.com/alvinunreal/openpets/stargazers) [![Forks](https://img.shields.io/github/forks/alvinunreal/openpets?style=flat-square&color=blue)](https://github.com/alvinunreal/openpets/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alvinunreal/openpets?style=flat-square&color=yellow)](https://github.com/alvinunreal/openpets/stargazers) [![Forks](https://img.shields.io/github/forks/alvinunreal/openpets?style=flat-square&color=blue)](https://github.com/alvinunreal/openpets/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
-> Desktop companion platform with animated pets, Plugin SDK v3, official plugins, and optional local coding-agent integrations.
+> Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 887 |
-| 🍴 **Forks** | 62 |
+| ⭐ **Stars** | 177 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-agents` `claude-code` `coding-agents` `desktop-companion` `desktop-pet` `electron` `mcp` `opencode` `openpets` `plugin-sdk` `plugins` `typescript`
+`ai-agents` `bun` `claude-code` `coding-agents` `desktop-pet` `electron` `mcp` `opencode` `openpets` `pixel-art`
 
 ## 🎯 Categories
 
-MCP · AI/ML · Database
+MCP · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-alvinunreal/openpets: alvinunreal/openpets helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+OpenPets is a desktop‑side companion that visualizes the activity of AI coding agents such as Claude Code. By installing a pet and linking it to Claude via the MCP protocol, users get a live, animated display of the agent’s coding status directly on their desktop. It’s an open‑source tool that turns AI‑driven development into a more engaging, visual experience.
 
 ### Русский
 
-alvinunreal/openpets: open-source проект в категориях MCP, AI/ML, Database. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+**alvinunreal/openpets** – это открытый проект, позволяющий добавить на рабочий стол «домашних животных», которые визуально отображают статус работы AI‑агентов, пишущих код (например, Claude Code) через протокол MCP. Пользователи могут установить различных питомцев, подключить к ним свой код‑генератор и в реальном времени наблюдать, как агент решает задачи, компилирует и отлаживает программы. Проект относится к категории AI/ML и подходит для тех, кто хочет сделать процесс разработки более наглядным и увлекательным.
 
 ### 中文
 
-alvinunreal/openpets：alvinunreal/openpets helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+alvinunreal/openpets：alvinunreal/openpets helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,15 +49,15 @@ alvinunreal/openpets：alvinunreal/openpets helps connect AI assistants to real 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
-- 887 GitHub stars
-- 62 forks
-- updated 2026-07-11
+- 177 GitHub stars
+- 6 forks
+- updated 2026-05-10
 - primary language: TypeScript
-- 12 topics
+- 10 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,18 +65,18 @@ alvinunreal/openpets：alvinunreal/openpets helps connect AI assistants to real 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 81/100 |
-| integration | 94/100 |
-| production | 84/100 |
-| outlook | 89/100 |
-| adoption | 58/100 |
-| stars | 63/100 |
-| forks | 45/100 |
-| recency | 100/100 |
+| forks | 21/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/alvinunreal/openpets) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/alvinunreal/openpets) · [← Back to Mcp](./README.md)</sub>

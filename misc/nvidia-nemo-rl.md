@@ -62,16 +62,16 @@ NVIDIA-NeMo/RL：NVIDIA-NeMo/RL may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 45/100 |
-| adoption | 67/100 |
-| stars | 68/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

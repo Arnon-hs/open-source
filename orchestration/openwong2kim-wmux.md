@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ openwong2kim/wmux：openwong2kim/wmux helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 51/100 |
-| integration | 78/100 |
-| production | 51/100 |
-| outlook | 56/100 |
-| adoption | 35/100 |
-| stars | 37/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 37/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ kreuzberg-dev/liter-llm：kreuzberg-dev/liter-llm helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 94/100 |
-| production | 55/100 |
-| outlook | 52/100 |
-| adoption | 43/100 |
-| stars | 48/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

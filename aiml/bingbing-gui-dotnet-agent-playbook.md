@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ bingbing-gui/dotnet-agent-playbook：bingbing-gui/dotnet-agent-playbook helps ad
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 40/100 |
-| integration | 30/100 |
-| production | 40/100 |
-| outlook | 39/100 |
-| adoption | 44/100 |
-| stars | 46/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 40/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 40/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

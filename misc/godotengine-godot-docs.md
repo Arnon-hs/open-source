@@ -63,16 +63,16 @@ godotengine/godot-docs：godotengine/godot-docs may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 82/100 |
-| stars | 79/100 |
 | forks | 89/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

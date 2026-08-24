@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ opengeos/GeoAgent：opengeos/GeoAgent helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 75/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ obi1kenobi/cargo-semver-checks：obi1kenobi/cargo-semver-checks may be useful wh
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 41/100 |
-| adoption | 64/100 |
-| stars | 68/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

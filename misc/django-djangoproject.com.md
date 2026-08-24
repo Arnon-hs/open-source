@@ -62,16 +62,16 @@ django/djangoproject.com：django/djangoproject.com may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 43/100 |
-| adoption | 72/100 |
-| stars | 70/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Dicklesworthstone/frankenterm：Dicklesworthstone/frankenterm helps turn isolate
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 50/100 |
-| adoption | 37/100 |
-| stars | 41/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 41/100 |
 | topics | 63/100 |
+| outlook | 50/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 45/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

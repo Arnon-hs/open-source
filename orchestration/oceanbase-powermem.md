@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ oceanbase/powermem: oceanbase/powermem helps turn isolated prompts and tools int
 
 ### Русский
 
-oceanbase/powermem: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+oceanbase/powermem: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ oceanbase/powermem：oceanbase/powermem helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 57/100 |
-| stars | 60/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

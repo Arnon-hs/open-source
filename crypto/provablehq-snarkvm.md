@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ProvableHQ/snarkVM：ProvableHQ/snarkVM helps prototype or inspect blockchain wo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 69/100 |
-| stars | 65/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 75/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

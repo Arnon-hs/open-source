@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Automation · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ kestra-io/kestra: kestra-io/kestra helps turn isolated prompts and tools into re
 
 ### Русский
 
-kestra-io/kestra: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kestra-io/kestra: open-source проект в категориях Orchestration, Automation, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ kestra-io/kestra：kestra-io/kestra helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 65/100 |
-| adoption | 92/100 |
-| stars | 94/100 |
 | forks | 85/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

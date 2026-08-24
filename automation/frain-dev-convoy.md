@@ -1,6 +1,6 @@
 # frain-dev/convoy
 
-[![Stars](https://img.shields.io/github/stars/frain-dev/convoy?style=flat-square&color=yellow)](https://github.com/frain-dev/convoy/stargazers) [![Forks](https://img.shields.io/github/forks/frain-dev/convoy?style=flat-square&color=blue)](https://github.com/frain-dev/convoy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frain-dev/convoy?style=flat-square&color=yellow)](https://github.com/frain-dev/convoy/stargazers) [![Forks](https://img.shields.io/github/forks/frain-dev/convoy?style=flat-square&color=blue)](https://github.com/frain-dev/convoy/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > The Cloud Native Webhooks Gateway
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 179 |
+| 🍴 **Forks** | 174 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 75/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · DevTools · DevOps/Infra
+Automation · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-frain-dev/convoy: frain-dev/convoy helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+frain-dev/convoy is an open‑source, cloud‑native gateway that centralizes the receipt, validation, and delivery of webhooks across distributed services. It provides a scalable, fault‑tolerant backend with features such as event transformation, retry policies, and observability, making it ideal for building reliable, high‑throughput webhook pipelines in modern AI/ML and DevOps workflows.
 
 ### Русский
 
-frain-dev/convoy: open-source проект в категориях Automation, AI/ML, Backend, DevTools, DevOps/Infra. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+**Convoy** — это облачно‑нативный шлюз для веб‑хуков, позволяющий легко управлять, масштабировать и защищать доставку событий между микросервисами и сторонними системами. Проект предоставляет гибкую маршрутизацию, повторные попытки, дедупликацию и интеграцию с популярными брокерами сообщений, что делает его ценным инструментом для разработчиков backend и DevOps. Благодаря открытому коду и поддержке сообщества Convoy подходит для построения надёжных, масштабируемых и безопасных систем обработки событий.
 
 ### 中文
 
-frain-dev/convoy：frain-dev/convoy helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+frain-dev/convoy：frain-dev/convoy helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ frain-dev/convoy：frain-dev/convoy helps remove repetitive manual operations fr
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 2838 GitHub stars
-- 179 forks
-- updated 2026-07-13
+- 2797 GitHub stars
+- 174 forks
+- updated 2026-05-08
 - primary language: Go
 - 18 topics
 
@@ -65,18 +65,18 @@ frain-dev/convoy：frain-dev/convoy helps remove repetitive manual operations fr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 86/100 |
-| integration | 78/100 |
-| production | 83/100 |
-| outlook | 92/100 |
-| adoption | 69/100 |
-| stars | 73/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/frain-dev/convoy) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/frain-dev/convoy) · [← Back to Automation](./README.md)</sub>

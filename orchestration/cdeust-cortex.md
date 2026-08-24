@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ cdeust/Cortex：cdeust/Cortex helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 48/100 |
-| integration | 78/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 29/100 |
-| stars | 31/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 31/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

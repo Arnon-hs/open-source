@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · Design
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ThinkInAIXYZ/deepchat: ThinkInAIXYZ/deepchat helps turn isolated prompts and too
 
 ### Русский
 
-ThinkInAIXYZ/deepchat: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ThinkInAIXYZ/deepchat: open-source проект в категориях Orchestration, MCP, AI/ML, Design. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ThinkInAIXYZ/deepchat：ThinkInAIXYZ/deepchat helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 70/100 |
-| integration | 94/100 |
-| production | 60/100 |
-| outlook | 66/100 |
-| adoption | 77/100 |
-| stars | 80/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 60/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

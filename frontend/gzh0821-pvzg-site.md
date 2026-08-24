@@ -65,16 +65,16 @@ Gzh0821/pvzg_site：Gzh0821/pvzg_site helps ship user-facing interfaces with les
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 50/100 |
-| adoption | 61/100 |
-| stars | 66/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 88/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

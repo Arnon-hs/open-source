@@ -63,16 +63,16 @@ Po1nt9/Claude-Desktop-Chinese：Po1nt9/Claude-Desktop-Chinese may be useful when
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 41/100 |
-| adoption | 24/100 |
-| stars | 30/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 30/100 |
 | topics | 100/100 |
+| outlook | 41/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 24/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

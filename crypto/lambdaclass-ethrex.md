@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ lambdaclass/ethrex: lambdaclass/ethrex helps prototype or inspect blockchain wor
 
 ### Русский
 
-lambdaclass/ethrex: open-source проект в категориях Crypto, AI/ML, DevTools. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+lambdaclass/ethrex: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ lambdaclass/ethrex：lambdaclass/ethrex helps prototype or inspect blockchain wo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 61/100 |
-| stars | 62/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

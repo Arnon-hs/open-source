@@ -65,16 +65,16 @@ hetznercloud/cli：hetznercloud/cli helps engineers save time in daily developme
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 56/100 |
-| adoption | 63/100 |
-| stars | 69/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 88/100 |
+| outlook | 56/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

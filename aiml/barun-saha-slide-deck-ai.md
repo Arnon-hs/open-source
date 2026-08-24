@@ -65,16 +65,16 @@ barun-saha/slide-deck-ai：barun-saha/slide-deck-ai helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 51/100 |
-| stars | 54/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

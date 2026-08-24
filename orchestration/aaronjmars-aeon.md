@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ aaronjmars/aeon：aaronjmars/aeon helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 48/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

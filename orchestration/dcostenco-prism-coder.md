@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dcostenco/prism-coder：dcostenco/prism-coder helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 58/100 |
-| adoption | 42/100 |
-| stars | 45/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

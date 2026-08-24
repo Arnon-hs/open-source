@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ KyosukeIshizu1008/berryscode：KyosukeIshizu1008/berryscode helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 34/100 |
-| stars | 41/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 41/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

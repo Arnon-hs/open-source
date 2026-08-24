@@ -1,0 +1,80 @@
+# gfpcom/free-proxy-list
+
+[![Stars](https://img.shields.io/github/stars/gfpcom/free-proxy-list?style=flat-square&color=yellow)](https://github.com/gfpcom/free-proxy-list/stargazers) [![Forks](https://img.shields.io/github/forks/gfpcom/free-proxy-list?style=flat-square&color=blue)](https://github.com/gfpcom/free-proxy-list/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+
+> 🚀 The Best Free HTTP, SOCKS4/SOCKS5, SSL,SS/SSR Proxy List,V2Ray/XRay(Vmess/Vless) Configs, Tuic, Wireguard, Hyeseria, Trojan-Go/Trojan-GFW Servers  - 🔄 Updated Every 30 Minutes⏰
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 310 |
+| 🍴 **Forks** | 41 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`anonymous-proxy` `free-proxy-list` `google-proxy` `http-proxy` `hyeseria` `hyeseria2` `proxy-checker` `proxy-list` `proxy-lists` `shadowsocks` `socks-proxy` `socks4-proxy`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+gfpcom/free-proxy-list is an open‑source repository that aggregates a continuously refreshed collection of free proxy servers and VPN configurations, covering HTTP, SOCKS4/5, SSL, SS/SSR, V2Ray/XRay (VMess/VLess), Tuic, WireGuard, Hyeseria, and Trojan‑Go/Trojan‑GFW protocols. The project provides both a frontend interface for browsing and searching the list and a backend that updates the data every 30 minutes, making it a convenient source for developers and users who need up‑to‑date proxy resources.
+
+### Русский
+
+**gfpcom/free-proxy-list** – это открытый проект, предоставляющий постоянно актуализируемый (каждые 30 минут) список бесплатных прокси‑серверов различных типов: HTTP, SOCKS4/5, SSL, SS/SSR, а также конфиги V2Ray/XRay (Vmess/Vless), Tuic, Wireguard, Hyeseria, Trojan‑Go/Trojan‑GFW. Проект объединяет как клиентскую (Frontend), так и серверную (Backend) части, обеспечивая удобный веб‑интерфейс для быстрого поиска, фильтрации и копирования рабочих прокси‑адресов.
+
+### 中文
+
+gfpcom/free-proxy-list：gfpcom/free-proxy-list may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** gfpcom/free-proxy-list may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 310 GitHub stars
+- 41 forks
+- updated 2026-05-08
+- primary language: Go
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 41/100 |
+| stars | 53/100 |
+| topics | 100/100 |
+| outlook | 48/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/gfpcom/free-proxy-list) · [← Back to Misc](./README.md)</sub>

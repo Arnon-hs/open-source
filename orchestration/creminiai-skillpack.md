@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ CreminiAI/skillpack：CreminiAI/skillpack helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 49/100 |
-| stars | 54/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 75/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

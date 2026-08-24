@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ rohitg00/pro-workflow：rohitg00/pro-workflow helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 64/100 |
-| adoption | 67/100 |
-| stars | 71/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ fpytloun/mnemory：fpytloun/mnemory helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 40/100 |
-| stars | 45/100 |
 | forks | 27/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

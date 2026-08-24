@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ GCWing/BitFun: GCWing/BitFun helps add AI capability without starting from a bla
 
 ### Русский
 
-GCWing/BitFun: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+GCWing/BitFun: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ GCWing/BitFun：GCWing/BitFun helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 56/100 |
-| adoption | 57/100 |
-| stars | 60/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

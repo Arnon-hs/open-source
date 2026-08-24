@@ -65,16 +65,16 @@ vitest-dev/vitest：vitest-dev/vitest helps engineers save time in daily develop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 57/100 |
-| adoption | 87/100 |
-| stars | 90/100 |
 | forks | 81/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 38/100 |
+| outlook | 57/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

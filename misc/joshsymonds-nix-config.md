@@ -62,16 +62,16 @@ joshsymonds/nix-config：joshsymonds/nix-config may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 18/100 |
-| production | 41/100 |
-| outlook | 40/100 |
-| adoption | 59/100 |
-| stars | 62/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

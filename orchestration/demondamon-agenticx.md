@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -67,16 +67,16 @@ DemonDamon/AgenticX：DemonDamon/AgenticX helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 100/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 40/100 |
-| stars | 44/100 |
 | forks | 30/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---

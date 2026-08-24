@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ MDalamin5/End-to-End-Agentic-Ai-Automation-Lab：MDalamin5/End-to-End-Agentic-Ai
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 52/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 57/100 |
-| adoption | 39/100 |
-| stars | 39/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

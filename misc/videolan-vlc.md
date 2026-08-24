@@ -63,16 +63,16 @@ videolan/vlc：videolan/vlc may be useful when its README and activity match a c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 92/100 |
-| stars | 91/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 91/100 |
 | topics | 88/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ studyzy/imewlconverter：studyzy/imewlconverter may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 81/100 |
-| stars | 85/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

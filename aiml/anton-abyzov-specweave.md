@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ anton-abyzov/specweave：anton-abyzov/specweave helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 42/100 |
-| stars | 46/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ tobihagemann/turbo：tobihagemann/turbo helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 50/100 |
-| adoption | 48/100 |
-| stars | 53/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 63/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

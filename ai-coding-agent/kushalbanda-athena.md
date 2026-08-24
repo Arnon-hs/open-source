@@ -67,6 +67,7 @@ kushalBanda/Athena：kushalBanda/Athena may be useful when its README and activi
 | production | 58/100 |
 | outlook | 55/100 |
 | adoption | 5/100 |
+| categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |

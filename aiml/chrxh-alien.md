@@ -65,16 +65,16 @@ chrxh/alien：chrxh/alien helps add AI capability without starting from a blank 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 53/100 |
-| adoption | 73/100 |
-| stars | 79/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,0 +1,82 @@
+# OthmaneBlial/awesome-openclaw-examples
+
+[![Stars](https://img.shields.io/github/stars/OthmaneBlial/awesome-openclaw-examples?style=flat-square&color=yellow)](https://github.com/OthmaneBlial/awesome-openclaw-examples/stargazers) [![Forks](https://img.shields.io/github/forks/OthmaneBlial/awesome-openclaw-examples?style=flat-square&color=blue)](https://github.com/OthmaneBlial/awesome-openclaw-examples/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+
+> Awesome OpenClaw examples: 101 tested, real-world OpenClaw usecases built with ClawHub skills, runnable scripts, prompts, KPIs, and sample outputs.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 112 |
+| 🍴 **Forks** | 18 |
+| 💻 **Language** | Shell |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai-agents` `ai-automation` `awesome-list` `clawhub` `developer-tools` `llm` `openai` `openclaw` `openclaw-plugin` `openclaw-skills` `productivity` `self-hosted`
+
+## 🎯 Categories
+
+Automation · AI/ML · DevTools
+
+## 📝 Summary
+
+### English
+
+A curated collection of 101 thoroughly tested, real‑world OpenClaw use cases, each packaged as ready‑to‑run scripts, prompts, and performance metrics. The repository showcases how to apply ClawHub skills across AI/ML, frontend, and DevTools scenarios, providing sample outputs and KPIs to help developers quickly integrate and evaluate OpenClaw solutions.
+
+### Русский
+
+Проект **OthmaneBlial/awesome-openclaw-examples** представляет собой коллекцию из 101 проверенного реального примера использования OpenClaw, построенных с помощью навыков ClawHub. В репозитории находятся готовые к запуску скрипты, запросы, метрики KPI и образцы выводов, что делает его ценным ресурсом как для разработки AI/ML‑моделей, так и для фронтенд‑интеграций и инструментов DevTools.
+
+### 中文
+
+OthmaneBlial/awesome-openclaw-examples：OthmaneBlial/awesome-openclaw-examples helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** OthmaneBlial/awesome-openclaw-examples helps remove repetitive manual operations from a workflow.
+
+**Best use cases**
+
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 112 GitHub stars
+- 18 forks
+- updated 2026-05-09
+- primary language: Shell
+- 13 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 32/100 |
+| stars | 44/100 |
+| topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 48/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/OthmaneBlial/awesome-openclaw-examples) · [← Back to Automation](./README.md)</sub>

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ slint-ui/slint: slint-ui/slint helps ship user-facing interfaces with less custo
 
 ### Русский
 
-slint-ui/slint: open-source проект в категориях Frontend, Backend, DevTools. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+slint-ui/slint: open-source проект в категориях Frontend, Backend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ slint-ui/slint：slint-ui/slint helps ship user-facing interfaces with less cust
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 87/100 |
-| stars | 93/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

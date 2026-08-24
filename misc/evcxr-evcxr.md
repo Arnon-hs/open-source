@@ -62,16 +62,16 @@ evcxr/evcxr：evcxr/evcxr may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 18/100 |
-| production | 44/100 |
-| outlook | 44/100 |
-| adoption | 75/100 |
-| stars | 81/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

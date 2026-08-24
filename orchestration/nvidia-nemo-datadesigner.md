@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · MCP · AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ NVIDIA-NeMo/DataDesigner: NVIDIA-NeMo/DataDesigner helps turn isolated prompts a
 
 ### Русский
 
-NVIDIA-NeMo/DataDesigner: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+NVIDIA-NeMo/DataDesigner: open-source проект в категориях Orchestration, MCP, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ NVIDIA-NeMo/DataDesigner：NVIDIA-NeMo/DataDesigner helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 64/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 61/100 |
-| adoption | 65/100 |
-| stars | 69/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

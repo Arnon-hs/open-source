@@ -64,16 +64,16 @@ styrene-lab/omegon：styrene-lab/omegon helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 34/100 |
-| integration | 46/100 |
-| production | 41/100 |
-| outlook | 37/100 |
-| adoption | 32/100 |
-| stars | 35/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 34/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

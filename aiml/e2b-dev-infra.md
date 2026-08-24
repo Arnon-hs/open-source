@@ -65,16 +65,16 @@ e2b-dev/infra：e2b-dev/infra helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 58/100 |
-| adoption | 64/100 |
-| stars | 65/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

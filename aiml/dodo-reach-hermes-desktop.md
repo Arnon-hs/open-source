@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dodo-reach/hermes-desktop：dodo-reach/hermes-desktop helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 57/100 |
-| adoption | 60/100 |
-| stars | 65/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ superset-sh/superset: superset-sh/superset helps turn isolated prompts and tools
 
 ### Русский
 
-superset-sh/superset: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+superset-sh/superset: open-source проект в категориях Orchestration, MCP, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ superset-sh/superset：superset-sh/superset helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 72/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 68/100 |
-| adoption | 82/100 |
-| stars | 86/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

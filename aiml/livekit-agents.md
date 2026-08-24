@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ livekit/agents: livekit/agents helps add AI capability without starting from a b
 
 ### Русский
 
-livekit/agents: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+livekit/agents: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ livekit/agents：livekit/agents helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 61/100 |
-| adoption | 86/100 |
-| stars | 85/100 |
 | forks | 87/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 75/100 |
+| outlook | 61/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ DSpace/DSpace：DSpace/DSpace helps teams reuse service infrastructure instead o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 68/100 |
-| stars | 64/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

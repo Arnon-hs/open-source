@@ -63,16 +63,16 @@ nuxt-content/docus：nuxt-content/docus may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 47/100 |
-| adoption | 70/100 |
-| stars | 73/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 38/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

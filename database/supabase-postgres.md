@@ -1,0 +1,81 @@
+# supabase/postgres
+
+[![Stars](https://img.shields.io/github/stars/supabase/postgres?style=flat-square&color=yellow)](https://github.com/supabase/postgres/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/postgres?style=flat-square&color=blue)](https://github.com/supabase/postgres/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+
+> Unmodified Postgres with some useful extensions
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 241 |
+| 💻 **Language** | Nix |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-05-07 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Database
+
+## 📝 Summary
+
+### English
+
+supabase/postgres: supabase/postgres helps teams persist, query, and move data with less custom plumbing.. Use it for manage persistence; speed up data access. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+### Русский
+
+supabase/postgres: open-source проект в категориях Database. Практическое применение: manage persistence; speed up data access. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+
+### 中文
+
+supabase/postgres：supabase/postgres helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** supabase/postgres helps teams persist, query, and move data with less custom plumbing.
+
+**Best use cases**
+
+- manage persistence
+- speed up data access
+- prototype database-backed apps
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1730 GitHub stars
+- 241 forks
+- updated 2026-05-07
+- primary language: Nix
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 60/100 |
+| stars | 69/100 |
+| topics | 0/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/supabase/postgres) · [← Back to Database](./README.md)</sub>

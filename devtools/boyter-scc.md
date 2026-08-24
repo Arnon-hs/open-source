@@ -65,16 +65,16 @@ boyter/scc：boyter/scc helps engineers save time in daily development and revie
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 78/100 |
-| stars | 83/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

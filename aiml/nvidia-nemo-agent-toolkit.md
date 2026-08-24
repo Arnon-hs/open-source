@@ -64,16 +64,16 @@ NVIDIA/NeMo-Agent-Toolkit：NVIDIA/NeMo-Agent-Toolkit helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 50/100 |
-| adoption | 71/100 |
-| stars | 71/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 0/100 |
+| outlook | 50/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

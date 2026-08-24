@@ -62,16 +62,16 @@ doceazedo/godot_wry：doceazedo/godot_wry may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 38/100 |
-| adoption | 52/100 |
-| stars | 57/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

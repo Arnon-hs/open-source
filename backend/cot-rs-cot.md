@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ cot-rs/cot：cot-rs/cot helps teams reuse service infrastructure instead of rebu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 57/100 |
-| stars | 63/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

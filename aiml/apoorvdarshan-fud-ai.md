@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ apoorvdarshan/fud-ai: apoorvdarshan/fud-ai helps add AI capability without start
 
 ### Русский
 
-apoorvdarshan/fud-ai: open-source проект в категориях AI/ML, Frontend, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+apoorvdarshan/fud-ai: open-source проект в категориях AI/ML, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ apoorvdarshan/fud-ai：apoorvdarshan/fud-ai helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 47/100 |
-| adoption | 45/100 |
-| stars | 47/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

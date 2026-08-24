@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ gaotiexinqu/OneResearchClaw：gaotiexinqu/OneResearchClaw helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 54/100 |
-| adoption | 50/100 |
-| stars | 54/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

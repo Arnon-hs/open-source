@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend · Backend · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ t8y2/dbx: t8y2/dbx helps ship user-facing interfaces with less custom UI work.. 
 
 ### Русский
 
-t8y2/dbx: open-source проект в категориях Frontend, Backend, DevTools. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+t8y2/dbx: open-source проект в категориях Frontend, Backend, Database. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ t8y2/dbx：t8y2/dbx helps ship user-facing interfaces with less custom UI work.�
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 60/100 |
-| stars | 65/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

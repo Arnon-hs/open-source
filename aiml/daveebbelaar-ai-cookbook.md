@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ daveebbelaar/ai-cookbook：daveebbelaar/ai-cookbook helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 77/100 |
-| stars | 77/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

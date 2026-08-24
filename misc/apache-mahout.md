@@ -1,0 +1,80 @@
+# apache/mahout
+
+[![Stars](https://img.shields.io/github/stars/apache/mahout?style=flat-square&color=yellow)](https://github.com/apache/mahout/stargazers) [![Forks](https://img.shields.io/github/forks/apache/mahout?style=flat-square&color=blue)](https://github.com/apache/mahout/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> Apache Mahout - an environment for quickly creating scalable, performant machine learning applications.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2.3k |
+| 🍴 **Forks** | 991 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`apache-mahout` `cuda` `python` `qumat` `qumat-qdp` `rust`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Apache Mahout is an open‑source library that provides a collection of scalable machine learning algorithms designed for large‑scale data processing on distributed platforms such as Hadoop and Spark. It offers ready‑to‑use implementations for clustering, classification, recommendation, and dimensionality reduction, enabling developers to build high‑performance analytics applications with minimal effort. The project focuses on delivering a flexible, production‑ready environment for fast prototyping and deployment of machine‑learning pipelines.
+
+### Русский
+
+Apache Mahout — это открытая платформа, позволяющая быстро разрабатывать масштабируемые и высокопроизводительные решения в области машинного обучения. Проект предоставляет готовые алгоритмы и инструменты для построения рекомендационных систем, кластеризации и классификации, которые легко интегрировать в существующие приложения. Несмотря на то, что Mahout ориентирован в первую очередь на бэкенд‑обработку данных, он также предлагает удобные API и примеры, упрощающие разработку фронтенд‑интерфейсов для визуализации результатов.
+
+### 中文
+
+apache/mahout：apache/mahout may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** apache/mahout may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 2287 GitHub stars
+- 991 forks
+- updated 2026-05-10
+- primary language: Rust
+- 6 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 75/100 |
+| stars | 71/100 |
+| topics | 75/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/apache/mahout) · [← Back to Misc](./README.md)</sub>

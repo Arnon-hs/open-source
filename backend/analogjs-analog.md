@@ -65,16 +65,16 @@ analogjs/analog：analogjs/analog helps teams reuse service infrastructure inste
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 71/100 |
-| stars | 74/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

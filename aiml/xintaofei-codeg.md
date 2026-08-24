@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ xintaofei/codeg：xintaofei/codeg helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 62/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 60/100 |
-| stars | 64/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

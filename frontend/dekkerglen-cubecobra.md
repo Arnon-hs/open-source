@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dekkerglen/CubeCobra: dekkerglen/CubeCobra helps ship user-facing interfaces wit
 
 ### Русский
 
-dekkerglen/CubeCobra: open-source проект в категориях Frontend, DevTools. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+dekkerglen/CubeCobra: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dekkerglen/CubeCobra：dekkerglen/CubeCobra helps ship user-facing interfaces wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 42/100 |
-| adoption | 52/100 |
-| stars | 51/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 38/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

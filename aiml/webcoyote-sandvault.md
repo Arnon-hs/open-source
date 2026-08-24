@@ -65,16 +65,16 @@ webcoyote/sandvault：webcoyote/sandvault helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 45/100 |
-| stars | 51/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 50/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

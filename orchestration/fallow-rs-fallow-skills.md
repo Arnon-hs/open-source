@@ -64,16 +64,16 @@ fallow-rs/fallow-skills：fallow-rs/fallow-skills helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 31/100 |
-| stars | 35/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

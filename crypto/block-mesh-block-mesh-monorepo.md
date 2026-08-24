@@ -65,16 +65,16 @@ block-mesh/block-mesh-monorepo：block-mesh/block-mesh-monorepo helps prototype 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 18/100 |
-| production | 44/100 |
-| outlook | 47/100 |
-| adoption | 46/100 |
-| stars | 47/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

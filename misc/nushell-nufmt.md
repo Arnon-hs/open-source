@@ -62,16 +62,16 @@ nushell/nufmt：nushell/nufmt may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 40/100 |
-| integration | 18/100 |
-| production | 39/100 |
-| outlook | 37/100 |
-| adoption | 45/100 |
-| stars | 49/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 40/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 39/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

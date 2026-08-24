@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML
+Crypto · Trading · Automation
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ high-performance Rust SDK for low-latency Solana DEX trading bots. Built for spe
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 53/100 |
-| stars | 53/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ memgraph/memgraph: memgraph/memgraph helps add AI capability without starting fr
 
 ### Русский
 
-memgraph/memgraph: open-source проект в категориях AI/ML, Frontend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+memgraph/memgraph: open-source проект в категориях AI/ML, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ memgraph/memgraph：memgraph/memgraph helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 72/100 |
-| stars | 77/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

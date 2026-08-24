@@ -65,16 +65,16 @@ unhappychoice/steamfetch：unhappychoice/steamfetch helps teams reuse service in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 39/100 |
-| stars | 48/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

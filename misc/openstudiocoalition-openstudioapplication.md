@@ -1,0 +1,80 @@
+# openstudiocoalition/OpenStudioApplication
+
+[![Stars](https://img.shields.io/github/stars/openstudiocoalition/OpenStudioApplication?style=flat-square&color=yellow)](https://github.com/openstudiocoalition/OpenStudioApplication/stargazers) [![Forks](https://img.shields.io/github/forks/openstudiocoalition/OpenStudioApplication?style=flat-square&color=blue)](https://github.com/openstudiocoalition/OpenStudioApplication/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> The OpenStudio Application is a fully featured graphical interface to OpenStudio models including envelope, loads, schedules, and HVAC.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 168 |
+| 🍴 **Forks** | 27 |
+| 💻 **Language** | C++ |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`energyplus` `hacktoberfest` `openstudio` `openstudio-application` `openstudio-coalition` `openstudio-models` `openstudio-sdk` `qt`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+OpenStudio Application provides a comprehensive graphical user interface for creating, editing, and analyzing OpenStudio building energy models. It lets users intuitively define building geometry, envelope properties, loads, schedules, and HVAC systems, streamlining the workflow from concept to simulation. The open‑source tool is geared toward architects, engineers, and researchers who need a visual, fully‑featured environment for energy modeling.
+
+### Русский
+
+OpenStudio Application — это полнофункциональный графический интерфейс для работы с моделями OpenStudio, позволяющий удобно создавать и редактировать оболочку здания, нагрузки, расписания и системы ОВК. Проект с открытым исходным кодом предоставляет инженерам и исследователям интуитивные инструменты визуализации и настройки энергетических моделей, ускоряя процесс проектирования и анализа энергоэффективности.
+
+### 中文
+
+openstudiocoalition/OpenStudioApplication：openstudiocoalition/OpenStudioApplication may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** openstudiocoalition/OpenStudioApplication may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 168 GitHub stars
+- 27 forks
+- updated 2026-05-10
+- primary language: C++
+- 8 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 36/100 |
+| stars | 47/100 |
+| topics | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/openstudiocoalition/OpenStudioApplication) · [← Back to Misc](./README.md)</sub>

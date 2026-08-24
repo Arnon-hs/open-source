@@ -65,16 +65,16 @@ NVIDIA-NeMo/Automodel：NVIDIA-NeMo/Automodel helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 56/100 |
-| stars | 57/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

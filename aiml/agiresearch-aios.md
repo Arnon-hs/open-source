@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Mobile
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ agiresearch/AIOS：agiresearch/AIOS helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 48/100 |
-| adoption | 78/100 |
-| stars | 80/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

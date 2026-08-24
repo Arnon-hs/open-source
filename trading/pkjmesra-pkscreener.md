@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · DevTools
+Trading · Automation
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ pkjmesra/PKScreener：pkjmesra/PKScreener helps research and automate market wor
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 49/100 |
-| adoption | 54/100 |
-| stars | 54/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ djhworld/simple-computer：djhworld/simple-computer may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 42/100 |
-| adoption | 66/100 |
-| stars | 70/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

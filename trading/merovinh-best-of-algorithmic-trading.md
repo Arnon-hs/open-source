@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · Backend
+Trading · Automation · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ merovinh/best-of-algorithmic-trading: merovinh/best-of-algorithmic-trading helps
 
 ### Русский
 
-merovinh/best-of-algorithmic-trading: open-source проект в категориях Trading, Backend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+merovinh/best-of-algorithmic-trading: open-source проект в категориях Trading, Automation, Backend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,16 +64,16 @@ merovinh/best-of-algorithmic-trading：merovinh/best-of-algorithmic-trading help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 57/100 |
-| adoption | 59/100 |
-| stars | 62/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 75/100 |
+| outlook | 57/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

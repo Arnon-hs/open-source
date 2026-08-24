@@ -62,16 +62,16 @@ refactoringhq/tolaria：refactoringhq/tolaria may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 46/100 |
-| adoption | 81/100 |
-| stars | 85/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 0/100 |
+| outlook | 46/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

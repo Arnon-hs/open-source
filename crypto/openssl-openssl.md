@@ -65,16 +65,16 @@ openssl/openssl：openssl/openssl helps prototype or inspect blockchain workflow
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 75/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 97/100 |
-| stars | 95/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 75/100 |
+| outlook | 57/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ git-ai-project/git-ai：git-ai-project/git-ai helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 49/100 |
-| adoption | 65/100 |
-| stars | 69/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 38/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

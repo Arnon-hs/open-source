@@ -65,16 +65,16 @@ xvitaly/zswap-cli：xvitaly/zswap-cli helps engineers save time in daily develop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 47/100 |
-| adoption | 29/100 |
-| stars | 34/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 34/100 |
 | topics | 75/100 |
+| outlook | 47/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 44/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ZHangZHengEric/Sage: ZHangZHengEric/Sage helps turn isolated prompts and tools i
 
 ### Русский
 
-ZHangZHengEric/Sage: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+ZHangZHengEric/Sage: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ZHangZHengEric/Sage：ZHangZHengEric/Sage helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 58/100 |
-| adoption | 62/100 |
-| stars | 66/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 75/100 |
+| outlook | 58/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

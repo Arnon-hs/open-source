@@ -65,16 +65,16 @@ Bitterbot-AI/bitterbot-desktop：Bitterbot-AI/bitterbot-desktop helps turn isola
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 66/100 |
-| stars | 67/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

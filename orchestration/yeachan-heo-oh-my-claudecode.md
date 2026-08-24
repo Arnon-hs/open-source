@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Yeachan-Heo/oh-my-claudecode: Yeachan-Heo/oh-my-claudecode helps turn isolated p
 
 ### Русский
 
-Yeachan-Heo/oh-my-claudecode: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Yeachan-Heo/oh-my-claudecode: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Yeachan-Heo/oh-my-claudecode：Yeachan-Heo/oh-my-claudecode helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 77/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 65/100 |
-| adoption | 94/100 |
-| stars | 96/100 |
 | forks | 87/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

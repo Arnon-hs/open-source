@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data
+AI/ML · DevTools · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ DataDog/pup：DataDog/pup helps add AI capability without starting from a blank 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 51/100 |
-| adoption | 57/100 |
-| stars | 61/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 50/100 |
+| outlook | 51/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

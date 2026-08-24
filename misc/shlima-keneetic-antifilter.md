@@ -63,16 +63,16 @@ shlima/keneetic-antifilter：shlima/keneetic-antifilter may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 41/100 |
-| adoption | 48/100 |
-| stars | 55/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 38/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

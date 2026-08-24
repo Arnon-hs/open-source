@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Mybono/ai-orchestrator：Mybono/ai-orchestrator helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 39/100 |
-| stars | 42/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 42/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

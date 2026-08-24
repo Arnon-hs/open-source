@@ -63,16 +63,16 @@ nmstate/nmstate：nmstate/nmstate may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 47/100 |
-| adoption | 54/100 |
-| stars | 55/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 50/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ pydantic/pydantic-ai：pydantic/pydantic-ai helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 88/100 |
-| stars | 90/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 63/100 |
+| outlook | 60/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

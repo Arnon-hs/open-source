@@ -65,16 +65,16 @@ mavam/pi-web-providers：mavam/pi-web-providers helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 35/100 |
-| stars | 38/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 38/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

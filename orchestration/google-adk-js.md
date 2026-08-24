@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ google/adk-js：google/adk-js helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 62/100 |
-| adoption | 62/100 |
-| stars | 65/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

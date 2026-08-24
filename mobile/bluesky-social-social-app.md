@@ -62,16 +62,16 @@ bluesky-social/social-app：bluesky-social/social-app may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 89/100 |
-| stars | 91/100 |
 | forks | 86/100 |
-| recency | 20/100 |
+| stars | 91/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

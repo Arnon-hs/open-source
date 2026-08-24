@@ -63,16 +63,16 @@ purpleidea/mgmt：purpleidea/mgmt may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 73/100 |
-| stars | 77/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

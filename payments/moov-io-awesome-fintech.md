@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML
+Payments · MCP
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ moov-io/awesome-fintech：moov-io/awesome-fintech helps integrate monetization, 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 53/100 |
-| adoption | 52/100 |
-| stars | 53/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 88/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

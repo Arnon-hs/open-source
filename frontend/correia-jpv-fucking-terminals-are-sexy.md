@@ -66,16 +66,16 @@ Correia-jpv/fucking-terminals-are-sexy：Correia-jpv/fucking-terminals-are-sexy 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 53/100 |
-| adoption | 31/100 |
-| stars | 38/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 38/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

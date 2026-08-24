@@ -65,16 +65,16 @@ modular/modular：modular/modular helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 92/100 |
-| stars | 94/100 |
 | forks | 86/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

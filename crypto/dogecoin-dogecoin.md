@@ -65,16 +65,16 @@ dogecoin/dogecoin：dogecoin/dogecoin helps prototype or inspect blockchain work
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 51/100 |
-| adoption | 88/100 |
-| stars | 89/100 |
 | forks | 87/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 38/100 |
+| outlook | 51/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

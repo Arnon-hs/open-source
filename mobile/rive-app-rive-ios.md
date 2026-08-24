@@ -62,16 +62,16 @@ rive-app/rive-ios：rive-app/rive-ios may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 46/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 40/100 |
-| adoption | 58/100 |
-| stars | 62/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ AdguardTeam/AdguardFilters：AdguardTeam/AdguardFilters may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 76/100 |
-| stars | 77/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 63/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

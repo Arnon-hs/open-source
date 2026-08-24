@@ -62,16 +62,16 @@ bitburner-official/bitburner-src：bitburner-official/bitburner-src may be usefu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 42/100 |
-| adoption | 67/100 |
-| stars | 67/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

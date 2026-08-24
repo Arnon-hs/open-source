@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · Backend
+Trading · Automation · Backend · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ wilsonfreitas/awesome-quant: wilsonfreitas/awesome-quant helps research and auto
 
 ### Русский
 
-wilsonfreitas/awesome-quant: open-source проект в категориях Trading, AI/ML, Backend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+wilsonfreitas/awesome-quant: open-source проект в категориях Trading, Automation, Backend, Data. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ wilsonfreitas/awesome-quant：wilsonfreitas/awesome-quant helps research and aut
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 92/100 |
-| stars | 94/100 |
 | forks | 89/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

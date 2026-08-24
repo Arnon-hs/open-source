@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ PurpleAILAB/Decepticon: PurpleAILAB/Decepticon helps turn isolated prompts and t
 
 ### Русский
 
-PurpleAILAB/Decepticon: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+PurpleAILAB/Decepticon: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ PurpleAILAB/Decepticon：PurpleAILAB/Decepticon helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 74/100 |
-| stars | 76/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

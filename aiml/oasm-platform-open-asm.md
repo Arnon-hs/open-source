@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ oasm-platform/open-asm：oasm-platform/open-asm helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 52/100 |
-| adoption | 39/100 |
-| stars | 43/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

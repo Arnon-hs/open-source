@@ -1,18 +1,18 @@
 # presenton/presenton
 
-[![Stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&color=yellow)](https://github.com/presenton/presenton/stargazers) [![Forks](https://img.shields.io/github/forks/presenton/presenton?style=flat-square&color=blue)](https://github.com/presenton/presenton/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/presenton/presenton?style=flat-square&color=yellow)](https://github.com/presenton/presenton/stargazers) [![Forks](https://img.shields.io/github/forks/presenton/presenton?style=flat-square&color=blue)](https://github.com/presenton/presenton/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
-> Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)
+> Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8.9k |
-| 🍴 **Forks** | 1.4k |
-| 💻 **Language** | TypeScript |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| ⭐ **Stars** | 4.9k |
+| 🍴 **Forks** | 964 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,15 @@ Automation · AI/ML · Backend
 
 ### English
 
-presenton/presenton: presenton/presenton helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+presenton/presenton is an open‑source platform that automatically creates slide decks using AI, offering a ready‑to‑use API as an alternative to services like Gamma, Beautiful AI, and Decktopus. Built with a backend focused on AI/ML pipelines, it lets developers generate, customize, and serve professional presentations programmatically. The project provides both a web interface for end‑users and a robust API for integration into other applications.
 
 ### Русский
 
-presenton/presenton: open-source проект в категориях Automation, AI/ML, Backend. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Presenton — это open‑source платформа для автоматической генерации презентаций с помощью ИИ, предоставляющая как готовый веб‑интерфейс, так и API, совместимый с сервисами вроде Gamma, Beautiful AI и Decktopus. Проект реализован на бэкенде с использованием современных AI/ML технологий, позволяя пользователям быстро создавать стильные слайды на основе текста или данных. Благодаря открытой лицензии и модульной архитектуре, Presenton легко интегрировать в собственные рабочие процессы и расширять функциональность.
 
 ### 中文
 
-presenton/presenton：presenton/presenton helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+presenton/presenton：presenton/presenton helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,14 +49,14 @@ presenton/presenton：presenton/presenton helps remove repetitive manual operati
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 8886 GitHub stars
-- 1386 forks
-- updated 2026-07-04
-- primary language: TypeScript
+- 4921 GitHub stars
+- 964 forks
+- updated 2026-05-10
+- primary language: JavaScript
 - 8 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
@@ -65,18 +65,18 @@ presenton/presenton：presenton/presenton helps remove repetitive manual operati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 92/100 |
-| integration | 62/100 |
-| production | 83/100 |
-| outlook | 94/100 |
-| adoption | 82/100 |
-| stars | 84/100 |
-| forks | 79/100 |
-| recency | 100/100 |
+| forks | 75/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/presenton/presenton) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/presenton/presenton) · [← Back to Automation](./README.md)</sub>

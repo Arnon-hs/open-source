@@ -65,16 +65,16 @@ chemosim-lab/ProLIF：chemosim-lab/ProLIF may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 48/100 |
-| adoption | 55/100 |
-| stars | 57/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 88/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

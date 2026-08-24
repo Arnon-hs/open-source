@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ happier-dev/happier：happier-dev/happier helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 56/100 |
-| adoption | 57/100 |
-| stars | 62/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

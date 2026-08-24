@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Build Your Own AI Butler - A Scheduled Agent That Runs Itself!: Build Your Own A
 
 ### Русский
 
-Build Your Own AI Butler - A Scheduled Agent That Runs Itself!: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Build Your Own AI Butler - A Scheduled Agent That Runs Itself!: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -62,16 +62,16 @@ Build Your Own AI Butler - A Scheduled Agent That Runs Itself!：Build Your Own 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 25/100 |
-| integration | 30/100 |
-| production | 32/100 |
-| outlook | 32/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 32/100 |
+| quality | 25/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 32/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
 
 ---

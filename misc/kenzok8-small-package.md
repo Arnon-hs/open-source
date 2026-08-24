@@ -63,16 +63,16 @@ kenzok8/small-package：kenzok8/small-package may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 43/100 |
-| adoption | 57/100 |
-| stars | 68/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

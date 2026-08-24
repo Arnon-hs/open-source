@@ -62,16 +62,16 @@ wavelens/gradient：wavelens/gradient may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 36/100 |
-| integration | 30/100 |
-| production | 39/100 |
-| outlook | 38/100 |
-| adoption | 36/100 |
-| stars | 44/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 36/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 39/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

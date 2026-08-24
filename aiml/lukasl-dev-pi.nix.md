@@ -66,16 +66,16 @@ lukasl-dev/pi.nix：lukasl-dev/pi.nix helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 41/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 42/100 |
-| adoption | 27/100 |
-| stars | 29/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 29/100 |
 | topics | 63/100 |
+| outlook | 42/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Design
+Orchestration · Knowledge/RAG · AI/ML · Design
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ IAAR-Shanghai/Awesome-AI-Memory：IAAR-Shanghai/Awesome-AI-Memory helps turn iso
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 56/100 |
-| adoption | 58/100 |
-| stars | 62/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

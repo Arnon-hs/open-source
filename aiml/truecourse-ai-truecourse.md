@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ truecourse-ai/truecourse: truecourse-ai/truecourse helps add AI capability witho
 
 ### Русский
 
-truecourse-ai/truecourse: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+truecourse-ai/truecourse: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ truecourse-ai/truecourse：truecourse-ai/truecourse helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 57/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 49/100 |
-| stars | 54/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

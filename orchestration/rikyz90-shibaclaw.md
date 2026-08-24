@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ RikyZ90/ShibaClaw：RikyZ90/ShibaClaw helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 49/100 |
-| integration | 78/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 30/100 |
-| stars | 36/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 36/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

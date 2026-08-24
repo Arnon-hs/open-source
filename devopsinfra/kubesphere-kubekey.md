@@ -65,16 +65,16 @@ kubesphere/kubekey：kubesphere/kubekey helps make deployment and operations mor
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 52/100 |
-| adoption | 73/100 |
-| stars | 73/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

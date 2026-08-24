@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ AudiusProject/apps: AudiusProject/apps helps prototype or inspect blockchain wor
 
 ### Русский
 
-AudiusProject/apps: open-source проект в категориях Crypto, AI/ML, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+AudiusProject/apps: open-source проект в категориях Crypto, Mobile. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ AudiusProject/apps：AudiusProject/apps helps prototype or inspect blockchain wo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 57/100 |
-| stars | 59/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

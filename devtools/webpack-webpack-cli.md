@@ -65,16 +65,16 @@ webpack/webpack-cli：webpack/webpack-cli helps engineers save time in daily dev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 72/100 |
-| stars | 73/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 38/100 |
+| outlook | 50/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ debanjandhar12/logseq-anki-sync：debanjandhar12/logseq-anki-sync may be useful 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 43/100 |
-| adoption | 54/100 |
-| stars | 59/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

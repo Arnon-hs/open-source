@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend
+Payments · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ stripe/ai: stripe/ai helps integrate monetization, billing, or PSP flows faster.
 
 ### Русский
 
-stripe/ai: open-source проект в категориях Payments, AI/ML, Frontend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+stripe/ai: open-source проект в категориях Payments, MCP, AI/ML. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ stripe/ai：stripe/ai helps integrate monetization, billing, or PSP flows faster
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 88/100 |
+| outlook | 60/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

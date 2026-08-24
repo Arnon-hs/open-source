@@ -63,16 +63,16 @@ eliben/pyelftools：eliben/pyelftools may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 70/100 |
-| stars | 71/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

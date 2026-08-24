@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data
+AI/ML · Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ClickHouse/ClickHouse: ClickHouse/ClickHouse helps add AI capability without sta
 
 ### Русский
 
-ClickHouse/ClickHouse: open-source проект в категориях AI/ML, DevTools, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ClickHouse/ClickHouse: open-source проект в категориях AI/ML, Data, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ClickHouse/ClickHouse：ClickHouse/ClickHouse helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 67/100 |
-| adoption | 99/100 |
-| stars | 99/100 |
 | forks | 98/100 |
-| recency | 20/100 |
+| stars | 99/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

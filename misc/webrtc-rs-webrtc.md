@@ -63,16 +63,16 @@ webrtc-rs/webrtc：webrtc-rs/webrtc may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 75/100 |
-| stars | 79/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 50/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

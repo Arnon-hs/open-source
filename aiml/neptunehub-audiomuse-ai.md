@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ NeptuneHub/AudioMuse-AI: NeptuneHub/AudioMuse-AI helps add AI capability without
 
 ### Русский
 
-NeptuneHub/AudioMuse-AI: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+NeptuneHub/AudioMuse-AI: open-source проект в категориях AI/ML, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ NeptuneHub/AudioMuse-AI：NeptuneHub/AudioMuse-AI helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 100/100 |
-| production | 59/100 |
-| outlook | 58/100 |
-| adoption | 63/100 |
-| stars | 69/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---

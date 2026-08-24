@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ discourselab/scrapai-cli：discourselab/scrapai-cli helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 39/100 |
-| stars | 43/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

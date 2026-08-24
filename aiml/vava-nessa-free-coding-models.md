@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ vava-nessa/free-coding-models：vava-nessa/free-coding-models helps add AI capab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 66/100 |
-| stars | 69/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

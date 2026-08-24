@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ SyntheticAutonomicMind/SAM：SyntheticAutonomicMind/SAM helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 48/100 |
-| adoption | 37/100 |
-| stars | 45/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

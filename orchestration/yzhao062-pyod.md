@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ yzhao062/pyod：yzhao062/pyod helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 63/100 |
-| adoption | 83/100 |
-| stars | 85/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

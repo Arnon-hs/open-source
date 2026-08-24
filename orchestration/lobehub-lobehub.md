@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Design
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ lobehub/lobehub: lobehub/lobehub helps turn isolated prompts and tools into repe
 
 ### Русский
 
-lobehub/lobehub: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+lobehub/lobehub: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Design. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ lobehub/lobehub：lobehub/lobehub helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 80/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ Unleash/unleash：Unleash/unleash may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 66/100 |
-| adoption | 84/100 |
-| stars | 88/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

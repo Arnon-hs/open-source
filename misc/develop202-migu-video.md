@@ -62,16 +62,16 @@ develop202/migu_video：develop202/migu_video may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 18/100 |
-| production | 42/100 |
-| outlook | 42/100 |
-| adoption | 65/100 |
-| stars | 65/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

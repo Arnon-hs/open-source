@@ -65,16 +65,16 @@ sijiaoh/pockode：sijiaoh/pockode helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 42/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 42/100 |
-| adoption | 33/100 |
-| stars | 37/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 37/100 |
 | topics | 50/100 |
+| outlook | 42/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

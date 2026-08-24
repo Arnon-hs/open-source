@@ -65,16 +65,16 @@ metalbear-co/mirrord：metalbear-co/mirrord helps teams reuse service infrastruc
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 68/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 73/100 |
-| stars | 79/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

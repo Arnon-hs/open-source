@@ -65,16 +65,16 @@ hugo2046/QuantsPlaybook：hugo2046/QuantsPlaybook helps research and automate ma
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 78/100 |
-| stars | 79/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 50/100 |
+| outlook | 50/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

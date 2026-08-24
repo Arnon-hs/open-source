@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ jackwener/OpenCLI: jackwener/OpenCLI helps add AI capability without starting fr
 
 ### Русский
 
-jackwener/OpenCLI: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+jackwener/OpenCLI: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ jackwener/OpenCLI：jackwener/OpenCLI helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 64/100 |
-| adoption | 89/100 |
-| stars | 91/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 91/100 |
 | topics | 50/100 |
+| outlook | 64/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

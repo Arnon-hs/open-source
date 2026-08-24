@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ yofine/Mexus：yofine/Mexus helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 32/100 |
-| stars | 39/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 88/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

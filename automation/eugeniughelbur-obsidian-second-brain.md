@@ -1,18 +1,18 @@
 # eugeniughelbur/obsidian-second-brain
 
-[![Stars](https://img.shields.io/github/stars/eugeniughelbur/obsidian-second-brain?style=flat-square&color=yellow)](https://github.com/eugeniughelbur/obsidian-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/eugeniughelbur/obsidian-second-brain?style=flat-square&color=blue)](https://github.com/eugeniughelbur/obsidian-second-brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eugeniughelbur/obsidian-second-brain?style=flat-square&color=yellow)](https://github.com/eugeniughelbur/obsidian-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/eugeniughelbur/obsidian-second-brain?style=flat-square&color=blue)](https://github.com/eugeniughelbur/obsidian-second-brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
-> Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, and OpenCode. 43 commands - now with /obsidian-architect to document your codebase, key-less web research, Google Calendar, and self-rewriting notes.
+> Claude Code skill for Obsidian. Turn your vault into a living AI-first second brain. 31 commands, vault-first research, scheduled agents.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 334 |
+| ⭐ **Stars** | 900 |
+| 🍴 **Forks** | 88 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 67/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools
+Automation · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-eugeniughelbur/obsidian-second-brain: eugeniughelbur/obsidian-second-brain helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+eugeniughelbur/obsidian-second-brain: eugeniughelbur/obsidian-second-brain helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-eugeniughelbur/obsidian-second-brain: open-source проект в категориях Automation, AI/ML, DevTools. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+eugeniughelbur/obsidian-second-brain: open-source проект в категориях Automation, AI/ML. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 2800 GitHub stars
-- 334 forks
-- updated 2026-06-29
+- 900 GitHub stars
+- 88 forks
+- updated 2026-05-07
 - primary language: Python
 - 20 topics
 
@@ -65,18 +65,18 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 87/100 |
-| integration | 94/100 |
-| production | 86/100 |
-| outlook | 93/100 |
-| adoption | 70/100 |
-| stars | 73/100 |
-| forks | 63/100 |
-| recency | 100/100 |
+| forks | 49/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) · [← Back to Automation](./README.md)</sub>

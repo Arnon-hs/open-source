@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Data
+Backend · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ cablehead/http-nu: cablehead/http-nu helps teams reuse service infrastructure in
 
 ### Русский
 
-cablehead/http-nu: open-source проект в категориях Backend, DevTools, Data. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+cablehead/http-nu: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ cablehead/http-nu：cablehead/http-nu helps teams reuse service infrastructure i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 51/100 |
-| adoption | 39/100 |
-| stars | 45/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ jmcnamara/rust_xlsxwriter：jmcnamara/rust_xlsxwriter may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 54/100 |
-| stars | 58/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 50/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

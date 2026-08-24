@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Marketing
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ study8677/OpenCMO：study8677/OpenCMO helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 44/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 46/100 |
-| adoption | 37/100 |
-| stars | 40/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 40/100 |
 | topics | 50/100 |
+| outlook | 46/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

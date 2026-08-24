@@ -65,16 +65,16 @@ finos/git-proxy：finos/git-proxy helps catch security and privacy issues earlie
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 42/100 |
-| adoption | 51/100 |
-| stars | 49/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 38/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

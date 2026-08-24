@@ -1,6 +1,6 @@
 # Fu-Jie/openwebui-extensions
 
-[![Stars](https://img.shields.io/github/stars/Fu-Jie/openwebui-extensions?style=flat-square&color=yellow)](https://github.com/Fu-Jie/openwebui-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/Fu-Jie/openwebui-extensions?style=flat-square&color=blue)](https://github.com/Fu-Jie/openwebui-extensions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fu-Jie/openwebui-extensions?style=flat-square&color=yellow)](https://github.com/Fu-Jie/openwebui-extensions/stargazers) [![Forks](https://img.shields.io/github/forks/Fu-Jie/openwebui-extensions?style=flat-square&color=blue)](https://github.com/Fu-Jie/openwebui-extensions/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A collection of enhancements, plugins, and prompts for Open WebUI, developed and curated for personal use to extend functionality and improve experience.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 253 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 199 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Data
+MCP · AI/ML · Data
 
 ## 📝 Summary
 
 ### English
 
-Fu-Jie/openwebui-extensions: Fu-Jie/openwebui-extensions helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Fu-Jie/openwebui-extensions is an open‑source repository that bundles a variety of enhancements, plugins, and ready‑to‑use prompts designed to extend the capabilities of Open WebUI. Curated for personal use, the collection adds new UI components, workflow shortcuts, and AI‑assisted features that improve usability and productivity. It serves developers and hobbyists looking to customize and enrich their Open WebUI deployments.
 
 ### Русский
 
-Fu-Jie/openwebui-extensions: open-source проект в категориях MCP, AI/ML, Frontend, Data. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Fu-Jie/openwebui-extensions — это набор открытых улучшений, плагинов и готовых запросов, созданных для Open WebUI. Проект расширяет функциональность интерфейса, добавляя новые возможности работы с моделями AI/ML, улучшая пользовательский фронтенд и упрощая обработку данных. Всё собрано в едином репозитории для удобного личного и общественного использования.
 
 ### 中文
 
-Fu-Jie/openwebui-extensions：Fu-Jie/openwebui-extensions helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Fu-Jie/openwebui-extensions：Fu-Jie/openwebui-extensions helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ Fu-Jie/openwebui-extensions：Fu-Jie/openwebui-extensions helps connect AI assis
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 253 GitHub stars
-- 22 forks
-- updated 2026-06-27
+- 199 GitHub stars
+- 15 forks
+- updated 2026-05-08
 - primary language: Python
 - 19 topics
 
@@ -65,18 +65,18 @@ Fu-Jie/openwebui-extensions：Fu-Jie/openwebui-extensions helps connect AI assis
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 76/100 |
-| integration | 94/100 |
-| production | 82/100 |
-| outlook | 87/100 |
-| adoption | 46/100 |
-| stars | 51/100 |
-| forks | 34/100 |
-| recency | 100/100 |
+| forks | 30/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/Fu-Jie/openwebui-extensions) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Fu-Jie/openwebui-extensions) · [← Back to Mcp](./README.md)</sub>

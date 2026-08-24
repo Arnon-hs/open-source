@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ evalstate/fast-agent：evalstate/fast-agent helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 68/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 65/100 |
-| adoption | 73/100 |
-| stars | 76/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

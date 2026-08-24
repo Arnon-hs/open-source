@@ -65,16 +65,16 @@ baidu-baige/LoongForge：baidu-baige/LoongForge helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 42/100 |
-| stars | 47/100 |
 | forks | 32/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -68,6 +68,7 @@ rafaeloliveiraz/gitglance：rafaeloliveiraz/gitglance may be useful when its REA
 | production | 61/100 |
 | outlook | 68/100 |
 | adoption | 5/100 |
+| categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |

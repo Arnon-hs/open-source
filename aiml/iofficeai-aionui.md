@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ iOfficeAI/AionUi: iOfficeAI/AionUi helps add AI capability without starting from
 
 ### Русский
 
-iOfficeAI/AionUi: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+iOfficeAI/AionUi: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ iOfficeAI/AionUi：iOfficeAI/AionUi helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 90/100 |
-| stars | 93/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,0 +1,82 @@
+# renzora/engine
+
+[![Stars](https://img.shields.io/github/stars/renzora/engine?style=flat-square&color=yellow)](https://github.com/renzora/engine/stargazers) [![Forks](https://img.shields.io/github/forks/renzora/engine?style=flat-square&color=blue)](https://github.com/renzora/engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+
+> Renzora Engine is a modular cross-platform rust game engine using Bevy
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 135 |
+| 🍴 **Forks** | 14 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`2d` `3d` `bevy` `engine` `game` `lua` `physics` `renzora` `rhai` `rust` `ui`
+
+## 🎯 Categories
+
+Frontend
+
+## 📝 Summary
+
+### English
+
+Renzora Engine is an open‑source, modular game engine written in Rust that leverages the Bevy framework to provide a flexible, cross‑platform development foundation. It combines a clean, component‑based architecture with built‑in tools for AI/ML and frontend rendering, enabling developers to create high‑performance games and interactive applications for desktop, web, and mobile targets.
+
+### Русский
+
+Renzora Engine — модульный кросс‑платформенный игровой движок на Rust, построенный поверх Bevy. Он сочетает гибкую архитектуру с поддержкой современных AI/ML‑технологий и удобным фронтендом, позволяя быстро создавать высокопроизводительные игры для любых устройств. Open‑source проект ориентирован на разработчиков, желающих использовать преимущества безопасного Rust и расширяемой системы плагинов.
+
+### 中文
+
+renzora/engine：renzora/engine helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** renzora/engine helps ship user-facing interfaces with less custom UI work.
+
+**Best use cases**
+
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 135 GitHub stars
+- 14 forks
+- updated 2026-05-08
+- primary language: Rust
+- 11 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 29/100 |
+| stars | 45/100 |
+| topics | 100/100 |
+| outlook | 46/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/renzora/engine) · [← Back to Frontend](./README.md)</sub>

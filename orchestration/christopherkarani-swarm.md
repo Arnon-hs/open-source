@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ christopherkarani/Swarm：christopherkarani/Swarm helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 55/100 |
-| adoption | 52/100 |
-| stars | 57/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

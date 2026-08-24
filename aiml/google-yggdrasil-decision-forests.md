@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ google/yggdrasil-decision-forests: google/yggdrasil-decision-forests helps add A
 
 ### Русский
 
-google/yggdrasil-decision-forests: open-source проект в категориях AI/ML, DevTools, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+google/yggdrasil-decision-forests: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ google/yggdrasil-decision-forests：google/yggdrasil-decision-forests helps add 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 56/100 |
-| stars | 60/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

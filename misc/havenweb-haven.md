@@ -63,16 +63,16 @@ havenweb/haven：havenweb/haven may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 50/100 |
-| adoption | 56/100 |
-| stars | 61/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 75/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

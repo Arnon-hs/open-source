@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Marketing
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ kubeflow/sdk: kubeflow/sdk helps add AI capability without starting from a blank
 
 ### Русский
 
-kubeflow/sdk: open-source проект в категориях AI/ML, DevOps/Infra, Marketing. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kubeflow/sdk: open-source проект в категориях AI/ML, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ kubeflow/sdk：kubeflow/sdk helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 50/100 |
-| adoption | 47/100 |
-| stars | 44/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

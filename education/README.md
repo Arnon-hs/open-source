@@ -2,7 +2,7 @@
 
 > 
 
-**145 projects** in this category.
+**151 projects** in this category.
 
 ## Projects
 
@@ -112,47 +112,53 @@
 | 102 | [JuliaGraphs/GraphNeuralNetworks.jl](./juliagraphs-graphneuralnetworks.jl.md) | ⭐ 305 | Julia | 56/100 |
 | 103 | [huggingface/hub-docs](./huggingface-hub-docs.md) | ⭐ 570 | Handlebars | 56/100 |
 | 104 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
-| 105 | [samdauwe/webgpu-native-examples](./samdauwe-webgpu-native-examples.md) | ⭐ 523 | C | 55/100 |
-| 106 | [trane-project/trane](./trane-project-trane.md) | ⭐ 844 | Rust | 55/100 |
-| 107 | [ALLTERCO/shelly-script-examples](./allterco-shelly-script-examples.md) | ⭐ 323 | JavaScript | 55/100 |
-| 108 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
-| 109 | [ponylang/pony-tutorial](./ponylang-pony-tutorial.md) | ⭐ 367 | Markdown | 54/100 |
-| 110 | [Shopify/shopify-app-template-php](./shopify-shopify-app-template-php.md) | ⭐ 335 | PHP | 54/100 |
-| 111 | [UMGCCCFCSR/CytometryInR](./umgcccfcsr-cytometryinr.md) | ⭐ 396 | JavaScript | 54/100 |
-| 112 | [mattpocock/course-video-manager](./mattpocock-course-video-manager.md) | ⭐ 518 | TypeScript | 54/100 |
-| 113 | [robertknight/rten](./robertknight-rten.md) | ⭐ 321 | Rust | 54/100 |
-| 114 | [tliron/rust-wasm-plugins-examples](./tliron-rust-wasm-plugins-examples.md) | ⭐ 134 | Rust | 53/100 |
-| 115 | [Neverball/neverball](./neverball-neverball.md) | ⭐ 431 | C | 53/100 |
-| 116 | [Homebrew/discussions](./homebrew-discussions.md) | ⭐ 430 | — | 53/100 |
-| 117 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 233 | Rust | 52/100 |
-| 118 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
-| 119 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
-| 120 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 121 | [beint-no/thim](./beint-no-thim.md) | ⭐ — | — | 44/100 |
-| 122 | [Alessandro114/scala-sites](./alessandro114-scala-sites.md) | ⭐ — | — | 44/100 |
-| 123 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ — | — | 44/100 |
-| 124 | [makan0713/onnx-web-worker-starter](./makan0713-onnx-web-worker-starter.md) | ⭐ — | — | 44/100 |
-| 125 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 44/100 |
-| 126 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
-| 127 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
-| 128 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
-| 129 | [cloudflare/cbpfc](./cloudflare-cbpfc.md) | ⭐ — | — | 42/100 |
-| 130 | [michael-lehn/not-abc](./michael-lehn-not-abc.md) | ⭐ — | — | 41/100 |
-| 131 | [magiclex/languageme](./magiclex-languageme.md) | ⭐ — | — | 41/100 |
-| 132 | [Howard-Starfield/LinkVault-Linkedin-Learning-Courses-Downloader](./howard-starfield-linkvault-linkedin-learning-courses-downloader.md) | ⭐ — | — | 41/100 |
-| 133 | [PriorLabs/relarena](./priorlabs-relarena.md) | ⭐ — | — | 41/100 |
-| 134 | [argentquest/protocol](./argentquest-protocol.md) | ⭐ — | — | 41/100 |
-| 135 | [andrewt3000/machinelearning](./andrewt3000-machinelearning.md) | ⭐ — | — | 41/100 |
-| 136 | [douglascrockford/Base32](./douglascrockford-base32.md) | ⭐ — | — | 41/100 |
-| 137 | [NVlabs/CuTe](./nvlabs-cute.md) | ⭐ — | — | 41/100 |
-| 138 | [melsayedx/learning-mode](./melsayedx-learning-mode.md) | ⭐ — | — | 41/100 |
-| 139 | [alxndrTL/little-book-rl](./alxndrtl-little-book-rl.md) | ⭐ — | — | 41/100 |
-| 140 | [nornagon/jonesforth](./nornagon-jonesforth.md) | ⭐ — | — | 41/100 |
-| 141 | [frankhli843/openavocado](./frankhli843-openavocado.md) | ⭐ — | — | 41/100 |
-| 142 | [carbon-re/skeights](./carbon-re-skeights.md) | ⭐ — | — | 41/100 |
-| 143 | [electronicsleep/rust-vim](./electronicsleep-rust-vim.md) | ⭐ — | — | 41/100 |
-| 144 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
-| 145 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
+| 105 | [dask/dask](./dask-dask.md) | ⭐ 13.8k | Python | 56/100 |
+| 106 | [samdauwe/webgpu-native-examples](./samdauwe-webgpu-native-examples.md) | ⭐ 523 | C | 55/100 |
+| 107 | [trane-project/trane](./trane-project-trane.md) | ⭐ 844 | Rust | 55/100 |
+| 108 | [ALLTERCO/shelly-script-examples](./allterco-shelly-script-examples.md) | ⭐ 323 | JavaScript | 55/100 |
+| 109 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
+| 110 | [ponylang/pony-tutorial](./ponylang-pony-tutorial.md) | ⭐ 367 | Markdown | 54/100 |
+| 111 | [Shopify/shopify-app-template-php](./shopify-shopify-app-template-php.md) | ⭐ 335 | PHP | 54/100 |
+| 112 | [UMGCCCFCSR/CytometryInR](./umgcccfcsr-cytometryinr.md) | ⭐ 396 | JavaScript | 54/100 |
+| 113 | [mattpocock/course-video-manager](./mattpocock-course-video-manager.md) | ⭐ 518 | TypeScript | 54/100 |
+| 114 | [robertknight/rten](./robertknight-rten.md) | ⭐ 321 | Rust | 54/100 |
+| 115 | [tliron/rust-wasm-plugins-examples](./tliron-rust-wasm-plugins-examples.md) | ⭐ 134 | Rust | 53/100 |
+| 116 | [Neverball/neverball](./neverball-neverball.md) | ⭐ 431 | C | 53/100 |
+| 117 | [Homebrew/discussions](./homebrew-discussions.md) | ⭐ 430 | — | 53/100 |
+| 118 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 233 | Rust | 52/100 |
+| 119 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.1k | Vim Script | 50/100 |
+| 120 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
+| 121 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
+| 122 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
+| 123 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 366 | Rust | 45/100 |
+| 124 | [beint-no/thim](./beint-no-thim.md) | ⭐ — | — | 44/100 |
+| 125 | [Alessandro114/scala-sites](./alessandro114-scala-sites.md) | ⭐ — | — | 44/100 |
+| 126 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ — | — | 44/100 |
+| 127 | [makan0713/onnx-web-worker-starter](./makan0713-onnx-web-worker-starter.md) | ⭐ — | — | 44/100 |
+| 128 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 44/100 |
+| 129 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
+| 130 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
+| 131 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 321 | Mojo | 44/100 |
+| 132 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 156 | Rust | 44/100 |
+| 133 | [novalagung/dasarpemrogramanrust](./novalagung-dasarpemrogramanrust.md) | ⭐ 367 | Rust | 44/100 |
+| 134 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 135 | [cloudflare/cbpfc](./cloudflare-cbpfc.md) | ⭐ — | — | 42/100 |
+| 136 | [michael-lehn/not-abc](./michael-lehn-not-abc.md) | ⭐ — | — | 41/100 |
+| 137 | [magiclex/languageme](./magiclex-languageme.md) | ⭐ — | — | 41/100 |
+| 138 | [Howard-Starfield/LinkVault-Linkedin-Learning-Courses-Downloader](./howard-starfield-linkvault-linkedin-learning-courses-downloader.md) | ⭐ — | — | 41/100 |
+| 139 | [PriorLabs/relarena](./priorlabs-relarena.md) | ⭐ — | — | 41/100 |
+| 140 | [argentquest/protocol](./argentquest-protocol.md) | ⭐ — | — | 41/100 |
+| 141 | [andrewt3000/machinelearning](./andrewt3000-machinelearning.md) | ⭐ — | — | 41/100 |
+| 142 | [douglascrockford/Base32](./douglascrockford-base32.md) | ⭐ — | — | 41/100 |
+| 143 | [NVlabs/CuTe](./nvlabs-cute.md) | ⭐ — | — | 41/100 |
+| 144 | [melsayedx/learning-mode](./melsayedx-learning-mode.md) | ⭐ — | — | 41/100 |
+| 145 | [alxndrTL/little-book-rl](./alxndrtl-little-book-rl.md) | ⭐ — | — | 41/100 |
+| 146 | [nornagon/jonesforth](./nornagon-jonesforth.md) | ⭐ — | — | 41/100 |
+| 147 | [frankhli843/openavocado](./frankhli843-openavocado.md) | ⭐ — | — | 41/100 |
+| 148 | [carbon-re/skeights](./carbon-re-skeights.md) | ⭐ — | — | 41/100 |
+| 149 | [electronicsleep/rust-vim](./electronicsleep-rust-vim.md) | ⭐ — | — | 41/100 |
+| 150 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
+| 151 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
 
 ---
 

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ looplj/axonhub：looplj/axonhub helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 68/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 73/100 |
-| stars | 76/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

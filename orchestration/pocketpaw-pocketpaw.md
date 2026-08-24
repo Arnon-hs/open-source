@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ pocketpaw/pocketpaw：pocketpaw/pocketpaw helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 62/100 |
-| stars | 62/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

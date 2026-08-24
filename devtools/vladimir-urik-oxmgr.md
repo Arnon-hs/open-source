@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Product
+DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Vladimir-Urik/OxMgr：Vladimir-Urik/OxMgr helps engineers save time in daily dev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 51/100 |
-| adoption | 38/100 |
-| stars | 44/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

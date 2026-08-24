@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevOps/Infra
+Frontend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ jhipster/generator-jhipster：jhipster/generator-jhipster helps ship user-facing
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 58/100 |
-| adoption | 92/100 |
-| stars | 93/100 |
 | forks | 91/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 60/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

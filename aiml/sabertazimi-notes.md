@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Frontend · Database
 
 ## 📝 Summary
 
@@ -66,16 +66,16 @@ sabertazimi/notes：sabertazimi/notes helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 47/100 |
-| adoption | 33/100 |
-| stars | 36/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 36/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

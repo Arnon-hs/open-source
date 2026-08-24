@@ -65,16 +65,16 @@ dathere/qsv：dathere/qsv helps add AI capability without starting from a blank 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 56/100 |
-| adoption | 69/100 |
-| stars | 76/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

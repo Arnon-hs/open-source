@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ google/adk-java：google/adk-java helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 64/100 |
-| adoption | 67/100 |
-| stars | 68/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

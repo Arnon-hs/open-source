@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ahmet/awesome-web3: ahmet/awesome-web3 helps prototype or inspect blockchain wor
 
 ### Русский
 
-ahmet/awesome-web3: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+ahmet/awesome-web3: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ahmet/awesome-web3：ahmet/awesome-web3 helps prototype or inspect blockchain wo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 53/100 |
-| adoption | 61/100 |
-| stars | 62/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 88/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

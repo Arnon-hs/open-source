@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Knowledge/RAG · Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ henrydaum/second-brain: henrydaum/second-brain helps turn isolated prompts and t
 
 ### Русский
 
-henrydaum/second-brain: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+henrydaum/second-brain: open-source проект в категориях Orchestration, Knowledge/RAG, Automation, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ henrydaum/second-brain：henrydaum/second-brain helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 60/100 |
-| adoption | 54/100 |
-| stars | 58/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

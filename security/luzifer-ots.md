@@ -65,16 +65,16 @@ Luzifer/ots：Luzifer/ots helps catch security and privacy issues earlier in the
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 58/100 |
-| stars | 61/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 50/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

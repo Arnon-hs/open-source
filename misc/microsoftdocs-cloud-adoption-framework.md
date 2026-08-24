@@ -61,16 +61,16 @@ MicrosoftDocs/cloud-adoption-framework：MicrosoftDocs/cloud-adoption-framework 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 43/100 |
-| adoption | 60/100 |
-| stars | 56/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

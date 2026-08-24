@@ -65,16 +65,16 @@ nizos/probity：nizos/probity helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 46/100 |
-| adoption | 29/100 |
-| stars | 34/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 34/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

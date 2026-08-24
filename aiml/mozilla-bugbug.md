@@ -65,16 +65,16 @@ mozilla/bugbug：mozilla/bugbug helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 60/100 |
-| stars | 59/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

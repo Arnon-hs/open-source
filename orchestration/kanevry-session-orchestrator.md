@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Kanevry/session-orchestrator：Kanevry/session-orchestrator helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 55/100 |
-| adoption | 30/100 |
-| stars | 35/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 48/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

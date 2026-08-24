@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -67,16 +67,16 @@ plastic-labs/honcho：plastic-labs/honcho helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 67/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 72/100 |
-| stars | 75/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

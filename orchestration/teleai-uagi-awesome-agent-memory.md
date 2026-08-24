@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ TeleAI-UAGI/Awesome-Agent-Memory: TeleAI-UAGI/Awesome-Agent-Memory helps turn is
 
 ### Русский
 
-TeleAI-UAGI/Awesome-Agent-Memory: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+TeleAI-UAGI/Awesome-Agent-Memory: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -64,16 +64,16 @@ TeleAI-UAGI/Awesome-Agent-Memory：TeleAI-UAGI/Awesome-Agent-Memory helps turn i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 54/100 |
-| adoption | 50/100 |
-| stars | 55/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

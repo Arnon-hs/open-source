@@ -65,16 +65,16 @@ langflow-ai/langflow：langflow-ai/langflow helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 67/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 99/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 75/100 |
+| outlook | 67/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

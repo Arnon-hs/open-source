@@ -65,16 +65,16 @@ ast-grep/ast-grep：ast-grep/ast-grep helps engineers save time in daily develop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 81/100 |
-| stars | 88/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

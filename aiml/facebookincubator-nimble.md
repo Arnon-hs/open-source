@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ facebookincubator/nimble: facebookincubator/nimble helps add AI capability witho
 
 ### Русский
 
-facebookincubator/nimble: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+facebookincubator/nimble: open-source проект в категориях AI/ML, Data, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ facebookincubator/nimble：facebookincubator/nimble helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 53/100 |
-| adoption | 57/100 |
-| stars | 61/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ sympozium-ai/sympozium：sympozium-ai/sympozium helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 44/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 25/100 |
+| outlook | 44/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

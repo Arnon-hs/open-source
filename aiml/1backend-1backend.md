@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ AI/ML · Frontend · Backend
 
 ### Русский
 
-1backend/1backend: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+1backend/1backend: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ AI/ML · Frontend · Backend
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 58/100 |
-| adoption | 66/100 |
-| stars | 72/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -70,6 +70,7 @@ Zizka-ai/ZizkaDB：Zizka-ai/ZizkaDB may be useful when its README and activity m
 | production | 71/100 |
 | outlook | 78/100 |
 | adoption | 34/100 |
+| categoryMatchCount | 700/100 |
 | stars | 35/100 |
 | forks | 33/100 |
 | recency | 100/100 |

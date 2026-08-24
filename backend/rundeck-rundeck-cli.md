@@ -65,16 +65,16 @@ rundeck/rundeck-cli：rundeck/rundeck-cli helps teams reuse service infrastructu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 55/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 56/100 |
-| adoption | 45/100 |
-| stars | 46/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

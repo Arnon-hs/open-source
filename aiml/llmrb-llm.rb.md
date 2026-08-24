@@ -65,16 +65,16 @@ llmrb/llm.rb：llmrb/llm.rb helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 51/100 |
-| adoption | 39/100 |
-| stars | 45/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 45/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

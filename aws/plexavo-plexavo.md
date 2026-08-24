@@ -69,6 +69,7 @@ plexavo/Plexavo：plexavo/Plexavo may be useful when its README and activity mat
 | production | 63/100 |
 | outlook | 61/100 |
 | adoption | 7/100 |
+| categoryMatchCount | 700/100 |
 | stars | 10/100 |
 | forks | 0/100 |
 | recency | 100/100 |

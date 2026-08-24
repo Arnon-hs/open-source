@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ TheLunarCompany/lunar：TheLunarCompany/lunar helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 58/100 |
-| integration | 100/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 51/100 |
-| stars | 56/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---

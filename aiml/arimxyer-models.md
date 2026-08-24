@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ arimxyer/models: arimxyer/models helps add AI capability without starting from a
 
 ### Русский
 
-arimxyer/models: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+arimxyer/models: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ arimxyer/models：arimxyer/models helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 54/100 |
-| adoption | 49/100 |
-| stars | 56/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ x64dbg/x64dbg：x64dbg/x64dbg helps catch security and privacy issues earlier in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 78/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 63/100 |
-| adoption | 96/100 |
-| stars | 100/100 |
 | forks | 86/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

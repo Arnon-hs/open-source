@@ -2,7 +2,7 @@
 
 > 
 
-**55 projects** in this category.
+**53 projects** in this category.
 
 ## Projects
 
@@ -29,40 +29,38 @@
 | 19 | [tracim/tracim](./tracim-tracim.md) | ⭐ 272 | Python | 55/100 |
 | 20 | [Fovty/HushMic](./fovty-hushmic.md) | ⭐ 109 | Rust | 54/100 |
 | 21 | [lix-project/lix](./lix-project-lix.md) | ⭐ 607 | C++ | 53/100 |
-| 22 | [openstudiocoalition/OpenStudioApplication](./openstudiocoalition-openstudioapplication.md) | ⭐ 168 | C++ | 51/100 |
+| 22 | [Yoast/wordpress-seo](./yoast-wordpress-seo.md) | ⭐ 1.9k | JavaScript | 53/100 |
 | 23 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 478 | — | 51/100 |
 | 24 | [jonhoo/atone](./jonhoo-atone.md) | ⭐ 117 | Rust | 50/100 |
 | 25 | [bluenote-1577/myloasm](./bluenote-1577-myloasm.md) | ⭐ 156 | Rust | 50/100 |
-| 26 | [tafia/calamine](./tafia-calamine.md) | ⭐ 2.3k | Rust | 49/100 |
-| 27 | [VisiGrid/VisiGrid](./visigrid-visigrid.md) | ⭐ 104 | Rust | 49/100 |
+| 26 | [VisiGrid/VisiGrid](./visigrid-visigrid.md) | ⭐ 104 | Rust | 49/100 |
+| 27 | [neodevpro/neodevhost](./neodevpro-neodevhost.md) | ⭐ 1.3k | Adblock Filter List | 48/100 |
 | 28 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 1.7k | JavaScript | 47/100 |
 | 29 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 47/100 |
-| 30 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 47/100 |
-| 31 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 123 | Rust | 46/100 |
-| 32 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 523 | PHP | 45/100 |
-| 33 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ — | — | 45/100 |
-| 34 | [eliasdejong/spsc-ring-threadsafe](./eliasdejong-spsc-ring-threadsafe.md) | ⭐ — | — | 44/100 |
-| 35 | [promises-aplus/promises-spec](./promises-aplus-promises-spec.md) | ⭐ — | — | 44/100 |
-| 36 | [kmcheung12/goodshelf](./kmcheung12-goodshelf.md) | ⭐ — | — | 44/100 |
-| 37 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 144 | MDX | 43/100 |
-| 38 | [pedrocatalao/skyroads-mac](./pedrocatalao-skyroads-mac.md) | ⭐ — | — | 41/100 |
-| 39 | [Ramzi-Abidi/filebouncer](./ramzi-abidi-filebouncer.md) | ⭐ — | — | 41/100 |
-| 40 | [FramY2/ctxray](./framy2-ctxray.md) | ⭐ — | — | 41/100 |
-| 41 | [starslingdev/hpc-sandbox-benchmarks](./starslingdev-hpc-sandbox-benchmarks.md) | ⭐ — | — | 41/100 |
-| 42 | [Francium-Tech/CrispVoice](./francium-tech-crispvoice.md) | ⭐ — | — | 41/100 |
-| 43 | [Jprnp/pslink-dossier](./jprnp-pslink-dossier.md) | ⭐ — | — | 41/100 |
-| 44 | [boraoztunc/bookmarker-releases](./boraoztunc-bookmarker-releases.md) | ⭐ — | — | 41/100 |
-| 45 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 41/100 |
-| 46 | [research-farm/substrate](./research-farm-substrate.md) | ⭐ — | — | 41/100 |
-| 47 | [itsPLK/ps5-y2jb-autoloader](./itsplk-ps5-y2jb-autoloader.md) | ⭐ — | — | 41/100 |
-| 48 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 41/100 |
-| 49 | [velle999/SYNAPSE](./velle999-synapse.md) | ⭐ — | — | 41/100 |
-| 50 | [AliensToEarth/litematica-rce](./alienstoearth-litematica-rce.md) | ⭐ — | — | 41/100 |
-| 51 | [preet01/spiel](./preet01-spiel.md) | ⭐ — | — | 41/100 |
-| 52 | [kcosr/codex-threads](./kcosr-codex-threads.md) | ⭐ — | — | 41/100 |
-| 53 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 41/100 |
-| 54 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 41/100 |
-| 55 | [elk-zone/elk](./elk-zone-elk.md) | ⭐ — | — | 40/100 |
+| 30 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ — | — | 45/100 |
+| 31 | [eliasdejong/spsc-ring-threadsafe](./eliasdejong-spsc-ring-threadsafe.md) | ⭐ — | — | 44/100 |
+| 32 | [promises-aplus/promises-spec](./promises-aplus-promises-spec.md) | ⭐ — | — | 44/100 |
+| 33 | [kmcheung12/goodshelf](./kmcheung12-goodshelf.md) | ⭐ — | — | 44/100 |
+| 34 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 144 | MDX | 43/100 |
+| 35 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
+| 36 | [pedrocatalao/skyroads-mac](./pedrocatalao-skyroads-mac.md) | ⭐ — | — | 41/100 |
+| 37 | [Ramzi-Abidi/filebouncer](./ramzi-abidi-filebouncer.md) | ⭐ — | — | 41/100 |
+| 38 | [FramY2/ctxray](./framy2-ctxray.md) | ⭐ — | — | 41/100 |
+| 39 | [starslingdev/hpc-sandbox-benchmarks](./starslingdev-hpc-sandbox-benchmarks.md) | ⭐ — | — | 41/100 |
+| 40 | [Francium-Tech/CrispVoice](./francium-tech-crispvoice.md) | ⭐ — | — | 41/100 |
+| 41 | [Jprnp/pslink-dossier](./jprnp-pslink-dossier.md) | ⭐ — | — | 41/100 |
+| 42 | [boraoztunc/bookmarker-releases](./boraoztunc-bookmarker-releases.md) | ⭐ — | — | 41/100 |
+| 43 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 41/100 |
+| 44 | [research-farm/substrate](./research-farm-substrate.md) | ⭐ — | — | 41/100 |
+| 45 | [itsPLK/ps5-y2jb-autoloader](./itsplk-ps5-y2jb-autoloader.md) | ⭐ — | — | 41/100 |
+| 46 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 41/100 |
+| 47 | [velle999/SYNAPSE](./velle999-synapse.md) | ⭐ — | — | 41/100 |
+| 48 | [AliensToEarth/litematica-rce](./alienstoearth-litematica-rce.md) | ⭐ — | — | 41/100 |
+| 49 | [preet01/spiel](./preet01-spiel.md) | ⭐ — | — | 41/100 |
+| 50 | [kcosr/codex-threads](./kcosr-codex-threads.md) | ⭐ — | — | 41/100 |
+| 51 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 41/100 |
+| 52 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 41/100 |
+| 53 | [elk-zone/elk](./elk-zone-elk.md) | ⭐ — | — | 40/100 |
 
 ---
 

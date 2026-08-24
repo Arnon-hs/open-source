@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Nikita-Filonov/ai-review: Nikita-Filonov/ai-review helps add AI capability witho
 
 ### Русский
 
-Nikita-Filonov/ai-review: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Nikita-Filonov/ai-review: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Nikita-Filonov/ai-review：Nikita-Filonov/ai-review helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 53/100 |
-| stars | 56/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -67,6 +67,7 @@ Akhouri-Anmol-Kumar/APIC：Akhouri-Anmol-Kumar/APIC may be useful when its READM
 | production | 53/100 |
 | outlook | 54/100 |
 | adoption | 5/100 |
+| categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 60/100 |

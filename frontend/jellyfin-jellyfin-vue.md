@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ jellyfin/jellyfin-vue：jellyfin/jellyfin-vue helps ship user-facing interfaces 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 51/100 |
-| adoption | 66/100 |
-| stars | 69/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 63/100 |
+| outlook | 51/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

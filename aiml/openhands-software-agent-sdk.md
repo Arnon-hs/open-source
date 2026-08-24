@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ OpenHands/software-agent-sdk：OpenHands/software-agent-sdk helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 49/100 |
-| adoption | 60/100 |
-| stars | 61/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 25/100 |
+| outlook | 49/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

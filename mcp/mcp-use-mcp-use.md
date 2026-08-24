@@ -1,6 +1,6 @@
 # mcp-use/mcp-use
 
-[![Stars](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat-square&color=yellow)](https://github.com/mcp-use/mcp-use/stargazers) [![Forks](https://img.shields.io/github/forks/mcp-use/mcp-use?style=flat-square&color=blue)](https://github.com/mcp-use/mcp-use/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-93%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat-square&color=yellow)](https://github.com/mcp-use/mcp-use/stargazers) [![Forks](https://img.shields.io/github/forks/mcp-use/mcp-use?style=flat-square&color=blue)](https://github.com/mcp-use/mcp-use/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
 
 > The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
@@ -8,34 +8,34 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10.3k |
-| 🍴 **Forks** | 1.4k |
+| ⭐ **Stars** | 9.9k |
+| 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 81/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agentic-framework` `ai` `apps-sdk` `chatgpt` `claude-code` `claude-connectors` `llms` `mcp` `mcp-apps` `mcp-client` `mcp-gateway` `mcp-inspector`
+`agentic-framework` `ai` `apps-sdk` `chatgpt` `claude-code` `llms` `mcp` `mcp-apps` `mcp-client` `mcp-gateway` `mcp-host` `mcp-inspector`
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Frontend · Backend
 
 ## 📝 Summary
 
 ### English
 
-mcp-use/mcp-use: mcp-use/mcp-use helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mcp-use is an open‑source full‑stack framework that streamlines the creation of MCP (Model‑Centric Programming) applications for conversational AI platforms such as ChatGPT and Claude, as well as the development of MCP servers that host AI agents. It provides a unified codebase covering both frontend UI components and backend services, enabling developers to quickly build, deploy, and scale AI‑driven applications with minimal boilerplate.
 
 ### Русский
 
-mcp-use/mcp-use: open-source проект в категориях MCP, AI/ML, Frontend, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+**mcp-use/mcp-use** — полнофункциональный open‑source fullstack‑фреймворк MCP, позволяющий быстро создавать MCP‑приложения для ChatGPT, Claude и другие AI‑агенты, а также развёртывать собственные MCP‑серверы. Он объединяет инструменты для фронтенда и бэкенда, обеспечивая единый набор API и готовую инфраструктуру для разработки, тестирования и масштабирования AI‑сервисов. Проект ориентирован на разработчиков, желающих построить интерактивные чат‑боты и агентные системы с минимальными усилиями.
 
 ### 中文
 
-mcp-use/mcp-use：mcp-use/mcp-use helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+mcp-use/mcp-use：mcp-use/mcp-use helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ mcp-use/mcp-use：mcp-use/mcp-use helps connect AI assistants to real tools and 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 10285 GitHub stars
-- 1360 forks
-- updated 2026-07-13
+- 9910 GitHub stars
+- 1270 forks
+- updated 2026-05-09
 - primary language: TypeScript
 - 20 topics
 
@@ -65,18 +65,18 @@ mcp-use/mcp-use：mcp-use/mcp-use helps connect AI assistants to real tools and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 93/100 |
-| integration | 94/100 |
-| production | 88/100 |
-| outlook | 96/100 |
-| adoption | 83/100 |
-| stars | 85/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 61/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/mcp-use/mcp-use) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/mcp-use/mcp-use) · [← Back to Mcp](./README.md)</sub>

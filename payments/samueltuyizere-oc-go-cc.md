@@ -66,16 +66,16 @@ samueltuyizere/oc-go-cc：samueltuyizere/oc-go-cc helps integrate monetization, 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 49/100 |
-| stars | 53/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 88/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

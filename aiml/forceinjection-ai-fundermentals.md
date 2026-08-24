@@ -65,16 +65,16 @@ ForceInjection/AI-fundermentals：ForceInjection/AI-fundermentals helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 48/100 |
-| adoption | 63/100 |
-| stars | 65/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Battam1111/Myco：Battam1111/Myco helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 50/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 54/100 |
-| adoption | 34/100 |
-| stars | 38/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 38/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 49/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

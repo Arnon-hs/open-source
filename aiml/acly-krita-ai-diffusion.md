@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Acly/krita-ai-diffusion：Acly/krita-ai-diffusion helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 49/100 |
-| adoption | 81/100 |
-| stars | 85/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 38/100 |
+| outlook | 49/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

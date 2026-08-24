@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ MemoriLabs/Memori: MemoriLabs/Memori helps turn isolated prompts and tools into 
 
 ### Русский
 
-MemoriLabs/Memori: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+MemoriLabs/Memori: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ MemoriLabs/Memori：MemoriLabs/Memori helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 74/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 67/100 |
-| adoption | 87/100 |
-| stars | 88/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

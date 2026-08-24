@@ -63,16 +63,16 @@ ergrelet/windiff：ergrelet/windiff may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 51/100 |
-| adoption | 49/100 |
-| stars | 55/100 |
 | forks | 32/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

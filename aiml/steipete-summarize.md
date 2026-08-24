@@ -65,16 +65,16 @@ steipete/summarize：steipete/summarize helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 76/100 |
-| stars | 80/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 50/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

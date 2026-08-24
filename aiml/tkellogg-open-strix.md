@@ -64,16 +64,16 @@ tkellogg/open-strix：tkellogg/open-strix helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 36/100 |
-| integration | 46/100 |
-| production | 41/100 |
-| outlook | 37/100 |
-| adoption | 35/100 |
-| stars | 39/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 36/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

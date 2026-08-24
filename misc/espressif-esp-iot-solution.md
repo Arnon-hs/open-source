@@ -62,16 +62,16 @@ espressif/esp-iot-solution：espressif/esp-iot-solution may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 73/100 |
-| stars | 73/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

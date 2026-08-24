@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ The-17/agentsecrets：The-17/agentsecrets helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 52/100 |
-| adoption | 39/100 |
-| stars | 43/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

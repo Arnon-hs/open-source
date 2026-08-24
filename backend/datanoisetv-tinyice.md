@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ DatanoiseTV/tinyice：DatanoiseTV/tinyice helps teams reuse service infrastructu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 47/100 |
-| stars | 53/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 88/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

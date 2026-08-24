@@ -63,16 +63,16 @@ tardis-sn/tardis：tardis-sn/tardis may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 55/100 |
-| stars | 51/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 63/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

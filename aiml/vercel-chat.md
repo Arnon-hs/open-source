@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ vercel/chat：vercel/chat helps add AI capability without starting from a blank 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 54/100 |
-| adoption | 66/100 |
-| stars | 70/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 88/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

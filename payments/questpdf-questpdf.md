@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments · Design
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ QuestPDF/QuestPDF：QuestPDF/QuestPDF helps integrate monetization, billing, or 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 84/100 |
-| stars | 88/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

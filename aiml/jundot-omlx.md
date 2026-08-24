@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Design
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ jundot/omlx：jundot/omlx helps add AI capability without starting from a blank 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 57/100 |
-| adoption | 84/100 |
-| stars | 87/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 87/100 |
 | topics | 75/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

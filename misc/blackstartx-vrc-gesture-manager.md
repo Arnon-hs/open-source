@@ -62,16 +62,16 @@ BlackStartx/VRC-Gesture-Manager：BlackStartx/VRC-Gesture-Manager may be useful 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 41/100 |
-| adoption | 50/100 |
-| stars | 55/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

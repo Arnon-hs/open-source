@@ -63,16 +63,16 @@ pnpm/pnpm：pnpm/pnpm may be useful when its README and activity match a concret
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 92/100 |
-| stars | 97/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 97/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

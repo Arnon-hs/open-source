@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · Backend
+Trading · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ PsychQuant/che-ical-mcp：PsychQuant/che-ical-mcp helps research and automate ma
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 94/100 |
-| production | 52/100 |
-| outlook | 54/100 |
-| adoption | 28/100 |
-| stars | 31/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 31/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ pgmpy/pgmpy：pgmpy/pgmpy helps convert raw data into searchable, analyzable, or
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 75/100 |
-| stars | 75/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

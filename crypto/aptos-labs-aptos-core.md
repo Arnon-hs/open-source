@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ aptos-labs/aptos-core: aptos-labs/aptos-core helps prototype or inspect blockcha
 
 ### Русский
 
-aptos-labs/aptos-core: open-source проект в категориях Crypto, AI/ML, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+aptos-labs/aptos-core: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ aptos-labs/aptos-core：aptos-labs/aptos-core helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 84/100 |
-| stars | 81/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

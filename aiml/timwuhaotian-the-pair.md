@@ -65,16 +65,16 @@ timwuhaotian/the-pair：timwuhaotian/the-pair helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 49/100 |
-| stars | 54/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ Lin-arm/GKD_subscription：Lin-arm/GKD_subscription helps integrate monetization
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 46/100 |
-| adoption | 64/100 |
-| stars | 72/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 50/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

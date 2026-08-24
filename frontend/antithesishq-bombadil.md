@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ antithesishq/bombadil: antithesishq/bombadil helps ship user-facing interfaces w
 
 ### Русский
 
-antithesishq/bombadil: open-source проект в категориях Frontend, DevTools. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+antithesishq/bombadil: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ antithesishq/bombadil：antithesishq/bombadil helps ship user-facing interfaces 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 49/100 |
-| adoption | 58/100 |
-| stars | 66/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 88/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

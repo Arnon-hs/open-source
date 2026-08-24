@@ -63,16 +63,16 @@ rockowitz/ddcutil：rockowitz/ddcutil may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 50/100 |
-| adoption | 61/100 |
-| stars | 66/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 63/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

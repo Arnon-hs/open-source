@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ boxlite-ai/boxlite：boxlite-ai/boxlite helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 65/100 |
-| stars | 70/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 75/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

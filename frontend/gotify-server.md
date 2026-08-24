@@ -65,16 +65,16 @@ gotify/server：gotify/server helps ship user-facing interfaces with less custom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 84/100 |
-| stars | 89/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

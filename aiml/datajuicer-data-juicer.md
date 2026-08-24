@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ datajuicer/data-juicer：datajuicer/data-juicer helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 76/100 |
-| stars | 81/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

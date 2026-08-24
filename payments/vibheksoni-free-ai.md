@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Frontend
+Payments · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ vibheksoni/free-ai：vibheksoni/free-ai helps integrate monetization, billing, o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 53/100 |
-| stars | 55/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

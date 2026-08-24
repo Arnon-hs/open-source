@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ manpoai/AgentOfficeSuite：manpoai/AgentOfficeSuite helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 39/100 |
-| integration | 46/100 |
-| production | 42/100 |
-| outlook | 39/100 |
-| adoption | 42/100 |
-| stars | 44/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 39/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

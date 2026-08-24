@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Rel1cx/eslint-react：Rel1cx/eslint-react helps ship user-facing interfaces with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 50/100 |
-| adoption | 54/100 |
-| stars | 58/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 75/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

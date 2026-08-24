@@ -64,16 +64,16 @@ GoogleCloudPlatform/k8s-config-connector：GoogleCloudPlatform/k8s-config-connec
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 41/100 |
-| adoption | 64/100 |
-| stars | 64/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

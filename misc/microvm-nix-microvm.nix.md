@@ -65,16 +65,16 @@ microvm-nix/microvm.nix：microvm-nix/microvm.nix may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 56/100 |
-| adoption | 68/100 |
-| stars | 72/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

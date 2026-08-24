@@ -63,16 +63,16 @@ illegalstudio/elephc：illegalstudio/elephc may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 40/100 |
-| adoption | 35/100 |
-| stars | 43/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 63/100 |
+| outlook | 40/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

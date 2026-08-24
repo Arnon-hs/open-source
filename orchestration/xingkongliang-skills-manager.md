@@ -68,16 +68,16 @@ xingkongliang/skills-manager：xingkongliang/skills-manager helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 47/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 0/100 |
+| outlook | 47/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

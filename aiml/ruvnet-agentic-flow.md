@@ -65,16 +65,16 @@ ruvnet/agentic-flow：ruvnet/agentic-flow helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 59/100 |
-| stars | 60/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

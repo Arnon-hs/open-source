@@ -1,0 +1,82 @@
+# tombi-toml/tombi
+
+[![Stars](https://img.shields.io/github/stars/tombi-toml/tombi?style=flat-square&color=yellow)](https://github.com/tombi-toml/tombi/stargazers) [![Forks](https://img.shields.io/github/forks/tombi-toml/tombi?style=flat-square&color=blue)](https://github.com/tombi-toml/tombi/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+
+> TOML Formatter / Linter / Language Server
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 910 |
+| 🍴 **Forks** | 45 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cli` `formatter` `language-server` `linter` `lsp` `rust` `toml`
+
+## 🎯 Categories
+
+Backend · DevTools
+
+## 📝 Summary
+
+### English
+
+tombi is an open‑source toolchain for TOML files that provides automatic formatting, linting, and a language‑server implementation for editor integration. It helps developers keep TOML configuration clean and consistent by catching syntax errors, enforcing style rules, and offering real‑time diagnostics and code‑actions. The project is built with a focus on backend performance and can be extended or integrated into AI‑assisted workflows.
+
+### Русский
+
+tombi‑toml/tombi — это открытый инструмент для разработки на TOML: форматтер, линтер и полноценный language server, который обеспечивает автоматическое приведение кода к единому стилю, проверку на ошибки и контекстную подсказку в реальном времени. Проект сочетает возможности AI‑поддержки с надёжным бекендом, делая работу с конфигурационными файлами более быстрой и безопасной для разработчиков. Он позиционируется как DevTools‑утилита, полезная в любых проектах, где используется TOML.
+
+### 中文
+
+tombi-toml/tombi：tombi-toml/tombi helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** tombi-toml/tombi helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+
+**Best use cases**
+
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 910 GitHub stars
+- 45 forks
+- updated 2026-05-08
+- primary language: Rust
+- 7 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 42/100 |
+| stars | 63/100 |
+| topics | 88/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/tombi-toml/tombi) · [← Back to Backend](./README.md)</sub>

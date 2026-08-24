@@ -65,16 +65,16 @@ edb-rs/edb：edb-rs/edb helps prototype or inspect blockchain workflows with ope
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 46/100 |
-| adoption | 51/100 |
-| stars | 54/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 75/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

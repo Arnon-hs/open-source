@@ -1,0 +1,78 @@
+# Lanlan13-14/Rules
+
+[![Stars](https://img.shields.io/github/stars/Lanlan13-14/Rules?style=flat-square&color=yellow)](https://github.com/Lanlan13-14/Rules/stargazers) [![Forks](https://img.shields.io/github/forks/Lanlan13-14/Rules?style=flat-square&color=blue)](https://github.com/Lanlan13-14/Rules/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+
+> 适用于Mihomo/Stash客户端的Yaml配置文件
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 553 |
+| 🍴 **Forks** | 71 |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Lanlan13‑14/Rules is an open‑source repository that provides ready‑to‑use YAML configuration files specifically designed for the Mihomo and Stash proxy clients. These rule sets streamline traffic routing, filtering, and domain matching, enabling users to quickly apply optimized network policies without manual rule creation. The project is maintained in the AI/ML category, reflecting its use of automated or algorithmic rule generation techniques.
+
+### Русский
+
+Lanlan13-14/Rules — это набор YAML‑правил, предназначенных для клиентских приложений Mihomo и Stash, позволяющих гибко настраивать маршрутизацию, фильтрацию и обработку сетевого трафика. Конфигурации полностью открыты и легко интегрируются в любые проекты, что делает их удобным решением для автоматизации сетевых политик в рамках AI/ML инфраструктур. Проект активно поддерживается сообществом и готов к расширению под специфические задачи пользователей.
+
+### 中文
+
+Lanlan13-14/Rules：Lanlan13-14/Rules may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** Lanlan13-14/Rules may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 553 GitHub stars
+- 71 forks
+- updated 2026-05-09
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 46/100 |
+| stars | 58/100 |
+| topics | 0/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Lanlan13-14/Rules) · [← Back to Misc](./README.md)</sub>

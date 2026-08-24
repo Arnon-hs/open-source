@@ -65,16 +65,16 @@ go-flutter-desktop/hover：go-flutter-desktop/hover helps engineers save time in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 59/100 |
-| stars | 64/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

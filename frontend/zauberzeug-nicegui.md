@@ -65,16 +65,16 @@ zauberzeug/nicegui：zauberzeug/nicegui helps ship user-facing interfaces with l
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 85/100 |
-| stars | 89/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ solana-foundation/anchor: solana-foundation/anchor helps prototype or inspect bl
 
 ### Русский
 
-solana-foundation/anchor: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+solana-foundation/anchor: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ solana-foundation/anchor：solana-foundation/anchor helps prototype or inspect b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 80/100 |
-| stars | 79/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

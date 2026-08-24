@@ -63,16 +63,16 @@ z2586300277/three-cesium-examples：z2586300277/three-cesium-examples may be use
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 46/100 |
-| adoption | 68/100 |
-| stars | 70/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 38/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

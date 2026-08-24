@@ -64,16 +64,16 @@ mozilla/addons-server：mozilla/addons-server helps teams reuse service infrastr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 78/100 |
-| production | 51/100 |
-| outlook | 45/100 |
-| adoption | 64/100 |
-| stars | 63/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

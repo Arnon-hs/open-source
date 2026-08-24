@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ triggerdotdev/trigger.dev: triggerdotdev/trigger.dev helps turn isolated prompts
 
 ### Русский
 
-triggerdotdev/trigger.dev: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+triggerdotdev/trigger.dev: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ triggerdotdev/trigger.dev：triggerdotdev/trigger.dev helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 68/100 |
-| adoption | 85/100 |
-| stars | 89/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

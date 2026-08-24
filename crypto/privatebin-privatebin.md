@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Backend · Data
+Crypto · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ PrivateBin/PrivateBin: PrivateBin/PrivateBin helps prototype or inspect blockcha
 
 ### Русский
 
-PrivateBin/PrivateBin: open-source проект в категориях Crypto, Backend, Data. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+PrivateBin/PrivateBin: open-source проект в категориях Crypto, Security. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ PrivateBin/PrivateBin：PrivateBin/PrivateBin helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 81/100 |
-| stars | 83/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ Engineercms — это веб‑ориентированная система 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 50/100 |
-| adoption | 67/100 |
-| stars | 67/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 75/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

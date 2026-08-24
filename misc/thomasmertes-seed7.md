@@ -62,16 +62,16 @@ ThomasMertes/seed7：ThomasMertes/seed7 may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 38/100 |
-| adoption | 50/100 |
-| stars | 56/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

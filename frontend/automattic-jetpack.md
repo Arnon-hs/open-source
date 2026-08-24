@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Security · Design
+Frontend · Security · Design · Marketing
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Automattic/jetpack: Automattic/jetpack helps ship user-facing interfaces with le
 
 ### Русский
 
-Automattic/jetpack: open-source проект в категориях Frontend, Security, Design. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Automattic/jetpack: open-source проект в категориях Frontend, Security, Design, Marketing. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Automattic/jetpack：Automattic/jetpack helps ship user-facing interfaces with l
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 70/100 |
-| stars | 69/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ duzyn/scoop-cn：duzyn/scoop-cn may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 42/100 |
-| adoption | 52/100 |
-| stars | 58/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 38/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

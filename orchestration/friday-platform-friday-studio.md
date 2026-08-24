@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ friday-platform/friday-studio：friday-platform/friday-studio helps turn isolate
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 54/100 |
-| adoption | 30/100 |
-| stars | 38/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 38/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 48/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

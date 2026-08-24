@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dograh-hq/dograh: dograh-hq/dograh helps add AI capability without starting from
 
 ### Русский
 
-dograh-hq/dograh: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dograh-hq/dograh: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dograh-hq/dograh：dograh-hq/dograh helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 56/100 |
-| stars | 56/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

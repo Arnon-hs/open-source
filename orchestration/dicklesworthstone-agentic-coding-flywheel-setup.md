@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Dicklesworthstone/agentic_coding_flywheel_setup: Dicklesworthstone/agentic_codin
 
 ### Русский
 
-Dicklesworthstone/agentic_coding_flywheel_setup: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Dicklesworthstone/agentic_coding_flywheel_setup: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Dicklesworthstone/agentic_coding_flywheel_setup：Dicklesworthstone/agentic_codi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 57/100 |
-| adoption | 64/100 |
-| stars | 67/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 63/100 |
+| outlook | 57/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 49/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ colbymchenry/codegraph：colbymchenry/codegraph may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 47/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 60/100 |
-| stars | 64/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

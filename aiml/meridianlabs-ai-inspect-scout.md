@@ -64,16 +64,16 @@ meridianlabs-ai/inspect_scout：meridianlabs-ai/inspect_scout helps add AI capab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 35/100 |
-| integration | 46/100 |
-| production | 41/100 |
-| outlook | 37/100 |
-| adoption | 34/100 |
-| stars | 35/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 35/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

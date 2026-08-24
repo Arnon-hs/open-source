@@ -62,16 +62,16 @@ go-git/go-billy：go-git/go-billy may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 39/100 |
-| adoption | 52/100 |
-| stars | 55/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

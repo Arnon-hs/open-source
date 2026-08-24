@@ -63,16 +63,16 @@ JsonAsAsset/JsonAsAsset：JsonAsAsset/JsonAsAsset may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 42/100 |
-| adoption | 50/100 |
-| stars | 53/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 38/100 |
+| outlook | 42/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mock-server/mockserver-monorepo: mock-server/mockserver-monorepo helps teams reu
 
 ### Русский
 
-mock-server/mockserver-monorepo: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mock-server/mockserver-monorepo: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ mock-server/mockserver-monorepo：mock-server/mockserver-monorepo helps teams re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 78/100 |
-| stars | 78/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ sspanak/tt9：sspanak/tt9 may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 63/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

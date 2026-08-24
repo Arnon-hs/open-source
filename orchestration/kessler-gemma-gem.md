@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ kessler/gemma-gem：kessler/gemma-gem helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 54/100 |
-| adoption | 59/100 |
-| stars | 63/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

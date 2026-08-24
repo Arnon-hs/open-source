@@ -65,16 +65,16 @@ ajeetdsouza/zoxide：ajeetdsouza/zoxide helps engineers save time in daily devel
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 64/100 |
-| adoption | 90/100 |
-| stars | 97/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 97/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

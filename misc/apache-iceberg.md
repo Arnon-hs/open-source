@@ -63,16 +63,16 @@ apache/iceberg：apache/iceberg may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 85/100 |
-| stars | 84/100 |
 | forks | 88/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 38/100 |
+| outlook | 50/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

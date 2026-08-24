@@ -67,16 +67,16 @@ hashicorp/terraform-provider-google-beta：hashicorp/terraform-provider-google-b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 43/100 |
-| adoption | 55/100 |
-| stars | 53/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

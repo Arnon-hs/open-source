@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ daytonaio/daytona: daytonaio/daytona helps turn isolated prompts and tools into 
 
 ### Русский
 
-daytonaio/daytona: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+daytonaio/daytona: open-source проект в категориях Orchestration, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ daytonaio/daytona：daytonaio/daytona helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 70/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ massgen/MassGen：massgen/MassGen helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 61/100 |
-| stars | 64/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

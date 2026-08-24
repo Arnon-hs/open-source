@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Marketing
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ rustfs/rustfs: rustfs/rustfs helps add AI capability without starting from a bla
 
 ### Русский
 
-rustfs/rustfs: open-source проект в категориях AI/ML, Data, Marketing. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rustfs/rustfs: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ rustfs/rustfs：rustfs/rustfs helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 61/100 |
-| adoption | 89/100 |
-| stars | 94/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

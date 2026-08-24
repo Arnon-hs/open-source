@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Frontend
+Crypto · Trading · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Lqz13Th/extrema_infra：Lqz13Th/extrema_infra helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 45/100 |
-| stars | 48/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 75/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

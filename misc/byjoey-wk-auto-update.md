@@ -62,16 +62,16 @@ byJoey/wk-Auto-update：byJoey/wk-Auto-update may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 42/100 |
-| adoption | 66/100 |
-| stars | 61/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

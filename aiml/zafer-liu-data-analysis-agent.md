@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Zafer-Liu/Data-Analysis-Agent：Zafer-Liu/Data-Analysis-Agent helps add AI capab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 54/100 |
-| adoption | 59/100 |
-| stars | 65/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

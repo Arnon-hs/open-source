@@ -65,16 +65,16 @@ x-cmd/x-cmd：x-cmd/x-cmd helps add AI capability without starting from a blank 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 58/100 |
-| adoption | 71/100 |
-| stars | 77/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 88/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

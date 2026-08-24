@@ -66,16 +66,16 @@ mytechnotalent/Go-Hacking：mytechnotalent/Go-Hacking helps teams reuse service 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 51/100 |
-| adoption | 49/100 |
-| stars | 53/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

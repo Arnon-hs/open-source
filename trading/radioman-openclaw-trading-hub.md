@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML
+Trading · Automation
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ radioman/OpenClaw-Trading-Hub：radioman/OpenClaw-Trading-Hub helps research and
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 64/100 |
-| stars | 64/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

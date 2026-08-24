@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ epam/ai-dial-chat：epam/ai-dial-chat helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 41/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 25/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Mobile
+AI/ML · Data · Mobile · Education
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ flwrlabs/flower: flwrlabs/flower helps add AI capability without starting from a
 
 ### Русский
 
-flwrlabs/flower: open-source проект в категориях AI/ML, Data, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+flwrlabs/flower: open-source проект в категориях AI/ML, Data, Mobile, Education. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ flwrlabs/flower：flwrlabs/flower helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 80/100 |
-| stars | 82/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

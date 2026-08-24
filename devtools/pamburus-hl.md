@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools
+DevTools · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ pamburus/hl：pamburus/hl helps engineers save time in daily development and rev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 58/100 |
-| adoption | 66/100 |
-| stars | 74/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

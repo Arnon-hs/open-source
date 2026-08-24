@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile
+Frontend · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ amwebexpert/etoolbox：amwebexpert/etoolbox helps ship user-facing interfaces wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 42/100 |
-| stars | 44/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

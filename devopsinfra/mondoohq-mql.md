@@ -65,16 +65,16 @@ mondoohq/mql：mondoohq/mql helps make deployment and operations more repeatable
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 48/100 |
-| adoption | 51/100 |
-| stars | 55/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

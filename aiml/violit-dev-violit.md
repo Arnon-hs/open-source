@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Frontend · DevTools · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ violit-dev/violit: violit-dev/violit helps add AI capability without starting fr
 
 ### Русский
 
-violit-dev/violit: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+violit-dev/violit: open-source проект в категориях AI/ML, Frontend, DevTools, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ violit-dev/violit：violit-dev/violit helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 49/100 |
-| stars | 56/100 |
 | forks | 32/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ microsoft/DiskANN：microsoft/DiskANN may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 42/100 |
-| adoption | 68/100 |
-| stars | 69/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

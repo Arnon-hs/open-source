@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ usestrix/strix：usestrix/strix helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 92/100 |
-| stars | 94/100 |
 | forks | 86/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 75/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

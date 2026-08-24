@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ EvoMap/evolver: EvoMap/evolver helps turn isolated prompts and tools into repeat
 
 ### Русский
 
-EvoMap/evolver: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+EvoMap/evolver: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ EvoMap/evolver：EvoMap/evolver helps turn isolated prompts and tools into repea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 71/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 67/100 |
-| adoption | 79/100 |
-| stars | 82/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

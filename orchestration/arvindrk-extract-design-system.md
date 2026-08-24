@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ arvindrk/extract-design-system：arvindrk/extract-design-system helps turn isola
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 78/100 |
-| production | 50/100 |
-| outlook | 54/100 |
-| adoption | 29/100 |
-| stars | 32/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

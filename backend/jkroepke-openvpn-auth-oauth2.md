@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Security
+Backend · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ jkroepke/openvpn-auth-oauth2：jkroepke/openvpn-auth-oauth2 helps teams reuse se
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 52/100 |
-| adoption | 53/100 |
-| stars | 57/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Arvincreator/project-golem：Arvincreator/project-golem helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 56/100 |
-| stars | 59/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

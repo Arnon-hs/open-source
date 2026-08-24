@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ sanity-io/sanity: sanity-io/sanity helps ship user-facing interfaces with less c
 
 ### Русский
 
-sanity-io/sanity: open-source проект в категориях Frontend, Backend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+sanity-io/sanity: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ sanity-io/sanity：sanity-io/sanity helps ship user-facing interfaces with less 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 77/100 |
-| stars | 81/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

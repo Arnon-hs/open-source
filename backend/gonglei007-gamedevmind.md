@@ -65,16 +65,16 @@ gonglei007/GameDevMind：gonglei007/GameDevMind helps teams reuse service infras
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 78/100 |
-| stars | 81/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

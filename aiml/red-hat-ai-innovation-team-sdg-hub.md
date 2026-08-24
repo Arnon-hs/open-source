@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Red-Hat-AI-Innovation-Team/sdg_hub：Red-Hat-AI-Innovation-Team/sdg_hub helps ad
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 47/100 |
-| adoption | 45/100 |
-| stars | 45/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 38/100 |
+| outlook | 47/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 45/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

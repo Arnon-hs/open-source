@@ -65,16 +65,16 @@ microsoft/apm：microsoft/apm helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 67/100 |
-| stars | 71/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

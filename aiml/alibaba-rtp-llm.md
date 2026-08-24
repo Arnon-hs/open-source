@@ -65,16 +65,16 @@ alibaba/rtp-llm：alibaba/rtp-llm helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 50/100 |
-| adoption | 63/100 |
-| stars | 65/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 88/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

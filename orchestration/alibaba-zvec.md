@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ alibaba/zvec: alibaba/zvec helps turn isolated prompts and tools into repeatable
 
 ### Русский
 
-alibaba/zvec: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+alibaba/zvec: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ alibaba/zvec：alibaba/zvec helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 62/100 |
-| adoption | 80/100 |
-| stars | 85/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

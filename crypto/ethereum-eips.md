@@ -64,16 +64,16 @@ ethereum/EIPs：ethereum/EIPs helps prototype or inspect blockchain workflows wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 90/100 |
-| stars | 88/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

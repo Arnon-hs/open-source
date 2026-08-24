@@ -65,16 +65,16 @@ faker-js/faker：faker-js/faker helps convert raw data into searchable, analyzab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 85/100 |
-| stars | 89/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

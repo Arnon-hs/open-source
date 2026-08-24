@@ -65,16 +65,16 @@ ThirdKeyAI/Symbiont：ThirdKeyAI/Symbiont helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 53/100 |
-| adoption | 32/100 |
-| stars | 35/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 44/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

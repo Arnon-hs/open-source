@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools
+Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ EvgenyOrekhov/eslint-config-hardcore：EvgenyOrekhov/eslint-config-hardcore help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 49/100 |
-| stars | 57/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 88/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

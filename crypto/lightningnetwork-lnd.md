@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ lightningnetwork/lnd: lightningnetwork/lnd helps prototype or inspect blockchain
 
 ### Русский
 
-lightningnetwork/lnd: open-source проект в категориях Crypto, Payments, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+lightningnetwork/lnd: open-source проект в категориях Crypto, Payments. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ lightningnetwork/lnd：lightningnetwork/lnd helps prototype or inspect blockchai
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 83/100 |
-| stars | 83/100 |
 | forks | 84/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ huggingface/chat-ui: huggingface/chat-ui helps add AI capability without startin
 
 ### Русский
 
-huggingface/chat-ui: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+huggingface/chat-ui: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ huggingface/chat-ui：huggingface/chat-ui helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 84/100 |
-| stars | 86/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

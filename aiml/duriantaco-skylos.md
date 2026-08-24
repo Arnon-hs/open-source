@@ -65,16 +65,16 @@ duriantaco/skylos：duriantaco/skylos helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 51/100 |
-| adoption | 49/100 |
-| stars | 56/100 |
 | forks | 33/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

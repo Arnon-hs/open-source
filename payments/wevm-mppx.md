@@ -65,16 +65,16 @@ wevm/mppx：wevm/mppx helps integrate monetization, billing, or PSP flows faster
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 45/100 |
-| adoption | 43/100 |
-| stars | 44/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 88/100 |
+| outlook | 45/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

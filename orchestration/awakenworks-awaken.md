@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Frontend · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ awakenworks/awaken：awakenworks/awaken helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 51/100 |
-| integration | 78/100 |
-| production | 51/100 |
-| outlook | 56/100 |
-| adoption | 34/100 |
-| stars | 40/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 40/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

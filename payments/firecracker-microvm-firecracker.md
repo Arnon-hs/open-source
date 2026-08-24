@@ -71,6 +71,7 @@ firecracker-microvm/firecracker：firecracker-microvm/firecracker helps integrat
 | production | 54/100 |
 | outlook | 59/100 |
 | adoption | 93/100 |
+| categoryMatchCount | 300/100 |
 | stars | 96/100 |
 | forks | 84/100 |
 | recency | 20/100 |

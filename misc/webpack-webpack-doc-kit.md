@@ -1,6 +1,6 @@
 # webpack/webpack-doc-kit
 
-[![Stars](https://img.shields.io/github/stars/webpack/webpack-doc-kit?style=flat-square&color=yellow)](https://github.com/webpack/webpack-doc-kit/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack-doc-kit?style=flat-square&color=blue)](https://github.com/webpack/webpack-doc-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/webpack/webpack-doc-kit?style=flat-square&color=yellow)](https://github.com/webpack/webpack-doc-kit/stargazers) [![Forks](https://img.shields.io/github/forks/webpack/webpack-doc-kit?style=flat-square&color=blue)](https://github.com/webpack/webpack-doc-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-08-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,14 +63,15 @@ webpack/webpack-doc-kit：webpack/webpack-doc-kit may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 18/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 33/100 |
+| categoryMatchCount | 100/100 |
 | stars | 27/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

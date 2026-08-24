@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto · Backend · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ graphprotocol/graph-node: graphprotocol/graph-node helps prototype or inspect bl
 
 ### Русский
 
-graphprotocol/graph-node: open-source проект в категориях Crypto, AI/ML, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+graphprotocol/graph-node: open-source проект в категориях Crypto, Backend, DevTools. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ graphprotocol/graph-node：graphprotocol/graph-node helps prototype or inspect b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 75/100 |
-| stars | 74/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -64,16 +64,16 @@ QinMoXX/AAStation：QinMoXX/AAStation helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 36/100 |
-| integration | 30/100 |
-| production | 39/100 |
-| outlook | 37/100 |
-| adoption | 35/100 |
-| stars | 40/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 40/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 36/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 39/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

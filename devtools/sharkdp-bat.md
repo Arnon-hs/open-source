@@ -65,16 +65,16 @@ sharkdp/bat：sharkdp/bat helps engineers save time in daily development and rev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 77/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 65/100 |
-| adoption | 94/100 |
-| stars | 100/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ mdn/browser-compat-data：mdn/browser-compat-data helps convert raw data into se
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 81/100 |
-| stars | 80/100 |
 | forks | 85/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 63/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

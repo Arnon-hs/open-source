@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Orchestration · AI/ML
 
 ### Русский
 
-4thfever/cultivation-world-simulator: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+4thfever/cultivation-world-simulator: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Orchestration · AI/ML
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 58/100 |
-| adoption | 65/100 |
-| stars | 68/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

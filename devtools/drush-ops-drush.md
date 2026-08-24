@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Design
+DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ drush-ops/drush: drush-ops/drush helps engineers save time in daily development 
 
 ### Русский
 
-drush-ops/drush: open-source проект в категориях DevTools, Design. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+drush-ops/drush: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ drush-ops/drush：drush-ops/drush helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 73/100 |
-| stars | 72/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 88/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

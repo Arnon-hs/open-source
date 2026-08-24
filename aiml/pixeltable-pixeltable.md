@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · DevOps/Infra
+AI/ML · Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ pixeltable/pixeltable: pixeltable/pixeltable helps add AI capability without sta
 
 ### Русский
 
-pixeltable/pixeltable: open-source проект в категориях AI/ML, Data, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+pixeltable/pixeltable: open-source проект в категориях AI/ML, Data, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ pixeltable/pixeltable：pixeltable/pixeltable helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 65/100 |
-| stars | 68/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

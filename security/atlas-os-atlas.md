@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Security · Design
+Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Atlas-OS/Atlas: Atlas-OS/Atlas helps catch security and privacy issues earlier i
 
 ### Русский
 
-Atlas-OS/Atlas: open-source проект в категориях Security, Design. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Atlas-OS/Atlas: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Atlas-OS/Atlas：Atlas-OS/Atlas helps catch security and privacy issues earlier 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 86/100 |
-| stars | 92/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 92/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

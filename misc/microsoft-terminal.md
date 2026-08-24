@@ -63,16 +63,16 @@ microsoft/terminal：microsoft/terminal may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 99/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

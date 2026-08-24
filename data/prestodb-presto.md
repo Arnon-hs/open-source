@@ -65,16 +65,16 @@ prestodb/presto：prestodb/presto helps convert raw data into searchable, analyz
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 91/100 |
-| stars | 90/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

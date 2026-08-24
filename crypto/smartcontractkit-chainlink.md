@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ smartcontractkit/chainlink：smartcontractkit/chainlink helps prototype or inspe
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 83/100 |
-| stars | 83/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

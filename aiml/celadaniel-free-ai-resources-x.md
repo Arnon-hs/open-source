@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ CelaDaniel/free-ai-resources-x：CelaDaniel/free-ai-resources-x helps add AI cap
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 58/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

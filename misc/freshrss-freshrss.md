@@ -63,16 +63,16 @@ FreshRSS/FreshRSS：FreshRSS/FreshRSS may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 85/100 |
-| stars | 89/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

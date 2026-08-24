@@ -1,0 +1,82 @@
+# serkanyersen/dotstate
+
+[![Stars](https://img.shields.io/github/stars/serkanyersen/dotstate?style=flat-square&color=yellow)](https://github.com/serkanyersen/dotstate/stargazers) [![Forks](https://img.shields.io/github/forks/serkanyersen/dotstate?style=flat-square&color=blue)](https://github.com/serkanyersen/dotstate/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> A modern, secure, and user-friendly dotfile manager built with Rust
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 339 |
+| 🍴 **Forks** | 11 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`brew` `cli` `crates-io` `dotfiles` `ratatui` `rust` `tui`
+
+## 🎯 Categories
+
+DevTools
+
+## 📝 Summary
+
+### English
+
+serkanyersen/dotstate is a modern dotfile manager written in Rust that focuses on security, simplicity, and cross‑platform usability. It provides a clean, user‑friendly CLI for tracking, syncing, and deploying configuration files, while leveraging Rust’s safety guarantees and fast performance. Ideal for developers who want a reliable, extensible tool to manage their dotfiles as part of their workflow.
+
+### Русский
+
+**dotstate** – современный и безопасный менеджер dot‑файлов, написанный на Rust. Он объединяет удобный пользовательский интерфейс с мощными DevTools‑функциями, позволяя легко управлять, синхронизировать и версионировать конфигурационные файлы. Проект ориентирован на безопасность, быстродействие и простоту использования.
+
+### 中文
+
+serkanyersen/dotstate：serkanyersen/dotstate helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** serkanyersen/dotstate helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 339 GitHub stars
+- 11 forks
+- updated 2026-05-08
+- primary language: Rust
+- 7 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 27/100 |
+| stars | 54/100 |
+| topics | 88/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/serkanyersen/dotstate) · [← Back to DevTools](./README.md)</sub>

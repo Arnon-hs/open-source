@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data
+Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Pometry/Raphtory: Pometry/Raphtory helps convert raw data into searchable, analy
 
 ### Русский
 
-Pometry/Raphtory: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Pometry/Raphtory: open-source проект в категориях Data, Database. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Pometry/Raphtory：Pometry/Raphtory helps convert raw data into searchable, anal
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 56/100 |
-| stars | 59/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

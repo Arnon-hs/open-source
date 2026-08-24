@@ -65,16 +65,16 @@ salesforcecli/cli：salesforcecli/cli helps engineers save time in daily develop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 44/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 42/100 |
-| adoption | 45/100 |
-| stars | 47/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 25/100 |
+| outlook | 42/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

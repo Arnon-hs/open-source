@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data · Design
+DevTools · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ snowflakedb/snowflake-cli：snowflakedb/snowflake-cli helps engineers save time 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 51/100 |
-| stars | 51/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 63/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

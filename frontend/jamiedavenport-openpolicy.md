@@ -65,16 +65,16 @@ jamiedavenport/openpolicy：jamiedavenport/openpolicy helps ship user-facing int
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 39/100 |
-| stars | 46/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 75/100 |
+| outlook | 49/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

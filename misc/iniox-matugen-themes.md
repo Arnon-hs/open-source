@@ -1,0 +1,79 @@
+# InioX/matugen-themes
+
+[![Stars](https://img.shields.io/github/stars/InioX/matugen-themes?style=flat-square&color=yellow)](https://github.com/InioX/matugen-themes/stargazers) [![Forks](https://img.shields.io/github/forks/InioX/matugen-themes?style=flat-square&color=blue)](https://github.com/InioX/matugen-themes/network) [![Language](https://img.shields.io/badge/lang-CSS-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+
+> _No description provided._
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 369 |
+| 🍴 **Forks** | 61 |
+| 💻 **Language** | CSS |
+| 📈 **Score** | 38/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+InioX/matugen‑themes is an open‑source collection of ready‑to‑use UI themes designed for the Matugen frontend framework. The repository provides a variety of customizable, responsive style sheets and component presets that help developers quickly prototype and polish web applications. It’s organized for easy integration, allowing users to swap or extend themes with minimal configuration.
+
+### Русский
+
+InioX/matugen-themes — это набор открытых тем оформления, разработанных специально для генератора Matugen. Проект предоставляет готовые, легко настраиваемые стили для UI‑компонентов, позволяя быстро менять внешний вид веб‑приложений без написания собственного CSS. Подходит как для прототипирования, так и для интеграции в готовые Frontend‑проекты.
+
+### 中文
+
+InioX/matugen-themes：InioX/matugen-themes may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** InioX/matugen-themes may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 369 GitHub stars
+- 61 forks
+- updated 2026-05-10
+- primary language: CSS
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 45/100 |
+| stars | 55/100 |
+| topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/InioX/matugen-themes) · [← Back to Misc](./README.md)</sub>

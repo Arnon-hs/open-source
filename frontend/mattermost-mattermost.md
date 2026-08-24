@@ -65,16 +65,16 @@ mattermost/mattermost：mattermost/mattermost helps ship user-facing interfaces 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 59/100 |
-| adoption | 97/100 |
-| stars | 97/100 |
 | forks | 98/100 |
-| recency | 20/100 |
+| stars | 97/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

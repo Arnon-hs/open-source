@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Security
+DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ descope/descopecli：descope/descopecli helps engineers save time in daily devel
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 43/100 |
-| adoption | 38/100 |
-| stars | 44/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 50/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

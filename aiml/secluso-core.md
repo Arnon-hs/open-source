@@ -65,16 +65,16 @@ secluso/core：secluso/core helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 56/100 |
-| adoption | 57/100 |
-| stars | 65/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

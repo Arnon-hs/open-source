@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Knowledge/RAG · AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Facets-cloud/flow：Facets-cloud/flow helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 54/100 |
-| adoption | 37/100 |
-| stars | 44/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 49/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

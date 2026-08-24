@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ pipeshub-ai/pipeshub-ai: pipeshub-ai/pipeshub-ai helps turn isolated prompts and
 
 ### Русский
 
-pipeshub-ai/pipeshub-ai: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+pipeshub-ai/pipeshub-ai: open-source проект в категориях Orchestration, Knowledge/RAG, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ pipeshub-ai/pipeshub-ai：pipeshub-ai/pipeshub-ai helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 65/100 |
-| adoption | 72/100 |
-| stars | 74/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ yarnpkg/zpm：yarnpkg/zpm may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 42/100 |
-| adoption | 41/100 |
-| stars | 48/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 63/100 |
+| outlook | 42/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ netbirdio/netbird：netbirdio/netbird may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 75/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 58/100 |
-| adoption | 89/100 |
-| stars | 94/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

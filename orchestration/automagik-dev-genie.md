@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ automagik-dev/genie: automagik-dev/genie helps turn isolated prompts and tools i
 
 ### Русский
 
-automagik-dev/genie: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+automagik-dev/genie: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ automagik-dev/genie：automagik-dev/genie helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 60/100 |
-| adoption | 50/100 |
-| stars | 53/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

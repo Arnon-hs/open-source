@@ -65,16 +65,16 @@ penpot/penpot：penpot/penpot helps ship user-facing interfaces with less custom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 61/100 |
-| adoption | 96/100 |
-| stars | 99/100 |
 | forks | 87/100 |
-| recency | 20/100 |
+| stars | 99/100 |
 | topics | 88/100 |
+| outlook | 61/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

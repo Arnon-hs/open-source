@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ envoyproxy/ai-gateway: envoyproxy/ai-gateway helps add AI capability without sta
 
 ### Русский
 
-envoyproxy/ai-gateway: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+envoyproxy/ai-gateway: open-source проект в категориях AI/ML, Backend, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ envoyproxy/ai-gateway：envoyproxy/ai-gateway helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 54/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 88/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

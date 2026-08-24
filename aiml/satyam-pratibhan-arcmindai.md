@@ -65,16 +65,16 @@ SATYAM-PRATIBHAN/arcmindAI：SATYAM-PRATIBHAN/arcmindAI helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 36/100 |
-| stars | 45/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 44/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

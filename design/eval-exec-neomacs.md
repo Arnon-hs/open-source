@@ -1,0 +1,80 @@
+# eval-exec/neomacs
+
+[![Stars](https://img.shields.io/github/stars/eval-exec/neomacs?style=flat-square&color=yellow)](https://github.com/eval-exec/neomacs/stargazers) [![Forks](https://img.shields.io/github/forks/eval-exec/neomacs?style=flat-square&color=blue)](https://github.com/eval-exec/neomacs/network) [![Language](https://img.shields.io/badge/lang-Emacs%20Lisp-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+
+> NEO Emacs (WIP): A GPU-powered Emacs written in Rust with a modern display engine.  Aiming for modern design/multi-threaded Elisp, 10x performance and 100% Emacs compatibility. 🚀  Inline 4K images/4K videos/WPEWebKit using GPU acceleration, DMA-BUF, ZERO-COPY. Rich animation effects support.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 707 |
+| 🍴 **Forks** | 26 |
+| 💻 **Language** | Emacs Lisp |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`editor` `elisp` `emacs` `lambda` `lisp` `neomacs` `neovim` `productivity` `rust` `terminal` `vim` `wgpu`
+
+## 🎯 Categories
+
+Design
+
+## 📝 Summary
+
+### English
+
+Neomacs is a work‑in‑progress, GPU‑accelerated reimplementation of Emacs written in Rust. It aims for full Emacs compatibility while delivering a modern, multi‑threaded architecture with 10× speed gains, zero‑copy rendering of 4K images, videos and WPEWebKit content, and rich animation effects. The project targets developers interested in high‑performance, AI‑enhanced text editing and modern UI design.
+
+### Русский
+
+**eval‑exec/neomacs** – это экспериментальная версия Emacs, написанная на Rust и полностью использующая возможности GPU: современный графический движок, Zero‑Copy рендеринг, DMA‑BUF и ускорение через WPEWebKit позволяют отображать 4K‑изображения и видео в реальном времени. Проект стремится к полной совместимости с Emacs, многопоточному выполнению Elisp и производительности в 10 раз выше традиционного Emacs, предоставляя при этом богатые анимационные эффекты и гибкий дизайн. 🚀
+
+### 中文
+
+eval-exec/neomacs：eval-exec/neomacs may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** eval-exec/neomacs may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 707 GitHub stars
+- 26 forks
+- updated 2026-05-08
+- primary language: Emacs Lisp
+- 13 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 36/100 |
+| stars | 61/100 |
+| topics | 100/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/eval-exec/neomacs) · [← Back to Design](./README.md)</sub>

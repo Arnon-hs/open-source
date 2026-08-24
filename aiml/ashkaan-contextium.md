@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Ashkaan/contextium：Ashkaan/contextium helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 48/100 |
-| adoption | 26/100 |
-| stars | 31/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 31/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 26/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

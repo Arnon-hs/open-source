@@ -1,0 +1,82 @@
+# imdinu/apple-mail-mcp
+
+[![Stars](https://img.shields.io/github/stars/imdinu/apple-mail-mcp?style=flat-square&color=yellow)](https://github.com/imdinu/apple-mail-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/imdinu/apple-mail-mcp?style=flat-square&color=blue)](https://github.com/imdinu/apple-mail-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+
+> Apple Mail MCP server with full-text email search — the only one that works reliably on large mailboxes. 6 tools for Claude Desktop & Claude Code.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 21 |
+| 🍴 **Forks** | 10 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`apple-mail` `automation` `claude` `email` `fts5` `jxa` `macos` `mcp` `mcp-server` `model-context-protocol`
+
+## 🎯 Categories
+
+MCP · Automation · Backend
+
+## 📝 Summary
+
+### English
+
+im​dinu’s **apple‑mail‑mcp** is an open‑source Mail Content Provider (MCP) server for Apple Mail that adds fast, full‑text search capabilities, even on very large mailboxes where other solutions fail. It bundles six command‑line tools that integrate with Claude Desktop and Claude Code, enabling AI‑assisted email indexing, querying, and automation. The project targets backend developers and AI/ML enthusiasts who need reliable, searchable access to their Apple Mail data.
+
+### Русский
+
+im​dinu/apple-mail-mcp — это открытый сервер MCP для Apple Mail, обеспечивающий надёжный полнотекстовый поиск по письмам даже в огромных почтовых ящиках. Проект включает шесть утилит, интегрирующих возможности Claude Desktop и Claude Code, и ориентирован на задачи AI/ML и бекенд‑разработку. Он идеален для тех, кто нуждается в быстрой и масштабируемой индексации электронной корреспонденции.
+
+### 中文
+
+imdinu/apple-mail-mcp：imdinu/apple-mail-mcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** imdinu/apple-mail-mcp helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 21 GitHub stars
+- 10 forks
+- updated 2026-05-10
+- primary language: Python
+- 10 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 26/100 |
+| stars | 29/100 |
+| topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/imdinu/apple-mail-mcp) · [← Back to Mcp](./README.md)</sub>

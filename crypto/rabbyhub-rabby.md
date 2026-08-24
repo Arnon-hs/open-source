@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ RabbyHub/Rabby：RabbyHub/Rabby helps prototype or inspect blockchain workflows 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 69/100 |
-| stars | 69/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 75/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

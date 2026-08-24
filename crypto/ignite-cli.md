@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ignite/cli：ignite/cli helps prototype or inspect blockchain workflows with ope
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 60/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 67/100 |
-| stars | 67/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 63/100 |
+| outlook | 58/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

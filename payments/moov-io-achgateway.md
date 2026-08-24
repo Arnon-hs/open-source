@@ -65,16 +65,16 @@ moov-io/achgateway：moov-io/achgateway helps integrate monetization, billing, o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 40/100 |
-| stars | 41/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 41/100 |
 | topics | 88/100 |
+| outlook | 44/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

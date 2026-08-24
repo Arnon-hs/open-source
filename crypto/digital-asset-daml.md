@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Design
+Crypto · Automation · Design
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ digital-asset/daml：digital-asset/daml helps prototype or inspect blockchain wo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 61/100 |
-| adoption | 62/100 |
-| stars | 63/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

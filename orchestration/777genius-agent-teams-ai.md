@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Orchestration · AI/ML · Frontend
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 61/100 |
-| stars | 63/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

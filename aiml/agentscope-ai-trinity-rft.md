@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ agentscope-ai/Trinity-RFT：agentscope-ai/Trinity-RFT helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 49/100 |
-| adoption | 56/100 |
-| stars | 59/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 38/100 |
+| outlook | 49/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

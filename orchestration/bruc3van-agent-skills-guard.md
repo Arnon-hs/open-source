@@ -65,16 +65,16 @@ bruc3van/agent-skills-guard：bruc3van/agent-skills-guard helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 47/100 |
-| adoption | 49/100 |
-| stars | 54/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 63/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

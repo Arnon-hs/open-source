@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ aofp/yume：aofp/yume helps turn isolated prompts and tools into repeatable agen
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 52/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 39/100 |
-| stars | 45/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

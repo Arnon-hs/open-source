@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Product
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -62,16 +62,16 @@ Vibe Coding Works Until It Doesn't. Here's What I Do Instead.：Vibe Coding Work
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 25/100 |
-| integration | 30/100 |
-| production | 32/100 |
-| outlook | 32/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 32/100 |
+| quality | 25/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 32/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
 
 ---

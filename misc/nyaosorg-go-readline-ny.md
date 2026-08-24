@@ -63,16 +63,16 @@ nyaosorg/go-readline-ny：nyaosorg/go-readline-ny may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 40/100 |
-| adoption | 29/100 |
-| stars | 33/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 75/100 |
+| outlook | 40/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

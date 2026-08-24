@@ -65,16 +65,16 @@ hoppscotch/hoppscotch：hoppscotch/hoppscotch helps ship user-facing interfaces 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 79/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 70/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 61/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

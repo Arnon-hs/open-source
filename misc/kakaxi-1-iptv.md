@@ -62,16 +62,16 @@ kakaxi-1/IPTV：kakaxi-1/IPTV may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 39/100 |
-| adoption | 54/100 |
-| stars | 56/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

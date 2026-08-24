@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Priivacy-ai/spec-kitty: Priivacy-ai/spec-kitty helps turn isolated prompts and t
 
 ### Русский
 
-Priivacy-ai/spec-kitty: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Priivacy-ai/spec-kitty: open-source проект в категориях Orchestration, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Priivacy-ai/spec-kitty：Priivacy-ai/spec-kitty helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 62/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ DestinyItemManager/DIM：DestinyItemManager/DIM helps ship user-facing interface
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 71/100 |
-| stars | 71/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 50/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · AI/ML · Education
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ NeverSight/learn-skills.dev：NeverSight/learn-skills.dev helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 45/100 |
-| adoption | 43/100 |
-| stars | 45/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 25/100 |
+| outlook | 45/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 42/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

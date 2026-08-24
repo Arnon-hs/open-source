@@ -65,16 +65,16 @@ openxlings/xlings：openxlings/xlings helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 54/100 |
-| stars | 59/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ syncable-dev/memtrace-public: syncable-dev/memtrace-public helps turn isolated p
 
 ### Русский
 
-syncable-dev/memtrace-public: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+syncable-dev/memtrace-public: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ syncable-dev/memtrace-public：syncable-dev/memtrace-public helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 57/100 |
-| adoption | 41/100 |
-| stars | 46/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

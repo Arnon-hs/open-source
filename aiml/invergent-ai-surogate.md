@@ -65,16 +65,16 @@ invergent-ai/surogate：invergent-ai/surogate helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 45/100 |
-| adoption | 39/100 |
-| stars | 48/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

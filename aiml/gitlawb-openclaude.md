@@ -65,16 +65,16 @@ Gitlawb/openclaude：Gitlawb/openclaude helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 65/100 |
-| adoption | 95/100 |
-| stars | 94/100 |
 | forks | 98/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 63/100 |
+| outlook | 65/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

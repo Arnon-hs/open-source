@@ -63,16 +63,16 @@ Automattic/pocket-casts-android：Automattic/pocket-casts-android may be useful 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 70/100 |
-| stars | 73/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 25/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

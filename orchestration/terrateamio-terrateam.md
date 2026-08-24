@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · Automation · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ terrateamio/terrateam：terrateamio/terrateam helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 60/100 |
-| adoption | 60/100 |
-| stars | 66/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 49/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

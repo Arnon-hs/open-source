@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ gaoyangz77/rivonclaw：gaoyangz77/rivonclaw helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 42/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 44/100 |
-| adoption | 50/100 |
-| stars | 51/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 44/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

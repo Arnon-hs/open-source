@@ -66,16 +66,16 @@ changyeyu/LLM-RL-Visualized：changyeyu/LLM-RL-Visualized helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 54/100 |
-| adoption | 74/100 |
-| stars | 77/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

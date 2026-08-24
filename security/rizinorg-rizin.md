@@ -65,16 +65,16 @@ rizinorg/rizin：rizinorg/rizin helps catch security and privacy issues earlier 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 56/100 |
-| adoption | 74/100 |
-| stars | 76/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

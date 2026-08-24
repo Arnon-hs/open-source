@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML · Database · DevOps/Infra · Education
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ MicrosoftDocs/Agent-Skills：MicrosoftDocs/Agent-Skills helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 54/100 |
-| stars | 58/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

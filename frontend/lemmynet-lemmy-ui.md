@@ -65,16 +65,16 @@ LemmyNet/lemmy-ui：LemmyNet/lemmy-ui helps ship user-facing interfaces with les
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 46/100 |
-| adoption | 64/100 |
-| stars | 64/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 50/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

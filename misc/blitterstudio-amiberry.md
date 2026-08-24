@@ -63,16 +63,16 @@ BlitterStudio/amiberry：BlitterStudio/amiberry may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 50/100 |
-| adoption | 60/100 |
-| stars | 63/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

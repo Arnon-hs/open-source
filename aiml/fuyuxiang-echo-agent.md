@@ -64,16 +64,16 @@ fuyuxiang/echo-agent：fuyuxiang/echo-agent helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 37/100 |
-| integration | 46/100 |
-| production | 42/100 |
-| outlook | 38/100 |
-| adoption | 38/100 |
-| stars | 44/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 37/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

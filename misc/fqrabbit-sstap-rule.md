@@ -63,16 +63,16 @@ FQrabbit/SSTap-Rule：FQrabbit/SSTap-Rule may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 80/100 |
-| stars | 81/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 25/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

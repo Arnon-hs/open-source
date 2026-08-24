@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ shanraisshan/claude-code-best-practice: shanraisshan/claude-code-best-practice h
 
 ### Русский
 
-shanraisshan/claude-code-best-practice: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+shanraisshan/claude-code-best-practice: open-source проект в категориях Orchestration, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ shanraisshan/claude-code-best-practice：shanraisshan/claude-code-best-practice 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 79/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 66/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 93/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ zhikunqingtao/zhikuncode：zhikunqingtao/zhikuncode helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 48/100 |
-| stars | 50/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

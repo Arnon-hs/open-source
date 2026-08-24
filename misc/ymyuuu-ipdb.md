@@ -61,16 +61,16 @@ ymyuuu/IPDB：ymyuuu/IPDB may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 43/100 |
-| adoption | 72/100 |
-| stars | 72/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

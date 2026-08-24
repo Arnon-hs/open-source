@@ -65,16 +65,16 @@ schemathesis/schemathesis：schemathesis/schemathesis helps teams reuse service 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 70/100 |
-| stars | 75/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

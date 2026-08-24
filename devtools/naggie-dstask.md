@@ -65,16 +65,16 @@ naggie/dstask：naggie/dstask helps engineers save time in daily development and
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 60/100 |
-| stars | 65/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

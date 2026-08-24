@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ zaxbysauce/opencode-swarm: zaxbysauce/opencode-swarm helps turn isolated prompts
 
 ### Русский
 
-zaxbysauce/opencode-swarm: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+zaxbysauce/opencode-swarm: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ zaxbysauce/opencode-swarm：zaxbysauce/opencode-swarm helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 57/100 |
-| integration | 94/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 49/100 |
-| stars | 53/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

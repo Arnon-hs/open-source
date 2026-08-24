@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Backend
+Crypto · Trading · MCP · Backend · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ truss44/mcp-crypto-price：truss44/mcp-crypto-price helps prototype or inspect b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 49/100 |
-| integration | 94/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 32/100 |
-| stars | 34/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 34/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

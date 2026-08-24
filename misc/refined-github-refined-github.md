@@ -63,16 +63,16 @@ refined-github/refined-github：refined-github/refined-github may be useful when
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 92/100 |
-| stars | 96/100 |
 | forks | 81/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # agentic-community/mcp-gateway-registry
 
-[![Stars](https://img.shields.io/github/stars/agentic-community/mcp-gateway-registry?style=flat-square&color=yellow)](https://github.com/agentic-community/mcp-gateway-registry/stargazers) [![Forks](https://img.shields.io/github/forks/agentic-community/mcp-gateway-registry?style=flat-square&color=blue)](https://github.com/agentic-community/mcp-gateway-registry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentic-community/mcp-gateway-registry?style=flat-square&color=yellow)](https://github.com/agentic-community/mcp-gateway-registry/stargazers) [![Forks](https://img.shields.io/github/forks/agentic-community/mcp-gateway-registry?style=flat-square&color=blue)](https://github.com/agentic-community/mcp-gateway-registry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 783 |
-| 🍴 **Forks** | 204 |
+| ⭐ **Stars** | 637 |
+| 🍴 **Forks** | 164 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-11 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · Database
+MCP · Automation · AI/ML · Database · DevOps/Infra
 
 ## 📝 Summary
 
 ### English
 
-agentic-community/mcp-gateway-registry: agentic-community/mcp-gateway-registry helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+agentic-community/mcp-gateway-registry: agentic-community/mcp-gateway-registry helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-agentic-community/mcp-gateway-registry: open-source проект в категориях MCP, Automation, AI/ML, Backend, Database. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+agentic-community/mcp-gateway-registry: open-source проект в категориях MCP, Automation, AI/ML, Database, DevOps/Infra. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-agentic-community/mcp-gateway-registry：agentic-community/mcp-gateway-registry helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+agentic-community/mcp-gateway-registry：agentic-community/mcp-gateway-registry helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ agentic-community/mcp-gateway-registry：agentic-community/mcp-gateway-registry 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 783 GitHub stars
-- 204 forks
-- updated 2026-07-11
+- 637 GitHub stars
+- 164 forks
+- updated 2026-05-07
 - primary language: Python
 - 19 topics
 
@@ -65,18 +65,18 @@ agentic-community/mcp-gateway-registry：agentic-community/mcp-gateway-registry 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 82/100 |
-| integration | 78/100 |
-| production | 82/100 |
-| outlook | 90/100 |
-| adoption | 61/100 |
-| stars | 62/100 |
-| forks | 58/100 |
-| recency | 100/100 |
+| forks | 55/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-11 · [View on GitHub](https://github.com/agentic-community/mcp-gateway-registry) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/agentic-community/mcp-gateway-registry) · [← Back to Mcp](./README.md)</sub>

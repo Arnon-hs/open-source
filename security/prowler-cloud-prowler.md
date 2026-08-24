@@ -65,16 +65,16 @@ prowler-cloud/prowler：prowler-cloud/prowler helps catch security and privacy i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 87/100 |
-| stars | 88/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

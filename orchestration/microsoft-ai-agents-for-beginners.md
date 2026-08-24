@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ microsoft/ai-agents-for-beginners: microsoft/ai-agents-for-beginners helps turn 
 
 ### Русский
 
-microsoft/ai-agents-for-beginners: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+microsoft/ai-agents-for-beginners: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ microsoft/ai-agents-for-beginners：microsoft/ai-agents-for-beginners helps turn
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 80/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 70/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

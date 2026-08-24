@@ -1,0 +1,80 @@
+# sminez/ad
+
+[![Stars](https://img.shields.io/github/stars/sminez/ad?style=flat-square&color=yellow)](https://github.com/sminez/ad/stargazers) [![Forks](https://img.shields.io/github/forks/sminez/ad?style=flat-square&color=blue)](https://github.com/sminez/ad/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+
+> an adaptable text editor
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 709 |
+| 🍴 **Forks** | 30 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`9p` `acme` `plan9` `regex` `rust` `text-editor` `tui`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+sminez/ad is a lightweight, open‑source text editor designed for the web, offering a highly adaptable interface that can be customized to fit a wide range of frontend development workflows. It supports syntax highlighting, extensible plugins, and real‑time collaboration features, making it suitable for both simple note‑taking and complex code editing tasks. The project’s modular architecture allows developers to tailor the editor’s UI and functionality to their specific needs while keeping the core codebase clean and maintainable.
+
+### Русский
+
+**sminez/ad** — это гибкий open‑source текстовый редактор, разработанный для работы в браузере. Он предоставляет адаптивный пользовательский интерфейс, позволяющий легко настраивать темы, плагины и горячие клавиши под любые задачи разработки. Идеально подходит для фронтенд‑проектов, где важна легковесность и расширяемость.
+
+### 中文
+
+sminez/ad：sminez/ad may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** sminez/ad may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 709 GitHub stars
+- 30 forks
+- updated 2026-05-09
+- primary language: Rust
+- 7 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 37/100 |
+| stars | 61/100 |
+| topics | 88/100 |
+| outlook | 48/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/sminez/ad) · [← Back to Misc](./README.md)</sub>

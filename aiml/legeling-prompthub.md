@@ -65,16 +65,16 @@ legeling/PromptHub：legeling/PromptHub helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 59/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

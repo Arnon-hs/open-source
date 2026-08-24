@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Frontend · Design
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ nexu-io/open-design: nexu-io/open-design helps turn isolated prompts and tools i
 
 ### Русский
 
-nexu-io/open-design: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+nexu-io/open-design: open-source проект в категориях Orchestration, AI/ML, Frontend, Design. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ nexu-io/open-design：nexu-io/open-design helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 68/100 |
-| adoption | 94/100 |
-| stars | 96/100 |
 | forks | 88/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

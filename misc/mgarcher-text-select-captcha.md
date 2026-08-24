@@ -62,16 +62,16 @@ MgArcher/Text_select_captcha：MgArcher/Text_select_captcha may be useful when i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 42/100 |
-| adoption | 68/100 |
-| stars | 68/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

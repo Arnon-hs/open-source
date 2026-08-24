@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ openkursar/hello-halo：openkursar/hello-halo helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 48/100 |
-| adoption | 63/100 |
-| stars | 67/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · DevTools · DevOps/Infra
+Orchestration · Automation · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ cloudposse/atmos：cloudposse/atmos helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 63/100 |
-| adoption | 63/100 |
-| stars | 66/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Mobile
+Crypto · Mobile · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ gmh5225/awesome-game-security：gmh5225/awesome-game-security helps prototype or
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 71/100 |
-| stars | 74/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

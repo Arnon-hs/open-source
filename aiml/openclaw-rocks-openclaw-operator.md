@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Security
+AI/ML · Observability · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ openclaw-rocks/openclaw-operator：openclaw-rocks/openclaw-operator helps add AI
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 52/100 |
-| stars | 54/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 88/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

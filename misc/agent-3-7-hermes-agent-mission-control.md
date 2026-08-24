@@ -1,0 +1,79 @@
+# Agent-3-7/hermes-agent-mission-control
+
+[![Stars](https://img.shields.io/github/stars/Agent-3-7/hermes-agent-mission-control?style=flat-square&color=yellow)](https://github.com/Agent-3-7/hermes-agent-mission-control/stargazers) [![Forks](https://img.shields.io/github/forks/Agent-3-7/hermes-agent-mission-control?style=flat-square&color=blue)](https://github.com/Agent-3-7/hermes-agent-mission-control/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+
+> Mission Control Kanban for your Hermes Agent
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 302 |
+| 🍴 **Forks** | 12 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Agent‑3‑7’s **hermes‑agent‑mission‑control** is an open‑source Kanban‑style dashboard that lets you monitor, organize, and manage tasks for Hermes AI agents in real time. It provides a visual board for creating, assigning, and tracking missions, integrates with the Hermes agent framework, and offers customizable workflows to streamline AI‑driven operations. Ideal for developers who need a lightweight, collaborative interface to coordinate multiple autonomous agents.
+
+### Русский
+
+**Agent‑3‑7/hermes-agent-mission-control** – это open‑source‑инструмент, превращающий управление задачами Hermes‑агента в визуальную Kanban‑доску. Он позволяет планировать, отслеживать и приоритизировать миссии AI‑агентов в реальном времени, интегрируясь с существующей инфраструктурой Hermes и поддерживая гибкую настройку воркфлоу. Благодаря простому веб‑интерфейсу и открытой архитектуре проект ускоряет разработку и эксплуатацию интеллектуальных систем.
+
+### 中文
+
+Agent-3-7/hermes-agent-mission-control：Agent-3-7/hermes-agent-mission-control may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** Agent-3-7/hermes-agent-mission-control may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 302 GitHub stars
+- 12 forks
+- updated 2026-05-09
+- primary language: TypeScript
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 28/100 |
+| stars | 53/100 |
+| topics | 0/100 |
+| outlook | 40/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Agent-3-7/hermes-agent-mission-control) · [← Back to Misc](./README.md)</sub>

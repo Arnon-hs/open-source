@@ -65,16 +65,16 @@ stripe/stripe-react-native：stripe/stripe-react-native helps integrate monetiza
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 66/100 |
-| stars | 67/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 38/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

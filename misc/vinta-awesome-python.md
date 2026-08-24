@@ -63,16 +63,16 @@ vinta/awesome-python：vinta/awesome-python may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 64/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 75/100 |
+| outlook | 64/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ bug-ops/zeph：bug-ops/zeph helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 47/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 54/100 |
-| adoption | 27/100 |
-| stars | 32/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 48/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

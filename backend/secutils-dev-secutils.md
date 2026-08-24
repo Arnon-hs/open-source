@@ -1,0 +1,82 @@
+# secutils-dev/secutils
+
+[![Stars](https://img.shields.io/github/stars/secutils-dev/secutils?style=flat-square&color=yellow)](https://github.com/secutils-dev/secutils/stargazers) [![Forks](https://img.shields.io/github/forks/secutils-dev/secutils?style=flat-square&color=blue)](https://github.com/secutils-dev/secutils/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+
+> Secutils.dev is an open-source, versatile, yet simple security toolbox for engineers and researchers
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 101 |
+| 🍴 **Forks** | 3 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`api` `certificate-authority` `certificates` `cyber-threat-intelligence` `developer-tools` `dsa` `ec` `open-security` `pem` `pkcs12` `pkcs8` `rsa-cryptography`
+
+## 🎯 Categories
+
+Backend · DevTools · Security
+
+## 📝 Summary
+
+### English
+
+Secutils.dev is an open‑source security toolbox that provides engineers and researchers with a collection of lightweight, easy‑to‑integrate utilities for cryptographic operations, backend security checks, and general dev‑tool workflows. Designed for simplicity without sacrificing flexibility, it bundles common crypto primitives, token handling, and security‑related helpers that can be used directly in applications or scripts. The project aims to streamline secure development and testing across a variety of platforms.
+
+### Русский
+
+Secutils.dev — это открытый набор инструментов безопасности, объединяющий криптографические функции, серверные утилиты и вспомогательные DevTools в простом и удобном интерфейсе. Проект ориентирован на инженеров и исследователей, которым нужны надёжные и гибкие решения для анализа, шифрования и автоматизации задач безопасности. Он полностью открыт, легко расширяется и интегрируется в любые backend‑системы.
+
+### 中文
+
+secutils-dev/secutils：secutils-dev/secutils helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** secutils-dev/secutils helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+
+**Best use cases**
+
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 101 GitHub stars
+- 3 forks
+- updated 2026-05-09
+- primary language: Rust
+- 16 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 15/100 |
+| stars | 43/100 |
+| topics | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/secutils-dev/secutils) · [← Back to Backend](./README.md)</sub>

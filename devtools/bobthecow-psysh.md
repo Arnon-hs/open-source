@@ -65,16 +65,16 @@ bobthecow/psysh：bobthecow/psysh helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 79/100 |
-| stars | 85/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

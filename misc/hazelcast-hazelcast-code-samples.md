@@ -62,16 +62,16 @@ hazelcast/hazelcast-code-samples：hazelcast/hazelcast-code-samples may be usefu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 41/100 |
-| adoption | 62/100 |
-| stars | 59/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

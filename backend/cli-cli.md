@@ -65,16 +65,16 @@ cli/cli：cli/cli helps teams reuse service infrastructure instead of rebuilding
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 72/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 65/100 |
-| adoption | 99/100 |
-| stars | 99/100 |
 | forks | 98/100 |
-| recency | 20/100 |
+| stars | 99/100 |
 | topics | 50/100 |
+| outlook | 65/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 59/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

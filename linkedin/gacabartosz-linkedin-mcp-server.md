@@ -69,6 +69,7 @@ gacabartosz/linkedin-mcp-server：gacabartosz/linkedin-mcp-server may be useful 
 | production | 55/100 |
 | outlook | 57/100 |
 | adoption | 14/100 |
+| categoryMatchCount | 700/100 |
 | stars | 17/100 |
 | forks | 8/100 |
 | recency | 80/100 |

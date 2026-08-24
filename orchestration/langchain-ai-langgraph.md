@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ langchain-ai/langgraph: langchain-ai/langgraph helps turn isolated prompts and t
 
 ### Русский
 
-langchain-ai/langgraph: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+langchain-ai/langgraph: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ langchain-ai/langgraph：langchain-ai/langgraph helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 78/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 69/100 |
-| adoption | 95/100 |
-| stars | 96/100 |
 | forks | 93/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 69/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 59/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

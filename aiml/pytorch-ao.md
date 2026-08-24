@@ -1,6 +1,6 @@
 # pytorch/ao
 
-[![Stars](https://img.shields.io/github/stars/pytorch/ao?style=flat-square&color=yellow)](https://github.com/pytorch/ao/stargazers) [![Forks](https://img.shields.io/github/forks/pytorch/ao?style=flat-square&color=blue)](https://github.com/pytorch/ao/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pytorch/ao?style=flat-square&color=yellow)](https://github.com/pytorch/ao/stargazers) [![Forks](https://img.shields.io/github/forks/pytorch/ao?style=flat-square&color=blue)](https://github.com/pytorch/ao/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > PyTorch native quantization and sparsity for training and inference
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 493 |
+| 🍴 **Forks** | 502 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 53/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`brrr` `cuda` `dtypes` `float8` `inference` `llama` `mx` `pytorch` `quantization` `sparsity` `training` `transformer`
 
 ## 🎯 Categories
 
@@ -25,8 +25,58 @@ AI/ML
 
 ## 📝 Summary
 
-pytorch/ao is a promising open-source project. Categories: AI/ML. Interest score: 77/100.
+### English
+
+pytorch/ao is an open‑source library that brings native quantization and sparsity capabilities directly into PyTorch, enabling developers to train and deploy models with reduced precision and fewer active parameters for faster, more memory‑efficient inference. It provides a unified API for both research and production workflows, supporting a range of hardware accelerators and simplifying the integration of model compression techniques into AI/ML pipelines.
+
+### Русский
+
+pytorch/ao — это open‑source библиотека, реализующая нативные возможности PyTorch для квантования и разрежения моделей как во время обучения, так и при инференсе. Она позволяет существенно уменьшить размер и ускорить вычисления нейросетей без заметной потери точности, что особенно ценно в задачах AI/ML и финансового трейдинга. Проект активно поддерживается сообществом и интегрируется в существующие пайплайны PyTorch.
+
+### 中文
+
+pytorch/ao：pytorch/ao helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** pytorch/ao helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 2820 GitHub stars
+- 502 forks
+- updated 2026-05-08
+- primary language: Python
+- 12 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 68/100 |
+| stars | 73/100 |
+| topics | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-22 · [View on GitHub](https://github.com/pytorch/ao) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/pytorch/ao) · [← Back to AI/ML](./README.md)</sub>

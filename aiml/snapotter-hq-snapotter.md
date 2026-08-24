@@ -65,16 +65,16 @@ snapotter-hq/SnapOtter：snapotter-hq/SnapOtter helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 59/100 |
-| stars | 66/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

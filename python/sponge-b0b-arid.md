@@ -67,6 +67,7 @@ sponge-b0b/arid：sponge-b0b/arid may be useful when its README and activity mat
 | production | 59/100 |
 | outlook | 53/100 |
 | adoption | 9/100 |
+| categoryMatchCount | 600/100 |
 | stars | 13/100 |
 | forks | 0/100 |
 | recency | 100/100 |

@@ -63,16 +63,16 @@ rohitg00/awesome-openclaw：rohitg00/awesome-openclaw may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 34/100 |
-| production | 43/100 |
-| outlook | 39/100 |
-| adoption | 56/100 |
-| stars | 57/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 34/100 |
 | sourceTrust | 100/100 |
 
 ---

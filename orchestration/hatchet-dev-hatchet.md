@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · Automation
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ hatchet-dev/hatchet: hatchet-dev/hatchet helps turn isolated prompts and tools i
 
 ### Русский
 
-hatchet-dev/hatchet: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+hatchet-dev/hatchet: open-source проект в категориях Orchestration, Automation. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ hatchet-dev/hatchet：hatchet-dev/hatchet helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 70/100 |
-| integration | 94/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 77/100 |
-| stars | 82/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

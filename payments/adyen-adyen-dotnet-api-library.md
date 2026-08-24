@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend · DevTools
+Payments · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Adyen/adyen-dotnet-api-library：Adyen/adyen-dotnet-api-library helps integrate 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 46/100 |
-| stars | 44/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

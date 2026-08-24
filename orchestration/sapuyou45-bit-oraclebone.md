@@ -70,6 +70,7 @@ sapuyou45-bit/oraclebone：sapuyou45-bit/oraclebone helps turn isolated prompts 
 | production | 69/100 |
 | outlook | 73/100 |
 | adoption | 11/100 |
+| categoryMatchCount | 400/100 |
 | stars | 15/100 |
 | forks | 0/100 |
 | recency | 100/100 |

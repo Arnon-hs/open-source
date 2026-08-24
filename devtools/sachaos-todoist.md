@@ -65,16 +65,16 @@ sachaos/todoist：sachaos/todoist helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 64/100 |
-| stars | 69/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 63/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

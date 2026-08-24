@@ -65,16 +65,16 @@ ducaale/xh：ducaale/xh helps teams reuse service infrastructure instead of rebu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 61/100 |
-| adoption | 74/100 |
-| stars | 83/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 75/100 |
+| outlook | 61/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ finch04/online-mooc：finch04/online-mooc helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 51/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

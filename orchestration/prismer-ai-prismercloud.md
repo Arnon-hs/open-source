@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Prismer-AI/PrismerCloud：Prismer-AI/PrismerCloud helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 60/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 61/100 |
-| adoption | 56/100 |
-| stars | 67/100 |
 | forks | 27/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

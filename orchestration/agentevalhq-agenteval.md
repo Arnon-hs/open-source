@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ AgentEvalHQ/AgentEval：AgentEvalHQ/AgentEval helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 56/100 |
-| adoption | 37/100 |
-| stars | 42/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 42/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 47/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

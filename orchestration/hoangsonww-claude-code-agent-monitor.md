@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Frontend · Backend · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ hoangsonww/Claude-Code-Agent-Monitor：hoangsonww/Claude-Code-Agent-Monitor help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 60/100 |
-| adoption | 52/100 |
-| stars | 54/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

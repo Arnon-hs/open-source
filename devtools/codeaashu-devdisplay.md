@@ -65,16 +65,16 @@ codeaashu/DevDisplay：codeaashu/DevDisplay helps engineers save time in daily d
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 53/100 |
-| adoption | 57/100 |
-| stars | 54/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

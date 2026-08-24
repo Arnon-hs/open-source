@@ -65,16 +65,16 @@ getpaykit/paykit：getpaykit/paykit helps integrate monetization, billing, or PS
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 56/100 |
-| stars | 63/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

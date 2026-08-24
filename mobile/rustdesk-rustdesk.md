@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Mobile · Design
+Mobile
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ RustDesk — это полностью открытое приложение �
 
 ### 中文
 
-rustdesk/rustdesk：rustdesk/rustdesk may be useful when its README and activity match a concrete workflow.。适合用于Mobile、Design。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rustdesk/rustdesk：rustdesk/rustdesk may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -63,16 +63,16 @@ rustdesk/rustdesk：rustdesk/rustdesk may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 80/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ lthoangg/OpenAgentd：lthoangg/OpenAgentd helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 52/100 |
-| adoption | 42/100 |
-| stars | 45/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 63/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 46/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

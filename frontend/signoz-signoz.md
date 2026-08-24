@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data
+Frontend · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ SigNoz/signoz: SigNoz/signoz helps ship user-facing interfaces with less custom 
 
 ### Русский
 
-SigNoz/signoz: open-source проект в категориях Frontend, Data. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SigNoz/signoz: open-source проект в категориях Frontend, Observability. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ SigNoz/signoz：SigNoz/signoz helps ship user-facing interfaces with less custom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 68/100 |
-| adoption | 91/100 |
-| stars | 94/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

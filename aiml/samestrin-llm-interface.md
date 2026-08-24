@@ -65,16 +65,16 @@ samestrin/llm-interface：samestrin/llm-interface helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 40/100 |
-| stars | 44/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ gfwlist/gfwlist：gfwlist/gfwlist may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 93/100 |
-| stars | 94/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

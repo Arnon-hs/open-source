@@ -65,16 +65,16 @@ jedzqer/manga-translator-android：jedzqer/manga-translator-android helps add AI
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 46/100 |
-| adoption | 46/100 |
-| stars | 53/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 88/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

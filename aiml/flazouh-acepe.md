@@ -65,16 +65,16 @@ flazouh/acepe：flazouh/acepe helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 51/100 |
-| adoption | 35/100 |
-| stars | 40/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 40/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

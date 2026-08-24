@@ -65,16 +65,16 @@ dyad-sh/dyad：dyad-sh/dyad helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 75/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 90/100 |
-| stars | 92/100 |
 | forks | 84/100 |
-| recency | 20/100 |
+| stars | 92/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

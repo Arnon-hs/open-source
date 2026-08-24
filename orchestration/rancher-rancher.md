@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ rancher/rancher: rancher/rancher helps turn isolated prompts and tools into repe
 
 ### Русский
 
-rancher/rancher: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rancher/rancher: open-source проект в категориях Orchestration, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ rancher/rancher：rancher/rancher helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 56/100 |
-| adoption | 92/100 |
-| stars | 94/100 |
 | forks | 88/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 75/100 |
+| outlook | 56/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 59/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

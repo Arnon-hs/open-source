@@ -1,6 +1,6 @@
 # arc53/DocsGPT
 
-[![Stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=flat-square&color=yellow)](https://github.com/arc53/DocsGPT/stargazers) [![Forks](https://img.shields.io/github/forks/arc53/DocsGPT?style=flat-square&color=blue)](https://github.com/arc53/DocsGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=flat-square&color=yellow)](https://github.com/arc53/DocsGPT/stargazers) [![Forks](https://img.shields.io/github/forks/arc53/DocsGPT?style=flat-square&color=blue)](https://github.com/arc53/DocsGPT/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18k |
-| 🍴 **Forks** | 2.1k |
+| ⭐ **Stars** | 17.9k |
+| 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · Frontend · Backend · Database
+Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
 ### English
 
-arc53/DocsGPT: arc53/DocsGPT helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Arc53 DocsGPT is an open‑source private AI platform that enables the creation of intelligent agents, assistants, and enterprise‑grade search capabilities. It offers a built‑in Agent Builder, deep research and document‑analysis tools, multi‑model support, and API connectivity to integrate external services, making it suitable for both frontend and backend implementations in AI/ML projects.
 
 ### Русский
 
-arc53/DocsGPT: open-source проект в категориях Knowledge/RAG, AI/ML, Frontend, Backend, Database. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Arc53/DocsGPT — это открытая платформа искусственного интеллекта, предназначенная для создания агентов, ассистентов и корпоративного поиска. В неё встроены конструктор агентов, инструменты глубинного исследования, анализ документов, поддержка мультимодальных моделей и API‑интеграция, что позволяет быстро разрабатывать интеллектуальные решения как на фронтенде, так и на бэкенде. Проект ориентирован на AI/ML‑сообщество и подходит для масштабных корпоративных задач.
 
 ### 中文
 
-arc53/DocsGPT：arc53/DocsGPT helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+arc53/DocsGPT：arc53/DocsGPT helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ arc53/DocsGPT：arc53/DocsGPT helps make internal knowledge searchable and usabl
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 17968 GitHub stars
-- 2069 forks
-- updated 2026-07-04
+- 17871 GitHub stars
+- 2034 forks
+- updated 2026-05-09
 - primary language: Python
 - 19 topics
 
@@ -65,18 +65,18 @@ arc53/DocsGPT：arc53/DocsGPT helps make internal knowledge searchable and usabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 95/100 |
-| integration | 62/100 |
-| production | 84/100 |
-| outlook | 95/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
 | forks | 83/100 |
-| recency | 100/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/arc53/DocsGPT) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/arc53/DocsGPT) · [← Back to Knowledgerag](./README.md)</sub>

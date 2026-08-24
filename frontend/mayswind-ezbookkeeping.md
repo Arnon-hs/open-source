@@ -65,16 +65,16 @@ mayswind/ezbookkeeping：mayswind/ezbookkeeping helps ship user-facing interface
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 57/100 |
-| adoption | 75/100 |
-| stars | 78/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

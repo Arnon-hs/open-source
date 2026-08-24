@@ -65,16 +65,16 @@ wboayue/rust-ibapi：wboayue/rust-ibapi helps research and automate market workf
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 52/100 |
-| stars | 53/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

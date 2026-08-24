@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Design
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ langgraph4j/langgraph4j：langgraph4j/langgraph4j helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 56/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 75/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

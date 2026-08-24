@@ -65,16 +65,16 @@ openclaw/goplaces：openclaw/goplaces helps engineers save time in daily develop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 48/100 |
-| adoption | 46/100 |
-| stars | 50/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 75/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

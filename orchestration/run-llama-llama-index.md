@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Knowledge/RAG · AI/ML · Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ run-llama/llama_index: run-llama/llama_index helps turn isolated prompts and too
 
 ### Русский
 
-run-llama/llama_index: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+run-llama/llama_index: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, Data, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ run-llama/llama_index：run-llama/llama_index helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 70/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 97/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

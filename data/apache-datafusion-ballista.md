@@ -65,16 +65,16 @@ apache/datafusion-ballista：apache/datafusion-ballista helps convert raw data i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 68/100 |
-| stars | 70/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

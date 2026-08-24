@@ -64,16 +64,16 @@ docker/docsï¼šdocker/docs helps make deployment and operations more repeatable.ã
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 46/100 |
-| adoption | 84/100 |
-| stars | 78/100 |
 | forks | 98/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 0/100 |
+| outlook | 46/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

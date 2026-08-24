@@ -63,16 +63,16 @@ antlr/grammars-v4：antlr/grammars-v4 may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 48/100 |
-| adoption | 87/100 |
-| stars | 86/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 13/100 |
+| outlook | 48/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

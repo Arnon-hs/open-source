@@ -63,16 +63,16 @@ oppia/oppia：oppia/oppia may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 57/100 |
-| adoption | 85/100 |
-| stars | 81/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

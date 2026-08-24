@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ JabRef/jabref: JabRef/jabref helps add AI capability without starting from a bla
 
 ### Русский
 
-JabRef/jabref: open-source проект в категориях AI/ML, Frontend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+JabRef/jabref: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ JabRef/jabref：JabRef/jabref helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 80/100 |
-| stars | 77/100 |
 | forks | 88/100 |
-| recency | 20/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

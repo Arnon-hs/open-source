@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML · Data · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ opsrobot-ai/opsrobot：opsrobot-ai/opsrobot helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 56/100 |
-| adoption | 38/100 |
-| stars | 45/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 45/100 |
+| usefulness | 100/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

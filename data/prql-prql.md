@@ -65,16 +65,16 @@ PRQL/prql：PRQL/prql helps convert raw data into searchable, analyzable, or aut
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 79/100 |
-| stars | 86/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 38/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

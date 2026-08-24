@@ -1,0 +1,79 @@
+# PozzettiAndrea/ComfyUI-SAM3
+
+[![Stars](https://img.shields.io/github/stars/PozzettiAndrea/ComfyUI-SAM3?style=flat-square&color=yellow)](https://github.com/PozzettiAndrea/ComfyUI-SAM3/stargazers) [![Forks](https://img.shields.io/github/forks/PozzettiAndrea/ComfyUI-SAM3?style=flat-square&color=blue)](https://github.com/PozzettiAndrea/ComfyUI-SAM3/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+
+> ComfyUI wrapper for segment anything 3
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 524 |
+| 🍴 **Forks** | 78 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+ComfyUI‑SAM3 is an open‑source extension that integrates the Segment Anything Model 3 (SAM 3) into the ComfyUI visual programming environment. By providing a dedicated wrapper, it enables users to apply state‑of‑the‑art image segmentation directly within ComfyUI workflows, simplifying the setup and execution of SAM 3’s capabilities. The project is positioned as a frontend tool for rapid prototyping and interactive UI development.
+
+### Русский
+
+ComfyUI‑SAM3 — это открытый обёртка для модели Segment Anything 3, интегрированная в визуальный редактор ComfyUI. Проект предоставляет удобный графический интерфейс для настройки и применения сегментации изображений, позволяя быстро подключать мощные возможности SAM3 без написания кода. Подходит для frontend‑разработчиков и дизайнеров, желающих использовать AI‑сегментацию в своих проектах.
+
+### 中文
+
+PozzettiAndrea/ComfyUI-SAM3：PozzettiAndrea/ComfyUI-SAM3 may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** PozzettiAndrea/ComfyUI-SAM3 may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 524 GitHub stars
+- 78 forks
+- updated 2026-05-09
+- primary language: Python
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 47/100 |
+| stars | 58/100 |
+| topics | 0/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/PozzettiAndrea/ComfyUI-SAM3) · [← Back to Misc](./README.md)</sub>

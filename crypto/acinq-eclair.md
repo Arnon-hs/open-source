@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ACINQ/eclair: ACINQ/eclair helps prototype or inspect blockchain workflows with 
 
 ### Русский
 
-ACINQ/eclair: open-source проект в категориях Crypto, Payments, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+ACINQ/eclair: open-source проект в категориях Crypto, Payments. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ACINQ/eclair：ACINQ/eclair helps prototype or inspect blockchain workflows with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 65/100 |
-| stars | 67/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 88/100 |
+| outlook | 50/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

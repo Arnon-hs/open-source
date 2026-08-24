@@ -62,16 +62,16 @@ ZMGID/kivio：ZMGID/kivio may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 37/100 |
-| integration | 18/100 |
-| production | 38/100 |
-| outlook | 35/100 |
-| adoption | 38/100 |
-| stars | 44/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 0/100 |
+| outlook | 35/100 |
+| quality | 37/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 38/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Mobile · Security
+Mobile
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ Bitwarden — это кроссплатформенный менеджер п�
 
 ### 中文
 
-bitwarden/ios：bitwarden/ios may be useful when its README and activity match a concrete workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+bitwarden/ios：bitwarden/ios may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -43,8 +43,7 @@ bitwarden/ios：bitwarden/ios may be useful when its README and activity match a
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,16 +63,16 @@ bitwarden/ios：bitwarden/ios may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 57/100 |
-| stars | 59/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 75/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

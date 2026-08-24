@@ -64,16 +64,16 @@ wienerlabs/covenant：wienerlabs/covenant helps prototype or inspect blockchain 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 44/100 |
-| adoption | 21/100 |
-| stars | 29/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 29/100 |
 | topics | 100/100 |
+| outlook | 44/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 21/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

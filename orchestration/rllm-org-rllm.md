@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ rllm-org/rllm: rllm-org/rllm helps turn isolated prompts and tools into repeatab
 
 ### Русский
 
-rllm-org/rllm: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rllm-org/rllm: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ rllm-org/rllm：rllm-org/rllm helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 64/100 |
-| adoption | 76/100 |
-| stars | 80/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

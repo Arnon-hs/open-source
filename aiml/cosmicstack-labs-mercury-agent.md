@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ cosmicstack-labs/mercury-agent：cosmicstack-labs/mercury-agent helps add AI cap
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 56/100 |
-| adoption | 67/100 |
-| stars | 71/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 38/100 |
+| outlook | 56/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

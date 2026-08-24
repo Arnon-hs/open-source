@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ agno-agi/agno: agno-agi/agno helps turn isolated prompts and tools into repeatab
 
 ### Русский
 
-agno-agi/agno: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+agno-agi/agno: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ agno-agi/agno：agno-agi/agno helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 62/100 |
-| adoption | 97/100 |
-| stars | 98/100 |
 | forks | 93/100 |
-| recency | 20/100 |
+| stars | 98/100 |
 | topics | 63/100 |
+| outlook | 62/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

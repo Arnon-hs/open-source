@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ qualixar/superlocalmemory：qualixar/superlocalmemory helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 41/100 |
-| stars | 46/100 |
 | forks | 30/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -70,6 +70,7 @@ royalpinto007/mcp-audit：royalpinto007/mcp-audit helps connect AI assistants to
 | production | 61/100 |
 | outlook | 60/100 |
 | adoption | 4/100 |
+| categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 15/100 |
 | recency | 80/100 |

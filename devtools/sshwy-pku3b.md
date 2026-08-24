@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools
+DevTools · Education
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ sshwy/pku3b：sshwy/pku3b helps engineers save time in daily development and rev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 52/100 |
-| adoption | 40/100 |
-| stars | 43/100 |
 | forks | 30/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ alam00000/bentopdf：alam00000/bentopdf helps make deployment and operations mor
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 84/100 |
-| stars | 88/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

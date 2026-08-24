@@ -63,16 +63,16 @@ oaustegard/claude-skills：oaustegard/claude-skills may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 42/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 38/100 |
-| adoption | 37/100 |
-| stars | 44/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 38/100 |
+| outlook | 38/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

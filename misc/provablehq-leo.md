@@ -63,16 +63,16 @@ ProvableHQ/leo：ProvableHQ/leo may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 76/100 |
-| stars | 78/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 63/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

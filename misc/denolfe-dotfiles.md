@@ -63,16 +63,16 @@ denolfe/dotfiles：denolfe/dotfiles may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 36/100 |
-| stars | 41/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 41/100 |
 | topics | 100/100 |
+| outlook | 44/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

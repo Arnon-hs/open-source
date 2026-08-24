@@ -1,6 +1,6 @@
 # lemonade-sdk/lemonade
 
-[![Stars](https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=flat-square&color=yellow)](https://github.com/lemonade-sdk/lemonade/stargazers) [![Forks](https://img.shields.io/github/forks/lemonade-sdk/lemonade?style=flat-square&color=blue)](https://github.com/lemonade-sdk/lemonade/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=flat-square&color=yellow)](https://github.com/lemonade-sdk/lemonade/stargazers) [![Forks](https://img.shields.io/github/forks/lemonade-sdk/lemonade?style=flat-square&color=blue)](https://github.com/lemonade-sdk/lemonade/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 393 |
+| ⭐ **Stars** | 3.8k |
+| 🍴 **Forks** | 288 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 73/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,15 @@ MCP · AI/ML · Backend
 
 ### English
 
-lemonade-sdk/lemonade: lemonade-sdk/lemonade helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+lemonade-sdk/lemonade: lemonade-sdk/lemonade helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-lemonade-sdk/lemonade: open-source проект в категориях MCP, AI/ML, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+lemonade-sdk/lemonade: open-source проект в категориях MCP, AI/ML, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-lemonade-sdk/lemonade：lemonade-sdk/lemonade helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+lemonade-sdk/lemonade：lemonade-sdk/lemonade helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ lemonade-sdk/lemonade：lemonade-sdk/lemonade helps connect AI assistants to rea
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 4875 GitHub stars
-- 393 forks
-- updated 2026-07-12
+- 3839 GitHub stars
+- 288 forks
+- updated 2026-05-07
 - primary language: C++
 - 19 topics
 
@@ -65,18 +65,18 @@ lemonade-sdk/lemonade：lemonade-sdk/lemonade helps connect AI assistants to rea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 89/100 |
-| integration | 78/100 |
-| production | 84/100 |
-| outlook | 92/100 |
-| adoption | 75/100 |
-| stars | 78/100 |
-| forks | 65/100 |
-| recency | 100/100 |
+| forks | 62/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to Mcp](./README.md)</sub>

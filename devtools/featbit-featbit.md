@@ -65,16 +65,16 @@ featbit/featbit：featbit/featbit helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 64/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 65/100 |
-| stars | 69/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

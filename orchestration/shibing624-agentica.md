@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ shibing624/agentica：shibing624/agentica helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 59/100 |
-| adoption | 49/100 |
-| stars | 53/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

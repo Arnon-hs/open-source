@@ -63,16 +63,16 @@ WeblateOrg/weblate：WeblateOrg/weblate may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 79/100 |
-| stars | 80/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ YouMind-OpenLab/awesome-nano-banana-pro-prompts：YouMind-OpenLab/awesome-nano-b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 84/100 |
-| stars | 87/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 87/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

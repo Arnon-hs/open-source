@@ -65,16 +65,16 @@ halo-dev/upage：halo-dev/upage helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 48/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

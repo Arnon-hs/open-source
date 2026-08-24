@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ strands-agents/sdk-typescript: strands-agents/sdk-typescript helps turn isolated
 
 ### Русский
 
-strands-agents/sdk-typescript: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+strands-agents/sdk-typescript: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Observability. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ strands-agents/sdk-typescript：strands-agents/sdk-typescript helps turn isolate
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 57/100 |
-| stars | 60/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

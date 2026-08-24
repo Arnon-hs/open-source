@@ -65,16 +65,16 @@ Project-N-E-K-O/N.E.K.O：Project-N-E-K-O/N.E.K.O helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 62/100 |
-| stars | 64/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 63/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

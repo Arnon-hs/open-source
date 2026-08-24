@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data
+AI/ML · DevTools · Data · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ traceroot-ai/traceroot: traceroot-ai/traceroot helps add AI capability without s
 
 ### Русский
 
-traceroot-ai/traceroot: open-source проект в категориях AI/ML, DevTools, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+traceroot-ai/traceroot: open-source проект в категориях AI/ML, DevTools, Data, Observability. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ traceroot-ai/traceroot：traceroot-ai/traceroot helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 56/100 |
-| adoption | 56/100 |
-| stars | 58/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

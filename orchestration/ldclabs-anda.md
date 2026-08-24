@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ldclabs/anda：ldclabs/anda helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 50/100 |
-| adoption | 52/100 |
-| stars | 56/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 50/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 45/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

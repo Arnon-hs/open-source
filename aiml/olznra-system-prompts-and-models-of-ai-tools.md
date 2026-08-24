@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ olznra/system-prompts-and-models-of-ai-tools：olznra/system-prompts-and-models-
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 49/100 |
-| adoption | 27/100 |
-| stars | 30/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 30/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

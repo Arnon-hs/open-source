@@ -1,41 +1,41 @@
 # jonigl/mcp-client-for-ollama
 
-[![Stars](https://img.shields.io/github/stars/jonigl/mcp-client-for-ollama?style=flat-square&color=yellow)](https://github.com/jonigl/mcp-client-for-ollama/stargazers) [![Forks](https://img.shields.io/github/forks/jonigl/mcp-client-for-ollama?style=flat-square&color=blue)](https://github.com/jonigl/mcp-client-for-ollama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jonigl/mcp-client-for-ollama?style=flat-square&color=yellow)](https://github.com/jonigl/mcp-client-for-ollama/stargazers) [![Forks](https://img.shields.io/github/forks/jonigl/mcp-client-for-ollama?style=flat-square&color=blue)](https://github.com/jonigl/mcp-client-for-ollama/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
-> Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, human-in-the-loop, thinking mode, model params config, system prompts, and saved preferences.
+> A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 766 |
-| 🍴 **Forks** | 108 |
+| ⭐ **Stars** | 698 |
+| 🍴 **Forks** | 93 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-04 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agentic-ai` `ai` `command-line-tool` `harness` `linux` `local-llm` `macos` `mcp` `mcp-client` `mcp-prompts` `mcp-resouces` `mcp-server`
+`agentic-ai` `ai` `command-line-tool` `generative-ai` `linux` `llm` `local-llm` `macos` `mcp` `mcp-client` `mcp-server` `model-context-protocol`
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
 ### English
 
-jonigl/mcp-client-for-ollama: jonigl/mcp-client-for-ollama helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jonigl/mcp-client-for-ollama is an open‑source, text‑based user interface (TUI) that lets developers interact with MCP servers powered by Ollama, supporting features such as agent mode, multi‑server connections, model switching, streaming responses, tool management, and human‑in‑the‑loop workflows. It also offers configurable model parameters, custom system prompts, saved preferences, and a “thinking” mode for more controlled LLM interactions, making it a handy tool for anyone working with local large language models.
 
 ### Русский
 
-jonigl/mcp-client-for-ollama: open-source проект в категориях MCP, AI/ML, Frontend, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+`jonigl/mcp-client-for-ollama` — это TUI‑клиент, позволяющий разработчикам удобно работать с MCP‑сервером через Ollama. Он поддерживает режимы агента и «thinking», мульти‑серверность, переключение моделей, потоковые ответы, управление инструментами, конфигурацию параметров модели, пользовательские системные подсказки и сохранённые предпочтения. Проект ориентирован на работу с локальными LLM и подходит как для фронтенда, так и для бэкенда.
 
 ### 中文
 
-jonigl/mcp-client-for-ollama：jonigl/mcp-client-for-ollama helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jonigl/mcp-client-for-ollama：jonigl/mcp-client-for-ollama helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ jonigl/mcp-client-for-ollama：jonigl/mcp-client-for-ollama helps connect AI ass
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 766 GitHub stars
-- 108 forks
-- updated 2026-07-04
+- 698 GitHub stars
+- 93 forks
+- updated 2026-05-08
 - primary language: Python
 - 20 topics
 
@@ -65,18 +65,18 @@ jonigl/mcp-client-for-ollama：jonigl/mcp-client-for-ollama helps connect AI ass
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 81/100 |
-| integration | 78/100 |
-| production | 81/100 |
-| outlook | 90/100 |
-| adoption | 58/100 |
+| forks | 49/100 |
 | stars | 61/100 |
-| forks | 51/100 |
-| recency | 100/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-04 · [View on GitHub](https://github.com/jonigl/mcp-client-for-ollama) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jonigl/mcp-client-for-ollama) · [← Back to Mcp](./README.md)</sub>

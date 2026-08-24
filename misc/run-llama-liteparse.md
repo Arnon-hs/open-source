@@ -63,16 +63,16 @@ run-llama/liteparse：run-llama/liteparse may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 74/100 |
-| stars | 79/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 88/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

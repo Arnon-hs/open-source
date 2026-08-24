@@ -65,16 +65,16 @@ devswha/patina：devswha/patina helps turn isolated prompts and tools into repea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 54/100 |
-| adoption | 35/100 |
-| stars | 39/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 47/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

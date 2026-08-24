@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ gastownhall/gascity: gastownhall/gascity helps turn isolated prompts and tools i
 
 ### Русский
 
-gastownhall/gascity: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+gastownhall/gascity: open-source проект в категориях Orchestration. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -64,16 +64,16 @@ gastownhall/gascity：gastownhall/gascity helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 47/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 50/100 |
-| adoption | 59/100 |
-| stars | 60/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 0/100 |
+| outlook | 50/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 47/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

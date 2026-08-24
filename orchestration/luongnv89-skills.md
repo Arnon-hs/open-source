@@ -65,16 +65,16 @@ luongnv89/skills：luongnv89/skills helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 40/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 40/100 |
-| adoption | 36/100 |
-| stars | 40/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 40/100 |
 | topics | 25/100 |
+| outlook | 40/100 |
+| quality | 40/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

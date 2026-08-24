@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mksglu/context-mode: mksglu/context-mode helps turn isolated prompts and tools i
 
 ### Русский
 
-mksglu/context-mode: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mksglu/context-mode: open-source проект в категориях Orchestration, MCP, AI/ML, Backend, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ mksglu/context-mode：mksglu/context-mode helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 73/100 |
-| integration | 94/100 |
-| production | 61/100 |
-| outlook | 68/100 |
-| adoption | 84/100 |
-| stars | 88/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 61/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

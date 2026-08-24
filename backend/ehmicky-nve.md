@@ -65,16 +65,16 @@ ehmicky/nve：ehmicky/nve helps teams reuse service infrastructure instead of re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 52/100 |
-| adoption | 52/100 |
-| stars | 61/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -64,16 +64,16 @@ meta-pytorch/monarch：meta-pytorch/monarch may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 41/100 |
-| adoption | 62/100 |
-| stars | 64/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

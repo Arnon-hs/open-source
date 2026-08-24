@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ langchain-ai/langgraphjs：langchain-ai/langgraphjs helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 72/100 |
-| stars | 74/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

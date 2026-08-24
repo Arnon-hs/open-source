@@ -64,16 +64,16 @@ langchain-ai/langchainjs：langchain-ai/langchainjs helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 51/100 |
-| adoption | 90/100 |
-| stars | 90/100 |
 | forks | 87/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 0/100 |
+| outlook | 51/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevOps/Infra · Marketing
+DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ external-secrets/external-secrets: external-secrets/external-secrets helps make 
 
 ### Русский
 
-external-secrets/external-secrets: open-source проект в категориях DevOps/Infra, Marketing. Практическое применение: standardize deployment; automate operations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+external-secrets/external-secrets: open-source проект в категориях DevOps/Infra. Практическое применение: standardize deployment; automate operations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ external-secrets/external-secrets：external-secrets/external-secrets helps make
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 52/100 |
-| adoption | 80/100 |
-| stars | 81/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 63/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ spree/spree：spree/spree helps teams reuse service infrastructure instead of re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 76/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 68/100 |
-| adoption | 90/100 |
-| stars | 89/100 |
 | forks | 93/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

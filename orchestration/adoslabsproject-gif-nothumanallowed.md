@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ adoslabsproject-gif/nothumanallowed：adoslabsproject-gif/nothumanallowed helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 57/100 |
-| adoption | 39/100 |
-| stars | 42/100 |
 | forks | 32/100 |
-| recency | 20/100 |
+| stars | 42/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

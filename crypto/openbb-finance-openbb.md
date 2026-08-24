@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML
+Crypto · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ OpenBB-finance/OpenBB: OpenBB-finance/OpenBB helps prototype or inspect blockcha
 
 ### Русский
 
-OpenBB-finance/OpenBB: open-source проект в категориях Crypto, Trading, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+OpenBB-finance/OpenBB: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ OpenBB-finance/OpenBB：OpenBB-finance/OpenBB helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 96/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

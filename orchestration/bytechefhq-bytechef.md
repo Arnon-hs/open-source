@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ bytechefhq/bytechef: bytechefhq/bytechef helps turn isolated prompts and tools i
 
 ### Русский
 
-bytechefhq/bytechef: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+bytechefhq/bytechef: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ bytechefhq/bytechef：bytechefhq/bytechef helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 62/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 62/100 |
-| adoption | 59/100 |
-| stars | 61/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

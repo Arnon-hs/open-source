@@ -65,16 +65,16 @@ hivemq/mqtt-cli：hivemq/mqtt-cli helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 51/100 |
-| stars | 54/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Trading · Frontend · Backend
+Trading
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ microsoft/CSS-Exchange: microsoft/CSS-Exchange helps research and automate marke
 
 ### Русский
 
-microsoft/CSS-Exchange: open-source проект в категориях Trading, Frontend, Backend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+microsoft/CSS-Exchange: open-source проект в категориях Trading. Практическое применение: research trading systems; backtest strategies. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -64,16 +64,16 @@ microsoft/CSS-Exchange：microsoft/CSS-Exchange helps research and automate mark
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 45/100 |
-| adoption | 66/100 |
-| stars | 66/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ angular/angular-cli：angular/angular-cli helps engineers save time in daily dev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 61/100 |
-| adoption | 96/100 |
-| stars | 94/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 50/100 |
+| outlook | 61/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

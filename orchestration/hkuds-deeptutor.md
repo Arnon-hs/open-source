@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Knowledge/RAG · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ HKUDS/DeepTutor: HKUDS/DeepTutor helps turn isolated prompts and tools into repe
 
 ### Русский
 
-HKUDS/DeepTutor: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+HKUDS/DeepTutor: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ HKUDS/DeepTutor：HKUDS/DeepTutor helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 70/100 |
-| adoption | 91/100 |
-| stars | 93/100 |
 | forks | 87/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

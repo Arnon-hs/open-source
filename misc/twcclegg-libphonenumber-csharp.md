@@ -63,16 +63,16 @@ twcclegg/libphonenumber-csharp：twcclegg/libphonenumber-csharp may be useful wh
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 61/100 |
-| stars | 63/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 75/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

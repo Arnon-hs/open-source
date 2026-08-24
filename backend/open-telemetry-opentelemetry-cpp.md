@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ open-telemetry/opentelemetry-cpp: open-telemetry/opentelemetry-cpp helps teams r
 
 ### Русский
 
-open-telemetry/opentelemetry-cpp: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+open-telemetry/opentelemetry-cpp: open-source проект в категориях Backend, Observability. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ open-telemetry/opentelemetry-cpp：open-telemetry/opentelemetry-cpp helps teams 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 67/100 |
-| stars | 66/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 75/100 |
+| outlook | 59/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

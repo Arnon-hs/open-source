@@ -63,16 +63,16 @@ anishathalye/git-remote-dropbox：anishathalye/git-remote-dropbox may be useful 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 43/100 |
-| adoption | 69/100 |
-| stars | 74/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

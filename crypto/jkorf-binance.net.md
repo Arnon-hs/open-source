@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · Backend
+Crypto · Trading · Automation · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ JKorf/Binance.Net: JKorf/Binance.Net helps prototype or inspect blockchain workf
 
 ### Русский
 
-JKorf/Binance.Net: open-source проект в категориях Crypto, Trading, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+JKorf/Binance.Net: open-source проект в категориях Crypto, Trading, Automation, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ JKorf/Binance.Net：JKorf/Binance.Net helps prototype or inspect blockchain work
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 65/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 61/100 |
-| adoption | 66/100 |
-| stars | 65/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

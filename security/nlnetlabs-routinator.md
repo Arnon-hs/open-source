@@ -1,0 +1,82 @@
+# NLnetLabs/routinator
+
+[![Stars](https://img.shields.io/github/stars/NLnetLabs/routinator?style=flat-square&color=yellow)](https://github.com/NLnetLabs/routinator/stargazers) [![Forks](https://img.shields.io/github/forks/NLnetLabs/routinator?style=flat-square&color=blue)](https://github.com/NLnetLabs/routinator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+
+> An RPKI Validator and RTR server written in Rust
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 562 |
+| 🍴 **Forks** | 86 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`afrinic` `apnic` `arin` `bgp` `certificate` `cryptography` `lacnic` `more` `pki` `ripe` `ripe-ncc` `roa`
+
+## 🎯 Categories
+
+Security
+
+## 📝 Summary
+
+### English
+
+NLnetLabs routinator is a high‑performance RPKI validator and RTR (RPKI to Router) server implemented in Rust, designed to securely verify route origin authorizations and provide real‑time prefix validation data to routers. It offers robust cryptographic verification, automated repository handling, and a lightweight API for seamless integration into network infrastructure. The project targets crypto‑focused backend and data‑processing use cases, making it a reliable open‑source solution for protecting BGP routing.
+
+### Русский
+
+NLnetLabs /routinator — это высокопроизводительный валидатор RPKI и сервер RTR, реализованный на Rust. Проект обеспечивает надёжную проверку маршрутов BGP, используя криптографические подписи, и предоставляет актуальные данные о легитимных префиксах через протокол RPKI‑to‑Router. Благодаря открытой архитектуре и строгой типизации Rust, routinator подходит для построения безопасных и масштабируемых сетевых инфраструктур.
+
+### 中文
+
+NLnetLabs/routinator：NLnetLabs/routinator helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** NLnetLabs/routinator helps catch security and privacy issues earlier in the workflow.
+
+**Best use cases**
+
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 562 GitHub stars
+- 86 forks
+- updated 2026-05-08
+- primary language: Rust
+- 20 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 48/100 |
+| stars | 59/100 |
+| topics | 100/100 |
+| outlook | 49/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/NLnetLabs/routinator) · [← Back to Security](./README.md)</sub>

@@ -65,16 +65,16 @@ JimLiu/baoyu-skills：JimLiu/baoyu-skills helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 67/100 |
-| integration | 34/100 |
-| production | 51/100 |
-| outlook | 56/100 |
-| adoption | 88/100 |
-| stars | 90/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 50/100 |
+| outlook | 56/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 34/100 |
 | sourceTrust | 100/100 |
 
 ---

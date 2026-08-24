@@ -63,16 +63,16 @@ pdx-tools/pdx-tools：pdx-tools/pdx-tools may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 43/100 |
-| adoption | 39/100 |
-| stars | 44/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 50/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

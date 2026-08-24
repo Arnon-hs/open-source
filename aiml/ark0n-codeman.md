@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · DevTools · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Ark0N/Codeman：Ark0N/Codeman helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 94/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 51/100 |
-| stars | 55/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

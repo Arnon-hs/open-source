@@ -63,16 +63,16 @@ seerge/g-helper：seerge/g-helper may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 82/100 |
-| stars | 88/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

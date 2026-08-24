@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data
+DevTools · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ supabase/cli: supabase/cli helps engineers save time in daily development and re
 
 ### Русский
 
-supabase/cli: open-source проект в категориях DevTools, Data. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+supabase/cli: open-source проект в категориях DevTools, Database. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ supabase/cli：supabase/cli helps engineers save time in daily development and r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 70/100 |
-| stars | 71/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

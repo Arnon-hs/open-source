@@ -65,16 +65,16 @@ unslothai/unsloth：unslothai/unsloth helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 66/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

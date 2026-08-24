@@ -65,16 +65,16 @@ ant-design/ant-design：ant-design/ant-design helps ship user-facing interfaces 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 78/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

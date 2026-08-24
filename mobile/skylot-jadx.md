@@ -63,16 +63,16 @@ skylot/jadx：skylot/jadx may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 50/100 |
+| outlook | 55/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ foryourhealth111-pixel/Vibe-Skills: foryourhealth111-pixel/Vibe-Skills helps tur
 
 ### Русский
 
-foryourhealth111-pixel/Vibe-Skills: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+foryourhealth111-pixel/Vibe-Skills: open-source проект в категориях Orchestration, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ foryourhealth111-pixel/Vibe-Skills：foryourhealth111-pixel/Vibe-Skills helps tu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 63/100 |
-| adoption | 66/100 |
-| stars | 70/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,0 +1,77 @@
+# trimooo/react-ai-stream
+
+[![Stars](https://img.shields.io/github/stars/trimooo/react-ai-stream?style=flat-square&color=yellow)](https://github.com/trimooo/react-ai-stream/stargazers) [![Forks](https://img.shields.io/github/forks/trimooo/react-ai-stream?style=flat-square&color=blue)](https://github.com/trimooo/react-ai-stream/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
+
+> Discovered from Hacker News (github-mentions)
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 28/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | hackernews |
+
+## 🏷️ Topics
+
+`hn` `github-mentions`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+React‑AI‑stream is a lightweight, back‑end‑agnostic React hook that leverages Server‑Sent Events (SSE) to provide real‑time streaming of AI‑generated content (e.g., token‑by‑token responses from language models). By abstracting the SSE connection logic, it lets developers integrate any SSE‑compatible AI service into their UI with minimal boilerplate, making it ideal for orchestrating live AI interactions in front‑end applications.
+
+### Русский
+
+React‑AI‑stream — это универсальный React‑хук, позволяющий получать сервер‑пуш события (SSE) в виде потоков данных и легко интегрировать их в UI, независимо от выбранного бэкенда. Он упрощает оркестрацию и визуализацию AI/ML‑моделей в реальном времени, предоставляя простой API для подписки, обработки и отмены потоков. Проект открыт и активно поддерживается сообществом, что делает его удобным решением для фронтенд‑разработчиков, работающих с интерактивными AI‑приложениями.
+
+### 中文
+
+React-AI-stream – back end-agnostic SSE streaming hook for React：React-AI-stream – back end-agnostic SSE streaming hook for React may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** React-AI-stream – back end-agnostic SSE streaming hook for React may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- updated 2026-05-09
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 25/100 |
+| outlook | 26/100 |
+| quality | 21/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 32/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 80/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/trimooo/react-ai-stream) · [← Back to Misc](./README.md)</sub>

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ sonichi/sutando：sonichi/sutando helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 56/100 |
-| adoption | 46/100 |
-| stars | 48/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

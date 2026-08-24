@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Cmochance/codex-app-transfer：Cmochance/codex-app-transfer helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 28/100 |
-| stars | 32/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

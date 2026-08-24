@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Product
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ aden-hive/hive：aden-hive/hive helps turn isolated prompts and tools into repea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 69/100 |
-| adoption | 88/100 |
-| stars | 85/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

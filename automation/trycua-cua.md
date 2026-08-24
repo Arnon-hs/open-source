@@ -1,6 +1,6 @@
 # trycua/cua
 
-[![Stars](https://img.shields.io/github/stars/trycua/cua?style=flat-square&color=yellow)](https://github.com/trycua/cua/stargazers) [![Forks](https://img.shields.io/github/forks/trycua/cua?style=flat-square&color=blue)](https://github.com/trycua/cua/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/trycua/cua?style=flat-square&color=yellow)](https://github.com/trycua/cua/stargazers) [![Forks](https://img.shields.io/github/forks/trycua/cua?style=flat-square&color=blue)](https://github.com/trycua/cua/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 19.6k |
-| 🍴 **Forks** | 1.3k |
+| ⭐ **Stars** | 15.8k |
+| 🍴 **Forks** | 977 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevOps/Infra
+Automation · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-trycua/cua: trycua/cua helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+trycua/cua provides an open‑source platform for building and testing Computer‑Use Agents—AI systems that can operate full desktop environments across macOS, Linux, and Windows. It includes sandboxed environments, SDKs for integration, and standardized benchmarks to train, evaluate, and compare agents’ ability to control graphical user interfaces. The project targets AI/ML researchers and DevOps/infra teams needing reliable infrastructure for developing autonomous desktop‑automation agents.
 
 ### Русский
 
-trycua/cua: open-source проект в категориях Automation, AI/ML, DevOps/Infra. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+**trycua/cua** – открытая инфраструктура для разработки и оценки Computer‑Use Agents: набор песочниц, SDK и наборы бенчмарков, позволяющих обучать и тестировать ИИ‑агентов, способных управлять полноценными десктопами (macOS, Linux, Windows). Проект объединяет инструменты DevOps и AI/ML, упрощая интеграцию, развертывание и масштабирование агентных решений в реальных операционных системах.
 
 ### 中文
 
-trycua/cua：trycua/cua helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+trycua/cua：trycua/cua helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ trycua/cua：trycua/cua helps remove repetitive manual operations from a workflo
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 19587 GitHub stars
-- 1288 forks
-- updated 2026-07-12
+- 15753 GitHub stars
+- 977 forks
+- updated 2026-05-08
 - primary language: HTML
 - 18 topics
 
@@ -65,18 +65,18 @@ trycua/cua：trycua/cua helps remove repetitive manual operations from a workflo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 94/100 |
-| integration | 46/100 |
-| production | 82/100 |
-| outlook | 97/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
-| forks | 78/100 |
-| recency | 100/100 |
+| forks | 75/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/trycua/cua) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/trycua/cua) · [← Back to Automation](./README.md)</sub>

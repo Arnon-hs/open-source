@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ microsoft/PyRIT: microsoft/PyRIT helps add AI capability without starting from a
 
 ### Русский
 
-microsoft/PyRIT: open-source проект в категориях AI/ML, Frontend, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+microsoft/PyRIT: open-source проект в категориях AI/ML, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ microsoft/PyRIT：microsoft/PyRIT helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 56/100 |
-| adoption | 75/100 |
-| stars | 76/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 50/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

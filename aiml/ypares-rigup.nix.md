@@ -65,16 +65,16 @@ YPares/rigup.nix：YPares/rigup.nix helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 50/100 |
-| adoption | 32/100 |
-| stars | 39/100 |
 | forks | 12/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 44/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

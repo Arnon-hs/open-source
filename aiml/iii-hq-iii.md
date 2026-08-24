@@ -65,16 +65,16 @@ iii-hq/iii：iii-hq/iii helps add AI capability without starting from a blank mo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 73/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 68/100 |
-| adoption | 85/100 |
-| stars | 89/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

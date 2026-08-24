@@ -64,16 +64,16 @@ stanfordnlp/dspy：stanfordnlp/dspy helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 52/100 |
-| adoption | 94/100 |
-| stars | 97/100 |
 | forks | 86/100 |
-| recency | 20/100 |
+| stars | 97/100 |
 | topics | 0/100 |
+| outlook | 52/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

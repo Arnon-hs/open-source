@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -68,16 +68,16 @@ marckrenn/claude-code-changelog：marckrenn/claude-code-changelog helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 52/100 |
-| adoption | 57/100 |
-| stars | 62/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

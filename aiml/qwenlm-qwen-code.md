@@ -64,16 +64,16 @@ QwenLM/qwen-code：QwenLM/qwen-code helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 51/100 |
-| adoption | 91/100 |
-| stars | 93/100 |
 | forks | 84/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 0/100 |
+| outlook | 51/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

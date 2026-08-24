@@ -64,16 +64,16 @@ ksenxx/kiss_ai：ksenxx/kiss_ai helps turn isolated prompts and tools into repea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 42/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 44/100 |
-| adoption | 49/100 |
-| stars | 57/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 44/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

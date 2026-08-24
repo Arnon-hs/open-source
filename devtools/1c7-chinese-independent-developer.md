@@ -64,16 +64,16 @@ The **1c7/chinese-independent-developer** repository is a curated, community‑m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 97/100 |
-| stars | 100/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 38/100 |
+| outlook | 53/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

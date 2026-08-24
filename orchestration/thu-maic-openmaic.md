@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ THU-MAIC/OpenMAIC：THU-MAIC/OpenMAIC helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 54/100 |
-| adoption | 89/100 |
-| stars | 90/100 |
 | forks | 88/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 0/100 |
+| outlook | 54/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

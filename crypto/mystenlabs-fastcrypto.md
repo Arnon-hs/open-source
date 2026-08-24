@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ MystenLabs/fastcrypto: MystenLabs/fastcrypto helps prototype or inspect blockcha
 
 ### Русский
 
-MystenLabs/fastcrypto: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+MystenLabs/fastcrypto: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ MystenLabs/fastcrypto：MystenLabs/fastcrypto helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 54/100 |
-| stars | 53/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 88/100 |
+| outlook | 48/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

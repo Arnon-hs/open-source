@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
@@ -66,16 +66,16 @@ dtzp555-max/ocp：dtzp555-max/ocp helps integrate monetization, billing, or PSP 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 50/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 55/100 |
-| adoption | 33/100 |
-| stars | 37/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 37/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 49/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

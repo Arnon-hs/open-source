@@ -62,16 +62,16 @@ monocurl/monocurl：monocurl/monocurl may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 38/100 |
-| integration | 30/100 |
-| production | 40/100 |
-| outlook | 35/100 |
-| adoption | 40/100 |
-| stars | 47/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 0/100 |
+| outlook | 35/100 |
+| quality | 38/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

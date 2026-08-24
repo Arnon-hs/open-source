@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML
+Crypto · Payments · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ xpaysh/awesome-x402：xpaysh/awesome-x402 helps prototype or inspect blockchain 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 59/100 |
-| integration | 100/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 52/100 |
-| stars | 49/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---

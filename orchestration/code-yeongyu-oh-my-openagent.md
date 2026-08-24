@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ code-yeongyu/oh-my-openagent: code-yeongyu/oh-my-openagent helps turn isolated p
 
 ### Русский
 
-code-yeongyu/oh-my-openagent: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+code-yeongyu/oh-my-openagent: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ code-yeongyu/oh-my-openagent：code-yeongyu/oh-my-openagent helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 92/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

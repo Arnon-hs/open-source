@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dapr/dapr: dapr/dapr helps turn isolated prompts and tools into repeatable agent
 
 ### Русский
 
-dapr/dapr: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dapr/dapr: open-source проект в категориях Orchestration, Automation, Backend, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dapr/dapr：dapr/dapr helps turn isolated prompts and tools into repeatable agen
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 91/100 |
-| stars | 94/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

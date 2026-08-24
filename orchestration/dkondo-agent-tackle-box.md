@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dkondo/agent-tackle-box：dkondo/agent-tackle-box helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 50/100 |
-| adoption | 31/100 |
-| stars | 36/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 36/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

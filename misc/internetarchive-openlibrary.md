@@ -63,16 +63,16 @@ internetarchive/openlibrary：internetarchive/openlibrary may be useful when its
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 81/100 |
-| stars | 81/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 63/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

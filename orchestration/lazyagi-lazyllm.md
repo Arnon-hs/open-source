@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ LazyAGI/LazyLLM：LazyAGI/LazyLLM helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 65/100 |
-| adoption | 73/100 |
-| stars | 76/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

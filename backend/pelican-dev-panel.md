@@ -65,16 +65,16 @@ pelican-dev/panel：pelican-dev/panel helps teams reuse service infrastructure i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 34/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 68/100 |
-| stars | 70/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 34/100 |
 | sourceTrust | 100/100 |
 
 ---

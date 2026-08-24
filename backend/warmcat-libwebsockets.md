@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ warmcat/libwebsockets：warmcat/libwebsockets helps teams reuse service infrastr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 79/100 |
-| stars | 79/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ firebase/flutterfire：firebase/flutterfire may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 52/100 |
-| adoption | 86/100 |
-| stars | 84/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

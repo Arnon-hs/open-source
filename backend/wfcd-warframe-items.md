@@ -65,16 +65,16 @@ WFCD/warframe-items：WFCD/warframe-items helps teams reuse service infrastructu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 52/100 |
-| stars | 55/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

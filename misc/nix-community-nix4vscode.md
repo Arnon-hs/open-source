@@ -63,16 +63,16 @@ nix-community/nix4vscode：nix-community/nix4vscode may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 42/100 |
-| integration | 18/100 |
-| production | 40/100 |
-| outlook | 38/100 |
-| adoption | 40/100 |
-| stars | 45/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 25/100 |
+| outlook | 38/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

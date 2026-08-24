@@ -62,16 +62,16 @@ Automattic/newspack-theme：Automattic/newspack-theme may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 38/100 |
-| adoption | 52/100 |
-| stars | 54/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

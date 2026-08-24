@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -66,16 +66,16 @@ nvk/llm-wiki：nvk/llm-wiki helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 55/100 |
-| adoption | 52/100 |
-| stars | 55/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

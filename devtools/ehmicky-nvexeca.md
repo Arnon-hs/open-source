@@ -65,16 +65,16 @@ ehmicky/nvexeca：ehmicky/nvexeca helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 31/100 |
-| stars | 36/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 36/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

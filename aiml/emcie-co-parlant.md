@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ emcie-co/parlant: emcie-co/parlant helps add AI capability without starting from
 
 ### Русский
 
-emcie-co/parlant: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+emcie-co/parlant: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ emcie-co/parlant：emcie-co/parlant helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 91/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

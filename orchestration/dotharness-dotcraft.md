@@ -65,16 +65,16 @@ DotHarness/dotcraft：DotHarness/dotcraft helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 44/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 47/100 |
-| adoption | 29/100 |
-| stars | 33/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 75/100 |
+| outlook | 47/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 42/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ saigontechnology/AgentCrew：saigontechnology/AgentCrew helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 56/100 |
-| integration | 94/100 |
-| production | 55/100 |
-| outlook | 58/100 |
-| adoption | 46/100 |
-| stars | 49/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

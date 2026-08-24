@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ buiducnhat/agent-skills：buiducnhat/agent-skills helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 30/100 |
-| stars | 35/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

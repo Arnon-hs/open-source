@@ -1,0 +1,80 @@
+# chukwuemekawisdom/claude2api
+
+[![Stars](https://img.shields.io/github/stars/chukwuemekawisdom/claude2api?style=flat-square&color=yellow)](https://github.com/chukwuemekawisdom/claude2api/stargazers) [![Forks](https://img.shields.io/github/forks/chukwuemekawisdom/claude2api?style=flat-square&color=blue)](https://github.com/chukwuemekawisdom/claude2api/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> 将Claude 的网页服务转为 Api 服务，支持识图，文件上传，思考输出……
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 51 |
+| 🍴 **Forks** | 15 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`claude` `claude2api` `cursor` `cursor2api` `grok` `grok2api` `openai` `openai2api`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+The **chukwuemekawisdom/claude2api** project converts Claude’s web interface into a fully functional API, enabling programmatic access to Claude’s conversational capabilities. It extends the core service with image recognition, file upload handling, and advanced “thinking” outputs, making it a versatile backend solution for AI‑driven applications.
+
+### Русский
+
+**chukwuemekawisdom/claude2api** – открытый бэкенд‑проект, который преобразует веб‑интерфейс Claude в полноценный API, позволяя выполнять запросы к модели программно. Помимо обычного текстового диалога, API поддерживает распознавание изображений, загрузку файлов и режим «размышления», расширяя возможности интеграции Claude в любые приложения. Проект относится к категориям AI/ML и Backend.
+
+### 中文
+
+chukwuemekawisdom/claude2api：chukwuemekawisdom/claude2api may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** chukwuemekawisdom/claude2api may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 51 GitHub stars
+- 15 forks
+- updated 2026-05-08
+- primary language: Go
+- 8 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 30/100 |
+| stars | 37/100 |
+| topics | 100/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/chukwuemekawisdom/claude2api) · [← Back to Misc](./README.md)</sub>

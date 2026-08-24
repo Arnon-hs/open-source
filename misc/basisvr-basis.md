@@ -63,16 +63,16 @@ BasisVR/Basis：BasisVR/Basis may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 46/100 |
-| adoption | 55/100 |
-| stars | 56/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 38/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

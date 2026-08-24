@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ yonatangross/orchestkit: yonatangross/orchestkit helps turn isolated prompts and
 
 ### Русский
 
-yonatangross/orchestkit: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+yonatangross/orchestkit: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ yonatangross/orchestkit：yonatangross/orchestkit helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 54/100 |
-| integration | 94/100 |
-| production | 55/100 |
-| outlook | 58/100 |
-| adoption | 43/100 |
-| stars | 47/100 |
 | forks | 30/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

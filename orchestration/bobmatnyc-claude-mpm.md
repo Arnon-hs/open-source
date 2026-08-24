@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ bobmatnyc/claude-mpm：bobmatnyc/claude-mpm helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 54/100 |
-| integration | 100/100 |
-| production | 55/100 |
-| outlook | 58/100 |
-| adoption | 42/100 |
-| stars | 45/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---

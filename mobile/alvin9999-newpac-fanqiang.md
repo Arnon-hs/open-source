@@ -63,16 +63,16 @@ Alvin9999-newpac/fanqiang：Alvin9999-newpac/fanqiang may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 66/100 |
-| stars | 69/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

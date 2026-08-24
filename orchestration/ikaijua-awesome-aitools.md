@@ -65,16 +65,16 @@ ikaijua/Awesome-AITools：ikaijua/Awesome-AITools helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 61/100 |
-| adoption | 77/100 |
-| stars | 80/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

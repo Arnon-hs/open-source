@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ SynkraAI/aiox-core: SynkraAI/aiox-core helps turn isolated prompts and tools int
 
 ### Русский
 
-SynkraAI/aiox-core: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SynkraAI/aiox-core: open-source проект в категориях Orchestration, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ SynkraAI/aiox-core：SynkraAI/aiox-core helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 65/100 |
-| adoption | 74/100 |
-| stars | 73/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

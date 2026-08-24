@@ -63,16 +63,16 @@ ecamp/ecamp3：ecamp/ecamp3 may be useful when its README and activity match a c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 46/100 |
-| adoption | 46/100 |
-| stars | 46/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 63/100 |
+| outlook | 46/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

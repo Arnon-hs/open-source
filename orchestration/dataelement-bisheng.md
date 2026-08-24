@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dataelement/bisheng: dataelement/bisheng helps turn isolated prompts and tools i
 
 ### Русский
 
-dataelement/bisheng: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dataelement/bisheng: open-source проект в категориях Orchestration, Knowledge/RAG, Automation, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dataelement/bisheng：dataelement/bisheng helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 66/100 |
-| adoption | 85/100 |
-| stars | 86/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

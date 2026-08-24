@@ -65,16 +65,16 @@ likaku/Mck-ppt-design-skill：likaku/Mck-ppt-design-skill helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 41/100 |
-| stars | 45/100 |
 | forks | 33/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

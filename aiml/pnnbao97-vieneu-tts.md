@@ -65,16 +65,16 @@ pnnbao97/VieNeu-TTS：pnnbao97/VieNeu-TTS helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 67/100 |
-| stars | 67/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

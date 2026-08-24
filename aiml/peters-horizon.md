@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ peters/horizon：peters/horizon helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 58/100 |
-| adoption | 52/100 |
-| stars | 59/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 49/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

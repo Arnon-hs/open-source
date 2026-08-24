@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Backend
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ GMWalletApp/epusdt: GMWalletApp/epusdt helps prototype or inspect blockchain wor
 
 ### Русский
 
-GMWalletApp/epusdt: open-source проект в категориях Crypto, Payments, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+GMWalletApp/epusdt: open-source проект в категориях Crypto, Payments. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ GMWalletApp/epusdt：GMWalletApp/epusdt helps prototype or inspect blockchain wo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 75/100 |
-| stars | 75/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · DevTools · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mvanhorn/cli-printing-press: mvanhorn/cli-printing-press helps add AI capability
 
 ### Русский
 
-mvanhorn/cli-printing-press: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mvanhorn/cli-printing-press: open-source проект в категориях AI/ML, DevTools, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ mvanhorn/cli-printing-press：mvanhorn/cli-printing-press helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 49/100 |
-| integration | 78/100 |
-| production | 51/100 |
-| outlook | 55/100 |
-| adoption | 40/100 |
-| stars | 48/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

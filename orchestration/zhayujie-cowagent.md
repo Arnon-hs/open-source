@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ zhayujie/CowAgent：zhayujie/CowAgent helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 80/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 99/100 |
-| stars | 99/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 99/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

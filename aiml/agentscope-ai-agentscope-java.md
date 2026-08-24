@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ agentscope-ai/agentscope-java: agentscope-ai/agentscope-java helps add AI capabi
 
 ### Русский
 
-agentscope-ai/agentscope-java: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+agentscope-ai/agentscope-java: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ agentscope-ai/agentscope-java：agentscope-ai/agentscope-java helps add AI capab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 53/100 |
-| adoption | 72/100 |
-| stars | 74/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

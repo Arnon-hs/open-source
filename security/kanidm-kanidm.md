@@ -65,16 +65,16 @@ kanidm/kanidm：kanidm/kanidm helps catch security and privacy issues earlier in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 74/100 |
-| stars | 79/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

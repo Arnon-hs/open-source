@@ -65,16 +65,16 @@ awslabs/automated-security-helper：awslabs/automated-security-helper helps turn
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 57/100 |
-| stars | 60/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 88/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · DevOps/Infra
+Data · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ zalando/postgres-operator：zalando/postgres-operator helps convert raw data int
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 55/100 |
-| adoption | 78/100 |
-| stars | 79/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

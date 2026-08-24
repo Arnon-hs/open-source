@@ -63,16 +63,16 @@ luongnv89/ccl：luongnv89/ccl may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 40/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 37/100 |
-| adoption | 23/100 |
-| stars | 29/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 29/100 |
 | topics | 63/100 |
+| outlook | 37/100 |
+| quality | 40/100 |
+| recency | 20/100 |
+| adoption | 23/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

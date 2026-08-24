@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ njbinbin-pisci/openpisci：njbinbin-pisci/openpisci helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 46/100 |
-| adoption | 30/100 |
-| stars | 34/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 34/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

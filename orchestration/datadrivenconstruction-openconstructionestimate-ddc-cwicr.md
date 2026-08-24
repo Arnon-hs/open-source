@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Knowledge/RAG · Automation · AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR：datadrivenconstructi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 53/100 |
-| adoption | 44/100 |
-| stars | 46/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

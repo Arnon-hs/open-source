@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ tingly-dev/tingly-box：tingly-dev/tingly-box helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 47/100 |
-| stars | 51/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 75/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

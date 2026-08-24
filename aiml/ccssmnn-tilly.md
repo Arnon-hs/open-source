@@ -65,16 +65,16 @@ ccssmnn/tilly：ccssmnn/tilly helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 34/100 |
-| stars | 38/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 38/100 |
 | topics | 88/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

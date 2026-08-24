@@ -65,16 +65,16 @@ unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada：unipds
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 46/100 |
-| adoption | 62/100 |
-| stars | 61/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 50/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · DevOps/Infra
+AI/ML · DevTools · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mensfeld/code-on-incus: mensfeld/code-on-incus helps add AI capability without s
 
 ### Русский
 
-mensfeld/code-on-incus: open-source проект в категориях AI/ML, DevTools, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mensfeld/code-on-incus: open-source проект в категориях AI/ML, DevTools, DevOps/Infra, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ mensfeld/code-on-incus：mensfeld/code-on-incus helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 52/100 |
-| stars | 57/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

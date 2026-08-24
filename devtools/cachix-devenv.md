@@ -65,16 +65,16 @@ cachix/devenv：cachix/devenv helps engineers save time in daily development and
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 77/100 |
-| stars | 81/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 38/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

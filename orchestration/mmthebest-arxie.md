@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · Knowledge/RAG · Automation · AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ mmTheBest/arxie：mmTheBest/arxie helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 57/100 |
-| adoption | 38/100 |
-| stars | 43/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 49/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

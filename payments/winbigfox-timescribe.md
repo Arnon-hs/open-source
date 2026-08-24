@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · Product
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ WINBIGFOX/TimeScribe: WINBIGFOX/TimeScribe helps integrate monetization, billing
 
 ### Русский
 
-WINBIGFOX/TimeScribe: open-source проект в категориях Payments, Frontend, Product. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+WINBIGFOX/TimeScribe: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ WINBIGFOX/TimeScribe：WINBIGFOX/TimeScribe helps integrate monetization, billin
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 56/100 |
-| adoption | 58/100 |
-| stars | 62/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ LeenHawk/gproxy：LeenHawk/gproxy helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 42/100 |
-| stars | 45/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 50/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

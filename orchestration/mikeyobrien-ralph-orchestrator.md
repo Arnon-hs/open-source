@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ mikeyobrien/ralph-orchestrator：mikeyobrien/ralph-orchestrator helps turn isola
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 64/100 |
-| adoption | 70/100 |
-| stars | 73/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

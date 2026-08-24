@@ -65,16 +65,16 @@ react-navigation/react-navigation：react-navigation/react-navigation helps ship
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 93/100 |
-| stars | 93/100 |
 | forks | 93/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

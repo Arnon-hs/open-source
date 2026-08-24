@@ -64,16 +64,16 @@ gcc-mirror/gcc：gcc-mirror/gcc may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 18/100 |
-| production | 46/100 |
-| outlook | 47/100 |
-| adoption | 88/100 |
-| stars | 86/100 |
 | forks | 92/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 0/100 |
+| outlook | 47/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

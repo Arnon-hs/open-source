@@ -64,16 +64,16 @@ kjfx/AI：kjfx/AI helps add AI capability without starting from a blank model st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 38/100 |
-| integration | 30/100 |
-| production | 40/100 |
-| outlook | 36/100 |
-| adoption | 28/100 |
-| stars | 31/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 31/100 |
 | topics | 38/100 |
+| outlook | 36/100 |
+| quality | 38/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

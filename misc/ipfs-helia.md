@@ -63,16 +63,16 @@ ipfs/helia：ipfs/helia may be useful when its README and activity match a concr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 63/100 |
-| stars | 66/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 25/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

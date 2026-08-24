@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Mobile
+Crypto · Automation · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ sepivip/SeekerClaw：sepivip/SeekerClaw helps prototype or inspect blockchain wo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 49/100 |
-| adoption | 41/100 |
-| stars | 43/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

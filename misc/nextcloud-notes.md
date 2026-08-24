@@ -63,16 +63,16 @@ nextcloud/notes：nextcloud/notes may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 59/100 |
-| stars | 61/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 75/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

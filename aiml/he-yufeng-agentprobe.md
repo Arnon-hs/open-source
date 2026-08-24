@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ he-yufeng/AgentProbe：he-yufeng/AgentProbe helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 30/100 |
-| stars | 33/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 75/100 |
+| outlook | 44/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

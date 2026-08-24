@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ opencraig/opencraig：opencraig/opencraig helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 55/100 |
-| adoption | 55/100 |
-| stars | 60/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

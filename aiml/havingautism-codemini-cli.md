@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ havingautism/Codemini-CLI：havingautism/Codemini-CLI helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 39/100 |
-| integration | 46/100 |
-| production | 42/100 |
-| outlook | 46/100 |
-| adoption | 21/100 |
-| stars | 29/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 29/100 |
 | topics | 63/100 |
+| outlook | 46/100 |
+| quality | 39/100 |
+| recency | 20/100 |
+| adoption | 21/100 |
+| production | 42/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

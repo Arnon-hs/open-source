@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ kakoune-lsp/kakoune-lsp：kakoune-lsp/kakoune-lsp helps teams reuse service infr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 49/100 |
-| adoption | 58/100 |
-| stars | 60/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 63/100 |
+| outlook | 49/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

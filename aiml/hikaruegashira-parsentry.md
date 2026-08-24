@@ -65,16 +65,16 @@ HikaruEgashira/parsentry：HikaruEgashira/parsentry helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 43/100 |
-| adoption | 31/100 |
-| stars | 36/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 36/100 |
 | topics | 63/100 |
+| outlook | 43/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

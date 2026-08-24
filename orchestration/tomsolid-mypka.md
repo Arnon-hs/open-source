@@ -65,16 +65,16 @@ TomSolid/myPKA：TomSolid/myPKA helps turn isolated prompts and tools into repea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 37/100 |
-| stars | 40/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 40/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

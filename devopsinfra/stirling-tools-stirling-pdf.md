@@ -65,16 +65,16 @@ Stirling-Tools/Stirling-PDF：Stirling-Tools/Stirling-PDF helps make deployment 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 79/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 96/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

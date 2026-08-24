@@ -65,16 +65,16 @@ ProjectViVy/agent-diva：ProjectViVy/agent-diva helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 46/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 44/100 |
-| adoption | 33/100 |
-| stars | 36/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 36/100 |
 | topics | 75/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

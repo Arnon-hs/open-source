@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Product
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ xorbitsai/inference: xorbitsai/inference helps add AI capability without startin
 
 ### Русский
 
-xorbitsai/inference: open-source проект в категориях AI/ML, Backend, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+xorbitsai/inference: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ xorbitsai/inference：xorbitsai/inference helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 81/100 |
-| stars | 84/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

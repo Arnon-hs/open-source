@@ -62,16 +62,16 @@ Justsenger/ExHyperV：Justsenger/ExHyperV may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 43/100 |
-| adoption | 71/100 |
-| stars | 76/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

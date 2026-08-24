@@ -63,16 +63,16 @@ ravachol/kew：ravachol/kew may be useful when its README and activity match a c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 66/100 |
-| stars | 73/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

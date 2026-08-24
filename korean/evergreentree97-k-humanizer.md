@@ -68,6 +68,7 @@ evergreentree97/K-Humanizer：evergreentree97/K-Humanizer may be useful when its
 | production | 57/100 |
 | outlook | 58/100 |
 | adoption | 15/100 |
+| categoryMatchCount | 800/100 |
 | stars | 20/100 |
 | forks | 0/100 |
 | recency | 80/100 |

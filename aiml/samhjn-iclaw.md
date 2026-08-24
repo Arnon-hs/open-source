@@ -64,16 +64,16 @@ samhjn/iClaw：samhjn/iClaw helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 36/100 |
-| integration | 30/100 |
-| production | 39/100 |
-| outlook | 37/100 |
-| adoption | 35/100 |
-| stars | 39/100 |
 | forks | 27/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 36/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 39/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

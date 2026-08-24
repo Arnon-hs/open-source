@@ -63,16 +63,16 @@ Homebrew/homebrew-core：Homebrew/homebrew-core may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 92/100 |
-| stars | 89/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 75/100 |
+| outlook | 56/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

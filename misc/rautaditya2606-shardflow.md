@@ -67,6 +67,7 @@ rautaditya2606/Shardflow：rautaditya2606/Shardflow may be useful when its READM
 | production | 57/100 |
 | outlook | 52/100 |
 | adoption | 7/100 |
+| categoryMatchCount | 100/100 |
 | stars | 10/100 |
 | forks | 0/100 |
 | recency | 100/100 |

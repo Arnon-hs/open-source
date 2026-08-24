@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · Automation · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ zatosource/zato: zatosource/zato helps turn isolated prompts and tools into repe
 
 ### Русский
 
-zatosource/zato: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+zatosource/zato: open-source проект в категориях Orchestration, Automation, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ zatosource/zato：zatosource/zato helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 63/100 |
-| adoption | 63/100 |
-| stars | 64/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

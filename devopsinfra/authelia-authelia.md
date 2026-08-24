@@ -65,16 +65,16 @@ authelia/authelia：authelia/authelia helps make deployment and operations more 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 76/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 58/100 |
-| adoption | 90/100 |
-| stars | 95/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 60/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ thunderbird/thunderbolt: thunderbird/thunderbolt helps add AI capability without
 
 ### Русский
 
-thunderbird/thunderbolt: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+thunderbird/thunderbolt: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ thunderbird/thunderbolt：thunderbird/thunderbolt helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 73/100 |
-| stars | 78/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

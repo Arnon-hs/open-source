@@ -62,16 +62,16 @@ jdx/mise：jdx/mise may be useful when its README and activity match a concrete 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 51/100 |
-| adoption | 89/100 |
-| stars | 95/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 0/100 |
+| outlook | 51/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

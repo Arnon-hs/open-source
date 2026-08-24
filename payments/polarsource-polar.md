@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · Backend
+Payments · Frontend · Product
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ polarsource/polar: polarsource/polar helps integrate monetization, billing, or P
 
 ### Русский
 
-polarsource/polar: open-source проект в категориях Payments, Frontend, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+polarsource/polar: open-source проект в категориях Payments, Frontend, Product. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ polarsource/polar：polarsource/polar helps integrate monetization, billing, or 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 71/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 59/100 |
-| adoption | 81/100 |
-| stars | 85/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

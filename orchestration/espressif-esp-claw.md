@@ -64,16 +64,16 @@ espressif/esp-claw：espressif/esp-claw helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 48/100 |
-| adoption | 63/100 |
-| stars | 64/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 44/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

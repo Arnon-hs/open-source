@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ matthiasn/lotti: matthiasn/lotti helps add AI capability without starting from a
 
 ### Русский
 
-matthiasn/lotti: open-source проект в категориях AI/ML, Data, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+matthiasn/lotti: open-source проект в категориях AI/ML, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ matthiasn/lotti：matthiasn/lotti helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 51/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

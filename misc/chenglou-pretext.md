@@ -62,16 +62,16 @@ chenglou/pretext：chenglou/pretext may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 49/100 |
-| adoption | 95/100 |
-| stars | 99/100 |
 | forks | 85/100 |
-| recency | 20/100 |
+| stars | 99/100 |
 | topics | 0/100 |
+| outlook | 49/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

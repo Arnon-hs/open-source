@@ -65,16 +65,16 @@ ReflexioAI/claude-smart：ReflexioAI/claude-smart helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 47/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 32/100 |
-| stars | 35/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 88/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

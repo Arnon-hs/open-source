@@ -65,16 +65,16 @@ ankitmundada/awesome-gemini-cli-subagents：ankitmundada/awesome-gemini-cli-suba
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 40/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 44/100 |
-| adoption | 27/100 |
-| stars | 31/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 31/100 |
 | topics | 50/100 |
+| outlook | 44/100 |
+| quality | 40/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

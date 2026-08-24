@@ -65,16 +65,16 @@ ksimback/hermes-ecosystem：ksimback/hermes-ecosystem helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 55/100 |
-| adoption | 57/100 |
-| stars | 61/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 46/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

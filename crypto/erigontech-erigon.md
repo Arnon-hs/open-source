@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ erigontech/erigon：erigontech/erigon helps prototype or inspect blockchain work
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 47/100 |
-| adoption | 77/100 |
-| stars | 76/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 25/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

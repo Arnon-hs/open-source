@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ MystenLabs/sui: MystenLabs/sui helps prototype or inspect blockchain workflows w
 
 ### Русский
 
-MystenLabs/sui: open-source проект в категориях Crypto, AI/ML, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+MystenLabs/sui: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ MystenLabs/sui：MystenLabs/sui helps prototype or inspect blockchain workflows 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 88/100 |
-| stars | 83/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

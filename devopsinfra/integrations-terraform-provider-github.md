@@ -65,16 +65,16 @@ integrations/terraform-provider-github：integrations/terraform-provider-github 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 68/100 |
-| stars | 65/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 50/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

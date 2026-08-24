@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ yuanchuan/aivo：yuanchuan/aivo helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 54/100 |
-| adoption | 38/100 |
-| stars | 44/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 48/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

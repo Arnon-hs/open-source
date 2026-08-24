@@ -65,16 +65,16 @@ aliyun/aliyun-cli：aliyun/aliyun-cli helps teams reuse service infrastructure i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 94/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 62/100 |
-| stars | 63/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

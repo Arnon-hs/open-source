@@ -62,16 +62,16 @@ openwrt/openwrt：openwrt/openwrt may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 49/100 |
-| adoption | 96/100 |
-| stars | 94/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 0/100 |
+| outlook | 49/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

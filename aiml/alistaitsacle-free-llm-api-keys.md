@@ -65,16 +65,16 @@ alistaitsacle/free-llm-api-keys：alistaitsacle/free-llm-api-keys helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 50/100 |
-| adoption | 44/100 |
-| stars | 51/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

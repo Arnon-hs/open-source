@@ -63,16 +63,16 @@ film42/sidekiq-rs：film42/sidekiq-rs may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 41/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 37/100 |
-| adoption | 42/100 |
-| stars | 47/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 13/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

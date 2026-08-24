@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ heypinchy/pinchy：heypinchy/pinchy helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 39/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 43/100 |
-| adoption | 43/100 |
-| stars | 47/100 |
 | forks | 33/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 39/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

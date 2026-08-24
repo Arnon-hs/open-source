@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ affromero/fairtrail：affromero/fairtrail helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 78/100 |
-| production | 51/100 |
-| outlook | 51/100 |
-| adoption | 37/100 |
-| stars | 41/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 41/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

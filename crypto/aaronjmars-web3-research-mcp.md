@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Backend
+Crypto · MCP · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ aaronjmars/web3-research-mcp：aaronjmars/web3-research-mcp helps prototype or i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 46/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 46/100 |
-| stars | 47/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 38/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

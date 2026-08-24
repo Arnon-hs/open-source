@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Comfy-Org/ComfyUI_frontend: Comfy-Org/ComfyUI_frontend helps add AI capability w
 
 ### Русский
 
-Comfy-Org/ComfyUI_frontend: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Comfy-Org/ComfyUI_frontend: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Comfy-Org/ComfyUI_frontend：Comfy-Org/ComfyUI_frontend helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 69/100 |
-| stars | 69/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 25/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

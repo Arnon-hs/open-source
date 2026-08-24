@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · Data
+Frontend · Backend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Dokploy/dokploy: Dokploy/dokploy helps ship user-facing interfaces with less cus
 
 ### Русский
 
-Dokploy/dokploy: open-source проект в категориях Frontend, Backend, Data. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Dokploy/dokploy: open-source проект в категориях Frontend, Backend, Database, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Dokploy/dokploy：Dokploy/dokploy helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 62/100 |
-| adoption | 93/100 |
-| stars | 96/100 |
 | forks | 85/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 61/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

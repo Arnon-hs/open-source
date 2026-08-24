@@ -1,0 +1,82 @@
+# FalkorDB/FalkorDB
+
+[![Stars](https://img.shields.io/github/stars/FalkorDB/FalkorDB?style=flat-square&color=yellow)](https://github.com/FalkorDB/FalkorDB/stargazers) [![Forks](https://img.shields.io/github/forks/FalkorDB/FalkorDB?style=flat-square&color=blue)](https://github.com/FalkorDB/FalkorDB/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+
+> A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4.3k |
+| 🍴 **Forks** | 346 |
+| 💻 **Language** | C |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-05-07 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cloud-database` `database` `database-as-a-service` `developer-tools` `devtools` `graph-database` `graphrag` `knowledge-graph` `realtime-database`
+
+## 🎯 Categories
+
+DevTools · Database
+
+## 📝 Summary
+
+### English
+
+FalkorDB/FalkorDB: FalkorDB/FalkorDB helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+FalkorDB/FalkorDB: open-source проект в категориях DevTools, Database. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+FalkorDB/FalkorDB：FalkorDB/FalkorDB helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** FalkorDB/FalkorDB helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 4343 GitHub stars
+- 346 forks
+- updated 2026-05-07
+- primary language: C
+- 9 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 64/100 |
+| stars | 77/100 |
+| topics | 100/100 |
+| outlook | 60/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/FalkorDB/FalkorDB) · [← Back to DevTools](./README.md)</sub>

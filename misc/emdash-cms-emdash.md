@@ -63,16 +63,16 @@ emdash-cms/emdash：emdash-cms/emdash may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 82/100 |
-| stars | 85/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 50/100 |
+| outlook | 51/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

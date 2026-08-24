@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · Backend
+Orchestration · Automation · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ temporalio/temporal：temporalio/temporal helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 75/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 67/100 |
-| adoption | 88/100 |
-| stars | 92/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 92/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

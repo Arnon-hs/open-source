@@ -65,16 +65,16 @@ bfly123/claude_codex_bridge：bfly123/claude_codex_bridge helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 62/100 |
-| adoption | 69/100 |
-| stars | 72/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

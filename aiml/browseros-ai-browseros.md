@@ -65,16 +65,16 @@ browseros-ai/BrowserOS：browseros-ai/BrowserOS helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 83/100 |
-| stars | 86/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -69,6 +69,7 @@ paperless-ngx/paperless-ngx：paperless-ngx/paperless-ngx may be useful when its
 | production | 81/100 |
 | outlook | 84/100 |
 | adoption | 96/100 |
+| categoryMatchCount | 100/100 |
 | stars | 99/100 |
 | forks | 87/100 |
 | recency | 100/100 |

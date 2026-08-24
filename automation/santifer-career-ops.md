@@ -1,23 +1,23 @@
 # santifer/career-ops
 
-[![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&color=yellow)](https://github.com/santifer/career-ops/stargazers) [![Forks](https://img.shields.io/github/forks/santifer/career-ops?style=flat-square&color=blue)](https://github.com/santifer/career-ops/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&color=yellow)](https://github.com/santifer/career-ops/stargazers) [![Forks](https://img.shields.io/github/forks/santifer/career-ops?style=flat-square&color=blue)](https://github.com/santifer/career-ops/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
-> Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+> AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 59.7k |
-| 🍴 **Forks** | 11.9k |
+| ⭐ **Stars** | 43.8k |
+| 🍴 **Forks** | 9.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `ai-agent` `anthropic` `ats` `automation` `beginner-friendly` `career` `careerops` `claude` `claude-code` `cli` `first-timers-only`
+`ai-agent` `anthropic` `automation` `career` `claude` `claude-code` `cli` `golang` `interview-prep` `job-search` `open-source` `resume`
 
 ## 🎯 Categories
 
@@ -27,15 +27,15 @@ Automation · AI/ML · DevTools
 
 ### English
 
-santifer/career-ops: santifer/career-ops helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+santifer / career‑ops is an open‑source, AI‑driven job‑search platform that leverages Claude Code to analyze and match candidates with opportunities across 14 distinct skill modes. It features a Go‑based dashboard for interactive browsing, PDF generation for résumé and job‑listing exports, and batch processing capabilities for handling large volumes of applications. The project sits at the intersection of AI/ML, frontend development, and developer tooling.
 
 ### Русский
 
-santifer/career-ops: open-source проект в категориях Automation, AI/ML, DevTools. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+**santifer/career-ops** – открытая система поиска работы, использующая возможности Claude Code для AI‑поддержки. Предлагает 14 режимов навыков, интерактивную Go‑панель управления, генерацию PDF‑резюме и пакетную обработку запросов, объединяя AI/ML, фронтенд и инструменты разработки в едином решении.
 
 ### 中文
 
-santifer/career-ops：santifer/career-ops helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+santifer/career-ops：santifer/career-ops helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,15 +49,15 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 59727 GitHub stars
-- 11855 forks
-- updated 2026-07-12
+- 43764 GitHub stars
+- 9173 forks
+- updated 2026-05-09
 - primary language: JavaScript
-- 20 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,18 +65,18 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 100/100 |
-| integration | 62/100 |
-| production | 86/100 |
-| outlook | 98/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
-| forks | 100/100 |
-| recency | 100/100 |
+| forks | 99/100 |
+| stars | 99/100 |
 | topics | 100/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/santifer/career-ops) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/santifer/career-ops) · [← Back to Automation](./README.md)</sub>

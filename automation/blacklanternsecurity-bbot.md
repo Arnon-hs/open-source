@@ -1,6 +1,6 @@
 # blacklanternsecurity/bbot
 
-[![Stars](https://img.shields.io/github/stars/blacklanternsecurity/bbot?style=flat-square&color=yellow)](https://github.com/blacklanternsecurity/bbot/stargazers) [![Forks](https://img.shields.io/github/forks/blacklanternsecurity/bbot?style=flat-square&color=blue)](https://github.com/blacklanternsecurity/bbot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blacklanternsecurity/bbot?style=flat-square&color=yellow)](https://github.com/blacklanternsecurity/bbot/stargazers) [![Forks](https://img.shields.io/github/forks/blacklanternsecurity/bbot?style=flat-square&color=blue)](https://github.com/blacklanternsecurity/bbot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The recursive internet scanner for hackers. 🧡
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10.1k |
-| 🍴 **Forks** | 881 |
+| ⭐ **Stars** | 9.7k |
+| 🍴 **Forks** | 803 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · DevTools · Security
+Automation · DevTools
 
 ## 📝 Summary
 
 ### English
 
-blacklanternsecurity/bbot: blacklanternsecurity/bbot helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+blacklanternsecurity/bbot is an open‑source, recursive internet scanner designed for security researchers and penetration testers. It automates the discovery, enumeration, and analysis of hosts, services, and vulnerabilities across large network scopes, leveraging AI/ML techniques to prioritize targets and streamline workflow. The tool integrates with popular dev‑tools and security platforms, making it a versatile asset for proactive threat hunting and vulnerability assessment.
 
 ### Русский
 
-blacklanternsecurity/bbot: open-source проект в категориях Automation, AI/ML, DevTools, Security. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+**BBOT** – это рекурсивный сканер интернета, предназначенный для специалистов по безопасности и пентестеров. Он автоматически перебирает диапазоны IP‑адресов, собирает открытые сервисы, поддомены и уязвимости, используя гибкую модульную архитектуру и возможности AI/ML для оптимизации поиска. Проект открытый, хорошо документирован и интегрируется в рабочие процессы DevTools, ускоряя процесс разведки и оценки рисков.
 
 ### 中文
 
-blacklanternsecurity/bbot：blacklanternsecurity/bbot helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+blacklanternsecurity/bbot：blacklanternsecurity/bbot helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ blacklanternsecurity/bbot：blacklanternsecurity/bbot helps remove repetitive ma
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 10139 GitHub stars
-- 881 forks
-- updated 2026-07-12
+- 9659 GitHub stars
+- 803 forks
+- updated 2026-05-08
 - primary language: Python
 - 20 topics
 
@@ -65,18 +65,18 @@ blacklanternsecurity/bbot：blacklanternsecurity/bbot helps remove repetitive ma
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 92/100 |
-| integration | 62/100 |
-| production | 83/100 |
-| outlook | 94/100 |
-| adoption | 82/100 |
+| forks | 73/100 |
 | stars | 85/100 |
-| forks | 74/100 |
-| recency | 100/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/blacklanternsecurity/bbot) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/blacklanternsecurity/bbot) · [← Back to Automation](./README.md)</sub>

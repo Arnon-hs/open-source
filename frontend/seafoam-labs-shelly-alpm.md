@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Design
+Frontend · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Seafoam-Labs/Shelly-ALPM：Seafoam-Labs/Shelly-ALPM helps ship user-facing inter
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 52/100 |
-| adoption | 52/100 |
-| stars | 58/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

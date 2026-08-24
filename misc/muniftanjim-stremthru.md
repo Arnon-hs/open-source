@@ -63,16 +63,16 @@ MunifTanjim/stremthru：MunifTanjim/stremthru may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 41/100 |
-| adoption | 54/100 |
-| stars | 56/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 25/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

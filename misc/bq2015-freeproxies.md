@@ -61,16 +61,16 @@ bq2015/FreeProxies：bq2015/FreeProxies may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 46/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 40/100 |
-| adoption | 57/100 |
-| stars | 59/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

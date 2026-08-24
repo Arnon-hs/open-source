@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ mubaidr/gem-team：mubaidr/gem-team helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 54/100 |
-| adoption | 37/100 |
-| stars | 43/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 45/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

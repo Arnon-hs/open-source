@@ -65,16 +65,16 @@ moeru-ai/airi：moeru-ai/airi helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 78/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 96/100 |
-| stars | 98/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

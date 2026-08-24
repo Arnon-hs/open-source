@@ -63,16 +63,16 @@ triplea-game/triplea：triplea-game/triplea may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 67/100 |
-| stars | 68/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

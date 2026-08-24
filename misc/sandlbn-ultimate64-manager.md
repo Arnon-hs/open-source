@@ -63,16 +63,16 @@ sandlbn/ultimate64-manager：sandlbn/ultimate64-manager may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 41/100 |
-| adoption | 38/100 |
-| stars | 46/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 63/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

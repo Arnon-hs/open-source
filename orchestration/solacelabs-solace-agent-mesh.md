@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ SolaceLabs/solace-agent-mesh: SolaceLabs/solace-agent-mesh helps turn isolated p
 
 ### Русский
 
-SolaceLabs/solace-agent-mesh: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SolaceLabs/solace-agent-mesh: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ SolaceLabs/solace-agent-mesh：SolaceLabs/solace-agent-mesh helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 65/100 |
-| adoption | 71/100 |
-| stars | 76/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

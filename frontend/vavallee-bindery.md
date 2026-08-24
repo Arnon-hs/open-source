@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevOps/Infra · Security
+Frontend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ vavallee/bindery：vavallee/bindery helps ship user-facing interfaces with less 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 44/100 |
-| stars | 50/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

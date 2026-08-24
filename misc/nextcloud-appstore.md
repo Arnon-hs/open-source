@@ -63,16 +63,16 @@ nextcloud/appstore：nextcloud/appstore may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 48/100 |
-| adoption | 55/100 |
-| stars | 55/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 88/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

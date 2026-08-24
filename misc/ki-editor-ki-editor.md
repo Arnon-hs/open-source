@@ -64,16 +64,16 @@ ki-editor/ki-editor：ki-editor/ki-editor may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 46/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 40/100 |
-| adoption | 59/100 |
-| stars | 63/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

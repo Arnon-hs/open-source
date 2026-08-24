@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ GlitterKill/sdl-mcp: GlitterKill/sdl-mcp helps turn isolated prompts and tools i
 
 ### Русский
 
-GlitterKill/sdl-mcp: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+GlitterKill/sdl-mcp: open-source проект в категориях Orchestration, MCP, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ GlitterKill/sdl-mcp：GlitterKill/sdl-mcp helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 59/100 |
-| adoption | 47/100 |
-| stars | 53/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

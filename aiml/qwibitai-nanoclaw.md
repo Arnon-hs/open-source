@@ -65,16 +65,16 @@ qwibitai/nanoclaw：qwibitai/nanoclaw helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 62/100 |
-| adoption | 96/100 |
-| stars | 95/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 63/100 |
+| outlook | 62/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

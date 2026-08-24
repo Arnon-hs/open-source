@@ -65,16 +65,16 @@ matrixhub-ai/matrixhub：matrixhub-ai/matrixhub helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 46/100 |
-| stars | 50/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

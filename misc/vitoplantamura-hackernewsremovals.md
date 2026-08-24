@@ -62,16 +62,16 @@ vitoplantamura/HackerNewsRemovals：vitoplantamura/HackerNewsRemovals may be use
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 42/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 37/100 |
-| adoption | 48/100 |
-| stars | 56/100 |
 | forks | 27/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ hashicorp/terraform-provider-google：hashicorp/terraform-provider-google helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 75/100 |
-| stars | 73/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -68,16 +68,16 @@ XiaomingX/indie-hacker-tools-plus：XiaomingX/indie-hacker-tools-plus helps add 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 58/100 |
-| adoption | 65/100 |
-| stars | 69/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

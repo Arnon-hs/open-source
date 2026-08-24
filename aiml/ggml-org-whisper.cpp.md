@@ -65,16 +65,16 @@ ggml-org/whisper.cpp：ggml-org/whisper.cpp helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 75/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 75/100 |
+| outlook | 57/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

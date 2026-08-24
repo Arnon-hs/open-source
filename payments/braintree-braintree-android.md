@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Mobile
+Payments · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ braintree/braintree_android：braintree/braintree_android helps integrate moneti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 57/100 |
-| stars | 56/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 63/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

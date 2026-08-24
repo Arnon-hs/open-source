@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ okandemirel/Strada.Brain：okandemirel/Strada.Brain helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 46/100 |
-| integration | 78/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 25/100 |
-| stars | 30/100 |
 | forks | 12/100 |
-| recency | 20/100 |
+| stars | 30/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 25/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ calimero-network/core：calimero-network/core may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 40/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 37/100 |
-| adoption | 45/100 |
-| stars | 47/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 40/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

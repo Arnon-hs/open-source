@@ -62,16 +62,16 @@ pop-os/cosmic-greeter：pop-os/cosmic-greeter may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 41/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 37/100 |
-| adoption | 46/100 |
-| stars | 45/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

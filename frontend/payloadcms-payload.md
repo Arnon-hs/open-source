@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ payloadcms/payload：payloadcms/payload helps ship user-facing interfaces with l
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 78/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 96/100 |
-| stars | 98/100 |
 | forks | 89/100 |
-| recency | 20/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

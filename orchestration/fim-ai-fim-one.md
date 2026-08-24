@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ fim-ai/fim-one: fim-ai/fim-one helps turn isolated prompts and tools into repeat
 
 ### Русский
 
-fim-ai/fim-one: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+fim-ai/fim-one: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ fim-ai/fim-one：fim-ai/fim-one helps turn isolated prompts and tools into repea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 61/100 |
-| adoption | 58/100 |
-| stars | 62/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

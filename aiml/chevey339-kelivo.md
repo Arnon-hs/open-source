@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Chevey339/kelivo: Chevey339/kelivo helps add AI capability without starting from
 
 ### Русский
 
-Chevey339/kelivo: open-source проект в категориях AI/ML, DevTools, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Chevey339/kelivo: open-source проект в категориях AI/ML, Mobile. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Chevey339/kelivo：Chevey339/kelivo helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 69/100 |
-| stars | 73/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

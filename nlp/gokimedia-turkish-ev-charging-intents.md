@@ -67,6 +67,7 @@ gokimedia/turkish-ev-charging-intents：gokimedia/turkish-ev-charging-intents ma
 | production | 63/100 |
 | outlook | 60/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |

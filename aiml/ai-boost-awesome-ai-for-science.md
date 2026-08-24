@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ai-boost/awesome-ai-for-science: ai-boost/awesome-ai-for-science helps add AI ca
 
 ### Русский
 
-ai-boost/awesome-ai-for-science: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+ai-boost/awesome-ai-for-science: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -64,16 +64,16 @@ ai-boost/awesome-ai-for-science：ai-boost/awesome-ai-for-science helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 57/100 |
-| adoption | 64/100 |
-| stars | 68/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

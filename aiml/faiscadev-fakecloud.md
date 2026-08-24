@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · DevOps/Infra
+AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ faiscadev/fakecloud：faiscadev/fakecloud helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 53/100 |
-| adoption | 46/100 |
-| stars | 52/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

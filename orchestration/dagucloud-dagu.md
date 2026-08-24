@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dagucloud/dagu: dagucloud/dagu helps turn isolated prompts and tools into repeat
 
 ### Русский
 
-dagucloud/dagu: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dagucloud/dagu: open-source проект в категориях Orchestration, Automation, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dagucloud/dagu：dagucloud/dagu helps turn isolated prompts and tools into repea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 65/100 |
-| adoption | 71/100 |
-| stars | 75/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

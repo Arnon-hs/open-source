@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data
+Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ paradedb/paradedb: paradedb/paradedb helps convert raw data into searchable, ana
 
 ### Русский
 
-paradedb/paradedb: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+paradedb/paradedb: open-source проект в категориях Data, Database. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ paradedb/paradedb：paradedb/paradedb helps convert raw data into searchable, an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 78/100 |
-| stars | 84/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

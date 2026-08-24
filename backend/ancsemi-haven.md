@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Mobile · DevOps/Infra
+Backend · Mobile · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ancsemi/Haven: ancsemi/Haven helps teams reuse service infrastructure instead of
 
 ### Русский
 
-ancsemi/Haven: open-source проект в категориях Backend, Mobile, DevOps/Infra. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+ancsemi/Haven: open-source проект в категориях Backend, Mobile, DevOps/Infra, Security. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ancsemi/Haven：ancsemi/Haven helps teams reuse service infrastructure instead o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 52/100 |
-| adoption | 52/100 |
-| stars | 56/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

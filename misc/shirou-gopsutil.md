@@ -63,16 +63,16 @@ shirou/gopsutil：shirou/gopsutil may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 85/100 |
-| stars | 87/100 |
 | forks | 81/100 |
-| recency | 20/100 |
+| stars | 87/100 |
 | topics | 38/100 |
+| outlook | 50/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

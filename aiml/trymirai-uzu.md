@@ -65,16 +65,16 @@ trymirai/uzu：trymirai/uzu helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 61/100 |
-| stars | 68/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 88/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

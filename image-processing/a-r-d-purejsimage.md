@@ -69,6 +69,7 @@ a-r-d/PureJsImage：a-r-d/PureJsImage may be useful when its README and activity
 | production | 68/100 |
 | outlook | 68/100 |
 | adoption | 32/100 |
+| categoryMatchCount | 700/100 |
 | stars | 41/100 |
 | forks | 8/100 |
 | recency | 100/100 |

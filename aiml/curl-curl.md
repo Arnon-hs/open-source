@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Data
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ curl/curl：curl/curl helps add AI capability without starting from a blank mode
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 79/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 69/100 |
-| adoption | 98/100 |
-| stars | 98/100 |
 | forks | 96/100 |
-| recency | 20/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 69/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 59/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

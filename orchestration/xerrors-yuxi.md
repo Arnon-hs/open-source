@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ xerrors/Yuxi：xerrors/Yuxi helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 70/100 |
-| integration | 94/100 |
-| production | 60/100 |
-| outlook | 66/100 |
-| adoption | 77/100 |
-| stars | 79/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 60/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

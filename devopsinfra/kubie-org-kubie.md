@@ -65,16 +65,16 @@ kubie-org/kubie：kubie-org/kubie helps make deployment and operations more repe
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 47/100 |
-| adoption | 67/100 |
-| stars | 72/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 50/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

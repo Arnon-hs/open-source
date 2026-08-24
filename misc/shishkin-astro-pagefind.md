@@ -63,16 +63,16 @@ shishkin/astro-pagefind：shishkin/astro-pagefind may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 46/100 |
-| adoption | 52/100 |
-| stars | 58/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 50/100 |
+| outlook | 46/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

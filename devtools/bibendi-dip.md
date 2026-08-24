@@ -65,16 +65,16 @@ bibendi/dip：bibendi/dip helps engineers save time in daily development and rev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 60/100 |
-| stars | 66/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

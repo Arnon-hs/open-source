@@ -65,16 +65,16 @@ whisper-money/whisper-money：whisper-money/whisper-money helps ship user-facing
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 50/100 |
-| adoption | 49/100 |
-| stars | 54/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 88/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

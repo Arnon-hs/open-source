@@ -1,0 +1,82 @@
+# jamditis/claude-skills-journalism
+
+[![Stars](https://img.shields.io/github/stars/jamditis/claude-skills-journalism?style=flat-square&color=yellow)](https://github.com/jamditis/claude-skills-journalism/stargazers) [![Forks](https://img.shields.io/github/forks/jamditis/claude-skills-journalism?style=flat-square&color=blue)](https://github.com/jamditis/claude-skills-journalism/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+
+> Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 192 |
+| 🍴 **Forks** | 39 |
+| 💻 **Language** | HTML |
+| 📈 **Score** | 44/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`academic-writing` `claude` `claude-code` `claude-skills` `data-journalism` `fact-checking` `foia` `journalism` `media` `newsroom` `osint` `skills`
+
+## 🎯 Categories
+
+Data
+
+## 📝 Summary
+
+### English
+
+The **claude-skills-journalism** repository provides a collection of Claude‑powered prompts and code snippets designed to streamline tasks common in journalism, media, and academia. It covers a wide range of use‑cases—including source verification, FOIA request drafting, data‑driven reporting, academic writing, and other research‑oriented workflows—helping professionals automate and enhance their investigative and analytical processes. The project is open‑source and positioned at the intersection of AI/ML and data‑focused journalism.
+
+### Русский
+
+Open‑source проект **jamditis/claude-skills-journalism** предоставляет набор готовых навыков Claude Code, оптимизированных для журналистики, медиа и академической среды. Он охватывает задачи верификации информации, запросов по закону FOIA, data‑journalism, академического письма и другие типичные сценарии, позволяя автоматизировать анализ данных и подготовку материалов с помощью ИИ. Проект размещён в категориях AI/ML и Data, что делает его полезным как для редакций, так и для исследовательских команд.
+
+### 中文
+
+jamditis/claude-skills-journalism：jamditis/claude-skills-journalism helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** jamditis/claude-skills-journalism helps convert raw data into searchable, analyzable, or automated pipelines.
+
+**Best use cases**
+
+- organize analytics pipelines
+- process datasets
+- improve reporting workflows
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 192 GitHub stars
+- 39 forks
+- updated 2026-05-08
+- primary language: HTML
+- 13 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 40/100 |
+| stars | 49/100 |
+| topics | 100/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/jamditis/claude-skills-journalism) · [← Back to Data](./README.md)</sub>

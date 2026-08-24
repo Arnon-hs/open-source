@@ -65,16 +65,16 @@ dcouple/Pane：dcouple/Pane helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 40/100 |
-| stars | 40/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 40/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ typetools/checker-framework：typetools/checker-framework may be useful when its
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 52/100 |
-| adoption | 65/100 |
-| stars | 65/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 38/100 |
+| outlook | 52/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

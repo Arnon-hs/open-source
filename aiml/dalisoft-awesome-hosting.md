@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data
+AI/ML · Database · Product
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ dalisoft/awesome-hosting：dalisoft/awesome-hosting helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 50/100 |
-| adoption | 59/100 |
-| stars | 62/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

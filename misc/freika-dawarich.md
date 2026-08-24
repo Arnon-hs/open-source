@@ -63,16 +63,16 @@ Freika/dawarich：Freika/dawarich may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 78/100 |
-| stars | 84/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

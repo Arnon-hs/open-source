@@ -65,16 +65,16 @@ trezor/blockbook：trezor/blockbook helps prototype or inspect blockchain workfl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 64/100 |
-| stars | 61/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

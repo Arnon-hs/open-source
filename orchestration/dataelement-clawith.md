@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dataelement/Clawith：dataelement/Clawith helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 74/100 |
-| stars | 76/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

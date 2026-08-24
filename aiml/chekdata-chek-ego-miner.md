@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data · Mobile
+AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ chekdata/chek-ego-miner：chekdata/chek-ego-miner helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 43/100 |
-| stars | 49/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ EverMind-AI/EverOS：EverMind-AI/EverOS helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 64/100 |
-| adoption | 75/100 |
-| stars | 78/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

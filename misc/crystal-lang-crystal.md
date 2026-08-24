@@ -63,16 +63,16 @@ crystal-lang/crystal：crystal-lang/crystal may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 89/100 |
-| stars | 92/100 |
 | forks | 81/100 |
-| recency | 20/100 |
+| stars | 92/100 |
 | topics | 63/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

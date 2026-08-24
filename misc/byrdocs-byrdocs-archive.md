@@ -63,16 +63,16 @@ byrdocs/byrdocs-archive：byrdocs/byrdocs-archive may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 39/100 |
-| adoption | 51/100 |
-| stars | 54/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 13/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

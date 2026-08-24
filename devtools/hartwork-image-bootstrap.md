@@ -65,16 +65,16 @@ hartwork/image-bootstrap：hartwork/image-bootstrap helps engineers save time in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

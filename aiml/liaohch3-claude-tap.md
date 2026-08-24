@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ liaohch3/claude-tap：liaohch3/claude-tap helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 56/100 |
-| adoption | 47/100 |
-| stars | 51/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 88/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ elizaOS/eliza: elizaOS/eliza helps prototype or inspect blockchain workflows wit
 
 ### Русский
 
-elizaOS/eliza: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+elizaOS/eliza: open-source проект в категориях Crypto, Knowledge/RAG, Automation, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ elizaOS/eliza：elizaOS/eliza helps prototype or inspect blockchain workflows wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 68/100 |
-| adoption | 92/100 |
-| stars | 91/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 91/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Kohaku-Lab/KohakuTerrarium：Kohaku-Lab/KohakuTerrarium helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 51/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 38/100 |
+| outlook | 51/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 46/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

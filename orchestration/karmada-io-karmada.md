@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ karmada-io/karmada: karmada-io/karmada helps turn isolated prompts and tools int
 
 ### Русский
 
-karmada-io/karmada: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+karmada-io/karmada: open-source проект в категориях Orchestration, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ karmada-io/karmada：karmada-io/karmada helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 54/100 |
-| adoption | 79/100 |
-| stars | 80/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 88/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

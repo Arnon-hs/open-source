@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ mlflow/mlflow: mlflow/mlflow helps turn isolated prompts and tools into repeatab
 
 ### Русский
 
-mlflow/mlflow: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mlflow/mlflow: open-source проект в категориях Orchestration, AI/ML, Observability. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ mlflow/mlflow：mlflow/mlflow helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 94/100 |
-| stars | 94/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

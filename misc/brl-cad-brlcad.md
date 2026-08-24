@@ -63,16 +63,16 @@ BRL-CAD/brlcad：BRL-CAD/brlcad may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 42/100 |
-| adoption | 62/100 |
-| stars | 64/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 13/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

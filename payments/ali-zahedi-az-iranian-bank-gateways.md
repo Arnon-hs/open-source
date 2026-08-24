@@ -65,16 +65,16 @@ ali-zahedi/az-iranian-bank-gateways：ali-zahedi/az-iranian-bank-gateways helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 50/100 |
-| adoption | 57/100 |
-| stars | 59/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

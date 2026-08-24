@@ -65,16 +65,16 @@ velero-io/velero：velero-io/velero helps make deployment and operations more re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 53/100 |
-| adoption | 84/100 |
-| stars | 85/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

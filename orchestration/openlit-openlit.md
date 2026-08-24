@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ openlit/openlit：openlit/openlit helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 66/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 69/100 |
-| stars | 72/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

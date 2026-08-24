@@ -1,0 +1,82 @@
+# Ataraxy-Labs/weave
+
+[![Stars](https://img.shields.io/github/stars/Ataraxy-Labs/weave?style=flat-square&color=yellow)](https://github.com/Ataraxy-Labs/weave/stargazers) [![Forks](https://img.shields.io/github/forks/Ataraxy-Labs/weave?style=flat-square&color=blue)](https://github.com/Ataraxy-Labs/weave/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+
+> Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 990 |
+| 🍴 **Forks** | 26 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai-agents` `code-intelligence` `coding-agents` `conflict-resolution` `developer-tools` `git-merge` `llm-tools` `mcp` `merge-driver` `tree-sitter`
+
+## 🎯 Categories
+
+MCP · AI/ML · DevTools
+
+## 📝 Summary
+
+### English
+
+Weave is an entity‑level Git merge driver that intelligently resolves the “false conflicts” that arise when multiple agents independently edit the same file. By merging at the level of code entities (functions, classes, etc.) rather than raw lines, it cuts merge conflicts by roughly 95% compared with traditional line‑based merges. The tool is open‑source, targeting AI‑assisted development and other collaborative coding workflows.
+
+### Русский
+
+Weave — это драйвер слияния для Git, работающий на уровне сущностей и устраняющий ложные конфликты, возникающие при одновременном редактировании одного файла разными агентами. Благодаря анализу структуры кода он сокращает количество конфликтов примерно на 95 % по сравнению с традиционным построчным слиянием, ускоряя совместную разработку. Проект относится к AI/ML и DevTools.
+
+### 中文
+
+Ataraxy-Labs/weave：Ataraxy-Labs/weave helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** Ataraxy-Labs/weave helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 990 GitHub stars
+- 26 forks
+- updated 2026-05-09
+- primary language: Rust
+- 10 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 36/100 |
+| stars | 64/100 |
+| topics | 100/100 |
+| outlook | 59/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Ataraxy-Labs/weave) · [← Back to Mcp](./README.md)</sub>

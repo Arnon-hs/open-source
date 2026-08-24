@@ -65,16 +65,16 @@ anistark/feluda：anistark/feluda helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 51/100 |
-| stars | 57/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

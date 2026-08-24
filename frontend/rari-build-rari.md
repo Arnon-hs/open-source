@@ -65,16 +65,16 @@ rari-build/rari：rari-build/rari helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 55/100 |
-| adoption | 57/100 |
-| stars | 65/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

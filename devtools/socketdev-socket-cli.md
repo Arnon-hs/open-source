@@ -65,16 +65,16 @@ SocketDev/socket-cli：SocketDev/socket-cli helps engineers save time in daily d
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 43/100 |
-| adoption | 48/100 |
-| stars | 51/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 25/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

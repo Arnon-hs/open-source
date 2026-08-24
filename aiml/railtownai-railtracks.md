@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ RailtownAI/railtracks：RailtownAI/railtracks helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 47/100 |
-| adoption | 39/100 |
-| stars | 45/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 50/100 |
+| outlook | 47/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 45/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

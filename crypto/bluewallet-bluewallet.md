@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · Frontend · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ BlueWallet/BlueWallet：BlueWallet/BlueWallet helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 75/100 |
-| stars | 75/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 75/100 |
+| outlook | 52/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

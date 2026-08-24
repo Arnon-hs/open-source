@@ -65,16 +65,16 @@ ekristen/aws-nuke：ekristen/aws-nuke helps engineers save time in daily develop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 62/100 |
-| stars | 66/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ stripe/stripe-ios：stripe/stripe-ios helps integrate monetization, billing, or 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 49/100 |
-| adoption | 73/100 |
-| stars | 72/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 25/100 |
+| outlook | 49/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ TrinityCore/TrinityCore：TrinityCore/TrinityCore may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 88/100 |
-| stars | 86/100 |
 | forks | 95/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

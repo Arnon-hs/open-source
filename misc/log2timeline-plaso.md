@@ -63,16 +63,16 @@ log2timeline/plaso：log2timeline/plaso may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 46/100 |
-| adoption | 69/100 |
-| stars | 71/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 38/100 |
+| outlook | 46/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend
+Frontend
 
 ## 📝 Summary
 
@@ -69,16 +69,16 @@ AllenDang/giu：AllenDang/giu helps ship user-facing interfaces with less custom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 68/100 |
-| stars | 73/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 88/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

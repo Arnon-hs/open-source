@@ -65,16 +65,16 @@ chriswritescode-dev/opencode-manager：chriswritescode-dev/opencode-manager help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 55/100 |
-| stars | 58/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 50/100 |
+| outlook | 50/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

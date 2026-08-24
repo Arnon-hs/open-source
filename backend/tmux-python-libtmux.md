@@ -65,16 +65,16 @@ tmux-python/libtmux：tmux-python/libtmux helps teams reuse service infrastructu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 62/100 |
-| stars | 65/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 88/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

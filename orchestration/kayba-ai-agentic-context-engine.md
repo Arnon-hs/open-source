@@ -65,16 +65,16 @@ kayba-ai/agentic-context-engine：kayba-ai/agentic-context-engine helps turn iso
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 68/100 |
-| stars | 71/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

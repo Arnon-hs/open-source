@@ -62,16 +62,16 @@ bazaar-org/bazaar：bazaar-org/bazaar may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 41/100 |
-| adoption | 64/100 |
-| stars | 68/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

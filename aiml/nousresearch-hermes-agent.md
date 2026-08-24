@@ -65,16 +65,16 @@ NousResearch/hermes-agent：NousResearch/hermes-agent helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ wiseaidotdev/autogpt：wiseaidotdev/autogpt helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 57/100 |
-| adoption | 40/100 |
-| stars | 44/100 |
 | forks | 30/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

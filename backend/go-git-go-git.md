@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ go-git/go-git: go-git/go-git helps teams reuse service infrastructure instead of
 
 ### Русский
 
-go-git/go-git: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+go-git/go-git: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ go-git/go-git：go-git/go-git helps teams reuse service infrastructure instead o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 80/100 |
-| stars | 82/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 75/100 |
+| outlook | 56/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ likec4/likec4：likec4/likec4 may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 70/100 |
-| stars | 74/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 50/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · Frontend · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ OneKeyHQ/app-monorepo：OneKeyHQ/app-monorepo helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 71/100 |
-| stars | 72/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ Snownee/Jade：Snownee/Jade may be useful when its README and activity match a c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 40/100 |
-| adoption | 52/100 |
-| stars | 53/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 13/100 |
+| outlook | 40/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ vchelaru/Gum：vchelaru/Gum helps ship user-facing interfaces with less custom U
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 54/100 |
-| stars | 57/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

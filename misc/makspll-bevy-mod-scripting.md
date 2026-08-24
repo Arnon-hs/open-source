@@ -1,0 +1,80 @@
+# makspll/bevy_mod_scripting
+
+[![Stars](https://img.shields.io/github/stars/makspll/bevy_mod_scripting?style=flat-square&color=yellow)](https://github.com/makspll/bevy_mod_scripting/stargazers) [![Forks](https://img.shields.io/github/forks/makspll/bevy_mod_scripting?style=flat-square&color=blue)](https://github.com/makspll/bevy_mod_scripting/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+
+> Bevy Scripting Plugin
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 614 |
+| 🍴 **Forks** | 55 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 49/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`bevy` `bevy-engine` `game-development` `lua` `rhai` `rust` `scripting`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+The **bevy_mod_scripting** crate adds a flexible scripting layer to the Bevy game engine, allowing developers to write game logic in external languages (such as Lua, Python, or JavaScript) and hot‑reload scripts at runtime. It provides a clean API for registering scriptable components, exposing Bevy’s ECS and resources to the scripting environment, and handling script lifecycle events. This makes it easier to prototype, mod, or extend Bevy projects without recompiling the Rust code.
+
+### Русский
+
+Makspll/bevy_mod_scripting — это открытый плагин для игрового движка Bevy, предоставляющий гибкую систему скриптинга, позволяющую писать игровые логики на высокоуровневых языках (например, Lua или Python) и интегрировать их в ECS‑архитектуру Bevy. Плагин упрощает создание и управление AI‑поведением, динамическими событиями и машинным обучением прямо в игровом процессе, обеспечивая безопасный и эффективный запуск пользовательского кода. Он подходит как для прототипирования, так и для продакшн‑проектов, требующих расширяемой и модульной логики.
+
+### 中文
+
+makspll/bevy_mod_scripting：makspll/bevy_mod_scripting may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** makspll/bevy_mod_scripting may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 614 GitHub stars
+- 55 forks
+- updated 2026-05-09
+- primary language: Rust
+- 7 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 44/100 |
+| stars | 59/100 |
+| topics | 88/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/makspll/bevy_mod_scripting) · [← Back to Misc](./README.md)</sub>

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Data
+Crypto · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Crypto · AI/ML · Data
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 51/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 48/100 |
-| adoption | 36/100 |
-| stars | 35/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

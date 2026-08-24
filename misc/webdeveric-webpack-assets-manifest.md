@@ -63,16 +63,16 @@ webdeveric/webpack-assets-manifest：webdeveric/webpack-assets-manifest may be u
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 46/100 |
-| adoption | 49/100 |
-| stars | 54/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 88/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

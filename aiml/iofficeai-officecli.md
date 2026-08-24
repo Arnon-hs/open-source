@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ iOfficeAI/OfficeCLI: iOfficeAI/OfficeCLI helps add AI capability without startin
 
 ### Русский
 
-iOfficeAI/OfficeCLI: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+iOfficeAI/OfficeCLI: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ iOfficeAI/OfficeCLI：iOfficeAI/OfficeCLI helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 70/100 |
-| stars | 74/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 75/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

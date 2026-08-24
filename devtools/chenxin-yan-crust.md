@@ -65,16 +65,16 @@ chenxin-yan/crust：chenxin-yan/crust helps engineers save time in daily develop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 46/100 |
-| stars | 55/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 75/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

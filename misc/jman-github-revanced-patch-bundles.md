@@ -63,16 +63,16 @@ Jman-Github/ReVanced-Patch-Bundles：Jman-Github/ReVanced-Patch-Bundles may be u
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 51/100 |
-| stars | 58/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 75/100 |
+| outlook | 46/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

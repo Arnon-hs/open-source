@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ OpenClawChineseTranslation — это полностью открытая ки
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 65/100 |
-| adoption | 74/100 |
-| stars | 76/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ steipete/agent-scripts：steipete/agent-scripts helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 69/100 |
-| stars | 72/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 13/100 |
+| outlook | 47/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

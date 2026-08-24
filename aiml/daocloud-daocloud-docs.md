@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ DaoCloud/DaoCloud-docs: DaoCloud/DaoCloud-docs helps add AI capability without s
 
 ### Русский
 
-DaoCloud/DaoCloud-docs: open-source проект в категориях AI/ML, Backend, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+DaoCloud/DaoCloud-docs: open-source проект в категориях AI/ML, Backend, Observability, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ DaoCloud/DaoCloud-docs：DaoCloud/DaoCloud-docs helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 48/100 |
-| adoption | 52/100 |
-| stars | 49/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

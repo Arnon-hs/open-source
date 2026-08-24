@@ -65,16 +65,16 @@ opensolon/soloncode：opensolon/soloncode helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 40/100 |
-| stars | 43/100 |
 | forks | 32/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 88/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

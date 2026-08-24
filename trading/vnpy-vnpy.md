@@ -65,16 +65,16 @@ vnpy/vnpy：vnpy/vnpy helps research and automate market workflows.。适合用�
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 79/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
-| adoption | 99/100 |
-| stars | 98/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 59/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

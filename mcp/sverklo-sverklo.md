@@ -1,0 +1,82 @@
+# sverklo/sverklo
+
+[![Stars](https://img.shields.io/github/stars/sverklo/sverklo?style=flat-square&color=yellow)](https://github.com/sverklo/sverklo/stargazers) [![Forks](https://img.shields.io/github/forks/sverklo/sverklo?style=flat-square&color=blue)](https://github.com/sverklo/sverklo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+
+> Local-first code intelligence — MCP server for Claude Code, Cursor, Windsurf, Zed. Symbol graph, blast-radius, git-pinned memory. 43× fewer tokens than naive grep. MIT, zero-config.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 38 |
+| 🍴 **Forks** | 5 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai-agents` `bm25` `claude-code` `code-intelligence` `code-review` `code-search` `cursor` `developer-tools` `embeddings` `local-first` `mcp` `mcp-server`
+
+## 🎯 Categories
+
+MCP · Knowledge/RAG · AI/ML · Backend · DevTools
+
+## 📝 Summary
+
+### English
+
+sverklo is a lightweight, zero‑configuration MCP (Message Control Protocol) server that provides local‑first code intelligence for tools such as Claude Code, Cursor, Windsurf, and Zed. It builds a symbol graph with git‑pinned memory and blast‑radius analysis, delivering code search that uses up to 43× fewer tokens than a naive grep approach. Released under the MIT license, it targets AI/ML, backend, and developer‑tool workflows.
+
+### Русский
+
+sverklo — это open‑source MCP‑сервер для Claude Code, Cursor, Windsurf и Zed, предоставляющий локальную IA‑поддержку разработки: построение графа символов, вычисление blast‑radius и хранение памяти, привязанной к git. Благодаря оптимизированному алгоритму он использует в 43 раза меньше токенов, чем обычный grep, и работает без какой‑либо конфигурации под лицензией MIT. Подходит для AI/ML, бекенда и инструментов разработчика.
+
+### 中文
+
+sverklo/sverklo：sverklo/sverklo helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** sverklo/sverklo helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 38 GitHub stars
+- 5 forks
+- updated 2026-05-08
+- primary language: TypeScript
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 19/100 |
+| stars | 34/100 |
+| topics | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 48/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/sverklo/sverklo) · [← Back to Mcp](./README.md)</sub>

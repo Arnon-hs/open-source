@@ -65,16 +65,16 @@ aws/s2n-tls：aws/s2n-tls helps prototype or inspect blockchain workflows with o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 55/100 |
-| adoption | 77/100 |
-| stars | 78/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ agronholm/cbor2：agronholm/cbor2 may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 41/100 |
-| adoption | 51/100 |
-| stars | 53/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 25/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

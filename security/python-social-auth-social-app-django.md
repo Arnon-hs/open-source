@@ -65,16 +65,16 @@ python-social-auth/social-app-django：python-social-auth/social-app-django help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 49/100 |
-| adoption | 69/100 |
-| stars | 71/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 63/100 |
+| outlook | 49/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

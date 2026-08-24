@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ scaleapi/llm-engine：scaleapi/llm-engine helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 58/100 |
-| stars | 62/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 50/100 |
+| outlook | 48/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

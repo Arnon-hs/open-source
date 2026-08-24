@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design · Product
+AI/ML · Design
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ From Prompt to Pull Request: Using Claude Design, Claude Code, and GitHub Togeth
 
 ### Русский
 
-From Prompt to Pull Request: Using Claude Design, Claude Code, and GitHub Together: open-source проект в категориях AI/ML, Design, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+From Prompt to Pull Request: Using Claude Design, Claude Code, and GitHub Together: open-source проект в категориях AI/ML, Design. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -62,16 +62,16 @@ From Prompt to Pull Request: Using Claude Design, Claude Code, and GitHub Togeth
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 25/100 |
-| integration | 30/100 |
-| production | 32/100 |
-| outlook | 29/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 29/100 |
+| quality | 25/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 32/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · DevTools
+Payments · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ nymtech/nym-vpn-client：nymtech/nym-vpn-client helps integrate monetization, bi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 55/100 |
-| adoption | 52/100 |
-| stars | 56/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

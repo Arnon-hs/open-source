@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ aws-samples/sample-autonomous-cloud-coding-agents：aws-samples/sample-autonomou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 47/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 35/100 |
-| stars | 36/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 36/100 |
 | topics | 75/100 |
+| outlook | 45/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

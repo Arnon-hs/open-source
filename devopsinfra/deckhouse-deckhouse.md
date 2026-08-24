@@ -65,16 +65,16 @@ deckhouse/deckhouse：deckhouse/deckhouse helps make deployment and operations m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 45/100 |
-| adoption | 63/100 |
-| stars | 66/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

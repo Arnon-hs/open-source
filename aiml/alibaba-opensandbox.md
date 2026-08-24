@@ -65,16 +65,16 @@ alibaba/OpenSandbox：alibaba/OpenSandbox helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 55/100 |
-| adoption | 82/100 |
-| stars | 86/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

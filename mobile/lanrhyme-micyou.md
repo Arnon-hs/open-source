@@ -62,16 +62,16 @@ LanRhyme/MicYou：LanRhyme/MicYou may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 44/100 |
-| adoption | 63/100 |
-| stars | 70/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

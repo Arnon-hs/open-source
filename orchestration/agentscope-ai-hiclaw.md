@@ -65,16 +65,16 @@ agentscope-ai/HiClaw：agentscope-ai/HiClaw helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 75/100 |
-| stars | 78/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 25/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

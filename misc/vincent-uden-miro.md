@@ -63,16 +63,16 @@ vincent-uden/miro：vincent-uden/miro may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 43/100 |
-| adoption | 51/100 |
-| stars | 57/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 50/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

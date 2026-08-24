@@ -65,16 +65,16 @@ DougTrajano/pydantic-ai-skills：DougTrajano/pydantic-ai-skills helps turn isola
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 47/100 |
-| stars | 52/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

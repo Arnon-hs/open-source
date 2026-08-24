@@ -1,0 +1,82 @@
+# GyulyVGC/sniffnet
+
+[![Stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=flat-square&color=yellow)](https://github.com/GyulyVGC/sniffnet/stargazers) [![Forks](https://img.shields.io/github/forks/GyulyVGC/sniffnet?style=flat-square&color=blue)](https://github.com/GyulyVGC/sniffnet/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+
+> Comfortably monitor your Internet traffic 🕵️‍♂️
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 37.3k |
+| 🍴 **Forks** | 1.5k |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`application` `gui` `iced` `linux` `macos` `network` `network-analysis` `network-monitoring` `networking` `packet-analyser` `packet-capture` `packet-sniffer`
+
+## 🎯 Categories
+
+Observability · Security
+
+## 📝 Summary
+
+### English
+
+Sniffnet is an open‑source, user‑friendly desktop application that lets you visualize and analyze your network traffic in real time. With an intuitive frontend and built‑in security features, it helps users monitor bandwidth usage, detect unusual activity, and gain insight into the data flowing through their internet connection.
+
+### Русский
+
+GyulyVGC/sniffnet — это открытый фронтенд‑инструмент для удобного мониторинга сетевого трафика в режиме реального времени, позволяющий пользователям визуализировать и анализировать HTTP/HTTPS запросы без необходимости глубоко погружаться в системные настройки. Проект сочетает простую, интуитивную UI с функциями безопасности, такими как фильтрация по протоколам и IP‑адресам, что делает его полезным как для разработчиков, так и для специалистов по кибер‑безопасности. Благодаря лицензии MIT и активному сообществу, sniffnet легко интегрировать в любые проекты и расширять его возможности.
+
+### 中文
+
+GyulyVGC/sniffnet：GyulyVGC/sniffnet helps make production behavior easier to inspect and debug.。适合用于monitor systems、debug production behavior。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** GyulyVGC/sniffnet helps make production behavior easier to inspect and debug.
+
+**Best use cases**
+
+- monitor systems
+- debug production behavior
+- track service health
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 37338 GitHub stars
+- 1505 forks
+- updated 2026-05-09
+- primary language: Rust
+- 19 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 79/100 |
+| stars | 97/100 |
+| topics | 100/100 |
+| outlook | 65/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/GyulyVGC/sniffnet) · [← Back to Observability](./README.md)</sub>

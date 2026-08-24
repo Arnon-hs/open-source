@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data · DevOps/Infra
+DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ secretlint/secretlint：secretlint/secretlint helps engineers save time in daily
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 52/100 |
-| adoption | 60/100 |
-| stars | 67/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ radareorg/radare2：radareorg/radare2 helps catch security and privacy issues ea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 65/100 |
-| adoption | 92/100 |
-| stars | 93/100 |
 | forks | 88/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

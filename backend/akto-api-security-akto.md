@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Data
+Backend · Data · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ akto-api-security/akto: akto-api-security/akto helps teams reuse service infrast
 
 ### Русский
 
-akto-api-security/akto: open-source проект в категориях Backend, DevTools, Data. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+akto-api-security/akto: open-source проект в категориях Backend, Data, Security. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ akto-api-security/akto：akto-api-security/akto helps teams reuse service infras
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 66/100 |
-| stars | 67/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ jeremylongshore/claude-code-plugins-plus-skills: jeremylongshore/claude-code-plu
 
 ### Русский
 
-jeremylongshore/claude-code-plugins-plus-skills: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+jeremylongshore/claude-code-plugins-plus-skills: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ jeremylongshore/claude-code-plugins-plus-skills：jeremylongshore/claude-code-pl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 66/100 |
-| integration | 94/100 |
-| production | 59/100 |
-| outlook | 64/100 |
-| adoption | 68/100 |
-| stars | 71/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

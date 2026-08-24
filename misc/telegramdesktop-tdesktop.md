@@ -63,16 +63,16 @@ telegramdesktop/tdesktop：telegramdesktop/tdesktop may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 96/100 |
-| stars | 96/100 |
 | forks | 96/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

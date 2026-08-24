@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Frontend · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ mouseart2025/AI-Reader-V2：mouseart2025/AI-Reader-V2 helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 50/100 |
-| adoption | 44/100 |
-| stars | 45/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

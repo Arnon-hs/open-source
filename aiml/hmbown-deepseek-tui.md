@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Hmbown/DeepSeek-TUI: Hmbown/DeepSeek-TUI helps add AI capability without startin
 
 ### Русский
 
-Hmbown/DeepSeek-TUI: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Hmbown/DeepSeek-TUI: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Hmbown/DeepSeek-TUI：Hmbown/DeepSeek-TUI helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 61/100 |
-| adoption | 87/100 |
-| stars | 90/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 75/100 |
+| outlook | 61/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

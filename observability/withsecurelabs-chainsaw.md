@@ -1,0 +1,82 @@
+# WithSecureLabs/chainsaw
+
+[![Stars](https://img.shields.io/github/stars/WithSecureLabs/chainsaw?style=flat-square&color=yellow)](https://github.com/WithSecureLabs/chainsaw/stargazers) [![Forks](https://img.shields.io/github/forks/WithSecureLabs/chainsaw?style=flat-square&color=blue)](https://github.com/WithSecureLabs/chainsaw/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+
+> Rapidly Search and Hunt through Windows Forensic Artefacts
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3.5k |
+| 🍴 **Forks** | 297 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`attack` `blueteam` `chainsaw` `countercept` `detection` `dfir` `forensics` `logs` `rust` `security` `sigma` `threat-hunting`
+
+## 🎯 Categories
+
+Observability · Security
+
+## 📝 Summary
+
+### English
+
+WithSecureLabs / chainsaw is an open‑source toolkit that enables fast, automated searching and hunting across Windows forensic artefacts such as logs, registry hives, and file system metadata. Leveraging AI/ML techniques for pattern detection, it provides a backend framework for security analysts to quickly surface indicators of compromise and conduct deep investigations. The project is designed for extensibility, allowing custom queries and integration into broader threat‑hunting pipelines.
+
+### Русский
+
+WithSecureLabs / chainsaw — это открытая платформа, позволяющая быстро искать и проводить охоту по артефактам Windows‑форензики с использованием методов искусственного интеллекта и машинного обучения. Инструмент работает как backend‑сервис, автоматизируя анализ системных журналов, реестра и файловых метаданных, что ускоряет обнаружение компрометаций и упрощает расследования в сфере кибер‑безопасности.
+
+### 中文
+
+WithSecureLabs/chainsaw：WithSecureLabs/chainsaw helps make production behavior easier to inspect and debug.。适合用于monitor systems、debug production behavior。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** WithSecureLabs/chainsaw helps make production behavior easier to inspect and debug.
+
+**Best use cases**
+
+- monitor systems
+- debug production behavior
+- track service health
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 3542 GitHub stars
+- 297 forks
+- updated 2026-05-09
+- primary language: Rust
+- 13 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 62/100 |
+| stars | 76/100 |
+| topics | 100/100 |
+| outlook | 57/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/WithSecureLabs/chainsaw) · [← Back to Observability](./README.md)</sub>

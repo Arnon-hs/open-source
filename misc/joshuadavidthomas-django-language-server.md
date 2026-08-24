@@ -1,0 +1,79 @@
+# joshuadavidthomas/django-language-server
+
+[![Stars](https://img.shields.io/github/stars/joshuadavidthomas/django-language-server?style=flat-square&color=yellow)](https://github.com/joshuadavidthomas/django-language-server/stargazers) [![Forks](https://img.shields.io/github/forks/joshuadavidthomas/django-language-server?style=flat-square&color=blue)](https://github.com/joshuadavidthomas/django-language-server/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+
+> A language server for the Django web framework
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 184 |
+| 🍴 **Forks** | 7 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+The **django-language-server** project provides a Language Server Protocol (LSP) implementation tailored for the Django web framework, enabling IDEs and editors to deliver intelligent features such as auto‑completion, go‑to definition, linting, and hover documentation for Django models, views, templates, and settings. By parsing Django’s project structure and leveraging static analysis, it helps developers work more efficiently with Django codebases directly from their favorite editors.
+
+### Русский
+
+Проект **joshuadavidthomas/django-language‑server** представляет собой открытый language server, адаптированный специально для разработки на Django. Он предоставляет автодополнение, навигацию по коду, проверку типов и другие возможности LSP, упрощая работу бэкенд‑разработчиков и повышая продуктивность в редакторах, поддерживающих протокол Language Server.
+
+### 中文
+
+joshuadavidthomas/django-language-server：joshuadavidthomas/django-language-server may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** joshuadavidthomas/django-language-server may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 184 GitHub stars
+- 7 forks
+- updated 2026-05-09
+- primary language: Rust
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 23/100 |
+| stars | 48/100 |
+| topics | 0/100 |
+| outlook | 39/100 |
+| quality | 38/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/joshuadavidthomas/django-language-server) · [← Back to Misc](./README.md)</sub>

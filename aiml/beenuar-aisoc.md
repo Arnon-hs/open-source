@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevOps/Infra
+AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ beenuar/AiSOC：beenuar/AiSOC helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 55/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 56/100 |
-| adoption | 44/100 |
-| stars | 49/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

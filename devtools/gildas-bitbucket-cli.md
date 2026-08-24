@@ -65,16 +65,16 @@ gildas/bitbucket-cli：gildas/bitbucket-cli helps engineers save time in daily d
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 41/100 |
-| integration | 62/100 |
-| production | 45/100 |
-| outlook | 41/100 |
-| adoption | 34/100 |
-| stars | 35/100 |
 | forks | 30/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 38/100 |
+| outlook | 41/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data
+DevTools · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ variety/variety: variety/variety helps engineers save time in daily development 
 
 ### Русский
 
-variety/variety: open-source проект в категориях DevTools, Data. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+variety/variety: open-source проект в категориях DevTools, Database. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ variety/variety：variety/variety helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 66/100 |
-| stars | 69/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

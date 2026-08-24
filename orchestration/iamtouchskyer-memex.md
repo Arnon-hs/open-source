@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ iamtouchskyer/memex：iamtouchskyer/memex helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 56/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 47/100 |
-| stars | 49/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

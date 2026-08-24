@@ -1,0 +1,82 @@
+# OpenSource03/harnss
+
+[![Stars](https://img.shields.io/github/stars/OpenSource03/harnss?style=flat-square&color=yellow)](https://github.com/OpenSource03/harnss/stargazers) [![Forks](https://img.shields.io/github/forks/OpenSource03/harnss?style=flat-square&color=blue)](https://github.com/OpenSource03/harnss/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+
+> Open-source, desktop client/UI build to harness Claude Code, Codex and any other Agent accepting Agent Client Protocol. Run multiple AI coding agents side by side with rich tool visualization, MCP integrations, built-in terminal, git, browser and just about anything else you may need.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 216 |
+| 🍴 **Forks** | 26 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 69/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agent-client-protocol` `agentclientprotocol` `ai` `chatgpt` `claude` `claude-code` `codex` `copilot` `gemini`
+
+## 🎯 Categories
+
+MCP · AI/ML
+
+## 📝 Summary
+
+### English
+
+OpenSource03/harnss is a desktop client that lets you run multiple AI coding agents—such as Claude, Codex, or any service that supports the Agent Client Protocol—side by side with a rich, visual interface. It bundles essential developer tools like a terminal, Git integration, a web browser, and extensible MCP plugins, providing a unified workspace for AI‑assisted development.
+
+### Русский
+
+OpenSource03/harnss — это кроссплатформенный настольный клиент, реализующий Agent Client Protocol и позволяющий одновременно запускать несколько AI‑агентов (Claude Code, Codex и другие) для генерации кода. Встроенный терминал, поддержка Git, браузер, визуализация инструментов и интеграция с MCP делают его полноценным набором DevTools для разработки. Проект открыт и ориентирован на сообщество разработчиков, интересующихся AI/ML и современными фронтенд‑решениями.
+
+### 中文
+
+OpenSource03/harnss：OpenSource03/harnss helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** OpenSource03/harnss helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 216 GitHub stars
+- 26 forks
+- updated 2026-05-08
+- primary language: TypeScript
+- 9 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 36/100 |
+| stars | 50/100 |
+| topics | 100/100 |
+| outlook | 58/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/OpenSource03/harnss) · [← Back to Mcp](./README.md)</sub>

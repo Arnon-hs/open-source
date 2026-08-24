@@ -62,16 +62,16 @@ wnzzer/rank-analysis：wnzzer/rank-analysis may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 42/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 38/100 |
-| adoption | 50/100 |
-| stars | 54/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

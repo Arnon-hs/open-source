@@ -65,16 +65,16 @@ stripe-samples/checkout-one-time-payments：stripe-samples/checkout-one-time-pay
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 65/100 |
-| stars | 64/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

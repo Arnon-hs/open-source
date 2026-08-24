@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevOps/Infra · Marketing
+AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ kubernetes-sigs/agent-sandbox: kubernetes-sigs/agent-sandbox helps add AI capabi
 
 ### Русский
 
-kubernetes-sigs/agent-sandbox: open-source проект в категориях AI/ML, DevOps/Infra, Marketing. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+kubernetes-sigs/agent-sandbox: open-source проект в категориях AI/ML, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -64,16 +64,16 @@ kubernetes-sigs/agent-sandbox：kubernetes-sigs/agent-sandbox helps add AI capab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 45/100 |
-| adoption | 67/100 |
-| stars | 71/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

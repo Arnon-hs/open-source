@@ -65,16 +65,16 @@ gosuda/portal-tunnel：gosuda/portal-tunnel helps catch security and privacy iss
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 47/100 |
-| stars | 51/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

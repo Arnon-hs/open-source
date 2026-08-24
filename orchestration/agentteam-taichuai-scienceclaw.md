@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Frontend · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ AgentTeam-TaichuAI/ScienceClaw：AgentTeam-TaichuAI/ScienceClaw helps turn isola
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 59/100 |
-| integration | 94/100 |
-| production | 57/100 |
-| outlook | 61/100 |
-| adoption | 54/100 |
-| stars | 58/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

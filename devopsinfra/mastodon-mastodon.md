@@ -65,16 +65,16 @@ mastodon/mastodon：mastodon/mastodon helps make deployment and operations more 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 80/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 63/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 97/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

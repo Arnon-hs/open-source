@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Dicklesworthstone/ntm: Dicklesworthstone/ntm helps add AI capability without sta
 
 ### Русский
 
-Dicklesworthstone/ntm: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Dicklesworthstone/ntm: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Dicklesworthstone/ntm：Dicklesworthstone/ntm helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 51/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 53/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 49/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ RSDKModding/RSDKv4-Decompilation：RSDKModding/RSDKv4-Decompilation may be usefu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 44/100 |
-| adoption | 63/100 |
-| stars | 65/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

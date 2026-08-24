@@ -1,41 +1,41 @@
 # juyterman1000/entroly
 
-[![Stars](https://img.shields.io/github/stars/juyterman1000/entroly?style=flat-square&color=yellow)](https://github.com/juyterman1000/entroly/stargazers) [![Forks](https://img.shields.io/github/forks/juyterman1000/entroly?style=flat-square&color=blue)](https://github.com/juyterman1000/entroly/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/juyterman1000/entroly?style=flat-square&color=yellow)](https://github.com/juyterman1000/entroly/stargazers) [![Forks](https://img.shields.io/github/forks/juyterman1000/entroly?style=flat-square&color=blue)](https://github.com/juyterman1000/entroly/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
-> Local context-control plane for AI coding agents: select evidence, compress recoverably, keep caches hot, and verify answers. MCP/proxy/SDK for Cursor, Claude Code, Codex, and Aider.
+> Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT & Custom Providers.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 420 |
-| 🍴 **Forks** | 66 |
+| ⭐ **Stars** | 351 |
+| 🍴 **Forks** | 62 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 83/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `ai-agents` `ai-hallucination` `anthropic` `chatgpt` `claude` `claude-code` `context-compression` `cursor` `hallucination-detection` `llm` `llm-grounding`
+`agents-sdk` `ai` `ai-agents` `ai-tools` `anthropic` `chatgpt` `claude` `claude-code` `claude-opus-4-6` `cursor` `developer-tools` `llm`
 
 ## 🎯 Categories
 
-MCP · Knowledge/RAG · AI/ML · Backend · Product
+MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-juyterman1000/entroly: juyterman1000/entroly helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Entroly‑Daemon is an open‑source, self‑evolving service that compresses massive codebases (up to 2 million tokens) into a compact “Principal Engineer” context, reducing token usage by 85‑99% while preserving 100% accuracy as proven by live API benchmarks. It works seamlessly with major AI code‑completion providers such as Cursor, Claude, Opus, Codex, GPT, and custom back‑ends, offering both frontend and backend integration. The project is designed for developers who need ultra‑efficient, high‑fidelity context windows for large repositories.
 
 ### Русский
 
-juyterman1000/entroly: open-source проект в категориях MCP, Knowledge/RAG, AI/ML, Backend, Product. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Entroly‑Daemon — самоэволюционный сервис, который сжимает репозитории объёмом до 2 М токенов до компактного контекста, эквивалентного уровню Principal Engineer, сокращая количество токенов на 85‑99 % без потери точности (подтверждено живыми API‑бенчмарками). Проект интегрируется с Cursor, Claude Code, Opus, Codex, GPT и пользовательскими провайдерами, предоставляя мощные AI/ML‑инструменты как для фронтенда, так и для бэкенда.
 
 ### 中文
 
-juyterman1000/entroly：juyterman1000/entroly helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+juyterman1000/entroly：juyterman1000/entroly helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ juyterman1000/entroly：juyterman1000/entroly helps connect AI assistants to rea
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 420 GitHub stars
-- 66 forks
-- updated 2026-07-13
+- 351 GitHub stars
+- 62 forks
+- updated 2026-05-08
 - primary language: Python
 - 19 topics
 
@@ -65,18 +65,18 @@ juyterman1000/entroly：juyterman1000/entroly helps connect AI assistants to rea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 79/100 |
-| integration | 78/100 |
-| production | 81/100 |
-| outlook | 88/100 |
-| adoption | 53/100 |
-| stars | 56/100 |
-| forks | 46/100 |
-| recency | 100/100 |
+| forks | 45/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/juyterman1000/entroly) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/juyterman1000/entroly) · [← Back to Mcp](./README.md)</sub>

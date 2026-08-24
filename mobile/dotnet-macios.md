@@ -63,16 +63,16 @@ dotnet/macios：dotnet/macios may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 72/100 |
-| stars | 74/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

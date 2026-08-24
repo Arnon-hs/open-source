@@ -65,6 +65,7 @@ monkeycode/monkeycode：monkeycode/monkeycode may be useful when its README and 
 | production | 27/100 |
 | outlook | 22/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

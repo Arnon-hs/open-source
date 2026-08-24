@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ yegor256/prompt：yegor256/prompt helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 41/100 |
-| adoption | 41/100 |
-| stars | 46/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 50/100 |
+| outlook | 41/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

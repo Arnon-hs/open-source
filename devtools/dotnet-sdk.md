@@ -65,16 +65,16 @@ dotnet/sdk：dotnet/sdk helps engineers save time in daily development and revie
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 56/100 |
-| adoption | 75/100 |
-| stars | 74/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 50/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

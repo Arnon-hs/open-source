@@ -63,16 +63,16 @@ fla-org/flash-linear-attention：fla-org/flash-linear-attention may be useful wh
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 49/100 |
-| adoption | 76/100 |
-| stars | 79/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 50/100 |
+| outlook | 49/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

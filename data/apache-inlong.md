@@ -65,16 +65,16 @@ apache/inlong：apache/inlong helps convert raw data into searchable, analyzable
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 58/100 |
-| adoption | 68/100 |
-| stars | 68/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 88/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

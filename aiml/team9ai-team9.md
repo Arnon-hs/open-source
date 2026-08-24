@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ team9ai/team9：team9ai/team9 helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 46/100 |
-| stars | 51/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 38/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

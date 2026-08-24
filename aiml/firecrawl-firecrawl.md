@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Data
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ firecrawl/firecrawl: firecrawl/firecrawl helps add AI capability without startin
 
 ### Русский
 
-firecrawl/firecrawl: open-source проект в категориях AI/ML, Backend, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+firecrawl/firecrawl: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ firecrawl/firecrawl：firecrawl/firecrawl helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 80/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 97/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ digitalocean-labs/do-app-platform-skills：digitalocean-labs/do-app-platform-ski
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 44/100 |
-| adoption | 25/100 |
-| stars | 30/100 |
 | forks | 12/100 |
-| recency | 20/100 |
+| stars | 30/100 |
 | topics | 88/100 |
+| outlook | 44/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 25/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

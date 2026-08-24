@@ -64,16 +64,16 @@ for-the-zero/Free-LLM-Collection：for-the-zero/Free-LLM-Collection helps add AI
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 44/100 |
-| stars | 48/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 88/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

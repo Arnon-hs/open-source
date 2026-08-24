@@ -65,16 +65,16 @@ raffis/gitops-zombies：raffis/gitops-zombies helps engineers save time in daily
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 78/100 |
-| production | 50/100 |
-| outlook | 45/100 |
-| adoption | 36/100 |
-| stars | 44/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 75/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

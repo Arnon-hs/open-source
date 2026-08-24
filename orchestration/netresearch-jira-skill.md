@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ netresearch/jira-skill：netresearch/jira-skill helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 51/100 |
-| integration | 94/100 |
-| production | 53/100 |
-| outlook | 56/100 |
-| adoption | 35/100 |
-| stars | 36/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 36/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

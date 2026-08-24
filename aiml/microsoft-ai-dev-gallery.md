@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ microsoft/ai-dev-gallery：microsoft/ai-dev-gallery helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 64/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 61/100 |
-| adoption | 65/100 |
-| stars | 67/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

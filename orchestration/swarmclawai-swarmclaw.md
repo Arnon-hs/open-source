@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ swarmclawai/swarmclaw: swarmclawai/swarmclaw helps turn isolated prompts and too
 
 ### Русский
 
-swarmclawai/swarmclaw: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+swarmclawai/swarmclaw: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ swarmclawai/swarmclaw：swarmclawai/swarmclaw helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 61/100 |
-| adoption | 55/100 |
-| stars | 57/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ suzuki-shunsuke/ghtkn：suzuki-shunsuke/ghtkn helps engineers save time in daily
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 43/100 |
-| integration | 62/100 |
-| production | 46/100 |
-| outlook | 42/100 |
-| adoption | 35/100 |
-| stars | 46/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 50/100 |
+| outlook | 42/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 35/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

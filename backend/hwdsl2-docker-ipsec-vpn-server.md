@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Mobile
+Backend · Mobile · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ hwdsl2/docker-ipsec-vpn-server：hwdsl2/docker-ipsec-vpn-server helps teams reus
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 72/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 81/100 |
-| stars | 82/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

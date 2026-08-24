@@ -65,16 +65,16 @@ amirfish1/claude-command-center：amirfish1/claude-command-center helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 51/100 |
-| adoption | 24/100 |
-| stars | 30/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 30/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 24/100 |
+| production | 45/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

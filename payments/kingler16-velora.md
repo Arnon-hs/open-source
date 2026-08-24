@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Kingler16/Velora：Kingler16/Velora helps integrate monetization, billing, or PS
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 30/100 |
-| stars | 32/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ WecomTeam/wecom-cli：WecomTeam/wecom-cli helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 48/100 |
-| adoption | 65/100 |
-| stars | 70/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ huggingface/datasets：huggingface/datasets helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 61/100 |
-| adoption | 91/100 |
-| stars | 92/100 |
 | forks | 88/100 |
-| recency | 20/100 |
+| stars | 92/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

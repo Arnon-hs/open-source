@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ErikEJ/EFCorePowerTools：ErikEJ/EFCorePowerTools helps teams reuse service infr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 62/100 |
-| adoption | 70/100 |
-| stars | 72/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

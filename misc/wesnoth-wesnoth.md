@@ -63,16 +63,16 @@ wesnoth/wesnoth：wesnoth/wesnoth may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 80/100 |
-| stars | 81/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

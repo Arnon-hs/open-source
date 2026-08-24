@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ wshobson/agents：wshobson/agents helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 78/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 71/100 |
-| adoption | 95/100 |
-| stars | 97/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 97/100 |
 | topics | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 61/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

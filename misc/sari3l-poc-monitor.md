@@ -63,16 +63,16 @@ sari3l/Poc-Monitor：sari3l/Poc-Monitor may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 53/100 |
-| stars | 56/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 50/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ runelite/plugin-hub：runelite/plugin-hub may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 42/100 |
-| adoption | 62/100 |
-| stars | 54/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 13/100 |
+| outlook | 42/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

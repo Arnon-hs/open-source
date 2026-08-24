@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · DevTools
+Payments · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ flexprice/flexprice: flexprice/flexprice helps integrate monetization, billing, 
 
 ### Русский
 
-flexprice/flexprice: open-source проект в категориях Payments, Frontend, DevTools. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+flexprice/flexprice: open-source проект в категориях Payments, Database. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ flexprice/flexprice：flexprice/flexprice helps integrate monetization, billing,
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 70/100 |
-| stars | 76/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

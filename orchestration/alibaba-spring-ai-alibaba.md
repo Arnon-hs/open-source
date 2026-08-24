@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ alibaba/spring-ai-alibaba：alibaba/spring-ai-alibaba helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 66/100 |
-| adoption | 84/100 |
-| stars | 85/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

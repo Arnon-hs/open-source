@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Mobile
+Frontend · Mobile · Design
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ czy0729/Bangumi: czy0729/Bangumi helps ship user-facing interfaces with less cus
 
 ### Русский
 
-czy0729/Bangumi: open-source проект в категориях Frontend, DevTools, Mobile. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+czy0729/Bangumi: open-source проект в категориях Frontend, Mobile, Design. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ czy0729/Bangumi：czy0729/Bangumi helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 73/100 |
-| stars | 79/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

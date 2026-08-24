@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ conductor-oss/conductor：conductor-oss/conductor helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 75/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 67/100 |
-| adoption | 90/100 |
-| stars | 96/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

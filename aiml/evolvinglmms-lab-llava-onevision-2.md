@@ -65,16 +65,16 @@ EvolvingLMMs-Lab/LLaVA-OneVision-2：EvolvingLMMs-Lab/LLaVA-OneVision-2 helps ad
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 57/100 |
-| stars | 62/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 63/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

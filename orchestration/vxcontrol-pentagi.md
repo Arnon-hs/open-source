@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Frontend · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ vxcontrol/pentagi：vxcontrol/pentagi helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 75/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 69/100 |
-| adoption | 88/100 |
-| stars | 90/100 |
 | forks | 84/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

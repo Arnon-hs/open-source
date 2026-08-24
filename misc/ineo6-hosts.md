@@ -63,16 +63,16 @@ ineo6/hosts：ineo6/hosts may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 76/100 |
-| stars | 79/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

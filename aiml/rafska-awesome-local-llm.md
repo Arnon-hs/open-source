@@ -64,16 +64,16 @@ rafska/awesome-local-llm：rafska/awesome-local-llm helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 58/100 |
-| adoption | 66/100 |
-| stars | 69/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

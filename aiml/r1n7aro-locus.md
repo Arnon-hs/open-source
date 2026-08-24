@@ -65,16 +65,16 @@ r1n7aro/Locus：r1n7aro/Locus helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 49/100 |
-| adoption | 45/100 |
-| stars | 49/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 88/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

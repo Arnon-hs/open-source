@@ -65,16 +65,16 @@ deepset-ai/haystack-core-integrations：deepset-ai/haystack-core-integrations he
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 52/100 |
-| stars | 49/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

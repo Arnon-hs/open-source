@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · AI/ML · Backend · Data · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dolthub/dolt: dolthub/dolt helps turn isolated prompts and tools into repeatable
 
 ### Русский
 
-dolthub/dolt: open-source проект в категориях Orchestration, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dolthub/dolt: open-source проект в категориях Orchestration, AI/ML, Backend, Data, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dolthub/dolt：dolthub/dolt helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 87/100 |
-| stars | 93/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

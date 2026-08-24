@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Security
+Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ unkeyed/unkey：unkeyed/unkey helps teams reuse service infrastructure instead o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 77/100 |
-| stars | 79/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

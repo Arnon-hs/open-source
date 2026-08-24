@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · DevTools · Data
+Frontend · Data · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ hyperdxio/hyperdx: hyperdxio/hyperdx helps ship user-facing interfaces with less
 
 ### Русский
 
-hyperdxio/hyperdx: open-source проект в категориях Frontend, DevTools, Data. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+hyperdxio/hyperdx: open-source проект в категориях Frontend, Data, Observability, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ hyperdxio/hyperdx：hyperdxio/hyperdx helps ship user-facing interfaces with les
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 71/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 67/100 |
-| adoption | 79/100 |
-| stars | 85/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

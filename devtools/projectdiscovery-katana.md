@@ -65,16 +65,16 @@ projectdiscovery/katana：projectdiscovery/katana helps engineers save time in d
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 62/100 |
-| adoption | 86/100 |
-| stars | 90/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 88/100 |
+| outlook | 62/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

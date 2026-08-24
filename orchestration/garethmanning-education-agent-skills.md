@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Design
+Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ GarethManning/education-agent-skills：GarethManning/education-agent-skills help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 56/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 47/100 |
-| stars | 50/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

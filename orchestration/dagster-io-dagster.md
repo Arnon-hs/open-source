@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Automation · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dagster-io/dagster: dagster-io/dagster helps turn isolated prompts and tools int
 
 ### Русский
 
-dagster-io/dagster: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dagster-io/dagster: open-source проект в категориях Orchestration, Automation, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ dagster-io/dagster：dagster-io/dagster helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 67/100 |
-| adoption | 87/100 |
-| stars | 89/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

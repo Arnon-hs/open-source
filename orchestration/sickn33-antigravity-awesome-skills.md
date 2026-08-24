@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ sickn33/antigravity-awesome-skills：sickn33/antigravity-awesome-skills helps tu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 78/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 71/100 |
-| adoption | 96/100 |
-| stars | 97/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 97/100 |
 | topics | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 61/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

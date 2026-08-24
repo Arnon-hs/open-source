@@ -65,16 +65,16 @@ huangjia2019/claude-code-engineering：huangjia2019/claude-code-engineering help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 51/100 |
-| adoption | 59/100 |
-| stars | 59/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 75/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

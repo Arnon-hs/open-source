@@ -62,16 +62,16 @@ runestubbe/Crinkler：runestubbe/Crinkler may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 44/100 |
-| adoption | 60/100 |
-| stars | 66/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

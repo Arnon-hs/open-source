@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ gruntwork-io/terragrunt: gruntwork-io/terragrunt helps turn isolated prompts and
 
 ### Русский
 
-gruntwork-io/terragrunt: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+gruntwork-io/terragrunt: open-source проект в категориях Orchestration, DevTools, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ gruntwork-io/terragrunt：gruntwork-io/terragrunt helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 63/100 |
-| adoption | 82/100 |
-| stars | 85/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 75/100 |
+| outlook | 63/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

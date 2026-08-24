@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend · Data
+Payments · Backend · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ stripe/sync-engine: stripe/sync-engine helps integrate monetization, billing, or
 
 ### Русский
 
-stripe/sync-engine: open-source проект в категориях Payments, Backend, Data. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+stripe/sync-engine: open-source проект в категориях Payments, Backend, Database. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ stripe/sync-engine：stripe/sync-engine helps integrate monetization, billing, o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 61/100 |
-| stars | 64/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

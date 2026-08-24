@@ -62,16 +62,16 @@ Moulberry/PandoraLauncher：Moulberry/PandoraLauncher may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 46/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 40/100 |
-| adoption | 57/100 |
-| stars | 61/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

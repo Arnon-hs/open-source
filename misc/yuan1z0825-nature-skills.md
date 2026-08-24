@@ -62,16 +62,16 @@ Yuan1z0825/nature-skills：Yuan1z0825/nature-skills may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 43/100 |
-| adoption | 70/100 |
-| stars | 75/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ o2sh/onefetch：o2sh/onefetch helps engineers save time in daily development and
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 59/100 |
-| adoption | 80/100 |
-| stars | 87/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 87/100 |
 | topics | 75/100 |
+| outlook | 59/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

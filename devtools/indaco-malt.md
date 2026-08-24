@@ -65,16 +65,16 @@ indaco/malt：indaco/malt helps engineers save time in daily development and rev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 44/100 |
-| outlook | 43/100 |
-| adoption | 33/100 |
-| stars | 43/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 63/100 |
+| outlook | 43/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

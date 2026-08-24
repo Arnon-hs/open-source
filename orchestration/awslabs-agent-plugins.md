@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ awslabs/agent-plugins：awslabs/agent-plugins helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 57/100 |
-| stars | 60/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 75/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

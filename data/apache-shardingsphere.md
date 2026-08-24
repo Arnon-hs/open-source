@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Data · Security
+Data · Database · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ apache/shardingsphere: apache/shardingsphere helps convert raw data into searcha
 
 ### Русский
 
-apache/shardingsphere: open-source проект в категориях Data, Security. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+apache/shardingsphere: open-source проект в категориях Data, Database, Security. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ apache/shardingsphere：apache/shardingsphere helps convert raw data into search
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 93/100 |
-| stars | 92/100 |
 | forks | 96/100 |
-| recency | 20/100 |
+| stars | 92/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

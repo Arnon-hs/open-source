@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Mobile
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ AIOSAI/AIPass：AIOSAI/AIPass helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 38/100 |
-| integration | 46/100 |
-| production | 42/100 |
-| outlook | 42/100 |
-| adoption | 40/100 |
-| stars | 43/100 |
 | forks | 33/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 0/100 |
+| outlook | 42/100 |
+| quality | 38/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 42/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

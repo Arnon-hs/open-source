@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Pawdroid/Free-servers: Pawdroid/Free-servers helps integrate monetization, billi
 
 ### Русский
 
-Pawdroid/Free-servers: open-source проект в категориях Payments, AI/ML, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Pawdroid/Free-servers: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,16 +64,16 @@ Pawdroid/Free-servers：Pawdroid/Free-servers helps integrate monetization, bill
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 86/100 |
-| stars | 90/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

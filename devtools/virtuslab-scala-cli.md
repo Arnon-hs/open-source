@@ -65,16 +65,16 @@ VirtusLab/scala-cli：VirtusLab/scala-cli helps engineers save time in daily dev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 49/100 |
-| adoption | 58/100 |
-| stars | 60/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 25/100 |
+| outlook | 49/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ eq1024/WinPaste：eq1024/WinPaste may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 39/100 |
-| integration | 30/100 |
-| production | 40/100 |
-| outlook | 36/100 |
-| adoption | 41/100 |
-| stars | 49/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 0/100 |
+| outlook | 36/100 |
+| quality | 39/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

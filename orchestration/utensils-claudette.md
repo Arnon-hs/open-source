@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ utensils/claudette：utensils/claudette helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 52/100 |
-| adoption | 29/100 |
-| stars | 33/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 46/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

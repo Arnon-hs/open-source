@@ -63,16 +63,16 @@ TheRenegadeCoder/sample-programs：TheRenegadeCoder/sample-programs may be usefu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 47/100 |
-| adoption | 62/100 |
-| stars | 60/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 63/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

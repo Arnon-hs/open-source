@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · DevOps/Infra
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ holon-run/holon：holon-run/holon helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 47/100 |
-| adoption | 36/100 |
-| stars | 41/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 41/100 |
 | topics | 63/100 |
+| outlook | 47/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Atmosphere/atmosphere: Atmosphere/atmosphere helps turn isolated prompts and too
 
 ### Русский
 
-Atmosphere/atmosphere: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Atmosphere/atmosphere: open-source проект в категориях Orchestration, MCP, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Atmosphere/atmosphere：Atmosphere/atmosphere helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 61/100 |
-| adoption | 75/100 |
-| stars | 76/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

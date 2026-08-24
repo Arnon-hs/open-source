@@ -65,16 +65,16 @@ GoogleCloudPlatform/generative-ai：GoogleCloudPlatform/generative-ai helps turn
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 90/100 |
-| stars | 90/100 |
 | forks | 91/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

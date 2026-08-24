@@ -62,16 +62,16 @@ raycast/extensions：raycast/extensions may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 47/100 |
-| adoption | 86/100 |
-| stars | 82/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 0/100 |
+| outlook | 47/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

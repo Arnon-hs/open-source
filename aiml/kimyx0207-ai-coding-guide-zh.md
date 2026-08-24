@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ KimYx0207/AI-Coding-Guide-Zh：KimYx0207/AI-Coding-Guide-Zh helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 75/100 |
-| stars | 76/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

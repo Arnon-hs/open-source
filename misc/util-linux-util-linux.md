@@ -62,16 +62,16 @@ util-linux/util-linux：util-linux/util-linux may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 18/100 |
-| production | 44/100 |
-| outlook | 44/100 |
-| adoption | 75/100 |
-| stars | 74/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

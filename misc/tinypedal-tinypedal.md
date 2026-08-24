@@ -63,16 +63,16 @@ TinyPedal/TinyPedal：TinyPedal/TinyPedal may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 49/100 |
-| stars | 53/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 75/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

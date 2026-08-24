@@ -65,16 +65,16 @@ learnhouse/learnhouse：learnhouse/learnhouse helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 55/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

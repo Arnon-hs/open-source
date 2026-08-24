@@ -65,16 +65,16 @@ zhijiewong/openharness：zhijiewong/openharness helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 39/100 |
-| stars | 42/100 |
 | forks | 33/100 |
-| recency | 20/100 |
+| stars | 42/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

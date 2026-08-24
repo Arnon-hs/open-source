@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ ARUNAGIRINATHAN-K/awesome-ai-agents-2026：ARUNAGIRINATHAN-K/awesome-ai-agents-2
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 54/100 |
-| adoption | 36/100 |
-| stars | 37/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 37/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 45/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

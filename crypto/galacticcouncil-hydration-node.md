@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ galacticcouncil/hydration-node：galacticcouncil/hydration-node helps prototype 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 50/100 |
-| stars | 49/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,0 +1,82 @@
+# datachain-ai/datachain
+
+[![Stars](https://img.shields.io/github/stars/datachain-ai/datachain?style=flat-square&color=yellow)](https://github.com/datachain-ai/datachain/stargazers) [![Forks](https://img.shields.io/github/forks/datachain-ai/datachain?style=flat-square&color=blue)](https://github.com/datachain-ai/datachain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+
+> Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2.7k |
+| 🍴 **Forks** | 140 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ai-agents` `claude-code` `codex` `data-context-layer` `data-memory` `data-processing` `harness-engineering` `knowledge-base` `mlops` `multimodal` `pydantic` `unstructured-data`
+
+## 🎯 Categories
+
+Knowledge/RAG · AI/ML · Data
+
+## 📝 Summary
+
+### English
+
+DataChain provides a typed, version‑controlled data layer that lets AI agents work with rich, multimodal datasets—including images, video, documents, and tables—as a unified “memory” of operational context. By treating datasets as first‑class, versioned objects, it simplifies data provenance, retrieval, and updating for machine‑learning workflows, enabling agents to reason over consistent, reproducible data snapshots.
+
+### Русский
+
+Datachain — это открытая библиотека, предоставляющая слой оперативного контекста данных для AI‑агентов: типизированные, версионируемые наборы данных, объединяющие изображения, видео, документы и таблицы. Проект упрощает хранение, управление и доступ к многомодальным данным, позволяя агентам эффективно использовать актуальную и историческую информацию при обучении и выводе. Он ориентирован на задачи машинного обучения и искусственного интеллекта, где важна согласованность и трассируемость данных.
+
+### 中文
+
+datachain-ai/datachain：datachain-ai/datachain helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** datachain-ai/datachain helps make internal knowledge searchable and usable by assistants.
+
+**Best use cases**
+
+- index knowledge bases
+- improve search over documents
+- ground assistant answers
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 2742 GitHub stars
+- 140 forks
+- updated 2026-05-08
+- primary language: Python
+- 12 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 54/100 |
+| stars | 73/100 |
+| topics | 100/100 |
+| outlook | 56/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/datachain-ai/datachain) · [← Back to Knowledgerag](./README.md)</sub>

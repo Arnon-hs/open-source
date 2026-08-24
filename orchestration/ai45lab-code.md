@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ AI45Lab/Code：AI45Lab/Code helps turn isolated prompts and tools into repeatabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 36/100 |
-| integration | 30/100 |
-| production | 39/100 |
-| outlook | 41/100 |
-| adoption | 37/100 |
-| stars | 46/100 |
 | forks | 12/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 36/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 39/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

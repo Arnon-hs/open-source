@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Frontend · Backend · Observability · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ rcourtman/Pulse: rcourtman/Pulse helps add AI capability without starting from a
 
 ### Русский
 
-rcourtman/Pulse: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rcourtman/Pulse: open-source проект в категориях AI/ML, Frontend, Backend, Observability, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ rcourtman/Pulse：rcourtman/Pulse helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 68/100 |
-| integration | 94/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 74/100 |
-| stars | 80/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

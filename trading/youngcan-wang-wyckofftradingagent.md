@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · DevTools
+Trading · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ YoungCan-Wang/WyckoffTradingAgent：YoungCan-Wang/WyckoffTradingAgent helps rese
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 60/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 61/100 |
-| adoption | 55/100 |
-| stars | 55/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 54/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

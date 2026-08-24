@@ -63,16 +63,16 @@ exelban/stats：exelban/stats may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 62/100 |
-| adoption | 92/100 |
-| stars | 98/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

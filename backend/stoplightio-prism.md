@@ -65,16 +65,16 @@ stoplightio/prism：stoplightio/prism helps teams reuse service infrastructure i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 75/100 |
-| stars | 79/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

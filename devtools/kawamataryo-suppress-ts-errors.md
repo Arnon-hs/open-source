@@ -65,16 +65,16 @@ kawamataryo/suppress-ts-errors：kawamataryo/suppress-ts-errors helps engineers 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 44/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 46/100 |
-| adoption | 41/100 |
-| stars | 47/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 38/100 |
+| outlook | 46/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ inercia/mitto：inercia/mitto helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 47/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 28/100 |
-| stars | 31/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 31/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

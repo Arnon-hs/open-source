@@ -62,16 +62,16 @@ DanielSant0s/AthenaEnv：DanielSant0s/AthenaEnv may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 39/100 |
-| adoption | 55/100 |
-| stars | 60/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

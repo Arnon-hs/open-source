@@ -68,6 +68,7 @@ Xbs950812/okx_fvg_agent：Xbs950812/okx_fvg_agent may be useful when its README 
 | production | 64/100 |
 | outlook | 65/100 |
 | adoption | 5/100 |
+| categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |

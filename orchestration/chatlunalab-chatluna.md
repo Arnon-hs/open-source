@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ChatLunaLab/chatluna：ChatLunaLab/chatluna helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 58/100 |
-| integration | 94/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 52/100 |
-| stars | 56/100 |
 | forks | 42/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

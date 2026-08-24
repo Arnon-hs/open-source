@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto
 
 ## 📝 Summary
 
@@ -66,16 +66,16 @@ ReamLabs/ream：ReamLabs/ream helps prototype or inspect blockchain workflows wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 41/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 40/100 |
-| adoption | 46/100 |
-| stars | 46/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

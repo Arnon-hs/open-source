@@ -63,16 +63,16 @@ apache/karaf：apache/karaf may be useful when its README and activity match a c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 63/100 |
-| stars | 61/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

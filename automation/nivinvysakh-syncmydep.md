@@ -69,6 +69,7 @@ nivinvysakh/syncmydep：nivinvysakh/syncmydep helps remove repetitive manual ope
 | production | 59/100 |
 | outlook | 57/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |

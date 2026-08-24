@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ liliMozi/openhanako：liliMozi/openhanako helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 46/100 |
-| adoption | 69/100 |
-| stars | 73/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 0/100 |
+| outlook | 46/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

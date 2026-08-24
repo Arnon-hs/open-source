@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Ar9av/obsidian-wiki：Ar9av/obsidian-wiki helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 56/100 |
-| adoption | 61/100 |
-| stars | 64/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 49/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

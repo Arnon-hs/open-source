@@ -65,16 +65,16 @@ charliedream1/ai_wiki：charliedream1/ai_wiki helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 45/100 |
-| adoption | 58/100 |
-| stars | 60/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 50/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

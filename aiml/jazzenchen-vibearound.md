@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ jazzenchen/VibeAround：jazzenchen/VibeAround helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 50/100 |
-| adoption | 46/100 |
-| stars | 50/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 38/100 |
+| outlook | 50/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 45/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ taskcluster/taskcluster：taskcluster/taskcluster may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 51/100 |
-| adoption | 57/100 |
-| stars | 56/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 50/100 |
+| outlook | 51/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 45/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

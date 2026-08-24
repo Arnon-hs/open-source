@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML
+Crypto · Trading · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -69,16 +69,16 @@ YichengYang-Ethan/oracle3：YichengYang-Ethan/oracle3 helps prototype or inspect
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 43/100 |
-| stars | 48/100 |
 | forks | 30/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ Owloops/claude-powerline：Owloops/claude-powerline helps engineers save time in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 54/100 |
-| adoption | 60/100 |
-| stars | 64/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

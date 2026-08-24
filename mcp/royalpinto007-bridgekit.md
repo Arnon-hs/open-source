@@ -70,6 +70,7 @@ royalpinto007/bridgekit：royalpinto007/bridgekit helps connect AI assistants to
 | production | 54/100 |
 | outlook | 57/100 |
 | adoption | 2/100 |
+| categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 8/100 |
 | recency | 60/100 |

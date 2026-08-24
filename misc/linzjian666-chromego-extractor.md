@@ -63,16 +63,16 @@ linzjian666/chromego_extractor：linzjian666/chromego_extractor may be useful wh
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 50/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 52/100 |
-| stars | 53/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 50/100 |
 | sourceTrust | 100/100 |
 
 ---

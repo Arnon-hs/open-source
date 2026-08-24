@@ -63,16 +63,16 @@ alley-rs/lsar：alley-rs/lsar may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 43/100 |
-| adoption | 45/100 |
-| stars | 49/100 |
 | forks | 33/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 63/100 |
+| outlook | 43/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

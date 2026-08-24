@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ theJayTea/WritingTools：theJayTea/WritingTools helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 66/100 |
-| stars | 71/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

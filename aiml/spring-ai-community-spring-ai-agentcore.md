@@ -65,16 +65,16 @@ spring-ai-community/spring-ai-agentcore：spring-ai-community/spring-ai-agentcor
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 46/100 |
-| adoption | 31/100 |
-| stars | 33/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 63/100 |
+| outlook | 46/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 42/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

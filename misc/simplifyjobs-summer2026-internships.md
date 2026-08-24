@@ -63,16 +63,16 @@ SimplifyJobs/Summer2026-Internships：SimplifyJobs/Summer2026-Internships may be
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 54/100 |
-| adoption | 96/100 |
-| stars | 99/100 |
 | forks | 88/100 |
-| recency | 20/100 |
+| stars | 99/100 |
 | topics | 50/100 |
+| outlook | 54/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

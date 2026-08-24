@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Data
+DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ jkwill87/mnamer：jkwill87/mnamer helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ jd-opensource/JoySafeter：jd-opensource/JoySafeter helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 49/100 |
-| stars | 52/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

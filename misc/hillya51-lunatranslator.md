@@ -63,16 +63,16 @@ HIllya51/LunaTranslator：HIllya51/LunaTranslator may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 83/100 |
-| stars | 86/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

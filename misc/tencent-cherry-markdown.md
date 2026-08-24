@@ -63,16 +63,16 @@ Tencent/cherry-markdown：Tencent/cherry-markdown may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 48/100 |
-| adoption | 75/100 |
-| stars | 78/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

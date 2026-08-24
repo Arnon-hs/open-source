@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ markus-global/markus：markus-global/markus helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 47/100 |
-| integration | 78/100 |
-| production | 50/100 |
-| outlook | 54/100 |
-| adoption | 27/100 |
-| stars | 35/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

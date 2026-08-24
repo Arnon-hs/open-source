@@ -1,0 +1,80 @@
+# shraga100/claude-desktop-rtl-patch
+
+[![Stars](https://img.shields.io/github/stars/shraga100/claude-desktop-rtl-patch?style=flat-square&color=yellow)](https://github.com/shraga100/claude-desktop-rtl-patch/stargazers) [![Forks](https://img.shields.io/github/forks/shraga100/claude-desktop-rtl-patch?style=flat-square&color=blue)](https://github.com/shraga100/claude-desktop-rtl-patch/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+
+> CSS patch for Claude Desktop windows version to enable RTL (right-to-left) support for Hebrew and Arabic
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 29 |
+| 🍴 **Forks** | 8 |
+| 💻 **Language** | PowerShell |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`arabic` `claude` `claude-desktop` `hebrew` `patch` `rtl`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+The **claude-desktop-rtl-patch** provides a simple CSS modification that adds right‑to‑left (RTL) layout support to the Windows version of Claude Desktop, making the interface usable for Hebrew, Arabic, and other RTL languages. By injecting the patch into Claude’s UI, users can seamlessly switch to an RTL view without altering the core application code. This lightweight, open‑source fix is targeted at developers and end‑users who need multilingual front‑end support for AI tools.
+
+### Русский
+
+**shraga100/claude-desktop-rtl-patch** — это небольшой open‑source CSS‑патч для десктоп‑версии Claude (Windows), который добавляет поддержку RTL‑ориентированных языков, таких как иврит и арабский. Патч изменяет стили интерфейса, позволяя элементам правильно выравниваться справа налево без изменения кода приложения. Подходит разработчикам и пользователям, желающим локализовать Claude Desktop для правосторонних языков.
+
+### 中文
+
+shraga100/claude-desktop-rtl-patch：shraga100/claude-desktop-rtl-patch may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** shraga100/claude-desktop-rtl-patch may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 29 GitHub stars
+- 8 forks
+- updated 2026-05-09
+- primary language: PowerShell
+- 6 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 24/100 |
+| stars | 31/100 |
+| topics | 75/100 |
+| outlook | 43/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/shraga100/claude-desktop-rtl-patch) · [← Back to Misc](./README.md)</sub>

@@ -68,6 +68,7 @@ pinkpixel-dev/kintara：pinkpixel-dev/kintara may be useful when its README and 
 | production | 67/100 |
 | outlook | 73/100 |
 | adoption | 11/100 |
+| categoryMatchCount | 800/100 |
 | stars | 15/100 |
 | forks | 0/100 |
 | recency | 100/100 |

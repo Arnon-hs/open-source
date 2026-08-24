@@ -65,16 +65,16 @@ agno-agi/agent-ui：agno-agi/agent-ui helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 68/100 |
-| stars | 69/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

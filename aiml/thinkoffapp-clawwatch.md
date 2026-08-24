@@ -65,16 +65,16 @@ ThinkOffApp/ClawWatch：ThinkOffApp/ClawWatch helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 46/100 |
-| adoption | 30/100 |
-| stars | 33/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

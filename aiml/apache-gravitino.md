@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Data
+AI/ML · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ apache/gravitino：apache/gravitino helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 54/100 |
-| adoption | 74/100 |
-| stars | 74/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

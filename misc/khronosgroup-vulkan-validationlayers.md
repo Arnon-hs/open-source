@@ -63,16 +63,16 @@ KhronosGroup/Vulkan-ValidationLayers：KhronosGroup/Vulkan-ValidationLayers may 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 43/100 |
-| adoption | 65/100 |
-| stars | 64/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 13/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

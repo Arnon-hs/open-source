@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend
+Payments · Frontend · Education
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ paypal-examples/v6-web-sdk-sample-integration：paypal-examples/v6-web-sdk-sampl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 94/100 |
-| production | 54/100 |
-| outlook | 51/100 |
-| adoption | 38/100 |
-| stars | 37/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 37/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 38/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

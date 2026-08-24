@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ailyProject/aily-blockly: ailyProject/aily-blockly helps add AI capability witho
 
 ### Русский
 
-ailyProject/aily-blockly: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ailyProject/aily-blockly: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ailyProject/aily-blockly：ailyProject/aily-blockly helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 48/100 |
-| adoption | 67/100 |
-| stars | 71/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

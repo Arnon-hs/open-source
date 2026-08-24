@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Kilo-Org/kilocode: Kilo-Org/kilocode helps add AI capability without starting fr
 
 ### Русский
 
-Kilo-Org/kilocode: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Kilo-Org/kilocode: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Kilo-Org/kilocode：Kilo-Org/kilocode helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 75/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 67/100 |
-| adoption | 89/100 |
-| stars | 91/100 |
 | forks | 85/100 |
-| recency | 20/100 |
+| stars | 91/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

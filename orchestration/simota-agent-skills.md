@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ simota/agent-skills：simota/agent-skills helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 54/100 |
-| adoption | 29/100 |
-| stars | 32/100 |
 | forks | 19/100 |
-| recency | 20/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 29/100 |
+| production | 48/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

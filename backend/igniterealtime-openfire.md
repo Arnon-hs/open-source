@@ -65,16 +65,16 @@ igniterealtime/Openfire：igniterealtime/Openfire helps teams reuse service infr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 75/100 |
-| stars | 74/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 88/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

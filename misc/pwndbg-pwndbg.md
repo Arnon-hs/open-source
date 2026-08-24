@@ -63,16 +63,16 @@ pwndbg/pwndbg：pwndbg/pwndbg may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 83/100 |
-| stars | 85/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 83/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Citrus-bit/Anaxa：Citrus-bit/Anaxa helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 40/100 |
-| stars | 44/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

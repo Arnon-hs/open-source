@@ -65,16 +65,16 @@ notque/vexjoy-agent：notque/vexjoy-agent helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 53/100 |
-| adoption | 50/100 |
-| stars | 55/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 88/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

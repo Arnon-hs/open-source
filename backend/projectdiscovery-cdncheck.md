@@ -65,16 +65,16 @@ projectdiscovery/cdncheck：projectdiscovery/cdncheck helps teams reuse service 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 61/100 |
-| stars | 63/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 88/100 |
+| outlook | 56/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

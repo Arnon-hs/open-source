@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ microsoft/Dataverse-skills：microsoft/Dataverse-skills helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 100/100 |
-| production | 55/100 |
-| outlook | 57/100 |
-| adoption | 39/100 |
-| stars | 42/100 |
 | forks | 33/100 |
-| recency | 20/100 |
+| stars | 42/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---

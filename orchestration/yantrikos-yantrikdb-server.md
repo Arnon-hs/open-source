@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ yantrikos/yantrikdb-server：yantrikos/yantrikdb-server helps turn isolated prom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 55/100 |
-| adoption | 40/100 |
-| stars | 46/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

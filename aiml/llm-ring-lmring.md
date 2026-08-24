@@ -65,16 +65,16 @@ llm-ring/lmring：llm-ring/lmring helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 43/100 |
-| adoption | 32/100 |
-| stars | 39/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 100/100 |
+| outlook | 43/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

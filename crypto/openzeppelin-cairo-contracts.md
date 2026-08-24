@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Security
+Crypto · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ OpenZeppelin/cairo-contracts: OpenZeppelin/cairo-contracts helps prototype or in
 
 ### Русский
 
-OpenZeppelin/cairo-contracts: open-source проект в категориях Crypto, AI/ML, Security. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+OpenZeppelin/cairo-contracts: open-source проект в категориях Crypto, Security. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ OpenZeppelin/cairo-contracts：OpenZeppelin/cairo-contracts helps prototype or i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 64/100 |
-| stars | 63/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

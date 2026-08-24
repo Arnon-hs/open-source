@@ -65,16 +65,16 @@ golangci/golangci-lint：golangci/golangci-lint helps engineers save time in dai
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 91/100 |
 | topics | 63/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

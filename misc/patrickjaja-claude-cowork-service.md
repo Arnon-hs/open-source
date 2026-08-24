@@ -64,16 +64,16 @@ patrickjaja/claude-cowork-service：patrickjaja/claude-cowork-service may be use
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 34/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 40/100 |
-| stars | 45/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 100/100 |
+| outlook | 45/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 34/100 |
 | sourceTrust | 100/100 |
 
 ---

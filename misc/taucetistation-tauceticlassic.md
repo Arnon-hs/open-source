@@ -63,16 +63,16 @@ TauCetiStation/TauCetiClassic：TauCetiStation/TauCetiClassic may be useful when
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 46/100 |
-| adoption | 52/100 |
-| stars | 47/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 75/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

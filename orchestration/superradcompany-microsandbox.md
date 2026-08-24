@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · MCP · AI/ML · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ superradcompany/microsandbox: superradcompany/microsandbox helps turn isolated p
 
 ### Русский
 
-superradcompany/microsandbox: open-source проект в категориях Orchestration, AI/ML, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+superradcompany/microsandbox: open-source проект в категориях Orchestration, MCP, AI/ML, DevOps/Infra, Security. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ superradcompany/microsandbox：superradcompany/microsandbox helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 69/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 64/100 |
-| adoption | 75/100 |
-| stars | 80/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -69,6 +69,7 @@ emreordu/agentcheck：emreordu/agentcheck may be useful when its README and acti
 | production | 66/100 |
 | outlook | 71/100 |
 | adoption | 5/100 |
+| categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |

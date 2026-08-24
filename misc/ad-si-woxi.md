@@ -63,16 +63,16 @@ ad-si/Woxi：ad-si/Woxi may be useful when its README and activity match a concr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 47/100 |
-| adoption | 51/100 |
-| stars | 59/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 88/100 |
+| outlook | 47/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

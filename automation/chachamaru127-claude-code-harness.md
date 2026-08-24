@@ -1,0 +1,81 @@
+# Chachamaru127/claude-code-harness
+
+[![Stars](https://img.shields.io/github/stars/Chachamaru127/claude-code-harness?style=flat-square&color=yellow)](https://github.com/Chachamaru127/claude-code-harness/stargazers) [![Forks](https://img.shields.io/github/forks/Chachamaru127/claude-code-harness?style=flat-square&color=blue)](https://github.com/Chachamaru127/claude-code-harness/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+
+> Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 811 |
+| 🍴 **Forks** | 89 |
+| 💻 **Language** | Shell |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Automation
+
+## 📝 Summary
+
+### English
+
+Claude Code Dedicated Development Harness is an open‑source framework that automates a full development loop—generating a plan, writing code, and performing self‑review—to boost code quality and productivity. By integrating Claude’s language‑model capabilities, it creates an autonomous “plan → work → review” cycle that can be customized for a wide range of programming tasks. The project is positioned as a versatile, high‑quality development aid for any language or environment.
+
+### Русский
+
+Open‑source проект **Chachamaru127/claude-code-harness** представляет собой автономный фреймворк для разработки кода с помощью Claude AI. Он реализует цикл «план → работа → ревью», позволяя автоматически генерировать, выполнять и проверять программные решения, что повышает качество и скорость разработки. Проект относится к категории Misc и пригоден для интеграции в любые проекты, требующие автоматизированного кода‑ассистента.
+
+### 中文
+
+Chachamaru127/claude-code-harness：Chachamaru127/claude-code-harness helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** Chachamaru127/claude-code-harness helps remove repetitive manual operations from a workflow.
+
+**Best use cases**
+
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 811 GitHub stars
+- 89 forks
+- updated 2026-05-10
+- primary language: Shell
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 49/100 |
+| stars | 62/100 |
+| topics | 0/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/Chachamaru127/claude-code-harness) · [← Back to Automation](./README.md)</sub>

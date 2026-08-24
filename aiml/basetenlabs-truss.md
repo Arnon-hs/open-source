@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend · Product
+AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ basetenlabs/truss: basetenlabs/truss helps add AI capability without starting fr
 
 ### Русский
 
-basetenlabs/truss: open-source проект в категориях AI/ML, Backend, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+basetenlabs/truss: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ basetenlabs/truss：basetenlabs/truss helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 54/100 |
-| adoption | 61/100 |
-| stars | 65/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ thedotmack/claude-mem: thedotmack/claude-mem helps turn isolated prompts and too
 
 ### Русский
 
-thedotmack/claude-mem: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+thedotmack/claude-mem: open-source проект в категориях Orchestration, Knowledge/RAG, AI/ML, Database. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ thedotmack/claude-mem：thedotmack/claude-mem helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 79/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 70/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 95/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 61/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

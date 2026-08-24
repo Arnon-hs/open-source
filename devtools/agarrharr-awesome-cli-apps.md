@@ -65,16 +65,16 @@ agarrharr/awesome-cli-apps：agarrharr/awesome-cli-apps helps engineers save tim
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 91/100 |
 | topics | 63/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML · DevTools · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Hawksight-AI/semantica：Hawksight-AI/semantica helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 63/100 |
-| adoption | 62/100 |
-| stars | 65/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -64,16 +64,16 @@ B-Lang-org/bsc：B-Lang-org/bsc may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 41/100 |
-| adoption | 62/100 |
-| stars | 65/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

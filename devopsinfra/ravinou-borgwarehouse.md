@@ -1,0 +1,82 @@
+# Ravinou/borgwarehouse
+
+[![Stars](https://img.shields.io/github/stars/Ravinou/borgwarehouse?style=flat-square&color=yellow)](https://github.com/Ravinou/borgwarehouse/stargazers) [![Forks](https://img.shields.io/github/forks/Ravinou/borgwarehouse?style=flat-square&color=blue)](https://github.com/Ravinou/borgwarehouse/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+
+> A fast and modern WebUI for a BorgBackup's central repository server.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 628 |
+| 🍴 **Forks** | 37 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`backup` `borg` `borgbackup` `borgbackup-docker` `borgbackup-gui` `docker` `self-hosted`
+
+## 🎯 Categories
+
+DevOps/Infra
+
+## 📝 Summary
+
+### English
+
+Rav​inou’s **borgwarehouse** is a sleek, high‑performance web interface designed to manage a BorgBackup central repository. It provides both frontend and backend components for browsing, restoring, and monitoring backups, offering modern UI features and efficient data handling for large backup sets.
+
+### Русский
+
+Ravinou/borgwarehouse — это высокопроизводительный и современный веб‑интерфейс для центрального сервера репозитория BorgBackup. Проект объединяет удобный фронтенд, надёжный бэкенд и продвинутую работу с данными, позволяя быстро просматривать, управлять и восстанавливать резервные копии из единой панели управления.
+
+### 中文
+
+Ravinou/borgwarehouse：Ravinou/borgwarehouse helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** Ravinou/borgwarehouse helps make deployment and operations more repeatable.
+
+**Best use cases**
+
+- standardize deployment
+- automate operations
+- improve platform reliability
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 628 GitHub stars
+- 37 forks
+- updated 2026-05-09
+- primary language: TypeScript
+- 7 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 39/100 |
+| stars | 60/100 |
+| topics | 88/100 |
+| outlook | 51/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/Ravinou/borgwarehouse) · [← Back to DevOps & Infra](./README.md)</sub>

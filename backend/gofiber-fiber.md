@@ -65,16 +65,16 @@ gofiber/fiber：gofiber/fiber helps teams reuse service infrastructure instead o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 94/100 |
-| stars | 98/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

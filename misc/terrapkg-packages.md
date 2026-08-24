@@ -65,16 +65,16 @@ terrapkg/packages：terrapkg/packages may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 42/100 |
-| adoption | 55/100 |
-| stars | 57/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 25/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

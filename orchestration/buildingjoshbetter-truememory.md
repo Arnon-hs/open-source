@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ buildingjoshbetter/TrueMemory：buildingjoshbetter/TrueMemory helps turn isolate
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 52/100 |
-| adoption | 30/100 |
-| stars | 33/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

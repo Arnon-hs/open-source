@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Design
+Design · Education
 
 ## 📝 Summary
 
@@ -35,7 +35,7 @@ The **Modern‑CPP‑Design‑Patterns** repository provides clean, self‑conta
 
 ### 中文
 
-MarioGalindoQ/Modern-CPP-Design-Patterns：MarioGalindoQ/Modern-CPP-Design-Patterns may be useful when its README and activity match a concrete workflow.。适合用于Design。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+MarioGalindoQ/Modern-CPP-Design-Patterns：MarioGalindoQ/Modern-CPP-Design-Patterns may be useful when its README and activity match a concrete workflow.。适合用于learn an implementation pattern、build tutorials。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -43,7 +43,8 @@ MarioGalindoQ/Modern-CPP-Design-Patterns：MarioGalindoQ/Modern-CPP-Design-Patte
 
 **Best use cases**
 
-- Not enough metadata yet.
+- learn an implementation pattern
+- build tutorials
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -63,16 +64,16 @@ MarioGalindoQ/Modern-CPP-Design-Patterns：MarioGalindoQ/Modern-CPP-Design-Patte
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 48/100 |
-| stars | 53/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

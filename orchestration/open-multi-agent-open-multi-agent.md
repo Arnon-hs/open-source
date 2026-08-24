@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ open-multi-agent/open-multi-agent：open-multi-agent/open-multi-agent helps turn
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 72/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 82/100 |
-| stars | 81/100 |
 | forks | 84/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

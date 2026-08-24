@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Security
+Orchestration · Automation · AI/ML · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ microsoft/agent-governance-toolkit: microsoft/agent-governance-toolkit helps tur
 
 ### Русский
 
-microsoft/agent-governance-toolkit: open-source проект в категориях Orchestration, AI/ML, Security. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+microsoft/agent-governance-toolkit: open-source проект в категориях Orchestration, Automation, AI/ML, Security. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ microsoft/agent-governance-toolkit：microsoft/agent-governance-toolkit helps tu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 64/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 61/100 |
-| adoption | 65/100 |
-| stars | 67/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

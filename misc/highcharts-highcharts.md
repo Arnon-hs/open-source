@@ -62,16 +62,16 @@ highcharts/highcharts：highcharts/highcharts may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 51/100 |
-| adoption | 88/100 |
-| stars | 87/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 87/100 |
 | topics | 0/100 |
+| outlook | 51/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ amalshaji/portr：amalshaji/portr helps ship user-facing interfaces with less cu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 66/100 |
-| integration | 94/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 68/100 |
-| stars | 74/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 59/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

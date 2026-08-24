@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ notadev-iamaura/OneRAG：notadev-iamaura/OneRAG helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 43/100 |
-| stars | 44/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

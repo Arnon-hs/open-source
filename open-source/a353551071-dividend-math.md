@@ -67,6 +67,7 @@ a353551071/dividend-math：a353551071/dividend-math may be useful when its READM
 | production | 54/100 |
 | outlook | 50/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |

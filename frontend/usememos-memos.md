@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data · DevOps/Infra
+Frontend · Data · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ usememos/memos：usememos/memos helps ship user-facing interfaces with less cust
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 79/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 66/100 |
-| adoption | 97/100 |
-| stars | 100/100 |
 | forks | 91/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

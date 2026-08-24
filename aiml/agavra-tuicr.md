@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ agavra/tuicr: agavra/tuicr helps add AI capability without starting from a blank
 
 ### Русский
 
-agavra/tuicr: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+agavra/tuicr: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ agavra/tuicr：agavra/tuicr helps add AI capability without starting from a blan
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 47/100 |
-| adoption | 55/100 |
-| stars | 59/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 50/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

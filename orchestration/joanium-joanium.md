@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · Automation · AI/ML · Data
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Joanium/Joanium：Joanium/Joanium helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 54/100 |
-| adoption | 28/100 |
-| stars | 30/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 30/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 43/100 |
+| usefulness | 100/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

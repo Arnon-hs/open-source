@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML
+Trading · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ZhuLinsen/daily_stock_analysis: ZhuLinsen/daily_stock_analysis helps research an
 
 ### Русский
 
-ZhuLinsen/daily_stock_analysis: open-source проект в категориях Trading, AI/ML. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ZhuLinsen/daily_stock_analysis: open-source проект в категориях Trading, Knowledge/RAG, AI/ML. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ZhuLinsen/daily_stock_analysis：ZhuLinsen/daily_stock_analysis helps research a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 66/100 |
-| adoption | 98/100 |
-| stars | 97/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 97/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ open-wa/wa-automate-nodejs：open-wa/wa-automate-nodejs helps teams reuse servic
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 60/100 |
-| adoption | 74/100 |
-| stars | 75/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 63/100 |
+| outlook | 60/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

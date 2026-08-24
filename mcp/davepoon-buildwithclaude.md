@@ -1,6 +1,6 @@
 # davepoon/buildwithclaude
 
-[![Stars](https://img.shields.io/github/stars/davepoon/buildwithclaude?style=flat-square&color=yellow)](https://github.com/davepoon/buildwithclaude/stargazers) [![Forks](https://img.shields.io/github/forks/davepoon/buildwithclaude?style=flat-square&color=blue)](https://github.com/davepoon/buildwithclaude/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-92%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/davepoon/buildwithclaude?style=flat-square&color=yellow)](https://github.com/davepoon/buildwithclaude/stargazers) [![Forks](https://img.shields.io/github/forks/davepoon/buildwithclaude?style=flat-square&color=blue)](https://github.com/davepoon/buildwithclaude/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 413 |
-| 💻 **Language** | TypeScript |
-| 📈 **Score** | 92/100 |
-| 🗓️ **Last push** | 2026-07-08 |
+| ⭐ **Stars** | 2.9k |
+| 🍴 **Forks** | 337 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 80/100 |
+| 🗓️ **Last push** | 2026-05-09 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Frontend · Backend · DevTools
+MCP · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-davepoon/buildwithclaude: davepoon/buildwithclaude helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+davepoon/buildwithclaude is a centralized hub that aggregates Claude‑related extensions—including Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections—to enhance the capabilities of Claude Code, Claude Desktop, the Agent SDK, and OpenClaw. By providing a searchable, curated catalog of these resources, the project streamlines discovery and integration of AI‑driven functionality for both frontend and backend developers.
 
 ### Русский
 
-davepoon/buildwithclaude: open-source проект в категориях MCP, AI/ML, Frontend, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+**davepoon/buildwithclaude** — это открытая платформа‑центральный каталог, где разработчики могут быстро находить и подключать навыки (Skills), агенты, команды, хуки, плагины и готовые коллекции из Marketplace для расширения возможностей Claude Code, Claude Desktop, Agent SDK и OpenClaw. Проект объединяет ресурсы как для фронтенда, так и для бэкенда, упрощая интеграцию AI‑функционала в любые приложения.
 
 ### 中文
 
-davepoon/buildwithclaude：davepoon/buildwithclaude helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+davepoon/buildwithclaude：davepoon/buildwithclaude helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,14 +49,14 @@ davepoon/buildwithclaude：davepoon/buildwithclaude helps connect AI assistants 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 3152 GitHub stars
-- 413 forks
-- updated 2026-07-08
-- primary language: TypeScript
+- 2895 GitHub stars
+- 337 forks
+- updated 2026-05-09
+- primary language: Python
 - 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
@@ -65,18 +65,18 @@ davepoon/buildwithclaude：davepoon/buildwithclaude helps connect AI assistants 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 87/100 |
-| integration | 100/100 |
-| production | 87/100 |
-| outlook | 93/100 |
-| adoption | 72/100 |
+| forks | 63/100 |
 | stars | 74/100 |
-| forks | 65/100 |
-| recency | 100/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 60/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-08 · [View on GitHub](https://github.com/davepoon/buildwithclaude) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/davepoon/buildwithclaude) · [← Back to Mcp](./README.md)</sub>

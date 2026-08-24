@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · DevTools
+Crypto · Data · Security
 
 ## 📝 Summary
 
@@ -67,16 +67,16 @@ ccfddl/ccf-deadlines：ccfddl/ccf-deadlines helps prototype or inspect blockchai
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 80/100 |
-| stars | 84/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

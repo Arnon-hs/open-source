@@ -65,16 +65,16 @@ RAIT-09/obsidian-agent-client：RAIT-09/obsidian-agent-client helps add AI capab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 57/100 |
-| adoption | 66/100 |
-| stars | 70/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -67,16 +67,16 @@ innocommerce/innoshop：innocommerce/innoshop helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 56/100 |
-| adoption | 59/100 |
-| stars | 59/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

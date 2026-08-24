@@ -65,16 +65,16 @@ newrelic/newrelic-cli：newrelic/newrelic-cli helps engineers save time in daily
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 46/100 |
-| stars | 46/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 75/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 46/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ IntersectMBO/plutus: IntersectMBO/plutus helps prototype or inspect blockchain w
 
 ### Русский
 
-IntersectMBO/plutus: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+IntersectMBO/plutus: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ IntersectMBO/plutus：IntersectMBO/plutus helps prototype or inspect blockchain 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 49/100 |
-| adoption | 68/100 |
-| stars | 68/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 38/100 |
+| outlook | 49/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

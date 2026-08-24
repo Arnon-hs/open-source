@@ -1,0 +1,80 @@
+# starkware-libs/cairo_native
+
+[![Stars](https://img.shields.io/github/stars/starkware-libs/cairo_native?style=flat-square&color=yellow)](https://github.com/starkware-libs/cairo_native/stargazers) [![Forks](https://img.shields.io/github/forks/starkware-libs/cairo_native?style=flat-square&color=blue)](https://github.com/starkware-libs/cairo_native/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+
+> A compiler to convert Cairo's intermediate representation "Sierra" code to MLIR.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 135 |
+| 🍴 **Forks** | 48 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 41/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cairo` `mlir` `rust`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+starkware-libs/cairo_native is an open‑source compiler that transforms Cairo’s intermediate representation, known as Sierra, into MLIR (Multi-Level Intermediate Representation). By bridging Cairo’s domain‑specific code with the flexible MLIR ecosystem, it enables further optimizations, analysis, and integration with existing compiler toolchains, facilitating the development of high‑performance, AI/ML workloads on StarkNet.
+
+### Русский
+
+**starkware-libs/cairo_native** – это открытый компилятор, преобразующий промежуточное представление Sierra из языка Cairo в MLIR, что позволяет использовать современные оптимизации и инфраструктуру компиляторов LLVM. Проект ускоряет разработку и исполнение zk‑Rollup программ, предоставляя гибкий путь от формального доказательства к эффективному машинному коду. Поддержка AI/ML‑инструментов делает его полезным для исследователей и инженеров, работающих с криптографическими протоколами и машинным обучением.
+
+### 中文
+
+starkware-libs/cairo_native：starkware-libs/cairo_native may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** starkware-libs/cairo_native may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 135 GitHub stars
+- 48 forks
+- updated 2026-05-10
+- primary language: Rust
+- 3 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 42/100 |
+| stars | 45/100 |
+| topics | 38/100 |
+| outlook | 40/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/starkware-libs/cairo_native) · [← Back to Misc](./README.md)</sub>

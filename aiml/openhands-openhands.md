@@ -65,16 +65,16 @@ OpenHands/OpenHands：OpenHands/OpenHands helps add AI capability without starti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 80/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 70/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 99/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 80/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 59/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

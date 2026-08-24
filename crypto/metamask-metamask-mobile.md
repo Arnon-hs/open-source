@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto · Frontend · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ MetaMask/metamask-mobile: MetaMask/metamask-mobile helps prototype or inspect bl
 
 ### Русский
 
-MetaMask/metamask-mobile: open-source проект в категориях Crypto, AI/ML, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+MetaMask/metamask-mobile: open-source проект в категориях Crypto, Frontend, Mobile. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ MetaMask/metamask-mobile：MetaMask/metamask-mobile helps prototype or inspect b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 76/100 |
-| stars | 74/100 |
 | forks | 80/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 88/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

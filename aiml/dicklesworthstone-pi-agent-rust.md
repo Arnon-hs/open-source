@@ -65,16 +65,16 @@ Dicklesworthstone/pi_agent_rust：Dicklesworthstone/pi_agent_rust helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 55/100 |
-| adoption | 59/100 |
-| stars | 62/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 50/100 |
+| outlook | 55/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

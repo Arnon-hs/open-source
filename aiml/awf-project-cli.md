@@ -65,16 +65,16 @@ awf-project/cli：awf-project/cli helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 42/100 |
-| integration | 62/100 |
-| production | 46/100 |
-| outlook | 50/100 |
-| adoption | 28/100 |
-| stars | 34/100 |
 | forks | 12/100 |
-| recency | 20/100 |
+| stars | 34/100 |
 | topics | 63/100 |
+| outlook | 50/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 46/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

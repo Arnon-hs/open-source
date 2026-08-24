@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Product
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ SafeRL-Lab/cheetahclaws: SafeRL-Lab/cheetahclaws helps add AI capability without
 
 ### Русский
 
-SafeRL-Lab/cheetahclaws: open-source проект в категориях AI/ML, Frontend, Product. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SafeRL-Lab/cheetahclaws: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ SafeRL-Lab/cheetahclaws：SafeRL-Lab/cheetahclaws helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 60/100 |
-| stars | 60/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

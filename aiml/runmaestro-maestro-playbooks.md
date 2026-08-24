@@ -63,16 +63,16 @@ RunMaestro/Maestro-Playbooks：RunMaestro/Maestro-Playbooks helps add AI capabil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 34/100 |
-| integration | 30/100 |
-| production | 38/100 |
-| outlook | 36/100 |
-| adoption | 31/100 |
-| stars | 34/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 34/100 |
 | topics | 0/100 |
+| outlook | 36/100 |
+| quality | 34/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 38/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

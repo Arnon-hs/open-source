@@ -63,16 +63,16 @@ vinc/moros：vinc/moros may be useful when its README and activity match a concr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 58/100 |
-| stars | 64/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 88/100 |
+| outlook | 49/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

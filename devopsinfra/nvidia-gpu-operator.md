@@ -65,16 +65,16 @@ NVIDIA/gpu-operator：NVIDIA/gpu-operator helps make deployment and operations m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 48/100 |
-| adoption | 71/100 |
-| stars | 73/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 50/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

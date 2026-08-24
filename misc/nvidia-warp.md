@@ -63,16 +63,16 @@ NVIDIA/warp：NVIDIA/warp may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 77/100 |
-| stars | 81/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 88/100 |
+| outlook | 57/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

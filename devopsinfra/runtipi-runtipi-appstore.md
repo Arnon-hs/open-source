@@ -65,16 +65,16 @@ runtipi/runtipi-appstore：runtipi/runtipi-appstore helps make deployment and op
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 51/100 |
-| adoption | 59/100 |
-| stars | 57/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 75/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

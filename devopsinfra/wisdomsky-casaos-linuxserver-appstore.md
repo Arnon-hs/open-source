@@ -1,0 +1,81 @@
+# WisdomSky/CasaOS-LinuxServer-AppStore
+
+[![Stars](https://img.shields.io/github/stars/WisdomSky/CasaOS-LinuxServer-AppStore?style=flat-square&color=yellow)](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore/stargazers) [![Forks](https://img.shields.io/github/forks/WisdomSky/CasaOS-LinuxServer-AppStore?style=flat-square&color=blue)](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> A CasaOS custom Appstore containing over 100+ LinuxServer.io images.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 426 |
+| 🍴 **Forks** | 63 |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`casaos` `docker` `linuxserver` `self-hosted`
+
+## 🎯 Categories
+
+DevOps/Infra
+
+## 📝 Summary
+
+### English
+
+WisdomSky’s **CasaOS‑LinuxServer‑AppStore** is a curated collection of more than 100 Docker images from LinuxServer.io, packaged as a custom AppStore for the CasaOS home‑cloud platform. It streamlines the deployment of popular server‑side services—ranging from media servers to AI/ML tools—by providing ready‑to‑install, pre‑configured containers that integrate seamlessly with CasaOS’s UI and automation workflows. Ideal for developers, DevOps engineers, and hobbyists looking to quickly spin up robust backend services on a single‑board or home server.
+
+### Русский
+
+**WisdomSky/CasaOS-LinuxServer-AppStore** — это кастомный магазин приложений для CasaOS, включающий более 100 готовых образов от LinuxServer.io. Он упрощает развертывание сервисов в областях AI/ML, backend и DevOps/infra, предоставляя единый интерфейс для установки, обновления и управления контейнерами. Проект полностью открытый, с активным сообществом и возможностью легко добавлять новые образы.
+
+### 中文
+
+WisdomSky/CasaOS-LinuxServer-AppStore：WisdomSky/CasaOS-LinuxServer-AppStore helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** WisdomSky/CasaOS-LinuxServer-AppStore helps make deployment and operations more repeatable.
+
+**Best use cases**
+
+- standardize deployment
+- automate operations
+- improve platform reliability
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 426 GitHub stars
+- 63 forks
+- updated 2026-05-09
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 45/100 |
+| stars | 56/100 |
+| topics | 50/100 |
+| outlook | 47/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore) · [← Back to DevOps & Infra](./README.md)</sub>

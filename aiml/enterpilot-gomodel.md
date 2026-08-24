@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Backend
+AI/ML · Backend · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ENTERPILOT/GoModel：ENTERPILOT/GoModel helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 57/100 |
-| stars | 62/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ siteboon/claudecodeui：siteboon/claudecodeui helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 73/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 63/100 |
-| adoption | 84/100 |
-| stars | 86/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 84/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

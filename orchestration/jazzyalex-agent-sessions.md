@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ jazzyalex/agent-sessions：jazzyalex/agent-sessions helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 60/100 |
-| adoption | 52/100 |
-| stars | 58/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

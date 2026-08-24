@@ -65,16 +65,16 @@ toon-format/toon：toon-format/toon helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 88/100 |
-| stars | 93/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 50/100 |
+| outlook | 56/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

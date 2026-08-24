@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Backend
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ btcpayserver/btcpayserver: btcpayserver/btcpayserver helps prototype or inspect 
 
 ### Русский
 
-btcpayserver/btcpayserver: open-source проект в категориях Crypto, Payments, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+btcpayserver/btcpayserver: open-source проект в категориях Crypto, Payments. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ btcpayserver/btcpayserver：btcpayserver/btcpayserver helps prototype or inspect
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 82/100 |
-| stars | 83/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

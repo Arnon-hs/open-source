@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ EvoAgentX/EvoAgentX：EvoAgentX/EvoAgentX helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 63/100 |
-| adoption | 70/100 |
-| stars | 74/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

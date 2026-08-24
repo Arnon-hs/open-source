@@ -63,16 +63,16 @@ tyxben/roboot：tyxben/roboot helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 33/100 |
-| integration | 46/100 |
-| production | 40/100 |
-| outlook | 36/100 |
-| adoption | 28/100 |
-| stars | 40/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 40/100 |
 | topics | 0/100 |
+| outlook | 36/100 |
+| quality | 33/100 |
+| recency | 20/100 |
+| adoption | 28/100 |
+| production | 40/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

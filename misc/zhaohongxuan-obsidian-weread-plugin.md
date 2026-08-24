@@ -63,16 +63,16 @@ zhaohongxuan/obsidian-weread-plugin：zhaohongxuan/obsidian-weread-plugin may be
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 45/100 |
-| adoption | 65/100 |
-| stars | 70/100 |
 | forks | 52/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Backend · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ microsoft/mcp-for-beginners：microsoft/mcp-for-beginners helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 76/100 |
-| integration | 94/100 |
-| production | 62/100 |
-| outlook | 68/100 |
-| adoption | 90/100 |
-| stars | 89/100 |
 | forks | 93/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 62/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

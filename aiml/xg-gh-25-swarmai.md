@@ -65,16 +65,16 @@ xg-gh-25/SwarmAI：xg-gh-25/SwarmAI helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 47/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 27/100 |
-| stars | 33/100 |
 | forks | 12/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 100/100 |
+| outlook | 49/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

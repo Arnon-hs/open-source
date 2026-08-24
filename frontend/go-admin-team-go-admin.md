@@ -71,6 +71,7 @@ go-admin-team/go-admin：go-admin-team/go-admin helps ship user-facing interface
 | production | 77/100 |
 | outlook | 82/100 |
 | adoption | 87/100 |
+| categoryMatchCount | 200/100 |
 | stars | 87/100 |
 | forks | 85/100 |
 | recency | 100/100 |

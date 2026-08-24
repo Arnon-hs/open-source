@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ag2ai/ag2: ag2ai/ag2 helps turn isolated prompts and tools into repeatable agent
 
 ### Русский
 
-ag2ai/ag2: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ag2ai/ag2: open-source проект в категориях Orchestration, MCP, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ag2ai/ag2：ag2ai/ag2 helps turn isolated prompts and tools into repeatable agen
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 64/100 |
-| adoption | 76/100 |
-| stars | 78/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

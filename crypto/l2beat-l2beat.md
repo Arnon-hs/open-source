@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Data
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ l2beat/l2beat: l2beat/l2beat helps prototype or inspect blockchain workflows wit
 
 ### Русский
 
-l2beat/l2beat: open-source проект в категориях Crypto, Data. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+l2beat/l2beat: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ l2beat/l2beat：l2beat/l2beat helps prototype or inspect blockchain workflows wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 63/100 |
-| stars | 60/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 60/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

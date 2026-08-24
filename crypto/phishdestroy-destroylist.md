@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ phishdestroy/destroylist: phishdestroy/destroylist helps prototype or inspect bl
 
 ### Русский
 
-phishdestroy/destroylist: open-source проект в категориях Crypto, AI/ML, Backend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+phishdestroy/destroylist: open-source проект в категориях Crypto, Security. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ phishdestroy/destroylist：phishdestroy/destroylist helps prototype or inspect b
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 57/100 |
-| adoption | 60/100 |
-| stars | 64/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

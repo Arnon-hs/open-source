@@ -63,16 +63,16 @@ executablebooks/MyST-Parser：executablebooks/MyST-Parser may be useful when its
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 46/100 |
-| adoption | 62/100 |
-| stars | 63/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 50/100 |
+| outlook | 46/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

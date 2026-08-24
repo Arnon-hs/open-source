@@ -62,16 +62,16 @@ google/crosvm：google/crosvm may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 44/100 |
-| adoption | 62/100 |
-| stars | 66/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

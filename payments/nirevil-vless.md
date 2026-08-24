@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Backend
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ NiREvil/vless: NiREvil/vless helps integrate monetization, billing, or PSP flows
 
 ### Русский
 
-NiREvil/vless: open-source проект в категориях Payments, AI/ML, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+NiREvil/vless: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ NiREvil/vless：NiREvil/vless helps integrate monetization, billing, or PSP flow
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 54/100 |
-| adoption | 64/100 |
-| stars | 65/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

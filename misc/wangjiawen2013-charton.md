@@ -62,16 +62,16 @@ wangjiawen2013/charton：wangjiawen2013/charton may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 40/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 37/100 |
-| adoption | 45/100 |
-| stars | 52/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 40/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ clockworklabs/SpacetimeDB: clockworklabs/SpacetimeDB helps teams reuse service i
 
 ### Русский
 
-clockworklabs/SpacetimeDB: open-source проект в категориях Backend, Data. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+clockworklabs/SpacetimeDB: open-source проект в категориях Backend, Database. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ clockworklabs/SpacetimeDB：clockworklabs/SpacetimeDB helps teams reuse service 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 75/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 61/100 |
-| adoption | 88/100 |
-| stars | 93/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

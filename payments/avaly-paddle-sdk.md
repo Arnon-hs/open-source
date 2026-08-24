@@ -65,16 +65,16 @@ avaly/paddle-sdk：avaly/paddle-sdk helps integrate monetization, billing, or PS
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 46/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 41/100 |
-| stars | 43/100 |
 | forks | 38/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 50/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

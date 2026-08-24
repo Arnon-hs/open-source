@@ -65,16 +65,16 @@ better-auth/better-auth：better-auth/better-auth helps integrate monetization, 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 92/100 |
-| stars | 95/100 |
 | forks | 85/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

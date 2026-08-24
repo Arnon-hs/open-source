@@ -60,16 +60,16 @@ Derive any environmental variable with FiaPhy from the ones you've got：Derive 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 21/100 |
-| integration | 46/100 |
-| production | 34/100 |
-| outlook | 26/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 25/100 |
+| outlook | 26/100 |
+| quality | 21/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 34/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 80/100 |
 
 ---

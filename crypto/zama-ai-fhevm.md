@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Security
+Crypto · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ zama-ai/fhevm: zama-ai/fhevm helps prototype or inspect blockchain workflows wit
 
 ### Русский
 
-zama-ai/fhevm: open-source проект в категориях Crypto, AI/ML, Security. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+zama-ai/fhevm: open-source проект в категориях Crypto, Security. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ zama-ai/fhevm：zama-ai/fhevm helps prototype or inspect blockchain workflows wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 91/100 |
-| stars | 94/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 38/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

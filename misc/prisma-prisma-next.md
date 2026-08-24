@@ -63,16 +63,16 @@ prisma/prisma-next：prisma/prisma-next may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 34/100 |
-| production | 42/100 |
-| outlook | 39/100 |
-| adoption | 44/100 |
-| stars | 53/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 25/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 34/100 |
 | sourceTrust | 100/100 |
 
 ---

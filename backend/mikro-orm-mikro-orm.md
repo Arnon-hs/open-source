@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Data
+Backend · Database
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ mikro-orm/mikro-orm：mikro-orm/mikro-orm helps teams reuse service infrastructu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 55/100 |
-| adoption | 80/100 |
-| stars | 84/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

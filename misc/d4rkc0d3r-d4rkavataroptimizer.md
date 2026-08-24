@@ -63,16 +63,16 @@ d4rkc0d3r/d4rkAvatarOptimizer：d4rkc0d3r/d4rkAvatarOptimizer may be useful when
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 46/100 |
-| adoption | 53/100 |
-| stars | 59/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 59/100 |
 | topics | 38/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

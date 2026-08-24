@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ cadence-workflow/cadence: cadence-workflow/cadence helps turn isolated prompts a
 
 ### Русский
 
-cadence-workflow/cadence: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+cadence-workflow/cadence: open-source проект в категориях Orchestration, Automation. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ cadence-workflow/cadence：cadence-workflow/cadence helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 62/100 |
-| adoption | 81/100 |
-| stars | 84/100 |
 | forks | 74/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

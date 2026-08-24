@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Trading · AI/ML
+Crypto · Trading · Automation · Backend · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ccxt/ccxt: ccxt/ccxt helps prototype or inspect blockchain workflows with open i
 
 ### Русский
 
-ccxt/ccxt: open-source проект в категориях Crypto, Trading, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ccxt/ccxt: open-source проект в категориях Crypto, Trading, Automation, Backend, Data. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ccxt/ccxt：ccxt/ccxt helps prototype or inspect blockchain workflows with open 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 79/100 |
-| integration | 94/100 |
-| production | 64/100 |
-| outlook | 66/100 |
-| adoption | 98/100 |
-| stars | 98/100 |
 | forks | 98/100 |
-| recency | 20/100 |
+| stars | 98/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ pawurb/mevlog-rs: pawurb/mevlog-rs helps prototype or inspect blockchain workflo
 
 ### Русский
 
-pawurb/mevlog-rs: open-source проект в категориях Crypto, AI/ML, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+pawurb/mevlog-rs: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ pawurb/mevlog-rs：pawurb/mevlog-rs helps prototype or inspect blockchain workfl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 46/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 43/100 |
-| adoption | 45/100 |
-| stars | 49/100 |
 | forks | 33/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ continuedev/continue：continuedev/continue helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 78/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 69/100 |
-| adoption | 95/100 |
-| stars | 96/100 |
 | forks | 91/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 100/100 |
+| outlook | 69/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 61/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

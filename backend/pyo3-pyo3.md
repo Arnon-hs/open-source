@@ -65,16 +65,16 @@ PyO3/pyo3：PyO3/pyo3 helps teams reuse service infrastructure instead of rebuil
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 56/100 |
-| adoption | 85/100 |
-| stars | 89/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

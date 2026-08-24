@@ -63,16 +63,16 @@ emberjs/ember.js：emberjs/ember.js may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 92/100 |
-| stars | 93/100 |
 | forks | 91/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 50/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

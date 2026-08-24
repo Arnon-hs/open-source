@@ -63,16 +63,16 @@ vChewing/vChewing-macOS：vChewing/vChewing-macOS may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 41/100 |
-| adoption | 51/100 |
-| stars | 57/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 25/100 |
+| outlook | 41/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 43/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

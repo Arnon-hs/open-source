@@ -65,16 +65,16 @@ kubecolor/kubecolor：kubecolor/kubecolor helps engineers save time in daily dev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 56/100 |
-| integration | 94/100 |
-| production | 55/100 |
-| outlook | 50/100 |
-| adoption | 59/100 |
-| stars | 67/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 63/100 |
+| outlook | 50/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

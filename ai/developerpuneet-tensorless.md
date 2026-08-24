@@ -67,6 +67,7 @@ DeveloperPuneet/Tensorless：DeveloperPuneet/Tensorless may be useful when its R
 | production | 63/100 |
 | outlook | 70/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |

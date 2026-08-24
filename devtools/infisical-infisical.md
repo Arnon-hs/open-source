@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Security
+DevTools · Database · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Infisical/infisical: Infisical/infisical helps engineers save time in daily deve
 
 ### Русский
 
-Infisical/infisical: open-source проект в категориях DevTools, Security. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Infisical/infisical: open-source проект в категориях DevTools, Database, Security. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Infisical/infisical：Infisical/infisical helps engineers save time in daily dev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 64/100 |
-| adoption | 91/100 |
-| stars | 94/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 91/100 |
+| production | 60/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

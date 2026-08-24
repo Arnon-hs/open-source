@@ -21,7 +21,7 @@
 
 ## 馃幆 Categories
 
-Trading 路 AI/ML 路 Backend
+Trading 路 Backend 路 Data
 
 ## 馃摑 Summary
 
@@ -65,16 +65,16 @@ pmxt-dev/pmxt锛歱mxt-dev/pmxt helps research and automate market workflows.銆傞�
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 64/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 65/100 |
-| stars | 69/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

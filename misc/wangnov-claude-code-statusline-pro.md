@@ -63,16 +63,16 @@ Wangnov/claude-code-statusline-pro：Wangnov/claude-code-statusline-pro may be u
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 42/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 38/100 |
-| adoption | 45/100 |
-| stars | 50/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 13/100 |
+| outlook | 38/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

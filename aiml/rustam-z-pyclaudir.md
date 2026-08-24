@@ -65,16 +65,16 @@ Rustam-Z/pyclaudir：Rustam-Z/pyclaudir helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 41/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 41/100 |
-| adoption | 31/100 |
-| stars | 32/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 32/100 |
 | topics | 50/100 |
+| outlook | 41/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

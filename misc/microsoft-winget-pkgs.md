@@ -62,16 +62,16 @@ microsoft/winget-pkgs：microsoft/winget-pkgs may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 89/100 |
-| stars | 86/100 |
 | forks | 96/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 13/100 |
+| outlook | 49/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

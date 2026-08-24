@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Dicklesworthstone/coding_agent_session_search: Dicklesworthstone/coding_agent_se
 
 ### Русский
 
-Dicklesworthstone/coding_agent_session_search: open-source проект в категориях AI/ML, Frontend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Dicklesworthstone/coding_agent_session_search: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Dicklesworthstone/coding_agent_session_search：Dicklesworthstone/coding_agent_s
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 56/100 |
-| adoption | 58/100 |
-| stars | 61/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

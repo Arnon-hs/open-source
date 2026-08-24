@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML · Data
+Payments · AI/ML · Data · Design
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Akxan/ppt-agent-skill：Akxan/ppt-agent-skill helps integrate monetization, bill
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 50/100 |
-| adoption | 34/100 |
-| stars | 32/100 |
 | forks | 39/100 |
-| recency | 20/100 |
+| stars | 32/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 44/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

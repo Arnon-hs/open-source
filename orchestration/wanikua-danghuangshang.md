@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML · Education
 
 ## 📝 Summary
 
@@ -66,16 +66,16 @@ wanikua/danghuangshang：wanikua/danghuangshang helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 62/100 |
-| adoption | 69/100 |
-| stars | 73/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

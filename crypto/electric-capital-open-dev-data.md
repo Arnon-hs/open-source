@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ electric-capital/open-dev-data：electric-capital/open-dev-data helps prototype 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 74/100 |
-| stars | 70/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

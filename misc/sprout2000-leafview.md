@@ -63,16 +63,16 @@ sprout2000/leafview：sprout2000/leafview may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 43/100 |
-| adoption | 49/100 |
-| stars | 54/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 50/100 |
+| outlook | 43/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

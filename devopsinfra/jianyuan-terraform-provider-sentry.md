@@ -69,16 +69,16 @@ jianyuan/terraform-provider-sentry：jianyuan/terraform-provider-sentry helps ma
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 43/100 |
-| adoption | 55/100 |
-| stars | 55/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevTools · Security
+DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ yeojz/otplib：yeojz/otplib helps engineers save time in daily development and r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 55/100 |
-| adoption | 67/100 |
-| stars | 71/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

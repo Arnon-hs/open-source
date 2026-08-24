@@ -62,16 +62,16 @@ rentianyu/Ad-set-hosts：rentianyu/Ad-set-hosts may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 38/100 |
-| adoption | 51/100 |
-| stars | 56/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

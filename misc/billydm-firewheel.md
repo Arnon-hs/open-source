@@ -62,16 +62,16 @@ BillyDM/Firewheel：BillyDM/Firewheel may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 41/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 37/100 |
-| adoption | 48/100 |
-| stars | 53/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

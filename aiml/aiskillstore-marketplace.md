@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools · Security
+AI/ML · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ aiskillstore/marketplace：aiskillstore/marketplace helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 49/100 |
-| adoption | 47/100 |
-| stars | 52/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 52/100 |
 | topics | 88/100 |
+| outlook | 49/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 50/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

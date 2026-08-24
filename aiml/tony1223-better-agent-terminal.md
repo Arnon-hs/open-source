@@ -65,16 +65,16 @@ tony1223/better-agent-terminal：tony1223/better-agent-terminal helps add AI cap
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 58/100 |
-| adoption | 53/100 |
-| stars | 55/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

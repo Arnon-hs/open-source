@@ -1,0 +1,78 @@
+# mb-mal/awesome-ai-agents-frameworks
+
+[![Stars](https://img.shields.io/github/stars/mb-mal/awesome-ai-agents-frameworks?style=flat-square&color=yellow)](https://github.com/mb-mal/awesome-ai-agents-frameworks/stargazers) [![Forks](https://img.shields.io/github/forks/mb-mal/awesome-ai-agents-frameworks?style=flat-square&color=blue)](https://github.com/mb-mal/awesome-ai-agents-frameworks/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+
+> _No description provided._
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 50 |
+| 🍴 **Forks** | 10 |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-05-10 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+**awesome-ai-agents-frameworks** is a curated collection of open‑source libraries and tools for building intelligent agents, covering everything from reinforcement learning and planning to large‑language‑model orchestration. It categorizes frameworks by language, architecture, and use‑case, providing brief overviews, key features, and links to documentation to help developers quickly find the right solution for their AI/ML projects.
+
+### Русский
+
+**awesome‑ai‑agents‑frameworks** — это открытый каталог, собравший лучшие фреймворки и библиотеки для создания интеллектуальных агентов и многокомпонентных AI‑систем. Репозиторий систематизирует инструменты по типу планировщиков, диалоговых движков, средств обучения с подкреплением и интеграции с LLM, помогая разработчикам быстро выбрать подходящее решение под свои задачи в области AI/ML.
+
+### 中文
+
+mb-mal/awesome-ai-agents-frameworks：mb-mal/awesome-ai-agents-frameworks may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** mb-mal/awesome-ai-agents-frameworks may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 50 GitHub stars
+- 10 forks
+- updated 2026-05-10
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 26/100 |
+| stars | 36/100 |
+| topics | 0/100 |
+| outlook | 40/100 |
+| quality | 35/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 37/100 |
+| usefulness | 74/100 |
+| integration | 18/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/mb-mal/awesome-ai-agents-frameworks) · [← Back to Misc](./README.md)</sub>

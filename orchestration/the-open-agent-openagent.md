@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ the-open-agent/openagent: the-open-agent/openagent helps turn isolated prompts a
 
 ### Русский
 
-the-open-agent/openagent: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+the-open-agent/openagent: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ the-open-agent/openagent：the-open-agent/openagent helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 64/100 |
-| adoption | 75/100 |
-| stars | 78/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

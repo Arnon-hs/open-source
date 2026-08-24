@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ SethRobinson/aitools_client：SethRobinson/aitools_client helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 55/100 |
-| adoption | 44/100 |
-| stars | 48/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 48/100 |
 | topics | 88/100 |
+| outlook | 55/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 50/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

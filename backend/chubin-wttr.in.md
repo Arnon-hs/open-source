@@ -65,16 +65,16 @@ chubin/wttr.in：chubin/wttr.in helps teams reuse service infrastructure instead
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 90/100 |
-| stars | 95/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 88/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

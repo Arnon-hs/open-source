@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Security
+AI/ML · Observability · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ruvnet/RuView: ruvnet/RuView helps add AI capability without starting from a bla
 
 ### Русский
 
-ruvnet/RuView: open-source проект в категориях AI/ML, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ruvnet/RuView: open-source проект в категориях AI/ML, Observability, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ruvnet/RuView：ruvnet/RuView helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 79/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 67/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 96/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

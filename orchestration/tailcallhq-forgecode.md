@@ -65,16 +65,16 @@ tailcallhq/forgecode：tailcallhq/forgecode helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 65/100 |
-| adoption | 81/100 |
-| stars | 82/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

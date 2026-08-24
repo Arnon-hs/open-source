@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · AI/ML
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Ctrlpanel-gg/panel: Ctrlpanel-gg/panel helps integrate monetization, billing, or
 
 ### Русский
 
-Ctrlpanel-gg/panel: open-source проект в категориях Payments, AI/ML. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Ctrlpanel-gg/panel: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Ctrlpanel-gg/panel：Ctrlpanel-gg/panel helps integrate monetization, billing, o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 61/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 53/100 |
-| adoption | 57/100 |
-| stars | 57/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

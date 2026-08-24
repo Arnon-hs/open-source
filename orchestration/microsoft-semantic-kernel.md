@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ microsoft/semantic-kernel: microsoft/semantic-kernel helps turn isolated prompts
 
 ### Русский
 
-microsoft/semantic-kernel: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+microsoft/semantic-kernel: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ microsoft/semantic-kernel：microsoft/semantic-kernel helps turn isolated prompt
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 94/100 |
-| stars | 95/100 |
 | forks | 92/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 63/100 |
+| outlook | 58/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

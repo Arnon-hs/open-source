@@ -65,16 +65,16 @@ xiaotonng/pikiclaw：xiaotonng/pikiclaw helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 55/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 45/100 |
-| stars | 49/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

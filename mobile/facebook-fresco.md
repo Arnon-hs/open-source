@@ -62,16 +62,16 @@ facebook/fresco：facebook/fresco may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 60/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 48/100 |
-| adoption | 90/100 |
-| stars | 90/100 |
 | forks | 89/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

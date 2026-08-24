@@ -62,16 +62,16 @@ lukasz-madon/awesome-remote-job：lukasz-madon/awesome-remote-job may be useful 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 97/100 |
-| stars | 99/100 |
 | forks | 92/100 |
-| recency | 20/100 |
+| stars | 99/100 |
 | topics | 38/100 |
+| outlook | 53/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

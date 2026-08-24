@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Trading · AI/ML · Frontend
+Trading · AI/ML · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ longbridge/longbridge-terminal: longbridge/longbridge-terminal helps research an
 
 ### Русский
 
-longbridge/longbridge-terminal: open-source проект в категориях Trading, AI/ML, Frontend. Практическое применение: research trading systems; backtest strategies. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+longbridge/longbridge-terminal: open-source проект в категориях Trading, AI/ML, DevTools. Практическое применение: research trading systems; backtest strategies. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ longbridge/longbridge-terminal：longbridge/longbridge-terminal helps research a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 50/100 |
-| adoption | 57/100 |
-| stars | 62/100 |
 | forks | 45/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 75/100 |
+| outlook | 50/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 57/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

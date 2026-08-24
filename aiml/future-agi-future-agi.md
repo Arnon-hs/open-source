@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ future-agi/future-agi: future-agi/future-agi helps add AI capability without sta
 
 ### Русский
 
-future-agi/future-agi: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+future-agi/future-agi: open-source проект в категориях AI/ML, Observability. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ future-agi/future-agi：future-agi/future-agi helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 60/100 |
-| stars | 62/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 62/100 |
 | topics | 75/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

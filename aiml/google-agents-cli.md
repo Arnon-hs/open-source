@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ google/agents-cli: google/agents-cli helps add AI capability without starting fr
 
 ### Русский
 
-google/agents-cli: open-source проект в категориях AI/ML, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+google/agents-cli: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,16 +64,16 @@ google/agents-cli：google/agents-cli helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 68/100 |
-| stars | 71/100 |
 | forks | 60/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

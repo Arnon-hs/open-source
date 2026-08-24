@@ -65,16 +65,16 @@ sahil87/run-kit：sahil87/run-kit helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 53/100 |
-| adoption | 32/100 |
-| stars | 34/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 34/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 46/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

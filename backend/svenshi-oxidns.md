@@ -65,16 +65,16 @@ SvenShi/oxidns：SvenShi/oxidns helps teams reuse service infrastructure instead
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 43/100 |
-| adoption | 37/100 |
-| stars | 43/100 |
 | forks | 21/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 88/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

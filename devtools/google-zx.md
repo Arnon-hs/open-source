@@ -65,16 +65,16 @@ google/zx：google/zx helps engineers save time in daily development and review 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 93/100 |
-| stars | 99/100 |
 | forks | 78/100 |
-| recency | 20/100 |
+| stars | 99/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

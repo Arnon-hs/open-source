@@ -69,6 +69,7 @@ royalpinto007/casebook-mcp：royalpinto007/casebook-mcp helps connect AI assista
 | production | 51/100 |
 | outlook | 55/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |

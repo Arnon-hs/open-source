@@ -1,0 +1,80 @@
+# AMythicDev/minus
+
+[![Stars](https://img.shields.io/github/stars/AMythicDev/minus?style=flat-square&color=yellow)](https://github.com/AMythicDev/minus/stargazers) [![Forks](https://img.shields.io/github/forks/AMythicDev/minus?style=flat-square&color=blue)](https://github.com/AMythicDev/minus/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+
+> An asynchronous, runtime data feedable terminal paging library for Rust
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 363 |
+| 🍴 **Forks** | 29 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`paging-library` `rust-lang` `terminal` `tui`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+AMythicDev/minus is a Rust library that provides an asynchronous, terminal‑based paging system capable of receiving live data streams at runtime. Designed for frontend and data‑intensive applications, it lets developers display and navigate large, continuously updating outputs directly in the console with minimal boilerplate. Its async‑first API makes integration with modern Rust async ecosystems seamless.
+
+### Русский
+
+AMythicDev/minus — это асинхронная библиотека для Rust, позволяющая реализовать постраничный вывод в терминале с поддержкой динамического обновления данных во время выполнения. Она упрощает создание интерактивных фронтенд‑интерфейсов, где потоки данных могут поступать в реальном времени, обеспечивая плавную и отзывчивую работу. Проект ориентирован на задачи, связанные с отображением и обработкой больших объёмов данных в консольных приложениях.
+
+### 中文
+
+AMythicDev/minus：AMythicDev/minus may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** AMythicDev/minus may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 363 GitHub stars
+- 29 forks
+- updated 2026-05-09
+- primary language: Rust
+- 4 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 37/100 |
+| stars | 55/100 |
+| topics | 50/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 50/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/AMythicDev/minus) · [← Back to Misc](./README.md)</sub>

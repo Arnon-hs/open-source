@@ -65,16 +65,16 @@ desplega-ai/agent-swarm：desplega-ai/agent-swarm helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 50/100 |
-| adoption | 51/100 |
-| stars | 56/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 56/100 |
 | topics | 50/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

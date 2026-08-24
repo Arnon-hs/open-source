@@ -63,16 +63,16 @@ ash-rs/ash：ash-rs/ash may be useful when its README and activity match a concr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 56/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 46/100 |
-| adoption | 68/100 |
-| stars | 71/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 38/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

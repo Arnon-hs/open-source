@@ -65,16 +65,16 @@ sgl-project/rbg：sgl-project/rbg helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 42/100 |
-| adoption | 48/100 |
-| stars | 50/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 50/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ LycheeMem/LycheeMem：LycheeMem/LycheeMem helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 43/100 |
-| stars | 51/100 |
 | forks | 24/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

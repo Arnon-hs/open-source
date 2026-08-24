@@ -65,16 +65,16 @@ coollabsio/jean：coollabsio/jean helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 59/100 |
-| stars | 63/100 |
 | forks | 49/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 75/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

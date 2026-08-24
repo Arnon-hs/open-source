@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools
+Backend · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ open-telemetry/opentelemetry-js：open-telemetry/opentelemetry-js helps teams re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 60/100 |
-| adoption | 75/100 |
-| stars | 75/100 |
 | forks | 75/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 63/100 |
+| outlook | 60/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

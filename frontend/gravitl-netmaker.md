@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevOps/Infra
+Frontend · Backend · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ gravitl/netmaker：gravitl/netmaker helps ship user-facing interfaces with less 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 82/100 |
-| stars | 86/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 82/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

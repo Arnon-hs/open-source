@@ -65,16 +65,16 @@ openai/openai-agents-python：openai/openai-agents-python helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 73/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 66/100 |
-| adoption | 93/100 |
-| stars | 94/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 94/100 |
 | topics | 75/100 |
+| outlook | 66/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

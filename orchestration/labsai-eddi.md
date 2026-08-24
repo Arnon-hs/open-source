@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ labsai/EDDI: labsai/EDDI helps turn isolated prompts and tools into repeatable a
 
 ### Русский
 
-labsai/EDDI: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+labsai/EDDI: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ labsai/EDDI：labsai/EDDI helps turn isolated prompts and tools into repeatable 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 59/100 |
-| integration | 94/100 |
-| production | 56/100 |
-| outlook | 60/100 |
-| adoption | 53/100 |
-| stars | 54/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 53/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

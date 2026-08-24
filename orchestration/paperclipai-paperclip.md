@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ paperclipai/paperclip：paperclipai/paperclip helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 54/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 0/100 |
+| outlook | 54/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

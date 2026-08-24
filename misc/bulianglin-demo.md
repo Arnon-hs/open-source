@@ -62,16 +62,16 @@ bulianglin/demo：bulianglin/demo may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 43/100 |
-| adoption | 70/100 |
-| stars | 71/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

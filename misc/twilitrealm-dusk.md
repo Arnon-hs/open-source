@@ -62,16 +62,16 @@ TwilitRealm/dusk：TwilitRealm/dusk may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 42/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 38/100 |
-| adoption | 49/100 |
-| stars | 55/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 0/100 |
+| outlook | 38/100 |
+| quality | 42/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 41/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

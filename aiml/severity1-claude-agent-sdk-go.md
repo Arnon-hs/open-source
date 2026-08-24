@@ -65,16 +65,16 @@ severity1/claude-agent-sdk-go：severity1/claude-agent-sdk-go helps add AI capab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 53/100 |
-| outlook | 58/100 |
-| adoption | 43/100 |
-| stars | 46/100 |
 | forks | 36/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

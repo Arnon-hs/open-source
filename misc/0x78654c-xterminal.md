@@ -63,16 +63,16 @@ xTerminal is an open‑source, Windows‑only terminal emulator written in C# th
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 39/100 |
-| adoption | 39/100 |
-| stars | 44/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 38/100 |
+| outlook | 39/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

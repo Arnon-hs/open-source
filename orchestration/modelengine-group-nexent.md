@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ModelEngine-Group/nexent: ModelEngine-Group/nexent helps turn isolated prompts a
 
 ### Русский
 
-ModelEngine-Group/nexent: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ModelEngine-Group/nexent: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ ModelEngine-Group/nexent：ModelEngine-Group/nexent helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 69/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 66/100 |
-| adoption | 75/100 |
-| stars | 78/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

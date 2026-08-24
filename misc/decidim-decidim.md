@@ -1,0 +1,80 @@
+# decidim/decidim
+
+[![Stars](https://img.shields.io/github/stars/decidim/decidim?style=flat-square&color=yellow)](https://github.com/decidim/decidim/stargazers) [![Forks](https://img.shields.io/github/forks/decidim/decidim?style=flat-square&color=blue)](https://github.com/decidim/decidim/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+
+> The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 466 |
+| 💻 **Language** | Ruby |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`citizen-participation` `civic-tech` `civictech` `collective-intelligence` `community` `decidim` `democracy` `digital-public-goods` `digital-public-infrastructure` `dpg` `government` `govtech`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Decidim is an open‑source participatory democracy platform built on Ruby on Rails, offering a generator and a suite of gems that enable municipalities, organizations, and communities to create transparent, citizen‑driven decision‑making processes. It provides modular components for proposals, voting, budgeting, and collaborative planning, making it easy to deploy custom democratic applications while adhering to best practices in security and scalability.
+
+### Русский
+
+Decidim — это открытая платформа для организации интерактивной демократии, построенная на Ruby on Rails и распределённая в виде генератора и набора гемов. Она позволяет муниципалитетам, НКО и сообществам создавать кастомные публичные консультации, голосования и процедуры совместного принятия решений, легко интегрируясь в существующую инфраструктуру и поддерживая автоматизацию DevOps. Благодаря модульному дизайну и расширяемому API Decidim подходит как для небольших проектов, так и для масштабных государственных инициатив.
+
+### 中文
+
+decidim/decidim：decidim/decidim may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** decidim/decidim may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1745 GitHub stars
+- 466 forks
+- updated 2026-05-08
+- primary language: Ruby
+- 15 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 67/100 |
+| stars | 69/100 |
+| topics | 100/100 |
+| outlook | 56/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/decidim/decidim) · [← Back to Misc](./README.md)</sub>

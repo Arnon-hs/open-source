@@ -65,16 +65,16 @@ inclusionAI/AReaL：inclusionAI/AReaL helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 69/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 58/100 |
-| adoption | 76/100 |
-| stars | 79/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

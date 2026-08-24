@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ radimsem/remindb：radimsem/remindb helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 46/100 |
-| integration | 78/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 25/100 |
-| stars | 35/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 25/100 |
+| production | 50/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

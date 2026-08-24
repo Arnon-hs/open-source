@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Security
+Crypto · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ guanzhi/GmSSL: guanzhi/GmSSL helps prototype or inspect blockchain workflows wit
 
 ### Русский
 
-guanzhi/GmSSL: open-source проект в категориях Crypto, AI/ML, Security. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+guanzhi/GmSSL: open-source проект в категориях Crypto, Security. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ guanzhi/GmSSL：guanzhi/GmSSL helps prototype or inspect blockchain workflows wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 81/100 |
-| stars | 80/100 |
 | forks | 81/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

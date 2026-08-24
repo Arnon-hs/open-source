@@ -64,16 +64,16 @@ SkillsCat/skillscat：SkillsCat/skillscat helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 33/100 |
-| integration | 46/100 |
-| production | 40/100 |
-| outlook | 36/100 |
-| adoption | 25/100 |
-| stars | 35/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 35/100 |
 | topics | 13/100 |
+| outlook | 36/100 |
+| quality | 33/100 |
+| recency | 20/100 |
+| adoption | 25/100 |
+| production | 40/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

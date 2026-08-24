@@ -65,16 +65,16 @@ LF-Decentralized-Trust-labs/gitmesh：LF-Decentralized-Trust-labs/gitmesh helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 43/100 |
-| adoption | 44/100 |
-| stars | 45/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 45/100 |
 | topics | 38/100 |
+| outlook | 43/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 44/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

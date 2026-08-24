@@ -65,16 +65,16 @@ koel/koel：koel/koel helps ship user-facing interfaces with less custom UI work
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 88/100 |
-| stars | 90/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 90/100 |
 | topics | 88/100 |
+| outlook | 56/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ google-labs-code/stitch-skills：google-labs-code/stitch-skills helps turn isola
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
-| integration | 94/100 |
-| production | 55/100 |
-| outlook | 54/100 |
-| adoption | 77/100 |
-| stars | 79/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 0/100 |
+| outlook | 54/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 55/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

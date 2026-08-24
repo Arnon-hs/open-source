@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · MCP · Knowledge/RAG · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ liaotxcn/Weave：liaotxcn/Weave helps turn isolated prompts and tools into repea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 56/100 |
-| integration | 94/100 |
-| production | 55/100 |
-| outlook | 59/100 |
-| adoption | 48/100 |
-| stars | 53/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

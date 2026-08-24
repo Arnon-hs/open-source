@@ -62,16 +62,16 @@ WordPress/WordPress：WordPress/WordPress may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 49/100 |
-| adoption | 94/100 |
-| stars | 92/100 |
 | forks | 100/100 |
-| recency | 20/100 |
+| stars | 92/100 |
 | topics | 0/100 |
+| outlook | 49/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

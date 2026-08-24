@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-DevOps/Infra · Design · Marketing
+DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Project-HAMi/HAMi：Project-HAMi/HAMi helps make deployment and operations more 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 54/100 |
-| adoption | 73/100 |
-| stars | 75/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

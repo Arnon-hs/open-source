@@ -63,16 +63,16 @@ ruby/ruby：ruby/ruby may be useful when its README and activity match a concret
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 77/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 93/100 |
-| stars | 93/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

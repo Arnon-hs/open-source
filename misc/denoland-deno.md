@@ -63,16 +63,16 @@ denoland/deno：denoland/deno may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 98/100 |
-| stars | 100/100 |
 | forks | 95/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 50/100 |
+| outlook | 55/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 98/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

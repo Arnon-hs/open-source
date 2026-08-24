@@ -62,16 +62,16 @@ console-rs/indicatif：console-rs/indicatif may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 53/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 74/100 |
-| stars | 79/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 0/100 |
+| outlook | 44/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ simstudioai/sim: simstudioai/sim helps turn isolated prompts and tools into repe
 
 ### Русский
 
-simstudioai/sim: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+simstudioai/sim: open-source проект в категориях Orchestration, Knowledge/RAG, Automation, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ simstudioai/sim：simstudioai/sim helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 77/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 70/100 |
-| adoption | 93/100 |
-| stars | 95/100 |
 | forks | 89/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 100/100 |
+| outlook | 70/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

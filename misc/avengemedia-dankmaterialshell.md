@@ -1,0 +1,80 @@
+# AvengeMedia/DankMaterialShell
+
+[![Stars](https://img.shields.io/github/stars/AvengeMedia/DankMaterialShell?style=flat-square&color=yellow)](https://github.com/AvengeMedia/DankMaterialShell/stargazers) [![Forks](https://img.shields.io/github/forks/AvengeMedia/DankMaterialShell?style=flat-square&color=blue)](https://github.com/AvengeMedia/DankMaterialShell/network) [![Language](https://img.shields.io/badge/lang-QML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+
+> Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 6.2k |
+| 🍴 **Forks** | 378 |
+| 💻 **Language** | QML |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`dwl` `go` `hyprland` `labwc` `mangowc` `niri` `quickshell` `sway` `theme` `tiling-window-manager` `wayland`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+AvengeMedia’s **DankMaterialShell** is a lightweight, customizable desktop shell for Wayland compositors, built with Quickshell and Go. It provides a polished, Material‑design‑inspired UI that is specially optimized for popular compositors such as Niri, Hyprland, Sway, MangoWC, Labwc, and MiracleWM, making it easy to deploy a consistent look and feel across different Wayland environments. The project targets both AI/ML‑enhanced workflows and modern front‑end development, offering a flexible foundation for developers to extend and personalize their desktop experience.
+
+### Русский
+
+AvengeMedia/DankMaterialShell — это лёгкая desktop‑оболочка для Wayland‑композиторов, реализованная на Quickshell и Go, с особой оптимизацией под niri, Hyprland, Sway, MangoWC, Labwc и MiracleWM. Она сочетает современный UI и гибкую конфигурацию, позволяя пользователям быстро настроить рабочее окружение под свои нужды. Проект открыт и доступен для совместной разработки в сообществе.
+
+### 中文
+
+AvengeMedia/DankMaterialShell：AvengeMedia/DankMaterialShell may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** AvengeMedia/DankMaterialShell may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 6157 GitHub stars
+- 378 forks
+- updated 2026-05-08
+- primary language: QML
+- 11 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 64/100 |
+| stars | 81/100 |
+| topics | 100/100 |
+| outlook | 54/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/AvengeMedia/DankMaterialShell) · [← Back to Misc](./README.md)</sub>

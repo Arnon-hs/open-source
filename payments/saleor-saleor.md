@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Backend
+Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ saleor/saleor: saleor/saleor helps integrate monetization, billing, or PSP flows
 
 ### Русский
 
-saleor/saleor: open-source проект в категориях Payments, Backend. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+saleor/saleor: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ saleor/saleor：saleor/saleor helps integrate monetization, billing, or PSP flow
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 93/100 |
-| stars | 93/100 |
 | forks | 94/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

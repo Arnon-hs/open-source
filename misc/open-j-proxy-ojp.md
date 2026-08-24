@@ -62,16 +62,16 @@ Open-J-Proxy/ojp：Open-J-Proxy/ojp may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 41/100 |
-| integration | 18/100 |
-| production | 39/100 |
-| outlook | 37/100 |
-| adoption | 47/100 |
-| stars | 49/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 49/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 39/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
 | sourceTrust | 100/100 |
 
 ---

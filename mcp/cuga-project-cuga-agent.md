@@ -1,6 +1,6 @@
 # cuga-project/cuga-agent
 
-[![Stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=flat-square&color=yellow)](https://github.com/cuga-project/cuga-agent/stargazers) [![Forks](https://img.shields.io/github/forks/cuga-project/cuga-agent?style=flat-square&color=blue)](https://github.com/cuga-project/cuga-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=flat-square&color=yellow)](https://github.com/cuga-project/cuga-agent/stargazers) [![Forks](https://img.shields.io/github/forks/cuga-project/cuga-agent?style=flat-square&color=blue)](https://github.com/cuga-project/cuga-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 859 |
-| 🍴 **Forks** | 142 |
+| ⭐ **Stars** | 717 |
+| 🍴 **Forks** | 130 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-12 |
+| 📈 **Score** | 72/100 |
+| 🗓️ **Last push** | 2026-05-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML · Backend
+MCP · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-cuga-project/cuga-agent: cuga-project/cuga-agent helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+CUGA Agent is an open‑source, enterprise‑grade generalist AI agent framework that orchestrates complex tasks across web interfaces, APIs, and OpenAPI/MCP services. Its composable architecture offers multiple reasoning modes, policy‑aware controls, and seamless integration capabilities, making it a versatile backend solution for AI‑driven automation.
 
 ### Русский
 
-cuga-project/cuga-agent: open-source проект в категориях MCP, AI/ML, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+CUGA — это открытый агент‑хаб для предприятий, позволяющий автоматически выполнять сложные задачи в веб‑среде и через API, включая интеграцию с OpenAPI и MCP. Он построен на модульной, компонуемой архитектуре, поддерживает разные режимы рассуждения и политики выполнения, что делает его универсальным решением для AI/ML‑приложений и бекенд‑сервисов.
 
 ### 中文
 
-cuga-project/cuga-agent：cuga-project/cuga-agent helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+cuga-project/cuga-agent：cuga-project/cuga-agent helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ cuga-project/cuga-agent：cuga-project/cuga-agent helps connect AI assistants to
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 859 GitHub stars
-- 142 forks
-- updated 2026-07-12
+- 717 GitHub stars
+- 130 forks
+- updated 2026-05-10
 - primary language: Python
 - 10 topics
 
@@ -65,18 +65,18 @@ cuga-project/cuga-agent：cuga-project/cuga-agent helps connect AI assistants to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 82/100 |
-| integration | 78/100 |
-| production | 82/100 |
-| outlook | 90/100 |
-| adoption | 60/100 |
-| stars | 62/100 |
-| forks | 54/100 |
-| recency | 100/100 |
+| forks | 53/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 55/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-12 · [View on GitHub](https://github.com/cuga-project/cuga-agent) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/cuga-project/cuga-agent) · [← Back to Mcp](./README.md)</sub>

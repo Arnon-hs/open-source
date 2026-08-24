@@ -66,16 +66,16 @@ fosrl/pangolin：fosrl/pangolin may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 86/100 |
-| stars | 92/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 92/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

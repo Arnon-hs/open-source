@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Backend · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ mudler/LocalAGI：mudler/LocalAGI helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 50/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 49/100 |
-| adoption | 67/100 |
-| stars | 69/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 0/100 |
+| outlook | 49/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

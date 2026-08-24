@@ -65,16 +65,16 @@ wfxr/forgit：wfxr/forgit helps engineers save time in daily development and rev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 59/100 |
-| adoption | 72/100 |
-| stars | 79/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

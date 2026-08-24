@@ -65,16 +65,16 @@ jackielii/skhd.zig：jackielii/skhd.zig helps engineers save time in daily devel
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 50/100 |
-| adoption | 49/100 |
-| stars | 58/100 |
 | forks | 28/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 88/100 |
+| outlook | 50/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 49/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

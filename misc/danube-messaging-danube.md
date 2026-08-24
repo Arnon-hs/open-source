@@ -62,16 +62,16 @@ danube-messaging/danube：danube-messaging/danube may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 37/100 |
-| integration | 30/100 |
-| production | 40/100 |
-| outlook | 35/100 |
-| adoption | 39/100 |
-| stars | 47/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 0/100 |
+| outlook | 35/100 |
+| quality | 37/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 40/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

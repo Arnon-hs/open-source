@@ -65,16 +65,16 @@ laravel/cashier-stripe：laravel/cashier-stripe helps integrate monetization, bi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 72/100 |
-| stars | 72/100 |
 | forks | 72/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 38/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

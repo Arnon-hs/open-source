@@ -62,16 +62,16 @@ Kitware/vtk-js：Kitware/vtk-js may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 45/100 |
-| adoption | 67/100 |
-| stars | 68/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 67/100 |
+| production | 44/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

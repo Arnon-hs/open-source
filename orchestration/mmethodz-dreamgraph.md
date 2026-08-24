@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ mmethodz/dreamgraph：mmethodz/dreamgraph helps turn isolated prompts and tools 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 57/100 |
-| adoption | 39/100 |
-| stars | 41/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 41/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

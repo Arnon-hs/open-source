@@ -62,16 +62,16 @@ zsviczian/obsidian-excalidraw-plugin：zsviczian/obsidian-excalidraw-plugin may 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 62/100 |
-| production | 50/100 |
-| outlook | 45/100 |
-| adoption | 77/100 |
-| stars | 82/100 |
 | forks | 66/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

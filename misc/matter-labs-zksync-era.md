@@ -62,16 +62,16 @@ matter-labs/zksync-era：matter-labs/zksync-era may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 77/100 |
-| stars | 75/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 75/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

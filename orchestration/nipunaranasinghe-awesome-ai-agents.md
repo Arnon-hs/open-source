@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ NipunaRanasinghe/awesome-ai-agents：NipunaRanasinghe/awesome-ai-agents helps tu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 47/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 52/100 |
-| adoption | 32/100 |
-| stars | 32/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 32/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 32/100 |
+| production | 43/100 |
+| usefulness | 90/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

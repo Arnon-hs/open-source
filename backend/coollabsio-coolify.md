@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · DevTools · Data
+Backend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ coollabsio/coolify: coollabsio/coolify helps teams reuse service infrastructure 
 
 ### Русский
 
-coollabsio/coolify: open-source проект в категориях Backend, DevTools, Data. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+coollabsio/coolify: open-source проект в категориях Backend, Database, DevOps/Infra. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ coollabsio/coolify：coollabsio/coolify helps teams reuse service infrastructure
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 79/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 66/100 |
-| adoption | 97/100 |
-| stars | 100/100 |
 | forks | 91/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 79/100 |
+| recency | 20/100 |
+| adoption | 97/100 |
+| production | 61/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

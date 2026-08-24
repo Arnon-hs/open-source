@@ -68,6 +68,7 @@ nodejs/doc-kit：nodejs/doc-kit may be useful when its README and activity match
 | production | 64/100 |
 | outlook | 67/100 |
 | adoption | 40/100 |
+| categoryMatchCount | 100/100 |
 | stars | 38/100 |
 | forks | 45/100 |
 | recency | 100/100 |

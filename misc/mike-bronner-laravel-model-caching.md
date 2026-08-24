@@ -63,16 +63,16 @@ mike-bronner/laravel-model-caching：mike-bronner/laravel-model-caching may be u
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 58/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 68/100 |
-| stars | 72/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 50/100 |
+| outlook | 47/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

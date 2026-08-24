@@ -65,16 +65,16 @@ WoJiSama/skill-based-architecture：WoJiSama/skill-based-architecture helps add 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 50/100 |
-| adoption | 45/100 |
-| stars | 50/100 |
 | forks | 33/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 75/100 |
+| outlook | 50/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 45/100 |
+| production | 45/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

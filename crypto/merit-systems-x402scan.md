@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · AI/ML
+Crypto · Payments · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Merit-Systems/x402scan：Merit-Systems/x402scan helps prototype or inspect block
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 58/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 55/100 |
-| stars | 54/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 88/100 |
+| outlook | 51/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

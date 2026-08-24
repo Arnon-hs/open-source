@@ -1,0 +1,80 @@
+# alecthomas/chroma
+
+[![Stars](https://img.shields.io/github/stars/alecthomas/chroma?style=flat-square&color=yellow)](https://github.com/alecthomas/chroma/stargazers) [![Forks](https://img.shields.io/github/forks/alecthomas/chroma?style=flat-square&color=blue)](https://github.com/alecthomas/chroma/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+
+> A general purpose syntax highlighter in pure Go
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4.9k |
+| 🍴 **Forks** | 483 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`console` `go` `golang` `highlighter` `highlighting` `html` `library` `syntax` `tool`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Alecthomas/chroma is a pure‑Go library that provides fast, extensible syntax highlighting for a wide range of programming languages. It parses source code into token streams and applies customizable style themes, making it easy to embed highlighted code in web pages, terminal applications, or static documentation generators. Although written in Go, it can be used from any language that can call Go libraries, offering a versatile, open‑source solution for developers needing language‑aware code rendering.
+
+### Русский
+
+**a​lecthomas/chroma** – это кросс‑платформенный подсветчик синтаксиса, написанный полностью на Go, поддерживающий более 200 языков и множество тем оформления. Он предоставляет простой API для интеграции в веб‑приложения, статические генераторы сайтов и инструменты командной строки, позволяя быстро получать HTML, ANSI‑коды или изображения с подсвеченным кодом. Благодаря чистой реализации без внешних зависимостей проект легко встраивается в любые Go‑проекты и подходит для автоматизированных пайплайнов в сфере AI/ML.
+
+### 中文
+
+alecthomas/chroma：alecthomas/chroma may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** alecthomas/chroma may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 4926 GitHub stars
+- 483 forks
+- updated 2026-05-09
+- primary language: Go
+- 9 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 67/100 |
+| stars | 79/100 |
+| topics | 100/100 |
+| outlook | 57/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 75/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/alecthomas/chroma) · [← Back to Misc](./README.md)</sub>

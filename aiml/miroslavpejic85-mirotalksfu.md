@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Backend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ miroslavpejic85/mirotalksfu: miroslavpejic85/mirotalksfu helps add AI capability
 
 ### Русский
 
-miroslavpejic85/mirotalksfu: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+miroslavpejic85/mirotalksfu: open-source проект в категориях AI/ML, Backend, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ miroslavpejic85/mirotalksfu：miroslavpejic85/mirotalksfu helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 67/100 |
-| integration | 62/100 |
-| production | 55/100 |
-| outlook | 60/100 |
-| adoption | 72/100 |
-| stars | 74/100 |
 | forks | 67/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 72/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

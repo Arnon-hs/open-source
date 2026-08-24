@@ -63,16 +63,16 @@ bytecodealliance/wasmtime：bytecodealliance/wasmtime may be useful when its REA
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 75/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 57/100 |
-| adoption | 88/100 |
-| stars | 91/100 |
 | forks | 81/100 |
-| recency | 20/100 |
+| stars | 91/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 88/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

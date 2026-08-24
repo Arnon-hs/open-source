@@ -63,16 +63,16 @@ erasin/hx-lsp：erasin/hx-lsp may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 39/100 |
-| adoption | 36/100 |
-| stars | 43/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 50/100 |
+| outlook | 39/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

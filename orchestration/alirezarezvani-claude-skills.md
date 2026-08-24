@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · AI/ML · DevTools · Marketing
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ alirezarezvani/claude-skills：alirezarezvani/claude-skills helps turn isolated 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 74/100 |
-| integration | 78/100 |
-| production | 60/100 |
-| outlook | 67/100 |
-| adoption | 87/100 |
-| stars | 88/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

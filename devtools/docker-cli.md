@@ -65,16 +65,16 @@ docker/cli：docker/cli helps engineers save time in daily development and revie
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 60/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 51/100 |
-| adoption | 81/100 |
-| stars | 80/100 |
 | forks | 83/100 |
-| recency | 20/100 |
+| stars | 80/100 |
 | topics | 25/100 |
+| outlook | 51/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

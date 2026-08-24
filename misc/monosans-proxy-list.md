@@ -61,16 +61,16 @@ monosans/proxy-list：monosans/proxy-list may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 41/100 |
-| adoption | 64/100 |
-| stars | 67/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

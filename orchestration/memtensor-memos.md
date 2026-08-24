@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · MCP · Knowledge/RAG · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ MemTensor/MemOS: MemTensor/MemOS helps turn isolated prompts and tools into repe
 
 ### Русский
 
-MemTensor/MemOS: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+MemTensor/MemOS: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ MemTensor/MemOS：MemTensor/MemOS helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 71/100 |
-| integration | 78/100 |
-| production | 59/100 |
-| outlook | 67/100 |
-| adoption | 81/100 |
-| stars | 84/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 59/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

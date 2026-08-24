@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ VILA-Lab/Dive-into-Claude-Code：VILA-Lab/Dive-into-Claude-Code helps add AI cap
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 47/100 |
-| adoption | 62/100 |
-| stars | 64/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 25/100 |
+| outlook | 47/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

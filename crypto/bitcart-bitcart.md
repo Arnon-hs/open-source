@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Payments · Trading
+Crypto · Payments · Trading · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ bitcart/bitcart: bitcart/bitcart helps prototype or inspect blockchain workflows
 
 ### Русский
 
-bitcart/bitcart: open-source проект в категориях Crypto, Payments, Trading. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+bitcart/bitcart: open-source проект в категориях Crypto, Payments, Trading, DevOps/Infra. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ bitcart/bitcart：bitcart/bitcart helps prototype or inspect blockchain workflow
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 62/100 |
-| integration | 94/100 |
-| production | 58/100 |
-| outlook | 57/100 |
-| adoption | 61/100 |
-| stars | 63/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 61/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

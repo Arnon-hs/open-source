@@ -65,16 +65,16 @@ higress-group/higress：higress-group/higress helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 81/100 |
-| stars | 83/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

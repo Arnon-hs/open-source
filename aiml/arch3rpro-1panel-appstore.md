@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ arch3rPro/1Panel-Appstore: arch3rPro/1Panel-Appstore helps add AI capability wit
 
 ### Русский
 
-arch3rPro/1Panel-Appstore: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+arch3rPro/1Panel-Appstore: open-source проект в категориях AI/ML, Observability. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ arch3rPro/1Panel-Appstore：arch3rPro/1Panel-Appstore helps add AI capability wi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 54/100 |
-| adoption | 43/100 |
-| stars | 46/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 46/100 |
 | topics | 88/100 |
+| outlook | 54/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 47/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

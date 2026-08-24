@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ joeynyc/hermes-hudui：joeynyc/hermes-hudui helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 48/100 |
-| adoption | 64/100 |
-| stars | 67/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ versatica/mediasoup：versatica/mediasoup helps teams reuse service infrastructu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 68/100 |
-| integration | 30/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 81/100 |
-| stars | 82/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 82/100 |
 | topics | 75/100 |
+| outlook | 53/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

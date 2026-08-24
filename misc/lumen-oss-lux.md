@@ -63,16 +63,16 @@ lumen-oss/lux：lumen-oss/lux may be useful when its README and activity match a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 42/100 |
-| adoption | 55/100 |
-| stars | 63/100 |
 | forks | 35/100 |
-| recency | 20/100 |
+| stars | 63/100 |
 | topics | 25/100 |
+| outlook | 42/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

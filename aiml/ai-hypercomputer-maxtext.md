@@ -65,16 +65,16 @@ AI-Hypercomputer/maxtext：AI-Hypercomputer/maxtext helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 70/100 |
-| stars | 71/100 |
 | forks | 68/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ LarsCowe/bmalph：LarsCowe/bmalph helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 51/100 |
-| stars | 55/100 |
 | forks | 40/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 63/100 |
+| outlook | 51/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

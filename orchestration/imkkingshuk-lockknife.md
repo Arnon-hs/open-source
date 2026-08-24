@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ImKKingshuk/LockKnife：ImKKingshuk/LockKnife helps turn isolated prompts and to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 59/100 |
-| adoption | 55/100 |
-| stars | 57/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 57/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 60/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 52/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

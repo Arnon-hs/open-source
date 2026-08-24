@@ -1,41 +1,41 @@
 # Canner/WrenAI
 
-[![Stars](https://img.shields.io/github/stars/Canner/WrenAI?style=flat-square&color=yellow)](https://github.com/Canner/WrenAI/stargazers) [![Forks](https://img.shields.io/github/forks/Canner/WrenAI?style=flat-square&color=blue)](https://github.com/Canner/WrenAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Canner/WrenAI?style=flat-square&color=yellow)](https://github.com/Canner/WrenAI/stargazers) [![Forks](https://img.shields.io/github/forks/Canner/WrenAI?style=flat-square&color=blue)](https://github.com/Canner/WrenAI/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
-> GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.
+> The open context layer that gives AI agents grounded, governed SQL across 20+ data sources.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15.8k |
-| 🍴 **Forks** | 1.8k |
-| 💻 **Language** | Python |
-| 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| ⭐ **Stars** | 15.1k |
+| 🍴 **Forks** | 1.7k |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent` `anthropic` `bigquery` `charts` `context-engineering` `duckdb` `genbi` `llm` `openai` `postgresql` `rag` `sql`
+`agent` `anthropic` `bigquery` `charts` `context-engineering` `duckdb` `llm` `openai` `postgresql` `rag` `sql` `sqlai`
 
 ## 🎯 Categories
 
-Knowledge/RAG · AI/ML · DevTools · Data · Database
+Knowledge/RAG · AI/ML · Database
 
 ## 📝 Summary
 
 ### English
 
-Canner/WrenAI: Canner/WrenAI helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Canner/WrenAI: Canner/WrenAI helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Canner/WrenAI: open-source проект в категориях Knowledge/RAG, AI/ML, DevTools, Data, Database. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+Canner/WrenAI: open-source проект в категориях Knowledge/RAG, AI/ML, Database. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Canner/WrenAI：Canner/WrenAI helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+Canner/WrenAI：Canner/WrenAI helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,17 +47,17 @@ Canner/WrenAI：Canner/WrenAI helps make internal knowledge searchable and usabl
 - improve search over documents
 - ground assistant answers
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 15794 GitHub stars
-- 1807 forks
-- updated 2026-07-13
-- primary language: Python
-- 17 topics
+- 15082 GitHub stars
+- 1701 forks
+- updated 2026-05-07
+- primary language: Rust
+- 16 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,18 +65,18 @@ Canner/WrenAI：Canner/WrenAI helps make internal knowledge searchable and usabl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 94/100 |
-| integration | 78/100 |
-| production | 86/100 |
-| outlook | 97/100 |
-| adoption | 87/100 |
-| stars | 89/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/Canner/WrenAI) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Canner/WrenAI) · [← Back to Knowledgerag](./README.md)</sub>

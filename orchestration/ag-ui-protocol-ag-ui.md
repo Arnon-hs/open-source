@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · Automation · AI/ML · Frontend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ ag-ui-protocol/ag-ui：ag-ui-protocol/ag-ui helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 68/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 59/100 |
-| adoption | 85/100 |
-| stars | 88/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 88/100 |
 | topics | 63/100 |
+| outlook | 59/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 85/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

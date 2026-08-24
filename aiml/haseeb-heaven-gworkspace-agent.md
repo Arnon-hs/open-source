@@ -66,16 +66,16 @@ haseeb-heaven/gworkspace-agent：haseeb-heaven/gworkspace-agent helps add AI cap
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 52/100 |
-| integration | 94/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 39/100 |
-| stars | 41/100 |
 | forks | 34/100 |
-| recency | 20/100 |
+| stars | 41/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 54/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

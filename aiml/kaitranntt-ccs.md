@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Backend
+AI/ML · Frontend · Backend · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ kaitranntt/ccs: kaitranntt/ccs helps add AI capability without starting from a b
 
 ### Русский
 
-kaitranntt/ccs: open-source проект в категориях AI/ML, Frontend, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kaitranntt/ccs: open-source проект в категориях AI/ML, Frontend, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ kaitranntt/ccs：kaitranntt/ccs helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 65/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 64/100 |
-| adoption | 68/100 |
-| stars | 72/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 56/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

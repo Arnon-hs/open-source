@@ -65,16 +65,16 @@ cacheplane/dawnai：cacheplane/dawnai helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 54/100 |
-| adoption | 34/100 |
-| stars | 42/100 |
 | forks | 12/100 |
-| recency | 20/100 |
+| stars | 42/100 |
 | topics | 88/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 46/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

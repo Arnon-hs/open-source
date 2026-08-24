@@ -63,16 +63,16 @@ stride3d/stride：stride3d/stride may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 71/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 56/100 |
-| adoption | 81/100 |
-| stars | 83/100 |
 | forks | 76/100 |
-| recency | 20/100 |
+| stars | 83/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 71/100 |
+| recency | 20/100 |
+| adoption | 81/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

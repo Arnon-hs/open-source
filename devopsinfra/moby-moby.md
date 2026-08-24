@@ -1,0 +1,82 @@
+# moby/moby
+
+[![Stars](https://img.shields.io/github/stars/moby/moby?style=flat-square&color=yellow)](https://github.com/moby/moby/stargazers) [![Forks](https://img.shields.io/github/forks/moby/moby?style=flat-square&color=blue)](https://github.com/moby/moby/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+
+> The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 71.5k |
+| 🍴 **Forks** | 18.9k |
+| 💻 **Language** | Go |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`containers` `docker` `go` `golang`
+
+## 🎯 Categories
+
+DevOps/Infra
+
+## 📝 Summary
+
+### English
+
+Moby is an open‑source framework for building custom container‑based systems, providing the core components (container runtime, image handling, networking, and orchestration) that power Docker and other container platforms. It offers a modular, extensible codebase and reference implementations that enable developers and infrastructure teams to assemble, extend, and tailor container solutions for diverse DevOps and AI/ML workloads.
+
+### Русский
+
+Moby — это открытый проект, ставящий своей целью создание гибкой и модульной платформы для построения контейнерных систем, на которой базируется Docker. Он предоставляет набор библиотек, инструментов и спецификаций, позволяющих разработчикам и инженерам DevOps быстро собирать, управлять и масштабировать контейнерные решения в любой инфраструктуре. Проект активно поддерживается сообществом и служит фундаментом для инноваций в области контейнеризации и облачных технологий.
+
+### 中文
+
+moby/moby：moby/moby helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** moby/moby helps make deployment and operations more repeatable.
+
+**Best use cases**
+
+- standardize deployment
+- automate operations
+- improve platform reliability
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 71535 GitHub stars
+- 18932 forks
+- updated 2026-05-09
+- primary language: Go
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 100/100 |
+| stars | 100/100 |
+| topics | 50/100 |
+| outlook | 55/100 |
+| quality | 73/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/moby/moby) · [← Back to DevOps & Infra](./README.md)</sub>

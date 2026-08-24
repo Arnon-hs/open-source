@@ -68,6 +68,7 @@ sst/opencode：sst/opencode may be useful when its README and activity match a c
 | production | 74/100 |
 | outlook | 79/100 |
 | adoption | 100/100 |
+| categoryMatchCount | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
 | recency | 100/100 |

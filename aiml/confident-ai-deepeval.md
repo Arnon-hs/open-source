@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Observability
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ confident-ai/deepeval：confident-ai/deepeval helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 58/100 |
-| adoption | 86/100 |
-| stars | 89/100 |
 | forks | 79/100 |
-| recency | 20/100 |
+| stars | 89/100 |
 | topics | 75/100 |
+| outlook | 58/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

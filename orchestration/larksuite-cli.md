@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ larksuite/cli: larksuite/cli helps turn isolated prompts and tools into repeatab
 
 ### Русский
 
-larksuite/cli: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+larksuite/cli: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,16 +64,16 @@ larksuite/cli：larksuite/cli helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 55/100 |
-| adoption | 80/100 |
-| stars | 85/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 85/100 |
 | topics | 0/100 |
+| outlook | 55/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 80/100 |
+| production | 51/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

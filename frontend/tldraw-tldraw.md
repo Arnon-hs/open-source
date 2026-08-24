@@ -65,16 +65,16 @@ tldraw/tldraw：tldraw/tldraw helps ship user-facing interfaces with less custom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 78/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 63/100 |
-| adoption | 96/100 |
-| stars | 99/100 |
 | forks | 88/100 |
-| recency | 20/100 |
+| stars | 99/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 61/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

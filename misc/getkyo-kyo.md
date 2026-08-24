@@ -62,16 +62,16 @@ getkyo/kyo：getkyo/kyo may be useful when its README and activity match a concr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 46/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 43/100 |
-| adoption | 58/100 |
-| stars | 61/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

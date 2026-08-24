@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ agentbay-ai/wuying-agentbay-sdk：agentbay-ai/wuying-agentbay-sdk helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 53/100 |
-| adoption | 59/100 |
-| stars | 65/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,6 +1,6 @@
 # LetsFG/LetsFG
 
-[![Stars](https://img.shields.io/github/stars/LetsFG/LetsFG?style=flat-square&color=yellow)](https://github.com/LetsFG/LetsFG/stargazers) [![Forks](https://img.shields.io/github/forks/LetsFG/LetsFG?style=flat-square&color=blue)](https://github.com/LetsFG/LetsFG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LetsFG/LetsFG?style=flat-square&color=yellow)](https://github.com/LetsFG/LetsFG/stargazers) [![Forks](https://img.shields.io/github/forks/LetsFG/LetsFG?style=flat-square&color=blue)](https://github.com/LetsFG/LetsFG/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-native flight search & booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 65 |
+| ⭐ **Stars** | 1k |
+| 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-05 |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,15 @@ MCP · AI/ML · Backend
 
 ### English
 
-LetsFG/LetsFG: LetsFG/LetsFG helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+LetsFG/LetsFG: LetsFG/LetsFG helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-LetsFG/LetsFG: open-source проект в категориях MCP, AI/ML, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+LetsFG/LetsFG: open-source проект в категориях MCP, AI/ML, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-LetsFG/LetsFG：LetsFG/LetsFG helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+LetsFG/LetsFG：LetsFG/LetsFG helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ LetsFG/LetsFG：LetsFG/LetsFG helps connect AI assistants to real tools and data
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 1251 GitHub stars
-- 65 forks
-- updated 2026-07-05
+- 1003 GitHub stars
+- 51 forks
+- updated 2026-05-07
 - primary language: Python
 - 16 topics
 
@@ -65,18 +65,18 @@ LetsFG/LetsFG：LetsFG/LetsFG helps connect AI assistants to real tools and data
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 82/100 |
-| integration | 100/100 |
-| production | 85/100 |
-| outlook | 90/100 |
-| adoption | 60/100 |
-| stars | 66/100 |
-| forks | 45/100 |
-| recency | 100/100 |
+| forks | 43/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-05 · [View on GitHub](https://github.com/LetsFG/LetsFG) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/LetsFG/LetsFG) · [← Back to Mcp](./README.md)</sub>

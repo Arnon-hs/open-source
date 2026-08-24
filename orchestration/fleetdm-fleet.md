@@ -65,16 +65,16 @@ fleetdm/fleet：fleetdm/fleet helps turn isolated prompts and tools into repeata
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 79/100 |
-| stars | 81/100 |
 | forks | 73/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 70/100 |
+| recency | 20/100 |
+| adoption | 79/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

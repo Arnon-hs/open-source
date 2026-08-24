@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ vstorm-co/pydantic-deepagents: vstorm-co/pydantic-deepagents helps turn isolated
 
 ### Русский
 
-vstorm-co/pydantic-deepagents: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+vstorm-co/pydantic-deepagents: open-source проект в категориях Orchestration, MCP, AI/ML, DevTools, DevOps/Infra. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ vstorm-co/pydantic-deepagents：vstorm-co/pydantic-deepagents helps turn isolate
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 61/100 |
-| integration | 94/100 |
-| production | 57/100 |
-| outlook | 61/100 |
-| adoption | 58/100 |
-| stars | 61/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 61/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 61/100 |
+| recency | 20/100 |
+| adoption | 58/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

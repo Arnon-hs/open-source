@@ -1,0 +1,79 @@
+# google/adk-docs
+
+[![Stars](https://img.shields.io/github/stars/google/adk-docs?style=flat-square&color=yellow)](https://github.com/google/adk-docs/stargazers) [![Forks](https://img.shields.io/github/forks/google/adk-docs?style=flat-square&color=blue)](https://github.com/google/adk-docs/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+
+> An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 1k |
+| 💻 **Language** | Shell |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Google’s **adk-docs** is an open‑source, code‑first toolkit that streamlines the creation, evaluation, and deployment of advanced AI agents. It gives developers fine‑grained control over agent architecture while providing ready‑to‑use components for testing and production, making it ideal for both research and real‑world applications.
+
+### Русский
+
+**google/adk-docs** – это открытый набор инструментов, построенный по принципу «code‑first», который позволяет разрабатывать, оценивать и развёртывать сложные AI‑агенты с полной гибкостью и контролем над процессом. Проект сочетает возможности машинного обучения и удобный фронтенд‑интерфейс, упрощая интеграцию интеллектуальных решений в любые приложения.
+
+### 中文
+
+google/adk-docs：google/adk-docs may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** google/adk-docs may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1337 GitHub stars
+- 1017 forks
+- updated 2026-05-08
+- primary language: Shell
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 75/100 |
+| stars | 67/100 |
+| topics | 0/100 |
+| outlook | 49/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/google/adk-docs) · [← Back to Misc](./README.md)</sub>

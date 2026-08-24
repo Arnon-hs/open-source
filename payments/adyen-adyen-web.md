@@ -65,16 +65,16 @@ Adyen/adyen-web：Adyen/adyen-web helps integrate monetization, billing, or PSP 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 49/100 |
-| adoption | 52/100 |
-| stars | 51/100 |
 | forks | 56/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 75/100 |
+| outlook | 49/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

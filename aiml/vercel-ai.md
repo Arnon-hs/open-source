@@ -65,16 +65,16 @@ vercel/ai：vercel/ai helps add AI capability without starting from a blank mode
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 68/100 |
-| adoption | 93/100 |
-| stars | 93/100 |
 | forks | 91/100 |
-| recency | 20/100 |
+| stars | 93/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 93/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

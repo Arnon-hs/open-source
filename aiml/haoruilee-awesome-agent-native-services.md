@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ haoruilee/awesome-agent-native-services：haoruilee/awesome-agent-native-service
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 41/100 |
-| integration | 30/100 |
-| production | 41/100 |
-| outlook | 40/100 |
-| adoption | 47/100 |
-| stars | 54/100 |
 | forks | 29/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 0/100 |
+| outlook | 40/100 |
+| quality | 41/100 |
+| recency | 20/100 |
+| adoption | 47/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ intellij-dlanguage/intellij-dlanguage：intellij-dlanguage/intellij-dlanguage ma
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 44/100 |
-| adoption | 51/100 |
-| stars | 54/100 |
 | forks | 44/100 |
-| recency | 20/100 |
+| stars | 54/100 |
 | topics | 63/100 |
+| outlook | 44/100 |
+| quality | 52/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

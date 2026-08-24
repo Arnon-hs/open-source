@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Backend · Mobile
+Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Epodonios/v2ray-configs: Epodonios/v2ray-configs helps teams reuse service infra
 
 ### Русский
 
-Epodonios/v2ray-configs: open-source проект в категориях Backend, Mobile. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Epodonios/v2ray-configs: open-source проект в категориях Backend. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ Epodonios/v2ray-configs：Epodonios/v2ray-configs helps teams reuse service infr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 71/100 |
-| stars | 74/100 |
 | forks | 65/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

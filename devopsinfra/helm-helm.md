@@ -65,16 +65,16 @@ helm/helm：helm/helm helps make deployment and operations more repeatable.。�
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 56/100 |
-| adoption | 96/100 |
-| stars | 95/100 |
 | forks | 97/100 |
-| recency | 20/100 |
+| stars | 95/100 |
 | topics | 63/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 96/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

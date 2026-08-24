@@ -65,16 +65,16 @@ openzfs/zfs：openzfs/zfs may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 86/100 |
-| stars | 87/100 |
 | forks | 82/100 |
-| recency | 20/100 |
+| stars | 87/100 |
 | topics | 38/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 86/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

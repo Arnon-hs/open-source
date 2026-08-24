@@ -67,16 +67,16 @@ PBH-BTN/BTN-Collected-Rules：PBH-BTN/BTN-Collected-Rules may be useful when its
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 43/100 |
-| adoption | 51/100 |
-| stars | 58/100 |
 | forks | 31/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 50/100 |
+| outlook | 43/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

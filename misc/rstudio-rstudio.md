@@ -62,16 +62,16 @@ rstudio/rstudio：rstudio/rstudio may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 78/100 |
-| stars | 79/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 79/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 78/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

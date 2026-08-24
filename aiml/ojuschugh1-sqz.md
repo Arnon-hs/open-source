@@ -65,16 +65,16 @@ ojuschugh1/sqz：ojuschugh1/sqz helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 58/100 |
-| adoption | 43/100 |
-| stars | 50/100 |
 | forks | 25/100 |
-| recency | 20/100 |
+| stars | 50/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

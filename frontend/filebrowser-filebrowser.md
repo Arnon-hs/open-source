@@ -65,16 +65,16 @@ filebrowser/filebrowser：filebrowser/filebrowser helps ship user-facing interfa
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 76/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 61/100 |
-| adoption | 95/100 |
-| stars | 97/100 |
 | forks | 90/100 |
-| recency | 20/100 |
+| stars | 97/100 |
 | topics | 88/100 |
+| outlook | 61/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 95/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -65,16 +65,16 @@ kubernetes/ingress-gce：kubernetes/ingress-gce helps make deployment and operat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 48/100 |
-| adoption | 65/100 |
-| stars | 66/100 |
 | forks | 63/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

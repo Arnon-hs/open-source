@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Frontend
+AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ numtide/llm-agents.nix: numtide/llm-agents.nix helps add AI capability without s
 
 ### Русский
 
-numtide/llm-agents.nix: open-source проект в категориях AI/ML, Frontend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+numtide/llm-agents.nix: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -65,16 +65,16 @@ numtide/llm-agents.nix：numtide/llm-agents.nix helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 50/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 49/100 |
-| adoption | 62/100 |
-| stars | 65/100 |
 | forks | 53/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 13/100 |
+| outlook | 49/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 62/100 |
+| production | 44/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

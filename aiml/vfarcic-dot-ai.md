@@ -64,16 +64,16 @@ vfarcic/dot-ai：vfarcic/dot-ai helps add AI capability without starting from a 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 43/100 |
-| integration | 78/100 |
-| production | 48/100 |
-| outlook | 41/100 |
-| adoption | 51/100 |
-| stars | 53/100 |
 | forks | 46/100 |
-| recency | 20/100 |
+| stars | 53/100 |
 | topics | 0/100 |
+| outlook | 41/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 51/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Design
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ CitizensFoundation/policy-synth：CitizensFoundation/policy-synth helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 35/100 |
-| integration | 46/100 |
-| production | 41/100 |
-| outlook | 37/100 |
-| adoption | 33/100 |
-| stars | 37/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 37/100 |
 | topics | 0/100 |
+| outlook | 37/100 |
+| quality | 35/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

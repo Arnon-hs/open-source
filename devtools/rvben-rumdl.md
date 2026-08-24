@@ -65,16 +65,16 @@ rvben/rumdl：rvben/rumdl helps engineers save time in daily development and rev
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 58/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 54/100 |
-| adoption | 59/100 |
-| stars | 65/100 |
 | forks | 43/100 |
-| recency | 20/100 |
+| stars | 65/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 58/100 |
+| recency | 20/100 |
+| adoption | 59/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

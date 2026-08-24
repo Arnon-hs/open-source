@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Data
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ Explorer-Dong/wiki：Explorer-Dong/wiki helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 42/100 |
-| adoption | 41/100 |
-| stars | 43/100 |
 | forks | 37/100 |
-| recency | 20/100 |
+| stars | 43/100 |
 | topics | 63/100 |
+| outlook | 42/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

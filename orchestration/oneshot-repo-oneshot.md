@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ oneshot-repo/OneShot：oneshot-repo/OneShot helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 27/100 |
-| stars | 34/100 |
 | forks | 8/100 |
-| recency | 20/100 |
+| stars | 34/100 |
 | topics | 88/100 |
+| outlook | 44/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 27/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -62,16 +62,16 @@ dfrankland/envoluntary：dfrankland/envoluntary may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 37/100 |
-| integration | 30/100 |
-| production | 39/100 |
-| outlook | 35/100 |
-| adoption | 37/100 |
-| stars | 47/100 |
 | forks | 12/100 |
-| recency | 20/100 |
+| stars | 47/100 |
 | topics | 0/100 |
+| outlook | 35/100 |
+| quality | 37/100 |
+| recency | 20/100 |
+| adoption | 37/100 |
+| production | 39/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

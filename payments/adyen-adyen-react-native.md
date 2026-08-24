@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments · Frontend · Mobile
+Payments · Mobile
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ Adyen/adyen-react-native：Adyen/adyen-react-native helps integrate monetization
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 46/100 |
-| outlook | 46/100 |
-| adoption | 40/100 |
-| stars | 39/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 75/100 |
+| outlook | 46/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

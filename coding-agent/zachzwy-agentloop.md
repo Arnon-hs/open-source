@@ -65,6 +65,7 @@ zachzwy/agentloop：zachzwy/agentloop may be useful when its README and activity
 | production | 27/100 |
 | outlook | 26/100 |
 | adoption | 0/100 |
+| categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

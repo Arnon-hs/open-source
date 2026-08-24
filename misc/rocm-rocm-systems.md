@@ -62,16 +62,16 @@ ROCm/rocm-systems：ROCm/rocm-systems may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 39/100 |
-| adoption | 56/100 |
-| stars | 55/100 |
 | forks | 59/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 56/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ rust-lang/crates.io：rust-lang/crates.io may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 46/100 |
-| adoption | 74/100 |
-| stars | 76/100 |
 | forks | 71/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 25/100 |
+| outlook | 46/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

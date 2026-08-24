@@ -65,16 +65,16 @@ imazen/imageflow：imazen/imageflow helps teams reuse service infrastructure ins
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 63/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 54/100 |
-| adoption | 71/100 |
-| stars | 78/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 78/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 71/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

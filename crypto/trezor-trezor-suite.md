@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto · Frontend
+Crypto
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ trezor/trezor-suite: trezor/trezor-suite helps prototype or inspect blockchain w
 
 ### Русский
 
-trezor/trezor-suite: open-source проект в категориях Crypto, Frontend. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+trezor/trezor-suite: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ trezor/trezor-suite：trezor/trezor-suite helps prototype or inspect blockchain 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 51/100 |
-| adoption | 64/100 |
-| stars | 64/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 64/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 51/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -1,0 +1,84 @@
+# qualcomm/ai-hub-apps
+
+[![Stars](https://img.shields.io/github/stars/qualcomm/ai-hub-apps?style=flat-square&color=yellow)](https://github.com/qualcomm/ai-hub-apps/stargazers) [![Forks](https://img.shields.io/github/forks/qualcomm/ai-hub-apps?style=flat-square&color=blue)](https://github.com/qualcomm/ai-hub-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+
+> The Qualcomm® AI Hub apps are a collection of state-of-the-art machine learning models optimized for performance (latency, memory etc.) and ready to deploy on Qualcomm® devices.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 407 |
+| 🍴 **Forks** | 98 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-05-08 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`deeplearning` `demos` `inference` `inference-api` `inference-engine` `machine-learning` `machinelearning` `onnx` `pytorch` `qnn` `tensorflow-lite`
+
+## 🎯 Categories
+
+Backend
+
+## 📝 Summary
+
+### English
+
+The Qualcomm AI Hub apps are an open-source collection of advanced machine learning models, optimized for performance and deployability on Qualcomm devices. These models are engineered to minimize latency and memory usage, making them ideal for real-world applications. By leveraging the AI Hub apps, developers can unlock the full potential of their Qualcomm devices.
+
+### Русский
+
+Резюме:
+
+Коллекция Qualcomm AI Hub apps представляет собой набор передовых машинных обучений, оптимизированных для высокопроизводительных приложений и готовых для развертывания на устройствах Qualcomm. Этот набор включает в себя высокопроизводительные модели машинного обучения, оптимальные для выполнения на устройствах Qualcomm. AI Hub apps предоставляют разработчикам готовые решения для интеграции искусственного интеллекта в свои приложения.
+
+### 中文
+
+qualcomm/ai-hub-apps：qualcomm/ai-hub-apps helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** qualcomm/ai-hub-apps helps teams reuse service infrastructure instead of rebuilding common backend pieces.
+
+**Best use cases**
+
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 407 GitHub stars
+- 98 forks
+- updated 2026-05-08
+- primary language: Python
+- 11 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 50/100 |
+| stars | 56/100 |
+| topics | 100/100 |
+| outlook | 52/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/qualcomm/ai-hub-apps) · [← Back to Backend](./README.md)</sub>

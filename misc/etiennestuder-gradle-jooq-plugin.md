@@ -62,16 +62,16 @@ etiennestuder/gradle-jooq-plugin：etiennestuder/gradle-jooq-plugin may be usefu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 39/100 |
-| adoption | 55/100 |
-| stars | 58/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 0/100 |
+| outlook | 39/100 |
+| quality | 45/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

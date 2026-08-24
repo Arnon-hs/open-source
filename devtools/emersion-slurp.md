@@ -66,16 +66,16 @@ emersion/slurp：emersion/slurp helps engineers save time in daily development a
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 46/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 60/100 |
-| stars | 66/100 |
 | forks | 47/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 38/100 |
+| outlook | 47/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

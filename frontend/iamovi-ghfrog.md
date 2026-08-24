@@ -62,16 +62,16 @@ I Built a Browser App Store That Fetches GitHub Releases：I Built a Browser App
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 25/100 |
-| integration | 30/100 |
-| production | 32/100 |
-| outlook | 29/100 |
-| adoption | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 29/100 |
+| quality | 25/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 32/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
 
 ---

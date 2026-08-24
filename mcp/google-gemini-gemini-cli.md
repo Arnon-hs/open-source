@@ -1,6 +1,6 @@
 # google-gemini/gemini-cli
 
-[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&color=yellow)](https://github.com/google-gemini/gemini-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-cli?style=flat-square&color=blue)](https://github.com/google-gemini/gemini-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-98%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&color=yellow)](https://github.com/google-gemini/gemini-cli/stargazers) [![Forks](https://img.shields.io/github/forks/google-gemini/gemini-cli?style=flat-square&color=blue)](https://github.com/google-gemini/gemini-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source AI agent that brings the power of Gemini directly into your terminal.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 106k |
-| 🍴 **Forks** | 14.2k |
+| ⭐ **Stars** | 103.3k |
+| 🍴 **Forks** | 13.5k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | 2026-07-13 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,15 @@ MCP · AI/ML · Backend · DevTools
 
 ### English
 
-google-gemini/gemini-cli: google-gemini/gemini-cli helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+google-gemini/gemini-cli: google-gemini/gemini-cli helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-google-gemini/gemini-cli: open-source проект в категориях MCP, AI/ML, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+google-gemini/gemini-cli: open-source проект в категориях MCP, AI/ML, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-google-gemini/gemini-cli：google-gemini/gemini-cli helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+google-gemini/gemini-cli：google-gemini/gemini-cli helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ google-gemini/gemini-cli：google-gemini/gemini-cli helps connect AI assistants 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 105965 GitHub stars
-- 14248 forks
-- updated 2026-07-13
+- 103343 GitHub stars
+- 13531 forks
+- updated 2026-05-07
 - primary language: TypeScript
 - 7 topics
 
@@ -65,18 +65,18 @@ google-gemini/gemini-cli：google-gemini/gemini-cli helps connect AI assistants 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 98/100 |
-| integration | 100/100 |
-| production | 91/100 |
-| outlook | 99/100 |
-| adoption | 100/100 |
-| stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| stars | 100/100 |
 | topics | 88/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 100/100 |
+| production | 64/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-13 · [View on GitHub](https://github.com/google-gemini/gemini-cli) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/google-gemini/gemini-cli) · [← Back to Mcp](./README.md)</sub>

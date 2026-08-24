@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Education
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ xiaolai/claudepot-app：xiaolai/claudepot-app helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 30/100 |
-| production | 42/100 |
-| outlook | 40/100 |
-| adoption | 34/100 |
-| stars | 38/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 38/100 |
 | topics | 63/100 |
+| outlook | 40/100 |
+| quality | 44/100 |
+| recency | 20/100 |
+| adoption | 34/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

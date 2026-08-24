@@ -65,16 +65,16 @@ github/spec-kit：github/spec-kit helps add AI capability without starting from 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 78/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 62/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 98/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 88/100 |
+| outlook | 62/100 |
+| quality | 78/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -63,16 +63,16 @@ Rust-GPU/rust-gpu：Rust-GPU/rust-gpu may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 64/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 51/100 |
-| adoption | 68/100 |
-| stars | 74/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 88/100 |
+| outlook | 51/100 |
+| quality | 64/100 |
+| recency | 20/100 |
+| adoption | 68/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

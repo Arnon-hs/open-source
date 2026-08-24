@@ -63,16 +63,16 @@ deepmodeling/deepmd-kit：deepmodeling/deepmd-kit may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 70/100 |
-| stars | 70/100 |
 | forks | 70/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 70/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

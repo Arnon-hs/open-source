@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend
+Frontend · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ lin-snow/Ech0: lin-snow/Ech0 helps ship user-facing interfaces with less custom 
 
 ### Русский
 
-lin-snow/Ech0: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+lin-snow/Ech0: open-source проект в категориях Frontend, Database. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ lin-snow/Ech0：lin-snow/Ech0 helps ship user-facing interfaces with less custom
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 65/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 55/100 |
-| adoption | 66/100 |
-| stars | 70/100 |
 | forks | 55/100 |
-| recency | 20/100 |
+| stars | 70/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 65/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 52/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

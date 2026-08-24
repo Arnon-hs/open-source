@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · MCP · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ deeleeramone/PyWry：deeleeramone/PyWry helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 50/100 |
-| integration | 94/100 |
-| production | 53/100 |
-| outlook | 55/100 |
-| adoption | 33/100 |
-| stars | 39/100 |
 | forks | 17/100 |
-| recency | 20/100 |
+| stars | 39/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 33/100 |
+| production | 53/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

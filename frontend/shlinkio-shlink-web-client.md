@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Backend · DevTools
+Frontend · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ shlinkio/shlink-web-client：shlinkio/shlink-web-client helps ship user-facing i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 59/100 |
-| integration | 78/100 |
-| production | 54/100 |
-| outlook | 55/100 |
-| adoption | 54/100 |
-| stars | 55/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 55/100 |
 | topics | 100/100 |
+| outlook | 55/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 54/100 |
+| production | 54/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

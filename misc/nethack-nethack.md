@@ -63,16 +63,16 @@ NetHack/NetHack：NetHack/NetHack may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 74/100 |
-| stars | 76/100 |
 | forks | 69/100 |
-| recency | 20/100 |
+| stars | 76/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 59/100 |
+| recency | 20/100 |
+| adoption | 74/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

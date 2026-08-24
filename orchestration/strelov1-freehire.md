@@ -71,6 +71,7 @@ strelov1/freehire：strelov1/freehire helps turn isolated prompts and tools into
 | production | 72/100 |
 | outlook | 77/100 |
 | adoption | 54/100 |
+| categoryMatchCount | 300/100 |
 | stars | 57/100 |
 | forks | 48/100 |
 | recency | 100/100 |

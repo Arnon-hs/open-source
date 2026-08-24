@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-AI/ML · Frontend · DevTools
+AI/ML
 
 ## 📝 Summary
 
@@ -64,16 +64,16 @@ DingTalk-Real-AI/dingtalk-workspace-cli：DingTalk-Real-AI/dingtalk-workspace-cl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 48/100 |
-| outlook | 51/100 |
-| adoption | 64/100 |
-| stars | 69/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 69/100 |
 | topics | 0/100 |
+| outlook | 51/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 48/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

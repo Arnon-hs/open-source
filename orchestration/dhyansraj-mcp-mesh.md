@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevOps/Infra
+Orchestration · MCP · AI/ML · DevOps/Infra
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dhyansraj/mcp-mesh：dhyansraj/mcp-mesh helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 48/100 |
-| integration | 94/100 |
-| production | 53/100 |
-| outlook | 52/100 |
-| adoption | 30/100 |
-| stars | 33/100 |
 | forks | 23/100 |
-| recency | 20/100 |
+| stars | 33/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 30/100 |
+| production | 53/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---

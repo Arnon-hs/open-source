@@ -1,0 +1,79 @@
+# moq-dev/moq
+
+[![Stars](https://img.shields.io/github/stars/moq-dev/moq?style=flat-square&color=yellow)](https://github.com/moq-dev/moq/stargazers) [![Forks](https://img.shields.io/github/forks/moq-dev/moq?style=flat-square&color=blue)](https://github.com/moq-dev/moq/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+
+> Media over QUIC library in Rust+Typescript
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.2k |
+| 🍴 **Forks** | 172 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 46/100 |
+| 🗓️ **Last push** | 2026-05-09 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+Moq is an open‑source library that enables high‑performance media streaming over the QUIC protocol, providing both a Rust core for low‑level networking and a TypeScript wrapper for easy integration into web front‑ends. It abstracts the complexities of QUIC, offering developers a simple API to send and receive audio, video, or other media streams with low latency and built‑in congestion control. The project targets frontend applications that need reliable, real‑time media delivery without relying on traditional TCP‑based solutions.
+
+### Русский
+
+**moq-dev/moq** — это кросс‑платформенная библиотека, реализующая протокол Media over QUIC (MOQ) на стеке Rust + TypeScript. Она позволяет быстро и надёжно передавать аудио‑ и видеопотоки с минимальной задержкой, используя преимущества QUIC‑соединений. Проект ориентирован на фронтенд‑разработчиков, которым нужен современный и лёгкий способ интеграции потокового медиа в веб‑приложения.
+
+### 中文
+
+moq-dev/moq：moq-dev/moq may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** moq-dev/moq may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1217 GitHub stars
+- 172 forks
+- updated 2026-05-09
+- primary language: Rust
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 56/100 |
+| stars | 66/100 |
+| topics | 0/100 |
+| outlook | 41/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/moq-dev/moq) · [← Back to Misc](./README.md)</sub>

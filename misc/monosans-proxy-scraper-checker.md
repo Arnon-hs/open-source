@@ -63,16 +63,16 @@ monosans/proxy-scraper-checker：monosans/proxy-scraper-checker may be useful wh
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 47/100 |
-| adoption | 65/100 |
-| stars | 66/100 |
 | forks | 61/100 |
-| recency | 20/100 |
+| stars | 66/100 |
 | topics | 50/100 |
+| outlook | 47/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

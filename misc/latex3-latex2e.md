@@ -63,16 +63,16 @@ latex3/latex2e：latex3/latex2e may be useful when its README and activity match
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 69/100 |
-| stars | 72/100 |
 | forks | 62/100 |
-| recency | 20/100 |
+| stars | 72/100 |
 | topics | 25/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

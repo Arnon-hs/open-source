@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Data
+Orchestration · MCP · Knowledge/RAG · AI/ML · Data
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ airbytehq/airbyte-agent-sdk: airbytehq/airbyte-agent-sdk helps turn isolated pro
 
 ### Русский
 
-airbytehq/airbyte-agent-sdk: open-source проект в категориях Orchestration, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+airbytehq/airbyte-agent-sdk: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ airbytehq/airbyte-agent-sdk：airbytehq/airbyte-agent-sdk helps turn isolated pr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 78/100 |
-| production | 52/100 |
-| outlook | 57/100 |
-| adoption | 39/100 |
-| stars | 44/100 |
 | forks | 26/100 |
-| recency | 20/100 |
+| stars | 44/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 39/100 |
+| production | 52/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

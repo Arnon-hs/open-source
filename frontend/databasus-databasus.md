@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Frontend · Data · DevOps/Infra
+Frontend · Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ databasus/databasus: databasus/databasus helps ship user-facing interfaces with 
 
 ### Русский
 
-databasus/databasus: open-source проект в категориях Frontend, Data, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+databasus/databasus: open-source проект в категориях Frontend, Database, DevOps/Infra. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ databasus/databasus：databasus/databasus helps ship user-facing interfaces with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 69/100 |
-| integration | 78/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 77/100 |
-| stars | 81/100 |
 | forks | 64/100 |
-| recency | 20/100 |
+| stars | 81/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 69/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

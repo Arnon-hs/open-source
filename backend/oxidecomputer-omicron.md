@@ -69,16 +69,16 @@ oxidecomputer/omicron：oxidecomputer/omicron helps teams reuse service infrastr
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 47/100 |
-| integration | 46/100 |
-| production | 45/100 |
-| outlook | 44/100 |
-| adoption | 55/100 |
-| stars | 58/100 |
 | forks | 48/100 |
-| recency | 20/100 |
+| stars | 58/100 |
 | topics | 13/100 |
+| outlook | 44/100 |
+| quality | 47/100 |
+| recency | 20/100 |
+| adoption | 55/100 |
+| production | 45/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

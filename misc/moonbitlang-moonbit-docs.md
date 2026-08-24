@@ -63,16 +63,16 @@ moonbitlang/moonbit-docs：moonbitlang/moonbit-docs may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 51/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 43/100 |
-| adoption | 66/100 |
-| stars | 71/100 |
 | forks | 51/100 |
-| recency | 20/100 |
+| stars | 71/100 |
 | topics | 13/100 |
+| outlook | 43/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

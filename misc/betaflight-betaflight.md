@@ -63,16 +63,16 @@ betaflight/betaflight：betaflight/betaflight may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 67/100 |
-| integration | 30/100 |
-| production | 50/100 |
-| outlook | 52/100 |
-| adoption | 87/100 |
-| stars | 86/100 |
 | forks | 89/100 |
-| recency | 20/100 |
+| stars | 86/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 67/100 |
+| recency | 20/100 |
+| adoption | 87/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Backend
+Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ RyjoxTechnologies/Octopoda-OS：RyjoxTechnologies/Octopoda-OS helps turn isolate
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 59/100 |
-| adoption | 48/100 |
-| stars | 51/100 |
 | forks | 41/100 |
-| recency | 20/100 |
+| stars | 51/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 57/100 |
+| recency | 20/100 |
+| adoption | 48/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

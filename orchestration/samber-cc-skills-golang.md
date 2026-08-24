@@ -65,16 +65,16 @@ samber/cc-skills-golang：samber/cc-skills-golang helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 63/100 |
-| integration | 78/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 63/100 |
-| stars | 68/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 63/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

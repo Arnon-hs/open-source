@@ -65,16 +65,16 @@ gronxb/hot-updater：gronxb/hot-updater helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 62/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 53/100 |
-| adoption | 63/100 |
-| stars | 67/100 |
 | forks | 54/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 88/100 |
+| outlook | 53/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 100/100 |
 
 ---

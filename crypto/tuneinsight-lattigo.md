@@ -65,16 +65,16 @@ tuneinsight/lattigo：tuneinsight/lattigo helps prototype or inspect blockchain 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 55/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 45/100 |
-| adoption | 65/100 |
-| stars | 67/100 |
 | forks | 58/100 |
-| recency | 20/100 |
+| stars | 67/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 65/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

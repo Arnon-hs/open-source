@@ -63,16 +63,16 @@ coalton-lang/coalton：coalton-lang/coalton may be useful when its README and ac
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 54/100 |
-| integration | 30/100 |
-| production | 46/100 |
-| outlook | 45/100 |
-| adoption | 63/100 |
-| stars | 68/100 |
 | forks | 50/100 |
-| recency | 20/100 |
+| stars | 68/100 |
 | topics | 38/100 |
+| outlook | 45/100 |
+| quality | 54/100 |
+| recency | 20/100 |
+| adoption | 63/100 |
+| production | 46/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

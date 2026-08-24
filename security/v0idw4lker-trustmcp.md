@@ -69,6 +69,7 @@ v0idw4lker/trustmcp：v0idw4lker/trustmcp may be useful when its README and acti
 | production | 68/100 |
 | outlook | 68/100 |
 | adoption | 5/100 |
+| categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |

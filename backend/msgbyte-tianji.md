@@ -65,16 +65,16 @@ msgbyte/tianji：msgbyte/tianji helps teams reuse service infrastructure instead
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 78/100 |
-| production | 57/100 |
-| outlook | 59/100 |
-| adoption | 69/100 |
-| stars | 74/100 |
 | forks | 57/100 |
-| recency | 20/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 69/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

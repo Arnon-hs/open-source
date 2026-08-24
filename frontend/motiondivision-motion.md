@@ -65,16 +65,16 @@ motiondivision/motion：motiondivision/motion helps ship user-facing interfaces 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
-| adoption | 90/100 |
-| stars | 96/100 |
 | forks | 77/100 |
-| recency | 20/100 |
+| stars | 96/100 |
 | topics | 75/100 |
+| outlook | 56/100 |
+| quality | 72/100 |
+| recency | 20/100 |
+| adoption | 90/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---

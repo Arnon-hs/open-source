@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments
+Payments · Education
 
 ## 📝 Summary
 
@@ -65,16 +65,16 @@ dwyl/learn-payment-processing：dwyl/learn-payment-processing helps integrate mo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 44/100 |
-| outlook | 43/100 |
-| adoption | 31/100 |
-| stars | 37/100 |
 | forks | 15/100 |
-| recency | 20/100 |
+| stars | 37/100 |
 | topics | 100/100 |
+| outlook | 43/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 31/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 100/100 |
 
 ---

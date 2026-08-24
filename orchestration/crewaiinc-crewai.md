@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML
+Orchestration · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ crewAIInc/crewAI: crewAIInc/crewAI helps turn isolated prompts and tools into re
 
 ### Русский
 
-crewAIInc/crewAI: open-source проект в категориях Orchestration, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+crewAIInc/crewAI: open-source проект в категориях Orchestration, Automation, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,16 +65,16 @@ crewAIInc/crewAI：crewAIInc/crewAI helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 74/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 63/100 |
-| adoption | 99/100 |
-| stars | 100/100 |
 | forks | 96/100 |
-| recency | 20/100 |
+| stars | 100/100 |
 | topics | 63/100 |
+| outlook | 63/100 |
+| quality | 74/100 |
+| recency | 20/100 |
+| adoption | 99/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---
